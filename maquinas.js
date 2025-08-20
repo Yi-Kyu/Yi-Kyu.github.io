@@ -5,42 +5,42 @@ document.addEventListener("DOMContentLoaded", () => {
     const maquinasDB = [
       {
         id: 1,
-        nombre: "Lame",
+        nombre: "Cat",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Medium",
         os: "Linux",
         ip: "10.10.10.3",
         fecha: "2023-01-15",
         categorias: ["smb", "privesc"],
-        enlace: "https://app.hackthebox.com/machines/Lame",
+        enlace: "https://app.hackthebox.com/machines/Cat",
       },
       {
         id: 2,
-        nombre: "Blue",
+        nombre: "Rabbit",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Insane",
         os: "Windows",
-        ip: "10.10.10.40",
+        ip: "10.10.10.71",
         fecha: "2023-01-20",
-        categorias: ["eternalblue", "ms17-010"],
-        enlace: "https://app.hackthebox.com/machines/Blue",
+        categorias: ["Payload creation", "SQL injection"],
+        enlace: "https://app.hackthebox.com/machines/Rabbit",
       },
       {
         id: 3,
-        nombre: "Legacy",
+        nombre: "Blackfield",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Hard",
         os: "Windows",
         ip: "10.10.10.4",
         fecha: "2023-01-25",
         categorias: ["smb", "ms08-067"],
-        enlace: "https://app.hackthebox.com/machines/Legacy",
+        enlace: "https://app.hackthebox.com/machines/Blackfield",
       },
       {
         id: 4,
         nombre: "RootMe",
         plataforma: "tryhackme",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "10.10.10.108",
         fecha: "2023-02-05",
@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 5,
         nombre: "Vulnversity",
         plataforma: "tryhackme",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "10.10.10.109",
         fecha: "2023-02-10",
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 6,
         nombre: "Metasploitable 2",
         plataforma: "vulnhub",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "192.168.1.100",
         fecha: "2023-02-15",
@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 7,
         nombre: "Nibbles",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "10.10.10.75",
         fecha: "2023-02-20",
@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 8,
         nombre: "Beep",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "10.10.10.7",
         fecha: "2023-02-25",
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 9,
         nombre: "Devel",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Windows",
         ip: "10.10.10.5",
         fecha: "2023-03-05",
@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 10,
         nombre: "Popcorn",
         plataforma: "hackthebox",
-        dificultad: "media",
+        dificultad: "Medium",
         os: "Linux",
         ip: "10.10.10.6",
         fecha: "2023-03-10",
@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 11,
         nombre: "Brainfuck",
         plataforma: "hackthebox",
-        dificultad: "insane",
+        dificultad: "Insane",
         os: "Linux",
         ip: "10.10.10.17",
         fecha: "2023-03-15",
@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", () => {
         id: 12,
         nombre: "Shocker",
         plataforma: "hackthebox",
-        dificultad: "facil",
+        dificultad: "Easy",
         os: "Linux",
         ip: "10.10.10.56",
         fecha: "2023-03-20",
@@ -179,9 +179,9 @@ document.addEventListener("DOMContentLoaded", () => {
     function aplicarFiltros() {
       console.log("Aplicando filtros...")
   
-      const plataforma = filtroPlataforma ? filtroPlataforma.value : "todas"
-      const dificultad = filtroDificultad ? filtroDificultad.value : "todas"
-      const categoria = filtroCategoria ? filtroCategoria.value : "todas"
+      const plataforma = filtroPlataforma ? filtroPlataforma.value : "All"
+      const dificultad = filtroDificultad ? filtroDificultad.value : "All"
+      const categoria = filtroCategoria ? filtroCategoria.value : "All"
       const busqueda = busquedaMaquina ? busquedaMaquina.value.toLowerCase().trim() : ""
   
       // Filtrar las máquinas según los criterios seleccionados
@@ -236,7 +236,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (maquinasPagina.length === 0) {
         maquinasGrid.innerHTML = `
           <div class="no-maquinas">
-            <p>No se encontraron máquinas que coincidan con los filtros seleccionados.</p>
+            <p>No machines found matching the selected filters.</p>
           </div>
         `
         return
@@ -257,7 +257,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="maquina-body">
             <div class="maquina-info">
               <div class="maquina-info-item">
-                <span class="maquina-info-label">Sistema:</span>
+                <span class="maquina-info-label">Sistem:</span>
                 <span class="maquina-info-valor">${maquina.os}</span>
               </div>
               <div class="maquina-info-item">
@@ -265,7 +265,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <span class="maquina-info-valor">${maquina.ip}</span>
               </div>
               <div class="maquina-info-item">
-                <span class="maquina-info-label">Dificultad:</span>
+                <span class="maquina-info-label">Difficulty:</span>
                 <div class="maquina-dificultad">
                   <div class="dificultad-barra dificultad-${maquina.dificultad}">
                     <div class="dificultad-nivel"></div>
@@ -283,7 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
           </div>
           <div class="maquina-footer">
             <span class="maquina-fecha">${formatearFecha(maquina.fecha)}</span>
-            <a href="${maquina.enlace}" class="maquina-enlace" target="_blank">Ver detalles <i class="fas fa-external-link-alt"></i></a>
+            <a href="${maquina.enlace}" class="maquina-enlace" target="_blank">View details <i class="fas fa-external-link-alt"></i></a>
           </div>
         `
   
@@ -305,7 +305,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
       // Actualizar texto de página actual
       if (paginaActual) {
-        paginaActual.textContent = `Página ${paginaActualNum} de ${totalPaginas || 1}`
+        paginaActual.textContent = `Page ${paginaActualNum} of ${totalPaginas || 1}`
       }
   
       // Habilitar/deshabilitar botones de paginación
@@ -361,10 +361,10 @@ document.addEventListener("DOMContentLoaded", () => {
     // Función para formatear la dificultad
     function formatearDificultad(dificultad) {
       const dificultades = {
-        facil: "Fácil",
-        media: "Media",
-        dificil: "Difícil",
-        insane: "Insane",
+        Easy: "Easy",
+        Medium: "Medium",
+        Hard: "Hard",
+        Insane: "Insane",
       }
       return dificultades[dificultad] || dificultad
     }
@@ -395,4 +395,87 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("Inicialización de la sección de máquinas completada")
   })
   
-  
+  // home-news.js
+document.addEventListener("DOMContentLoaded", () => {
+  // Dataset (ejemplo) — reemplaza con tus posts reales
+  const newsDB = [
+    {
+      id: 1,
+      title: "Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware",
+      date: "2025-08-16",
+      tag: "Vulnerablity",
+      snippet: "The threat actor known as EncryptHub is continuing to exploit a now-patched security flaw impacting Microsoft Windows to deliver malicious payloads.",
+      image: "Microsoft.jpg",
+      link: "https://yi-kyu-top-files.gitbook.io/topfiles/"
+    },
+    {
+      id: 2,
+      title: "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
+      date: "2025-08-15",
+      tag: "Vulnerability",
+      snippet: "Cisco has released security updates to address a maximum-severity security flaw in Secure.",
+      image: "cisco.jpg",
+      link: "https://yi-kyu-top-files.gitbook.io/topfiles/"
+    },
+    {
+      id: 3,
+      title: "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+      date: "2025-08-05",
+      tag: "Server Security",
+      snippet: "Multiple HTTP/2 implementations have been found susceptible to a new attack technique.",
+      image: "servers.jpeg",
+      link: "https://yi-kyu-top-files.gitbook.io/topfiles/"
+    },
+    {
+      id: 4,
+      title: "Zero Trust + AI: Privacy in the Age of Agentic AI",
+      date: "2025-08-17",
+      tag: "AI Security",
+      snippet: "We used to think of privacy as a perimeter problem.",
+      image: "AIzerotrust.png",
+      link: "https://yi-kyu-top-files.gitbook.io/topfiles/"
+    }
+  ]
+
+  // HERO
+  const heroEl = document.getElementById("news-hero")
+  const heroImg = heroEl?.querySelector("img")
+  const heroTitle = heroEl?.querySelector(".news-hero-title")
+  const heroSnippet = heroEl?.querySelector(".news-hero-snippet")
+
+  if (newsDB.length && heroEl && heroImg && heroTitle && heroSnippet) {
+    const featured = newsDB[0]
+    heroEl.href = featured.link
+    heroImg.src = featured.image
+    heroImg.alt = featured.title
+    heroTitle.textContent = featured.title
+    heroSnippet.textContent = featured.snippet
+  }
+
+  // GRID
+  const grid = document.getElementById("news-grid")
+  if (grid) {
+    grid.innerHTML = ""
+    newsDB.slice(1).forEach(item => {
+      const card = document.createElement("a")
+      card.className = "news-card"
+      card.href = item.link
+      card.target = "_blank"
+      card.setAttribute("aria-label", item.title)
+
+      card.innerHTML = `
+        <img src="${item.image}" alt="${item.title}" loading="lazy">
+        <div class="news-card-body">
+          <div class="news-card-meta">
+            <span class="news-tag">${item.tag}</span>
+            <span>${item.date}</span>
+          </div>
+          <h3 class="news-card-title">${item.title}</h3>
+          <p class="news-card-snippet">${item.snippet}</p>
+          <span class="btn-proyecto">Read More</span>
+        </div>
+      `
+      grid.appendChild(card)
+    })
+  }
+})
