@@ -1,0 +1,420 @@
+/* ===================================================================
+   RESPONSIVE STYLESHEET v2 (agresivo)
+   - Cargar DESPUÉS de style.css.
+   - Excluye totalmente la sección "Latest Cybersecurity News"
+     (#inicio, .news-hero, .news-grid, .news-card, .news-badge, ...).
+   - Usa !important en reglas clave de layout para ganarle a style.css
+     cuando haya conflicto de especificidad / orden.
+
+   DIAGNÓSTICO:
+   Se pinta una pequeña etiqueta en la esquina superior izquierda con
+   el breakpoint activo (XL / L / T / M / S / XS). Si la ves, el archivo
+   está cargando. Si NO la ves, el <link> está mal puesto o el archivo
+   no existe en la ruta correcta. Una vez confirmado, puedes borrar el
+   bloque "DIAGNÓSTICO" entero.
+   =================================================================== */
+
+/* ---------- DIAGNÓSTICO (bórralo cuando confirmes) ---------- */
+body::before {
+  content: "RESP OK · D";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  background: #00cc66;
+  color: #000;
+  font: 700 10px/1 "Fira Code", monospace;
+  padding: 3px 7px;
+  border-bottom-right-radius: 4px;
+  pointer-events: none;
+  opacity: .9;
+}
+
+/* ---------- Base fluida ---------- */
+html,
+body {
+  overflow-x: hidden !important;
+}
+html {
+  max-width: 100vw !important;
+}
+
+img,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+section,
+.marco,
+.contenido,
+.contenedor,
+.filtros-maquinas,
+.maquinas-grid,
+.blog-container,
+form,
+.header-content,
+.footer-content,
+.footer-links {
+  box-sizing: border-box !important;
+  max-width: 100% !important;
+}
+
+/* ---------- Contenedores principales fluidos ---------- */
+#maquinas-completadas .contenedor {
+  width: 92% !important;
+  max-width: 1300px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+#proyectos .marco,
+#contacto .marco,
+#blog .marco {
+  width: 92% !important;
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* =====================================================
+   DESKTOP GRANDE ≥ 1400px
+   ===================================================== */
+@media (min-width: 1400px) {
+  body::before { content: "RESP OK · XL"; background: #66ccff; }
+
+  .maquinas-grid   { grid-template-columns: repeat(4, 1fr) !important; }
+  .blog-container  { grid-template-columns: repeat(3, 1fr) !important; }
+}
+
+/* =====================================================
+   LAPTOP ≤ 1200px
+   ===================================================== */
+@media (max-width: 1200px) {
+  body::before { content: "RESP OK · L"; background: #00cc66; }
+
+  .maquinas-grid { grid-template-columns: repeat(3, 1fr) !important; }
+}
+
+/* =====================================================
+   TABLET ≤ 1024px
+   ===================================================== */
+@media (max-width: 1024px) {
+  body::before { content: "RESP OK · T"; background: #ffcc00; }
+
+  main { padding-top: 150px !important; }
+
+  /* Header */
+  header { padding: 15px 20px !important; }
+  .header-content {
+    gap: 15px !important;
+    margin-left: 10px !important;
+    width: 100% !important;
+  }
+  .header-image { width: 80px !important; height: 80px !important; }
+  header h1 { font-size: 2em !important; }
+  header p { font-size: 0.95em !important; }
+
+  /* Secciones */
+  section { margin-bottom: 60px !important; }
+  .marco { padding: 25px 20px !important; }
+  .contenido h2 { font-size: 1.75em !important; }
+
+  /* Máquinas */
+  .maquinas-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 15px !important;
+  }
+
+  /* Proyectos */
+  .proyecto { padding: 18px !important; }
+
+  /* Blog */
+  .blog-container { grid-template-columns: repeat(2, 1fr) !important; }
+}
+
+/* =====================================================
+   MÓVIL ≤ 768px
+   ===================================================== */
+@media (max-width: 768px) {
+  body::before { content: "RESP OK · M"; background: #ff6600; color: #000; }
+
+  main { padding-top: 110px !important; }
+
+  /* Header compacto en fila */
+  header { padding: 10px 15px !important; }
+  .header-content {
+    flex-direction: row !important;
+    align-items: center !important;
+    text-align: left !important;
+    gap: 12px !important;
+    margin-left: 5px !important;
+    width: auto !important;
+  }
+  .header-text {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 2px !important;
+  }
+  .header-image {
+    width: 55px !important;
+    height: 55px !important;
+    flex-shrink: 0 !important;
+  }
+  header h1 { font-size: 1.5em !important; }
+  header p  { font-size: 0.8em !important; }
+
+  /* Hamburguesa */
+  .hamburger-menu {
+    top: 15px !important;
+    right: 15px !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  /* Menú lateral */
+  .menu-panel { width: 85% !important; }
+
+  /* Secciones */
+  section { margin-bottom: 40px !important; }
+  .marco { padding: 20px 15px !important; border-radius: 8px !important; }
+  #proyectos .marco,
+  #contacto .marco,
+  #blog .marco {
+    width: 94% !important;
+    max-width: 100% !important;
+  }
+  #maquinas-completadas .contenedor { width: 94% !important; }
+  .contenido h2 { font-size: 1.4em !important; }
+  .contenido p  { font-size: 0.95em !important; }
+
+  /* Máquinas */
+  #maquinas-completadas { padding: 30px 0 !important; }
+  .maquinas-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+  .filtros-maquinas {
+    flex-direction: column !important;
+    gap: 10px !important;
+    padding: 12px !important;
+  }
+  .filtro-grupo {
+    width: 100% !important;
+    min-width: 0 !important;
+  }
+  .filtro-select,
+  .filtro-input { width: 100% !important; }
+  .contador-maquinas { text-align: center !important; }
+  .paginacion-maquinas {
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    justify-content: center !important;
+  }
+
+  /* Proyectos */
+  .proyecto { padding: 15px !important; }
+  .proyecto-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 10px !important;
+  }
+  .proyecto-tags { margin-bottom: 5px !important; }
+  .proyecto-links {
+    flex-direction: column !important;
+    gap: 8px !important;
+    width: 100% !important;
+  }
+
+  /* Botones solo DENTRO de proyecto/blog (no tocar los de #inicio/news) */
+  .proyecto-links .btn-proyecto,
+  .blog-contenido .btn-proyecto {
+    width: 100% !important;
+    text-align: center !important;
+    justify-content: center !important;
+    box-sizing: border-box !important;
+  }
+
+  /* Blog */
+  .blog-container {
+    grid-template-columns: 1fr !important;
+    width: 100% !important;
+    gap: 20px !important;
+  }
+  .blog-contenido { padding: 15px !important; }
+  .blog-contenido h3 { font-size: 1.05em !important; }
+  .blog-tags { justify-content: center !important; }
+
+  /* Contacto */
+  .contacto-info { text-align: center !important; }
+  .contacto-metodos {
+    flex-direction: column !important;
+    gap: 12px !important;
+    align-items: center !important;
+  }
+  form {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .btn-enviar {
+    width: 100% !important;
+    padding: 12px 20px !important;
+  }
+
+  /* Footer */
+  footer { padding: 25px 15px !important; }
+  .footer-content {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    gap: 25px !important;
+  }
+  .footer-links {
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 25px !important;
+    width: 100% !important;
+  }
+  .footer-nav ul { text-align: center !important; }
+  .social-links  { justify-content: center !important; }
+}
+
+/* =====================================================
+   MÓVIL PEQUEÑO ≤ 480px
+   ===================================================== */
+@media (max-width: 480px) {
+  body::before { content: "RESP OK · S"; background: #cc0066; color: #fff; }
+
+  main { padding-top: 95px !important; }
+
+  /* Header */
+  header { padding: 10px 12px !important; }
+  .header-content { gap: 10px !important; margin-left: 0 !important; }
+  .header-image { width: 48px !important; height: 48px !important; }
+  header h1 { font-size: 1.3em !important; }
+  header p  { font-size: 0.72em !important; }
+
+  /* Hamburguesa */
+  .hamburger-menu {
+    top: 10px !important; right: 10px !important;
+    width: 36px !important; height: 36px !important;
+  }
+  .hamburger-line { width: 20px !important; }
+
+  /* Menú */
+  .menu-panel { width: 100% !important; }
+  .menu-section { padding: 0 15px !important; }
+
+  /* Secciones */
+  section { margin-bottom: 32px !important; }
+  .marco { padding: 15px 12px !important; }
+  .contenido h2 { font-size: 1.25em !important; }
+  .contenido p  { font-size: 0.9em !important; }
+
+  /* Máquinas */
+  #maquinas-completadas h2.titulo-seccion { font-size: 1.35rem !important; }
+  #maquinas-completadas p.descripcion-seccion { font-size: 0.8rem !important; }
+  .maquina-header { padding: 8px 10px !important; }
+  .maquina-nombre { font-size: 0.9rem !important; }
+  .maquina-plataforma { font-size: 0.65rem !important; padding: 2px 6px !important; }
+  .maquina-body { padding: 8px 10px !important; }
+  .maquina-info-item { font-size: 0.75rem !important; }
+  .maquina-footer { padding: 8px 10px !important; }
+  .maquina-fecha { font-size: 0.7rem !important; }
+  .maquina-enlace { font-size: 0.75rem !important; }
+  .btn-pagina { padding: 6px 10px !important; font-size: 0.75rem !important; }
+  #pagina-actual { font-size: 0.75rem !important; }
+
+  /* Proyectos */
+  .proyecto { padding: 12px !important; }
+  .proyecto h3 { font-size: 1.05em !important; }
+  .proyecto p  { font-size: 0.85em !important; }
+  .tag { font-size: 0.7em !important; padding: 2px 6px !important; }
+
+  /* Blog */
+  .blog-contenido { padding: 12px !important; }
+  .blog-contenido h3 { font-size: 0.95em !important; }
+  .blog-contenido p  { font-size: 0.8em  !important; }
+  .blog-meta {
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    font-size: 0.75em !important;
+  }
+  .blog-fecha { padding: 4px 8px !important; }
+  .blog-fecha .dia { font-size: 1em  !important; }
+  .blog-fecha .mes { font-size: 0.7em !important; }
+
+  /* Contacto */
+  .contacto-metodo {
+    font-size: 0.88em !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+  }
+  form label { font-size: 0.88em !important; }
+  form input,
+  form textarea {
+    padding: 8px !important;
+    font-size: 0.88em !important;
+  }
+
+  /* Footer */
+  footer { padding: 20px 12px !important; }
+  .footer-logo h3 { font-size: 1.2em !important; }
+  .footer-logo p  { font-size: 0.85em !important; }
+  .footer-nav h4,
+  .footer-social h4 { font-size: 1em !important; }
+  .footer-nav ul li { margin-bottom: 6px !important; }
+  .footer-nav ul li a { font-size: 0.88em !important; }
+  .footer-bottom  { font-size: 0.85em !important; }
+  .footer-credits { font-size: 0.78em !important; }
+  .social-link { width: 36px !important; height: 36px !important; }
+}
+
+/* =====================================================
+   MÓVIL MUY PEQUEÑO ≤ 360px
+   ===================================================== */
+@media (max-width: 360px) {
+  body::before { content: "RESP OK · XS"; background: #990033; color: #fff; }
+
+  main { padding-top: 85px !important; }
+
+  header { padding: 8px 10px !important; }
+  .header-image { width: 42px !important; height: 42px !important; }
+  header h1 { font-size: 1.15em !important; }
+  header p  { font-size: 0.65em !important; }
+
+  .marco { padding: 12px 10px !important; }
+  .contenido h2 { font-size: 1.1em !important; }
+
+  .filtros-maquinas { padding: 8px !important; }
+  .filtro-select,
+  .filtro-input {
+    font-size: 0.75rem !important;
+    padding: 6px 8px !important;
+  }
+
+  .paginacion-maquinas { gap: 6px !important; }
+  .btn-pagina {
+    font-size: 0.7rem !important;
+    padding: 5px 8px !important;
+  }
+}
+
+/* =====================================================
+   Accesibilidad táctil: área mínima 40x40 en móvil
+   (no toca botones dentro de #inicio / news)
+   ===================================================== */
+@media (max-width: 768px) {
+  .proyecto-links .btn-proyecto,
+  .blog-contenido .btn-proyecto,
+  .btn-pagina,
+  .btn-enviar,
+  .social-link,
+  .menu-social-button,
+  .menu-link {
+    min-height: 40px;
+  }
+}
