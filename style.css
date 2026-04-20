@@ -3666,10 +3666,18 @@ main.reproductor-minimizado {
 
 #inicio .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  justify-content: center; 
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
 }
+
+@media (max-width: 1024px) {
+  #inicio .news-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  #inicio .news-grid { grid-template-columns: 1fr; }
+}
+
 #inicio .news-card {
   text-decoration: none;  /* quita subrayado por defecto */
   color: inherit;         /* mantiene el color del texto definido en .news-card-title o .news-card-snippet */

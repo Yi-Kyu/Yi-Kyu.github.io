@@ -84,7 +84,7 @@ async function loadNews() {
     const articles = data.articles || [];
     if (!articles.length) return;
     renderHero(articles[0]);
-    renderGrid(articles.slice(1, 7));
+    renderGrid(articles.slice(1, 9));
   } catch (err) {
     console.error('[home-news]', err);
     const grid = document.getElementById('news-grid');
