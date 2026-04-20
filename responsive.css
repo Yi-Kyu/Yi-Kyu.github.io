@@ -1,20 +1,18 @@
 /* ===================================================================
-   RESPONSIVE STYLESHEET v2 (agresivo)
+   RESPONSIVE STYLESHEET v3
    - Cargar DESPUÉS de style.css.
    - Excluye totalmente la sección "Latest Cybersecurity News"
      (#inicio, .news-hero, .news-grid, .news-card, .news-badge, ...).
-   - Usa !important en reglas clave de layout para ganarle a style.css
-     cuando haya conflicto de especificidad / orden.
+   - Usa !important en reglas clave de layout para ganarle a style.css.
+   - v3: más respiración entre tarjetas, padding interno más cómodo,
+     tipografía más legible en móvil.
 
    DIAGNÓSTICO:
-   Se pinta una pequeña etiqueta en la esquina superior izquierda con
-   el breakpoint activo (XL / L / T / M / S / XS). Si la ves, el archivo
-   está cargando. Si NO la ves, el <link> está mal puesto o el archivo
-   no existe en la ruta correcta. Una vez confirmado, puedes borrar el
-   bloque "DIAGNÓSTICO" entero.
+   Etiqueta en la esquina superior izquierda con el breakpoint activo
+   (XL / L / T / M / S / XS). Bórrala cuando confirmes que todo funciona.
    =================================================================== */
 
-/* ---------- DIAGNÓSTICO (bórralo cuando confirmes) ---------- */
+/* ---------- DIAGNÓSTICO ---------- */
 body::before {
   content: "RESP OK · D";
   position: fixed;
@@ -107,7 +105,6 @@ form,
 
   main { padding-top: 150px !important; }
 
-  /* Header */
   header { padding: 15px 20px !important; }
   .header-content {
     gap: 15px !important;
@@ -118,31 +115,30 @@ form,
   header h1 { font-size: 2em !important; }
   header p { font-size: 0.95em !important; }
 
-  /* Secciones */
-  section { margin-bottom: 60px !important; }
-  .marco { padding: 25px 20px !important; }
+  section { margin-bottom: 70px !important; }
+  .marco { padding: 28px 22px !important; }
   .contenido h2 { font-size: 1.75em !important; }
 
-  /* Máquinas */
   .maquinas-grid {
     grid-template-columns: repeat(2, 1fr) !important;
-    gap: 15px !important;
+    gap: 18px !important;
   }
 
-  /* Proyectos */
-  .proyecto { padding: 18px !important; }
+  .proyecto { padding: 20px !important; }
 
-  /* Blog */
-  .blog-container { grid-template-columns: repeat(2, 1fr) !important; }
+  .blog-container {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 22px !important;
+  }
 }
 
 /* =====================================================
-   MÓVIL ≤ 768px
+   MÓVIL ≤ 768px  (clave)
    ===================================================== */
 @media (max-width: 768px) {
   body::before { content: "RESP OK · M"; background: #ff6600; color: #000; }
 
-  main { padding-top: 110px !important; }
+  main { padding-top: 110px !important; padding-bottom: 40px !important; }
 
   /* Header compacto en fila */
   header { padding: 10px 15px !important; }
@@ -178,58 +174,103 @@ form,
   /* Menú lateral */
   .menu-panel { width: 85% !important; }
 
-  /* Secciones */
-  section { margin-bottom: 40px !important; }
-  .marco { padding: 20px 15px !important; border-radius: 8px !important; }
+  /* SECCIONES: separación clara entre bloques */
+  section {
+    margin-bottom: 55px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  /* MARCO: más padding interno, bordes visibles, sombra clara */
+  .marco {
+    padding: 24px 18px !important;
+    border-radius: 10px !important;
+    border: 1px solid rgba(255, 0, 0, 0.3) !important;
+    background-color: rgba(15, 15, 15, 0.85) !important;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.4) !important;
+  }
   #proyectos .marco,
   #contacto .marco,
   #blog .marco {
     width: 94% !important;
     max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
   #maquinas-completadas .contenedor { width: 94% !important; }
-  .contenido h2 { font-size: 1.4em !important; }
-  .contenido p  { font-size: 0.95em !important; }
 
-  /* Máquinas */
-  #maquinas-completadas { padding: 30px 0 !important; }
-  .maquinas-grid {
-    grid-template-columns: 1fr !important;
-    gap: 12px !important;
-  }
+  /* Tipografía de secciones (legible) */
+  .contenido h2 { font-size: 1.55em !important; margin-bottom: 20px !important; }
+  .contenido p  { font-size: 0.95em !important; line-height: 1.6 !important; }
+
+  /* ---------- Máquinas ---------- */
+  #maquinas-completadas { padding: 35px 0 !important; }
+
+  .titulo-seccion { font-size: 1.5rem !important; margin-bottom: 12px !important; }
+  .descripcion-seccion { font-size: 0.9rem !important; margin-bottom: 20px !important; }
+
   .filtros-maquinas {
     flex-direction: column !important;
-    gap: 10px !important;
-    padding: 12px !important;
+    gap: 12px !important;
+    padding: 16px !important;
+    border-radius: 8px !important;
   }
   .filtro-grupo {
     width: 100% !important;
     min-width: 0 !important;
   }
+  .filtro-grupo label { font-size: 0.85rem !important; margin-bottom: 4px !important; }
   .filtro-select,
-  .filtro-input { width: 100% !important; }
-  .contador-maquinas { text-align: center !important; }
+  .filtro-input {
+    width: 100% !important;
+    padding: 10px 12px !important;
+    font-size: 0.9rem !important;
+  }
+  .contador-maquinas {
+    text-align: center !important;
+    margin: 18px 0 !important;
+    font-size: 0.9rem !important;
+  }
+  .maquinas-grid {
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+    margin-bottom: 24px !important;
+  }
+  /* Card de máquina: más aire dentro */
+  .maquina-card { border-radius: 8px !important; }
+  .maquina-header { padding: 12px 14px !important; }
+  .maquina-nombre { font-size: 1rem !important; }
+  .maquina-plataforma { font-size: 0.7rem !important; padding: 3px 8px !important; }
+  .maquina-body { padding: 14px !important; }
+  .maquina-info-item { font-size: 0.85rem !important; margin-bottom: 8px !important; }
+  .maquina-footer { padding: 12px 14px !important; }
+  .maquina-fecha { font-size: 0.78rem !important; }
+  .maquina-enlace { font-size: 0.85rem !important; }
   .paginacion-maquinas {
     flex-wrap: wrap !important;
-    gap: 10px !important;
+    gap: 12px !important;
     justify-content: center !important;
+    margin-top: 22px !important;
   }
 
-  /* Proyectos */
-  .proyecto { padding: 15px !important; }
+  /* ---------- Proyectos (ya se ven bien, solo afino) ---------- */
+  .proyecto {
+    padding: 18px !important;
+    margin: 18px 0 !important;
+  }
   .proyecto-header {
     flex-direction: column !important;
     align-items: flex-start !important;
     gap: 10px !important;
   }
+  .proyecto h3 { font-size: 1.2em !important; }
+  .proyecto p  { font-size: 0.95em !important; }
   .proyecto-tags { margin-bottom: 5px !important; }
   .proyecto-links {
     flex-direction: column !important;
-    gap: 8px !important;
+    gap: 10px !important;
     width: 100% !important;
   }
-
-  /* Botones solo DENTRO de proyecto/blog (no tocar los de #inicio/news) */
   .proyecto-links .btn-proyecto,
   .blog-contenido .btn-proyecto {
     width: 100% !important;
@@ -238,48 +279,69 @@ form,
     box-sizing: border-box !important;
   }
 
-  /* Blog */
+  /* ---------- Blog ---------- */
   .blog-container {
     grid-template-columns: 1fr !important;
     width: 100% !important;
-    gap: 20px !important;
+    gap: 24px !important;
+    margin-bottom: 24px !important;
   }
-  .blog-contenido { padding: 15px !important; }
-  .blog-contenido h3 { font-size: 1.05em !important; }
-  .blog-tags { justify-content: center !important; }
+  .blog-post { border-radius: 10px !important; }
+  .blog-contenido { padding: 18px !important; }
+  .blog-contenido h3 { font-size: 1.15em !important; margin-bottom: 12px !important; }
+  .blog-contenido p { font-size: 0.92em !important; line-height: 1.55 !important; }
+  .blog-meta {
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    font-size: 0.82em !important;
+    margin-bottom: 14px !important;
+  }
+  .blog-tags { justify-content: center !important; gap: 8px !important; }
 
-  /* Contacto */
-  .contacto-info { text-align: center !important; }
+  /* ---------- Contacto ---------- */
+  .contacto-info { text-align: center !important; margin-bottom: 24px !important; }
   .contacto-metodos {
     flex-direction: column !important;
-    gap: 12px !important;
+    gap: 14px !important;
     align-items: center !important;
   }
   form {
     width: 100% !important;
     max-width: 100% !important;
+    gap: 10px !important;
+  }
+  form label {
+    font-size: 0.95em !important;
+    margin-top: 4px !important;
+  }
+  form input,
+  form textarea {
+    padding: 11px !important;
+    font-size: 0.95em !important;
+    margin-bottom: 12px !important;
   }
   .btn-enviar {
     width: 100% !important;
-    padding: 12px 20px !important;
+    padding: 14px 20px !important;
+    font-size: 1em !important;
   }
 
-  /* Footer */
-  footer { padding: 25px 15px !important; }
+  /* ---------- Footer ---------- */
+  footer { padding: 28px 18px !important; }
   .footer-content {
     flex-direction: column !important;
     align-items: center !important;
     text-align: center !important;
-    gap: 25px !important;
+    gap: 28px !important;
   }
   .footer-links {
     flex-direction: column !important;
     align-items: center !important;
-    gap: 25px !important;
+    gap: 28px !important;
     width: 100% !important;
   }
   .footer-nav ul { text-align: center !important; }
-  .social-links  { justify-content: center !important; }
+  .social-links  { justify-content: center !important; gap: 14px !important; }
 }
 
 /* =====================================================
@@ -290,87 +352,77 @@ form,
 
   main { padding-top: 95px !important; }
 
-  /* Header */
   header { padding: 10px 12px !important; }
   .header-content { gap: 10px !important; margin-left: 0 !important; }
   .header-image { width: 48px !important; height: 48px !important; }
   header h1 { font-size: 1.3em !important; }
   header p  { font-size: 0.72em !important; }
 
-  /* Hamburguesa */
   .hamburger-menu {
     top: 10px !important; right: 10px !important;
     width: 36px !important; height: 36px !important;
   }
   .hamburger-line { width: 20px !important; }
 
-  /* Menú */
   .menu-panel { width: 100% !important; }
   .menu-section { padding: 0 15px !important; }
 
-  /* Secciones */
-  section { margin-bottom: 32px !important; }
-  .marco { padding: 15px 12px !important; }
-  .contenido h2 { font-size: 1.25em !important; }
+  section { margin-bottom: 45px !important; }
+  .marco { padding: 20px 14px !important; }
+  .contenido h2 { font-size: 1.35em !important; margin-bottom: 16px !important; }
   .contenido p  { font-size: 0.9em !important; }
 
   /* Máquinas */
-  #maquinas-completadas h2.titulo-seccion { font-size: 1.35rem !important; }
-  #maquinas-completadas p.descripcion-seccion { font-size: 0.8rem !important; }
-  .maquina-header { padding: 8px 10px !important; }
-  .maquina-nombre { font-size: 0.9rem !important; }
-  .maquina-plataforma { font-size: 0.65rem !important; padding: 2px 6px !important; }
-  .maquina-body { padding: 8px 10px !important; }
-  .maquina-info-item { font-size: 0.75rem !important; }
-  .maquina-footer { padding: 8px 10px !important; }
-  .maquina-fecha { font-size: 0.7rem !important; }
-  .maquina-enlace { font-size: 0.75rem !important; }
-  .btn-pagina { padding: 6px 10px !important; font-size: 0.75rem !important; }
-  #pagina-actual { font-size: 0.75rem !important; }
+  .titulo-seccion { font-size: 1.3rem !important; }
+  .descripcion-seccion { font-size: 0.85rem !important; margin-bottom: 16px !important; }
+  .filtros-maquinas { padding: 14px !important; gap: 10px !important; }
+  .filtro-select, .filtro-input { font-size: 0.85rem !important; padding: 9px 11px !important; }
+  .maquinas-grid { gap: 14px !important; }
+  .maquina-nombre { font-size: 0.95rem !important; }
+  .maquina-plataforma { font-size: 0.65rem !important; padding: 2px 7px !important; }
+  .maquina-info-item { font-size: 0.8rem !important; }
+  .maquina-fecha { font-size: 0.72rem !important; }
+  .maquina-enlace { font-size: 0.8rem !important; }
+  .btn-pagina { padding: 8px 12px !important; font-size: 0.8rem !important; }
+  #pagina-actual { font-size: 0.8rem !important; }
 
   /* Proyectos */
-  .proyecto { padding: 12px !important; }
-  .proyecto h3 { font-size: 1.05em !important; }
-  .proyecto p  { font-size: 0.85em !important; }
-  .tag { font-size: 0.7em !important; padding: 2px 6px !important; }
+  .proyecto { padding: 15px !important; }
+  .proyecto h3 { font-size: 1.1em !important; }
+  .proyecto p  { font-size: 0.9em !important; }
+  .tag { font-size: 0.72em !important; padding: 3px 7px !important; }
 
   /* Blog */
-  .blog-contenido { padding: 12px !important; }
-  .blog-contenido h3 { font-size: 0.95em !important; }
-  .blog-contenido p  { font-size: 0.8em  !important; }
-  .blog-meta {
-    flex-wrap: wrap !important;
-    gap: 8px !important;
-    font-size: 0.75em !important;
-  }
-  .blog-fecha { padding: 4px 8px !important; }
-  .blog-fecha .dia { font-size: 1em  !important; }
-  .blog-fecha .mes { font-size: 0.7em !important; }
+  .blog-contenido { padding: 15px !important; }
+  .blog-contenido h3 { font-size: 1.05em !important; }
+  .blog-contenido p  { font-size: 0.88em !important; }
+  .blog-meta { gap: 8px !important; font-size: 0.78em !important; }
+  .blog-fecha { padding: 5px 9px !important; }
 
   /* Contacto */
   .contacto-metodo {
-    font-size: 0.88em !important;
+    font-size: 0.9em !important;
     flex-wrap: wrap !important;
     justify-content: center !important;
   }
-  form label { font-size: 0.88em !important; }
+  form label { font-size: 0.9em !important; }
   form input,
   form textarea {
-    padding: 8px !important;
-    font-size: 0.88em !important;
+    padding: 10px !important;
+    font-size: 0.9em !important;
   }
 
   /* Footer */
-  footer { padding: 20px 12px !important; }
-  .footer-logo h3 { font-size: 1.2em !important; }
-  .footer-logo p  { font-size: 0.85em !important; }
+  footer { padding: 22px 14px !important; }
+  .footer-logo h3 { font-size: 1.25em !important; }
+  .footer-logo p  { font-size: 0.88em !important; }
   .footer-nav h4,
-  .footer-social h4 { font-size: 1em !important; }
-  .footer-nav ul li { margin-bottom: 6px !important; }
-  .footer-nav ul li a { font-size: 0.88em !important; }
-  .footer-bottom  { font-size: 0.85em !important; }
-  .footer-credits { font-size: 0.78em !important; }
-  .social-link { width: 36px !important; height: 36px !important; }
+  .footer-social h4 { font-size: 1.05em !important; }
+  .footer-nav ul li { margin-bottom: 8px !important; }
+  .footer-nav ul li a { font-size: 0.9em !important; }
+  .footer-bottom  { font-size: 0.88em !important; }
+  .footer-credits { font-size: 0.8em !important; }
+  .social-link { width: 38px !important; height: 38px !important; }
 }
 
 /* =====================================================
@@ -379,32 +431,32 @@ form,
 @media (max-width: 360px) {
   body::before { content: "RESP OK · XS"; background: #990033; color: #fff; }
 
-  main { padding-top: 85px !important; }
+  main { padding-top: 88px !important; }
 
   header { padding: 8px 10px !important; }
   .header-image { width: 42px !important; height: 42px !important; }
   header h1 { font-size: 1.15em !important; }
   header p  { font-size: 0.65em !important; }
 
-  .marco { padding: 12px 10px !important; }
-  .contenido h2 { font-size: 1.1em !important; }
+  .marco { padding: 16px 12px !important; }
+  .contenido h2 { font-size: 1.2em !important; }
 
-  .filtros-maquinas { padding: 8px !important; }
+  .filtros-maquinas { padding: 10px !important; }
   .filtro-select,
   .filtro-input {
-    font-size: 0.75rem !important;
-    padding: 6px 8px !important;
+    font-size: 0.78rem !important;
+    padding: 7px 9px !important;
   }
 
-  .paginacion-maquinas { gap: 6px !important; }
+  .paginacion-maquinas { gap: 8px !important; }
   .btn-pagina {
-    font-size: 0.7rem !important;
-    padding: 5px 8px !important;
+    font-size: 0.72rem !important;
+    padding: 6px 9px !important;
   }
 }
 
 /* =====================================================
-   Accesibilidad táctil: área mínima 40x40 en móvil
+   Accesibilidad táctil: área mínima 44x44 en móvil
    (no toca botones dentro de #inicio / news)
    ===================================================== */
 @media (max-width: 768px) {
@@ -415,6 +467,6 @@ form,
   .social-link,
   .menu-social-button,
   .menu-link {
-    min-height: 40px;
+    min-height: 44px;
   }
 }
