@@ -3720,3 +3720,138 @@ main.reproductor-minimizado {
   border: 1px solid rgba(255,0,0,.35);
   padding: 3px 8px; border-radius: 999px;
 }
+/* ===== RESPONSIVE GLOBAL ===== */
+
+/* Tablets (max 1024px) */
+@media (max-width: 1024px) {
+  main { padding-top: 160px; }
+
+  #proyectos .marco,
+  #contacto .marco,
+  #habilidades .marco,
+  #sobre-mi .marco {
+    width: 95%;
+    max-width: 95%;
+  }
+
+  .blog-container {
+    grid-template-columns: repeat(2, 1fr);
+    width: 95%;
+  }
+
+  .maquinas-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  #inicio .news-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Móviles grandes (max 768px) */
+@media (max-width: 768px) {
+  main { padding-top: 130px; }
+
+  .marco { padding: 20px 15px; }
+
+  #proyectos .marco,
+  #contacto .marco,
+  #habilidades .marco,
+  #sobre-mi .marco {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .blog-container {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+
+  .blog-post { width: 100%; }
+
+  .maquinas-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .filtros-maquinas {
+    flex-direction: column;
+  }
+
+  .filtro-grupo { width: 100%; }
+
+  .proyecto-header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .proyecto-links {
+    flex-direction: column;
+  }
+
+  .contacto-metodos {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  form {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 5px;
+  }
+
+  #inicio .news-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #inicio .news-hero img {
+    height: clamp(180px, 40vw, 300px);
+  }
+
+  .menu-panel { width: 85%; }
+}
+
+/* Móviles pequeños (max 480px) */
+@media (max-width: 480px) {
+  main { padding-top: 110px; }
+
+  header h1 { font-size: 1.6em; }
+  header p  { font-size: 0.85em; }
+
+  .header-image {
+    width: 65px;
+    height: 65px;
+  }
+
+  .contenido h2 { font-size: 1.5em; }
+
+  .marco { padding: 15px 10px; }
+
+  .tag { font-size: 0.75em; }
+
+  .btn-proyecto {
+    width: 100%;
+    text-align: center;
+  }
+
+  .paginacion-maquinas {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .footer-nav ul { text-align: center; }
+
+  .social-links { justify-content: center; }
+}
