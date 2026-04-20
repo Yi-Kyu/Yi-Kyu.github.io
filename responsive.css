@@ -1,11 +1,14 @@
 /* ===================================================================
-   RESPONSIVE STYLESHEET v3
+   RESPONSIVE STYLESHEET v4
    - Cargar DESPUÉS de style.css.
-   - Excluye totalmente la sección "Latest Cybersecurity News"
+   - Excluye el comportamiento DE ESCRITORIO de "Latest Cybersecurity News"
      (#inicio, .news-hero, .news-grid, .news-card, .news-badge, ...).
+   - SOLO en móvil (≤768px) se convierte .news-grid en scroll horizontal.
    - Usa !important en reglas clave de layout para ganarle a style.css.
-   - v3: más respiración entre tarjetas, padding interno más cómodo,
-     tipografía más legible en móvil.
+   - v4:
+       * Header en una sola fila en móvil: [IMG] [NOMBRE] [SUBTITULO]
+       * Más respiración entre el header y la sección de noticias.
+       * News-grid en móvil = scroll horizontal con snap (desktop intacto).
 
    DIAGNÓSTICO:
    Etiqueta en la esquina superior izquierda con el breakpoint activo
@@ -138,30 +141,57 @@ form,
 @media (max-width: 768px) {
   body::before { content: "RESP OK · M"; background: #ff6600; color: #000; }
 
-  main { padding-top: 110px !important; padding-bottom: 40px !important; }
+  main {
+    padding-top: 110px !important;
+    padding-bottom: 40px !important;
+  }
 
-  /* Header compacto en fila */
-  header { padding: 10px 15px !important; }
+  /* ---------- Header en UNA SOLA FILA: [IMG] [NOMBRE] [SUBTITULO] ---------- */
+  header { padding: 12px 14px !important; }
+
   .header-content {
+    display: flex !important;
     flex-direction: row !important;
     align-items: center !important;
+    justify-content: flex-start !important;
     text-align: left !important;
-    gap: 12px !important;
-    margin-left: 5px !important;
-    width: auto !important;
+    gap: 10px !important;
+    margin-left: 0 !important;
+    width: 100% !important;
+    flex-wrap: nowrap !important;
   }
-  .header-text {
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    gap: 2px !important;
-  }
+
   .header-image {
-    width: 55px !important;
-    height: 55px !important;
+    width: 52px !important;
+    height: 52px !important;
     flex-shrink: 0 !important;
+    margin: 0 !important;
   }
-  header h1 { font-size: 1.5em !important; }
-  header p  { font-size: 0.8em !important; }
+
+  /* Nombre y subtítulo en línea, uno al lado del otro */
+  .header-text {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: baseline !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    min-width: 0 !important;
+    flex: 1 1 auto !important;
+  }
+
+  header h1 {
+    font-size: 1.35em !important;
+    margin: 0 !important;
+    line-height: 1.1 !important;
+    white-space: nowrap !important;
+  }
+  header p {
+    font-size: 0.78em !important;
+    margin: 0 !important;
+    line-height: 1.2 !important;
+    white-space: nowrap !important;
+    opacity: .9 !important;
+  }
 
   /* Hamburguesa */
   .hamburger-menu {
@@ -179,6 +209,17 @@ form,
     margin-bottom: 55px !important;
     padding-left: 0 !important;
     padding-right: 0 !important;
+  }
+
+  /* MÁS aire entre el header y el primer título de noticias */
+  #inicio {
+    margin-top: 40px !important;
+    padding-top: 20px !important;
+  }
+  #inicio .contenido > h2 {
+    margin-top: 10px !important;
+    margin-bottom: 22px !important;
+    padding-top: 6px !important;
   }
 
   /* MARCO: más padding interno, bordes visibles, sombra clara */
@@ -202,6 +243,38 @@ form,
   /* Tipografía de secciones (legible) */
   .contenido h2 { font-size: 1.55em !important; margin-bottom: 20px !important; }
   .contenido p  { font-size: 0.95em !important; line-height: 1.6 !important; }
+
+  /* =====================================================
+     SECCIÓN DE NOTICIAS — SOLO MÓVIL
+     Convertir .news-grid en scroll horizontal con snap.
+     El comportamiento de escritorio (style.css) NO se toca.
+     ===================================================== */
+  #inicio .news-grid {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    gap: 12px !important;
+    padding: 4px 4px 14px 4px !important;
+    margin: 0 -4px !important;
+    grid-template-columns: none !important;
+    scroll-snap-type: x mandatory !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  #inicio .news-grid > * {
+    flex: 0 0 82% !important;
+    min-width: 82% !important;
+    max-width: 82% !important;
+    scroll-snap-align: start !important;
+  }
+  /* Hint visual para indicar que se puede deslizar */
+  #inicio .news-grid::-webkit-scrollbar { height: 6px; }
+  #inicio .news-grid::-webkit-scrollbar-thumb {
+    background: rgba(255, 0, 0, 0.4);
+    border-radius: 3px;
+  }
 
   /* ---------- Máquinas ---------- */
   #maquinas-completadas { padding: 35px 0 !important; }
@@ -236,7 +309,6 @@ form,
     gap: 16px !important;
     margin-bottom: 24px !important;
   }
-  /* Card de máquina: más aire dentro */
   .maquina-card { border-radius: 8px !important; }
   .maquina-header { padding: 12px 14px !important; }
   .maquina-nombre { font-size: 1rem !important; }
@@ -253,7 +325,7 @@ form,
     margin-top: 22px !important;
   }
 
-  /* ---------- Proyectos (ya se ven bien, solo afino) ---------- */
+  /* ---------- Proyectos ---------- */
   .proyecto {
     padding: 18px !important;
     margin: 18px 0 !important;
@@ -352,11 +424,29 @@ form,
 
   main { padding-top: 95px !important; }
 
+  /* Header sigue en una fila, solo afina tamaños */
   header { padding: 10px 12px !important; }
-  .header-content { gap: 10px !important; margin-left: 0 !important; }
-  .header-image { width: 48px !important; height: 48px !important; }
-  header h1 { font-size: 1.3em !important; }
-  header p  { font-size: 0.72em !important; }
+  .header-content { gap: 8px !important; margin-left: 0 !important; }
+  .header-image { width: 46px !important; height: 46px !important; }
+  .header-text { gap: 6px !important; }
+  header h1 { font-size: 1.2em !important; }
+  header p  { font-size: 0.7em !important; }
+
+  /* Más espacio entre header y noticias también aquí */
+  #inicio {
+    margin-top: 36px !important;
+    padding-top: 18px !important;
+  }
+  #inicio .contenido > h2 {
+    margin-bottom: 20px !important;
+  }
+
+  /* Tarjetas de noticias en móvil pequeño un pelín más anchas */
+  #inicio .news-grid > * {
+    flex-basis: 86% !important;
+    min-width: 86% !important;
+    max-width: 86% !important;
+  }
 
   .hamburger-menu {
     top: 10px !important; right: 10px !important;
@@ -434,9 +524,21 @@ form,
   main { padding-top: 88px !important; }
 
   header { padding: 8px 10px !important; }
-  .header-image { width: 42px !important; height: 42px !important; }
-  header h1 { font-size: 1.15em !important; }
-  header p  { font-size: 0.65em !important; }
+  .header-content { gap: 7px !important; }
+  .header-image { width: 40px !important; height: 40px !important; }
+  .header-text { gap: 5px !important; }
+  header h1 { font-size: 1.05em !important; }
+  header p  { font-size: 0.62em !important; }
+
+  /* En 360px el subtítulo puede caer debajo si no cabe */
+  .header-text { flex-wrap: wrap !important; }
+
+  #inicio { margin-top: 32px !important; padding-top: 14px !important; }
+  #inicio .news-grid > * {
+    flex-basis: 90% !important;
+    min-width: 90% !important;
+    max-width: 90% !important;
+  }
 
   .marco { padding: 16px 12px !important; }
   .contenido h2 { font-size: 1.2em !important; }
