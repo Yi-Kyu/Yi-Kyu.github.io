@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-20T12:58:18.848003Z",
+  "updated": "2026-04-20T18:46:22.572396Z",
   "articles": [
+    {
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS sc",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
+      "published": "Mon, 20 Apr 2026 22:44:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normall",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg",
+      "published": "Mon, 20 Apr 2026 19:11:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Why Most AI Deployments Stall After the Demo",
       "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg",
-      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
-      "source": "The Hacker News",
+      "title": "Seiko USA website defaced as hacker claims customer data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
+      "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 14:22:31 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg",
-      "published": "Sat, 18 Apr 2026 13:37:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+      "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 11:11:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The backup myth that is putting businesses at risk",
+      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+      "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "summary": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
       "image": "",
       "published": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 05:40:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 04:30:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-      "image": "",
-      "published": "Sun, 19 Apr 2026 13:32:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple account change alerts abused to send phishing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filte",
-      "image": "",
-      "published": "Sun, 19 Apr 2026 12:03:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
-      "link": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
-      "summary": "Article URL: https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html\nComments URL: https://news.ycombinator.com/item?id=47833156\nPoints: 179\n# Commen",
+      "title": "The Palantir's Stasi Protocols",
+      "link": "https://professorsigmund.com/praxis/palantir-stasi-protocols.html",
+      "summary": "Article URL: https://professorsigmund.com/praxis/palantir-stasi-protocols.html\nComments URL: https://news.ycombinator.com/item?id=47838178\nPoints: 44\n# Comments: 7",
       "image": "",
-      "published": "Mon, 20 Apr 2026 12:12:19 +0000",
+      "published": "Mon, 20 Apr 2026 18:01:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "NASA Artemis Posters",
-      "link": "https://www.nasa.gov/gallery/artemis/",
-      "summary": "Article URL: https://www.nasa.gov/gallery/artemis/\nComments URL: https://news.ycombinator.com/item?id=47833092\nPoints: 9\n# Comments: 1",
+      "title": "At Long Last, InfoWars Is Ours",
+      "link": "https://theonion.info/",
+      "summary": "Article URL: https://theonion.info/\nComments URL: https://news.ycombinator.com/item?id=47837620\nPoints: 147\n# Comments: 1",
       "image": "",
-      "published": "Mon, 20 Apr 2026 12:05:08 +0000",
+      "published": "Mon, 20 Apr 2026 17:24:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why macOS27 won't be supporting Intel anymore",
-      "link": "https://twitter.com/Lina_Hoshino/status/2046112493320458649",
-      "summary": "Article URL: https://twitter.com/Lina_Hoshino/status/2046112493320458649\nComments URL: https://news.ycombinator.com/item?id=47833026\nPoints: 22\n# Comments: 16",
+      "title": "At long last, InfoWars is ours",
+      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "summary": "Article URL: https://theonion.com/at-long-last-infowars-is-ours/\nComments URL: https://news.ycombinator.com/item?id=47837611\nPoints: 239\n# Comments: 64",
       "image": "",
-      "published": "Mon, 20 Apr 2026 11:58:04 +0000",
+      "published": "Mon, 20 Apr 2026 17:23:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Pascal's Wager for AI Doomers",
-      "link": "https://pluralistic.net/2026/04/16/pascals-wager/",
-      "summary": "Article URL: https://pluralistic.net/2026/04/16/pascals-wager/\nComments URL: https://news.ycombinator.com/item?id=47832887\nPoints: 13\n# Comments: 8",
+      "title": "Bloom (YC P26) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/trybloom/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/trybloom/jobs\nComments URL: https://news.ycombinator.com/item?id=47837176\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Mon, 20 Apr 2026 11:42:17 +0000",
+      "published": "Mon, 20 Apr 2026 17:00:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Figma's woes compound with Claude Design",
-      "link": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
-      "summary": "Article URL: https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/\nComments URL: https://news.ycombinator.com/item?id=47832366\nPoints: 50\n# Comments: 41",
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "summary": "Article URL: https://www.princeton.edu/~pkrugman/interstellar.pdf\nComments URL: https://news.ycombinator.com/item?id=47837105\nPoints: 43\n# Comments: 11",
       "image": "",
-      "published": "Mon, 20 Apr 2026 10:26:35 +0000",
+      "published": "Mon, 20 Apr 2026 16:57:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Adapting Auxiliary Losses Using Gradient Similarity",
-      "link": "https://dev.to/paperium/adapting-auxiliary-losses-using-gradient-similarity-14fg",
-      "summary": "{{ $json.postContent }}",
+      "title": "The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don't Tell You in the Documentation",
+      "link": "https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-4la4",
+      "summary": "The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don't Tell You in the Documentation\n\n\nIt all started innocently enough. \"I'll just build a simple knowledge base,\" I told myself three years ago. ",
       "image": "",
-      "published": "Mon, 20 Apr 2026 12:50:13 +0000",
+      "published": "Mon, 20 Apr 2026 18:40:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Left Web3 in 2022. I Returned to an AI Security Crisis.",
-      "link": "https://dev.to/rushanksavant/i-left-web3-in-2022-i-returned-to-an-ai-security-crisis-2afo",
-      "summary": "The 4-Year Gap\n\nIn May 2022, I stopped publishing. I shifted focus to real-estate and AI Automation &amp; RAG (Retrieval-Augmented Generation) engineering. \nMy Dev.to page has been a ghost town ever since.\n\nThe Reality C",
+      "title": "Setting Up Disaster Recovery for Morpheus Enterprise with MySQL InnoDB ClusterSet — Step by Step",
+      "link": "https://dev.to/emre_baykal_a4a7a479d48c5/morpheus-enterprise-disaster-recovery-with-mysql-innodb-clusterset-a-step-by-step-guide-11ni",
+      "summary": "Morpheus Enterprise Disaster Recovery with MySQL InnoDB ClusterSet: A Production-Grade Guide\n\n\n\nIn a previous build-out we deployed two separate MySQL InnoDB Clusters — one on the Master site and one on the DR site — as ",
       "image": "",
-      "published": "Mon, 20 Apr 2026 12:48:31 +0000",
+      "published": "Mon, 20 Apr 2026 18:34:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Patenting Your ML Pipeline: A Software Engineer's Guide to USPTO Flowcharts",
-      "link": "https://dev.to/local_ai_28441e061d716cb1/patenting-your-ml-pipeline-a-software-engineers-guide-to-uspto-flowcharts-43nj",
-      "summary": "Patenting Your ML Pipeline: A Software Engineer's Guide to USPTO Flowcharts\n\n\n\n\nSo you built something novel. Maybe it's a retrieval pipeline that actually keeps hallucinations under control. Maybe it's a distributed tra",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mjr4mv5moy7gtvgnt8m.jpg",
-      "published": "Mon, 20 Apr 2026 12:45:57 +0000",
+      "title": "How We Strengthened Dependency Security in Our Monorepo",
+      "link": "https://dev.to/0xkoji/how-we-strengthened-dependency-security-in-our-monorepo-5930",
+      "summary": "Strengthening Dependency Security in a Monorepo\n\n\nIn response to the recent increase in supply chain attacks in the npm ecosystem, we revisited how dependencies are managed across our monorepo. This article summarizes th",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 18:33:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Practical Guide to nylas webhook delete",
-      "link": "https://dev.to/qasim157/a-practical-guide-to-nylas-webhook-delete-4efb",
-      "summary": "Real-time event notifications keep your application responsive. nylas webhook delete manages that plumbing.\n\nThe nylas webhook delete command removes a webhook destination from your Nylas application.  Pass the webhook I",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 12:45:55 +0000",
+      "title": "Protecting .NET String Values by Hiding Them in Machine Code DLLs",
+      "link": "https://dev.to/rustemsoft_llc_4b38a13294/protecting-net-string-values-by-hiding-them-in-machine-code-dlls-59d3",
+      "summary": "Introduction\n\n\nEvery .NET developer should understand just how critical source code protection is for preventing intellectual property loss. Whether you're shipping a commercial library, a licensed desktop application, o",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ohoyepxd17tcjggpw6e.png",
+      "published": "Mon, 20 Apr 2026 18:32:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "nylas webhook update for Developers — Quick Reference",
-      "link": "https://dev.to/qasim157/nylas-webhook-update-for-developers-quick-reference-4am1",
-      "summary": "Webhooks fire when email arrives, events change, or contacts update. nylas webhook update helps you update an existing webhook's url or triggers.\n\nThe nylas webhook update command modifies a webhook destination.  Change ",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 12:45:08 +0000",
+      "title": "OpenAPI in .NET 10: From Setup to Build-Time Generation (with Scalar UI)",
+      "link": "https://dev.to/nausaf/openapi-in-net-from-setup-to-build-time-generation-with-scalar-ui-1bio",
+      "summary": "Why OpenAPI and Build-Time Generation Matter\n\n\nIn the modern web ecosystem, a public API is only as good as its documentation. Even for a Backend-for-Frontend (BFF), you can reduce developer friction by publishing clear,",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0q1n8xlw8u6d4851xiq.png",
+      "published": "Mon, 20 Apr 2026 18:30:27 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Markdown + Astro = ❤️",
+      "link": "https://css-tricks.com/markdown-astro/",
+      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should",
       "image": "",
       "published": "Mon, 13 Apr 2026 14:14:43 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Selecting a Date Range in CSS",
-      "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
-      "summary": "A clever approach for selecting multiple dates on a calendar where the :nth-child()'s “n of selector” syntax does all the heavy lifting... even in the JavaScript.\n\nSelecting a Date Range in CSS originally handwritten and",
-      "image": "",
-      "published": "Thu, 09 Apr 2026 13:52:56 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
