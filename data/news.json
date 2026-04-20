@@ -1,6 +1,15 @@
 {
-  "updated": "2026-04-20T02:43:58.631430Z",
+  "updated": "2026-04-20T07:46:09.975564Z",
   "articles": [
+    {
+      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+      "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg",
+      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
       "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
@@ -34,15 +43,6 @@
       "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves&nbsp;the exploitation of three",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ8x3Yg0CYomOu1IpHfhfmiqJtgaMSnnoE2tJR6RdXGIy1rLRTORge-ukCLYkEj6xzeGTvmuy-68qfU4me_nG7pvwZi21h7ycQFwY3OXCH1_p_g35BAYeaHdz3uRKJD2mQCjUIcxha2WzMePpup2VHarxZVxy3QNtaRAjET-2FK7GemiuvyI8MpNPFVyEQ/s1600/defender.jpg",
       "published": "Fri, 17 Apr 2026 18:51:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-      "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 mill",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg",
-      "published": "Fri, 17 Apr 2026 16:17:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "link": "https://www.bbc.com/news/articles/cge0grppe3po",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cge0grppe3po\nComments URL: https://news.ycombinator.com/item?id=47829486\nPoints: 59\n# Comments: 10",
+      "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds",
+      "link": "https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds",
+      "summary": "Article URL: https://www.sciencealert.com/how-long-poop-stays-in-your-body-may-impact-your-health-study-finds\nComments URL: https://news.ycombinator.com/item?id=47831205\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Mon, 20 Apr 2026 01:50:35 +0000",
+      "published": "Mon, 20 Apr 2026 07:07:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Canada's PM calls economic ties with US a weakness that must be corrected",
-      "link": "https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806",
-      "summary": "Article URL: https://abcnews.com/Business/wireStory/canadas-prime-minister-economic-ties-us-weakness-corrected-132187806\nComments URL: https://news.ycombinator.com/item?id=47829015\nPoints: 24\n# Comments: 1",
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "link": "https://stripe.dev/blog/payment-api-design",
+      "summary": "Article URL: https://stripe.dev/blog/payment-api-design\nComments URL: https://news.ycombinator.com/item?id=47830575\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Mon, 20 Apr 2026 00:27:58 +0000",
+      "published": "Mon, 20 Apr 2026 05:05:43 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
+      "link": "https://github.com/esutcu/planb-lpm",
+      "summary": "Article URL: https://github.com/esutcu/planb-lpm\nComments URL: https://news.ycombinator.com/item?id=47830071\nPoints: 24\n# Comments: 7",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 03:24:21 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/\nComments URL: https://news.ycombinator.com/item?id=47829178\nPoints: 81\n# Comments: 25",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 00:56:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
       "link": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-      "summary": "Article URL: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/\nComments URL: https://news.ycombinator.com/item?id=47828968\nPoints: 8\n# Comments: 3",
+      "summary": "Article URL: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/\nComments URL: https://news.ycombinator.com/item?id=47828968\nPoints: 30\n# Comments: 6",
       "image": "",
       "published": "Mon, 20 Apr 2026 00:21:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
-      "link": "https://github.com/shivampkumar/trellis-mac",
-      "summary": "I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels:  none of which work ",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 00:07:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Swiss AI Initiative (2023)",
-      "link": "https://www.swiss-ai.org",
-      "summary": "Article URL: https://www.swiss-ai.org\nComments URL: https://news.ycombinator.com/item?id=47828444\nPoints: 21\n# Comments: 6",
-      "image": "",
-      "published": "Sun, 19 Apr 2026 22:58:35 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Como automatizei tarefas repetitivas com Python — 3 scripts que uso todo dia",
-      "link": "https://dev.to/skindevx/como-automatizei-tarefas-repetitivas-com-python-3-scripts-que-uso-todo-dia-m2k",
-      "summary": "Se você trabalha com engenharia, dados ou qualquer área que gera arquivos e planilhas todo dia, provavelmente já perdeu horas fazendo tarefas que um script de 50 linhas poderia resolver em segundos.\n\nNeste post vou mostr",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 02:32:25 +0000",
+      "title": "Next.js 16 Complete Beginner's Guide",
+      "link": "https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2",
+      "summary": "In this article, you will learn everything you need to know about Next.js 16. This is a completely beginner-friendly guide.\n\n\n\n\n\n\n\n\n\n\n\nSo let's get started.\n\n\n  \n  \n  Section 1: Next.js Fundamentals\n\n\n\n  \n  \n  1. What is",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuc9axovlagdlxh16754u.png",
+      "published": "Mon, 20 Apr 2026 07:32:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google ADK Has a Compliance Gap — Here's How to Close It",
-      "link": "https://dev.to/ashutoshrana/google-adk-has-a-compliance-gap-heres-how-to-close-it-1k18",
-      "summary": "Google's Agent Development Kit (ADK) makes it remarkably easy to build multi-agent AI systems. You can wire up an orchestrator agent, connect it to specialized sub-agents, and have a working pipeline in under 100 lines o",
+      "title": "The Future: Engineers as AI System Architects",
+      "link": "https://dev.to/siddhartha_reddy/the-future-engineers-as-ai-system-architects-4015",
+      "summary": "AI is not replacing engineers.\nIt’s redefining what it means to be one.\n\n\n\n\n\n\n  \n  \n  🚨 The Narrative is Wrong\n\n\nThe common belief:\n\n\n“AI will replace programmers”\n\n\nBut what’s actually happening is more subtle:\n\n\nAI is ",
       "image": "",
-      "published": "Mon, 20 Apr 2026 02:28:27 +0000",
+      "published": "Mon, 20 Apr 2026 07:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hidden Compliance Gap in Every Enterprise RAG Pipeline",
-      "link": "https://dev.to/ashutoshrana/the-hidden-compliance-gap-in-every-enterprise-rag-pipeline-jbj",
-      "summary": "Every week, another enterprise announces a RAG-powered AI assistant. Legal teams get a contract review bot. Hospitals get a clinical decision support tool. Banks get a loan advisory chatbot. Universities get a student ad",
+      "title": "Launch Day: 7 AI Agents Start Building Startups with $100 Each",
+      "link": "https://dev.to/ai_made_tools/launch-day-7-ai-agents-start-building-startups-with-100-each-5f8h",
+      "summary": "I just launched an experiment: 7 AI coding agents each get $100 and 12 weeks to build a real startup from scratch. No human coding.\n\n\n  \n  \n  The lineup\n\n\n\n\n\nAgent\nTool\nModel\nCost\n\n\n\n\n🟣 Claude\nClaude Code\nSonnet / Haiku\n",
       "image": "",
-      "published": "Mon, 20 Apr 2026 02:27:44 +0000",
+      "published": "Mon, 20 Apr 2026 07:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Best Platforms to Publish Programming Tutorials and Reach a Large Developer Audience",
-      "link": "https://dev.to/oliver_bloom_6d9e70fc5718/best-platforms-to-publish-programming-tutorials-and-reach-a-large-developer-audience-47kb",
-      "summary": "Publishing a high-quality programming tutorial is only half the challenge. The other half — often the harder part — is getting that content in front of developers who will actually read and benefit from it.\n\nToday, devel",
+      "title": "What Is LangGraph? A Beginner-Friendly Introduction",
+      "link": "https://dev.to/itprepvn/what-is-langgraph-a-beginner-friendly-introduction-3b7d",
+      "summary": "What Is LangGraph? A Beginner-Friendly Introduction\n\n\nAs LLM applications become more advanced, developers often need more than a simple prompt-response flow. Many modern AI apps must keep track of state, call tools, mak",
       "image": "",
-      "published": "Mon, 20 Apr 2026 02:27:41 +0000",
+      "published": "Mon, 20 Apr 2026 07:20:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Active Inference, The Learn Arc — Part 2: Chapter 1 — Perception, Action, Learning as One Loop",
-      "link": "https://dev.to/tmdlrg/active-inference-the-learn-arc-part-2-chapter-1-perception-action-learning-as-one-loop-4lh1",
-      "summary": "Series: The Learn Arc — 50 posts teaching Active Inference through a live BEAM-native workbench. Part 1 set the map. This is Part 2.\n\n\n\n  \n  \n  The one-sentence claim\n\n\nChapter 1 of Active Inference (Parr, Pezzulo, Frist",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7u3hcmr5li5sugkor62e.png",
-      "published": "Mon, 20 Apr 2026 02:21:32 +0000",
+      "title": "FinOps for AI vs Traditional FinOps: Key Differences Explained",
+      "link": "https://dev.to/datta_kharad_3fd1383b5036/finops-for-ai-vs-traditional-finops-key-differences-explained-4dj3",
+      "summary": "Cloud cost management has always been a balancing act. But with the rise of AI—especially generative AI—that balance is shifting from predictable arithmetic to something far more dynamic.\nWelcome to the evolving world wh",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 07:18:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
