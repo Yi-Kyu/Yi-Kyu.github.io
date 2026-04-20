@@ -3720,138 +3720,118 @@ main.reproductor-minimizado {
   border: 1px solid rgba(255,0,0,.35);
   padding: 3px 8px; border-radius: 999px;
 }
-/* ===== RESPONSIVE GLOBAL ===== */
 
-/* Tablets (max 1024px) */
+/* ===== RESPONSIVE TODAS LAS SECCIONES ===== */
+
+/* Contenedores principales - ancho fluido */
+#proyectos .marco,
+#contacto .marco,
+#blog .marco {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+#maquinas-completadas .contenedor {
+  width: 92%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* Tablet (max 1024px) */
 @media (max-width: 1024px) {
   main { padding-top: 160px; }
 
-  #proyectos .marco,
-  #contacto .marco,
-  #habilidades .marco,
-  #sobre-mi .marco {
-    width: 95%;
-    max-width: 95%;
-  }
+  #inicio .news-grid { grid-template-columns: repeat(2, 1fr); }
+
+  .maquinas-grid { grid-template-columns: repeat(2, 1fr); }
 
   .blog-container {
     grid-template-columns: repeat(2, 1fr);
     width: 95%;
   }
 
-  .maquinas-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  #inicio .news-grid {
-    grid-template-columns: repeat(2, 1fr);
+  #proyectos .marco,
+  #contacto .marco {
+    width: 95%;
   }
 }
 
-/* Móviles grandes (max 768px) */
+/* Móvil grande (max 768px) */
 @media (max-width: 768px) {
-  main { padding-top: 130px; }
+  main { padding-top: 120px; }
+
+  section { margin-bottom: 50px; }
 
   .marco { padding: 20px 15px; }
 
   #proyectos .marco,
   #contacto .marco,
-  #habilidades .marco,
-  #sobre-mi .marco {
+  #blog .marco {
     width: 100%;
     max-width: 100%;
     margin: 0;
+    border-radius: 0;
   }
+
+  #inicio .news-grid { grid-template-columns: 1fr; }
+
+  #inicio .news-hero img {
+    height: clamp(180px, 50vw, 280px);
+  }
+
+  .maquinas-grid { grid-template-columns: 1fr; }
+
+  .filtros-maquinas { flex-direction: column; }
+  .filtro-grupo { width: 100%; min-width: unset; }
 
   .blog-container {
     grid-template-columns: 1fr;
     width: 100%;
   }
 
-  .blog-post { width: 100%; }
+  .proyecto-header { flex-direction: column; }
+  .proyecto-links { flex-direction: column; gap: 8px; }
+  .btn-proyecto { width: 100%; text-align: center; justify-content: center; }
 
-  .maquinas-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .filtros-maquinas {
-    flex-direction: column;
-  }
-
-  .filtro-grupo { width: 100%; }
-
-  .proyecto-header {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .proyecto-links {
-    flex-direction: column;
-  }
-
-  .contacto-metodos {
-    flex-direction: column;
-    gap: 15px;
-  }
-
-  form {
-    width: 100%;
-    max-width: 100%;
-    padding: 0 5px;
-  }
-
-  #inicio .news-grid {
-    grid-template-columns: 1fr;
-  }
-
-  #inicio .news-hero img {
-    height: clamp(180px, 40vw, 300px);
-  }
+  .contacto-metodos { flex-direction: column; gap: 12px; }
+  form { width: 100%; padding: 0; }
 
   .menu-panel { width: 85%; }
+
+  .footer-content { flex-direction: column; align-items: center; text-align: center; gap: 20px; }
+  .footer-links { flex-direction: column; align-items: center; gap: 20px; }
+  .footer-nav ul { text-align: center; }
+  .social-links { justify-content: center; }
+
+  .paginacion-maquinas { flex-wrap: wrap; gap: 8px; justify-content: center; }
+
+  header { padding: 12px 15px; }
+  .header-content { margin-left: 0; }
+  .header-image { width: 70px; height: 70px; }
+  header h1 { font-size: 2em; }
 }
 
-/* Móviles pequeños (max 480px) */
+/* Móvil pequeño (max 480px) */
 @media (max-width: 480px) {
-  main { padding-top: 110px; }
+  main { padding-top: 100px; }
 
+  .header-image { width: 55px; height: 55px; }
   header h1 { font-size: 1.6em; }
-  header p  { font-size: 0.85em; }
-
-  .header-image {
-    width: 65px;
-    height: 65px;
-  }
+  header p { font-size: 0.85em; }
 
   .contenido h2 { font-size: 1.5em; }
-
   .marco { padding: 15px 10px; }
 
-  .tag { font-size: 0.75em; }
+  .tag { font-size: 0.72em; }
 
-  .btn-proyecto {
-    width: 100%;
-    text-align: center;
+  #inicio .news-hero-title { font-size: 1.1rem; }
+
+  .maquinas-grid { grid-template-columns: 1fr; }
+
+  .reproductor-container.minimizado {
+    max-width: 175px;
+    min-width: 150px;
   }
-
-  .paginacion-maquinas {
-    flex-direction: column;
-    gap: 10px;
-  }
-
-  .footer-content {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .footer-links {
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-  }
-
-  .footer-nav ul { text-align: center; }
-
-  .social-links { justify-content: center; }
 }
