@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-21T12:53:03.652839Z",
+  "updated": "2026-04-21T18:52:20.643453Z",
   "articles": [
+    {
+      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+      "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+      "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg",
+      "published": "Tue, 21 Apr 2026 21:16:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+      "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+      "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023.\nAngelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operator",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg",
+      "published": "Tue, 21 Apr 2026 20:01:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg",
+      "published": "Tue, 21 Apr 2026 18:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called&nbsp;NGate&nbsp;that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate.\n\"The threat act",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg",
+      "published": "Tue, 21 Apr 2026 18:15:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
       "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family calledNGate that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate.\n\"The threat actors took th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg",
-      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
-      "source": "The Hacker News",
+      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
+      "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 14:38:40 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
-      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since patched, combines An",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg",
-      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
-      "source": "The Hacker News",
+      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
+      "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 10:02:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manag",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg",
-      "published": "Tue, 21 Apr 2026 11:53:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS sc",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
-      "published": "Mon, 20 Apr 2026 22:44:00 +0530",
-      "source": "The Hacker News",
+      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+      "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 09:49:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -65,30 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series o",
       "image": "",
-      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
-      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-      "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 05:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 18:23:52 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-      "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
-      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT)",
+      "title": "Framework Laptop 13 Pro",
+      "link": "https://frame.work/laptop13pro",
+      "summary": "Article URL: https://frame.work/laptop13pro\nComments URL: https://news.ycombinator.com/item?id=47852177\nPoints: 114\n# Comments: 41",
       "image": "",
-      "published": "Fri, 20 Mar 2026 00:49:19 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "link": "https://vidstudio.app/video-editor",
-      "summary": "Hi HN,\nI built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on your\nmachine.Some of ",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 11:58:16 +0000",
+      "published": "Tue, 21 Apr 2026 18:00:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Smoking ban for people born after 2008 in the UK agreed",
-      "link": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cn08jy6w0l5o\nComments URL: https://news.ycombinator.com/item?id=47847240\nPoints: 23\n# Comments: 33",
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "link": "https://github.com/calcom/cal.diy",
+      "summary": "Article URL: https://github.com/calcom/cal.diy\nComments URL: https://news.ycombinator.com/item?id=47852155\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Tue, 21 Apr 2026 11:15:34 +0000",
+      "published": "Tue, 21 Apr 2026 17:58:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Laws of Software Engineering",
-      "link": "https://lawsofsoftwareengineering.com",
-      "summary": "Article URL: https://lawsofsoftwareengineering.com\nComments URL: https://news.ycombinator.com/item?id=47847179\nPoints: 108\n# Comments: 29",
+      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr\nComments URL: https://news.ycombinator",
       "image": "",
-      "published": "Tue, 21 Apr 2026 11:04:56 +0000",
+      "published": "Tue, 21 Apr 2026 17:40:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "link": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "summary": "Article URL: https://fsfe.org/news/2026/news-20260420-01.html\nComments URL: https://news.ycombinator.com/item?id=47847124\nPoints: 83\n# Comments: 6",
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "link": "https://britannica11.org/",
+      "summary": "Article URL: https://britannica11.org/\nComments URL: https://news.ycombinator.com/item?id=47851885\nPoints: 49\n# Comments: 30",
       "image": "",
-      "published": "Tue, 21 Apr 2026 10:57:53 +0000",
+      "published": "Tue, 21 Apr 2026 17:33:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "link": "https://codemix.com/graph",
-      "summary": "Article URL: https://codemix.com/graph\nComments URL: https://news.ycombinator.com/item?id=47846946\nPoints: 38\n# Comments: 13",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "summary": "Vercel April 2026 security incident - https://news.ycombinator.com/item?id=47824463 - April 2026 (485 comments)A Roblox cheat and one AI tool brought down Vercel's platform - https://news.ycombinator.com/item?id=47844431",
       "image": "",
-      "published": "Tue, 21 Apr 2026 10:33:24 +0000",
+      "published": "Tue, 21 Apr 2026 17:14:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Night OpenClaw Completely Ghosted Me: My Real Headache Story as a Kolkata AI Agent Engineer",
-      "link": "https://dev.to/aniruddhaadak/the-night-openclaw-completely-ghosted-me-my-real-headache-story-as-a-kolkata-ai-agent-engineer-3088",
-      "summary": "Hey DEV Community 👋  \n\nI’m ANIRUDDHA ADAK (@aniruddhadak on X), final-year B.Tech CSE student at BBIT Kolkata and a full-time AI Agent Engineer who lives and breathes this stuff.  \n\nAfter my last post about the 30 wins t",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 12:48:00 +0000",
+      "title": "🙏🏻🙏🏻🙏🏻🙏🏻💪🏻💪🏻💪🏻💪🏻",
+      "link": "https://dev.to/jon_at_backboardio/-1n79",
+      "summary": "Building Conversational Intelligence with Backboard: Turning Conversations into a Living Intelligence System\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n       ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1211275%2F88edf8cd-cc3a-4aac-91b7-934631126085.png",
+      "published": "Tue, 21 Apr 2026 18:47:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fonctionnement d’une blockchain — Étape 2/8 : Réception par les nœuds & contrôles de base",
-      "link": "https://dev.to/amel_in_tech/-fonctionnement-dune-blockchain-etape-28-reception-par-les-noeuds-controles-de-base-1igc",
-      "summary": "Les nœuds (ordinateurs du réseau) reçoivent la transaction et effectuent des vérifications rapides :\n\n\nsignature valide ?\nsolde suffisant ?\nformat correct ?\n\n\nSi tout est valide, ils placent la transaction dans une file ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi4gd25vg472jqmqn06g.png",
-      "published": "Tue, 21 Apr 2026 12:47:37 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let's check vibe code that acts like optimized C++ one but is actually a mess",
-      "link": "https://dev.to/pvsdev/lets-check-vibe-code-that-acts-like-optimized-c-one-but-is-actually-a-mess-82n",
-      "summary": "The value of a skilled developer is shifting toward the ability to effectively review code. Although generating code now is easier than ever, evaluating it for proper decomposition, correctness, efficiency, and security ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nh0btsmdg3ylydfnfqw.png",
-      "published": "Tue, 21 Apr 2026 12:44:16 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "From Digital Ghost Towns to Memory Palaces: My Second Attempt at AR Memory Magic",
-      "link": "https://dev.to/kevinten10/from-digital-ghost-towns-to-memory-palaces-my-second-attempt-at-ar-memory-magic-4ea0",
-      "summary": "From Digital Ghost Towns to Memory Palaces: My Second Attempt at AR Memory Magic\n\n\nHonestly, when I first built spatial-memory, I thought I was creating the next big thing in augmented reality. I mean, pinning multimedia",
+      "title": "Your Ridge Parameter Is PageRank's Damping Factor (and Why BLAS Beats GPU for Mid-Sized KRR)",
+      "link": "https://dev.to/ki-mathias/your-ridge-parameter-is-pageranks-damping-factor-and-why-blas-beats-gpu-for-mid-sized-krr-4hac",
+      "summary": "The ridge parameter λ in kernel regression and the damping factor d in PageRank are the same object. Both create a spectral gap. Both stabilize an otherwise-unstable iteration. Once you see it, four unrelated-looking alg",
       "image": "",
-      "published": "Tue, 21 Apr 2026 12:44:08 +0000",
+      "published": "Tue, 21 Apr 2026 18:45:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The State of AI Instruction Quality",
-      "link": "https://dev.to/reporails/the-state-of-ai-instruction-quality-35mn",
-      "summary": "Everybody has opinions about AGENTS.md/CLAUDE.md files. \n\n\nBest practices get shared. Templates get copied, and this folk-type knowledge dominates the industry. Last year, GitHub analyzed 2,500 repos and published best-p",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j1xpnj80ntk84v8g6e3.png",
-      "published": "Tue, 21 Apr 2026 12:41:52 +0000",
+      "title": "The Creator Block Debugger: Still Fixing It But It Works",
+      "link": "https://dev.to/ashb4/the-creator-block-debugger-still-fixing-it-but-it-works-39p",
+      "summary": "Creator block is usually not a talent problem. It is a starting problem.\n\nI built a system that works when motivation is zero. Here is how:\n\n\nHave a queue of 30 ready-to-post pieces\nUse prompts instead of waiting for ide",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 18:40:55 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The Senior Engineer Bottleneck: Why Manual Syntax-Grinding is the New Technical Debt",
+      "link": "https://dev.to/eric6166/the-senior-engineer-bottleneck-why-manual-syntax-grinding-is-the-new-technical-debt-9an",
+      "summary": "The Senior Engineer Bottleneck: Why Manual Syntax-Grinding is the New Technical Debt\n\n\nThe senior engineer who writes the most code is no longer your most valuable asset - they're your biggest bottleneck.\n\nToday, LLMs ca",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhzevgt047m1rrubc4ez.png",
+      "published": "Tue, 21 Apr 2026 18:40:44 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How I Ship systemd Logs to CloudWatch for $0 (Django + Celery on EC2)",
+      "link": "https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844",
+      "summary": "Running Django and Celery as systemd services on EC2 and tired of SSH-ing in to debug? Here's the exact setup I used to ship logs to CloudWatch Logs for free, without touching a single production service. Real commands, ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwkycaglp4tg6029tosm.jpg",
+      "published": "Tue, 21 Apr 2026 18:32:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
