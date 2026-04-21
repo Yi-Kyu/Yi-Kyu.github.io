@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-21T07:18:08.412258Z",
+  "updated": "2026-04-21T12:53:03.652839Z",
   "articles": [
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still ha",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg",
+      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family calledNGate that has been found to abuse a legitimate application called&nbsp;HandyPay instead of NFCGate.\n\"The threat actors took th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcErEs-NVQwFX9tnOmYqQrfDjLm6WUB5jr8ltsA6bMOlVwmDwzBb5RbYAidS2jxdCPQ9RJtsgl453b7KbY8z_6tOjs0VIA7vF8LjM2OJqkZW8c1IM6TYwToxxp4dk8O0KiozATn5L4U40n2HK-Nya7tcimt1exRy9ZtYnri0XyMuM55W5AbC_8EAE0oDQC/s1600/android-nfc.jpg",
+      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution.\nThe flaw, since patched, combines An",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsCaDWCQOL4W8DvgT0eI2Q12HA0ThHQO8TZ-X02vqHH4lZfIeUUZ9yeQAHESn6Oe5AoqLEpTuRL9Gco-SPynh5K0fW8D0KFLEvnHnd48MHKL5OUFnw4lOPsAqBg2N8zlCEnoJMM7ZrtxyVuwhytN3SebEbluda4uN12VG2OVi6fV4SItz_57pdCGe7U0ai/s1600/ide.jpg",
+      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
       "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-      "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normall",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg",
-      "published": "Mon, 20 Apr 2026 19:11:00 +0530",
-      "source": "The Hacker News",
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-      "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg",
-      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg",
-      "published": "Mon, 20 Apr 2026 16:12:00 +0530",
-      "source": "The Hacker News",
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
+      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+      "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 05:00:00 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
       "image": "",
       "published": "Mon, 20 Apr 2026 18:23:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-      "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 17:52:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
-      "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 16:02:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Seiko USA website defaced as hacker claims customer data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 14:22:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-      "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 11:11:24 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Using Changesets in a polyglot monorepo",
-      "link": "https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/",
-      "summary": "Article URL: https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/\nComments URL: https://news.ycombinator.com/item?id=47845274\nPoints: 4\n# Comments: 0",
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "link": "https://vidstudio.app/video-editor",
+      "summary": "Hi HN,\nI built VidStudio, a privacy focused video editor that runs in the browser. I tried to keep it as frictionless as possible, so there are no accounts and no uploads. Everything is persisted on your\nmachine.Some of ",
       "image": "",
-      "published": "Tue, 21 Apr 2026 06:25:50 +0000",
+      "published": "Tue, 21 Apr 2026 11:58:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "link": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "summary": "Article URL: https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice\nComments URL: https://news.ycombinator.com/item?id=47845231\nPoints: 6\n# Comments: 0",
+      "title": "Smoking ban for people born after 2008 in the UK agreed",
+      "link": "https://www.bbc.co.uk/news/articles/cn08jy6w0l5o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cn08jy6w0l5o\nComments URL: https://news.ycombinator.com/item?id=47847240\nPoints: 23\n# Comments: 33",
       "image": "",
-      "published": "Tue, 21 Apr 2026 06:19:15 +0000",
+      "published": "Tue, 21 Apr 2026 11:15:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A mad undertaking: An undefinitive guide to the Aadam Jacobs collection",
-      "link": "https://aadamjacobscollection.org/",
-      "summary": "Article URL: https://aadamjacobscollection.org/\nComments URL: https://news.ycombinator.com/item?id=47845187\nPoints: 3\n# Comments: 0",
+      "title": "Laws of Software Engineering",
+      "link": "https://lawsofsoftwareengineering.com",
+      "summary": "Article URL: https://lawsofsoftwareengineering.com\nComments URL: https://news.ycombinator.com/item?id=47847179\nPoints: 108\n# Comments: 29",
       "image": "",
-      "published": "Tue, 21 Apr 2026 06:12:41 +0000",
+      "published": "Tue, 21 Apr 2026 11:04:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Types and Neural Networks",
-      "link": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-      "summary": "Article URL: https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html\nComments URL: https://news.ycombinator.com/item?id=47845111\nPoints: 3\n# Comments: 0",
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "link": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "summary": "Article URL: https://fsfe.org/news/2026/news-20260420-01.html\nComments URL: https://news.ycombinator.com/item?id=47847124\nPoints: 83\n# Comments: 6",
       "image": "",
-      "published": "Tue, 21 Apr 2026 05:59:53 +0000",
+      "published": "Tue, 21 Apr 2026 10:57:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Beauty of Bonsai Styles",
-      "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "summary": "Article URL: https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles\nComments URL: https://news.ycombinator.com/item?id=47844539\nPoints: 26\n# Comments: 4",
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "summary": "Article URL: https://codemix.com/graph\nComments URL: https://news.ycombinator.com/item?id=47846946\nPoints: 38\n# Comments: 13",
       "image": "",
-      "published": "Tue, 21 Apr 2026 04:31:30 +0000",
+      "published": "Tue, 21 Apr 2026 10:33:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Implementing a Zero-Trust Access Proxy for Internal Apps",
-      "link": "https://dev.to/beefedai/implementing-a-zero-trust-access-proxy-for-internal-apps-3p3j",
-      "summary": "You already recognize the symptoms: dozens of internal apps each enforcing their own auth logic, inconsistent token validation, long‑lived sessions that resist revocation, and authorization checks implemented ad‑hoc insi",
+      "title": "The Night OpenClaw Completely Ghosted Me: My Real Headache Story as a Kolkata AI Agent Engineer",
+      "link": "https://dev.to/aniruddhaadak/the-night-openclaw-completely-ghosted-me-my-real-headache-story-as-a-kolkata-ai-agent-engineer-3088",
+      "summary": "Hey DEV Community 👋  \n\nI’m ANIRUDDHA ADAK (@aniruddhadak on X), final-year B.Tech CSE student at BBIT Kolkata and a full-time AI Agent Engineer who lives and breathes this stuff.  \n\nAfter my last post about the 30 wins t",
       "image": "",
-      "published": "Tue, 21 Apr 2026 07:17:28 +0000",
+      "published": "Tue, 21 Apr 2026 12:48:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Docker basics: Using mkcert and caddy with docker compose to host web services over HTTPS for local development",
-      "link": "https://dev.to/moofoo/docker-basics-using-mkcert-and-caddy-with-docker-compose-to-host-web-services-over-https-for-local-2a3d",
-      "summary": "This tutorial walks you through setting up a simple Docker Compose project that serves two Node web servers over HTTPS using Caddy as a reverse proxy. You will learn how to use mkcert to generate wildcard certificates an",
+      "title": "Fonctionnement d’une blockchain — Étape 2/8 : Réception par les nœuds & contrôles de base",
+      "link": "https://dev.to/amel_in_tech/-fonctionnement-dune-blockchain-etape-28-reception-par-les-noeuds-controles-de-base-1igc",
+      "summary": "Les nœuds (ordinateurs du réseau) reçoivent la transaction et effectuent des vérifications rapides :\n\n\nsignature valide ?\nsolde suffisant ?\nformat correct ?\n\n\nSi tout est valide, ils placent la transaction dans une file ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi4gd25vg472jqmqn06g.png",
+      "published": "Tue, 21 Apr 2026 12:47:37 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let's check vibe code that acts like optimized C++ one but is actually a mess",
+      "link": "https://dev.to/pvsdev/lets-check-vibe-code-that-acts-like-optimized-c-one-but-is-actually-a-mess-82n",
+      "summary": "The value of a skilled developer is shifting toward the ability to effectively review code. Although generating code now is easier than ever, evaluating it for proper decomposition, correctness, efficiency, and security ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nh0btsmdg3ylydfnfqw.png",
+      "published": "Tue, 21 Apr 2026 12:44:16 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "From Digital Ghost Towns to Memory Palaces: My Second Attempt at AR Memory Magic",
+      "link": "https://dev.to/kevinten10/from-digital-ghost-towns-to-memory-palaces-my-second-attempt-at-ar-memory-magic-4ea0",
+      "summary": "From Digital Ghost Towns to Memory Palaces: My Second Attempt at AR Memory Magic\n\n\nHonestly, when I first built spatial-memory, I thought I was creating the next big thing in augmented reality. I mean, pinning multimedia",
       "image": "",
-      "published": "Tue, 21 Apr 2026 07:16:47 +0000",
+      "published": "Tue, 21 Apr 2026 12:44:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "12 practices that make on-call sustainable for small teams",
-      "link": "https://dev.to/binadit/12-practices-that-make-on-call-sustainable-for-small-teams-28eo",
-      "summary": "How small teams can run on-call without burning out (12 actionable practices)\n\n\nRunning reliable infrastructure with a small team? You're probably familiar with this nightmare: the same three engineers getting paged at 2",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 07:16:05 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Your Models Know Their Own Schema. Let Them Show You.",
-      "link": "https://dev.to/jeff_sheffield_77bc3b7cbb/your-models-know-their-own-schema-let-them-show-you-5552",
-      "summary": "Django already knows every model in your project, every field, every relationship — down to the last on_delete. So why are you drawing it by hand?\n\nYou know the drill. Sprint planning is tomorrow and someone asks \"can yo",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe0wo5jo5aax3tntah9ck.png",
-      "published": "Tue, 21 Apr 2026 07:14:08 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "When AI Access Disappears: Why Architecture Still Matters",
-      "link": "https://dev.to/vaibhavi_shah/when-ai-access-disappears-why-architecture-still-matters-2ij7",
-      "summary": "Modern applications are rapidly integrating AI platforms for core functionality—chat, automation, decision-making, and more.\n\nBut one critical question is often overlooked:\n\n\nWhat happens if that access suddenly changes ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu76ykp1gp8i91vqabqjt.png",
-      "published": "Tue, 21 Apr 2026 07:10:58 +0000",
+      "title": "The State of AI Instruction Quality",
+      "link": "https://dev.to/reporails/the-state-of-ai-instruction-quality-35mn",
+      "summary": "Everybody has opinions about AGENTS.md/CLAUDE.md files. \n\n\nBest practices get shared. Templates get copied, and this folk-type knowledge dominates the industry. Last year, GitHub analyzed 2,500 repos and published best-p",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0j1xpnj80ntk84v8g6e3.png",
+      "published": "Tue, 21 Apr 2026 12:41:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
