@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T18:46:22.572396Z",
+  "updated": "2026-04-21T01:14:17.092738Z",
   "articles": [
     {
       "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 18:23:52 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
+      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+      "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 17:52:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 16:02:37 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Seiko USA website defaced as hacker claims customer data theft",
       "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
       "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
       "image": "",
       "published": "Mon, 20 Apr 2026 11:11:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The backup myth that is putting businesses at risk",
-      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
-      "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
-      "summary": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft tests Windows Explorer speed, performance improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
-      "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 08:04:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Palantir's Stasi Protocols",
-      "link": "https://professorsigmund.com/praxis/palantir-stasi-protocols.html",
-      "summary": "Article URL: https://professorsigmund.com/praxis/palantir-stasi-protocols.html\nComments URL: https://news.ycombinator.com/item?id=47838178\nPoints: 44\n# Comments: 7",
+      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "link": "https://zef-lang.dev/implementation",
+      "summary": "Article URL: https://zef-lang.dev/implementation\nComments URL: https://news.ycombinator.com/item?id=47843194\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Mon, 20 Apr 2026 18:01:23 +0000",
+      "published": "Tue, 21 Apr 2026 00:48:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "At Long Last, InfoWars Is Ours",
-      "link": "https://theonion.info/",
-      "summary": "Article URL: https://theonion.info/\nComments URL: https://news.ycombinator.com/item?id=47837620\nPoints: 147\n# Comments: 1",
+      "title": "Even 'uncensored' models can't say what they want",
+      "link": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
+      "summary": "Article URL: https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html\nComments URL: https://news.ycombinator.com/item?id=47842021\nPoints: 90\n# Comments: 69",
       "image": "",
-      "published": "Mon, 20 Apr 2026 17:24:45 +0000",
+      "published": "Mon, 20 Apr 2026 22:43:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "At long last, InfoWars is ours",
-      "link": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "summary": "Article URL: https://theonion.com/at-long-last-infowars-is-ours/\nComments URL: https://news.ycombinator.com/item?id=47837611\nPoints: 239\n# Comments: 64",
+      "title": "Monero Community Crowdfunding System",
+      "link": "https://ccs.getmonero.org/ideas/",
+      "summary": "Article URL: https://ccs.getmonero.org/ideas/\nComments URL: https://news.ycombinator.com/item?id=47841149\nPoints: 53\n# Comments: 28",
       "image": "",
-      "published": "Mon, 20 Apr 2026 17:23:58 +0000",
+      "published": "Mon, 20 Apr 2026 21:33:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bloom (YC P26) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/trybloom/jobs",
-      "summary": "Article URL: https://www.ycombinator.com/companies/trybloom/jobs\nComments URL: https://news.ycombinator.com/item?id=47837176\nPoints: 0\n# Comments: 0",
+      "title": "Jujutsu megamerges for fun and profit",
+      "link": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "summary": "Article URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit\nComments URL: https://news.ycombinator.com/item?id=47841129\nPoints: 114\n# Comments: 26",
       "image": "",
-      "published": "Mon, 20 Apr 2026 17:00:45 +0000",
+      "published": "Mon, 20 Apr 2026 21:32:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Theory of Interstellar Trade [pdf] (1978)",
-      "link": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
-      "summary": "Article URL: https://www.princeton.edu/~pkrugman/interstellar.pdf\nComments URL: https://news.ycombinator.com/item?id=47837105\nPoints: 43\n# Comments: 11",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+      "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+      "summary": "Article URL: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/\nComments URL: https://news.ycombinator.com/item?id=47840980\nPoints: 156\n# Comments: 71",
       "image": "",
-      "published": "Mon, 20 Apr 2026 16:57:10 +0000",
+      "published": "Mon, 20 Apr 2026 21:20:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don't Tell You in the Documentation",
-      "link": "https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-4la4",
-      "summary": "The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don't Tell You in the Documentation\n\n\nIt all started innocently enough. \"I'll just build a simple knowledge base,\" I told myself three years ago. ",
+      "title": "服务网格深度指南：微服务通信的可观测与安全基石",
+      "link": "https://dev.to/tianxin/fu-wu-wang-ge-shen-du-zhi-nan-wei-fu-wu-tong-xin-de-ke-guan-ce-yu-an-quan-ji-shi-5h95",
+      "summary": "服务网格深度指南：微服务通信的可观测与安全基石\n\n\n在云原生和微服务架构日益普及的今天，服务网格（Service Mesh）已成为现代分布式系统不可或缺的基础设施。本文将深入探讨服务网格的概念、工作原理、核心组件以及实际应用。\n\n\n\n\n\n  \n  \n  什么是服务网格？\n\n\n服务网格是一个专用基础设施层，用于处理服务间通信。它通过在每个服务实例旁部署一个\"边车\"代理（Sidecar Proxy），来实现请求路由、负载均衡、熔断、限流等功",
       "image": "",
-      "published": "Mon, 20 Apr 2026 18:40:08 +0000",
+      "published": "Tue, 21 Apr 2026 01:07:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Setting Up Disaster Recovery for Morpheus Enterprise with MySQL InnoDB ClusterSet — Step by Step",
-      "link": "https://dev.to/emre_baykal_a4a7a479d48c5/morpheus-enterprise-disaster-recovery-with-mysql-innodb-clusterset-a-step-by-step-guide-11ni",
-      "summary": "Morpheus Enterprise Disaster Recovery with MySQL InnoDB ClusterSet: A Production-Grade Guide\n\n\n\nIn a previous build-out we deployed two separate MySQL InnoDB Clusters — one on the Master site and one on the DR site — as ",
+      "title": "The Engineering Math Behind Elevator Machine Room Cooling: Deconstructing Sensible Heat Load Calculations with Safety Margins",
+      "link": "https://dev.to/evgeniikonkin/the-engineering-math-behind-elevator-machine-room-cooling-deconstructing-sensible-heat-load-580p",
+      "summary": "Elevator machine rooms can generate up to 15 kW of sensible heat from drive systems and controllers—enough to raise the temperature by 20°C in a typical 30 m³ room within an hour if left uncooled. This thermal buildup is",
       "image": "",
-      "published": "Mon, 20 Apr 2026 18:34:42 +0000",
+      "published": "Tue, 21 Apr 2026 01:03:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How We Strengthened Dependency Security in Our Monorepo",
-      "link": "https://dev.to/0xkoji/how-we-strengthened-dependency-security-in-our-monorepo-5930",
-      "summary": "Strengthening Dependency Security in a Monorepo\n\n\nIn response to the recent increase in supply chain attacks in the npm ecosystem, we revisited how dependencies are managed across our monorepo. This article summarizes th",
+      "title": "I joined a $50K no-code hackathon with zero coding experience. Day 1.",
+      "link": "https://dev.to/vineetnegi0101/i-joined-a-50k-no-code-hackathon-with-zero-coding-experience-day-1-ed6",
+      "summary": "So here's what I did today.\n\nI signed up for the Build with MeDo Hackathon on Devpost. $50,000 in prizes. 30 days. 2,343 people already registered before me. And my coding experience is basically: I once changed the back",
       "image": "",
-      "published": "Mon, 20 Apr 2026 18:33:57 +0000",
+      "published": "Tue, 21 Apr 2026 01:01:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Protecting .NET String Values by Hiding Them in Machine Code DLLs",
-      "link": "https://dev.to/rustemsoft_llc_4b38a13294/protecting-net-string-values-by-hiding-them-in-machine-code-dlls-59d3",
-      "summary": "Introduction\n\n\nEvery .NET developer should understand just how critical source code protection is for preventing intellectual property loss. Whether you're shipping a commercial library, a licensed desktop application, o",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ohoyepxd17tcjggpw6e.png",
-      "published": "Mon, 20 Apr 2026 18:32:04 +0000",
+      "title": "The Unexpected Truth About Personal Knowledge Management: What My \"Second Brain\" Actually Taught Me",
+      "link": "https://dev.to/kevinten10/the-unexpected-truth-about-personal-knowledge-management-what-my-second-brain-actually-taught-me-2d5d",
+      "summary": "The Unexpected Truth About Personal Knowledge Management: What My \"Second Brain\" Actually Taught Me\n\n\nHonestly? I thought I was being so smart when I started building Papers two years ago. Here I was, this brilliant deve",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 00:59:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OpenAPI in .NET 10: From Setup to Build-Time Generation (with Scalar UI)",
-      "link": "https://dev.to/nausaf/openapi-in-net-from-setup-to-build-time-generation-with-scalar-ui-1bio",
-      "summary": "Why OpenAPI and Build-Time Generation Matter\n\n\nIn the modern web ecosystem, a public API is only as good as its documentation. Even for a Backend-for-Frontend (BFF), you can reduce developer friction by publishing clear,",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0q1n8xlw8u6d4851xiq.png",
-      "published": "Mon, 20 Apr 2026 18:30:27 +0000",
+      "title": "From Notepad to Neural Network: The Brutal Truth About My 2-Year Journey Building a Knowledge Management System",
+      "link": "https://dev.to/kevinten10/from-notepad-to-neural-network-the-brutal-truth-about-my-2-year-journey-building-a-knowledge-3hf",
+      "summary": "From Notepad to Neural Network: The Brutal Truth About My 2-Year Journey Building a Knowledge Management System\n\n\nHonestly, when I first started building my knowledge management system \"Papers,\" I thought it would be sim",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 00:54:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
