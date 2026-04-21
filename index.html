@@ -7,6 +7,7 @@
 <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="responsive.css">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -106,7 +107,7 @@
           <a href="https://github.com/Yi-Kyu" target="_blank" class="menu-social-button">
             <i class="fab fa-github"></i>
           </a>
-                <a href="https://app.hackthebox.com/profile/overview" target="_blank" class="menu-social-button">
+                <a href="https://app.hackthebox.com/users/2291398?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs" target="_blank" class="menu-social-button">
               <i class="fa fa-cube"></i>
                 </a>
       <a href="https://yi-kyu-top-docs.gitbook.io/info.docs/" class="social-link"><i class="fab fa-github-alt"></i></a>
@@ -117,7 +118,7 @@
 
 <header>
 <div class="header-content">
-<img src="Yi Kyu.png" alt="Perfil" class="header-image">
+<img src="stickman-pfp-23-300x300.jpg" alt="Perfil" class="header-image">
 <div class="header-text">
   <h1 data-text="Mi Nombre">Sam</h1>
   <p>Development & Offensive Sec.</p>
@@ -442,58 +443,58 @@
     <div class="blog-container">
       <div class="blog-post">
         <div class="blog-imagen">
-          <img src="image.png?height=200&width=400" alt="Article 1">
+          <img src="maxresdefault.jpg" alt="Article 1">
           <div class="blog-fecha">
             <span class="dia">15</span>
             <span class="mes">MAR</span>
           </div>
         </div>
         <div class="blog-contenido">
-          <h3>Why scripting is an important skill on Offensive security?</h3>
+          <h3>How I approach new technologies</h3>
           <div class="blog-meta">
-            <span><i class="fas fa-user"></i> YíKyu</span>
-            <span><i class="fas fa-folder"></i> Scripting</span>
+            <span><i class="fas fa-user"></i> Sam</span>
+            <span><i class="fas fa-folder"></i> Notes</span>
           </div>
-          <p>Automate attacks, customize exploits, and adapt faster with scripting in offensive security.</p>
-          <a href="https://yi-kyu-top-files.gitbook.io/topfiles/" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
+          <p>“Less tutorials, more hands-on. I break things, rebuild them, and only learn what actually sticks.”</p>
+          <a href="https://yi-kyu-top-docs.gitbook.io/info.docs/blog/how-i-think-about-learning-new-technologies" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
         </div>
       </div>
       
       <div class="blog-post">
         <div class="blog-imagen">
-          <img src="image2.png?height=200&width=400" alt="Article 2">
+          <img src="wallpapersden.com_digital-lofi-room-hd-nerd-art_1366x768.jpg" alt="Article 2">
           <div class="blog-fecha">
             <span class="dia">28</span>
             <span class="mes">FEB</span>
           </div>
         </div>
         <div class="blog-contenido">
-          <h3>Red Team Ops: The cybersec special operations.</h3>
+          <h3>How I built my own CLI tools and what I learned from them</h3>
           <div class="blog-meta">
-            <span><i class="fas fa-user"></i> YíKyu</span>
-            <span><i class="fas fa-folder"></i> Red Teaming</span>
+            <span><i class="fas fa-user"></i> Sam</span>
+            <span><i class="fas fa-folder"></i> Development</span>
           </div>
-          <p>Simulating real-world attacks to bypass defenses, expose vulns, and test organizational readiness.</p>
-          <a href="https://yi-kyu-top-files.gitbook.io/topfiles/" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
+          <p>“Small tools, big lessons. Building my own CLI forced me to think like a developer, not just a user.”</p>
+          <a href="https://yi-kyu-top-docs.gitbook.io/info.docs/blog/how-i-built-my-own-cli-tools-and-what-i-learned-from-them" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
         </div>
       </div>
       
       <div class="blog-post">
         <div class="blog-imagen">
-          <img src="image3.png?height=200&width=400" alt="Article 3">
+          <img src="maxresdefault (1).jpg" alt="Article 3">
           <div class="blog-fecha">
             <span class="dia">10</span>
             <span class="mes">FEB</span>
           </div>
         </div>
         <div class="blog-contenido">
-          <h3>The 5 pentesting phases: the battle that every pentester has to face.</h3>
+          <h3>Why I document everything I build</h3>
           <div class="blog-meta">
-            <span><i class="fas fa-user"></i> YíKyu</span>
-            <span><i class="fas fa-folder"></i> Pentesting</span>
+            <span><i class="fas fa-user"></i> Sam</span>
+            <span><i class="fas fa-folder"></i> Documentation</span>
           </div>
-          <p>Understanding the core phases every pentester follows to breach and assess systems.</p>
-          <a href="https://yi-kyu-top-files.gitbook.io/topfiles/" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
+          <p>“Notes aren’t optional. Documentation turns random effort into reusable knowledge.”</p>
+          <a href="https://yi-kyu-top-docs.gitbook.io/info.docs/blog/why-i-document-everything-i-build" class="btn-proyecto"><i class="fas fa-book-open"></i> Read more</a>
         </div>
       </div>
     </div>
@@ -819,22 +820,27 @@
       </div>
     </div>
     
-    <form>
+    <form id="contact-form" action="https://formspree.io/f/mgorlzqj" method="POST">
       <label for="nombre">Name</label>
-      <input type="text" id="nombre" name="nombre" required>
+      <input type="text" id="nombre" name="name" required>
       
       <label for="email">Email</label>
       <input type="email" id="email" name="email" required>
       
       <label for="asunto">Subject</label>
-      <input type="text" id="asunto" name="asunto" required>
+      <input type="text" id="asunto" name="subject" required>
       
       <label for="mensaje">Message</label>
-      <textarea id="mensaje" name="mensaje" required></textarea>
-      
+      <textarea id="mensaje" name="message" required></textarea>
+
+      <!-- Honeypot anti-spam: oculto para humanos, los bots lo rellenan y Formspree lo descarta -->
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;opacity:0;height:0;width:0;">
+
       <button type="submit" class="btn-enviar">
         Send Message
       </button>
+
+      <div id="form-status" role="status" aria-live="polite"></div>
     </form>
   </div>
 </div>
@@ -845,7 +851,7 @@
 <div class="footer-content">
 <div class="footer-logo">
   <h3>Yi<span class="text-accent">Kyu</span></h3>
-  <p>Development and Offensive Security</p>
+  <p>Development and Offensive Sec.</p>
 </div>
 
 <div class="footer-links">
@@ -871,7 +877,7 @@
     <h4>Social Media</h4>
     <div class="social-links">
       <a href="https://github.com/Yi-Kyu" class="social-link"><i class="fab fa-github"></i></a>
-      <a href="https://app.hackthebox.com/profile/overview" class="social-link"><i class="fa fa-cube"></i></a>
+      <a href="https://app.hackthebox.com/users/2291398?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs" class="social-link"><i class="fa fa-cube"></i></a>
       <a href="https://yi-kyu-top-docs.gitbook.io/info.docs/" class="social-link"><i class="fab fa-github-alt"></i></a>
     </div>
   </div>
@@ -887,5 +893,6 @@
 <script src="header-scroll.js"></script>
 <script src="script.js"></script>
 <script src="maquinas.js"></script>
+<script src="contact-form.js"></script>
 </body>
 </html>
