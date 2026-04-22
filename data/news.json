@@ -1,6 +1,15 @@
 {
-  "updated": "2026-04-21T18:52:20.643453Z",
+  "updated": "2026-04-22T01:12:21.459807Z",
   "articles": [
+    {
+      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+      "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
+      "summary": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.\nAccording to new research published by Check Point, the ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg",
+      "published": "Tue, 21 Apr 2026 23:48:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
       "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
-      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
-      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still ha",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_RithPNlLYdgxg906-M63Q0-Kv83Kl-WNjK8x5OjKiSgcDMaljvqb7XkLPoEeUDEMRdi4Cqh9DH-pv9QP1ViNjUi3q3qn5r_Lig04a3zO9TgkgiQqSLC50mE6q-6hr94bo4UnXnP5QksLGeAgSOemxUOZaXIw9Z2UHpZuinm7pqF9N0xtJNVovfojx0/s1600/door.jpg",
-      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "French govt agency confirms breach as hacker offers to sell data",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 17:46:04 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
       "image": "",
       "published": "Tue, 21 Apr 2026 08:30:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Claude Code to be removed from Pro Tier?",
+      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "summary": "https://x.com/TheAmolAvasare/status/2046725498592722972https://xcancel.com/TheAmolAvasare/status/204672549859272297...\n\nComments URL: https://news.ycombinator.com/item?id=47855565\nPoints: 229\n# Comments: 155",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 22:36:24 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "link": "https://twitter.com/spacex/status/2046713419978453374",
+      "summary": "https://www.reuters.com/technology/spacex-says-it-has-option...https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...\n\nCo",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 22:13:18 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Zindex – Diagram Infrastructure for Agents",
+      "link": "https://zindex.ai/",
+      "summary": "Article URL: https://zindex.ai/\nComments URL: https://news.ycombinator.com/item?id=47854116\nPoints: 31\n# Comments: 11",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 20:27:37 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "ChatGPT Images 2.0",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "summary": "Livestream: https://openai.com/live/System card: https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...\n\nComments URL: https://news.ycombinator.com/item?id=47852835\nPoints: 376\n# Comments: 381",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 18:50:00 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Framework Laptop 13 Pro",
       "link": "https://frame.work/laptop13pro",
-      "summary": "Article URL: https://frame.work/laptop13pro\nComments URL: https://news.ycombinator.com/item?id=47852177\nPoints: 114\n# Comments: 41",
+      "summary": "Article URL: https://frame.work/laptop13pro\nComments URL: https://news.ycombinator.com/item?id=47852177\nPoints: 880\n# Comments: 487",
       "image": "",
       "published": "Tue, 21 Apr 2026 18:00:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "link": "https://github.com/calcom/cal.diy",
-      "summary": "Article URL: https://github.com/calcom/cal.diy\nComments URL: https://news.ycombinator.com/item?id=47852155\nPoints: 12\n# Comments: 0",
+      "title": "I Got Tired of Class-Heavy UI Code — So I Kept Going (Juice Part 4)",
+      "link": "https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-kept-going-juice-part-4-4jf2",
+      "summary": "In Part 1, I talked about the frustration.\n\nIn Part 2, I showed the direction.\n\nIn Part 3, I explained the shift toward a system.\n\nNow in Part 4, I want to talk about the part that matters most:\n\nrules.\n\nBecause a UI sys",
       "image": "",
-      "published": "Tue, 21 Apr 2026 17:58:21 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
-      "summary": "Article URL: https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr\nComments URL: https://news.ycombinator",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 17:40:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "link": "https://britannica11.org/",
-      "summary": "Article URL: https://britannica11.org/\nComments URL: https://news.ycombinator.com/item?id=47851885\nPoints: 49\n# Comments: 30",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 17:33:50 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "summary": "Vercel April 2026 security incident - https://news.ycombinator.com/item?id=47824463 - April 2026 (485 comments)A Roblox cheat and one AI tool brought down Vercel's platform - https://news.ycombinator.com/item?id=47844431",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 17:14:35 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "🙏🏻🙏🏻🙏🏻🙏🏻💪🏻💪🏻💪🏻💪🏻",
-      "link": "https://dev.to/jon_at_backboardio/-1n79",
-      "summary": "Building Conversational Intelligence with Backboard: Turning Conversations into a Living Intelligence System\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n       ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1211275%2F88edf8cd-cc3a-4aac-91b7-934631126085.png",
-      "published": "Tue, 21 Apr 2026 18:47:22 +0000",
+      "published": "Wed, 22 Apr 2026 01:05:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your Ridge Parameter Is PageRank's Damping Factor (and Why BLAS Beats GPU for Mid-Sized KRR)",
-      "link": "https://dev.to/ki-mathias/your-ridge-parameter-is-pageranks-damping-factor-and-why-blas-beats-gpu-for-mid-sized-krr-4hac",
-      "summary": "The ridge parameter λ in kernel regression and the damping factor d in PageRank are the same object. Both create a spectral gap. Both stabilize an otherwise-unstable iteration. Once you see it, four unrelated-looking alg",
+      "title": "(EDA Part-5) Multivariate Analysis — Wrapping Up EDA and What Comes Next",
+      "link": "https://dev.to/shivappa/eda-part-5-multivariate-analysis-wrapping-up-eda-and-what-comes-next-3k4b",
+      "summary": "Over the past four parts, we zoomed in on single features (univariate analysis), then looked at pairs (bivariate). Now it’s time for the real fun: multivariate analysis. This is where we weave three or more features toge",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7itv9utdxx3df3850x4a.png",
+      "published": "Wed, 22 Apr 2026 01:01:23 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Beyond CLAUDE.md: 5 Layers Your AI Agent Harness Is Missing",
+      "link": "https://dev.to/shipwithaiio/beyond-claudemd-5-layers-your-ai-agent-harness-is-missing-475h",
+      "summary": "Most developers stop at CLAUDE.md. That's layer 1. A production Claude Code harness needs 5 layers: memory, tools, permissions, hooks, and observability. Here's the full setup guide.\n\nClaude Code harness has 5 layers:\n\n\n",
       "image": "",
-      "published": "Tue, 21 Apr 2026 18:45:29 +0000",
+      "published": "Wed, 22 Apr 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Creator Block Debugger: Still Fixing It But It Works",
-      "link": "https://dev.to/ashb4/the-creator-block-debugger-still-fixing-it-but-it-works-39p",
-      "summary": "Creator block is usually not a talent problem. It is a starting problem.\n\nI built a system that works when motivation is zero. Here is how:\n\n\nHave a queue of 30 ready-to-post pieces\nUse prompts instead of waiting for ide",
+      "title": "Building Burn's MCP Server: 3 Patterns That Actually Work",
+      "link": "https://dev.to/fisher_shenfisher_1c32/building-burns-mcp-server-3-patterns-that-actually-work-1n5n",
+      "summary": "This post was originally published on burn451.cloud. Syndicated here.\n\n\n  \n  \n  Building Burn's MCP Server: 3 Patterns That Actually Work\n\n\nMCP has been open-source for over a year now. Cursor shipped Bugbot MCP support ",
       "image": "",
-      "published": "Tue, 21 Apr 2026 18:40:55 +0000",
+      "published": "Wed, 22 Apr 2026 00:43:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Senior Engineer Bottleneck: Why Manual Syntax-Grinding is the New Technical Debt",
-      "link": "https://dev.to/eric6166/the-senior-engineer-bottleneck-why-manual-syntax-grinding-is-the-new-technical-debt-9an",
-      "summary": "The Senior Engineer Bottleneck: Why Manual Syntax-Grinding is the New Technical Debt\n\n\nThe senior engineer who writes the most code is no longer your most valuable asset - they're your biggest bottleneck.\n\nToday, LLMs ca",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhzevgt047m1rrubc4ez.png",
-      "published": "Tue, 21 Apr 2026 18:40:44 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How I Ship systemd Logs to CloudWatch for $0 (Django + Celery on EC2)",
-      "link": "https://dev.to/hemanth_22799aec3766938fd/how-i-ship-systemd-logs-to-cloudwatch-for-0-django-celery-on-ec2-1844",
-      "summary": "Running Django and Celery as systemd services on EC2 and tired of SSH-ing in to debug? Here's the exact setup I used to ship logs to CloudWatch Logs for free, without touching a single production service. Real commands, ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxwkycaglp4tg6029tosm.jpg",
-      "published": "Tue, 21 Apr 2026 18:32:46 +0000",
+      "title": "I Built a Video AI That Sees Like a Human - Not Like a Computer",
+      "link": "https://dev.to/hemankumar6/i-built-a-video-ai-that-sees-like-a-human-not-like-a-computer-10do",
+      "summary": "Most video AI works like this:\n\nLook at frame 1 → detect objects → done.\nLook at frame 2 → detect objects → done.\nLook at frame 3 → detect objects → done.\n\nEach frame is independent. The system has no memory. \nIt doesn't",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5bby1029kpn710dmk0m3.png",
+      "published": "Wed, 22 Apr 2026 00:41:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
