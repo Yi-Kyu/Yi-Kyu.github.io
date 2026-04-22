@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T01:12:21.459807Z",
+  "updated": "2026-04-22T07:16:49.133883Z",
   "articles": [
     {
       "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+      "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 02:53:02 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "French govt agency confirms breach as hacker offers to sell data",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
       "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
@@ -79,15 +88,6 @@
       "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
       "image": "",
       "published": "Tue, 21 Apr 2026 09:49:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-      "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,11 +137,38 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Claude Code to be removed from Pro Tier?",
-      "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-      "summary": "https://x.com/TheAmolAvasare/status/2046725498592722972https://xcancel.com/TheAmolAvasare/status/204672549859272297...\n\nComments URL: https://news.ycombinator.com/item?id=47855565\nPoints: 229\n# Comments: 155",
+      "title": "FBI looks into dead or missing scientists tied to NASA, Blue Origin, SpaceX",
+      "link": "https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/",
+      "summary": "Article URL: https://fortune.com/2026/04/21/scientists-disappear-die-nasa-space-blue-origin-spacex/\nComments URL: https://news.ycombinator.com/item?id=47858246\nPoints: 110\n# Comments: 31",
       "image": "",
-      "published": "Tue, 21 Apr 2026 22:36:24 +0000",
+      "published": "Wed, 22 Apr 2026 02:49:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Kuri – Zig based agent-browser alternative",
+      "link": "https://github.com/justrach/kuri",
+      "summary": "Article URL: https://github.com/justrach/kuri\nComments URL: https://news.ycombinator.com/item?id=47857964\nPoints: 13\n# Comments: 2",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 02:15:38 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Global growth in solar \"the largest ever observed for any source\"",
+      "link": "https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/04/global-growth-in-solar-the-largest-ever-observed-for-any-source/\nComments URL: https://news.ycombinator.com/item?id=47857509\nPoints: 70\n# Comments: 6",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 01:25:04 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Drunk post: Things I've learned as a senior engineer (2021)",
+      "link": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+      "summary": "Article URL: https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as\nComments URL: https://news.ycombinator.com/item?id=47856535\nPoints: 117\n# Comments: 71",
+      "image": "",
+      "published": "Tue, 21 Apr 2026 23:53:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
@@ -155,74 +182,47 @@
       "category": "development"
     },
     {
-      "title": "Zindex – Diagram Infrastructure for Agents",
-      "link": "https://zindex.ai/",
-      "summary": "Article URL: https://zindex.ai/\nComments URL: https://news.ycombinator.com/item?id=47854116\nPoints: 31\n# Comments: 11",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 20:27:37 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "ChatGPT Images 2.0",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "summary": "Livestream: https://openai.com/live/System card: https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...\n\nComments URL: https://news.ycombinator.com/item?id=47852835\nPoints: 376\n# Comments: 381",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 18:50:00 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Framework Laptop 13 Pro",
-      "link": "https://frame.work/laptop13pro",
-      "summary": "Article URL: https://frame.work/laptop13pro\nComments URL: https://news.ycombinator.com/item?id=47852177\nPoints: 880\n# Comments: 487",
-      "image": "",
-      "published": "Tue, 21 Apr 2026 18:00:34 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I Got Tired of Class-Heavy UI Code — So I Kept Going (Juice Part 4)",
-      "link": "https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-kept-going-juice-part-4-4jf2",
-      "summary": "In Part 1, I talked about the frustration.\n\nIn Part 2, I showed the direction.\n\nIn Part 3, I explained the shift toward a system.\n\nNow in Part 4, I want to talk about the part that matters most:\n\nrules.\n\nBecause a UI sys",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 01:05:28 +0000",
+      "title": "Why Simple Tasks Feel So Complicated Online",
+      "link": "https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5",
+      "summary": "Somehow, the simplest tasks online are the most frustrating.\n\nYou open a tool expecting a quick result…\n\n…and end up dealing with:\n    • slow loading\n    • unnecessary steps\n    • endless popups\n\nAll for something that s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqylawx5lcdgauj1a1aqt.png",
+      "published": "Wed, 22 Apr 2026 07:04:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "(EDA Part-5) Multivariate Analysis — Wrapping Up EDA and What Comes Next",
-      "link": "https://dev.to/shivappa/eda-part-5-multivariate-analysis-wrapping-up-eda-and-what-comes-next-3k4b",
-      "summary": "Over the past four parts, we zoomed in on single features (univariate analysis), then looked at pairs (bivariate). Now it’s time for the real fun: multivariate analysis. This is where we weave three or more features toge",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7itv9utdxx3df3850x4a.png",
-      "published": "Wed, 22 Apr 2026 01:01:23 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Beyond CLAUDE.md: 5 Layers Your AI Agent Harness Is Missing",
-      "link": "https://dev.to/shipwithaiio/beyond-claudemd-5-layers-your-ai-agent-harness-is-missing-475h",
-      "summary": "Most developers stop at CLAUDE.md. That's layer 1. A production Claude Code harness needs 5 layers: memory, tools, permissions, hooks, and observability. Here's the full setup guide.\n\nClaude Code harness has 5 layers:\n\n\n",
+      "title": "I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally",
+      "link": "https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k",
+      "summary": "The Problem\nI was applying to jobs the same way everyone does.\n\nOpen LinkedIn. Scroll. Click. Read. Decide. Close tab. Repeat — 50 times a day.\n\nNo system. No filter. No way to know if a job was actually worth my time be",
       "image": "",
-      "published": "Wed, 22 Apr 2026 01:00:00 +0000",
+      "published": "Wed, 22 Apr 2026 06:57:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Burn's MCP Server: 3 Patterns That Actually Work",
-      "link": "https://dev.to/fisher_shenfisher_1c32/building-burns-mcp-server-3-patterns-that-actually-work-1n5n",
-      "summary": "This post was originally published on burn451.cloud. Syndicated here.\n\n\n  \n  \n  Building Burn's MCP Server: 3 Patterns That Actually Work\n\n\nMCP has been open-source for over a year now. Cursor shipped Bugbot MCP support ",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 00:43:08 +0000",
+      "title": "What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱",
+      "link": "https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51",
+      "summary": "Discuss ?\nweekly-retro\nAI talk news and office coffee upgrades\n\n\n\n👋👋👋👋\n\nLooking back on your week -- what was something you're proud of?\n\nAll wins count -- big or small 🎉\n\nExamples of 'wins' include:\n\nGetting a promotion",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekk5kaxm940zz8wwoqs7.jpg",
+      "published": "Wed, 22 Apr 2026 06:53:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Video AI That Sees Like a Human - Not Like a Computer",
-      "link": "https://dev.to/hemankumar6/i-built-a-video-ai-that-sees-like-a-human-not-like-a-computer-10do",
-      "summary": "Most video AI works like this:\n\nLook at frame 1 → detect objects → done.\nLook at frame 2 → detect objects → done.\nLook at frame 3 → detect objects → done.\n\nEach frame is independent. The system has no memory. \nIt doesn't",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5bby1029kpn710dmk0m3.png",
-      "published": "Wed, 22 Apr 2026 00:41:41 +0000",
+      "title": "I'm losing my own brand SERP to 3rd-party articles. Here's the JSON-LD stack I'm shipping to claw it back.",
+      "link": "https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1",
+      "summary": "The problem I'm still losing at\n\n\nSearch my app's name on Google and the first results aren't my site. They're other people's articles about it. Directories, aggregators, a Reddit thread, a Medium post. The actual produc",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjnbwtr9g9d8ruld32ch5.png",
+      "published": "Wed, 22 Apr 2026 06:52:27 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Vibe Coding Turned Me into a Mouse on a Wheel: How I Fixed It",
+      "link": "https://dev.to/benteigland11/vibe-coding-turned-me-into-a-mouse-on-a-wheel-how-i-fixed-it-282n",
+      "summary": "As an electrical engineer, I always enjoyed dabbling in programming, but comfortably outsourced it once an implementation needed real solutions. Then AI popped up and started making software accessible. Claude Code, Curs",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvnvrvds5h3jnydo6dd9f.png",
+      "published": "Wed, 22 Apr 2026 06:51:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
