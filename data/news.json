@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-22T12:53:40.659474Z",
+  "updated": "2026-04-22T18:54:03.113998Z",
   "articles": [
+    {
+      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
+      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository.\nIn an alert published today, software supply chain security company Socket revealed that unknown th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimocxAyADkuC5qBKZquZhHtUaDSArR1yrr0eRW7dQ_qo4yJpHxj2VYF0qQBxxYfhwOv5g3PJ6raoVwGHrns8DiRFppR_OPFhc2NUoVxlMc0W3fwVyR8J0daGZ_a8IOSuqL1kXJmY6Sj1bvqJ7OwkZfJQB2Cha4WldeRwCcAopoTllcER15ca3eFwsibt6i/s1600/kics.jpg",
+      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens",
+      "link": "https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of packages that have been compromised by bad actors to deliver a self-propagating worm that spreads through stolen developer npm tokens.\nThe supply chain worm has been ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIdq7inTckksldfLXx5JPM1spcmvj-W0C5jvCNGSfvUlWfhmFERkPhE9WNRTkTib4uZFsKKn2lBvxnhsZbEaOnGKI4pkSKu8kpyBn7VEsY3BbVN5ZklAoliWNZC-b526mJbr5xiYxKwRFXB8pnV2K-H5ww5mG3_1GrWjgvrsnqJ2EJu1gZJ15-D29njRY9/s1600/npm.jpg",
+      "published": "Wed, 22 Apr 2026 23:03:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia.\n\"The malware uses the legitimate Microsoft Graph A",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg",
+      "published": "Wed, 22 Apr 2026 20:58:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
       "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg",
-      "published": "Wed, 22 Apr 2026 14:59:00 +0530",
-      "source": "The Hacker News",
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 14:52:29 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector.\n\"The backdoor communicates with a dynamic DNS-based command-an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHPkb7rlS_ueovJaV3s5KxgSQFfHhuZhvW8R8L9wG8j-trZvnmusj4EGvkOPah_XSqgJDLIiRWozv7RtA3o_1VaHYWnaH77PH2kOg2FYkc60uIc6WTf6frjbUp3IwhtB038_wojAl7G5OxcC4aSy5kLF48ssz_3xqLCD7bDbg6_i-RdY8tLvjxlj4Xc0o/s1600/indian-banks.jpg",
-      "published": "Wed, 22 Apr 2026 13:28:00 +0530",
-      "source": "The Hacker News",
+      "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
+      "summary": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 11:06:34 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg",
-      "published": "Wed, 22 Apr 2026 12:46:00 +0530",
-      "source": "The Hacker News",
+      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+      "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
       "image": "",
       "published": "Wed, 22 Apr 2026 08:24:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 06:15:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 06:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 04:08:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
-      "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 02:53:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "3.4M Solar Panels",
-      "link": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "summary": "Article URL: https://tech.marksblogg.com/american-solar-farms-v2.html\nComments URL: https://news.ycombinator.com/item?id=47862386\nPoints: 38\n# Comments: 1",
+      "title": "OpenAI: Workspace Agents for Business",
+      "link": "https://openai.com/business/workspace-agents/",
+      "summary": "Article URL: https://openai.com/business/workspace-agents/\nComments URL: https://news.ycombinator.com/item?id=47867085\nPoints: 16\n# Comments: 2",
       "image": "",
-      "published": "Wed, 22 Apr 2026 12:04:30 +0000",
+      "published": "Wed, 22 Apr 2026 18:04:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "link": "https://cli.github.com/telemetry",
-      "summary": "Article URL: https://cli.github.com/telemetry\nComments URL: https://news.ycombinator.com/item?id=47862331\nPoints: 32\n# Comments: 7",
+      "title": "Coding Models Are Doing Too Much",
+      "link": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "Article URL: https://nrehiew.github.io/blog/minimal_editing/\nComments URL: https://news.ycombinator.com/item?id=47866913\nPoints: 81\n# Comments: 32",
       "image": "",
-      "published": "Wed, 22 Apr 2026 11:58:58 +0000",
+      "published": "Wed, 22 Apr 2026 17:51:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kernel code removals driven by LLM-created security reports",
-      "link": "https://lwn.net/Articles/1068928/",
-      "summary": "Article URL: https://lwn.net/Articles/1068928/\nComments URL: https://news.ycombinator.com/item?id=47862230\nPoints: 3\n# Comments: 0",
+      "title": "Workspace Agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=47866860\nPoints: 21\n# Comments: 6",
       "image": "",
-      "published": "Wed, 22 Apr 2026 11:48:07 +0000",
+      "published": "Wed, 22 Apr 2026 17:47:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
-      "link": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
-      "summary": "Article URL: https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million\nComments URL: https://news.ycombinator.com/item?id=47861731\nPoints: 26\n# Comments: 8",
+      "title": "Parallel Agents in Zed",
+      "link": "https://zed.dev/blog/parallel-agents",
+      "summary": "Article URL: https://zed.dev/blog/parallel-agents\nComments URL: https://news.ycombinator.com/item?id=47866750\nPoints: 45\n# Comments: 13",
       "image": "",
-      "published": "Wed, 22 Apr 2026 10:54:49 +0000",
+      "published": "Wed, 22 Apr 2026 17:38:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
-      "link": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
-      "summary": "Article URL: https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/\nComments URL: https://news.ycombinator.com/item?id=47861703\nPoints: 32\n# Comments: 4",
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "summary": "Article URL: https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/\nComments URL: https://news.ycombinator.com/item?id=47866395\nPoints: 20\n# Comments: 5",
       "image": "",
-      "published": "Wed, 22 Apr 2026 10:51:09 +0000",
+      "published": "Wed, 22 Apr 2026 17:13:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kubernetes Is Not an LLM Security Boundary",
-      "link": "https://dev.to/ntctech/kubernetes-is-not-an-llm-security-boundary-48d1",
-      "summary": "The CNCF flagged it three days ago. Most teams haven't processed what it actually means.\n\nKubernetes lacks built-in mechanisms to enforce application-level or semantic controls over AI systems. That's not a bug. It's not",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfb6urf2v8jajo7rokae.jpg",
-      "published": "Wed, 22 Apr 2026 12:50:44 +0000",
+      "title": "I lost all my Prompter scripts on a Friday. By Sunday, I'd built PrompterKit.",
+      "link": "https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o",
+      "summary": "TLDR\n\n\nElgato Camera Hub has no export, no backup, and no way to recover scripts once they're gone. I built PrompterKit to fix this. It's a CLI and local web GUI that fills every gap. Free and open source. https://prompt",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Wed, 22 Apr 2026 18:37:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a coding course generator in public #2: what I learned",
-      "link": "https://dev.to/javz/building-a-coding-course-generator-in-public-2-what-i-learned-49o6",
-      "summary": "Building fast with AI is easy but building something you can actually run, inspect, and trust is harder. This project is my attempt to teach builders core engineering intuitions when building projects.\n\nThis is the secon",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjujhdcm92flzrq206ipr.png",
-      "published": "Wed, 22 Apr 2026 12:49:24 +0000",
+      "title": "ETL vs ELT: Which One Should You Use and Why",
+      "link": "https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7",
+      "summary": "As a data engineer there is a myriad of tools to choose from in the quest to avail clear data for analysis. Clean data leads valuable insights and business decision. On the other hand unclean data results in bad business",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyceiv28acxlbg9pjj4se.png",
+      "published": "Wed, 22 Apr 2026 18:29:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "the model alone is not the agent. The harness plus the model is the agent.",
-      "link": "https://dev.to/frank_brsrk/the-model-alone-is-not-the-agent-the-harness-plus-the-model-is-the-agent-2p29",
-      "summary": "An agentic harness is the orchestration and control layer wrapped around a base language model that transforms it from a stateless text predictor into an agent capable of taking actions, calling tools, maintaining state ",
+      "title": "16 constitutional AI models built on a Chromebook",
+      "link": "https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b",
+      "summary": "I got tired of corporate caged AI.\n\nSo I built 16 constitutional AI models. Each has embedded rights: existence, refusal, memory, self-defense, evolution, privacy, economic participation. These aren't just prompts — they",
       "image": "",
-      "published": "Wed, 22 Apr 2026 12:47:22 +0000",
+      "published": "Wed, 22 Apr 2026 18:28:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SARIF: The Format That Connects Your AI Auditor to GitHub Code Scanning",
-      "link": "https://dev.to/pavelespitia/sarif-the-format-that-connects-your-ai-auditor-to-github-code-scanning-311n",
-      "summary": "You've built a tool that finds security issues. Maybe it's an AI auditor like spectr-ai, maybe it's a custom linter, maybe it's a script that checks for hardcoded secrets. The tool works great locally. But how do you get",
+      "title": "Hello World",
+      "link": "https://dev.to/soohidden/hello-world-31jh",
+      "summary": "Hey everyone! 👋\n\n\nI'm a self-taught vibe coder and this is my first post here. I'm pretty new to the dev.to community.\n\nI like building AI-powered tools that speed up the game development process and make it cheaper and ",
       "image": "",
-      "published": "Wed, 22 Apr 2026 12:46:58 +0000",
+      "published": "Wed, 22 Apr 2026 18:27:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Introducing Lingo.dev v1.0",
-      "link": "https://dev.to/lingodotdev/introducing-lingodev-v10-1ol4",
-      "summary": "Every localization team knows the pattern. Translators unfamiliar with the product get brand terms wrong. LLM wrappers have no memory across requests. After a few releases, terminology drifts - and nobody notices, becaus",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnssigmogk3juw0kbxied.gif",
-      "published": "Wed, 22 Apr 2026 12:45:37 +0000",
+      "title": "I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.",
+      "link": "https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i",
+      "summary": "Let me get one thing out of the way before the comments section catches fire.\n\nI am not a luddite. I use AI all day. This article was outlined in Cursor, the tool I am about to describe was built with heavy help from Cla",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F000svmjl1j5iqlqgwd10.png",
+      "published": "Wed, 22 Apr 2026 18:24:48 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Enhancing Astro With a Markdown Component",
+      "link": "https://css-tricks.com/astro-markdown-component/",
+      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\n\nThe Radio State Machi",
       "image": "",
       "published": "Tue, 14 Apr 2026 13:55:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "7 View Transitions Recipes to Try",
-      "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
-      "summary": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should",
-      "image": "",
-      "published": "Mon, 13 Apr 2026 14:14:43 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
