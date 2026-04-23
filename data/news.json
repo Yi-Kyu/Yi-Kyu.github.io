@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T18:54:03.113998Z",
+  "updated": "2026-04-23T01:17:47.128347Z",
   "articles": [
     {
       "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 16:58:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
       "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
       "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
@@ -70,24 +88,6 @@
       "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
       "image": "",
       "published": "Wed, 22 Apr 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 08:24:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI: Workspace Agents for Business",
-      "link": "https://openai.com/business/workspace-agents/",
-      "summary": "Article URL: https://openai.com/business/workspace-agents/\nComments URL: https://news.ycombinator.com/item?id=47867085\nPoints: 16\n# Comments: 2",
+      "title": "Approximating Hyperbolic Tangent",
+      "link": "https://jtomschroeder.com/blog/approximating-tanh/",
+      "summary": "Article URL: https://jtomschroeder.com/blog/approximating-tanh/\nComments URL: https://news.ycombinator.com/item?id=47870709\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Wed, 22 Apr 2026 18:04:07 +0000",
+      "published": "Wed, 22 Apr 2026 23:46:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Coding Models Are Doing Too Much",
-      "link": "https://nrehiew.github.io/blog/minimal_editing/",
-      "summary": "Article URL: https://nrehiew.github.io/blog/minimal_editing/\nComments URL: https://news.ycombinator.com/item?id=47866913\nPoints: 81\n# Comments: 32",
+      "title": "Bring your own Agent to MS Teams",
+      "link": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+      "summary": "Article URL: https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/\nComments URL: https://news.ycombinator.com/item?id=47870108\nPoints: 10\n# Comments: 2",
       "image": "",
-      "published": "Wed, 22 Apr 2026 17:51:17 +0000",
+      "published": "Wed, 22 Apr 2026 22:25:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Workspace Agents in ChatGPT",
-      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=47866860\nPoints: 21\n# Comments: 6",
+      "title": "The Neon King of New Orleans",
+      "link": "https://gardenandgun.com/new-orleans-neon-king",
+      "summary": "Article URL: https://gardenandgun.com/new-orleans-neon-king\nComments URL: https://news.ycombinator.com/item?id=47869496\nPoints: 25\n# Comments: 3",
       "image": "",
-      "published": "Wed, 22 Apr 2026 17:47:07 +0000",
+      "published": "Wed, 22 Apr 2026 21:26:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Parallel Agents in Zed",
-      "link": "https://zed.dev/blog/parallel-agents",
-      "summary": "Article URL: https://zed.dev/blog/parallel-agents\nComments URL: https://news.ycombinator.com/item?id=47866750\nPoints: 45\n# Comments: 13",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/\nComments URL: https://news.ycombinator.com/item?id=47868867\nPoints: 325\n# Comments: 83",
       "image": "",
-      "published": "Wed, 22 Apr 2026 17:38:57 +0000",
+      "published": "Wed, 22 Apr 2026 20:27:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
-      "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
-      "summary": "Article URL: https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/\nComments URL: https://news.ycombinator.com/item?id=47866395\nPoints: 20\n# Comments: 5",
+      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+      "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard\nComments URL: https://news.ycombinator.com/item?id=47868",
       "image": "",
-      "published": "Wed, 22 Apr 2026 17:13:19 +0000",
+      "published": "Wed, 22 Apr 2026 20:24:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I lost all my Prompter scripts on a Friday. By Sunday, I'd built PrompterKit.",
-      "link": "https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o",
-      "summary": "TLDR\n\n\nElgato Camera Hub has no export, no backup, and no way to recover scripts once they're gone. I built PrompterKit to fix this. It's a CLI and local web GUI that fills every gap. Free and open source. https://prompt",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Wed, 22 Apr 2026 18:37:34 +0000",
+      "title": "Just shipped CarbonSnap 🌱 — a simple yet powerful way to track your carbon footprint and discover smarter, eco-friendly alternatives.\n\nBuilt this for the Earth Day Challenge with a focus on clean UI, practical insights, ",
+      "link": "https://dev.to/sripadh_sujith_1487e8db18/just-shipped-carbonsnap-a-simple-yet-powerful-way-to-track-your-carbon-footprint-and-discover-3h94",
+      "summary": "🌍CarbonSnap: AI-Powered Image Recognition for Real-Time Carbon Footprint Insights\n\n\n  \n      DEV Weekend Challenge: Earth Day\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n      ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2980282%2F3410fa2c-b996-45bf-ab9e-35b0c7cdce2a.png",
+      "published": "Thu, 23 Apr 2026 01:10:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ETL vs ELT: Which One Should You Use and Why",
-      "link": "https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7",
-      "summary": "As a data engineer there is a myriad of tools to choose from in the quest to avail clear data for analysis. Clean data leads valuable insights and business decision. On the other hand unclean data results in bad business",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyceiv28acxlbg9pjj4se.png",
-      "published": "Wed, 22 Apr 2026 18:29:50 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "16 constitutional AI models built on a Chromebook",
-      "link": "https://dev.to/scuradimensions/16-constitutional-ai-models-built-on-a-chromebook-1a9b",
-      "summary": "I got tired of corporate caged AI.\n\nSo I built 16 constitutional AI models. Each has embedded rights: existence, refusal, memory, self-defense, evolution, privacy, economic participation. These aren't just prompts — they",
+      "title": "Stop Losing Your Health Data! Build a Lifelong Electronic Health Record (EHR) System with Neo4j and GraphRAG 🏥💻",
+      "link": "https://dev.to/wellallytech/stop-losing-your-health-data-build-a-lifelong-electronic-health-record-ehr-system-with-neo4j-and-2jk2",
+      "summary": "Let’s be honest: our medical history is usually a chaotic mess of scattered PDFs, blurry smartphone photos of prescriptions, and \"I think I had a fever in 2019\" memories. When you're dealing with long-term health trackin",
       "image": "",
-      "published": "Wed, 22 Apr 2026 18:28:13 +0000",
+      "published": "Thu, 23 Apr 2026 01:10:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hello World",
-      "link": "https://dev.to/soohidden/hello-world-31jh",
-      "summary": "Hey everyone! 👋\n\n\nI'm a self-taught vibe coder and this is my first post here. I'm pretty new to the dev.to community.\n\nI like building AI-powered tools that speed up the game development process and make it cheaper and ",
+      "title": "BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?",
+      "link": "https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-2j70",
+      "summary": "BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?\n\n\nI've spent the last few months running background removal at scale — tens of thousands of images through different models — and t",
       "image": "",
-      "published": "Wed, 22 Apr 2026 18:27:20 +0000",
+      "published": "Thu, 23 Apr 2026 01:08:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.",
-      "link": "https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i",
-      "summary": "Let me get one thing out of the way before the comments section catches fire.\n\nI am not a luddite. I use AI all day. This article was outlined in Cursor, the tool I am about to describe was built with heavy help from Cla",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F000svmjl1j5iqlqgwd10.png",
-      "published": "Wed, 22 Apr 2026 18:24:48 +0000",
+      "title": "Saga模式深度指南：分布式事务的协调艺术",
+      "link": "https://dev.to/tianxin/sagamo-shi-shen-du-zhi-nan-fen-bu-shi-shi-wu-de-xie-diao-yi-zhu-71a",
+      "summary": "Saga模式深度指南：分布式事务的协调艺术\n\n\n在微服务架构中，分布式事务是一个永恒的挑战。当一个业务操作跨越多个服务时，如何保证数据的一致性？传统的事务机制（如两阶段提交）在分布式环境中往往不切实际。这时，Saga模式应运而生，成为处理分布式事务的主流方案。\n\n\n  \n  \n  什么是Saga模式？\n\n\nSaga模式将一个长期事务拆分为多个本地事务，每个服务负责自己的本地事务。各个服务通过消息队列或事件流进行通信，共同完成一个完整的业",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 01:06:02 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+      "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-ala",
+      "summary": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments to critical safety con",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 01:00:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
