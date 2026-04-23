@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
       enlace: "https://app.hackthebox.com/machines/Beep",
     },
         {
-      id: 8,
+      id: 9,
       nombre: "Dark Corp",
       plataforma: "hackthebox",
       dificultad: "Insane",
