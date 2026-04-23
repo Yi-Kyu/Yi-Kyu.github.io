@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
       ip: "10.10.10.3",
       fecha: "2023-01-15",
       categorias: ["web", "privesc"],
-      enlace: "https://app.hackthebox.com/machines/Cat",
+      enlace: "https://yi-kyu-top-docs.gitbook.io/info.docs/linux/medium/cat",
     },
     {
       id: 2,
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
       ip: "10.10.10.4",
       fecha: "2023-01-25",
       categorias: ["privesc", "rce"],
-      enlace: "https://app.hackthebox.com/machines/Blackfield",
+      enlace: "https://yi-kyu-top-docs.gitbook.io/info.docs/windows/hard/blackfield",
     },
     {
       id: 4,
@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", () => {
       ip: "10.10.11.54",
       fecha: "2025-05-05",
       categorias: ["AD", "RoundCube"],
-      enlace: "https://app.hackthebox.com/machines/Beep",
+      enlace: "https://yi-kyu-top-docs.gitbook.io/info.docs/windows/insane/darkcorp",
     },
   ];
 
