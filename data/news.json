@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-23T12:52:59.720564Z",
+  "updated": "2026-04-23T18:50:44.452415Z",
   "articles": [
+    {
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other in",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg",
+      "published": "Thu, 23 Apr 2026 23:46:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg",
+      "published": "Thu, 23 Apr 2026 19:12:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. Packages you did not",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg",
+      "published": "Thu, 23 Apr 2026 18:47:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
       "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide array of tools mostly wr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg",
-      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
-      "source": "The Hacker News",
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 12:05:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
-      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
-      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems.\nThe company said i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwM3USZlfhbZvEZWWJp8Qa4g-UzetuH1vkGUsyr3Ju00B8gC8z791k1Gv-WZ_pMB1VQtX1xLFj-ETJg33razqLHCpoOzMcbb65ucw8jruZ_ltVmaO4bky9WmoFSXfgquEn8HVbLx_I02h0BDOXPBn61_jdnRYKSleCpfUR8G4pkEpsn592IvR3D3qgt0X/s1600/vercel-breach.jpg",
-      "published": "Thu, 23 Apr 2026 14:10:00 +0530",
-      "source": "The Hacker News",
+      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 10:16:21 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bvme9f4RYazoU-5dUmoTKJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1600/apple-signal.jpg",
-      "published": "Thu, 23 Apr 2026 13:36:00 +0530",
-      "source": "The Hacker News",
+      "title": "Regular Password Resets Aren’t as Safe as You Think",
+      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
+      "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 10:10:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+      "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 09:18:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection a",
       "image": "",
       "published": "Thu, 23 Apr 2026 08:28:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-      "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [.",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 08:06:18 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 07:05:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 16:58:58 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
-      "link": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-      "summary": "Article URL: https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/\nComments URL: https://news.ycombinator.com/item?id=47874814\nPoints: 28",
+      "title": "Middle Eastern News Sites Are U.S. Government Propaganda Ops",
+      "link": "https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/",
+      "summary": "Article URL: https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/\nComments URL: https://news.ycombinator.com/item?id=47879386\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:12:03 +0000",
+      "published": "Thu, 23 Apr 2026 18:20:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jiga (YC W21) Is Hiring",
-      "link": "https://jiga.io/about-us/",
-      "summary": "Article URL: https://jiga.io/about-us/\nComments URL: https://news.ycombinator.com/item?id=47874734\nPoints: 0\n# Comments: 0",
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/\nComments URL: https://news.ycombinator.com/item?id=47879092\nPoints: 322\n# Comments: 107",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:02:44 +0000",
+      "published": "Thu, 23 Apr 2026 18:01:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
-      "link": "https://github.com/russellromney/honker",
-      "summary": "Article URL: https://github.com/russellromney/honker\nComments URL: https://news.ycombinator.com/item?id=47874647\nPoints: 22\n# Comments: 3",
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Article URL: https://www.anthropic.com/engineering/april-23-postmortem\nComments URL: https://news.ycombinator.com/item?id=47878905\nPoints: 181\n# Comments: 101",
       "image": "",
-      "published": "Thu, 23 Apr 2026 11:53:11 +0000",
+      "published": "Thu, 23 Apr 2026 17:48:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sneaky spam in conversational replies to blog posts",
-      "link": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/\nComments URL: https://news.ycombinator.com/item?id=47874631\nPoints: 17\n# Comments: 1",
+      "title": "People Do Not Yearn for Automation",
+      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "summary": "Article URL: https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\nComments URL: https://news.ycombinator.com/item?id=47878737\nPoints: 23\n# Comments: 11",
       "image": "",
-      "published": "Thu, 23 Apr 2026 11:50:25 +0000",
+      "published": "Thu, 23 Apr 2026 17:36:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Built a daily game where you sort historical events chronologically",
-      "link": "https://hisorty.app/",
-      "summary": "Article URL: https://hisorty.app/\nComments URL: https://news.ycombinator.com/item?id=47873966\nPoints: 11\n# Comments: 8",
+      "title": "Palantir Employees Are Starting to Wonder If They're the Bad Guys",
+      "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "summary": "Article URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/\nComments URL: https://news.ycombinator.com/item?id=47878633\nPoints: 115\n# Comments: 68",
       "image": "",
-      "published": "Thu, 23 Apr 2026 10:14:46 +0000",
+      "published": "Thu, 23 Apr 2026 17:30:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Senior Python Challenges",
-      "link": "https://dev.to/krun_pro/senior-python-challenges-4glb",
-      "summary": "Senior Python Challenges: What I Learned After Moving From Writing Code to Running Systems in Production\n\nWorking with Python as a senior developer feels very different from writing scripts or building small services. At",
+      "title": "From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js",
+      "link": "https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme",
+      "summary": "Hi dev.to 👋\nI am Oleh, a Full-Stack Developer focused on building fast, SEO-ready websites and web apps for small businesses and startup founders.\n\nI recently joined dev.to, so this is my first post. I want to share the ",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:51:19 +0000",
+      "published": "Thu, 23 Apr 2026 18:41:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google Says AI Writes 75% Of New Code Now - Are We Still Programming Or Just Reviewing?",
-      "link": "https://dev.to/dhruvjoshi9/google-says-ai-writes-75-of-new-code-now-are-we-still-programming-or-just-reviewing-45bg",
-      "summary": "Google just said the quiet part out loud, and yeah, it hit developers like a cold splash of water. Sundar Pichai says about 75% of all new code at Google is now AI-generated and approved by engineers, up from 50% last fa",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 12:47:47 +0000",
+      "title": "Generating SBOM with Docker Scout",
+      "link": "https://dev.to/docker/generating-sbom-with-docker-scout-27eg",
+      "summary": "Knowing what's inside your container is the first step to securing it. In the first commando mission, we dockerized a Java 26 project using Docker Init. Now that we have an image, it's time to see what's actually in it.\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4p1st5ec20jpfc3nbc93.png",
+      "published": "Thu, 23 Apr 2026 18:40:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "##Building a Pricing Engine That Actually Works at Scale",
-      "link": "https://dev.to/printo_tom/building-a-pricing-engine-that-actually-works-at-scale-486f",
-      "summary": "Building a Pricing Engine That Actually Works at Scale\n\n\nMost people think pricing is simple.\n\nSet a price → show it → done.\n\nBut the moment you deal with real traffic, real users, and real business pressure… things get ",
+      "title": "How to Scrape LinkedIn Data: Complete Guide for 2026",
+      "link": "https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0",
+      "summary": "Disclaimer: This guide covers extracting publicly accessible data. Always review a site's robots.txt and Terms of Service before scraping.\n\nTo scrape public job postings from LinkedIn at scale, engineering teams use Pyth",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:45:34 +0000",
+      "published": "Thu, 23 Apr 2026 18:37:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Automated My Entire Link Management Workflow with a URL Shortener API — Here's How",
-      "link": "https://dev.to/muhammad_jahangeershams/i-automated-my-entire-link-management-workflow-with-a-url-shortener-api-heres-how-10b4",
-      "summary": "Most developers I know treat URL shorteners as a throwaway tool. Paste a link, get a short one, move on. I used to think the same until I started building out a proper content and campaign workflow and realized how much ",
+      "title": "Why Security Took Centre Stage at Google Cloud NEXT '26",
+      "link": "https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c",
+      "summary": "This is a submission for the Google Cloud NEXT Writing Challenge\n\n\n  \n  \n  Why Security Took Center Stage at Google Cloud NEXT '26\n\n\nAt Google Cloud NEXT '26, most discussions focused on AI and faster development. But on",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:42:30 +0000",
+      "published": "Thu, 23 Apr 2026 18:35:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Switch Microsoft 365 Tenant | A Scenario-Based Guide",
-      "link": "https://dev.to/katherine_casey_dde9808c7/how-to-switch-microsoft-365-tenant-a-scenario-based-guide-4opk",
-      "summary": "The process to switch tenants in Microsoft 365 may look simple if you’re not involved in it. In reality, the scene is quite different. When you see it through a real-world scenario, the process becomes much easier to und",
+      "title": "How We Log LLM Requests at Sub-50ms Latency Using ClickHouse",
+      "link": "https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn",
+      "summary": "We were logging 50,000 LLM requests per day to PostgreSQL. Query latency was fine. At 400,000 requests, cost aggregation queries started taking 3 seconds. At 2 million, the database was the slowest thing in the stack.\n\nW",
       "image": "",
-      "published": "Thu, 23 Apr 2026 12:40:00 +0000",
+      "published": "Thu, 23 Apr 2026 18:30:00 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Recreating Apple’s Vision Pro Animation in CSS",
+      "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+      "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 13:22:57 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to",
       "image": "",
       "published": "Thu, 16 Apr 2026 13:53:58 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Radio State Machine",
-      "link": "https://css-tricks.com/the-radio-state-machine/",
-      "summary": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\n\nThe Radio State Machi",
-      "image": "",
-      "published": "Tue, 14 Apr 2026 13:55:38 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
