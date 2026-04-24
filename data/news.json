@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:50:44.452415Z",
+  "updated": "2026-04-24T01:17:10.613564Z",
   "articles": [
     {
       "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 17:33:45 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 15:21:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
       "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
@@ -61,33 +88,6 @@
       "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
       "image": "",
       "published": "Thu, 23 Apr 2026 10:16:21 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Regular Password Resets Aren’t as Safe as You Think",
-      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-      "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 10:10:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
-      "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 09:18:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-      "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection a",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 08:28:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Middle Eastern News Sites Are U.S. Government Propaganda Ops",
-      "link": "https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/",
-      "summary": "Article URL: https://theintercept.com/2026/04/20/pentagon-middle-eastern-news-propaganda-iran/\nComments URL: https://news.ycombinator.com/item?id=47879386\nPoints: 11\n# Comments: 0",
+      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+      "link": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "summary": "Article URL: https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL",
       "image": "",
-      "published": "Thu, 23 Apr 2026 18:20:13 +0000",
+      "published": "Thu, 23 Apr 2026 22:37:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-5.5",
-      "link": "https://openai.com/index/introducing-gpt-5-5/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/\nComments URL: https://news.ycombinator.com/item?id=47879092\nPoints: 322\n# Comments: 107",
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "summary": "Hey there! I am Luca, I write https://refactoring.fm/ and I built Tolaria for myself to manage my own knowledge base (10K notes, 300+ articles written in over 6 years of newslettering) and work well with AI.Tolaria is of",
       "image": "",
-      "published": "Thu, 23 Apr 2026 18:01:39 +0000",
+      "published": "Thu, 23 Apr 2026 22:01:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "Article URL: https://www.anthropic.com/engineering/april-23-postmortem\nComments URL: https://news.ycombinator.com/item?id=47878905\nPoints: 181\n# Comments: 101",
+      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "link": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "summary": "Article URL: https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/\nComments URL: https://news.ycombinator.com/item?id=47881786\nPoints: 42\n# Comments: 2",
       "image": "",
-      "published": "Thu, 23 Apr 2026 17:48:38 +0000",
+      "published": "Thu, 23 Apr 2026 20:53:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "People Do Not Yearn for Automation",
-      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-      "summary": "Article URL: https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation\nComments URL: https://news.ycombinator.com/item?id=47878737\nPoints: 23\n# Comments: 11",
+      "title": "Using the internet like it's 1999",
+      "link": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "summary": "Article URL: https://joshblais.com/blog/using-the-internet-like-its-1999/\nComments URL: https://news.ycombinator.com/item?id=47881198\nPoints: 96\n# Comments: 60",
       "image": "",
-      "published": "Thu, 23 Apr 2026 17:36:23 +0000",
+      "published": "Thu, 23 Apr 2026 20:14:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Palantir Employees Are Starting to Wonder If They're the Bad Guys",
-      "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-      "summary": "Article URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/\nComments URL: https://news.ycombinator.com/item?id=47878633\nPoints: 115\n# Comments: 68",
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "link": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c9d4zgnqpqeo\nComments URL: https://news.ycombinator.com/item?id=47880189\nPoints: 170\n# Comments: 133",
       "image": "",
-      "published": "Thu, 23 Apr 2026 17:30:05 +0000",
+      "published": "Thu, 23 Apr 2026 19:09:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js",
-      "link": "https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme",
-      "summary": "Hi dev.to 👋\nI am Oleh, a Full-Stack Developer focused on building fast, SEO-ready websites and web apps for small businesses and startup founders.\n\nI recently joined dev.to, so this is my first post. I want to share the ",
+      "title": "Your CLAUDE.md Is an Instruction File. It Should Be a Failure Log.",
+      "link": "https://dev.to/shipwithaiio/your-claudemd-is-an-instruction-file-it-should-be-a-failure-log-2i5c",
+      "summary": "CLAUDE.md instructions get followed ~60-70% of the time. Mitchell Hashimoto's AGENTS.md in Ghostty has zero aspirational lines — every entry traces to a real agent mistake. Use the Failure-to-Constraint Decision Tree: da",
       "image": "",
-      "published": "Thu, 23 Apr 2026 18:41:24 +0000",
+      "published": "Fri, 24 Apr 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Generating SBOM with Docker Scout",
-      "link": "https://dev.to/docker/generating-sbom-with-docker-scout-27eg",
-      "summary": "Knowing what's inside your container is the first step to securing it. In the first commando mission, we dockerized a Java 26 project using Docker Init. Now that we have an image, it's time to see what's actually in it.\n",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4p1st5ec20jpfc3nbc93.png",
-      "published": "Thu, 23 Apr 2026 18:40:34 +0000",
+      "title": "I was tired of pulling in 500KB just to retry a HTTP call — so I built my own",
+      "link": "https://dev.to/amine_from_laygab/i-was-tired-of-pulling-in-500kb-just-to-retry-a-http-call-so-i-built-my-own-4kn6",
+      "summary": "Your microservice calls an external API. It fails.\n\nYou add Resilience4j. Now you have 10 transitive dependencies, a 500KB JAR, 3 config classes, and a @Bean method just to say \"try 3 times, wait 1 second\".\n\nI hit that w",
+      "image": "",
+      "published": "Fri, 24 Apr 2026 00:53:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Scrape LinkedIn Data: Complete Guide for 2026",
-      "link": "https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0",
-      "summary": "Disclaimer: This guide covers extracting publicly accessible data. Always review a site's robots.txt and Terms of Service before scraping.\n\nTo scrape public job postings from LinkedIn at scale, engineering teams use Pyth",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 18:37:22 +0000",
+      "title": "AWS RDS: Optimización de Performance para Database Engineers",
+      "link": "https://dev.to/8infinitecloud/aws-rds-optimizacion-de-performance-para-database-engineers-22ij",
+      "summary": "El Problema Real en Producción\n\n\nCuando escalas aplicaciones en AWS, RDS se convierte en tu cuello de botella más común. He visto equipos gastar miles en compute mientras sus instancias RDS degradaban el rendimiento con ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4zprht4r0srdyc1aa7f6.png",
+      "published": "Fri, 24 Apr 2026 00:48:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Security Took Centre Stage at Google Cloud NEXT '26",
-      "link": "https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c",
-      "summary": "This is a submission for the Google Cloud NEXT Writing Challenge\n\n\n  \n  \n  Why Security Took Center Stage at Google Cloud NEXT '26\n\n\nAt Google Cloud NEXT '26, most discussions focused on AI and faster development. But on",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 18:35:13 +0000",
+      "title": "How I'd Build a Multi-Tenant Digital Employee Platform: Multi-LLM Routing, Approval Gates, MCP, and SOC2-Ready Audit Trails",
+      "link": "https://dev.to/chen115y/how-id-build-a-multi-tenant-digital-employee-platform-multi-llm-routing-approval-gates-mcp-and-3fg0",
+      "summary": "Why I wouldn't pick a single LLM — and the platform layer (Claude + GPT + Gemini + Grok, with approval gates and audit hooks) that turns four APIs into one product a CFO can sign off on.\n\n\n\n  \n  \n  Introduction\n\n\n\n  \n  \n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi45qoxpmqo97om74okpt.png",
+      "published": "Fri, 24 Apr 2026 00:43:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How We Log LLM Requests at Sub-50ms Latency Using ClickHouse",
-      "link": "https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn",
-      "summary": "We were logging 50,000 LLM requests per day to PostgreSQL. Query latency was fine. At 400,000 requests, cost aggregation queries started taking 3 seconds. At 2 million, the database was the slowest thing in the stack.\n\nW",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 18:30:00 +0000",
+      "title": "Testing MCP Servers: The Five Gates Between Demo and Production",
+      "link": "https://dev.to/guyernest/testing-mcp-servers-the-five-gates-between-demo-and-production-2inf",
+      "summary": "\"MCP servers should be tested similarly to web and mobile applications.\"\n\n\nBy the end of this article, you will know the five tests that turn an MCP demo into a production gate, and you will know exactly where each one b",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2gpjaveo6s5ks2hi2w4.png",
+      "published": "Fri, 24 Apr 2026 00:40:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
