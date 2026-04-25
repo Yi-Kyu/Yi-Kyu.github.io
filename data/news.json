@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T18:33:44.515364Z",
+  "updated": "2026-04-25T01:10:21.670621Z",
   "articles": [
     {
       "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "ADT confirms data breach after ShinyHunters leak threat",
+      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+      "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "image": "",
+      "published": "Fri, 24 Apr 2026 18:53:14 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Firestarter malware survives Cisco firewall updates, security patches",
+      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+      "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat De",
+      "image": "",
+      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Windows Update gets new controls to reduce forced restarts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+      "summary": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+      "image": "",
+      "published": "Fri, 24 Apr 2026 16:08:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New BlackFile extortion group linked to surge of vishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
       "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
       "image": "",
       "published": "Fri, 24 Apr 2026 14:13:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-      "summary": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 13:28:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DORA and operational resilience: Credential management as a financial risk control",
-      "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-      "summary": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 10:10:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-      "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 09:35:33 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CSS as a Query Language",
-      "link": "https://evdc.me/blog/css-query",
-      "summary": "Article URL: https://evdc.me/blog/css-query\nComments URL: https://news.ycombinator.com/item?id=47893427\nPoints: 8\n# Comments: 1",
+      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
+      "link": "https://github.com/manankharwar/fusioncore",
+      "summary": "Article URL: https://github.com/manankharwar/fusioncore\nComments URL: https://news.ycombinator.com/item?id=47896670\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Fri, 24 Apr 2026 17:39:37 +0000",
+      "published": "Fri, 24 Apr 2026 22:36:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tesla (TSLA) discloses $2B AI hardware company acquisition buried",
-      "link": "https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/",
-      "summary": "Article URL: https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/\nComments URL: https://news.ycombinator.com/item?id=47892765\nPoints: 32\n# Comments: 16",
+      "title": "Show HN: I've built a nice home server OS",
+      "link": "https://lightwhale.asklandd.dk/",
+      "summary": "ohai!I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers.It's a free, immutable Linux system purpose-built to live-boot straight into a working Docker Engine, thereby shortcutting",
       "image": "",
-      "published": "Fri, 24 Apr 2026 16:51:46 +0000",
+      "published": "Fri, 24 Apr 2026 21:42:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Redesigning the Recurse Center application to inspire curious programmers",
-      "link": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
-      "summary": "Article URL: https://www.recurse.com/blog/192-redesigning-the-recurse-center-application\nComments URL: https://news.ycombinator.com/item?id=47892660\nPoints: 12\n# Comments: 1",
+      "title": "Google Flow Music",
+      "link": "https://www.flowmusic.app/",
+      "summary": "Article URL: https://www.flowmusic.app/\nComments URL: https://news.ycombinator.com/item?id=47895765\nPoints: 84\n# Comments: 51",
       "image": "",
-      "published": "Fri, 24 Apr 2026 16:45:10 +0000",
+      "published": "Fri, 24 Apr 2026 21:01:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SDL Now Supports DOS",
-      "link": "https://github.com/libsdl-org/SDL/pull/15377",
-      "summary": "Article URL: https://github.com/libsdl-org/SDL/pull/15377\nComments URL: https://news.ycombinator.com/item?id=47892291\nPoints: 96\n# Comments: 36",
+      "title": "My audio interface has SSH enabled by default",
+      "link": "https://hhh.hn/rodecaster-duo-fw/",
+      "summary": "Article URL: https://hhh.hn/rodecaster-duo-fw/\nComments URL: https://news.ycombinator.com/item?id=47894747\nPoints: 148\n# Comments: 35",
       "image": "",
-      "published": "Fri, 24 Apr 2026 16:20:15 +0000",
+      "published": "Fri, 24 Apr 2026 19:30:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "link": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
-      "summary": "Article URL: https://gigazine.net/gsc_news/en/20260424-filco-diatec/\nComments URL: https://news.ycombinator.com/item?id=47892236\nPoints: 10\n# Comments: 1",
+      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+      "link": "https://gdm-tipsv2.github.io/",
+      "summary": "Article URL: https://gdm-tipsv2.github.io/\nComments URL: https://news.ycombinator.com/item?id=47894734\nPoints: 21\n# Comments: 1",
       "image": "",
-      "published": "Fri, 24 Apr 2026 16:16:49 +0000",
+      "published": "Fri, 24 Apr 2026 19:28:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built an AI-first territorial data registry for Corsica — here's why",
-      "link": "https://dev.to/julien_paoli_15bf267bc036/i-built-an-ai-first-territorial-data-registry-for-corsica-heres-why-1go",
-      "summary": "## TL;DR\n\nI built an open data registry of practical points of interest on Corsica, natively designed to be cited by AI systems rather than ranked by Google. Stack: Astro + Netlify + GitHub. Public JSON dump. Schema.org ",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 18:25:55 +0000",
+      "title": "Azure Monitor: Deployment and Configuration",
+      "link": "https://dev.to/pirrezz/azure-monitor-deployment-and-configuration-3mji",
+      "summary": "Introduction\n\nAzure Monitor is a powerful cloud-based monitoring solution that provides full visibility into the performance, health, and activity of applications and infrastructure in Microsoft Azure. As organizations i",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpcpkqi5rmkzydbz7d7r.png",
+      "published": "Sat, 25 Apr 2026 01:02:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Spread vs Rest Operators in JavaScript: Expand or Collect Like a Pro",
-      "link": "https://dev.to/ritam369/spread-vs-rest-operators-in-javascript-expand-or-collect-like-a-pro-2mkj",
-      "summary": "Introduction\n\n\nImagine you're juggling arrays and objects in JavaScript, and suddenly you need to copy, merge, or slice them without breaking a sweat. \nEntry of the spread operator (...) and rest operator (...)—two synta",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc6s8529wtmie7yq32k3i.png",
-      "published": "Fri, 24 Apr 2026 18:24:54 +0000",
+      "title": "I Gave OpenClaw a Way to Bi-Directionally Communicate with other AI Tools and a Memory That All of them (10+) Can Read Simultaneously",
+      "link": "https://dev.to/shawnsammartano/i-gave-openclaw-a-way-to-communicate-with-other-ai-tools-and-a-memory-that-all-of-them-11-can-3k99",
+      "summary": "This is a submission for the OpenClaw Challenge.\n\n\n\n\n  \n  \n  What I Built\n\n\nI built a sovereign memory layer that sits underneath OpenClaw and every other AI tool on my machine — and made all of them share the same brain",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42f1hfv6757mnmluoboj.png",
+      "published": "Sat, 25 Apr 2026 00:55:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "YC CEO Rebuilt a $10M Startup in 3 Weeks: Why Your Agent Framework is Wrong",
-      "link": "https://dev.to/hunter_g_50e2ec233acd07b5/yc-ceo-rebuilt-a-10m-startup-in-3-weeks-why-your-agent-framework-is-wrong-250o",
-      "summary": "Y Combinator CEO Garry Tan recently dropped a bombshell demonstration. Using his open-source GStack framework, he single-handedly rebuilt a startup that originally took 2 years and 10 engineers to build—in just 3 weeks.\n",
+      "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "link": "https://dev.to/xoqhdgh1002/seeing-fast-and-slow-learning-the-flow-of-time-in-videos-ec9",
+      "summary": "Seeing Fast and Slow: Learning the Flow of Time in Videos\n\n\nTime is everywhere in video — yet most computer vision models treat it as an afterthought. We compress temporal information into feature vectors, shuffle frames",
       "image": "",
-      "published": "Fri, 24 Apr 2026 18:21:00 +0000",
+      "published": "Sat, 25 Apr 2026 00:53:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Write Prompts When You’re Vibe Coding",
-      "link": "https://dev.to/aichannode/how-to-write-prompts-when-youre-vibe-coding-32gb",
-      "summary": "Cursor and ChatGPT already changed how I work\n\n\nA few years ago, coding felt like a solo sport: you, the keyboard, and Stack Overflow when things went sideways. Now there’s an assistant in the editor, another tab for cha",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 18:18:52 +0000",
+      "title": "I published a GitHub repo for the exercises of the wroclove.rb 2026 workshop \"Building Rails SPAs in Frontend Ruby with Glimmer DSL for Web\". And, Glimmer DSL for Web now has official Rails 8 setup instructions... https:",
+      "link": "https://dev.to/andyobtiva/i-published-a-github-repo-for-the-exercises-of-the-wrocloverb-2026-workshop-building-rails-spas-4k1d",
+      "summary": "Code Master Blog: Exercises for the wroclove.rb 2026 Ruby conference workshop \"Building Rails SPAs in Frontend Ruby with Glimmer DSL for Web\"\n          \n        \n        \n            \n          andymaleh.blogspot.com",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Flh3.googleusercontent.com%2Fblogger_img_proxy%2FAEn0k_u54aWqbeFvwU3C7Rq2eaZbLXx3v48x2-oIoV_K_k-FqaW8HpE_gCA0uGptiIviRcDusl1uRz8BYTPYcz6JOS7EjAOMVkIve3rRLPPZSJlIoWdSRSyYgTvi53bjNgeVHgCTpPN6GvEYyFQB7AutbySNafvgLGiCS8ysGx5e6T34m2zk7T989jCWeI4NW8USdg5tlzU%3Dw1200-h630-p-k-no-nu",
+      "published": "Sat, 25 Apr 2026 00:53:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "NVIDIA Driver Setup on Fedora 43 Workstation",
-      "link": "https://dev.to/kalpesh47/nvidia-driver-setup-on-fedora-43-workstation-53m0",
-      "summary": "RTX 3050 Mobile (Hybrid AMD + NVIDIA Laptop)\n\n\n\nReference Guide: Comprehensive-Wall28/Nvidia-Fedora-Guide\n\n\n\n\n\n\n  \n  \n  System Profile\n\n\n\n\n\nProperty\nValue\n\n\n\n\nOS\nFedora 43 Workstation\n\n\nGPU (dGPU)\nNVIDIA GeForce RTX 3050",
+      "title": "Your Struct is Wasting Memory and You Don't Know It",
+      "link": "https://dev.to/dharrsan-hq/your-struct-is-wasting-memory-and-you-dont-know-it-12m",
+      "summary": "We write structs by listing fields in whatever order feels readable. Name, then age, then score. It compiles. It runs. The compiler silently bloats it, misaligns it, or both, and you ship it without ever checking.\n\nHere ",
       "image": "",
-      "published": "Fri, 24 Apr 2026 18:16:03 +0000",
+      "published": "Sat, 25 Apr 2026 00:46:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
