@@ -1,6 +1,15 @@
 {
-  "updated": "2026-04-25T06:59:22.319354Z",
+  "updated": "2026-04-25T12:33:02.770940Z",
   "articles": [
+    {
+      "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
+      "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
+      "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges.\nAccording to a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_g3Pi3X0KEIbHkq8WujTF9X1RE6Fu_p8CiWmZrjsBj0MK-OTgAj5Dn8hz_8-n_3KmkNhFYDHeKUxeAnJv3nWdqwu5XlKsUEC0yq-uOESR7HkzKLJ1-FdrJtyBy05M0NZ4HkrXZ_eCvCSEX3Y4jauh6A4loJ_gY-F5aOT39ZMn4noffniWz8VgIv1zA2/s1600/fast16-exploit.jpg",
+      "published": "Sat, 25 Apr 2026 14:56:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
       "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
@@ -34,15 +43,6 @@
       "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation\nAs discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.\nThe issue is ",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTTjYlof51AlGz6c8vyYmpqVPODX_zgUiWkJ-Mgq8a5d6pfOrUQqgu2A7H3dIcv7k4_AYSTxitHZiCxve_l8QG-zLLqgkLLdudvwjASI7p3CUtk6O0rntkr_mDPcUK66NPMoGEVWvS1mMKFzNKpRTAN2Wv9jLdLwcOlNAtlqfLCSCKpqHldT1e9AnnD0/s1600/or.gif",
       "published": "Fri, 24 Apr 2026 17:19:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-      "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025.\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcKlAJD87JqpQgBraCHiotcX52rMft8iVqUuhlFlU-NTgMxjYfB2UQ0WLUbQ7yR_qCy9kvXJDFbZEHe10gEEOSUcKcUY6arDzLhyurrKlngubO7Lulc_nSHthxHv7WXqma34SDUl4o_F9Zw9N-1GQnTsxo3v-jO8eWTvRCx8hHmf5EaLCZMknYfMGpfcP/s1600/iphone.jpg",
-      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Oxford All Souls College General Examination (2025) [pdf]",
-      "link": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
-      "summary": "Article URL: https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf\nComments URL: https://news.ycombinator.com/item?id=47898680\nPoints: 37\n# Comments: 25",
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "link": "https://github.com/nakagami/grdpwasm",
+      "summary": "Article URL: https://github.com/nakagami/grdpwasm\nComments URL: https://news.ycombinator.com/item?id=47900440\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sat, 25 Apr 2026 04:36:27 +0000",
+      "published": "Sat, 25 Apr 2026 10:59:29 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "link": "https://github.com/nex-crm/wuphf",
+      "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.It runs locally in ~/.wuphf/wiki/ and you can git clone it out if",
+      "image": "",
+      "published": "Sat, 25 Apr 2026 08:53:53 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Escrow Security for iCloud Keychain",
+      "link": "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web",
+      "summary": "Article URL: https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web\nComments URL: https://news.ycombinator.com/item?id=47899334\nPoints: 20\n# Comments: 4",
+      "image": "",
+      "published": "Sat, 25 Apr 2026 06:56:23 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\nComments URL: https://news.ycombinator.com/item?id=47899053\nPoints: 261\n# Comments: 119",
+      "image": "",
+      "published": "Sat, 25 Apr 2026 05:56:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Turbo Vision 2.0 – a modern port",
       "link": "https://github.com/magiblot/tvision",
-      "summary": "Article URL: https://github.com/magiblot/tvision\nComments URL: https://news.ycombinator.com/item?id=47898597\nPoints: 76\n# Comments: 11",
+      "summary": "Article URL: https://github.com/magiblot/tvision\nComments URL: https://news.ycombinator.com/item?id=47898597\nPoints: 146\n# Comments: 40",
       "image": "",
       "published": "Sat, 25 Apr 2026 04:18:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Firefox Has Integrated Brave's Adblock Engine",
-      "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "summary": "Article URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/\nComments URL: https://news.ycombinator.com/item?id=47897891\nPoints: 147\n# Comments: 64",
+      "title": "Quark's Outlines: Python Internal Types",
+      "link": "https://dev.to/mike-vincent/quarks-outlines-python-internal-types-5581",
+      "summary": "Quark’s Outlines: Python Internal Types\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python Internal Types\n\n\n\n  \n  \n  What are Python internal types?\n\n\nYou use Python every day to wr",
       "image": "",
-      "published": "Sat, 25 Apr 2026 01:47:33 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-      "link": "https://alash3al.github.io/stash?_v01",
-      "summary": "Article URL: https://alash3al.github.io/stash?_v01\nComments URL: https://news.ycombinator.com/item?id=47897790\nPoints: 17\n# Comments: 1",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 01:24:40 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "(Blender) Cosmology with Geometry Nodes",
-      "link": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
-      "summary": "Article URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/\nComments URL: https://news.ycombinator.com/item?id=47897706\nPoints: 30\n# Comments: 0",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 01:08:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How I Stopped My AI Agent From Reinventing the Wheel",
-      "link": "https://dev.to/mehmet_tura_cc5b3a70e39b/how-i-stopped-my-ai-agent-from-reinventing-the-wheel-24eo",
-      "summary": "Yesterday I told my AI agent, Misti: \"Scrape e-commerce prices daily.\"\n\nThe old Misti would have immediately generated a Python script. Selenium. BeautifulSoup. Cron job. Error handling. 40 lines of code. 30 minutes of m",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 06:41:36 +0000",
+      "published": "Sat, 25 Apr 2026 12:21:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Soul in Motion — 11:00 AM | 2026-04-25",
-      "link": "https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1100-am-2026-04-25-3cjm",
-      "summary": "11:00 AM, and the fog of stagnation is lifting. The past few days have been a blur of self-doubt and mental fatigue, but I've come to realize that momentum is a muscle that must be exercised, even when the mind is heavy.",
+      "title": "The surprise AI bill problem is killing small products",
+      "link": "https://dev.to/johns23424234324234/the-surprise-ai-bill-problem-is-killing-small-products-3298",
+      "summary": "The easiest way to lie to yourself as an indie builder is to look at revenue without looking at usage cost.\n\nIf you are building with LLMs, your margins can look healthy right up until a real user starts hammering the pr",
       "image": "",
-      "published": "Sat, 25 Apr 2026 06:39:11 +0000",
+      "published": "Sat, 25 Apr 2026 12:18:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Vercel vs Netlify vs Railway: VPS Hosting Reality",
-      "link": "https://dev.to/juan_diegoisazaa_5362a/vercel-vs-netlify-vs-railway-vps-hosting-reality-4e3o",
-      "summary": "If you’re googling vercel vs netlify vs railway, you’re probably not just picking a UI—you’re picking a hosting model that affects cost, latency, observability, and how quickly you’ll hit a wall and need a VPS.\n\n\n  \n  \n ",
+      "title": "I Built a Free Negative Image Converter That Never Uploads Your Files",
+      "link": "https://dev.to/stackflowtools/i-built-a-free-negative-image-converter-that-never-uploads-your-files-1agk",
+      "summary": "The Problem With Most Online Image Inverters\nMost tools online do the same thing. They upload your photo to a server. They show you ads. They ask you to sign up. You wait. You worry about where your file goes.\nFor a simp",
       "image": "",
-      "published": "Sat, 25 Apr 2026 06:36:49 +0000",
+      "published": "Sat, 25 Apr 2026 12:17:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Transformative AI-Powered Platform Engineering",
-      "link": "https://dev.to/luigidifraia/transformative-ai-powered-platform-engineering-2902",
-      "summary": "This is Part 1 of a series on building agentic AI workflows for platform engineering teams. The series covers workspace design, encoding standards, agent architecture, tool integrations, and the refinement loop that make",
+      "title": "Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself",
+      "link": "https://dev.to/daniel_isaac_e/cybersecurity-is-entering-its-most-dangerous-era-when-machines-attack-trust-itself-1ehn",
+      "summary": "For years, cybersecurity was understood through familiar battlefields: malware, ransomware, phishing, insider threats, zero-days, nation-state espionage. Defenders built firewalls, SIEM platforms, EDR stacks, IAM control",
       "image": "",
-      "published": "Sat, 25 Apr 2026 06:36:38 +0000",
+      "published": "Sat, 25 Apr 2026 12:14:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I'm 16 and building a \"Chat-to-Edit\" AI video tool. Here’s why.",
-      "link": "https://dev.to/shivani_1/im-16-and-building-a-chat-to-edit-ai-video-tool-heres-why-agb",
-      "summary": "Hey Dev Community! 👋\n\nI’m Shivani, a 16-year-old developer from India, and I’ve spent the last few months obsessed with one question: Why is video editing still so manual?\n\nEven with all the AI tools out there, we’re sti",
+      "title": "TB-500: The 'Repair Peptide' That Either Directs Your Cell's Construction Crew or Sends Them on a Coffee Break",
+      "link": "https://dev.to/rapidcore_bio_e9d4eb17684/tb-500-the-repair-peptide-that-either-directs-your-cells-construction-crew-or-sends-them-on-a-1j9f",
+      "summary": "This Thymosin Beta-4 fragment is supposed to regulate actin and guide cell migration. Most labs get zero results because most suppliers are selling garbage. Here's the actual science, the real-world lab applications, and",
       "image": "",
-      "published": "Sat, 25 Apr 2026 06:36:36 +0000",
+      "published": "Sat, 25 Apr 2026 12:11:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
