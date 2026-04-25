@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T12:33:02.770940Z",
+  "updated": "2026-04-25T18:31:59.664035Z",
   "articles": [
     {
       "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
+      "image": "",
+      "published": "Sat, 25 Apr 2026 13:07:13 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
+      "image": "",
+      "published": "Sat, 25 Apr 2026 11:07:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "ADT confirms data breach after ShinyHunters leak threat",
       "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
       "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
@@ -70,24 +88,6 @@
       "summary": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
       "image": "",
       "published": "Fri, 24 Apr 2026 16:08:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 14:26:27 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to roll out Entra passkeys on Windows in late April",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-      "summary": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 14:13:55 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A web-based RDP client built with Go WebAssembly and grdp",
-      "link": "https://github.com/nakagami/grdpwasm",
-      "summary": "Article URL: https://github.com/nakagami/grdpwasm\nComments URL: https://news.ycombinator.com/item?id=47900440\nPoints: 7\n# Comments: 1",
+      "title": "Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center",
+      "link": "https://boilingsteam.com/framework-laptop-13-pro-announced/",
+      "summary": "Article URL: https://boilingsteam.com/framework-laptop-13-pro-announced/\nComments URL: https://news.ycombinator.com/item?id=47902816\nPoints: 37\n# Comments: 6",
       "image": "",
-      "published": "Sat, 25 Apr 2026 10:59:29 +0000",
+      "published": "Sat, 25 Apr 2026 16:54:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "link": "https://github.com/nex-crm/wuphf",
-      "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.It runs locally in ~/.wuphf/wiki/ and you can git clone it out if",
+      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+      "link": "https://github.com/niri-wm/niri/releases/tag/v26.04",
+      "summary": "Article URL: https://github.com/niri-wm/niri/releases/tag/v26.04\nComments URL: https://news.ycombinator.com/item?id=47902416\nPoints: 117\n# Comments: 26",
       "image": "",
-      "published": "Sat, 25 Apr 2026 08:53:53 +0000",
+      "published": "Sat, 25 Apr 2026 15:59:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Escrow Security for iCloud Keychain",
-      "link": "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web",
-      "summary": "Article URL: https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web\nComments URL: https://news.ycombinator.com/item?id=47899334\nPoints: 20\n# Comments: 4",
+      "title": "What's Missing in the 'Agentic' Story",
+      "link": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
+      "summary": "Article URL: https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains\nComments URL: https://news.ycombinator.com/item?id=47902339\nPoints: 49\n# Comments: 38",
       "image": "",
-      "published": "Sat, 25 Apr 2026 06:56:23 +0000",
+      "published": "Sat, 25 Apr 2026 15:51:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\nComments URL: https://news.ycombinator.com/item?id=47899053\nPoints: 261\n# Comments: 119",
+      "title": "GPT 5.5 biosafety bounty",
+      "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/\nComments URL: https://news.ycombinator.com/item?id=47901734\nPoints: 70\n# Comments: 61",
       "image": "",
-      "published": "Sat, 25 Apr 2026 05:56:12 +0000",
+      "published": "Sat, 25 Apr 2026 14:17:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Turbo Vision 2.0 – a modern port",
-      "link": "https://github.com/magiblot/tvision",
-      "summary": "Article URL: https://github.com/magiblot/tvision\nComments URL: https://news.ycombinator.com/item?id=47898597\nPoints: 146\n# Comments: 40",
+      "title": "A Collection of Chronic Medical Conditions Common in Autistic and ADHD Adults [pdf] (2023)",
+      "link": "https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf",
+      "summary": "Article URL: https://allbrainsbelong.org/wp-content/uploads/2023/08/CLINICIAN-GUIDE-Everything-is-Connected-to-Everything-Project-All-Brains-Belong-VT-8.15.23.pdf\nComments URL: https://news.ycombinator.com/item?id=479014",
       "image": "",
-      "published": "Sat, 25 Apr 2026 04:18:01 +0000",
+      "published": "Sat, 25 Apr 2026 13:34:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Quark's Outlines: Python Internal Types",
-      "link": "https://dev.to/mike-vincent/quarks-outlines-python-internal-types-5581",
-      "summary": "Quark’s Outlines: Python Internal Types\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python Internal Types\n\n\n\n  \n  \n  What are Python internal types?\n\n\nYou use Python every day to wr",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 12:21:23 +0000",
+      "title": "Stop Burning Tokens (and Brain Cells): A CLI Pomodoro Timer for Focused Coding",
+      "link": "https://dev.to/dnim/stop-burning-tokens-and-brain-cells-a-cli-pomodoro-timer-for-focused-coding-3edd",
+      "summary": "While struggling with concentration, I've always forced myself to use techniques that help me stay in flow while still leaving room to stretch, grab some snacks, or prepare a matcha latte. Giving the brain time to stray ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2r13y2oxbrg5c83w64ey.png",
+      "published": "Sat, 25 Apr 2026 18:17:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The surprise AI bill problem is killing small products",
-      "link": "https://dev.to/johns23424234324234/the-surprise-ai-bill-problem-is-killing-small-products-3298",
-      "summary": "The easiest way to lie to yourself as an indie builder is to look at revenue without looking at usage cost.\n\nIf you are building with LLMs, your margins can look healthy right up until a real user starts hammering the pr",
+      "title": "Crew with Gemma-4 in Colab",
+      "link": "https://dev.to/_a_m_a_n_pandey/crew-with-gemma-4-in-colab-58m6",
+      "summary": "Let me walk you through something I have been experimenting with lately, running a local AI agent that detects hate speech, powered by Google's Gemma 4 model and the CrewAI framework, all without calling any paid API. No",
       "image": "",
-      "published": "Sat, 25 Apr 2026 12:18:48 +0000",
+      "published": "Sat, 25 Apr 2026 18:16:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Free Negative Image Converter That Never Uploads Your Files",
-      "link": "https://dev.to/stackflowtools/i-built-a-free-negative-image-converter-that-never-uploads-your-files-1agk",
-      "summary": "The Problem With Most Online Image Inverters\nMost tools online do the same thing. They upload your photo to a server. They show you ads. They ask you to sign up. You wait. You worry about where your file goes.\nFor a simp",
+      "title": "How to Build a Production-Ready Registration System Without a Backend (Using HosteDay API)",
+      "link": "https://dev.to/mustafa3max/how-to-build-a-production-ready-registration-system-without-a-backend-using-hosteday-api-30f7",
+      "summary": "Introduction\n\nBuilding a complete registration system usually means setting up a backend, managing authentication, handling validation, and securing endpoints. But what if you could skip all of that?\n\nIn this tutorial, y",
       "image": "",
-      "published": "Sat, 25 Apr 2026 12:17:27 +0000",
+      "published": "Sat, 25 Apr 2026 18:09:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cybersecurity Is Entering Its Most Dangerous Era: When Machines Attack Trust Itself",
-      "link": "https://dev.to/daniel_isaac_e/cybersecurity-is-entering-its-most-dangerous-era-when-machines-attack-trust-itself-1ehn",
-      "summary": "For years, cybersecurity was understood through familiar battlefields: malware, ransomware, phishing, insider threats, zero-days, nation-state espionage. Defenders built firewalls, SIEM platforms, EDR stacks, IAM control",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 12:14:44 +0000",
+      "title": "Code In, Cluster Out: Building Reproducible Edge Kubernetes with NixOS, K3s, and Forgejo",
+      "link": "https://dev.to/ces0712/code-in-cluster-out-building-reproducible-edge-kubernetes-with-nixos-k3s-and-forgejo-i08",
+      "summary": "What if your entire Kubernetes edge cluster, from the kernel to the workload, was a single reproducible function?\n\nNo drift. No snowflakes. No, \"this node got fixed manually six months ago, and nobody remembers how.\" Jus",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1txvoal9k11f3s3jxyne.png",
+      "published": "Sat, 25 Apr 2026 18:09:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TB-500: The 'Repair Peptide' That Either Directs Your Cell's Construction Crew or Sends Them on a Coffee Break",
-      "link": "https://dev.to/rapidcore_bio_e9d4eb17684/tb-500-the-repair-peptide-that-either-directs-your-cells-construction-crew-or-sends-them-on-a-1j9f",
-      "summary": "This Thymosin Beta-4 fragment is supposed to regulate actin and guide cell migration. Most labs get zero results because most suppliers are selling garbage. Here's the actual science, the real-world lab applications, and",
+      "title": "AI security monitoring at scale: one LLM call, every dashboard",
+      "link": "https://dev.to/heath_mcintyre_dea31db820/ai-security-monitoring-at-scale-one-llm-call-every-dashboard-5fep",
+      "summary": "How CoinHawk runs a continuous AI security scan for every connected user using a single shared LLM call every 5 minutes.\n\n\n\n\n\n  \n  \n  The dumb version doesn't scale\n\n\nImagine you want every user's dashboard to display a ",
       "image": "",
-      "published": "Sat, 25 Apr 2026 12:11:57 +0000",
+      "published": "Sat, 25 Apr 2026 18:03:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
