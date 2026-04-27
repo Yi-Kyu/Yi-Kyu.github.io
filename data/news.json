@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-27T07:59:54.364898Z",
+  "updated": "2026-04-27T13:11:27.424721Z",
   "articles": [
+    {
+      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+      "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+      "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png",
+      "published": "Mon, 27 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025.\nThat's according to a report publ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg",
+      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+      "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.\nThe cluster of",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg",
+      "published": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+      "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg",
+      "published": "Mon, 27 Apr 2026 12:03:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
       "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabil",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMgO4j_Nf0B9HdU4WtN1axBdJFNJgV6Xvb8pCk0kooK6_-gNIxfURSqLIJuuzaufzvoXVTkFFg9WfMkyHvu4h_DBQK4QMJ21JYdwWtLem-CSOgTEYFhXazp4aSPJJglbiZel1V5aatqMKFCXk3scw-3UmMzQPrmTn-CbgBBjpLu_i4TBfNyS2kgZSkreW/s1600/cisa-kev.jpg",
-      "published": "Sat, 25 Apr 2026 10:38:00 +0530",
-      "source": "The Hacker News",
+      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
+      "summary": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 09:01:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-      "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in Septemb",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg",
-      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-      "source": "The Hacker News",
+      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
+      "link": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
+      "summary": "Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 09:00:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-      "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-      "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensiti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAuHNFOxvs6UDl3EnaRiFcpN6xXjeqMCeudHBwRKzbIoUCdno0MHlfe2ijlnYU7D5k0vi4nlhv9j_hkR4zeaHTq2xewCOVza2_qYZZxpy_Qy1V_IQu5nO5lDyGzeG3P_B5kSbGT5W01Ic0E_FuSlWat1zsWYCDHhYbqQ_S5Q8p1WO14UStW8EJ4PIkKuX/s1600/WANTED.jpg",
-      "published": "Fri, 24 Apr 2026 19:43:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
-      "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
-      "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation\nAs discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.\nThe issue is ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTTjYlof51AlGz6c8vyYmpqVPODX_zgUiWkJ-Mgq8a5d6pfOrUQqgu2A7H3dIcv7k4_AYSTxitHZiCxve_l8QG-zLLqgkLLdudvwjASI7p3CUtk6O0rntkr_mDPcUK66NPMoGEVWvS1mMKFzNKpRTAN2Wv9jLdLwcOlNAtlqfLCSCKpqHldT1e9AnnD0/s1600/or.gif",
-      "published": "Fri, 24 Apr 2026 17:19:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "summary": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 08:03:46 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
       "image": "",
       "published": "Sat, 25 Apr 2026 13:07:13 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
-      "image": "",
-      "published": "Sat, 25 Apr 2026 11:07:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat De",
-      "image": "",
-      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
-      "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
-      "summary": "Article URL: https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/\nComments URL: https://news.ycombinator.com/item?id=47918657\nPoints: 4\n# Comments: 0",
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "link": "https://github.com/dirac-run/dirac",
+      "summary": "Scored 65.2% vs google's official 47.8%, and the existing top closed source model Junie CLI's 64.3%.Since there are a lot of reports of deliberate cheating on TerminalBench 2.0 lately (https://debugml.github.io/cheating-",
       "image": "",
-      "published": "Mon, 27 Apr 2026 07:21:17 +0000",
+      "published": "Mon, 27 Apr 2026 12:35:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Prompt API",
-      "link": "https://developer.chrome.com/docs/ai/prompt-api",
-      "summary": "Article URL: https://developer.chrome.com/docs/ai/prompt-api\nComments URL: https://news.ycombinator.com/item?id=47917026\nPoints: 83\n# Comments: 58",
+      "title": "Show HN: A terminal spreadsheet editor with Vim keybindings",
+      "link": "https://github.com/garritfra/cell",
+      "summary": "While speccing out this spreadsheet tool, I realized that I never had to think about the keybindings. It all just came naturally from Vim. Normal/insert/visual modes, hjkl navigation, dd/yy/p, :w, :q. The usual muscle me",
       "image": "",
-      "published": "Mon, 27 Apr 2026 02:18:58 +0000",
+      "published": "Mon, 27 Apr 2026 11:39:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "link": "https://github.com/evanklem/evanflow",
-      "summary": "Article URL: https://github.com/evanklem/evanflow\nComments URL: https://news.ycombinator.com/item?id=47916909\nPoints: 56\n# Comments: 24",
+      "title": "Men Who Stare at Walls",
+      "link": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "summary": "Article URL: https://www.alexselimov.com/posts/men_who_stare_at_walls/\nComments URL: https://news.ycombinator.com/item?id=47920074\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Mon, 27 Apr 2026 01:56:39 +0000",
+      "published": "Mon, 27 Apr 2026 11:08:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "link": "https://arkaung.github.io/interactive-turboquant/",
-      "summary": "Article URL: https://arkaung.github.io/interactive-turboquant/\nComments URL: https://news.ycombinator.com/item?id=47916890\nPoints: 114\n# Comments: 14",
+      "title": "Show HN: I built a dual crossword puzzle where two crosswords share one grid",
+      "link": "https://forkle.co.uk/",
+      "summary": "Forkle (forkle.co.uk) is a daily word game where two thematically linked crosswords occupy the same grid simultaneously. Every tile contains two letters - one belonging to each puzzle - displayed as a diagonal colour spl",
       "image": "",
-      "published": "Mon, 27 Apr 2026 01:54:32 +0000",
+      "published": "Mon, 27 Apr 2026 10:57:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "FreeBSD Device Drivers Book",
-      "link": "https://github.com/ebrandi/FDD-book",
-      "summary": "Article URL: https://github.com/ebrandi/FDD-book\nComments URL: https://news.ycombinator.com/item?id=47915632\nPoints: 73\n# Comments: 12",
+      "title": "Pgbackrest is no longer being maintained",
+      "link": "https://github.com/pgbackrest/pgbackrest",
+      "summary": "Article URL: https://github.com/pgbackrest/pgbackrest\nComments URL: https://news.ycombinator.com/item?id=47919997\nPoints: 162\n# Comments: 68",
       "image": "",
-      "published": "Sun, 26 Apr 2026 22:53:06 +0000",
+      "published": "Mon, 27 Apr 2026 10:56:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building Real-Time Chat That Doesn’t Break at Scale (and Actually Uses AI Properly)",
-      "link": "https://dev.to/smartguy666/building-real-time-chat-that-doesnt-break-at-scale-and-actually-uses-ai-properly-3pd8",
-      "summary": "Building Real-Time Chat That Doesn’t Break at Scale (and Actually Uses AI Properly)\n\nMost teams underestimate chat. When you try to go past the demo, complexity rears its ugly head pretty quickly. You’re no longer just r",
+      "title": "How We Built an AI Recruitment Platform with MongoDB, NLP, and a Human-in-the-Loop Feedback System",
+      "link": "https://dev.to/kammariashritha/how-we-built-an-ai-recruitment-platform-with-mongodb-nlp-and-a-human-in-the-loop-feedback-system-4d78",
+      "summary": "We built NeuroHire, an AI recruitment platform that goes beyond keyword matching. It validates skills with evidence, explains its decisions, and learns from recruiter feedback. Stack: Django + React + MongoDB Atlas + sci",
       "image": "",
-      "published": "Mon, 27 Apr 2026 07:52:10 +0000",
+      "published": "Mon, 27 Apr 2026 13:07:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Form Builders Are Becoming Table Stakes. MCP Form Operations Are the Hard Part.",
-      "link": "https://dev.to/lovanaut55/ai-form-builders-are-becoming-table-stakes-mcp-form-operations-are-the-hard-part-22ia",
-      "summary": "AI form builders are useful.\n\nYou type:\n\n\n\nCreate a webinar registration form.\n\n\n\n\n\n\nThe system returns fields for name, email, company, session preference, consent, and a question or two. It may also generate labels, he",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkd4f7giobr1zak271sh4.webp",
-      "published": "Mon, 27 Apr 2026 07:51:14 +0000",
+      "title": "What Is MCP (Model Context Protocol) and Why It Needs a Gateway in Production — A Practical Guide for AI Engineers",
+      "link": "https://dev.to/hadil/what-is-mcp-model-context-protocol-and-why-it-needs-a-gateway-in-production-a-practical-guide-3f05",
+      "summary": "It always starts with “just one integration”.\n\nYou want your AI agent to send a message to Slack. So you wire it up. A bit of custom code, some API calls, done.\n\nThen someone asks for GitHub access. Then Jira. Then your ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fep4azmemkwyqzuqu9kux.png",
+      "published": "Mon, 27 Apr 2026 13:07:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Immutability - Not a Universal Law but a Trade-off",
-      "link": "https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-4lng",
-      "summary": "Introduction\n\n\nImmutability is often presented as a best practice: once data is created, it is never changed. Instead of modifying existing data, you create new versions.\n\nThat sounds clean, predictable, and safe—and it ",
+      "title": "От векторов 70-х к современным AI-агентам 🧩",
+      "link": "https://dev.to/maximcoding/-pazl-slozhilsia-ot-viektorov-70-kh-k-sovriemiennym-ai-aghientam-7pb",
+      "summary": "Я, как всегда, со своим скрупулезным подходом — решил залезть под капот и разобраться, как это всё работает на самом деле. А там... старый добрый pipeline.\n\nИдеи сходства (similarity) и поиска ближайших соседей (nearest ",
       "image": "",
-      "published": "Mon, 27 Apr 2026 07:51:10 +0000",
+      "published": "Mon, 27 Apr 2026 13:05:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DS Express Errors (centralizing errors library) — v1.8.2 Release Notes March 15, 2026",
-      "link": "https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v182-release-notes-march-15-2026-2e5m",
-      "summary": "v1.8.2 – March 15, 2026\n\n\n\nFixed missing api import for gracefulHttpClose\n\nIncrease internal check to ensure safety handling.\n\n\nMore internal check for gracefulHttpClose, initGlobalHandlers, setConfig\n\n\n\n\n\n\n\n\n\n  \n  \n  Sm",
+      "title": "Agent Memory Compressor: Intelligent Memory Compression for Long-Running LLM Agents",
+      "link": "https://dev.to/nilofer_tweets/agent-memory-compressor-intelligent-memory-compression-for-long-running-llm-agents-5941",
+      "summary": "A 10-turn agent session can easily accumulate 20,000+ tokens of raw history, leaving almost no room for the current task. Naive truncation drops older turns wholesale, including the decisions and discovered facts the age",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4vuitmevat3gxfqchuy5.png",
+      "published": "Mon, 27 Apr 2026 13:02:47 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Skills for eval-driven agent optimization",
+      "link": "https://dev.to/vivkr/skills-for-eval-driven-agent-optimization-2gg3",
+      "summary": "OptimizeSpec helps you make your agent better in a measured way, even if you have never built an eval suite or optimization loop before.\n\nYou start with a plain-language goal, such as \"make support-triage answers more co",
       "image": "",
-      "published": "Mon, 27 Apr 2026 07:50:00 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Fonctionnement d’une blockchain 8/8 : Finalité & confirmations",
-      "link": "https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-88-finalite-confirmations-44h4",
-      "summary": "Quand la transaction est ajoutée dans un bloc, elle est visible dans la blockchain, mais on attend souvent plusieurs blocs supplémentaires pour être sûr qu’elle est définitive.\n\n→ Ce sont les “confirmations”.\n\n💡 Exemple ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiv28pnuhg3d365510ohz.png",
-      "published": "Mon, 27 Apr 2026 07:49:52 +0000",
+      "published": "Mon, 27 Apr 2026 13:02:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
