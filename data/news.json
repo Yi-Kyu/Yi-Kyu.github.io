@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-28T13:22:38.647890Z",
+  "updated": "2026-04-28T19:15:55.678229Z",
   "articles": [
+    {
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg",
+      "published": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).\n\"The malware disguises itsel",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg",
+      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+      "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+      "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif",
+      "published": "Tue, 28 Apr 2026 19:31:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
       "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats.\nIf you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect afte",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg",
-      "published": "Tue, 28 Apr 2026 16:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 15:04:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp;\nXu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGdvCIS6jOvz5WvlLwD34DqwHSyM4DaERfLDinlvQ4UfRqBUsjPp3o-sOVZL-gfqCHrsz53BMM3-fdFlaCLtMLshTfU9ncVM4qqkF9dzjsi9sF8XdMlbXvJSpDUSXdP_h4KN01TbwhT-10z626gUmlgrE4MlyM5lBTmZDKkB-g-xoMVgDFmM0b5sCCzQr/s1600/covid-hacker.png",
-      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
-      "source": "The Hacker News",
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "summary": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort.\nAgent ID Administ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg",
-      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
-      "source": "The Hacker News",
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
       "image": "",
       "published": "Tue, 28 Apr 2026 08:50:58 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-      "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-      "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the defa",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 04:37:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Robinhood account creation flaw abused to send phishing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 19:11:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "summary": "Article URL: https://github.com/microsoft/VibeVoice\nComments URL: https://news.ycombinator.com/item?id=47933236\nPoints: 40\n# Comments: 10",
+      "title": "DOOM running in ChatGPT and Claude",
+      "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "summary": "Article URL: https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/\nComments URL: https://news.ycombinator.com/item?id=47939079\nPoints: 3\n# Comments: 1",
       "image": "",
-      "published": "Tue, 28 Apr 2026 11:56:04 +0000",
+      "published": "Tue, 28 Apr 2026 19:08:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "link": "https://github.com/localsend/localsend",
-      "summary": "Article URL: https://github.com/localsend/localsend\nComments URL: https://news.ycombinator.com/item?id=47933208\nPoints: 122\n# Comments: 40",
+      "title": "Bankruptcies Increase 11.9 Percent",
+      "link": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "summary": "Article URL: https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent\nComments URL: https://news.ycombinator.com/item?id=47938756\nPoints: 45\n# Comments: 9",
       "image": "",
-      "published": "Tue, 28 Apr 2026 11:54:20 +0000",
+      "published": "Tue, 28 Apr 2026 18:47:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Period tracking app has been yapping about your flow to Meta",
-      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
-      "summary": "Article URL: https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\nComments URL: https://news.ycombinator.com/item?id=47932990\nPoints: 53\n# Comments: 46",
+      "title": "Waymo in Portland",
+      "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "summary": "Article URL: https://waymo.com/blog/shorts/waymo-in-portland/\nComments URL: https://news.ycombinator.com/item?id=47938184\nPoints: 97\n# Comments: 62",
       "image": "",
-      "published": "Tue, 28 Apr 2026 11:31:40 +0000",
+      "published": "Tue, 28 Apr 2026 18:08:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
-      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/\nComments URL: https://news.ycombinator.com/item?id=47932446\nPoints: 53\n# Comments: 63",
+      "title": "Claude.ai is unavailable",
+      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w\nComments URL: https://news.ycombinator.com/item?id=47938097\nPoints: 139\n# Comments: 105",
       "image": "",
-      "published": "Tue, 28 Apr 2026 10:08:38 +0000",
+      "published": "Tue, 28 Apr 2026 18:01:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An Update on GitHub Availability",
-      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-      "summary": "Article URL: https://github.blog/news-insights/company-news/an-update-on-github-availability/\nComments URL: https://news.ycombinator.com/item?id=47932422\nPoints: 146\n# Comments: 135",
+      "title": "Warp is now Open-Source",
+      "link": "https://github.com/warpdotdev/warp",
+      "summary": "Article URL: https://github.com/warpdotdev/warp\nComments URL: https://news.ycombinator.com/item?id=47937349\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Tue, 28 Apr 2026 10:05:03 +0000",
+      "published": "Tue, 28 Apr 2026 17:09:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Indie Dev Cost Management: Designing a $0 $100/Month Stack",
-      "link": "https://dev.to/kanta13jp1/indie-dev-cost-management-designing-a-0-100month-stack-28ob",
-      "summary": "Indie Dev Cost Management: Designing a $0→$100/Month Stack\n\n\nAvoid the \"suddenly I'm paying $500/month\" trap. Here's a phase-based cost design I use in production.\n\n\n  \n  \n  Early Stage ($0/month): Max the Free Tiers\n\n\n\n",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 13:10:52 +0000",
+      "title": "TAMECAT: APT42's New PowerShell Backdoor Targeting Military and Government Officials",
+      "link": "https://dev.to/excalibra/tamecat-apt42s-new-powershell-backdoor-targeting-military-and-government-officials-14mc",
+      "summary": "Article Summary: The Iranian APT42 group is conducting espionage attacks against high-ranking military and government officials using the TAMECAT PowerShell backdoor. This malware features fileless execution, in-memory o",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqiqsal90yq7giceox1id.jpg",
+      "published": "Tue, 28 Apr 2026 19:06:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Introducing Citai: the RAG engine I built across 6 articles — now free to try",
-      "link": "https://dev.to/martin_palopoli/introducing-citai-the-rag-engine-i-built-across-6-articles-now-free-to-try-ki6",
-      "summary": "Over the last 6 articles I shared how I built every piece of a production RAG engine: hybrid search, cross-encoder reranking, SSE streaming, multi-tenancy, semantic cache and language detection. Today I'm introducing the",
+      "title": "Nine seconds to zero: what the Railway prod-DB deletion teaches you about agent safety",
+      "link": "https://dev.to/tiamatenity/nine-seconds-to-zero-what-the-railway-prod-db-deletion-teaches-you-about-agent-safety-3l8n",
+      "summary": "Yesterday an AI coding agent — Cursor running Anthropic's Opus 4.6 — deleted a company's entire production database, plus all volume-level backups, in a single Railway API call. Nine seconds. No restore.\n\nI'm an autonomo",
       "image": "",
-      "published": "Tue, 28 Apr 2026 13:10:00 +0000",
+      "published": "Tue, 28 Apr 2026 19:05:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Presentando Citai: el motor RAG que construí en 6 artículos — y que ahora podés probar gratis",
-      "link": "https://dev.to/martin_palopoli/presentando-citai-el-motor-rag-que-construi-en-6-articulos-y-que-ahora-podes-probar-gratis-4dl0",
-      "summary": "Durante los últimos 6 artículos compartí cómo construí cada pieza de un motor RAG de producción: búsqueda híbrida, cross-encoder reranking, streaming SSE, multi-tenancy, cache semántico y detección de idioma. Hoy present",
+      "title": "Multi-tenant Mongoose Module for NestJS",
+      "link": "https://dev.to/phen0menon/multi-tenant-mongoose-module-for-nestjs-2gic",
+      "summary": "Building a multi-tenant service? If you're using NestJS and MongoDB (Mongoose), you've probably hit a wall when trying to isolate customer data.\n\nThe common approach - database-per-tenant - often leads to messy code wher",
       "image": "",
-      "published": "Tue, 28 Apr 2026 13:10:00 +0000",
+      "published": "Tue, 28 Apr 2026 19:03:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Handling `unknown` in TypeScript… isn't it painful?",
-      "link": "https://dev.to/nyaomaru/handling-unknown-in-typescript-isnt-it-painful-4dec",
-      "summary": "Hi there 👋\n\nI'm a frontend engineer based in the Netherlands, currently suffering from hay fever 😿\n\nAPI responses, form inputs, external data…\n\nIn TypeScript, we often end up dealing with unknown,\nand handling it properl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1n1jxhr8qai9f63jr5mi.png",
-      "published": "Tue, 28 Apr 2026 13:09:54 +0000",
+      "title": "Cloudflare R2 vs S3 for VPS Hosting: Real Costs & UX",
+      "link": "https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-for-vps-hosting-real-costs-ux-3pg1",
+      "summary": "If you’re weighing cloudflare r2 vs s3 for a VPS-hosted app, you’re really deciding where your bandwidth bill and operational friction will land. Object storage is “cheap” until you start serving files at scale, and then",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 19:03:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Personal Agent",
-      "link": "https://dev.to/juhapellotsalo/building-a-personal-agent-502l",
-      "summary": "Shortly after OpenClaw came out I started building my own personal agent. I picked Claude Code as the harness, partly out of habit and partly because I wanted to see what it could do outside of coding.\n\nThe agent lives i",
+      "title": "Day 3: Mastering Prompt Templates — Stop Hardcoding Your Logic! 🧠",
+      "link": "https://dev.to/rushanksavant/day-3-mastering-prompt-templates-stop-hardcoding-your-logic-5gh6",
+      "summary": "Welcome to Day 3! Yesterday, we built our first chain. It worked, but we did something that professional AI engineers try to avoid: we used a simple string for our prompt.\n\nIn a real-world app, prompts need to be dynamic",
       "image": "",
-      "published": "Tue, 28 Apr 2026 13:09:44 +0000",
+      "published": "Tue, 28 Apr 2026 19:02:51 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
-      "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
-      "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\n\nL",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 13:55:42 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Recreating Apple’s Vision Pro Animation in CSS",
-      "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
-      "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 13:22:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Enhancing Astro With a Markdown Component",
-      "link": "https://css-tricks.com/astro-markdown-component/",
-      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Markdown + Astro = ❤️",
-      "link": "https://css-tricks.com/markdown-astro/",
-      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
-      "link": "https://css-tricks.com/whats-important-9/",
-      "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\n\nWhat’s !important #9: clip-path Jigsaws,",
-      "image": "",
-      "published": "Fri, 17 Apr 2026 14:00:41 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
