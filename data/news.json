@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T19:00:56.255256Z",
+  "updated": "2026-04-28T01:28:52.493108Z",
   "articles": [
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 19:11:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+      "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 16:00:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+      "summary": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 15:56:03 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
       "summary": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
       "image": "",
       "published": "Mon, 27 Apr 2026 12:27:53 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I B",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 10:43:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warni",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 10:25:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 09:50:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Super ZSNES – GPU Powered SNES Emulator",
-      "link": "https://zsnes.com/",
-      "summary": "Article URL: https://zsnes.com/\nComments URL: https://news.ycombinator.com/item?id=47924877\nPoints: 50\n# Comments: 11",
+      "title": "Generative AI Vegetarianism",
+      "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+      "summary": "Article URL: https://sboots.ca/2026/03/11/generative-ai-vegetarianism/\nComments URL: https://news.ycombinator.com/item?id=47928885\nPoints: 16\n# Comments: 16",
       "image": "",
-      "published": "Mon, 27 Apr 2026 17:50:10 +0000",
+      "published": "Tue, 28 Apr 2026 00:07:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
-      "link": "https://github.com/Hanqaqa/Easyduino",
-      "summary": "Article URL: https://github.com/Hanqaqa/Easyduino\nComments URL: https://news.ycombinator.com/item?id=47924813\nPoints: 50\n# Comments: 1",
+      "title": "To my students",
+      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "summary": "Article URL: http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\nComments URL: https://news.ycombinator.com/item?id=47928828\nPoints: 221\n# Comments: 97",
       "image": "",
-      "published": "Mon, 27 Apr 2026 17:45:02 +0000",
+      "published": "Mon, 27 Apr 2026 23:57:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GitHub is having issues now",
-      "link": "https://www.githubstatus.com",
-      "summary": "Article URL: https://www.githubstatus.com\nComments URL: https://news.ycombinator.com/item?id=47924775\nPoints: 116\n# Comments: 39",
+      "title": "New Integrated by Design FreeBSD Book",
+      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "summary": "Article URL: https://vivianvoss.net/blog/integrated-by-design-launch\nComments URL: https://news.ycombinator.com/item?id=47928554\nPoints: 50\n# Comments: 11",
       "image": "",
-      "published": "Mon, 27 Apr 2026 17:42:19 +0000",
+      "published": "Mon, 27 Apr 2026 23:14:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Canada's first sovereign wealth fund",
-      "link": "https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238",
-      "summary": "Article URL: https://www.cbc.ca/news/politics/sovereign-wealth-fund-carney-major-projects-9.7178238\nComments URL: https://news.ycombinator.com/item?id=47924188\nPoints: 113\n# Comments: 48",
+      "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
+      "link": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
+      "summary": "Article URL: https://support.claude.com/en/articles/11940350-claude-code-model-configuration\nComments URL: https://news.ycombinator.com/item?id=47928088\nPoints: 51\n# Comments: 21",
       "image": "",
-      "published": "Mon, 27 Apr 2026 16:58:01 +0000",
+      "published": "Mon, 27 Apr 2026 22:13:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
-      "link": "https://deepmind.google/blog/decoupled-diloco/",
-      "summary": "Article URL: https://deepmind.google/blog/decoupled-diloco/\nComments URL: https://news.ycombinator.com/item?id=47924181\nPoints: 19\n# Comments: 3",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "summary": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 66\n# Comments: 19",
       "image": "",
-      "published": "Mon, 27 Apr 2026 16:57:34 +0000",
+      "published": "Mon, 27 Apr 2026 21:55:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Smarter Cloud Spending: FinOps Agent Powered by Strands SDK and Amazon Bedrock",
-      "link": "https://dev.to/aws-builders/smarter-cloud-spending-finops-agent-powered-by-strands-sdk-and-amazon-bedrock-359o",
-      "summary": "I always ask myself what I want to become in the future. The AI era came too fast and I felt both fear (am I going to be redundant?) and unlimited possibility (now I have all the knowledge, the skills, and the appropriat",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdsx7jt1zghhjymuqmbd0.png",
-      "published": "Mon, 27 Apr 2026 18:49:42 +0000",
+      "title": "Connecting Phantom to a Web App Changed How I Think About \"Login\"",
+      "link": "https://dev.to/tanisha_fonseca/connecting-phantom-to-a-web-app-changed-how-i-think-about-login-3p0h",
+      "summary": "On Day 4 of #100DaysOfSolana, I built a small Vite app that connects to a browser wallet. The feature itself is maybe 30 lines of code. The mindset shift it triggered is harder to measure.\n\n\n  \n  \n  What I Built\n\n\nA mini",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 01:05:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Redis 9 vs. Dragonfly 1.20: Throughput and Memory Efficiency Benchmarks for Caching Layers",
-      "link": "https://dev.to/johalputt/redis-9-vs-dragonfly-120-throughput-and-memory-efficiency-benchmarks-for-caching-layers-42nd",
-      "summary": "In our 72-hour stress test of 1 million concurrent cache connections, Dragonfly 1.20 delivered 40% higher throughput than Redis 9 while using 35% less memory for 10KB payloads—but Redis 9 maintained 99.99% availability u",
+      "title": "How to Build a Self-Verification Loop in Claude Code (3 Layers, 20 Minutes)",
+      "link": "https://dev.to/shipwithaiio/how-to-build-a-self-verification-loop-in-claude-code-3-layers-20-minutes-m1p",
+      "summary": "Claude Code's Stop hook blocks the agent from finishing until verification passes. Combine it with PostToolUse feedback injection to build a 3-layer verification loop (syntax, intent, regression) in 20 minutes. The resul",
       "image": "",
-      "published": "Mon, 27 Apr 2026 18:45:29 +0000",
+      "published": "Tue, 28 Apr 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Two-Tier AWS Infrastructure with Terraform, Flask & Ansible — Every File Explained",
-      "link": "https://dev.to/swapnil_uppin_3c823bdc459/building-a-two-tier-aws-infrastructure-with-terraform-flask-ansible-every-file-explained-3f53",
-      "summary": "Introduction\n\nA two-tier architecture on AWS — the bread and butter of real-world cloud deployments. Here's the idea:\n\n\n\nTier 1 (Public): An EC2 instance sitting in a public subnet, running a Flask web application. This ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mrl8yps87wd9synudjh.png",
-      "published": "Mon, 27 Apr 2026 18:42:47 +0000",
+      "title": "You Already Understand Solana Identity: You Just Don't Know It Yet",
+      "link": "https://dev.to/tanisha_fonseca/you-already-understand-solana-identity-you-just-dont-know-it-yet-5563",
+      "summary": "A Web2 developer's guide to on-chain identity, from SSH keys to self-sovereignty\n\n\n\n\nLet me tell you about the moment it clicked for me.\n\nI was on day three of learning Solana, staring at a terminal that had just printed",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 00:59:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hidden Cost of AI Coding: Technical Debt You Can't See",
-      "link": "https://dev.to/maishsk/the-hidden-cost-of-ai-coding-technical-debt-you-cant-see-1767",
-      "summary": "I had an interesting conversation with a colleague a few weeks ago. He was looking at his team's metrics - sprint velocity up 40%, PRs merging faster than ever, test coverage sitting pretty at 94%. Everything green. Ever",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fed0up4i3yb55ca68v6uo.png",
-      "published": "Mon, 27 Apr 2026 18:41:41 +0000",
+      "title": "Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI",
+      "link": "https://dev.to/vorsken/stop-merging-vulnerable-api-code-automate-pr-security-gates-with-semgrep-claude-ai-22ik",
+      "summary": "Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI\n\nEvery team says \"we'll fix it after the merge.\"\nThey rarely do.\n\nI built vorsken — a GitHub Action that blocks pull requests contain",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 00:53:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "link": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl",
-      "summary": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the previous week (Saturday-Friday).\n\nCongrats to all the authors that made it onto the list 👏\n\n\n\n  \n  Should Hand-Written Co",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3885989%2Fc3c3a13d-f9e6-44d2-b765-4f6a2708757a.png",
-      "published": "Mon, 27 Apr 2026 18:26:58 +0000",
+      "title": "Rich Markdown in Your Tasks — Code, Diagrams, and More",
+      "link": "https://dev.to/oatnil/rich-markdown-in-your-tasks-code-diagrams-and-more-4eij",
+      "summary": "What Is a Task?\n\n\nIn UnDercontrol, a Task is the core unit of information. If you've used Jira, think of it as an Issue; if you've used Obsidian, think of it as a Note. A Task is essentially a piece of content bound to a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flzll6vreniagnrf7cirr.png",
+      "published": "Tue, 28 Apr 2026 00:52:07 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
-      "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
-      "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\n\nL",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 13:55:42 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Recreating Apple’s Vision Pro Animation in CSS",
-      "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
-      "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
-      "image": "",
-      "published": "Thu, 23 Apr 2026 13:22:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Enhancing Astro With a Markdown Component",
-      "link": "https://css-tricks.com/astro-markdown-component/",
-      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Markdown + Astro = ❤️",
-      "link": "https://css-tricks.com/markdown-astro/",
-      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
-      "link": "https://css-tricks.com/whats-important-9/",
-      "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\n\nWhat’s !important #9: clip-path Jigsaws,",
-      "image": "",
-      "published": "Fri, 17 Apr 2026 14:00:41 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
