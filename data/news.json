@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-28T07:59:41.367816Z",
+  "updated": "2026-04-28T13:22:38.647890Z",
   "articles": [
+    {
+      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+      "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+      "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major re",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg",
+      "published": "Tue, 28 Apr 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+      "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg",
+      "published": "Tue, 28 Apr 2026 16:48:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "After Mythos: New Playbooks For a Zero-Window Era",
+      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+      "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats.\nIf you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect afte",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg",
+      "published": "Tue, 28 Apr 2026 16:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp;\nXu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGdvCIS6jOvz5WvlLwD34DqwHSyM4DaERfLDinlvQ4UfRqBUsjPp3o-sOVZL-gfqCHrsz53BMM3-fdFlaCLtMLshTfU9ncVM4qqkF9dzjsi9sF8XdMlbXvJSpDUSXdP_h4KN01TbwhT-10z626gUmlgrE4MlyM5lBTmZDKkB-g-xoMVgDFmM0b5sCCzQr/s1600/covid-hacker.png",
+      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
       "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in question is CVE-2026-32",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg",
-      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
-      "source": "The Hacker News",
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 08:50:58 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web.\n\"Based on current evidence,",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg",
-      "published": "Mon, 27 Apr 2026 19:49:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks sti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eEqmWavzJwy68cdm3DB_l6dZO3ja-RjrtStTMh8_AA5AwWVDhwqEHJIYOPo98lAQ1yDrMZL1Yl2LxeSbk25vsQQI7csJuilXZRo-frfCj9ULE507sQBgvEBM0Y_RkYAWtUteoShXMRAD70JhGRjah1cBzZCew3meQp5xP5-Jv72-ZI4veiUa-aJnMYAK/s1600/cybrecap.jpg",
-      "published": "Mon, 27 Apr 2026 19:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-      "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-      "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png",
-      "published": "Mon, 27 Apr 2026 17:28:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the defa",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 04:37:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
       "image": "",
       "published": "Mon, 27 Apr 2026 17:41:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 16:00:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-      "summary": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 15:56:03 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-      "summary": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
-      "image": "",
-      "published": "Mon, 27 Apr 2026 12:27:53 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Scraping 241 UK council planning portals – 2.6M decisions so far",
-      "link": "https://news.ycombinator.com/item?id=47931470",
-      "summary": "I've been scraping 241 UK council planning portals – 2.6M decisions so farUK planning data is technically public. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that loo",
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "summary": "Article URL: https://github.com/microsoft/VibeVoice\nComments URL: https://news.ycombinator.com/item?id=47933236\nPoints: 40\n# Comments: 10",
       "image": "",
-      "published": "Tue, 28 Apr 2026 07:34:03 +0000",
+      "published": "Tue, 28 Apr 2026 11:56:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GTFOBins",
-      "link": "https://gtfobins.org/",
-      "summary": "Article URL: https://gtfobins.org/\nComments URL: https://news.ycombinator.com/item?id=47931035\nPoints: 75\n# Comments: 25",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "summary": "Article URL: https://github.com/localsend/localsend\nComments URL: https://news.ycombinator.com/item?id=47933208\nPoints: 122\n# Comments: 40",
       "image": "",
-      "published": "Tue, 28 Apr 2026 06:27:39 +0000",
+      "published": "Tue, 28 Apr 2026 11:54:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "WASM is not quite a stack machine",
-      "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
-      "summary": "Article URL: https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/\nComments URL: https://news.ycombinator.com/item?id=47930493\nPoints: 7\n# Comments: 1",
+      "title": "Period tracking app has been yapping about your flow to Meta",
+      "link": "https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been",
+      "summary": "Article URL: https://femtechdesigndesk.substack.com/p/your-period-tracking-app-has-been\nComments URL: https://news.ycombinator.com/item?id=47932990\nPoints: 53\n# Comments: 46",
       "image": "",
-      "published": "Tue, 28 Apr 2026 04:34:29 +0000",
+      "published": "Tue, 28 Apr 2026 11:31:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
-      "link": "https://technology.robbyant.com/lingbot-map",
-      "summary": "Article URL: https://technology.robbyant.com/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=47930170\nPoints: 22\n# Comments: 2",
+      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
+      "link": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
+      "summary": "Article URL: https://www.theideasletter.org/essay/the-social-edge-of-intelligence/\nComments URL: https://news.ycombinator.com/item?id=47932446\nPoints: 53\n# Comments: 63",
       "image": "",
-      "published": "Tue, 28 Apr 2026 03:27:40 +0000",
+      "published": "Tue, 28 Apr 2026 10:08:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "High Performance Git",
-      "link": "https://gitperf.com/",
-      "summary": "Article URL: https://gitperf.com/\nComments URL: https://news.ycombinator.com/item?id=47929035\nPoints: 108\n# Comments: 14",
+      "title": "An Update on GitHub Availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/an-update-on-github-availability/\nComments URL: https://news.ycombinator.com/item?id=47932422\nPoints: 146\n# Comments: 135",
       "image": "",
-      "published": "Tue, 28 Apr 2026 00:32:04 +0000",
+      "published": "Tue, 28 Apr 2026 10:05:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Develop a Pure PHP Face Recognition Application",
-      "link": "https://dev.to/arshidkv12/develop-a-pure-php-face-recognition-application-313n",
-      "summary": "Face recognition isn’t just for Python or complex AI stacks anymore. You can now implement it in PHP to create efficient web-based solutions for attendance, security, and user authentication, even integrating seamlessly ",
+      "title": "Indie Dev Cost Management: Designing a $0 $100/Month Stack",
+      "link": "https://dev.to/kanta13jp1/indie-dev-cost-management-designing-a-0-100month-stack-28ob",
+      "summary": "Indie Dev Cost Management: Designing a $0→$100/Month Stack\n\n\nAvoid the \"suddenly I'm paying $500/month\" trap. Here's a phase-based cost design I use in production.\n\n\n  \n  \n  Early Stage ($0/month): Max the Free Tiers\n\n\n\n",
       "image": "",
-      "published": "Tue, 28 Apr 2026 07:53:41 +0000",
+      "published": "Tue, 28 Apr 2026 13:10:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SHIFT: The Third Time I Tried Convergence",
-      "link": "https://dev.to/marcoallegretti/shift-the-third-time-i-tried-convergence-3gpn",
-      "summary": "In 2013 I bought an Ubuntu Phone. Not because I needed a new phone, but because the demos kept showing one specific thing: plug the phone into a monitor, and it became a desktop. Same device, same apps, no second OS. I w",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5kvtzuryqtu4yg27c9o.png",
-      "published": "Tue, 28 Apr 2026 07:51:28 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What Happens to Your Pipeline When the Source System Changes Without Warning",
-      "link": "https://dev.to/andrew_tan_layline/what-happens-to-your-pipeline-when-the-source-system-changes-without-warning-2ld5",
-      "summary": "This article was originally published on the layline.io blog.\n\nSchema drift and upstream breaking changes are the number one cause of silent data failures — but most pipeline content focuses on infrastructure, not source",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2pjebb4llfbte7uia3ug.png",
-      "published": "Tue, 28 Apr 2026 07:45:56 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Realized I Was Depending Too Much on AI",
-      "link": "https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf",
-      "summary": "People are depending too much on AI, and it's changing their cognitive abilities. So, I started researching the long-term impact: Here is my observation:\n\nThe Observation\n\nAt first, AI felt like leverage.\n\nIt helped me m",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpn8xr84qrfjhuvuxu0ew.jpeg",
-      "published": "Tue, 28 Apr 2026 07:40:40 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "From Figma to Flutter: Designing a System That Scales Across 30 Apps",
-      "link": "https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431",
-      "summary": "We've shipped 30+ Flutter apps at Xenotix Labs across D2C commerce, real-time sports, edtech, healthtech, legaltech, marketplaces, and more. Each project starts the same way: Figma file, design system, component library,",
+      "title": "Introducing Citai: the RAG engine I built across 6 articles — now free to try",
+      "link": "https://dev.to/martin_palopoli/introducing-citai-the-rag-engine-i-built-across-6-articles-now-free-to-try-ki6",
+      "summary": "Over the last 6 articles I shared how I built every piece of a production RAG engine: hybrid search, cross-encoder reranking, SSE streaming, multi-tenancy, semantic cache and language detection. Today I'm introducing the",
       "image": "",
-      "published": "Tue, 28 Apr 2026 07:38:46 +0000",
+      "published": "Tue, 28 Apr 2026 13:10:00 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Presentando Citai: el motor RAG que construí en 6 artículos — y que ahora podés probar gratis",
+      "link": "https://dev.to/martin_palopoli/presentando-citai-el-motor-rag-que-construi-en-6-articulos-y-que-ahora-podes-probar-gratis-4dl0",
+      "summary": "Durante los últimos 6 artículos compartí cómo construí cada pieza de un motor RAG de producción: búsqueda híbrida, cross-encoder reranking, streaming SSE, multi-tenancy, cache semántico y detección de idioma. Hoy present",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 13:10:00 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Handling `unknown` in TypeScript… isn't it painful?",
+      "link": "https://dev.to/nyaomaru/handling-unknown-in-typescript-isnt-it-painful-4dec",
+      "summary": "Hi there 👋\n\nI'm a frontend engineer based in the Netherlands, currently suffering from hay fever 😿\n\nAPI responses, form inputs, external data…\n\nIn TypeScript, we often end up dealing with unknown,\nand handling it properl",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1n1jxhr8qai9f63jr5mi.png",
+      "published": "Tue, 28 Apr 2026 13:09:54 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Building a Personal Agent",
+      "link": "https://dev.to/juhapellotsalo/building-a-personal-agent-502l",
+      "summary": "Shortly after OpenClaw came out I started building my own personal agent. I picked Claude Code as the harness, partly out of habit and partly because I wanted to see what it could do outside of coding.\n\nThe agent lives i",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 13:09:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
