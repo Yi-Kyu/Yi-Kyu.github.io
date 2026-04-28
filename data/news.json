@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-28T01:28:52.493108Z",
+  "updated": "2026-04-28T07:59:41.367816Z",
   "articles": [
+    {
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort.\nAgent ID Administ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg",
+      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in question is CVE-2026-32",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg",
+      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
       "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
@@ -25,24 +43,6 @@
       "summary": "Anthropic’s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale an",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png",
       "published": "Mon, 27 Apr 2026 17:28:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025.\nThat's according to a report publ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg",
-      "published": "Mon, 27 Apr 2026 17:24:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.\nThe cluster of",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg",
-      "published": "Mon, 27 Apr 2026 16:53:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Generative AI Vegetarianism",
-      "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-      "summary": "Article URL: https://sboots.ca/2026/03/11/generative-ai-vegetarianism/\nComments URL: https://news.ycombinator.com/item?id=47928885\nPoints: 16\n# Comments: 16",
+      "title": "Scraping 241 UK council planning portals – 2.6M decisions so far",
+      "link": "https://news.ycombinator.com/item?id=47931470",
+      "summary": "I've been scraping 241 UK council planning portals – 2.6M decisions so farUK planning data is technically public. In practice it's locked behind 400+ different council portals, some still running bespoke ASP.NET that loo",
       "image": "",
-      "published": "Tue, 28 Apr 2026 00:07:39 +0000",
+      "published": "Tue, 28 Apr 2026 07:34:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "To my students",
-      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-      "summary": "Article URL: http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml\nComments URL: https://news.ycombinator.com/item?id=47928828\nPoints: 221\n# Comments: 97",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "Article URL: https://gtfobins.org/\nComments URL: https://news.ycombinator.com/item?id=47931035\nPoints: 75\n# Comments: 25",
       "image": "",
-      "published": "Mon, 27 Apr 2026 23:57:39 +0000",
+      "published": "Tue, 28 Apr 2026 06:27:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "New Integrated by Design FreeBSD Book",
-      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "summary": "Article URL: https://vivianvoss.net/blog/integrated-by-design-launch\nComments URL: https://news.ycombinator.com/item?id=47928554\nPoints: 50\n# Comments: 11",
+      "title": "WASM is not quite a stack machine",
+      "link": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/\nComments URL: https://news.ycombinator.com/item?id=47930493\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Mon, 27 Apr 2026 23:14:26 +0000",
+      "published": "Tue, 28 Apr 2026 04:34:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Pro: Opus model will only be available if extra usage is enabled",
-      "link": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
-      "summary": "Article URL: https://support.claude.com/en/articles/11940350-claude-code-model-configuration\nComments URL: https://news.ycombinator.com/item?id=47928088\nPoints: 51\n# Comments: 21",
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "link": "https://technology.robbyant.com/lingbot-map",
+      "summary": "Article URL: https://technology.robbyant.com/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=47930170\nPoints: 22\n# Comments: 2",
       "image": "",
-      "published": "Mon, 27 Apr 2026 22:13:17 +0000",
+      "published": "Tue, 28 Apr 2026 03:27:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "link": "https://talkie-lm.com/introducing-talkie",
-      "summary": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 66\n# Comments: 19",
+      "title": "High Performance Git",
+      "link": "https://gitperf.com/",
+      "summary": "Article URL: https://gitperf.com/\nComments URL: https://news.ycombinator.com/item?id=47929035\nPoints: 108\n# Comments: 14",
       "image": "",
-      "published": "Mon, 27 Apr 2026 21:55:48 +0000",
+      "published": "Tue, 28 Apr 2026 00:32:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Connecting Phantom to a Web App Changed How I Think About \"Login\"",
-      "link": "https://dev.to/tanisha_fonseca/connecting-phantom-to-a-web-app-changed-how-i-think-about-login-3p0h",
-      "summary": "On Day 4 of #100DaysOfSolana, I built a small Vite app that connects to a browser wallet. The feature itself is maybe 30 lines of code. The mindset shift it triggered is harder to measure.\n\n\n  \n  \n  What I Built\n\n\nA mini",
+      "title": "Develop a Pure PHP Face Recognition Application",
+      "link": "https://dev.to/arshidkv12/develop-a-pure-php-face-recognition-application-313n",
+      "summary": "Face recognition isn’t just for Python or complex AI stacks anymore. You can now implement it in PHP to create efficient web-based solutions for attendance, security, and user authentication, even integrating seamlessly ",
       "image": "",
-      "published": "Tue, 28 Apr 2026 01:05:30 +0000",
+      "published": "Tue, 28 Apr 2026 07:53:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Build a Self-Verification Loop in Claude Code (3 Layers, 20 Minutes)",
-      "link": "https://dev.to/shipwithaiio/how-to-build-a-self-verification-loop-in-claude-code-3-layers-20-minutes-m1p",
-      "summary": "Claude Code's Stop hook blocks the agent from finishing until verification passes. Combine it with PostToolUse feedback injection to build a 3-layer verification loop (syntax, intent, regression) in 20 minutes. The resul",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 01:00:00 +0000",
+      "title": "SHIFT: The Third Time I Tried Convergence",
+      "link": "https://dev.to/marcoallegretti/shift-the-third-time-i-tried-convergence-3gpn",
+      "summary": "In 2013 I bought an Ubuntu Phone. Not because I needed a new phone, but because the demos kept showing one specific thing: plug the phone into a monitor, and it became a desktop. Same device, same apps, no second OS. I w",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5kvtzuryqtu4yg27c9o.png",
+      "published": "Tue, 28 Apr 2026 07:51:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You Already Understand Solana Identity: You Just Don't Know It Yet",
-      "link": "https://dev.to/tanisha_fonseca/you-already-understand-solana-identity-you-just-dont-know-it-yet-5563",
-      "summary": "A Web2 developer's guide to on-chain identity, from SSH keys to self-sovereignty\n\n\n\n\nLet me tell you about the moment it clicked for me.\n\nI was on day three of learning Solana, staring at a terminal that had just printed",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 00:59:53 +0000",
+      "title": "What Happens to Your Pipeline When the Source System Changes Without Warning",
+      "link": "https://dev.to/andrew_tan_layline/what-happens-to-your-pipeline-when-the-source-system-changes-without-warning-2ld5",
+      "summary": "This article was originally published on the layline.io blog.\n\nSchema drift and upstream breaking changes are the number one cause of silent data failures — but most pipeline content focuses on infrastructure, not source",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2pjebb4llfbte7uia3ug.png",
+      "published": "Tue, 28 Apr 2026 07:45:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI",
-      "link": "https://dev.to/vorsken/stop-merging-vulnerable-api-code-automate-pr-security-gates-with-semgrep-claude-ai-22ik",
-      "summary": "Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI\n\nEvery team says \"we'll fix it after the merge.\"\nThey rarely do.\n\nI built vorsken — a GitHub Action that blocks pull requests contain",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 00:53:20 +0000",
+      "title": "I Realized I Was Depending Too Much on AI",
+      "link": "https://dev.to/jaideepparashar/i-realized-i-was-depending-too-much-on-ai-36mf",
+      "summary": "People are depending too much on AI, and it's changing their cognitive abilities. So, I started researching the long-term impact: Here is my observation:\n\nThe Observation\n\nAt first, AI felt like leverage.\n\nIt helped me m",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpn8xr84qrfjhuvuxu0ew.jpeg",
+      "published": "Tue, 28 Apr 2026 07:40:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Rich Markdown in Your Tasks — Code, Diagrams, and More",
-      "link": "https://dev.to/oatnil/rich-markdown-in-your-tasks-code-diagrams-and-more-4eij",
-      "summary": "What Is a Task?\n\n\nIn UnDercontrol, a Task is the core unit of information. If you've used Jira, think of it as an Issue; if you've used Obsidian, think of it as a Note. A Task is essentially a piece of content bound to a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flzll6vreniagnrf7cirr.png",
-      "published": "Tue, 28 Apr 2026 00:52:07 +0000",
+      "title": "From Figma to Flutter: Designing a System That Scales Across 30 Apps",
+      "link": "https://dev.to/ujjawal_tyagi_c5a84255da4/from-figma-to-flutter-designing-a-system-that-scales-across-30-apps-3431",
+      "summary": "We've shipped 30+ Flutter apps at Xenotix Labs across D2C commerce, real-time sports, edtech, healthtech, legaltech, marketplaces, and more. Each project starts the same way: Figma file, design system, component library,",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 07:38:46 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
+      "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
+      "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\n\nL",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 13:55:42 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Recreating Apple’s Vision Pro Animation in CSS",
+      "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+      "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 13:22:57 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Enhancing Astro With a Markdown Component",
+      "link": "https://css-tricks.com/astro-markdown-component/",
+      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Markdown + Astro = ❤️",
+      "link": "https://css-tricks.com/markdown-astro/",
+      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
+      "link": "https://css-tricks.com/whats-important-9/",
+      "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\n\nWhat’s !important #9: clip-path Jigsaws,",
+      "image": "",
+      "published": "Fri, 17 Apr 2026 14:00:41 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
