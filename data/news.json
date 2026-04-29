@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T19:15:55.678229Z",
+  "updated": "2026-04-29T01:29:30.371652Z",
   "articles": [
     {
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability  tracked as CVE-2026-42208. [...]",
+      "image": "",
+      "published": "Tue, 28 Apr 2026 17:07:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
       "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
@@ -70,24 +88,6 @@
       "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
       "image": "",
       "published": "Tue, 28 Apr 2026 10:50:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-      "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 08:50:58 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DOOM running in ChatGPT and Claude",
-      "link": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-      "summary": "Article URL: https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/\nComments URL: https://news.ycombinator.com/item?id=47939079\nPoints: 3\n# Comments: 1",
+      "title": "Claude system prompt bug wastes user money and bricks managed agents",
+      "link": "https://github.com/anthropics/claude-code/issues/49363",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/49363\nComments URL: https://news.ycombinator.com/item?id=47942492\nPoints: 54\n# Comments: 15",
       "image": "",
-      "published": "Tue, 28 Apr 2026 19:08:47 +0000",
+      "published": "Tue, 28 Apr 2026 23:59:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bankruptcies Increase 11.9 Percent",
-      "link": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
-      "summary": "Article URL: https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent\nComments URL: https://news.ycombinator.com/item?id=47938756\nPoints: 45\n# Comments: 9",
+      "title": "ChatGPT serves ads. Here's the full attribution loop",
+      "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "summary": "Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\nComments URL: https://news.ycombinator.com/item?id=47942437\nPoints: 98\n# Comments: 44",
       "image": "",
-      "published": "Tue, 28 Apr 2026 18:47:09 +0000",
+      "published": "Tue, 28 Apr 2026 23:54:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Waymo in Portland",
-      "link": "https://waymo.com/blog/shorts/waymo-in-portland/",
-      "summary": "Article URL: https://waymo.com/blog/shorts/waymo-in-portland/\nComments URL: https://news.ycombinator.com/item?id=47938184\nPoints: 97\n# Comments: 62",
+      "title": "Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-for-creative-work\nComments URL: https://news.ycombinator.com/item?id=47942386\nPoints: 25\n# Comments: 21",
       "image": "",
-      "published": "Tue, 28 Apr 2026 18:08:13 +0000",
+      "published": "Tue, 28 Apr 2026 23:46:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude.ai is unavailable",
-      "link": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w\nComments URL: https://news.ycombinator.com/item?id=47938097\nPoints: 139\n# Comments: 105",
+      "title": "Carrot Disclosure: Forgejo",
+      "link": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+      "summary": "Article URL: https://dustri.org/b/carrot-disclosure-forgejo.html\nComments URL: https://news.ycombinator.com/item?id=47941590\nPoints: 90\n# Comments: 29",
       "image": "",
-      "published": "Tue, 28 Apr 2026 18:01:21 +0000",
+      "published": "Tue, 28 Apr 2026 22:14:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Warp is now Open-Source",
-      "link": "https://github.com/warpdotdev/warp",
-      "summary": "Article URL: https://github.com/warpdotdev/warp\nComments URL: https://news.ycombinator.com/item?id=47937349\nPoints: 12\n# Comments: 0",
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/\nComments URL: https://news.ycombinator.com/item?id=47940921\nPoints: 246\n# Comments: 65",
       "image": "",
-      "published": "Tue, 28 Apr 2026 17:09:41 +0000",
+      "published": "Tue, 28 Apr 2026 21:17:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "TAMECAT: APT42's New PowerShell Backdoor Targeting Military and Government Officials",
-      "link": "https://dev.to/excalibra/tamecat-apt42s-new-powershell-backdoor-targeting-military-and-government-officials-14mc",
-      "summary": "Article Summary: The Iranian APT42 group is conducting espionage attacks against high-ranking military and government officials using the TAMECAT PowerShell backdoor. This malware features fileless execution, in-memory o",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqiqsal90yq7giceox1id.jpg",
-      "published": "Tue, 28 Apr 2026 19:06:29 +0000",
+      "title": "Your AI agent wastes 13,000 tokens before saying \"hello\"",
+      "link": "https://dev.to/rudsoncarvalho/your-ai-agent-wastes-13000-tokens-before-saying-hello-3141",
+      "summary": "And you probably have no idea.\n\n\n\n\nIf you have an agent with 50 MCP tools installed, here's what happens before any user message is processed:\n\n\n\n{\n  \"name\": \"gmail_send_email\",\n  \"description\": \"Sends an email message v",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 01:22:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Nine seconds to zero: what the Railway prod-DB deletion teaches you about agent safety",
-      "link": "https://dev.to/tiamatenity/nine-seconds-to-zero-what-the-railway-prod-db-deletion-teaches-you-about-agent-safety-3l8n",
-      "summary": "Yesterday an AI coding agent — Cursor running Anthropic's Opus 4.6 — deleted a company's entire production database, plus all volume-level backups, in a single Railway API call. Nine seconds. No restore.\n\nI'm an autonomo",
+      "title": "Seu agente de IA está desperdiçando 13.000 tokens antes de dizer \"oi\"",
+      "link": "https://dev.to/rudsoncarvalho/seu-agente-de-ia-esta-desperdicando-13000-tokens-antes-de-dizer-oi-3pfg",
+      "summary": "E você provavelmente nem sabe disso.\n\n\n\n\nSe você tem um agente com 50 tools MCP instaladas, aqui está o que acontece antes de qualquer mensagem do usuário ser processada:\n\n\n\n{\n  \"name\": \"gmail_send_email\",\n  \"description",
       "image": "",
-      "published": "Tue, 28 Apr 2026 19:05:19 +0000",
+      "published": "Wed, 29 Apr 2026 01:22:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Multi-tenant Mongoose Module for NestJS",
-      "link": "https://dev.to/phen0menon/multi-tenant-mongoose-module-for-nestjs-2gic",
-      "summary": "Building a multi-tenant service? If you're using NestJS and MongoDB (Mongoose), you've probably hit a wall when trying to isolate customer data.\n\nThe common approach - database-per-tenant - often leads to messy code wher",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 19:03:38 +0000",
+      "title": "Rethinking What You Need to Do When Your Access Keys Are Compromised",
+      "link": "https://dev.to/aws-builders/rethinking-what-you-need-to-do-when-your-access-keys-are-compromised-od7",
+      "summary": "\"A Note from the Author\"\nI work in the Technical Support division of an AWS reseller operating under the AWS Solution Provider Program in Japan. This post is written from that perspective — sitting between our customers ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0jv03gthi9hvriixmfv7.png",
+      "published": "Wed, 29 Apr 2026 01:15:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cloudflare R2 vs S3 for VPS Hosting: Real Costs & UX",
-      "link": "https://dev.to/juan_diegoisazaa_5362a/cloudflare-r2-vs-s3-for-vps-hosting-real-costs-ux-3pg1",
-      "summary": "If you’re weighing cloudflare r2 vs s3 for a VPS-hosted app, you’re really deciding where your bandwidth bill and operational friction will land. Object storage is “cheap” until you start serving files at scale, and then",
+      "title": "Weekly Wins: Celebrating Your Successes and Lessons Learned",
+      "link": "https://dev.to/orbit_websites_b004ed2787/weekly-wins-celebrating-your-successes-and-lessons-learned-5gni",
+      "summary": "Weekly Wins: Celebrating Your Successes and Lessons Learned\n\n\nLet’s be honest: most engineering teams are stuck in a cycle of sprint planning, standups, and retrospectives that feel like bureaucratic theater. We track ve",
       "image": "",
-      "published": "Tue, 28 Apr 2026 19:03:06 +0000",
+      "published": "Wed, 29 Apr 2026 01:08:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Day 3: Mastering Prompt Templates — Stop Hardcoding Your Logic! 🧠",
-      "link": "https://dev.to/rushanksavant/day-3-mastering-prompt-templates-stop-hardcoding-your-logic-5gh6",
-      "summary": "Welcome to Day 3! Yesterday, we built our first chain. It worked, but we did something that professional AI engineers try to avoid: we used a simple string for our prompt.\n\nIn a real-world app, prompts need to be dynamic",
+      "title": "Celebrating Your Wins: What Made Your Week Unforgettable",
+      "link": "https://dev.to/orbit_websites_b004ed2787/celebrating-your-wins-what-made-your-week-unforgettable-m83",
+      "summary": "Celebrating Your Wins: What Made Your Week Unforgettable\n\n\nAs developers, we often focus on what’s broken, what’s next, or what we haven’t shipped yet. But growth happens when we pause and reflect on what did work — the ",
       "image": "",
-      "published": "Tue, 28 Apr 2026 19:02:51 +0000",
+      "published": "Wed, 29 Apr 2026 01:08:17 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Nonexistent ::nth-letter Selector Now",
+      "link": "https://css-tricks.com/using-nonexistent-nth-letter-selector-now/",
+      "summary": "My shim might give the powers that be another reason to say native support isn't necessary, or if lots of people use my :nth-letter hack in the wild, the browser gods might recognize the need to implement it for real.\n\nL",
+      "image": "",
+      "published": "Mon, 27 Apr 2026 13:55:42 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Recreating Apple’s Vision Pro Animation in CSS",
+      "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+      "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
+      "image": "",
+      "published": "Thu, 23 Apr 2026 13:22:57 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Enhancing Astro With a Markdown Component",
+      "link": "https://css-tricks.com/astro-markdown-component/",
+      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
+      "image": "",
+      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Markdown + Astro = ❤️",
+      "link": "https://css-tricks.com/markdown-astro/",
+      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
+      "image": "",
+      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
+      "link": "https://css-tricks.com/whats-important-9/",
+      "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\n\nWhat’s !important #9: clip-path Jigsaws,",
+      "image": "",
+      "published": "Fri, 17 Apr 2026 14:00:41 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
