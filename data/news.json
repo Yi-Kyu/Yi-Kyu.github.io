@@ -1,6 +1,33 @@
 {
-  "updated": "2026-04-29T13:14:37.715726Z",
+  "updated": "2026-04-29T19:03:24.738094Z",
   "articles": [
+    {
+      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, S",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg",
+      "published": "Wed, 29 Apr 2026 21:56:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+      "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+      "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in question is \"@vali",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoAi4Ild7Dz2KtvraUPjGBgNHYScbOo2DzPh9iUn8IirHe8VYws7uF0A4wf2803kNMgLzCWg0oOZwXcdzRUx5-sbBPiABEN05-RtXTa2vMqOSa52E4FPELQba8QcIQBPXl6hOHuyN7cHldbTMMvxnA4UhxDk1Huh2W85I0EJeWdscqF5NdwRLjbtOXn7Zj/s1600/korean-hackers.jpg",
+      "published": "Wed, 29 Apr 2026 20:13:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking about AI writing bet",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8vcicU2DANrmyA4GRttWV5sb4GPYdppuZax9v279s90O_uXz10MvgxpTyOR9s-tZoccR96ph-c7hZOwXORyLBYdWEsn3zCkrT_ivf6ZVApdMY6TL6jarUO4rNjR9nfc7XPTnmc6ttcKs_9aGOsOK4RoEnliEqVYrcOtL_d7Zys-51KZosLtWtlsOX4mo/s1600/thn.jpg",
+      "published": "Wed, 29 Apr 2026 17:32:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
       "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based o",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGMiUJH-3-Yk7Hnve0k2mPxHZecIbCTTN7z_CosJp8GhI7hira6707ALIDB4skUc8UbRdmWtbhz4n9fe8T-h3OGzul9awiw8DFsnsSORkjKfXr4dgEGX_ncQ7dWBYGAhyU3Efo8-z_YPCEFC_bUDH8eYeX_w6QcDrOWTnpRXqOF_IATm0t-xxMJp6uYWc/s1600/windows-logo.jpg",
-      "published": "Wed, 29 Apr 2026 14:16:00 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 14:32:15 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 3",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg",
-      "published": "Wed, 29 Apr 2026 11:04:00 +0530",
-      "source": "The Hacker News",
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 11:51:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg",
-      "published": "Tue, 28 Apr 2026 23:49:00 +0530",
-      "source": "The Hacker News",
+      "title": "European police dismantles €50 million crypto investment fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
+      "summary": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwid",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 10:27:36 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
       "image": "",
       "published": "Wed, 29 Apr 2026 08:41:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says backend change broke Teams Free chat and calls",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "summary": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
-      "image": "",
-      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,111 @@
       "category": "cybersecurity"
     },
     {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/\nComments URL: https://news.ycombinator.com/item?id=47947490\nPoints: 82\n# Comments: 79",
+      "title": "Anthropic bug causes $200 extra charge, refuses refund",
+      "link": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/53262\nComments URL: https://news.ycombinator.com/item?id=47952722\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Wed, 29 Apr 2026 12:38:50 +0000",
+      "published": "Wed, 29 Apr 2026 18:54:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Coffee with a splash of physics: how to make the most out of your brew",
-      "link": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
-      "summary": "Article URL: https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/\nComments URL: https://news.ycombinator.com/item?id=47947318\nPoints: 15\n# Comments: 1",
+      "title": "Copy Fail – CVE-2026-31431",
+      "link": "https://copy.fail/",
+      "summary": "Article URL: https://copy.fail/\nComments URL: https://news.ycombinator.com/item?id=47952181\nPoints: 92\n# Comments: 29",
       "image": "",
-      "published": "Wed, 29 Apr 2026 12:18:59 +0000",
+      "published": "Wed, 29 Apr 2026 18:13:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Read any beehiiv site paywall/distraction free",
-      "link": "https://beehiiv-reader.vercel.app/",
-      "summary": "Article URL: https://beehiiv-reader.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=47947170\nPoints: 8\n# Comments: 0",
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials\nComments URL: https://news.ycombinator.com/item?id=47951786\nPoints: 30\n# Comments: 8",
       "image": "",
-      "published": "Wed, 29 Apr 2026 12:05:01 +0000",
+      "published": "Wed, 29 Apr 2026 17:44:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stardex Is Hiring a Founding Customer Success Lead",
-      "link": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
-      "summary": "Article URL: https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead\nComments URL: https://news.ycombinator.com/item?id=47947125\nPoints: 0\n# Comments: 0",
+      "title": "Laws of UX",
+      "link": "https://lawsofux.com/",
+      "summary": "Article URL: https://lawsofux.com/\nComments URL: https://news.ycombinator.com/item?id=47951137\nPoints: 36\n# Comments: 4",
       "image": "",
-      "published": "Wed, 29 Apr 2026 12:00:17 +0000",
+      "published": "Wed, 29 Apr 2026 16:58:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "link": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "summary": "Article URL: https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/\nComments URL: https://news.ycombinator.com/item?id=47946958\nPoints: 129\n# Comments: 60",
+      "title": "Why Software Needs a Third Loop [audio]",
+      "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
+      "summary": "Article URL: https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop\nComments URL: https://news.ycombinator.com/item?id=47951098\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Wed, 29 Apr 2026 11:42:46 +0000",
+      "published": "Wed, 29 Apr 2026 16:55:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CleanMyMac vs MegaCleaner: Why Generic Cleaners Miss 80% of Developer Bloat",
-      "link": "https://dev.to/nixeton/cleanmymac-vs-megacleaner-why-generic-cleaners-miss-80-of-developer-bloat-2hgb",
-      "summary": "You're a developer. Your Mac says you have 15GB free. You download CleanMyMac, run a scan, and it proudly offers to clean 4.7GB of system caches and browser data. You clean it. The number barely moves. Meanwhile, you hav",
+      "title": "Building a Local AI Agent (Part 1): Six Technical Challenges",
+      "link": "https://dev.to/flo1632/building-a-local-ai-agent-part-1-six-technical-challenges-424b",
+      "summary": "I've been building Reiseki (霊石) — a fully local AI agent that runs on your machine via Ollama, even if you do not have more than 8-10 GB of RAM. The agent uses a ReAct loop (Reason → Act → Observe) to handle file operati",
       "image": "",
-      "published": "Wed, 29 Apr 2026 13:07:14 +0000",
+      "published": "Wed, 29 Apr 2026 18:57:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The node_modules That Wouldn't Die",
-      "link": "https://dev.to/vineethnkrishnan/the-nodemodules-that-wouldnt-die-f35",
-      "summary": "The node_modules That Wouldn't Die\n\n\n\n\nTL;DR - An internal app of mine refused to deploy because the build kept importing the wrong version of a Vite plugin. The lockfile said one thing, the build was doing another. I bl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fvineethnk.in%2Fblog%2Fstale-node-modules-hero.png",
-      "published": "Wed, 29 Apr 2026 13:06:19 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "NASA and Papa John's Are Using the Same AI. Nobody's Asking If That's a Problem.",
-      "link": "https://dev.to/olivespecs/nasa-and-papa-johns-are-using-the-same-ai-nobodys-asking-if-thats-a-problem-ho5",
-      "summary": "This is a submission for the Google Cloud NEXT Writing Challenge\n\nAt Google Cloud Next '26, Thomas Kurian stood on a stage in Las Vegas and declared: \"The era of the pilot is over. The era of the agent is here.\"\n\nThe cro",
+      "title": "War Story: We Replaced AWS IAM with Vault 1.16 and Cut Our Permission Error Rate by 60% for 500+ Developers",
+      "link": "https://dev.to/johalputt/war-story-we-replaced-aws-iam-with-vault-116-and-cut-our-permission-error-rate-by-60-for-500-5eam",
+      "summary": "At 2:17 AM on a Tuesday in Q3 2023, our on-call rotation got 14 PagerDuty alerts in 12 minutes. All were the same error: AccessDenied from AWS IAM for developers trying to deploy to our EKS clusters. By the end of that q",
       "image": "",
-      "published": "Wed, 29 Apr 2026 13:05:16 +0000",
+      "published": "Wed, 29 Apr 2026 18:55:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Welcome Thread - v375",
-      "link": "https://dev.to/devteam/welcome-thread-v375-3d7d",
-      "summary": "Leave a comment below to introduce yourself! You can talk about what brought you here, what you're learning, or just a fun fact about\nyourself.\nReply to someone's comment, either with a question or just a hello. 👋\n\n\n\n\n\nC",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvuxadd39q1fpnrhca13t.gif",
-      "published": "Wed, 29 Apr 2026 13:00:00 +0000",
+      "title": "Beyond configuration drift: how Barbacane reimagines the API gateway with Rust and WASM",
+      "link": "https://dev.to/ndreno/beyond-configuration-drift-how-barbacane-reimagines-the-api-gateway-with-rust-and-wasm-god",
+      "summary": "What if your OpenAPI spec wasn't just documentation, but the actual configuration of your production gateway?\n\nFor years, API teams have lived with a quiet frustration: the gap between specification and reality. You writ",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 18:54:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Friction Engineering — when disagreement becomes the mechanism",
-      "link": "https://dev.to/oliviercds/friction-engineering-when-disagreement-becomes-the-mechanism-2a1",
-      "summary": "I've been an enterprise architect for over fifteen years. For several of those years, I was skeptical of AI — machines don't create, they digest and produce a statistically correct response. Then I found myself building ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffkpw6wr7t73nv9ys6qnl.png",
-      "published": "Wed, 29 Apr 2026 13:00:00 +0000",
+      "title": "Why Firestore Keeps Throwing “Missing Index” Errors — And How to Fix It Like an Engineer",
+      "link": "https://dev.to/shantih_palani/why-firestore-keeps-throwing-missing-index-errors-and-how-to-fix-it-like-an-engineer-4m9k",
+      "summary": "If you’ve worked with Firestore long enough, you’ve definitely seen this:\n\n\n“The query requires an index. You can create it here…”\n\n\nAt first, it feels harmless. You click the link, create the index, and move on.\n\nBut as",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 18:52:35 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How Lazarus Used AI Zoom Lures to Drain Wallets in 5 Minutes (and How to Stop It)",
+      "link": "https://dev.to/rushanksavant/how-lazarus-used-ai-zoom-lures-to-drain-wallets-in-5-minutes-and-how-to-stop-it-36d2",
+      "summary": "The Attack Lifecycle\nThe recent Arctic Wolf report on the BlueNoroff campaign is a masterclass in 2026 social engineering.\n\n1. The Lure: A fake Calendly invite for a \"quick sync.\"\n\n2. The Payload: A \"ClickFix\" style atta",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 18:50:44 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "contrast()",
+      "link": "https://css-tricks.com/almanac/functions/c/contrast/",
+      "summary": "The contrast() filter function increases or decreases the contrast of an element.\n\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 14:58:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "contrast-color()",
+      "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+      "summary": "The contrast-color() function takes a &#60;color&#62; and returns either black or white, whichever is the most contrasting color for that value.\n\ncontrast-color() originally handwritten and published with love on CSS-Tri",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 14:57:48 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -250,24 +268,6 @@
       "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
       "image": "",
       "published": "Wed, 22 Apr 2026 13:49:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Markdown + Astro = ❤️",
-      "link": "https://css-tricks.com/markdown-astro/",
-      "summary": "Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.\n\nMarkdown + Astro = &#x2764;&#xfe0f; originally handwritten and published with love on CSS",
-      "image": "",
-      "published": "Mon, 20 Apr 2026 13:55:16 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #9: clip-path Jigsaws, View Transitions Toolkit, Name-only Containers, and More",
-      "link": "https://css-tricks.com/whats-important-9/",
-      "summary": "This issue of What’s !important brings you clip-path jigsaws, a view transitions toolkit, name-only containers, the usual roundup of new, notable web platform features, and more.\n\nWhat’s !important #9: clip-path Jigsaws,",
-      "image": "",
-      "published": "Fri, 17 Apr 2026 14:00:41 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
