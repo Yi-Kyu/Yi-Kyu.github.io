@@ -1,6 +1,15 @@
 {
-  "updated": "2026-04-30T01:28:27.273710Z",
+  "updated": "2026-04-30T07:56:32.062599Z",
   "articles": [
+    {
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to e",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg",
+      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
@@ -34,15 +43,6 @@
       "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEher9s_mKSWufl-S-lAJfV_7PalFTxuPLyiublEI1g0S4mOPLkr21X8SDIXB8fo-hbUXOf07J8lXp7esCsDNp3d5lJ33kZam2mnpQWQ5jG1S56U5WyfuB12Igvk2bFrUHxlDu7z4NVom_3yHR21GMcQHCoF6MEg8oXdkm4iJcygaRtcBwoTh0Sd7umE0cph/s1600/xmcyber.jpg",
       "published": "Wed, 29 Apr 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently suppo",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ54sVYryCG3V_ZjHJwzuKBteLhpf8FnX131rudu9bvgYGDupWYtJHLYxGPjVON072t-CWz4hyQmxQmwIW6ZZzTXsiJhcfRHPBj1ag1H0PeFGB4KkZIAsyhR0bT_DQqCj2uf_a5Yza7VbeBd3xRIvf4VUZ8UBRM2iEY10bk3me9zotLNcLExjSMaoY3y4l/s1600/cpanel.jpg",
-      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Be Alexandra Elbakyan",
-      "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-      "summary": "Article URL: https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m\nComments URL: https://news.ycombinator.com/item?id=47955655\nPoints: 82\n# Comments: 6",
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "link": "https://scottaaronson.blog/?p=9718",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9718\nComments URL: https://news.ycombinator.com/item?id=47958942\nPoints: 30\n# Comments: 15",
       "image": "",
-      "published": "Wed, 29 Apr 2026 22:39:34 +0000",
+      "published": "Thu, 30 Apr 2026 06:30:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=47955226\nPoints: 0\n# Comments: 0",
+      "title": "Monad Tutorials Timeline",
+      "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "summary": "Article URL: https://wiki.haskell.org/Monad_tutorials_timeline\nComments URL: https://news.ycombinator.com/item?id=47958106\nPoints: 22\n# Comments: 3",
       "image": "",
-      "published": "Wed, 29 Apr 2026 21:50:57 +0000",
+      "published": "Thu, 30 Apr 2026 04:28:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Vera: a programming language designed for machines to write",
-      "link": "https://github.com/aallan/vera",
-      "summary": "Article URL: https://github.com/aallan/vera\nComments URL: https://news.ycombinator.com/item?id=47955118\nPoints: 40\n# Comments: 22",
+      "title": "Lessons from Building an OTel Normalizer for GenAI",
+      "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+      "summary": "Article URL: https://www.groundcover.com/blog/otel-normalizer-genai-part-1\nComments URL: https://news.ycombinator.com/item?id=47958081\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Wed, 29 Apr 2026 21:41:32 +0000",
+      "published": "Thu, 30 Apr 2026 04:23:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-      "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "summary": "Article URL: https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words\nComments URL: https://news.ycombinator.com/item?id=47954745\nPoints: 43\n# Comments: 21",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "link": "https://burrito.bio/essays/biology-is-a-burrito",
+      "summary": "Article URL: https://burrito.bio/essays/biology-is-a-burrito\nComments URL: https://news.ycombinator.com/item?id=47957714\nPoints: 74\n# Comments: 11",
       "image": "",
-      "published": "Wed, 29 Apr 2026 21:11:57 +0000",
+      "published": "Thu, 30 Apr 2026 03:24:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenTrafficMap",
-      "link": "https://opentrafficmap.org/",
-      "summary": "Article URL: https://opentrafficmap.org/\nComments URL: https://news.ycombinator.com/item?id=47953541\nPoints: 145\n# Comments: 32",
+      "title": "Where the goblins came from",
+      "link": "https://openai.com/index/where-the-goblins-came-from/",
+      "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 466\n# Comments: 239",
       "image": "",
-      "published": "Wed, 29 Apr 2026 19:49:30 +0000",
+      "published": "Thu, 30 Apr 2026 03:21:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick",
-      "link": "https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9",
-      "summary": "We've all been there: you build an amazing automation suite, hit \"Run\", and realize it's going to take until next Tuesday to finish. \n\nLast week, I faced a massive bottleneck in my CI/CD pipeline. Here’s how I optimized ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudbnbmfms6d8ojrl3agl.png",
-      "published": "Thu, 30 Apr 2026 01:21:32 +0000",
+      "title": "Stop Writing Form Glue Code: MUI Components Already Connected to React Hook Form",
+      "link": "https://dev.to/kensaadi/stop-writing-form-glue-code-mui-components-already-connected-to-react-hook-form-3k1a",
+      "summary": "If you've used React Hook Form with Material UI, you know the pattern.\n\nIt works well.\nIt's flexible.\nBut it's also… repetitive.\n\nYou're not really building forms.\n\n  \n  \n  You're wiring things together.\n\n\n  \n  \n  The Pa",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 07:53:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TextInput sets mobile phone number format input - How to solve the issue of cursor position disorder after modifying data?",
-      "link": "https://dev.to/harmonyos/textinput-sets-mobile-phone-number-format-input-how-to-solve-the-issue-of-cursor-position-187n",
-      "summary": "Read the original article：TextInput sets mobile phone number format input - How to solve the issue of cursor position disorder after modifying data?\n\n\n  \n  \n  Problem Description\n\n\nUsing HarmonyOS TextInput to enter phon",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpubpzt11xw4c4kf56h8r.png",
-      "published": "Thu, 30 Apr 2026 01:20:00 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "SysMaster: The Webmaster Evolution",
-      "link": "https://dev.to/edulazaro/sysmaster-the-webmaster-evolution-4bna",
-      "summary": "I'm thinking of changing my professional title to \"webmaster\". And no, it's not nostalgia\n\nIn the early 2000s, being a webmaster meant uploading HTML over FTP, tweaking PHP you barely understood, taming an Apache that br",
+      "title": "🔮 Hermes Agent 🤖 — Deep Dive & Build-Your-Own Guide 📘",
+      "link": "https://dev.to/truongpx396/hermes-agent-deep-dive-build-your-own-guide-1pcc",
+      "summary": "A practical, end-to-end walkthrough of Nous Research's Hermes Agent: the principles it's built on, the architecture that makes it work, and a concrete checklist for building a similar self-improving agent yourself.\n\n\n\n\n\n",
       "image": "",
-      "published": "Thu, 30 Apr 2026 01:11:02 +0000",
+      "published": "Thu, 30 Apr 2026 07:49:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From IT Manager to AI Engineer: Build a Cloud Infrastructure Agent with Cloud Run's Managed MCP Server",
-      "link": "https://dev.to/joshyfruit/from-it-manager-to-ai-engineer-build-a-cloud-infrastructure-agent-with-cloud-runs-managed-mcp-pan",
-      "summary": "Google Cloud NEXT '26 dropped over 260 announcements. Most headlines went to Gemini 3.1, TPU v8, and the Agentic Data Cloud. But buried in the Cloud Run section was something that made me stop scrolling — a fully managed",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5jo4gpfuq5dh16ayrp0c.png",
-      "published": "Thu, 30 Apr 2026 00:57:46 +0000",
+      "title": "Our whole team was editing URLs by hand every time we switched environments. So I fixed it.",
+      "link": "https://dev.to/charmi_soni_95bf0498cc45d/our-whole-team-was-editing-urls-by-hand-every-time-we-switched-environments-so-i-fixed-it-48l7",
+      "summary": "It started as a team complaint.\nSomeone would be deep in a bug, need to check the same page on staging, and you'd hear the same thing every time - click the URL bar, delete the domain, type the new one, hope for no typos",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F256p7q7h3chttqzhuniv.png",
+      "published": "Thu, 30 Apr 2026 07:48:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Salesforce Data Engineering Interview Questions",
-      "link": "https://dev.to/gowthampotureddi/salesforce-data-engineering-interview-questions-5bo9",
-      "summary": "Salesforce data engineering interview questions lean SQL-heavy with a serious analytics edge: five SQL primitives (subquery + aggregation for Nth-largest values, cohort aggregation for retention, self-join with date arit",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2d7crd7pju28meulxedo.jpeg",
-      "published": "Thu, 30 Apr 2026 00:54:16 +0000",
+      "title": "Host LogicApps as an MCP Server on Azure Container Apps",
+      "link": "https://dev.to/imdj/host-logicapps-as-an-mcp-server-on-azure-container-apps-508",
+      "summary": "Run Logic Apps Standard as an MCP server in a Docker container on Azure Container Apps — then call it from another Logic App using the built-in MCP client connector inside an agent loop.\n\nThis post connects two earlier p",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkasq8dvfcuymvob0bx74.png",
+      "published": "Thu, 30 Apr 2026 07:43:25 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "300+ Remote Companies Using Python in 2026",
+      "link": "https://dev.to/remoet/300-remote-companies-using-python-in-2026-19kg",
+      "summary": "Python is the #1 most used language on remote engineering teams. 316 companies. 2,569 open jobs. More open slots than any other language, by a wide margin. You write Python. You cannot get an interview. Let me tell you w",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 07:40:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
