@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-30T13:13:39.481132Z",
+  "updated": "2026-04-30T19:02:38.578790Z",
   "articles": [
+    {
+      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, Socket,",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7hiQfVCFzoPBzfr5xqJ06qMjzv-zw_qiUcDTgyEM8RbEVk3PDztg9U5Vlkgvz6j7nX8ODtXwnTCC2wB78lupEmRjcxJTz74GJGSslsMQM-e5b8vG0W2gLFnbEzYAPKw05ZelkaNfy50VyLJeb-3EhwiGKfIP9qHNRpNG4MnFUnTBBOJ95vRJb-RbcFVxX/s1600/python.png",
+      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files dur",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwfqxUhPz38fAoq0CZr2tW8KqGW-Cr0zJloN9kS_80QO2e7yyah4N-nMKNxoSllB2tpyjKO25s2f8eFJNd2bBo50XRAVatMKnnk8ZAbRbz6kfQUhVUoD5vutOmFpYzojybY8aJZhA6KGL3sawNEyaqjlW63hAeEwrTsj8lnpou-4mThnzwCzO442aue-R0/s1600/threats.jpg",
+      "published": "Thu, 30 Apr 2026 19:25:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
       "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
@@ -29,66 +47,57 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to e",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg",
-      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, Onapsis, OX Securi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILiV-4oJHtNRt3-K52GIsgOaNUuN9owB5ky-Mk8FvRE3QmcqDg33oV3sCrzjgWEyIUfwTtn110bcMYVU3Lp61ArknIlPAcmMvbgJJ5-WheKYivyblon2tp79ux9pJmnYNv_ShhIAA5of3Wx7QzQRZs2mNuSQs6lLG23LKMVonvElcNMy6MXp6yVZO73F/s1600/sap-npm-hacks.jpg",
-      "published": "Wed, 29 Apr 2026 21:56:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
-      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
       "image": "",
-      "published": "Thu, 30 Apr 2026 07:40:31 -0400",
+      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
       "image": "",
-      "published": "Thu, 30 Apr 2026 07:21:02 -0400",
+      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 mil",
       "image": "",
-      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
+      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
       "image": "",
-      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
+      "published": "Thu, 30 Apr 2026 11:23:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-      "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+      "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
       "image": "",
-      "published": "Wed, 29 Apr 2026 16:50:35 -0400",
+      "published": "Thu, 30 Apr 2026 10:02:12 -0400",
       "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other networ",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,102 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Ir",
+      "title": "Recovering files from beyond the grave using PhotoRec",
+      "link": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
+      "summary": "Article URL: https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/\nComments URL: https://news.ycombinator.com/item?id=47965835\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "link": "https://bidprowl.com",
-      "summary": "Article URL: https://bidprowl.com\nComments URL: https://news.ycombinator.com/item?id=47961378\nPoints: 19\n# Comments: 5",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 12:24:53 +0000",
+      "published": "Thu, 30 Apr 2026 17:42:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "summary": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\nComments URL: https://news.ycombinator.com/item?id=47961319\nPoints: 74\n# Comments: 22",
+      "title": "I built a Game Boy emulator in F#",
+      "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "summary": "Article URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/\nComments URL: https://news.ycombinator.com/item?id=47965503\nPoints: 68\n# Comments: 14",
       "image": "",
-      "published": "Thu, 30 Apr 2026 12:17:14 +0000",
+      "published": "Thu, 30 Apr 2026 17:14:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GCC 16 has been released",
-      "link": "https://gcc.gnu.org/gcc-16/changes.html",
-      "summary": "Article URL: https://gcc.gnu.org/gcc-16/changes.html\nComments URL: https://news.ycombinator.com/item?id=47961004\nPoints: 69\n# Comments: 5",
+      "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
+      "link": "https://github.com/kubereboot/kured",
+      "summary": "Article URL: https://github.com/kubereboot/kured\nComments URL: https://news.ycombinator.com/item?id=47965227\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Thu, 30 Apr 2026 11:40:13 +0000",
+      "published": "Thu, 30 Apr 2026 16:53:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "For the first time in history, more Americans are moving to EU than vice versa",
-      "link": "https://twitter.com/benbawan/status/2049303326999609846",
-      "summary": "Article URL: https://twitter.com/benbawan/status/2049303326999609846\nComments URL: https://news.ycombinator.com/item?id=47960953\nPoints: 28\n# Comments: 25",
+      "title": "Show HN: TRiP – a complete transformer engine in C built from scratch just by me",
+      "link": "https://github.com/carlovalenti/TRiP",
+      "summary": "Article URL: https://github.com/carlovalenti/TRiP\nComments URL: https://news.ycombinator.com/item?id=47965161\nPoints: 15\n# Comments: 1",
       "image": "",
-      "published": "Thu, 30 Apr 2026 11:31:27 +0000",
+      "published": "Thu, 30 Apr 2026 16:48:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "1.4 GW: battery storage at former Grohnde nuclear power plant",
-      "link": "https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html",
-      "summary": "Article URL: https://www.heise.de/en/news/1-4-GW-Huge-battery-storage-at-former-Grohnde-nuclear-power-plant-11277367.html\nComments URL: https://news.ycombinator.com/item?id=47960778\nPoints: 20\n# Comments: 14",
+      "title": "CopyFail Was Not Disclosed to Distros",
+      "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/04/30/10\nComments URL: https://news.ycombinator.com/item?id=47965108\nPoints: 103\n# Comments: 51",
       "image": "",
-      "published": "Thu, 30 Apr 2026 11:08:34 +0000",
+      "published": "Thu, 30 Apr 2026 16:43:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code has an invisible second context limit — and Playwright MCP burns through it in an hour",
-      "link": "https://dev.to/creatman/claude-code-has-an-invisible-second-context-limit-and-playwright-mcp-burns-through-it-in-an-hour-1g6b",
-      "summary": "Two weeks ago I was using Claude Code to e2e-test a SaaS chat app with Playwright MCP. /compact fired. My text context was at 18%. I had 47 unread paragraphs of useful state. I was confused — until I realised Claude Code",
+      "title": "Zero-Downtime ECS EKS Migration: Orchestrating a 6-Team Production Cutover at Scale",
+      "link": "https://dev.to/krishnakanth_eswaran_6000/zero-downtime-ecs-eks-migration-orchestrating-a-6-team-production-cutover-at-scale-1pe6",
+      "summary": "Task at hand: Migrating Live Healthcare Services Without Dropping a Single Request\n\nWhen you're processing healthcare revenue cycle transactions worth millions of dollars daily, downtime isn't just inconvenient—it's fina",
       "image": "",
-      "published": "Thu, 30 Apr 2026 13:05:46 +0000",
+      "published": "Thu, 30 Apr 2026 18:45:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OWASP Top 10 LLM Vulnerabilities 2026 — Red Team Assessment Framework + Real Exploits",
-      "link": "https://dev.to/lucky_lonerusher/owasp-top-10-llm-vulnerabilities-2026-red-team-assessment-framework-real-exploits-2dcj",
-      "summary": "📰 Originally published on SecurityElites — the canonical, fully-updated version of this article.\n\n\n\n\nSamsung engineers pasted proprietary source code into ChatGPT. The data hit OpenAI’s servers and training pipeline. Tha",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmd3t7eaijbsnmkdyuquc.webp",
-      "published": "Thu, 30 Apr 2026 13:05:38 +0000",
+      "title": "How WordPress Orchestrates Thousands of Plugins: The Magic of Hooks ?",
+      "link": "https://dev.to/engrshishir/how-wordpress-orchestrates-thousands-of-plugins-the-magic-of-hooks--4klc",
+      "summary": "WordPress's greatest strength is its plugin ecosystem. But have you ever wondered how it manages thousands of developers writing code in completely different styles—some using old-school procedural code, others using mod",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 18:38:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OverTheWire: Bandit Level 1",
-      "link": "https://dev.to/amandaigwe/overthewire-bandit-level-1-1b3k",
-      "summary": "Using ssh, ls, cat, cd on Command Line\n\n\nThings to do: \n\n\nssh into the host bandit.labs.overthewire.org (incase you are not logged in. But if you are already logged in, skip this step and go to number 5)\nport 2220\nuserna",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwnd49zs6166wwansrzx4.png",
-      "published": "Thu, 30 Apr 2026 13:02:57 +0000",
+      "title": "Where to store slugs",
+      "link": "https://dev.to/xwero/where-to-store-slugs-26lp",
+      "summary": "A few days ago I saw a post about a slug library. And they used specific ORM models, post and author, to store the slugs.\nA slug is a part of the routing. And while they can be stored in a database, the best location is ",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 18:38:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Support Goes Silent: Escalating Critical Tooling Issues for Dev Productivity",
-      "link": "https://dev.to/devactivity/when-support-goes-silent-escalating-critical-tooling-issues-for-dev-productivity-146",
-      "summary": "In the fast-paced world of software development, reliable tools and responsive support aren't just luxuries—they're fundamental pillars of productivity. When a critical service issue arises, especially for paying custome",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1lOqg5QLzksW1kuscJADwYAxqDbj4kZBH%26sz%3Dw751",
-      "published": "Thu, 30 Apr 2026 13:00:30 +0000",
+      "title": "\"Of Course\" Erodes Trust Faster Than Bad Code ... Two Words That Are Killing Your Career",
+      "link": "https://dev.to/jon_at_backboardio/of-course-erodes-trust-faster-than-bad-code-two-words-that-are-killing-your-career-2h59",
+      "summary": "You already have the job or the internship. You're on the team. You're in the meetings. You're in the Slack channels.\n\nAnd the thing that's going to hold you back has nothing to do with your code.\n\nSomeone you work with ",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 18:38:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Boost Your SEO: Fixing Playwright Chromium Issues in GitHub Actions",
-      "link": "https://dev.to/devactivity/boost-your-seo-fixing-playwright-chromium-issues-in-github-actions-3c6m",
-      "summary": "Ensuring your website is discoverable by search engines is paramount for any online presence. For developers leveraging modern tools like GitHub Actions for deployment and prerendering, encountering issues with SEO crawl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1uqbECRuGlbT6mNUpZwuRPUtDL1VYGfD5%26sz%3Dw751",
-      "published": "Thu, 30 Apr 2026 13:00:29 +0000",
+      "title": "Building a Persistent Knowledge Base RAG System with FastAPI, llama.cpp, Chroma, and Open WebUI",
+      "link": "https://dev.to/navid_mirnouri_30d4db25f3/building-a-persistent-knowledge-base-rag-system-with-fastapi-llamacpp-chroma-and-open-webui-24c1",
+      "summary": "Have you ever wanted to chat with your own PDF collection – textbooks, research papers, internal documentation – using a local LLM, while keeping your data completely private?\nThis is exactly what I built. In this articl",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 18:36:01 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The Importance of Native Randomness in CSS",
+      "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+      "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\n\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CS",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 15:26:18 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\n\nRecreating Apple’s Vision Pro Animation in CSS originally hand",
       "image": "",
       "published": "Thu, 23 Apr 2026 13:22:57 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Enhancing Astro With a Markdown Component",
-      "link": "https://css-tricks.com/astro-markdown-component/",
-      "summary": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\n\nEnhancing Astro With a Markdown Component originally ha",
-      "image": "",
-      "published": "Wed, 22 Apr 2026 13:49:57 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
