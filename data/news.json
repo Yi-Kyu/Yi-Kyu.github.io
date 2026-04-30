@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T19:03:24.738094Z",
+  "updated": "2026-04-30T01:28:27.273710Z",
   "articles": [
     {
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+      "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 16:50:35 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
       "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
@@ -61,33 +88,6 @@
       "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
       "image": "",
       "published": "Wed, 29 Apr 2026 11:51:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "European police dismantles €50 million crypto investment fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
-      "summary": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwid",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 10:27:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 09:05:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 08:41:17 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic bug causes $200 extra charge, refuses refund",
-      "link": "https://github.com/anthropics/claude-code/issues/53262",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/53262\nComments URL: https://news.ycombinator.com/item?id=47952722\nPoints: 3\n# Comments: 0",
+      "title": "Be Alexandra Elbakyan",
+      "link": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
+      "summary": "Article URL: https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m\nComments URL: https://news.ycombinator.com/item?id=47955655\nPoints: 82\n# Comments: 6",
       "image": "",
-      "published": "Wed, 29 Apr 2026 18:54:31 +0000",
+      "published": "Wed, 29 Apr 2026 22:39:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Copy Fail – CVE-2026-31431",
-      "link": "https://copy.fail/",
-      "summary": "Article URL: https://copy.fail/\nComments URL: https://news.ycombinator.com/item?id=47952181\nPoints: 92\n# Comments: 29",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=47955226\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 29 Apr 2026 18:13:53 +0000",
+      "published": "Wed, 29 Apr 2026 21:50:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "summary": "Article URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials\nComments URL: https://news.ycombinator.com/item?id=47951786\nPoints: 30\n# Comments: 8",
+      "title": "Vera: a programming language designed for machines to write",
+      "link": "https://github.com/aallan/vera",
+      "summary": "Article URL: https://github.com/aallan/vera\nComments URL: https://news.ycombinator.com/item?id=47955118\nPoints: 40\n# Comments: 22",
       "image": "",
-      "published": "Wed, 29 Apr 2026 17:44:21 +0000",
+      "published": "Wed, 29 Apr 2026 21:41:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Laws of UX",
-      "link": "https://lawsofux.com/",
-      "summary": "Article URL: https://lawsofux.com/\nComments URL: https://news.ycombinator.com/item?id=47951137\nPoints: 36\n# Comments: 4",
+      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+      "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+      "summary": "Article URL: https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words\nComments URL: https://news.ycombinator.com/item?id=47954745\nPoints: 43\n# Comments: 21",
       "image": "",
-      "published": "Wed, 29 Apr 2026 16:58:13 +0000",
+      "published": "Wed, 29 Apr 2026 21:11:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Software Needs a Third Loop [audio]",
-      "link": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
-      "summary": "Article URL: https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop\nComments URL: https://news.ycombinator.com/item?id=47951098\nPoints: 8\n# Comments: 0",
+      "title": "OpenTrafficMap",
+      "link": "https://opentrafficmap.org/",
+      "summary": "Article URL: https://opentrafficmap.org/\nComments URL: https://news.ycombinator.com/item?id=47953541\nPoints: 145\n# Comments: 32",
       "image": "",
-      "published": "Wed, 29 Apr 2026 16:55:49 +0000",
+      "published": "Wed, 29 Apr 2026 19:49:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building a Local AI Agent (Part 1): Six Technical Challenges",
-      "link": "https://dev.to/flo1632/building-a-local-ai-agent-part-1-six-technical-challenges-424b",
-      "summary": "I've been building Reiseki (霊石) — a fully local AI agent that runs on your machine via Ollama, even if you do not have more than 8-10 GB of RAM. The agent uses a ReAct loop (Reason → Act → Observe) to handle file operati",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 18:57:14 +0000",
+      "title": "Slashed My Automation Suite from 9 Hours to 1 Hour with This Simple Caching Trick",
+      "link": "https://dev.to/paudang/slashed-my-automation-suite-from-9-hours-to-1-hour-with-this-simple-caching-trick-22n9",
+      "summary": "We've all been there: you build an amazing automation suite, hit \"Run\", and realize it's going to take until next Tuesday to finish. \n\nLast week, I faced a massive bottleneck in my CI/CD pipeline. Here’s how I optimized ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudbnbmfms6d8ojrl3agl.png",
+      "published": "Thu, 30 Apr 2026 01:21:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "War Story: We Replaced AWS IAM with Vault 1.16 and Cut Our Permission Error Rate by 60% for 500+ Developers",
-      "link": "https://dev.to/johalputt/war-story-we-replaced-aws-iam-with-vault-116-and-cut-our-permission-error-rate-by-60-for-500-5eam",
-      "summary": "At 2:17 AM on a Tuesday in Q3 2023, our on-call rotation got 14 PagerDuty alerts in 12 minutes. All were the same error: AccessDenied from AWS IAM for developers trying to deploy to our EKS clusters. By the end of that q",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 18:55:07 +0000",
+      "title": "TextInput sets mobile phone number format input - How to solve the issue of cursor position disorder after modifying data?",
+      "link": "https://dev.to/harmonyos/textinput-sets-mobile-phone-number-format-input-how-to-solve-the-issue-of-cursor-position-187n",
+      "summary": "Read the original article：TextInput sets mobile phone number format input - How to solve the issue of cursor position disorder after modifying data?\n\n\n  \n  \n  Problem Description\n\n\nUsing HarmonyOS TextInput to enter phon",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpubpzt11xw4c4kf56h8r.png",
+      "published": "Thu, 30 Apr 2026 01:20:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond configuration drift: how Barbacane reimagines the API gateway with Rust and WASM",
-      "link": "https://dev.to/ndreno/beyond-configuration-drift-how-barbacane-reimagines-the-api-gateway-with-rust-and-wasm-god",
-      "summary": "What if your OpenAPI spec wasn't just documentation, but the actual configuration of your production gateway?\n\nFor years, API teams have lived with a quiet frustration: the gap between specification and reality. You writ",
+      "title": "SysMaster: The Webmaster Evolution",
+      "link": "https://dev.to/edulazaro/sysmaster-the-webmaster-evolution-4bna",
+      "summary": "I'm thinking of changing my professional title to \"webmaster\". And no, it's not nostalgia\n\nIn the early 2000s, being a webmaster meant uploading HTML over FTP, tweaking PHP you barely understood, taming an Apache that br",
       "image": "",
-      "published": "Wed, 29 Apr 2026 18:54:22 +0000",
+      "published": "Thu, 30 Apr 2026 01:11:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Firestore Keeps Throwing “Missing Index” Errors — And How to Fix It Like an Engineer",
-      "link": "https://dev.to/shantih_palani/why-firestore-keeps-throwing-missing-index-errors-and-how-to-fix-it-like-an-engineer-4m9k",
-      "summary": "If you’ve worked with Firestore long enough, you’ve definitely seen this:\n\n\n“The query requires an index. You can create it here…”\n\n\nAt first, it feels harmless. You click the link, create the index, and move on.\n\nBut as",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 18:52:35 +0000",
+      "title": "From IT Manager to AI Engineer: Build a Cloud Infrastructure Agent with Cloud Run's Managed MCP Server",
+      "link": "https://dev.to/joshyfruit/from-it-manager-to-ai-engineer-build-a-cloud-infrastructure-agent-with-cloud-runs-managed-mcp-pan",
+      "summary": "Google Cloud NEXT '26 dropped over 260 announcements. Most headlines went to Gemini 3.1, TPU v8, and the Agentic Data Cloud. But buried in the Cloud Run section was something that made me stop scrolling — a fully managed",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5jo4gpfuq5dh16ayrp0c.png",
+      "published": "Thu, 30 Apr 2026 00:57:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How Lazarus Used AI Zoom Lures to Drain Wallets in 5 Minutes (and How to Stop It)",
-      "link": "https://dev.to/rushanksavant/how-lazarus-used-ai-zoom-lures-to-drain-wallets-in-5-minutes-and-how-to-stop-it-36d2",
-      "summary": "The Attack Lifecycle\nThe recent Arctic Wolf report on the BlueNoroff campaign is a masterclass in 2026 social engineering.\n\n1. The Lure: A fake Calendly invite for a \"quick sync.\"\n\n2. The Payload: A \"ClickFix\" style atta",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 18:50:44 +0000",
+      "title": "Salesforce Data Engineering Interview Questions",
+      "link": "https://dev.to/gowthampotureddi/salesforce-data-engineering-interview-questions-5bo9",
+      "summary": "Salesforce data engineering interview questions lean SQL-heavy with a serious analytics edge: five SQL primitives (subquery + aggregation for Nth-largest values, cohort aggregation for retention, self-join with date arit",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2d7crd7pju28meulxedo.jpeg",
+      "published": "Thu, 30 Apr 2026 00:54:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
