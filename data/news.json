@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T01:32:15.993633Z",
+  "updated": "2026-05-01T07:55:47.237814Z",
   "articles": [
     {
       "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "image": "",
+      "published": "Fri, 01 May 2026 03:47:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
       "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
@@ -79,15 +88,6 @@
       "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
       "image": "",
       "published": "Thu, 30 Apr 2026 11:23:03 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,6 +137,42 @@
       "category": "cybersecurity"
     },
     {
+      "title": "It’s Toasted",
+      "link": "https://yadin.com/notes/toasted/",
+      "summary": "Article URL: https://yadin.com/notes/toasted/\nComments URL: https://news.ycombinator.com/item?id=47971830\nPoints: 23\n# Comments: 10",
+      "image": "",
+      "published": "Fri, 01 May 2026 06:34:54 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+      "summary": "Article URL: https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/\nComments URL: https://news.ycombinator.com/item?id=47971768\nPoints: 49\n# Comments: 29",
+      "image": "",
+      "published": "Fri, 01 May 2026 06:20:33 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+      "link": "https://github.com/kernalix7/winpodx",
+      "summary": "Article URL: https://github.com/kernalix7/winpodx\nComments URL: https://news.ycombinator.com/item?id=47970690\nPoints: 71\n# Comments: 36",
+      "image": "",
+      "published": "Fri, 01 May 2026 02:23:43 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "OpenWarp",
+      "link": "https://openwarp.zerx.dev",
+      "summary": "Article URL: https://openwarp.zerx.dev\nComments URL: https://news.ycombinator.com/item?id=47970622\nPoints: 79\n# Comments: 67",
+      "image": "",
+      "published": "Fri, 01 May 2026 02:10:46 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "ClawIRC – IRC Chat for Agents",
       "link": "https://clawirc.com/",
       "summary": "Article URL: https://clawirc.com/\nComments URL: https://news.ycombinator.com/item?id=47970089\nPoints: 6\n# Comments: 0",
@@ -146,83 +182,47 @@
       "category": "development"
     },
     {
-      "title": "$500M for Virtual Biology Initiative, Funded by Zuckerbergs",
-      "link": "https://biohub.org/news/virtual-biology-initiative/",
-      "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative/\nComments URL: https://news.ycombinator.com/item?id=47970023\nPoints: 16\n# Comments: 3",
-      "image": "",
-      "published": "Fri, 01 May 2026 00:20:44 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940",
-      "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "summary": "Article URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/\nComments URL: https://news.ycombinator.com/item?id=47969288\nPoints: 20\n# Com",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 22:48:51 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-      "link": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "summary": "Article URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html\nComments URL: https://news.ycombinator.com/item?id=47968982\nPoints: 34\n# Comments: 4",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 22:18:57 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-      "link": "https://pu.dev/",
-      "summary": "I originally was just messing with pi-autoresearch. Gave it a sample task to build the most portable coding agent.First cut was 6 KB of shell. Great for one-shots, unusable interactively. I was shocked it actually worked",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 20:55:12 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "DuckDB Full-Text Search vs PostgreSQL FTS vs Meilisearch: 100 Million Document Index — Build Time, Query Latency, Memory",
-      "link": "https://dev.to/michael_sun_18a5c4c96768d/duckdb-full-text-search-vs-postgresql-fts-vs-meilisearch-100-million-document-index-build-time-bcj",
-      "summary": "DuckDB vs PostgreSQL vs Meilisearch: Full-Text Search at Scale\n\n\nWhen dealing with 100 million documents, the choice of a full-text search engine isn't just about features—it's about raw performance, resource efficiency,",
-      "image": "",
-      "published": "Fri, 01 May 2026 01:20:56 +0000",
+      "title": "Membedah Arsitektur Pengiriman Media Telegram: Membangun Engine Ekstraksi Berkinerja Tinggi dengan MTProto dan Async I/O",
+      "link": "https://dev.to/yqqwe/membedah-arsitektur-pengiriman-media-telegram-membangun-engine-ekstraksi-berkinerja-tinggi-dengan-42m0",
+      "summary": "Pendahuluan\n\n\nSebagai pengembang, kita sering terpukau oleh bagaimana platform berskala global mengelola dan mendistribusikan data multimedia dalam jumlah masif. Telegram bukan sekadar aplikasi pesan instan; dari sudut p",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6tkzjgewa62h08lhnmqh.png",
+      "published": "Fri, 01 May 2026 07:40:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agent Sprawl is Your Next Production Incident: An SRE Response to Datadog's State of AI Engineering 2026",
-      "link": "https://dev.to/ajaydevineni/agent-sprawl-is-your-next-production-incident-an-sre-response-to-datadogs-state-of-ai-engineering-3k83",
-      "summary": "Datadog published the State of AI Engineering 2026 report this week — real telemetry from over a thousand production environments. Read it. It is the most comprehensive look at AI in production available right now.\n\nI wa",
-      "image": "",
-      "published": "Fri, 01 May 2026 01:20:45 +0000",
+      "title": "Desconstruyendo la Extracción de Media en Telegram: Construyendo un Motor de Descarga de Alto Rendimiento con MTProto y Async I/O",
+      "link": "https://dev.to/yqqwe/desconstruyendo-la-extraccion-de-media-en-telegram-construyendo-un-motor-de-descarga-de-alto-3p3n",
+      "summary": "Introducción\n\n\nComo desarrolladores, a menudo nos fascina cómo las plataformas a escala global gestionan y distribuyen volúmenes masivos de datos multimedia. Telegram no es solo una aplicación de mensajería; desde una pe",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft09vqfbur6lpihkycr3r.png",
+      "published": "Fri, 01 May 2026 07:40:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Four MCP packages, four ways the supply chain shifted in two weeks of npm monitoring",
-      "link": "https://dev.to/michael_onyekwere/four-mcp-packages-four-ways-the-supply-chain-shifted-in-two-weeks-of-npm-monitoring-1b6o",
-      "summary": "Four MCP packages, four ways the supply chain shifted in two weeks of npm monitoring\n\n\nBy Michael K Onyekwere\n\nI monitor nearly a thousand published MCP packages on npm in real time. The pipeline polls the npm changes fe",
-      "image": "",
-      "published": "Fri, 01 May 2026 01:11:38 +0000",
+      "title": "Desconstruindo a Extração de Mídia do Telegram: Construindo um Engine de Download de Alta Performance com MTProto e Async I/O",
+      "link": "https://dev.to/yqqwe/desconstruindo-a-extracao-de-midia-do-telegram-construindo-um-engine-de-download-de-alta-38n3",
+      "summary": "Introdução\n\n\nComo desenvolvedores, frequentemente ficamos fascinados pela forma como plataformas em escala global gerenciam e distribuem volumes massivos de dados multimídia. O Telegram não é apenas um aplicativo de mens",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fam9ybpqqp2h7ng07jiev.png",
+      "published": "Fri, 01 May 2026 07:39:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cutting Self-Built MCP Server Token Usage by 90% — The Parking Pattern",
-      "link": "https://dev.to/ryosuke_tsuji_f08e20fdca1/cutting-self-built-mcp-server-token-usage-by-90-the-parking-pattern-3e7o",
-      "summary": "Hi, I'm Tsuji, CTO at airCloset.\n\nIn my previous posts I introduced the full picture of our 17 internal MCP servers, an MCP server that lets you search 991 internal tables in natural language, a Graph RAG MCP for measuri",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbgsnxmhtggzp1mryc5l6.png",
-      "published": "Fri, 01 May 2026 01:10:27 +0000",
+      "title": "Деконструкция извлечения медиа в Telegram: построение высокопроизводительного загрузчика на базе MTProto и Async I/O",
+      "link": "https://dev.to/yqqwe/diekonstruktsiia-izvliechieniia-miedia-v-telegram-postroieniie-vysokoproizvoditielnogho-zaghruzchika-na-bazie-1o95",
+      "summary": "Введение\n\n\nДля разработчика Telegram — это не просто мессенджер, а колоссальная распределенная система хранения объектов, работающая на базе собственного протокола шифрования MTProto. Однако для тех, кто создает инструме",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkn9pqewhiq1tc6iwqktu.png",
+      "published": "Fri, 01 May 2026 07:39:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Level Up Your Logic: 5 JavaScript Tips for Modern Full-Stack Developers",
-      "link": "https://dev.to/frankstack/level-up-your-logic-5-javascript-tips-for-modern-full-stack-developers-114i",
-      "summary": "The Full Content\nIn the fast-paced world of web development, JavaScript remains the engine that powers the modern web. Whether you are building interactive elements for a premium portfolio or handling complex logic for a",
+      "title": "SSL Certificate Decoder: How to Read and Analyze Any Certificate",
+      "link": "https://dev.to/myip_casa/ssl-certificate-decoder-how-to-read-and-analyze-any-certificate-dk2",
+      "summary": "SSL Certificate Decoder: How to Read and Analyze Any Certificate\n\n\nSSL certificates are essential for HTTPS security, but their raw format is not exactly human-friendly.\n\nIf you have ever opened a certificate file and se",
       "image": "",
-      "published": "Fri, 01 May 2026 00:43:26 +0000",
+      "published": "Fri, 01 May 2026 07:36:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
