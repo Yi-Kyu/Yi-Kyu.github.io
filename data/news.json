@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-01T18:52:31.001962Z",
+  "updated": "2026-05-02T01:22:08.440134Z",
   "articles": [
+    {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been codenamed Ac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg",
+      "published": "Fri, 01 May 2026 23:39:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
       "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg",
-      "published": "Fri, 01 May 2026 15:13:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+      "image": "",
+      "published": "Fri, 01 May 2026 20:18:05 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+      "image": "",
+      "published": "Fri, 01 May 2026 19:43:35 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
       "image": "",
       "published": "Fri, 01 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 08:46:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 07:10:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A statement about why RightsCon 2026 will not take place in Zambia",
-      "link": "https://www.rightscon.org/rc26-statement/",
-      "summary": "Article URL: https://www.rightscon.org/rc26-statement/\nComments URL: https://news.ycombinator.com/item?id=47978386\nPoints: 6\n# Comments: 0",
+      "title": "What did you love about VB6?",
+      "link": "https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question",
+      "summary": "Article URL: https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question\nComments URL: https://news.ycombinator.com/item?id=47981961\nPoints: 29\n# Comments: 23",
       "image": "",
-      "published": "Fri, 01 May 2026 18:38:55 +0000",
+      "published": "Sat, 02 May 2026 00:09:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "link": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "summary": "Article URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/\nComments URL: https://news.ycombinator.com/item?id=47978370\nPoints: 9\n# C",
+      "title": "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
+      "link": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html\nComments URL: https://news.ycombinator.com/item?id=47981856\nPoints: 26\n# Comments: 6",
       "image": "",
-      "published": "Fri, 01 May 2026 18:37:47 +0000",
+      "published": "Fri, 01 May 2026 23:52:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "It's Possible to Learn in Our Sleep. Should We?",
-      "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "summary": "Article URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we\nComments URL: https://news.ycombinator.com/item?id=47977748\nPoints: 4\n# Comments: 1",
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\nComments URL: https://news.ycombinator.com/item?id=47981669\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Fri, 01 May 2026 17:47:42 +0000",
+      "published": "Fri, 01 May 2026 23:24:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: AI CAD Harness",
-      "link": "https://fusion.adam.new/install",
-      "summary": "Hi HN, I'm Zach, one of the co-founders of Adam (https://adam.new).We've been on HN twice before with text-to-CAD/3D experiments [1][2]. The honest takeaway from those threads: prompt-to-3D model web apps are fun, but se",
+      "title": "Credit cards are vulnerable to brute force kind attacks",
+      "link": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+      "summary": "Article URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html\nComments URL: https://news.ycombinator.com/item?id=47979839\nPoints: 185\n# Comments: 150",
       "image": "",
-      "published": "Fri, 01 May 2026 17:43:53 +0000",
+      "published": "Fri, 01 May 2026 20:26:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: My Private GitHub on Postgres",
-      "link": "https://github.com/calebwin/gitgres",
-      "summary": "Article URL: https://github.com/calebwin/gitgres\nComments URL: https://news.ycombinator.com/item?id=47977659\nPoints: 19\n# Comments: 7",
+      "title": "Ti-84 Evo",
+      "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "summary": "Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\nComments URL: https://news.ycombinator.com/item?id=47979583\nPoints: 265\n# Comments: 261",
       "image": "",
-      "published": "Fri, 01 May 2026 17:40:15 +0000",
+      "published": "Fri, 01 May 2026 20:06:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Insomnia vs Rentgen — powerful API platform vs raw API reality",
-      "link": "https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o",
-      "summary": "Insomnia vs Rentgen is one of those comparisons that sounds logical until you actually think about it for more than five seconds. Yes, both deal with APIs, but so does electricity and your toaster, and nobody is comparin",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftan38l3fudn36bz94rdd.png",
-      "published": "Fri, 01 May 2026 18:41:38 +0000",
+      "title": "Beyond Simple Image Recognition: Building a Precise AI Nutritionist with GPT-4o and Segment Anything (SAM)",
+      "link": "https://dev.to/wellallytech/beyond-simple-image-recognition-building-a-precise-ai-nutritionist-with-gpt-4o-and-segment-29ml",
+      "summary": "We've all been there: you take a photo of your lunch with a generic calorie-tracking app, and it tells you your 500-gram lasagna is a \"medium slice of cake.\" 🤦‍♂️ The struggle with AI nutrition tracking isn't just identi",
+      "image": "",
+      "published": "Sat, 02 May 2026 01:20:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built an AI agent that audits a site's visibility in both Google AND ChatGPT/Perplexity — here's how it works",
-      "link": "https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o",
-      "summary": "Google rankings aren't the whole game anymore. I started noticing my clients' potential customers asking ChatGPT and Perplexity \"best web designer in Dublin\" and getting answers — answers that didn't include my clients.\n",
+      "title": "Ghostty 1.0 vs Warp OSS vs WezTerm: 14 Days of Daily Use — Real Latency, Memory, and Workflow Numbers",
+      "link": "https://dev.to/michael_sun_18a5c4c96768d/ghostty-10-vs-warp-oss-vs-wezterm-14-days-of-daily-use-real-latency-memory-and-workflow-3ekp",
+      "summary": "The Fastest Terminal on macOS? A 14-Day Stress Test of Ghostty, Warp, and WezTerm\n\n\nAfter 14 days of intensive, real-world testing on an M3 MacBook Pro, the performance differences between modern terminal emulators are s",
       "image": "",
-      "published": "Fri, 01 May 2026 18:41:30 +0000",
+      "published": "Sat, 02 May 2026 01:12:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A warehouse supervisor's guide to shipping a SaaS in 3 weeks (with a lot of AI help)",
-      "link": "https://dev.to/ricardo_diazmiralles/a-warehouse-supervisors-guide-to-shipping-a-saas-in-3-weeks-with-a-lot-of-ai-help-4goi",
-      "summary": "Hey DEV community 👋\n\nI'm Ricardo. By day I run a warehouse in Boston, Lincolnshire (UK). By night, for the last few weeks, I've been building a SaaS with the help of AI tools — and as of this week, it's live in productio",
+      "title": "分层架构深度指南：构建可维护软件的核心基石",
+      "link": "https://dev.to/tianxin/fen-ceng-jia-gou-shen-du-zhi-nan-gou-jian-ke-wei-hu-ruan-jian-de-he-xin-ji-shi-2a9",
+      "summary": "分层架构深度指南：构建可维护软件的核心基石\n\n\n\n分层架构（Layered Architecture）是最经典也是最广泛使用的架构模式之一。无论是小型应用还是企业级系统，理解分层架构都能帮助你构建更清晰、可维护的代码。\n\n\n\n\n\n\n  \n  \n  什么是分层架构？\n\n\n分层架构将应用程序按照职责划分为多个层次，每个层次只关注自己的职责。经典的的三层架构包括：\n\n\n\n表现层（Presentation Layer） - 负责用户界面和用户交",
       "image": "",
-      "published": "Fri, 01 May 2026 18:41:25 +0000",
+      "published": "Sat, 02 May 2026 01:06:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an Agent that respects User Permissions — With AWS Bedrock AgentCore and Entra ID",
-      "link": "https://dev.to/sumanthprasad/building-an-agent-that-respects-user-permissions-with-aws-bedrock-agentcore-and-entra-id-10f9",
-      "summary": "A practical guide to building an AI agent that queries ServiceNow as the actual user, not a service account, using AgentCore Identity's On-Behalf-Of token exchange.\n\n\n\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nEveryone'",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj99pz0ynn2fbkgcx48m.png",
-      "published": "Fri, 01 May 2026 18:41:10 +0000",
+      "title": "The Death of the Pull Request: Why Manual Code Reviews are Obsolete",
+      "link": "https://dev.to/dmitryame/the-death-of-the-pull-request-why-manual-code-reviews-are-obsolete-3fj3",
+      "summary": "The industry is suffering from a collective delusion. We’ve treated the manual Pull Request (PR) as a sacred ritual of \"quality,\" yet it has become the single greatest bottleneck in the modern delivery pipeline. \n\nAs we ",
+      "image": "",
+      "published": "Sat, 02 May 2026 01:01:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Generated Commit Messages for free in IntelliJ",
-      "link": "https://dev.to/shivamag00/ai-generated-commit-messages-for-free-in-intellij-2lhj",
-      "summary": "I built AICommitMessages for IntelliJ! Use the CLIs you already own (Copilot, Cursor) to generate commit messages from your diff. More coming soon.\n\nGet it: https://plugins.jetbrains.com/plugin/30544-aicommitmessages\n\n\n\n",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fplugins.jetbrains.com%2Ffiles%2F30544%2F1036392%2Ficon%2Fdefault.png",
-      "published": "Fri, 01 May 2026 18:37:56 +0000",
+      "title": "Claude Code Forgets Everything Between Sessions. MEMORY.md Fixes That",
+      "link": "https://dev.to/shipwithaiio/claude-code-forgets-everything-between-sessions-memorymd-fixes-that-1flb",
+      "summary": "Claude Code resets context every session. MEMORY.md gives it persistent memory of your project's evolving state in a 200-line index file. Setup takes 5 minutes. One prompt at the end of each session keeps it current.\n\n\n\n",
+      "image": "",
+      "published": "Sat, 02 May 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
