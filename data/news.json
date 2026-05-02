@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T12:39:09.278459Z",
+  "updated": "2026-05-02T18:38:24.096248Z",
   "articles": [
     {
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
+      "image": "",
+      "published": "Sat, 02 May 2026 10:32:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
@@ -79,15 +88,6 @@
       "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incide",
       "image": "",
       "published": "Fri, 01 May 2026 12:26:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GameStop Preparing Offer for eBay",
-      "link": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
-      "summary": "Article URL: https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de\nComments URL: https://news.ycombinator.com/item?id=47985271\nPoints: 16\n# Comments: 3",
+      "title": "NetHack 5.0.0",
+      "link": "https://nethack.org/v500/release.html",
+      "summary": "Article URL: https://nethack.org/v500/release.html\nComments URL: https://news.ycombinator.com/item?id=47988776\nPoints: 87\n# Comments: 13",
       "image": "",
-      "published": "Sat, 02 May 2026 10:55:25 +0000",
+      "published": "Sat, 02 May 2026 18:03:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-      "link": "https://piruet.app",
-      "summary": "I searched for a simple, self-hosted journal app for my girlfriend and everything I found was either too\ncomplex, too feature-heavy, too feature-less for what I needed or required trusting a cloud service.So I built Piru",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "summary": "Article URL: https://www.bbc.com/news/articles/clypjx3rg2go\nComments URL: https://news.ycombinator.com/item?id=47988742\nPoints: 36\n# Comments: 15",
       "image": "",
-      "published": "Sat, 02 May 2026 10:42:55 +0000",
+      "published": "Sat, 02 May 2026 17:59:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "link": "https://mljar.com/",
-      "summary": "Hi HN,I’ve been working on mljar-supervised (open-source AutoML for tabular data) for a few years. Recently I built a desktop app around it called MLJAR Studio.The idea is simple: you talk to your data in natural languag",
+      "title": "Videolan Dav2d",
+      "link": "https://code.videolan.org/videolan/dav2d",
+      "summary": "Article URL: https://code.videolan.org/videolan/dav2d\nComments URL: https://news.ycombinator.com/item?id=47988504\nPoints: 29\n# Comments: 4",
       "image": "",
-      "published": "Sat, 02 May 2026 10:21:31 +0000",
+      "published": "Sat, 02 May 2026 17:32:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "summary": "Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/\nComments URL: https://news.ycombinator.com/item?id=47984852\nPoints: 57\n# Comments: 16",
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "link": "https://flueframework.com/",
+      "summary": "Article URL: https://flueframework.com/\nComments URL: https://news.ycombinator.com/item?id=47988501\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Sat, 02 May 2026 09:30:49 +0000",
+      "published": "Sat, 02 May 2026 17:32:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "link": "https://iesna.eu/?wasm=skyglow_demo",
-      "summary": "Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 /",
+      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
+      "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html\nComments URL: https://news.ycombinator.com/item?id=47988261\nPoints: 39\n# Comments: 15",
       "image": "",
-      "published": "Sat, 02 May 2026 09:08:18 +0000",
+      "published": "Sat, 02 May 2026 17:10:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found",
-      "link": "https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017",
-      "summary": "The gay jailbreak: I ran the viral technique against my own production prompts and here's what I found\n\n\n524 points on Hacker News. The thread blows up. The jailbreak technique everyone's talking about has a click-bait n",
+      "title": "I Thought I'd Just Call a Blockchain API. It Didn't Work Out That Way.",
+      "link": "https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp",
+      "summary": "I walked into a crypto project thinking I'd just pull data from a blockchain API. That's not how it went.\nI join the project. Stack: FastAPI, PostgreSQL, Redis as Celery broker, Celery workers, Docker, Web3. Startup on a",
       "image": "",
-      "published": "Sat, 02 May 2026 12:31:22 +0000",
+      "published": "Sat, 02 May 2026 18:24:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré",
-      "link": "https://dev.to/jtorchia/the-gay-jailbreak-probe-la-tecnica-viral-sobre-mis-propios-prompts-de-produccion-y-esto-encontre-42h7",
-      "summary": "The gay jailbreak: probé la técnica viral sobre mis propios prompts de producción y esto encontré\n\n\n524 puntos en Hacker News. El thread explota. La técnica de jailbreak que todos están discutiendo tiene un nombre que pr",
+      "title": "LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes",
+      "link": "https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35",
+      "summary": "LeafWiki - A self-hosted wiki for long-lived documentation.\nBuilt for engineers, self-hosters, and small teams.\n\nLeafWiki v0.9.0 is out. This release focuses on four problems that come up in any shared wiki over time.\n\n\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20g1mbeua3hq9ex2x938.png",
+      "published": "Sat, 02 May 2026 18:23:45 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Linear Regression: Code (a) Line",
+      "link": "https://dev.to/the_undefined_architect/linear-regression-code-a-line-1fhh",
+      "summary": "It's time to write your first ML model and predict house prices.\nTo follow along, go ahead and take a look at the complete product:\nhttps://github.com/yotambelgoroski/ml_unchained-house_pricing\n\n  \n  \n  Step 1: It's all ",
       "image": "",
-      "published": "Sat, 02 May 2026 12:31:17 +0000",
+      "published": "Sat, 02 May 2026 18:19:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Quark's Outlines: Python Name Spaces",
-      "link": "https://dev.to/mike-vincent/quarks-outlines-python-name-spaces-3a18",
-      "summary": "Quark’s Outlines: Python Name Spaces\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python Name Spaces\n\n\n\n  \n  \n  What is a Python name space?\n\n\nWhen you write code in Python, you give",
+      "title": "Immutable settlement protocols for real-world assets: deployed, ownerless, open templates",
+      "link": "https://dev.to/pablochacon/immutable-settlement-protocols-for-real-world-assets-deployed-ownerless-open-templates-bip",
+      "summary": "I have deployed a collection of independent smart contract protocols on Ethereum mainnet. Each one is finished infrastructure:\nImmutable, ownerless, no upgrade path. This post is a technical introduction to what they are",
       "image": "",
-      "published": "Sat, 02 May 2026 12:25:50 +0000",
+      "published": "Sat, 02 May 2026 18:16:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[PT-BR] Por que troquei meu \"Opinionated Linux\" autoral (DIY) pelo Omarchy",
-      "link": "https://dev.to/guilherme44/pt-br-por-que-troquei-meu-opinionated-linux-autoral-diy-pelo-omarchy-5bab",
-      "summary": "Tô usando o Omarchy como setup principal desde 26 de junho de 2025, dia em que o DHH lançou a primeira versão. Antes tinha meu \"Opinionated Linux\" autoral (DIY), o mclovin-ARCHived: um installer Arch + i3wm com tudo conf",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwommzbv5sh5f1dsbxqc2.jpg",
-      "published": "Sat, 02 May 2026 12:23:32 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Why I traded my custom \"Opinionated Linux\" for Omarchy",
-      "link": "https://dev.to/guilherme44/why-i-traded-my-custom-opinionated-linux-for-omarchy-5i",
-      "summary": "I've been using Omarchy as my main setup since June 26, 2025, the day DHH released the first version. Before that I had my own custom Opinionated Linux, mclovin-ARCHived: an Arch + i3wm installer set up exactly the way I",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwommzbv5sh5f1dsbxqc2.jpg",
-      "published": "Sat, 02 May 2026 12:23:28 +0000",
+      "title": "When Generic Benchmarks Fail: Building a Sales-Domain Evaluation Bench from Scratch",
+      "link": "https://dev.to/natnael_alemseged/when-generic-benchmarks-fail-building-a-sales-domain-evaluation-bench-from-scratch-1kjf",
+      "summary": "By Natnael Alemseged\n\n\n\n\n\n  \n  \n  The gap that τ²-Bench retail cannot measure\n\n\nTenacious is a B2B sales automation company. Its agent produces outreach emails for clients — personalized to the prospect's company, calibr",
+      "image": "",
+      "published": "Sat, 02 May 2026 18:16:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
