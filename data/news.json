@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T18:38:24.096248Z",
+  "updated": "2026-05-03T01:25:32.027736Z",
   "articles": [
     {
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+      "image": "",
+      "published": "Sat, 02 May 2026 17:54:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
       "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
@@ -79,15 +88,6 @@
       "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
       "image": "",
       "published": "Fri, 01 May 2026 13:52:06 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Story retracted",
-      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incide",
-      "image": "",
-      "published": "Fri, 01 May 2026 12:26:28 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "NetHack 5.0.0",
-      "link": "https://nethack.org/v500/release.html",
-      "summary": "Article URL: https://nethack.org/v500/release.html\nComments URL: https://news.ycombinator.com/item?id=47988776\nPoints: 87\n# Comments: 13",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "summary": "Article URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/\nComments URL: https://news.ycombinator.com/item?id=47991802\nPoints: 27\n# Comments: 1",
       "image": "",
-      "published": "Sat, 02 May 2026 18:03:42 +0000",
+      "published": "Sun, 03 May 2026 00:01:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "link": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "summary": "Article URL: https://www.bbc.com/news/articles/clypjx3rg2go\nComments URL: https://news.ycombinator.com/item?id=47988742\nPoints: 36\n# Comments: 15",
+      "title": "Waymo Drives Off with South Bay Man's Luggage",
+      "link": "https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/",
+      "summary": "Article URL: https://sfist.com/2026/05/01/waymo-drives-off-with-south-bay-mans-luggage-after-trunk-fails-to-open/\nComments URL: https://news.ycombinator.com/item?id=47991487\nPoints: 50\n# Comments: 26",
       "image": "",
-      "published": "Sat, 02 May 2026 17:59:18 +0000",
+      "published": "Sat, 02 May 2026 23:04:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Videolan Dav2d",
-      "link": "https://code.videolan.org/videolan/dav2d",
-      "summary": "Article URL: https://code.videolan.org/videolan/dav2d\nComments URL: https://news.ycombinator.com/item?id=47988504\nPoints: 29\n# Comments: 4",
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "link": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "summary": "Article URL: https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/\nComments URL: https://news.ycombinator.com/item?id=47991350\nPoints: 116\n# Comments: 27",
       "image": "",
-      "published": "Sat, 02 May 2026 17:32:29 +0000",
+      "published": "Sat, 02 May 2026 22:45:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
-      "link": "https://flueframework.com/",
-      "summary": "Article URL: https://flueframework.com/\nComments URL: https://news.ycombinator.com/item?id=47988501\nPoints: 9\n# Comments: 1",
+      "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+      "link": "https://github.com/mahimairaja/voiceai",
+      "summary": "Article URL: https://github.com/mahimairaja/voiceai\nComments URL: https://news.ycombinator.com/item?id=47991018\nPoints: 19\n# Comments: 0",
       "image": "",
-      "published": "Sat, 02 May 2026 17:32:07 +0000",
+      "published": "Sat, 02 May 2026 22:03:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
-      "link": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html\nComments URL: https://news.ycombinator.com/item?id=47988261\nPoints: 39\n# Comments: 15",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "link": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "summary": "Article URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/\nComments URL: https://news.ycombinator.com/item?id=47990789\nPoints: 31\n# Comments: 5",
       "image": "",
-      "published": "Sat, 02 May 2026 17:10:18 +0000",
+      "published": "Sat, 02 May 2026 21:34:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Thought I'd Just Call a Blockchain API. It Didn't Work Out That Way.",
-      "link": "https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp",
-      "summary": "I walked into a crypto project thinking I'd just pull data from a blockchain API. That's not how it went.\nI join the project. Stack: FastAPI, PostgreSQL, Redis as Celery broker, Celery workers, Docker, Web3. Startup on a",
+      "title": "How I built a Go proxy that keeps your LLM conversation alive when cloud quota runs out",
+      "link": "https://dev.to/shouvik12/how-i-built-a-go-proxy-that-keeps-your-llm-conversation-alive-when-cloud-quota-runs-out-8k5",
+      "summary": "Introduction\nIf you've ever been mid-conversation with Claude or GPT, hit a quota limit, and switched to a local Ollama model,you know the pain. The local model has zero context. It's like walking into a meeting 45 minut",
       "image": "",
-      "published": "Sat, 02 May 2026 18:24:52 +0000",
+      "published": "Sun, 03 May 2026 01:23:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes",
-      "link": "https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35",
-      "summary": "LeafWiki - A self-hosted wiki for long-lived documentation.\nBuilt for engineers, self-hosters, and small teams.\n\nLeafWiki v0.9.0 is out. This release focuses on four problems that come up in any shared wiki over time.\n\n\n",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20g1mbeua3hq9ex2x938.png",
-      "published": "Sat, 02 May 2026 18:23:45 +0000",
+      "title": "Why finding a GitHub user's email is harder than you'd think",
+      "link": "https://dev.to/apa512/why-finding-a-github-users-email-is-harder-than-youd-think-gjd",
+      "summary": "You've found a contributor whose work you depend on. The maintainer of a package you use, a developer who fixed something for you upstream, the author of a CVE you need to coordinate with. You have their GitHub username.",
+      "image": "",
+      "published": "Sun, 03 May 2026 01:21:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Linear Regression: Code (a) Line",
-      "link": "https://dev.to/the_undefined_architect/linear-regression-code-a-line-1fhh",
-      "summary": "It's time to write your first ML model and predict house prices.\nTo follow along, go ahead and take a look at the complete product:\nhttps://github.com/yotambelgoroski/ml_unchained-house_pricing\n\n  \n  \n  Step 1: It's all ",
+      "title": "How to Query Nested JSON with JSONPath (Without Writing Loops)",
+      "link": "https://dev.to/pioneer10/how-to-query-nested-json-with-jsonpath-without-writing-loops-4jpa",
+      "summary": "You just got back a 300-line API response. Somewhere inside three levels of nesting is the email field you actually need. So you write a loop, then another loop, then a conditional — and now you're maintaining brittle tr",
       "image": "",
-      "published": "Sat, 02 May 2026 18:19:27 +0000",
+      "published": "Sun, 03 May 2026 01:21:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Immutable settlement protocols for real-world assets: deployed, ownerless, open templates",
-      "link": "https://dev.to/pablochacon/immutable-settlement-protocols-for-real-world-assets-deployed-ownerless-open-templates-bip",
-      "summary": "I have deployed a collection of independent smart contract protocols on Ethereum mainnet. Each one is finished infrastructure:\nImmutable, ownerless, no upgrade path. This post is a technical introduction to what they are",
+      "title": "An MCP server for PostgreSQL is not just another SQL shortcut",
+      "link": "https://dev.to/mads_hansen_27b33ebfee4c9/an-mcp-server-for-postgresql-is-not-just-another-sql-shortcut-5570",
+      "summary": "Most teams do not need another way to paste SQL into a chat box.\n\nThey need a safer way for AI tools to answer real questions from live data.\n\nPostgreSQL often already holds the context: accounts, subscriptions, events, ",
       "image": "",
-      "published": "Sat, 02 May 2026 18:16:56 +0000",
+      "published": "Sun, 03 May 2026 01:21:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Generic Benchmarks Fail: Building a Sales-Domain Evaluation Bench from Scratch",
-      "link": "https://dev.to/natnael_alemseged/when-generic-benchmarks-fail-building-a-sales-domain-evaluation-bench-from-scratch-1kjf",
-      "summary": "By Natnael Alemseged\n\n\n\n\n\n  \n  \n  The gap that τ²-Bench retail cannot measure\n\n\nTenacious is a B2B sales automation company. Its agent produces outreach emails for clients — personalized to the prospect's company, calibr",
+      "title": "5 Silent Failure Patterns I Keep Finding in Production AI Systems",
+      "link": "https://dev.to/temurkhan13/5-silent-failure-patterns-i-keep-finding-in-production-ai-systems-4fl0",
+      "summary": "I've spent roughly two years debugging production AI systems for engineering teams that have already shipped, with production traffic, real users, and real cost surfaces. Different stacks (LangChain, LlamaIndex, vanilla ",
       "image": "",
-      "published": "Sat, 02 May 2026 18:16:47 +0000",
+      "published": "Sun, 03 May 2026 01:13:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
