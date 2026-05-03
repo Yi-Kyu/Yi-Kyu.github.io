@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T12:38:02.131474Z",
+  "updated": "2026-05-03T18:38:59.452915Z",
   "articles": [
     {
       "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "image": "",
+      "published": "Sun, 03 May 2026 14:11:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+      "image": "",
+      "published": "Sun, 03 May 2026 10:11:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
       "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
@@ -70,24 +88,6 @@
       "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
       "image": "",
       "published": "Fri, 01 May 2026 20:18:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 19:43:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "15-year-old detained over French govt agency data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-      "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 13:52:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Systemd-manager-TUI: A TUI application for managing systemd services",
-      "link": "https://github.com/Matheus-git/systemd-manager-tui",
-      "summary": "Article URL: https://github.com/Matheus-git/systemd-manager-tui\nComments URL: https://news.ycombinator.com/item?id=47995649\nPoints: 23\n# Comments: 5",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "link": "https://partyon.xyz/@nullagent/116499715071759135",
+      "summary": "Article URL: https://partyon.xyz/@nullagent/116499715071759135\nComments URL: https://news.ycombinator.com/item?id=47999636\nPoints: 5\n# Comments: 1",
       "image": "",
-      "published": "Sun, 03 May 2026 10:55:30 +0000",
+      "published": "Sun, 03 May 2026 18:03:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Investors pile into clean energy as Iran war drives push for energy security",
-      "link": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
-      "summary": "Article URL: https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a\nComments URL: https://news.ycombinator.com/item?id=47995125\nPoints: 30\n# Comments: 13",
+      "title": "I Recreated the Apple Lisa Computer Inside an FPGA – The LisaFPGA Project",
+      "link": "https://www.youtube.com/watch?v=8jNQDcpHc68",
+      "summary": "Article URL: https://www.youtube.com/watch?v=8jNQDcpHc68\nComments URL: https://news.ycombinator.com/item?id=47999460\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Sun, 03 May 2026 09:26:48 +0000",
+      "published": "Sun, 03 May 2026 17:45:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
-      "link": "https://github.com/bring-shrubbery/ml-sharp-web",
-      "summary": "Article URL: https://github.com/bring-shrubbery/ml-sharp-web\nComments URL: https://news.ycombinator.com/item?id=47995037\nPoints: 32\n# Comments: 3",
+      "title": "The Oscars Just Banned AI from Winning Acting and Writing Awards",
+      "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
+      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740\nComments URL: https://news.ycombinator.com/item?id=47999346\nPoints: 24\n# Comments: 6",
       "image": "",
-      "published": "Sun, 03 May 2026 09:14:56 +0000",
+      "published": "Sun, 03 May 2026 17:34:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-      "link": "https://acai.sh/blog/specsmaxxing",
-      "summary": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 152\n# Comments: 156",
+      "title": "What Chromium versions are major browsers are on?",
+      "link": "https://chromium-drift.pages.dev/",
+      "summary": "Article URL: https://chromium-drift.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=47999006\nPoints: 72\n# Comments: 20",
       "image": "",
-      "published": "Sun, 03 May 2026 06:33:38 +0000",
+      "published": "Sun, 03 May 2026 17:05:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Windows API is Successful Cross-Platform API (2024)",
-      "link": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
-      "summary": "Article URL: https://retrocoding.net/windows-api-is-successful-cross-platform-api\nComments URL: https://news.ycombinator.com/item?id=47992859\nPoints: 87\n# Comments: 86",
+      "title": "Physical buttons outperform touchscreens in new cars (2023)",
+      "link": "https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/",
+      "summary": "Article URL: https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/\nComments URL: https://news.ycombinator.com/item?id=47998990\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sun, 03 May 2026 02:53:29 +0000",
+      "published": "Sun, 03 May 2026 17:05:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why I Removed the Trial Period from GramDeskBot and Replaced It with a Bonus",
-      "link": "https://dev.to/petrtcoi/why-i-removed-the-trial-period-from-gramdeskbot-and-replaced-it-with-a-bonus-4ndc",
-      "summary": "When I started building GramDeskBot, a classic trial period looked like the obvious choice.\n\nIt is one of the most common SaaS patterns: let users try the product for free, give them a few days to understand the value, a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizwci1d18deucnmi2jmm.png",
-      "published": "Sun, 03 May 2026 12:36:18 +0000",
+      "title": "How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months",
+      "link": "https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n",
+      "summary": "I'm not an engineer. I'm a non-developer who decided, in late 2025, that I wanted Claude Code to keep working when I was asleep.\n\nSix months later, that decision compiled into 857 autonomous sessions, 840 self-merged pul",
+      "image": "",
+      "published": "Sun, 03 May 2026 18:30:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Kimi K2.6 vs Claude vs GPT-5.5: I ran it against my real coding cases and the numbers surprised me",
-      "link": "https://dev.to/jtorchia/kimi-k26-vs-claude-vs-gpt-55-i-ran-it-against-my-real-coding-cases-and-the-numbers-surprised-me-ln6",
-      "summary": "Kimi K2.6 vs Claude vs GPT-5.5: I ran it against my real coding cases and the numbers surprised me\n\n\nI was looking at a PR I'd asked Claude Sonnet 3.7 to refactor — a TypeScript data ingestion service with three layers o",
+      "title": "I Just Wanted My Text to Look “Better”… Not Boring",
+      "link": "https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca",
+      "summary": "The Small Problem No One Talks About\n\n\nSometimes the text is correct…\n\nBut it still feels wrong.\n\nYou write something like:\n\n\n“hello everyone welcome to my post”\n\n\nIt’s readable.\nIt’s fine.\n\nBut it doesn’t feel… good.\n\n\n",
       "image": "",
-      "published": "Sun, 03 May 2026 12:31:07 +0000",
+      "published": "Sun, 03 May 2026 18:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Kimi K2.6 vs Claude vs GPT-5.5: lo puse contra mis casos reales de coding y los números me sorprendieron",
-      "link": "https://dev.to/jtorchia/kimi-k26-vs-claude-vs-gpt-55-lo-puse-contra-mis-casos-reales-de-coding-y-los-numeros-me-5f0m",
-      "summary": "Kimi K2.6 vs Claude vs GPT-5.5: lo puse contra mis casos reales de coding y los números me sorprendieron\n\n\nEstaba mirando un PR que había pedido Claude Sonnet 3.7 que refactorizara — un servicio de ingesta de datos en Ty",
+      "title": "I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.",
+      "link": "https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d",
+      "summary": "The problem\n\nEvery time you open ChatGPT or Claude, it has zero memory of your project.\n\nYou spend the first 10 minutes of every session re-explaining your stack, your folder structure, your naming conventions, your arch",
       "image": "",
-      "published": "Sun, 03 May 2026 12:31:03 +0000",
+      "published": "Sun, 03 May 2026 18:25:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Generating PDFs shouldn't be this hard in 2026",
-      "link": "https://dev.to/gbor_liktor_5ba6846f550d/generating-pdfs-shouldnt-be-this-hard-in-2026-306m",
-      "summary": "There's a moment every developer knows. You need to generate a PDF. It looks simple. You've done harder things.\n\nThree hours later, you're reading a Stack Overflow thread from 2016 that ends with \"works on my machine.\"\n\n",
+      "title": "Workspace 2026 : one USB-C to charge them all",
+      "link": "https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of",
+      "summary": "Introduction in 2026 ?\n\n\nMore inspiration - less explanation. AI - that is why.\nWhat will be the workspace of the distant future - who knows.\nWhat will be the workspace in few years of now - probably a device resulting f",
       "image": "",
-      "published": "Sun, 03 May 2026 12:27:00 +0000",
+      "published": "Sun, 03 May 2026 18:23:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Boost]",
-      "link": "https://dev.to/anand_ps/-1jg9",
-      "summary": "Idempotency Keys: What Most Tutorials Don't Tell You\n\n\n  \n      Strategies for external reconciliation\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Th",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2491%2F2e334b3d-5af0-43e5-95c0-e3ededf148f7.png",
-      "published": "Sun, 03 May 2026 12:23:49 +0000",
+      "title": "عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر",
+      "link": "https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld",
+      "summary": "المشكلة\n\n\nلو بتكتب عربي وإنجليزي مع بعض في أي موقع، البراوزر بيتلخبط في الاتجاه:\n\nجملة زي \"مرحبا API بتاعك كويس\" — كلمة API بتتعكس وتتقرأ غلط بسبب الـ Unicode Bidi Algorithm.\n\nالمشكلة دي مش في موقع معين — هي موجودة في كل",
+      "image": "",
+      "published": "Sun, 03 May 2026 18:13:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
