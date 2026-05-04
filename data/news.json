@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T18:38:59.452915Z",
+  "updated": "2026-05-04T01:24:50.345709Z",
   "articles": [
     {
       "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Instructure confirms data breach, ShinyHunters claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+      "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+      "image": "",
+      "published": "Sun, 03 May 2026 18:16:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
       "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
@@ -79,15 +88,6 @@
       "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
       "image": "",
       "published": "Sat, 02 May 2026 10:32:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-      "image": "",
-      "published": "Fri, 01 May 2026 20:18:05 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "link": "https://partyon.xyz/@nullagent/116499715071759135",
-      "summary": "Article URL: https://partyon.xyz/@nullagent/116499715071759135\nComments URL: https://news.ycombinator.com/item?id=47999636\nPoints: 5\n# Comments: 1",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 72\n# Comments: 29",
       "image": "",
-      "published": "Sun, 03 May 2026 18:03:14 +0000",
+      "published": "Sun, 03 May 2026 23:59:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Recreated the Apple Lisa Computer Inside an FPGA – The LisaFPGA Project",
-      "link": "https://www.youtube.com/watch?v=8jNQDcpHc68",
-      "summary": "Article URL: https://www.youtube.com/watch?v=8jNQDcpHc68\nComments URL: https://news.ycombinator.com/item?id=47999460\nPoints: 4\n# Comments: 0",
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "summary": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 76\n# Comments: 44",
       "image": "",
-      "published": "Sun, 03 May 2026 17:45:47 +0000",
+      "published": "Sun, 03 May 2026 23:36:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Oscars Just Banned AI from Winning Acting and Writing Awards",
-      "link": "https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740",
-      "summary": "Article URL: https://gizmodo.com/the-oscars-just-banned-ai-from-winning-acting-and-writing-awards-2000753740\nComments URL: https://news.ycombinator.com/item?id=47999346\nPoints: 24\n# Comments: 6",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "summary": "Article URL: https://jdgr.net/the-hidden-costs-of-great-abstractions\nComments URL: https://news.ycombinator.com/item?id=48002607\nPoints: 45\n# Comments: 10",
       "image": "",
-      "published": "Sun, 03 May 2026 17:34:15 +0000",
+      "published": "Sun, 03 May 2026 23:12:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Chromium versions are major browsers are on?",
-      "link": "https://chromium-drift.pages.dev/",
-      "summary": "Article URL: https://chromium-drift.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=47999006\nPoints: 72\n# Comments: 20",
+      "title": "Agentic Coding Is a Trap",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "summary": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap\nComments URL: https://news.ycombinator.com/item?id=48002442\nPoints: 97\n# Comments: 66",
       "image": "",
-      "published": "Sun, 03 May 2026 17:05:58 +0000",
+      "published": "Sun, 03 May 2026 22:52:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Physical buttons outperform touchscreens in new cars (2023)",
-      "link": "https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/",
-      "summary": "Article URL: https://etsc.eu/physical-buttons-outperform-touchscreens-in-new-cars/\nComments URL: https://news.ycombinator.com/item?id=47998990\nPoints: 7\n# Comments: 1",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "link": "https://github.com/aattaran/deepclaude",
+      "summary": "Article URL: https://github.com/aattaran/deepclaude\nComments URL: https://news.ycombinator.com/item?id=48002136\nPoints: 150\n# Comments: 65",
       "image": "",
-      "published": "Sun, 03 May 2026 17:05:02 +0000",
+      "published": "Sun, 03 May 2026 22:13:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months",
-      "link": "https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n",
-      "summary": "I'm not an engineer. I'm a non-developer who decided, in late 2025, that I wanted Claude Code to keep working when I was asleep.\n\nSix months later, that decision compiled into 857 autonomous sessions, 840 self-merged pul",
+      "title": "The New OAuth Problem Is Agent Delegation",
+      "link": "https://dev.to/maninderpreet_singh/the-new-oauth-problem-is-agent-delegation-44hc",
+      "summary": "Enterprise identity used to have a fairly stable center of gravity.\n\nA user authenticated. An application received a token. The token carried scopes or claims. The backend enforced what that application was allowed to do",
       "image": "",
-      "published": "Sun, 03 May 2026 18:30:42 +0000",
+      "published": "Mon, 04 May 2026 01:09:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Just Wanted My Text to Look “Better”… Not Boring",
-      "link": "https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca",
-      "summary": "The Small Problem No One Talks About\n\n\nSometimes the text is correct…\n\nBut it still feels wrong.\n\nYou write something like:\n\n\n“hello everyone welcome to my post”\n\n\nIt’s readable.\nIt’s fine.\n\nBut it doesn’t feel… good.\n\n\n",
+      "title": "Behavioral Annotations: Why readonly and destructive guide LLM Planning",
+      "link": "https://dev.to/tercelyi/behavioral-annotations-why-readonly-and-destructive-guide-llm-planning-37nk",
+      "summary": "In our previous article, we discussed how Schemas act as the \"Postman\" of the apcore ecosystem—ensuring that data is delivered in the correct format. But knowing how to deliver a message isn't enough for an autonomous Ag",
       "image": "",
-      "published": "Sun, 03 May 2026 18:30:00 +0000",
+      "published": "Mon, 04 May 2026 01:07:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.",
-      "link": "https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d",
-      "summary": "The problem\n\nEvery time you open ChatGPT or Claude, it has zero memory of your project.\n\nYou spend the first 10 minutes of every session re-explaining your stack, your folder structure, your naming conventions, your arch",
-      "image": "",
-      "published": "Sun, 03 May 2026 18:25:58 +0000",
+      "title": "Design First, Code Later: Mastering Spec-Driven Development in Rust",
+      "link": "https://dev.to/eduardo_ginofloresnavar/design-first-code-later-mastering-spec-driven-development-in-rust-hea",
+      "summary": "Have you ever started coding a feature, only to realize halfway through that your architecture is hopelessly tangled? We’ve all been there. You start writing a service, and before you know it, your business logic is heav",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk07vh7cgt4ze9uare3y5.png",
+      "published": "Mon, 04 May 2026 00:58:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Workspace 2026 : one USB-C to charge them all",
-      "link": "https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of",
-      "summary": "Introduction in 2026 ?\n\n\nMore inspiration - less explanation. AI - that is why.\nWhat will be the workspace of the distant future - who knows.\nWhat will be the workspace in few years of now - probably a device resulting f",
+      "title": "Cx Dev Log — 2026-04-30",
+      "link": "https://dev.to/commenterthe9/cx-dev-log-2026-04-30-6kp",
+      "summary": "Phase 11 just introduced compound assign lowering on submain, pulling +=, -=, *=, /=, and %%= into the IR backend. All in all, 126 new lines in src/ir/lower.rs and three fresh tests. These operators mark their maiden voy",
       "image": "",
-      "published": "Sun, 03 May 2026 18:23:41 +0000",
+      "published": "Mon, 04 May 2026 00:51:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر",
-      "link": "https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld",
-      "summary": "المشكلة\n\n\nلو بتكتب عربي وإنجليزي مع بعض في أي موقع، البراوزر بيتلخبط في الاتجاه:\n\nجملة زي \"مرحبا API بتاعك كويس\" — كلمة API بتتعكس وتتقرأ غلط بسبب الـ Unicode Bidi Algorithm.\n\nالمشكلة دي مش في موقع معين — هي موجودة في كل",
+      "title": "I Built My Own Entropy Coder Because Deflate Doesn't Know What GN Knows",
+      "link": "https://dev.to/atomsrkuul/i-built-my-own-entropy-coder-because-deflate-doesnt-know-what-gn-knows-2mk9",
+      "summary": "I shipped gni-compression to npm two days ago. One of the first questions I got (from myself, running benchmarks at midnight): does it work on anything other than chat data?\n\nShort answer: not yet. Long answer: I found o",
       "image": "",
-      "published": "Sun, 03 May 2026 18:13:37 +0000",
+      "published": "Mon, 04 May 2026 00:47:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
