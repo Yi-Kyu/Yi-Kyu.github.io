@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-05T13:02:33.013348Z",
+  "updated": "2026-05-05T19:00:19.360153Z",
   "articles": [
+    {
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RC",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg",
+      "published": "Tue, 05 May 2026 21:49:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky.\n\"These installers are distributed from the legitim",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg",
+      "published": "Tue, 05 May 2026 21:37:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg",
+      "published": "Tue, 05 May 2026 19:49:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
       "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg",
-      "published": "Tue, 05 May 2026 16:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "image": "",
+      "published": "Tue, 05 May 2026 13:34:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely targe",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg",
-      "published": "Tue, 05 May 2026 14:37:00 +0530",
-      "source": "The Hacker News",
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data co",
+      "image": "",
+      "published": "Tue, 05 May 2026 10:39:53 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild.\nThe vulnerability (CVE-2026-22679, CVSS scor",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg",
-      "published": "Tue, 05 May 2026 13:07:00 +0530",
-      "source": "The Hacker News",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for ",
+      "image": "",
+      "published": "Tue, 05 May 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
+      "image": "",
+      "published": "Tue, 05 May 2026 09:03:46 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has m",
       "image": "",
       "published": "Tue, 05 May 2026 07:24:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 06:13:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 06:03:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 05:04:13 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "image": "",
-      "published": "Mon, 04 May 2026 18:12:57 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "summary": "Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/\nComments URL: https://news.ycombinator.com/item?id=48021561\nPoints: 27\n# Comments: 6",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 44\n# Comments: 22",
       "image": "",
-      "published": "Tue, 05 May 2026 12:28:28 +0000",
+      "published": "Tue, 05 May 2026 18:13:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "When everyone has AI and the company still learns nothing",
-      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/\nComments URL: https://news.ycombinator.com/item?id=48020063\nPoints: 80\n# Comments: 50",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "link": "https://paletteinspiration.com/",
+      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on",
       "image": "",
-      "published": "Tue, 05 May 2026 09:30:22 +0000",
+      "published": "Tue, 05 May 2026 18:13:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 425\n# Comments: 408",
+      "title": "Clarification on the Notepad++ Trademark Issue",
+      "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+      "summary": "Article URL: https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48026206\nPoints: 82\n# Comments: 23",
       "image": "",
-      "published": "Tue, 05 May 2026 07:34:55 +0000",
+      "published": "Tue, 05 May 2026 18:04:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Frog for Whom the Bell Tolls",
-      "link": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
-      "summary": "Article URL: https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls\nComments URL: https://news.ycombinator.com/item?id=48019165\nPoints: 23\n# Comments: 7",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "link": "https://arxiv.org/abs/2604.26752",
+      "summary": "Article URL: https://arxiv.org/abs/2604.26752\nComments URL: https://news.ycombinator.com/item?id=48026021\nPoints: 36\n# Comments: 5",
       "image": "",
-      "published": "Tue, 05 May 2026 07:26:18 +0000",
+      "published": "Tue, 05 May 2026 17:52:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Async Rust never left the MVP state",
-      "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "summary": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\nComments URL: https://news.ycombinator.com/item?id=48019163\nPoints: 250\n# Comments: 128",
+      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
+      "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+      "summary": "Article URL: https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/\nComments URL: https://news.ycombinator.com/item?id=48025828\nPoints: 20\n# Comments: 2",
       "image": "",
-      "published": "Tue, 05 May 2026 07:26:03 +0000",
+      "published": "Tue, 05 May 2026 17:38:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DESIGN.md: el archivo que le enseña a la IA a diseñar como un profesional",
-      "link": "https://dev.to/keba2503/designmd-el-archivo-que-le-ensena-a-la-ia-a-disenar-como-un-profesional-46d6",
-      "summary": "Artículo original en karenborrero.dev\n\n\nHace unos días encontré styles.refero.design y tardé exactamente diez minutos en entender que cambia la forma en que trabajo con herramientas de IA.\n\nNo es una librería de componen",
-      "image": "",
-      "published": "Tue, 05 May 2026 12:57:10 +0000",
+      "title": "🗣️ Change default voice for MacOS 'say' command to Siri Voice 1",
+      "link": "https://dev.to/krisplatis/change-default-voice-for-macos-say-command-to-siri-voice-1-580j",
+      "summary": "Change the default voice to \"Siri Voice 1\" in System Settings - then your say MacOS command will sound more appealing (less robotic).\n\n\nOpen System Settings\nSearch for \"Voice Live Speach\":\n\n\nClick the ℹ️ icon near \"Syste",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksw3h3af0hph8paf1dgl.png",
+      "published": "Tue, 05 May 2026 18:53:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Reality Check: What the Uber Case Teaches Us About the Hidden Cost of Agents",
-      "link": "https://dev.to/marcelo_pancinha/ai-reality-check-what-the-uber-case-teaches-us-about-the-hidden-cost-of-agents-2oog",
-      "summary": "1. AI as an Investment or a Liability?\n\n\nThe technology market is currently witnessing a profound dichotomy. While Reuters reports that AI investments have already surpassed the $600 billion mark, investor anxiety is mou",
-      "image": "",
-      "published": "Tue, 05 May 2026 12:52:02 +0000",
+      "title": "Agentic DevOps: Automating Security Remediation on AWS Using AWS DevOps Agent.",
+      "link": "https://dev.to/chimera2/agentic-devops-automating-security-remediation-on-aws-using-aws-devops-agent-5hga",
+      "summary": "Project Overview\n\n\nThe evolution of cloud operations has reached a critical inflection point characterized by the transition from reactive infrastructure management to autonomous, self-healing systems. As distributed com",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fng2sz3vtxfd43qh7al0j.png",
+      "published": "Tue, 05 May 2026 18:50:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "WordPress 7.0 — Let's Dive!",
-      "link": "https://dev.to/kushang_tailor/wordpress-70-lets-dive-2c3g",
-      "summary": "Release Date: May 20, 2026 — The most anticipated WordPress release in years is almost here. Let's explore everything you need to know before it lands.\n\n\n\n\n\n\n  \n  \n  🌐 A New Era for WordPress\n\n\nWordPress powers over 43% ",
+      "title": "Understanding Shielded Transactions on Midnight",
+      "link": "https://dev.to/abhineetbiju/understanding-shielded-transactions-on-midnight-5bc4",
+      "summary": "Midnight is a programmable-privacy blockchain. Its core premise is simple but revolutionary: public verifiability without public visibility. In simple terms, anyone can verify the validity of a transaction (via zero-know",
       "image": "",
-      "published": "Tue, 05 May 2026 12:42:04 +0000",
+      "published": "Tue, 05 May 2026 18:49:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Retrospective: SolidJS 2.0 Improved Our Dashboard Interactivity by 40% – No React Rewrite Needed",
-      "link": "https://dev.to/johalputt/retrospective-solidjs-20-improved-our-dashboard-interactivity-by-40-no-react-rewrite-needed-2kfg",
-      "summary": "Retrospective: SolidJS 2.0 Improved Our Dashboard Interactivity by 40% – No React Rewrite Needed\n\n\nWhen our internal analytics dashboard started struggling with lag during complex data filtering and real-time updates, ou",
-      "image": "",
-      "published": "Tue, 05 May 2026 12:37:31 +0000",
+      "title": "Linux Services Made Simple: Create, Control, and Remove Your First systemd Service",
+      "link": "https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2",
+      "summary": "Linux as a service (The simplest Way to Understand It)\n\n\n\nA service is just a program that runs in the background\n\nsystemctl is the tool to control it\n\nsystemd is the system that manages services\n\n\nSimple analogy\n\nThink ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv5c3d85so4picwxmkad4.png",
+      "published": "Tue, 05 May 2026 18:45:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hidden Cost of scaling with Istio 1.20 and OpenShift: Benchmark",
-      "link": "https://dev.to/johalputt/the-hidden-cost-of-scaling-with-istio-120-and-openshift-benchmark-4j36",
-      "summary": "The Hidden Cost of Scaling with Istio 1.20 and OpenShift: Benchmark Results\n\n\nService mesh adoption has accelerated as organizations shift to microservices on Kubernetes platforms like Red Hat OpenShift. Istio remains th",
-      "image": "",
-      "published": "Tue, 05 May 2026 12:35:42 +0000",
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "link": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
+      "summary": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I talked about starting small in my other blog Lost in the AI Hype, I Started Small\n\nI've spent the last fifteen years d",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcygu18a807ztlemcekbc.png",
+      "published": "Tue, 05 May 2026 18:38:06 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Fixed-Height Cards: More Fragile Than They Look",
-      "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
-      "summary": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\n\nFixed-Height Cards: More Fragile Than They Look originally handwritten and pu",
-      "image": "",
-      "published": "Mon, 04 May 2026 14:01:36 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-      "link": "https://css-tricks.com/whats-important-10/",
-      "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #",
-      "image": "",
-      "published": "Fri, 01 May 2026 13:43:26 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Importance of Native Randomness in CSS",
-      "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-      "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\n\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CS",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 15:26:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "contrast()",
-      "link": "https://css-tricks.com/almanac/functions/c/contrast/",
-      "summary": "The contrast() filter function increases or decreases the contrast of an element.\n\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 14:58:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "contrast-color()",
-      "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
-      "summary": "The contrast-color() function takes a &#60;color&#62; and returns either black or white, whichever is the most contrasting color for that value.\n\ncontrast-color() originally handwritten and published with love on CSS-Tri",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 14:57:48 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
