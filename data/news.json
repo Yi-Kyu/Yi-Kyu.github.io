@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T19:09:15.047240Z",
+  "updated": "2026-05-05T01:24:29.765959Z",
   "articles": [
     {
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
+      "image": "",
+      "published": "Mon, 04 May 2026 18:12:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Amazon SES increasingly abused in phishing to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "image": "",
+      "published": "Mon, 04 May 2026 16:03:28 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Backdoored PyTorch Lightning package drops credential stealer",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
       "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
@@ -70,24 +88,6 @@
       "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
       "image": "",
       "published": "Mon, 04 May 2026 09:42:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
-      "image": "",
-      "published": "Mon, 04 May 2026 08:18:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
-      "image": "",
-      "published": "Mon, 04 May 2026 08:16:24 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "summary": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 48\n# Comments: 16",
+      "title": "Agent Skills",
+      "link": "https://addyosmani.com/blog/agent-skills/",
+      "summary": "Article URL: https://addyosmani.com/blog/agent-skills/\nComments URL: https://news.ycombinator.com/item?id=48015397\nPoints: 91\n# Comments: 25",
       "image": "",
-      "published": "Mon, 04 May 2026 18:22:42 +0000",
+      "published": "Mon, 04 May 2026 21:40:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rumor: Disney to Remove Star Wars Sequel Trilogy from Timeline",
-      "link": "https://geeksandgamers.com/remove-star-wars-sequel-trilogy/",
-      "summary": "Article URL: https://geeksandgamers.com/remove-star-wars-sequel-trilogy/\nComments URL: https://news.ycombinator.com/item?id=48012695\nPoints: 5\n# Comments: 0",
+      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+      "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis\nComments URL: https://news.ycombinator.com/item?id=48015218\nPoints: 92\n# Comments: 73",
       "image": "",
-      "published": "Mon, 04 May 2026 18:20:00 +0000",
+      "published": "Mon, 04 May 2026 21:25:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
-      "link": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-      "summary": "Article URL: https://www.theregister.com/2026/05/02/local_ai_coding_agents/\nComments URL: https://news.ycombinator.com/item?id=48012681\nPoints: 7\n# Comments: 1",
+      "title": "Pulitzer Prize Winners 2026",
+      "link": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "summary": "Article URL: https://www.pulitzer.org/prize-winners-by-year/2026\nComments URL: https://news.ycombinator.com/item?id=48015097\nPoints: 76\n# Comments: 26",
       "image": "",
-      "published": "Mon, 04 May 2026 18:19:04 +0000",
+      "published": "Mon, 04 May 2026 21:14:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Offenders sentenced up to 10 years for spying on TSMC",
-      "link": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
-      "summary": "Article URL: https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358\nComments URL: https://news.ycombinator.com/item?id=48012477\nPoints: 23\n# Comments: 0",
+      "title": "Formatting a 25M-line codebase overnight",
+      "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "summary": "Article URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story\nComments URL: https://news.ycombinator.com/item?id=48014325\nPoints: 116\n# Comments: 60",
       "image": "",
-      "published": "Mon, 04 May 2026 18:04:33 +0000",
+      "published": "Mon, 04 May 2026 20:11:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
-      "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "summary": "Article URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup\nComments URL: https://news.ycombinator.com/item?id=48012162\nPoints: 74\n# Comments: 20",
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "link": "https://arxiv.org/abs/2510.19315",
+      "summary": "Article URL: https://arxiv.org/abs/2510.19315\nComments URL: https://news.ycombinator.com/item?id=48014197\nPoints: 29\n# Comments: 6",
       "image": "",
-      "published": "Mon, 04 May 2026 17:46:32 +0000",
+      "published": "Mon, 04 May 2026 20:03:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Prompt Injection: 5 Ways to Bypass a Regex Blocklist on an LLM",
-      "link": "https://dev.to/oopssec-store/prompt-injection-5-ways-to-bypass-a-regex-blocklist-on-an-llm-3626",
-      "summary": "A walkthrough of prompt injection attacks against OopsSec Store's AI assistant, bypassing its input filters to extract a flag from the system prompt.\n\n\nOopsSec Store has an AI support assistant with a secret embedded in ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl6j9d5jle57m1ozq2i9c.png",
-      "published": "Mon, 04 May 2026 19:00:00 +0000",
+      "title": "I Tested Delimiter-Based Prompt Injection Defense Across 13 LLMs",
+      "link": "https://dev.to/whetlan/i-tested-delimiter-based-prompt-injection-defense-across-13-llms-50mn",
+      "summary": "I kept seeing the same advice in prompt injection threads. Wrap untrusted content in random delimiters, tell the model \"everything inside these markers is data, not instructions,\" and hope it respects the boundary.\n\nSoun",
+      "image": "",
+      "published": "Tue, 05 May 2026 00:56:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Best RestCountries Alternative in 2026",
-      "link": "https://dev.to/apogeoapi/the-best-restcountries-alternative-in-2026-cgb",
-      "summary": "RestCountries has been the go-to API for country data since 2013. It's free, open source, and covers the basics well. But as your app grows, you'll likely run into its limitations.\n\n\n  \n  \n  What RestCountries Does Well\n",
+      "title": "The Commoditization of LLM Models",
+      "link": "https://dev.to/karl_mehta/the-commoditization-of-llm-models-1759",
+      "summary": "I’m becoming more convinced that LLMs are moving toward the same structure as payment networks. The models will be incredibly important. But the largest value will not be captured by the raw model layer alone. It will be",
       "image": "",
-      "published": "Mon, 04 May 2026 18:59:33 +0000",
+      "published": "Tue, 05 May 2026 00:55:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PyQt6: how to ship Python GUIs that don't look like 1998",
-      "link": "https://dev.to/hi3ris/pyqt6-how-to-ship-python-guis-that-dont-look-like-1998-2952",
-      "summary": "I have a confession. For years, when a developer proudly showed me their Python app — gray square buttons, a Listbox straight out of 1998 — I would politely nod. I've stopped doing that.\n\nNot because I turned mean. Becau",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4xmfrpjp213a0tkr1pqo.png",
-      "published": "Mon, 04 May 2026 18:56:36 +0000",
+      "title": "I built burner-bouncer: a zero-dependency disposable email detector for JavaScript and Python",
+      "link": "https://dev.to/grocerysushi/i-built-burner-bouncer-a-zero-dependency-disposable-email-detector-for-javascript-and-python-1acc",
+      "summary": "Ever had users sign up with test@mailinator.com or fake@guerrillamail.com?                                                                                                                                                  ",
+      "image": "",
+      "published": "Tue, 05 May 2026 00:53:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "# Build a Dependency Injection Container in Go That Catches Circular Dependencies Fast",
-      "link": "https://dev.to/nithinbharathwaj/-build-a-dependency-injection-container-in-go-that-catches-circular-dependencies-fast-5586",
-      "summary": "As a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \n\n\nI’ve spent years writing software, and one thin",
-      "image": "",
-      "published": "Mon, 04 May 2026 18:55:41 +0000",
+      "title": "A Chinese Language Teacher's API Security Check (3) : Pressure and Compatibility, Can You Withstand It?",
+      "link": "https://dev.to/xiaoqiangapi3721/a-chinese-language-teachers-api-security-check-3-pressure-and-compatibility-can-you-withstand-2j6d",
+      "summary": "Hello everyone, I'm @xiaoqiangapi, the Chinese teacher who gives apis a \"check-up\".\n\nAn article on , my SQL injection, XSS and prompt hijacked, API are blocked off. Let's take a different approach today - ** not attack, ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flkrsy7pqrpldm5cjnpf8.png",
+      "published": "Tue, 05 May 2026 00:51:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You're Using ScraperAPI or Scrape.do. You're Still Writing Parsers. There's a Better Way.",
-      "link": "https://dev.to/solomon344/youre-using-scraperapi-or-scrapedo-youre-still-writing-parsers-theres-a-better-way-2kl8",
-      "summary": "If you're using a scraping API like ScraperAPI, Scrape.do, or ScrapingBee, you already solved the hard fetching problem — proxy rotation, CAPTCHA, JS rendering, IP blocks.\n\nBut here's what happens after the fetch:\n\n\n\ncon",
+      "title": "A Personal AI Workbench for Ordinary People",
+      "link": "https://dev.to/xu_bian_f1525524ffcb08e35/a-personal-ai-workbench-for-ordinary-people-1k3c",
+      "summary": "I finished an English series on the way I think ordinary people can start using AI for real work.\n\nThe point is not to become an AI expert first.\n\nThe point is to have one place where you can say what you want, give the ",
       "image": "",
-      "published": "Mon, 04 May 2026 18:51:14 +0000",
+      "published": "Tue, 05 May 2026 00:50:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
