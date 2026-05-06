@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T19:00:19.360153Z",
+  "updated": "2026-05-06T01:22:35.904385Z",
   "articles": [
     {
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
+      "image": "",
+      "published": "Tue, 05 May 2026 18:01:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
+      "image": "",
+      "published": "Tue, 05 May 2026 17:20:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+      "image": "",
+      "published": "Tue, 05 May 2026 15:21:18 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
       "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
       "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
@@ -61,33 +88,6 @@
       "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data co",
       "image": "",
       "published": "Tue, 05 May 2026 10:39:53 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for ",
-      "image": "",
-      "published": "Tue, 05 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 09:03:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google now offers up to $1.5 million for some Android exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has m",
-      "image": "",
-      "published": "Tue, 05 May 2026 07:24:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 44\n# Comments: 22",
+      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+      "link": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/\nComments URL: https://news.ycombinator.com/item?id=48029753\nPoints: 42\n# Comments: 7",
       "image": "",
-      "published": "Tue, 05 May 2026 18:13:47 +0000",
+      "published": "Tue, 05 May 2026 22:43:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "link": "https://paletteinspiration.com/",
-      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on",
+      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
+      "link": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
+      "summary": "Article URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\nComments URL: https://news.ycombinator.com/item?id=48029334\nPoints: 113\n# Comments: 25",
       "image": "",
-      "published": "Tue, 05 May 2026 18:13:14 +0000",
+      "published": "Tue, 05 May 2026 22:07:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Clarification on the Notepad++ Trademark Issue",
-      "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
-      "summary": "Article URL: https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48026206\nPoints: 82\n# Comments: 23",
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "link": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "summary": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market\nComments URL: https://news.ycombinator.com/item?id=48029114\nPoints: 187\n# Comments: 84",
       "image": "",
-      "published": "Tue, 05 May 2026 18:04:20 +0000",
+      "published": "Tue, 05 May 2026 21:50:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "link": "https://arxiv.org/abs/2604.26752",
-      "summary": "Article URL: https://arxiv.org/abs/2604.26752\nComments URL: https://news.ycombinator.com/item?id=48026021\nPoints: 36\n# Comments: 5",
+      "title": "Write some software, give it away for free",
+      "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\nComments URL: https://news.ycombinator.com/item?id=48028842\nPoints: 123\n# Comments: 90",
       "image": "",
-      "published": "Tue, 05 May 2026 17:52:31 +0000",
+      "published": "Tue, 05 May 2026 21:26:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "link": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "summary": "Article URL: https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/\nComments URL: https://news.ycombinator.com/item?id=48025828\nPoints: 20\n# Comments: 2",
+      "title": "Why most product tours get skipped",
+      "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped\nComments URL: https://news.ycombinator.com/item?id=48028546\nPoints: 63\n# Comments: 54",
       "image": "",
-      "published": "Tue, 05 May 2026 17:38:17 +0000",
+      "published": "Tue, 05 May 2026 21:05:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "🗣️ Change default voice for MacOS 'say' command to Siri Voice 1",
-      "link": "https://dev.to/krisplatis/change-default-voice-for-macos-say-command-to-siri-voice-1-580j",
-      "summary": "Change the default voice to \"Siri Voice 1\" in System Settings - then your say MacOS command will sound more appealing (less robotic).\n\n\nOpen System Settings\nSearch for \"Voice Live Speach\":\n\n\nClick the ℹ️ icon near \"Syste",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fksw3h3af0hph8paf1dgl.png",
-      "published": "Tue, 05 May 2026 18:53:39 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Agentic DevOps: Automating Security Remediation on AWS Using AWS DevOps Agent.",
-      "link": "https://dev.to/chimera2/agentic-devops-automating-security-remediation-on-aws-using-aws-devops-agent-5hga",
-      "summary": "Project Overview\n\n\nThe evolution of cloud operations has reached a critical inflection point characterized by the transition from reactive infrastructure management to autonomous, self-healing systems. As distributed com",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fng2sz3vtxfd43qh7al0j.png",
-      "published": "Tue, 05 May 2026 18:50:33 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Understanding Shielded Transactions on Midnight",
-      "link": "https://dev.to/abhineetbiju/understanding-shielded-transactions-on-midnight-5bc4",
-      "summary": "Midnight is a programmable-privacy blockchain. Its core premise is simple but revolutionary: public verifiability without public visibility. In simple terms, anyone can verify the validity of a transaction (via zero-know",
+      "title": "Selling Mac Apps on Gumroad — What Works, What Doesn't, Honest Numbers",
+      "link": "https://dev.to/hiyoyok/selling-mac-apps-on-gumroad-what-works-what-doesnt-honest-numbers-3f0m",
+      "summary": "If this is useful, a ❤️ helps others find it.\n\nAll tests run on an 8-year-old MacBook Air.\n\nI sell Mac apps on Gumroad. Not the App Store — Gumroad, direct to buyers.\n\nHere's the honest account: what the platform is like",
       "image": "",
-      "published": "Tue, 05 May 2026 18:49:31 +0000",
+      "published": "Wed, 06 May 2026 01:09:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Linux Services Made Simple: Create, Control, and Remove Your First systemd Service",
-      "link": "https://dev.to/ubayedbinsufian/linux-services-made-simple-create-control-and-remove-your-first-systemd-service-3aa2",
-      "summary": "Linux as a service (The simplest Way to Understand It)\n\n\n\nA service is just a program that runs in the background\n\nsystemctl is the tool to control it\n\nsystemd is the system that manages services\n\n\nSimple analogy\n\nThink ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv5c3d85so4picwxmkad4.png",
-      "published": "Tue, 05 May 2026 18:45:21 +0000",
+      "title": "Leveling Up Your Termux Experience: A Lightweight GUI/TUI Alternative Package Manager",
+      "link": "https://dev.to/wsoe/leveling-up-your-termux-experience-a-lightweight-guitui-alternative-package-manager-3dcp",
+      "summary": "Stop Memorizing Package Names: A TUI App Store for Termux\n\n\nAs a Termux user, we all know the routine: you open the terminal, you type pkg install, and then you realize you forgot the exact package name. Or you're just t",
+      "image": "",
+      "published": "Wed, 06 May 2026 01:03:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "link": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "summary": "I just came back from maternity leave. And honestly? I felt like I'd missed a decade in six months. I talked about starting small in my other blog Lost in the AI Hype, I Started Small\n\nI've spent the last fifteen years d",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcygu18a807ztlemcekbc.png",
-      "published": "Tue, 05 May 2026 18:38:06 +0000",
+      "title": "Skills and the discovery ceiling: why your AI coding agent ignores most of what you install",
+      "link": "https://dev.to/cdelgado70/skills-and-the-discovery-ceiling-why-your-ai-coding-agent-ignores-most-of-what-you-install-45f9",
+      "summary": "Post 1 of 2. This post walks through the discovery ceiling in Anthropic's Agent Skills standard, the obvious first attempt at fixing it (a hook that didn't work), and the architecture that did. A follow-up post will cove",
+      "image": "",
+      "published": "Wed, 06 May 2026 00:55:44 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I got tired of AI agents roaming my codebase — so I built a harness layer",
+      "link": "https://dev.to/enmanuelmag/i-got-tired-of-ai-agents-roaming-my-codebase-so-i-built-a-harness-layer-1o88",
+      "summary": "The problem\n\n\nEvery time I open Claude Code or any MCP-compatible AI tool, the same thing happens: the agent starts working, does something, and I have no idea what it changed, what it tried, or why it got stuck. Across ",
+      "image": "",
+      "published": "Wed, 06 May 2026 00:55:08 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "NVM: como atualizar o Node LTS sem perder seus packages globais",
+      "link": "https://dev.to/kbdemiranda/nvm-como-atualizar-o-node-lts-sem-perder-seus-packages-globais-28dj",
+      "summary": "Se você usa NVM no dia a dia, provavelmente já passou por isso:\n\nVocê atualiza o Node para uma versão mais nova e, de repente, seus packages globais somem.\n\nAngular CLI, Nest CLI, Expo, tudo desaparece.\n\nRecentemente eu ",
+      "image": "",
+      "published": "Wed, 06 May 2026 00:54:03 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Fixed-Height Cards: More Fragile Than They Look",
+      "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
+      "summary": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\n\nFixed-Height Cards: More Fragile Than They Look originally handwritten and pu",
+      "image": "",
+      "published": "Mon, 04 May 2026 14:01:36 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+      "link": "https://css-tricks.com/whats-important-10/",
+      "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #",
+      "image": "",
+      "published": "Fri, 01 May 2026 13:43:26 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Importance of Native Randomness in CSS",
+      "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+      "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\n\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CS",
+      "image": "",
+      "published": "Thu, 30 Apr 2026 15:26:18 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "contrast()",
+      "link": "https://css-tricks.com/almanac/functions/c/contrast/",
+      "summary": "The contrast() filter function increases or decreases the contrast of an element.\n\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 14:58:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "contrast-color()",
+      "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
+      "summary": "The contrast-color() function takes a &#60;color&#62; and returns either black or white, whichever is the most contrasting color for that value.\n\ncontrast-color() originally handwritten and published with love on CSS-Tri",
+      "image": "",
+      "published": "Wed, 29 Apr 2026 14:57:48 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
