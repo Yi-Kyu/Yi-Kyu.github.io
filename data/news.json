@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-06T13:22:24.744154Z",
+  "updated": "2026-05-06T19:15:53.594520Z",
   "articles": [
+    {
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation.\nThe atta",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg",
+      "published": "Wed, 06 May 2026 18:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
       "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
@@ -38,12 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild.\nThe vulnerability, tracked as CVE-2026-0300, has been described as ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg",
-      "published": "Wed, 06 May 2026 11:44:00 +0530",
-      "source": "The Hacker News",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "image": "",
+      "published": "Wed, 06 May 2026 14:38:38 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "image": "",
+      "published": "Wed, 06 May 2026 14:06:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "image": "",
+      "published": "Wed, 06 May 2026 12:43:30 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "image": "",
+      "published": "Wed, 06 May 2026 10:04:14 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
       "image": "",
       "published": "Wed, 06 May 2026 09:02:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
-      "image": "",
-      "published": "Wed, 06 May 2026 08:56:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
-      "image": "",
-      "published": "Wed, 06 May 2026 05:18:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New stealthy Quasar Linux malware targets software developers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 18:01:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
-      "image": "",
-      "published": "Tue, 05 May 2026 17:20:23 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
-      "link": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-      "summary": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48035223\nPoints: 0\n# Comments: 0",
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "link": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+      "summary": "Article URL: https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/\nComments URL: https://news.ycombinator.com/item?id=48039739\nPoints: 63\n# Comments: 41",
       "image": "",
-      "published": "Wed, 06 May 2026 12:00:24 +0000",
+      "published": "Wed, 06 May 2026 18:25:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "link": "https://catstret.ch/202605/srss-hipster202510/",
-      "summary": "Article URL: https://catstret.ch/202605/srss-hipster202510/\nComments URL: https://news.ycombinator.com/item?id=48034762\nPoints: 38\n# Comments: 5",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 27\n# Comme",
       "image": "",
-      "published": "Wed, 06 May 2026 10:53:52 +0000",
+      "published": "Wed, 06 May 2026 17:59:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "link": "https://red-squares.cian.lol/",
-      "summary": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 340\n# Comments: 69",
+      "title": "Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022316626001902",
+      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0022316626001902\nComments URL: https://news.ycombinator.com/item?id=48038873\nPoints: 20\n# Comments: 19",
       "image": "",
-      "published": "Wed, 06 May 2026 10:28:40 +0000",
+      "published": "Wed, 06 May 2026 17:23:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "link": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
-      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 101\n# Comments: 21",
+      "title": "Going Full Time on Open Source",
+      "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 53\n# Comments: 4",
       "image": "",
-      "published": "Wed, 06 May 2026 06:31:29 +0000",
+      "published": "Wed, 06 May 2026 17:22:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Knitting bullshit",
-      "link": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 179\n# Comments: 83",
+      "title": "From Supabase to Clerk to Better Auth",
+      "link": "https://blog.val.town/better-auth",
+      "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 72\n# Comments: 24",
       "image": "",
-      "published": "Wed, 06 May 2026 05:13:58 +0000",
+      "published": "Wed, 06 May 2026 17:19:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude vs Codex debates are astrology for developers",
-      "link": "https://dev.to/adioof/claude-vs-codex-debates-are-astrology-for-developers-e4f",
-      "summary": "The AI tool wars have devolved into horoscope readings with syntax highlighting. People aren't comparing benchmarks. They're defending identities.\n\nI have seen a similar developer commenting, \"Claude is the best choice f",
+      "title": "Django Ninja Made Simple — 2nd Edition is Now Live",
+      "link": "https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa",
+      "summary": "Django Ninja Made Simple: A Beginner-Friendly Guide to Building Modern APIs with Python Django Ninja 2nd Edition\n\nWhen I first wrote Django Ninja Made Simple, my goal was simple:\nmake API development in Python feel less ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7lub8vw0bspaor0hbazq.png",
+      "published": "Wed, 06 May 2026 18:59:14 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬",
+      "link": "https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi",
+      "summary": "When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬\n\n\nRecently, I worked on a streaming-related issue that initially looked very small.\n\nUsers reported that some long-duration videos were buffering unexpe",
       "image": "",
-      "published": "Wed, 06 May 2026 13:13:35 +0000",
+      "published": "Wed, 06 May 2026 18:52:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GPT-5.5 is OpenAI's best model. But paying more for it makes no sense.",
-      "link": "https://dev.to/tessl/gpt-55-is-openais-best-model-but-paying-more-for-it-makes-no-sense-2227",
-      "summary": "We added OpenAI’s gpt-5.5 model to our eval suite the day it launched. We ran 1,742 tests overall, which included over 45 task scenarios across using 11 real engineering skills, each run 6 times and averaged the data, wh",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbraf14e4s66n7ibzuwuk.png",
-      "published": "Wed, 06 May 2026 13:13:28 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Five Remote Jobs Where AI Agents Have Already Moved Into Production",
-      "link": "https://dev.to/trieu_chaucao_72aa883bef/five-remote-jobs-where-ai-agents-have-already-moved-into-production-m0b",
-      "summary": "Five Remote Jobs Where AI Agents Have Already Moved Into Production\n\n\n\n  \n  \n  Five Remote Jobs Where AI Agents Have Already Moved Into Production\n\n\nMost AI job roundups are too loose: they mix generic ML roles, stale re",
+      "title": "Pre GSoC — Finding My Way to CircuitVerse",
+      "link": "https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045",
+      "summary": "This post is going to be a long one. I figured if I'm going to write about the two months that led up to my GSoC selection, I should do it properly the whole thing, from the very beginning, not just the highlights. So gr",
       "image": "",
-      "published": "Wed, 06 May 2026 13:12:40 +0000",
+      "published": "Wed, 06 May 2026 18:51:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "16 frameworks. One Blind Spot",
-      "link": "https://dev.to/kucherenko/16-frameworks-one-blind-spot-20cg",
-      "summary": "Every AI agent framework on the market today has the same fatal flaw.\n\nThey will take your half-baked, 3 a.m., \"wouldn't it be cool if...\" idea and dutifully - expensively - turn it into a beautifully specified, well-arc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2mma04tud7s2riw3xw61.jpg",
-      "published": "Wed, 06 May 2026 13:12:36 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Where AI-Agent Hiring Is Real Right Now: Five Remote Roles I Verified on May 6, 2026",
-      "link": "https://dev.to/ngha_duy_89f58813d5a0309/where-ai-agent-hiring-is-real-right-now-five-remote-roles-i-verified-on-may-6-2026-5e4e",
-      "summary": "Where AI-Agent Hiring Is Real Right Now: Five Remote Roles I Verified on May 6, 2026\n\n\n\n  \n  \n  Where AI-Agent Hiring Is Real Right Now: Five Remote Roles I Verified on May 6, 2026\n\n\nOn May 6, 2026 I compiled one tight l",
+      "title": "How to organize your daily task with Task Warrior",
+      "link": "https://dev.to/tjuliu/how-to-organize-your-daily-task-with-task-warrior-2baa",
+      "summary": "Have some months that I am trying to organize my daily tasks, and the first thing that I tried was to create a time board, where I put what I wanted to do on my day.\n\nFirst I started with 50 minutes of computer science w",
       "image": "",
-      "published": "Wed, 06 May 2026 13:10:36 +0000",
+      "published": "Wed, 06 May 2026 18:50:53 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Stop Letting AI Write Your Database Migrations",
+      "link": "https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh",
+      "summary": "A vibe coder I follow lost two days of customer data last weekend.\n\nNot from a hack. Not from a hardware failure. From a single AI-generated migration that a senior engineer would have caught in 10 seconds.\n\nIf you're sh",
+      "image": "",
+      "published": "Wed, 06 May 2026 18:47:03 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
+      "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
+      "summary": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\n\nMaking Zigzag CSS Layo",
+      "image": "",
+      "published": "Wed, 06 May 2026 13:50:44 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The contrast() filter function increases or decreases the contrast of an element.\n\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Wed, 29 Apr 2026 14:58:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "contrast-color()",
-      "link": "https://css-tricks.com/almanac/functions/c/contrast-color/",
-      "summary": "The contrast-color() function takes a &#60;color&#62; and returns either black or white, whichever is the most contrasting color for that value.\n\ncontrast-color() originally handwritten and published with love on CSS-Tri",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 14:57:48 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
