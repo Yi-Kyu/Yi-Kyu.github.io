@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-06T19:15:53.594520Z",
+  "updated": "2026-05-07T01:27:59.673562Z",
   "articles": [
+    {
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying o",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg",
+      "published": "Thu, 07 May 2026 01:51:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
       "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft.\n\"",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxYFVfOUbXRWanB_1qyRHBYCgWirEtqd3EO06BrIjnLqrTEOoTnXclKQsujA4YCVfI8Q5IWuriVAlckls65vvV2Am5PCEB1s_HHoFxpA779oT1qbnNB0Q8dqLU3GGbwINtDDmp8Ge3bdxQJWab3toekaGDgi1FFJ73uNysl8wEnXfgk6W88b1qSJcu2gX/s1600/link-to-windows.jpg",
-      "published": "Wed, 06 May 2026 14:04:00 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "image": "",
+      "published": "Wed, 06 May 2026 17:36:06 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
       "image": "",
       "published": "Wed, 06 May 2026 10:04:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
-      "image": "",
-      "published": "Wed, 06 May 2026 09:02:52 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
-      "link": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
-      "summary": "Article URL: https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/\nComments URL: https://news.ycombinator.com/item?id=48039739\nPoints: 63\n# Comments: 41",
+      "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+      "link": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+      "summary": "Article URL: https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/\nComments URL: https://news.ycombinator.com/item?id=48044022\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Wed, 06 May 2026 18:25:06 +0000",
+      "published": "Thu, 07 May 2026 00:47:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 27\n# Comme",
+      "title": "They don't look like me",
+      "link": "https://niccolorastrelli.com/they-dont-look-like-me",
+      "summary": "Article URL: https://niccolorastrelli.com/they-dont-look-like-me\nComments URL: https://news.ycombinator.com/item?id=48043866\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Wed, 06 May 2026 17:59:33 +0000",
+      "published": "Thu, 07 May 2026 00:29:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Egg Intake and the Incidence of Alzheimer's Disease in Adventist Health Study-2",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022316626001902",
-      "summary": "Article URL: https://www.sciencedirect.com/science/article/pii/S0022316626001902\nComments URL: https://news.ycombinator.com/item?id=48038873\nPoints: 20\n# Comments: 19",
+      "title": "Iran hit more U.S. military targets than has been reported, satellite images",
+      "link": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+      "summary": "Article URL: https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/\nComments URL: https://news.ycombinator.com/item?id=48043736\nPoints: 51\n# Comments: 17",
       "image": "",
-      "published": "Wed, 06 May 2026 17:23:49 +0000",
+      "published": "Thu, 07 May 2026 00:16:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Going Full Time on Open Source",
-      "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 53\n# Comments: 4",
+      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "link": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+      "summary": "Article URL: https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/\nComments URL: https://news.ycombinator.com/item?id=48043706\nPoints: 9\n# Comments: 2",
       "image": "",
-      "published": "Wed, 06 May 2026 17:22:49 +0000",
+      "published": "Thu, 07 May 2026 00:12:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From Supabase to Clerk to Better Auth",
-      "link": "https://blog.val.town/better-auth",
-      "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 72\n# Comments: 24",
+      "title": "Apple is enforcing an old App Store rule against a new kind of software",
+      "link": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
+      "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code\nComments URL: https://news.ycombinator.com/item?id=48042099\nPoints: 57\n# Comments: 21",
       "image": "",
-      "published": "Wed, 06 May 2026 17:19:34 +0000",
+      "published": "Wed, 06 May 2026 21:26:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Django Ninja Made Simple — 2nd Edition is Now Live",
-      "link": "https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa",
-      "summary": "Django Ninja Made Simple: A Beginner-Friendly Guide to Building Modern APIs with Python Django Ninja 2nd Edition\n\nWhen I first wrote Django Ninja Made Simple, my goal was simple:\nmake API development in Python feel less ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7lub8vw0bspaor0hbazq.png",
-      "published": "Wed, 06 May 2026 18:59:14 +0000",
+      "title": "Detecting Dangerous Terminal Commands Before Sending Them to an AI — My Safety Layer",
+      "link": "https://dev.to/hiyoyok/detecting-dangerous-terminal-commands-before-sending-them-to-an-ai-my-safety-layer-109j",
+      "summary": "If this is useful, a ❤️ helps others find it.\n\nAll tests run on an 8-year-old MacBook Air.\n\nHiyokoHelper sends terminal errors to Gemini for diagnosis. But what if the user pastes rm -rf / or a fork bomb?\n\nTwo problems: ",
+      "image": "",
+      "published": "Thu, 07 May 2026 01:14:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬",
-      "link": "https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi",
-      "summary": "When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬\n\n\nRecently, I worked on a streaming-related issue that initially looked very small.\n\nUsers reported that some long-duration videos were buffering unexpe",
+      "title": "I Built a Full-Stack Hangul Learning Game by Chatting With AI",
+      "link": "https://dev.to/ansellmaximilian/i-built-a-full-stack-hangul-learning-game-by-chatting-with-ai-1mmd",
+      "summary": "I Built a Full-Stack Hangul Learning Game by Chatting With AI\n\n\nA few days ago, I decided to experiment with an AI-powered full-stack app builder called MeDo.\n\nInstead of manually wiring up frontend components, backend A",
       "image": "",
-      "published": "Wed, 06 May 2026 18:52:35 +0000",
+      "published": "Thu, 07 May 2026 01:12:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Pre GSoC — Finding My Way to CircuitVerse",
-      "link": "https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045",
-      "summary": "This post is going to be a long one. I figured if I'm going to write about the two months that led up to my GSoC selection, I should do it properly the whole thing, from the very beginning, not just the highlights. So gr",
+      "title": "How I Use AI Tools to Build a Research Workflow for Writing Technical Articles",
+      "link": "https://dev.to/weiwei_yang_1ee5c1a479747/how-i-use-ai-tools-to-build-a-research-workflow-for-writing-technical-articles-3o9k",
+      "summary": "How I Use AI Tools to Build a Research Workflow for Writing Technical Articles\n\n\nI write technical articles regularly, but the hardest part is not writing the final draft.\n\nThe harder part is everything before that:\n\n\nfi",
       "image": "",
-      "published": "Wed, 06 May 2026 18:51:19 +0000",
+      "published": "Thu, 07 May 2026 01:04:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to organize your daily task with Task Warrior",
-      "link": "https://dev.to/tjuliu/how-to-organize-your-daily-task-with-task-warrior-2baa",
-      "summary": "Have some months that I am trying to organize my daily tasks, and the first thing that I tried was to create a time board, where I put what I wanted to do on my day.\n\nFirst I started with 50 minutes of computer science w",
+      "title": "Gemma 4 26B is great at thinking, understands concepts clearly. Very sharp in general.",
+      "link": "https://dev.to/mekickdemonscreator/gemma-4-26b-is-great-at-thinking-bad-at-coding-and-its-helpfulness-training-fights-the-pinned-4a6g",
+      "summary": "\"Notes from a session where Gemma 4 26B, running locally inside Mnemara with a thesis-anchored role doc, talked about the next leap in intelligence — and held the line when challenged.\"\n\n\n  \n  \n  tags: gemma, llm, agents",
       "image": "",
-      "published": "Wed, 06 May 2026 18:50:53 +0000",
+      "published": "Thu, 07 May 2026 00:49:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Letting AI Write Your Database Migrations",
-      "link": "https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh",
-      "summary": "A vibe coder I follow lost two days of customer data last weekend.\n\nNot from a hack. Not from a hardware failure. From a single AI-generated migration that a senior engineer would have caught in 10 seconds.\n\nIf you're sh",
+      "title": "Self-similar: a versatile folder pattern for code",
+      "link": "https://dev.to/conw_y/self-similar-a-versatile-folder-pattern-for-code-d18",
+      "summary": "“The word 'isomorphism' applies when two complex structures can be mapped onto each other, in such a way that to each part of one structure there is a corresponding part in the other structure, where \"corresponding\" mean",
       "image": "",
-      "published": "Wed, 06 May 2026 18:47:03 +0000",
+      "published": "Thu, 07 May 2026 00:46:19 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Google’s Prompt API",
+      "link": "https://css-tricks.com/googles-prompt-api/",
+      "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\n\nAs a Chrome user, you’ll have&#160;received Gemini Nano in the form of a 4GB transfer&#160;recently; no permission asked or required. If ",
+      "image": "",
+      "published": "Wed, 06 May 2026 19:41:29 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\n\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CS",
       "image": "",
       "published": "Thu, 30 Apr 2026 15:26:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "contrast()",
-      "link": "https://css-tricks.com/almanac/functions/c/contrast/",
-      "summary": "The contrast() filter function increases or decreases the contrast of an element.\n\ncontrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 29 Apr 2026 14:58:19 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
