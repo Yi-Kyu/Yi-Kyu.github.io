@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-07T13:22:30.629554Z",
+  "updated": "2026-05-07T19:21:00.378618Z",
   "articles": [
+    {
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of imprope",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg",
+      "published": "Thu, 07 May 2026 23:25:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments.\n\"The toolset ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg",
+      "published": "Thu, 07 May 2026 23:15:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026,",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg",
+      "published": "Thu, 07 May 2026 19:20:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
+      "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
+      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.\nThe vulnerability in question is CVE-2026-0300 (CVSS",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg",
+      "published": "Thu, 07 May 2026 19:04:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
       "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
@@ -11,83 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determin",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg",
-      "published": "Thu, 07 May 2026 16:24:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linu",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg",
-      "published": "Thu, 07 May 2026 14:50:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.\nvm2 is an open",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg",
-      "published": "Thu, 07 May 2026 09:45:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying o",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg",
-      "published": "Thu, 07 May 2026 01:51:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
-      "summary": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
       "image": "",
-      "published": "Thu, 07 May 2026 08:11:53 -0400",
+      "published": "Thu, 07 May 2026 14:35:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malware. [...]",
       "image": "",
-      "published": "Thu, 07 May 2026 08:00:08 -0400",
+      "published": "Thu, 07 May 2026 14:00:59 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
       "image": "",
-      "published": "Thu, 07 May 2026 06:57:59 -0400",
+      "published": "Thu, 07 May 2026 11:20:51 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
       "image": "",
-      "published": "Thu, 07 May 2026 06:02:35 -0400",
+      "published": "Thu, 07 May 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "title": "Americans sentenced for running 'laptop farms' for North Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
       "image": "",
-      "published": "Wed, 06 May 2026 17:36:06 -0400",
+      "published": "Thu, 07 May 2026 09:45:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-      "link": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-      "summary": "Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems\nComments URL: https://news.ycombinator.com/item?id=48048339\nPoints: 0\n# Comments: 0",
+      "title": "AI Slop Is Killing Online Communities",
+      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 15\n# Comments: 0",
       "image": "",
-      "published": "Thu, 07 May 2026 12:01:13 +0000",
+      "published": "Thu, 07 May 2026 18:46:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "link": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 104\n# Comments: 65",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 29\n# Comments: 7",
       "image": "",
-      "published": "Thu, 07 May 2026 11:10:24 +0000",
+      "published": "Thu, 07 May 2026 17:54:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-      "link": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-      "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 67\n# Comments: 34",
+      "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+      "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "summary": "Article URL: https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/\nComments URL: https://news.ycombinator.com/item?id=48052371\nPoints: 35\n# Comments: 21",
       "image": "",
-      "published": "Thu, 07 May 2026 11:08:43 +0000",
+      "published": "Thu, 07 May 2026 17:42:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "link": "https://ahk.cardor.dev",
-      "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 35\n# Comments: 6",
+      "title": "Principles for agent-native CLIs",
+      "link": "https://twitter.com/trevin/status/2051316002730991795",
+      "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Thu, 07 May 2026 10:45:59 +0000",
+      "published": "Thu, 07 May 2026 17:40:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "link": "https://unsloth.ai/blog/nvidia-collab",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 79\n# Comments: 10",
+      "title": "Agents need control flow, not more prompts",
+      "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 104\n# Comments: 46",
       "image": "",
-      "published": "Thu, 07 May 2026 07:15:11 +0000",
+      "published": "Thu, 07 May 2026 16:43:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What a WordPress Specialist Should Bring Beyond Installing Plugins",
-      "link": "https://dev.to/elliemiguel/what-a-wordpress-specialist-should-bring-beyond-installing-plugins-2fgh",
-      "summary": "I've inherited sites that \"worked\" for months and then stopped bringing leads overnight. That moment — when a site stops being a passive asset and becomes a business risk — is where a real specialist starts to matter.\n\n\n",
+      "title": "I built something I think more developers should be using",
+      "link": "https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a",
+      "summary": "I don't post often. But this one matters to me.\n\nYesterday I attended a presentation by Rob van der Veer (Chief AI Officer at SIG, founder of the OWASP AI Exchange), and it pushed me to finally publish something I'd been",
       "image": "",
-      "published": "Thu, 07 May 2026 13:22:00 +0000",
+      "published": "Thu, 07 May 2026 19:18:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Smart Way to Share State —Master useContext in React",
-      "link": "https://dev.to/kathirvel-s/the-smart-way-to-share-state-master-usecontext-in-react-3ehe",
-      "summary": "The Prop Drilling Problem Every React Developer Hits\n\n\nWelcome back to Let’s Master React Hooks Together — the series where we learn React Hooks the practical way, like real-world developers actually use them.\n\nIn the pr",
+      "title": "ayat saadati — Complete Guide",
+      "link": "https://dev.to/sahand1987/ayat-saadati-complete-guide-232l",
+      "summary": "AyatUtils: Your Go-To Python Toolkit\n\n\nAlright, let's talk about AyatUtils. If you've ever found yourself writing the same helper functions over and over again across different projects, you know the pain. That's exactly",
       "image": "",
-      "published": "Thu, 07 May 2026 13:20:40 +0000",
+      "published": "Thu, 07 May 2026 19:10:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Current Dividers: The Mirror of Voltage Dividers",
-      "link": "https://dev.to/researcher_alpha00/current-dividers-the-mirror-of-voltage-dividers-124c",
-      "summary": "Current Dividers: The Mirror of Voltage Dividers\n\n\nCurrent splits across parallel paths — and the formula is the opposite of what you'd expect\n\n\n\n\nIf voltage dividers split voltage, current dividers split current. They'r",
+      "title": "Day 7 of 60 — today I stopped doing abstract Python challenges and started solving problems I could see myself automating in the real world.",
+      "link": "https://dev.to/mbugua_cessy/day-7-of-60-today-i-stopped-doing-abstract-python-challenges-and-started-solving-problems-i-could-2jgi",
+      "summary": "I'm a student learning AI integration and automation by building one real workflow every day for 60 days.\n\nDay 8 of 60 — today I stopped doing abstract Python challenges and started solving problems I could see myself au",
       "image": "",
-      "published": "Thu, 07 May 2026 13:18:37 +0000",
+      "published": "Thu, 07 May 2026 19:09:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Introducing XLog: A Static Site Generator Built for Knowledge Bases",
-      "link": "https://dev.to/emad__elsaid/introducing-xlog-a-static-site-generator-built-for-knowledge-bases-3pb5",
-      "summary": "After years of trying different tools for my personal wiki, I built XLog - a static site generator specifically designed for knowledge bases, digital gardens, and personal wikis. Here's why it exists and what makes it di",
+      "title": "🚀 Building OSSI — An AI-Powered Open Source Intelligence System with Kestra",
+      "link": "https://dev.to/mohit5upadhyay/building-ossi-an-ai-powered-open-source-intelligence-system-with-kestra-1i47",
+      "summary": "Transforming GitHub issues into contributor intelligence using AI + Workflow Orchestration\n\n\nOpen source projects are growing faster than ever.\n\nEvery day repositories receive:\n\n\nBug reports\nFeature requests\nContributor ",
       "image": "",
-      "published": "Thu, 07 May 2026 13:18:10 +0000",
+      "published": "Thu, 07 May 2026 19:06:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MCP is the USB-C of AI tools, and most devs are still using their AI assistant like it is 2023",
-      "link": "https://dev.to/vineethnkrishnan/mcp-is-the-usb-c-of-ai-tools-and-most-devs-are-still-using-their-ai-assistant-like-it-is-2023-5bpn",
-      "summary": "MCP is the USB-C of AI tools, and most devs are still using their AI assistant like it is 2023\n\n\n\n\nSo here is a small thing I noticed the other day. I was watching a friend debug a production issue, and the workflow was ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fvineethnk.in%2Fblog%2Fmcp-usb-c-hero.png",
-      "published": "Thu, 07 May 2026 13:17:44 +0000",
+      "title": "I'm Only Building Dead Simple Apps From Now On",
+      "link": "https://dev.to/vientapps/im-only-building-dead-simple-apps-from-now-on-42b",
+      "summary": "I opened Bloons TD the other day to play a quick round.\n\n3 modals appeared before I could see the homescreen. Daily challenge banner. Season pass popup. Currency reward to claim. New event to dismiss. Upgrade pack offer.",
+      "image": "",
+      "published": "Thu, 07 May 2026 19:06:31 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
+      "link": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
+      "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\n\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and",
+      "image": "",
+      "published": "Thu, 07 May 2026 14:22:38 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #",
       "image": "",
       "published": "Fri, 01 May 2026 13:43:26 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Importance of Native Randomness in CSS",
-      "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-      "summary": "We're getting new functions for generating random numbers in CSS! But the road to get here has been a long and winding one.\n\nThe Importance of Native Randomness in CSS originally handwritten and published with love on CS",
-      "image": "",
-      "published": "Thu, 30 Apr 2026 15:26:18 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
