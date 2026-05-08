@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-08T13:02:35.134503Z",
+  "updated": "2026-05-08T19:00:10.298395Z",
   "articles": [
+    {
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being tracked by Elastic Secu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg",
+      "published": "Fri, 08 May 2026 23:42:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subs",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg",
+      "published": "Fri, 08 May 2026 20:38:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people.\nEvery major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026,",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg",
+      "published": "Fri, 08 May 2026 19:31:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
       "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor is design",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg",
-      "published": "Fri, 08 May 2026 14:11:00 +0530",
-      "source": "The Hacker News",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "image": "",
+      "published": "Fri, 08 May 2026 12:18:31 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
-      "published": "Fri, 08 May 2026 10:42:00 +0530",
-      "source": "The Hacker News",
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "image": "",
+      "published": "Fri, 08 May 2026 10:02:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of imprope",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg",
-      "published": "Thu, 07 May 2026 23:25:00 +0530",
-      "source": "The Hacker News",
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+      "image": "",
+      "published": "Fri, 08 May 2026 09:23:23 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
       "image": "",
       "published": "Fri, 08 May 2026 06:42:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 04:45:04 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
-      "image": "",
-      "published": "Thu, 07 May 2026 18:36:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "link": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "summary": "Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa\nComments URL: https://news.ycombinator.com/item?id=48062117\nPoints: 24\n# Comments: 3",
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures\nComments URL: https://news.ycombinator.com/item?id=48066524\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Fri, 08 May 2026 12:30:05 +0000",
+      "published": "Fri, 08 May 2026 17:55:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
-      "link": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-      "summary": "Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/\nComments URL: https://news.ycombinator.com/item?id=48062035\nPoints: 15\n# Comments: 1",
+      "title": "Apple, Intel have reached preliminary chip-making deal",
+      "link": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+      "summary": "Article URL: https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/\nComments URL: https://news.ycombinator.com/item?id=48066169\nPoints: 81\n# Comments: 31",
       "image": "",
-      "published": "Fri, 08 May 2026 12:20:01 +0000",
+      "published": "Fri, 08 May 2026 17:25:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An Introduction to Meshtastic",
-      "link": "https://meshtastic.org/docs/introduction/",
-      "summary": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 11\n# Comments: 3",
+      "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+      "link": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+      "summary": "Article URL: https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/\nComments URL: https://news.ycombinator.com/item?id=48066038\n",
       "image": "",
-      "published": "Fri, 08 May 2026 11:22:11 +0000",
+      "published": "Fri, 08 May 2026 17:14:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GeoJSON",
-      "link": "https://geojson.org/",
-      "summary": "Article URL: https://geojson.org/\nComments URL: https://news.ycombinator.com/item?id=48060918\nPoints: 31\n# Comments: 11",
+      "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+      "link": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+      "summary": "Article URL: https://www.stroustrup.com/bs_faq2.html#memory-leaks\nComments URL: https://news.ycombinator.com/item?id=48065916\nPoints: 29\n# Comments: 13",
       "image": "",
-      "published": "Fri, 08 May 2026 09:55:37 +0000",
+      "published": "Fri, 08 May 2026 17:06:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ClojureScript Gets Async/Await",
-      "link": "https://clojurescript.org/news/2026-05-07-release",
-      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 120\n# Comments: 37",
+      "title": "Cartoon Network Flash Games",
+      "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "summary": "Article URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games\nComments URL: https://news.ycombinator.com/item?id=48065360\nPoints: 124\n# Comments: 45",
       "image": "",
-      "published": "Fri, 08 May 2026 07:04:24 +0000",
+      "published": "Fri, 08 May 2026 16:29:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Skills Gap Is the Real VMware Exit Risk",
-      "link": "https://dev.to/ntctech/the-skills-gap-is-the-real-vmware-exit-risk-150m",
-      "summary": "The VMware skills gap that stalls migrations is not a certification problem. It is not a headcount problem. It is an operating model problem — and most VMware exit plans never model it.\n\nWhen an organization exits VMware",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hf3oxyw08ar8femftdg.jpg",
-      "published": "Fri, 08 May 2026 12:54:01 +0000",
+      "title": "Understanding Reinforcement Learning with Neural Networks Part 1: Learning Without Correct Answers",
+      "link": "https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-1-learning-without-correct-answers-47ld",
+      "summary": "In this article, we will explore reinforcement learning with neural networks.\n\nLet’s start with a simple example.\n\n\n  \n  \n  Choosing Between Two Snack Places\n\n\n\n\nSuppose it is snack time, and you have to choose between P",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fazbdd5bnvfcgb508jaai.png",
+      "published": "Fri, 08 May 2026 18:50:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "1minMLOps #2 :Versioning your data with DVC",
-      "link": "https://dev.to/goodnight/1minmlops-2-versioning-your-data-with-dvc-2o0d",
-      "summary": "In the last article we talked about why ML is harder than regular software: code, data and environment all move at the same time. Today we're tackling the second one data with a tool called DVC (Data Version Control).\n\n\n",
-      "image": "",
-      "published": "Fri, 08 May 2026 12:38:00 +0000",
+      "title": "AI-Powered ERP System with Gemma 26B MoE",
+      "link": "https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n\n\n  \n  \n  What I Built\n\n\nDon’t just track your equipment—troubleshoot it. \n\nI built the Y&amp;Y App: an industrial-grade, microservices-based SaaS that",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdq4oqiihrjp4vn1t3zoz.png",
+      "published": "Fri, 08 May 2026 18:49:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Prisma vs Eloquent, how to think about the two",
-      "link": "https://dev.to/edriso/prisma-vs-eloquent-how-to-think-about-the-two-3fon",
-      "summary": "If you are coming from Laravel and trying out Prisma for the first time, the two ORMs feel surprisingly different even though they do the same job. This post walks through how each one thinks about your data, why the dif",
+      "title": "Content Creators: for Design for Professionals",
+      "link": "https://dev.to/johalputt/content-creators-for-design-for-professionals-4d4g",
+      "summary": "Professional content creators generate over 500 exabytes of media assets annually, yet 72% report that existing engineering tools for asset management, collaboration, and distribution fail to meet their latency and relia",
       "image": "",
-      "published": "Fri, 08 May 2026 12:36:22 +0000",
+      "published": "Fri, 08 May 2026 18:46:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Finally, I've fixed my AI workflow",
-      "link": "https://dev.to/arielonoriaga/finally-ive-fixed-my-ai-workflow-1opo",
-      "summary": "I think most developers are approaching AI coding the wrong way\n\n\nI used to think AI coding quality was mostly about the model.\n\n\nBetter model = better code.\n\n\nAfter building my repo, I don’t think that anymore.\n\nI reali",
+      "title": "When your SaaS API has docs but no real sandbox",
+      "link": "https://dev.to/fetchsandbox/when-your-saas-api-has-docs-but-no-real-sandbox-3mfh",
+      "summary": "A lot of small SaaS APIs have decent docs.\n\nSome even have an OpenAPI spec.\n\nBut no real sandbox.\n\nThat sounds fine until a developer tries to integrate the API and needs to test the part that docs cannot prove:\n\nDoes th",
       "image": "",
-      "published": "Fri, 08 May 2026 12:36:10 +0000",
+      "published": "Fri, 08 May 2026 18:43:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Twelve Trust Boundaries: A Field Guide to Supply-Chain Defense After axios@1.14.1",
-      "link": "https://dev.to/aws-builders/twelve-trust-boundaries-a-field-guide-to-supply-chain-defense-after-1pna",
-      "summary": "On March 30, 2026, an attacker who had stolen an axios maintainer's npm publish credentials pushed axios@1.14.1 to the registry. The version looked like a normal patch a single-digit bump from 1.14.0. It was live for rou",
+      "title": "Python logging: Stop Using print() in Your Automation Scripts",
+      "link": "https://dev.to/german_yamil_e021eef8710d/python-logging-stop-using-print-in-your-automation-scripts-3c99",
+      "summary": "Python logging: Stop Using print() in Your Automation Scripts\n\n\nYou spent an hour debugging a cron job last night. The script ran fine manually, but in production it silently failed. You had no idea what happened because",
       "image": "",
-      "published": "Fri, 08 May 2026 12:32:00 +0000",
+      "published": "Fri, 08 May 2026 18:41:02 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Using CSS corner-shape For Folded Corners",
+      "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+      "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\n\nUsing CSS corner-shape For Folded",
+      "image": "",
+      "published": "Fri, 08 May 2026 13:54:10 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\n\nFixed-Height Cards: More Fragile Than They Look originally handwritten and pu",
       "image": "",
       "published": "Mon, 04 May 2026 14:01:36 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
-      "link": "https://css-tricks.com/whats-important-10/",
-      "summary": "Developers have been experimenting with HTML-in-Canvas, a hexagonal world map-analytics feature, a web-based OS for e-ink devices, replacing image sources using the content property, and more. This is What’s !important #",
-      "image": "",
-      "published": "Fri, 01 May 2026 13:43:26 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
