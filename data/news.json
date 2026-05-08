@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-08T01:30:50.022699Z",
+  "updated": "2026-05-08T07:12:00.745342Z",
   "articles": [
+    {
+      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
+      "published": "Fri, 08 May 2026 10:42:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
@@ -34,15 +43,6 @@
       "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.\nThe vulnerability in question is CVE-2026-0300 (CVSS",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg",
       "published": "Thu, 07 May 2026 19:04:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "summary": "Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. S",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg",
-      "published": "Thu, 07 May 2026 17:03:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -92,6 +92,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime gro",
+      "image": "",
+      "published": "Fri, 08 May 2026 02:58:46 +0000",
+      "source": "Krebs on Security",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other networ",
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed ",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "link": "https://github.com/graemeg/blaise",
+      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 25\n# Comments: 3",
       "image": "",
-      "published": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Gambling ads on social media reach more than twice as many men as women: study",
-      "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-      "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 3\n# Comments: 0",
-      "image": "",
-      "published": "Thu, 07 May 2026 23:17:03 +0000",
+      "published": "Fri, 08 May 2026 04:44:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Researchers discover advanced language processing in the unconscious human brain",
-      "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 32\n# Comments: 8",
+      "title": "US will start revoking passports for parents who owe child support",
+      "link": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+      "summary": "Article URL: https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6\nComments URL: https://news.ycombinator.com/item?id=48058340\nPoints: 36\n# Comments: 11",
       "image": "",
-      "published": "Thu, 07 May 2026 23:06:44 +0000",
+      "published": "Fri, 08 May 2026 03:52:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 99\n# Comments: 42",
+      "title": "Digging into Drama at the Document Foundation",
+      "link": "https://lwn.net/Articles/1066418/",
+      "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Thu, 07 May 2026 23:02:11 +0000",
+      "published": "Fri, 08 May 2026 03:51:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 4",
+      "title": "Mojo 1.0 Beta",
+      "link": "https://mojolang.org/",
+      "summary": "Article URL: https://mojolang.org/\nComments URL: https://news.ycombinator.com/item?id=48057901\nPoints: 65\n# Comments: 34",
       "image": "",
-      "published": "Thu, 07 May 2026 22:54:34 +0000",
+      "published": "Fri, 08 May 2026 02:49:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 187\n# Comments: 51",
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "link": "https://github.com/robertdfrench/ifuncd-up",
+      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 67\n# Comments: 29",
       "image": "",
-      "published": "Thu, 07 May 2026 22:22:21 +0000",
+      "published": "Fri, 08 May 2026 00:03:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Scalability Test Planning Framework",
-      "link": "https://dev.to/beefedai/scalability-test-planning-framework-3l9p",
-      "summary": "Why scalability testing changes the conversation\nFrom objectives to guardrails: defining SLAs and acceptance criteria\nPerformance KPIs and observability signals that reveal root cause\nBuilding realistic load test scenari",
-      "image": "",
-      "published": "Fri, 08 May 2026 01:21:01 +0000",
+      "title": "What Reddit Can Teach Us About Women’s Watch Preferences (Python + NLP Project)",
+      "link": "https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3",
+      "summary": "Most “what watch should I buy?” discussions online skew heavily male. A friend wanted to launch a women’s watch, so I helped with a small data analysis.\n\nIn this post I’ll walk through a small but complete Python pipelin",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hayk6h55a4gp1h4qjxm.png",
+      "published": "Fri, 08 May 2026 07:05:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A non-engineer CEO connected Copilot Studio to LDX hub. It took 8 errors and 3 hours. Here's the full log.",
-      "link": "https://dev.to/kozo-ki/a-non-engineer-ceo-connected-copilot-studio-to-ldx-hub-it-took-8-errors-and-3-hours-heres-the-5cdh",
-      "summary": "I'm the CEO of a translation company. Not an engineer.\n\nIn Part 1, I tried to connect Copilot Studio to LDX hub's StructFlow API and hit a wall before getting anything to work. This is Part 2 — the completion.\n\nIt works ",
+      "title": "How SPF Pushes Scam Defence Toward Shared Intelligence",
+      "link": "https://dev.to/dylangan/how-spf-pushes-scam-defence-toward-shared-intelligence-g04",
+      "summary": "Australia’s Scams Prevention Framework is not only a regulatory development. It is a signal that scam defence is moving away from isolated reporting and toward shared intelligence. That shift matters because scams do not",
       "image": "",
-      "published": "Fri, 08 May 2026 01:20:04 +0000",
+      "published": "Fri, 08 May 2026 07:01:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The wacky 2026 world of bot traffic",
-      "link": "https://dev.to/street-air-5461/the-wacky-2026-world-of-bot-traffic-3fe9",
-      "summary": "Three strategies to deal with bot traffic.\n\n\nGive up. Have at it. Take what you want. As fast as you want. On my dime. Steal it. re-use it. Life is too short.\nHide behind cloudflare. Let them try to deal with it. Have re",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8spkwrq43n2ja2dc0uwg.png",
-      "published": "Fri, 08 May 2026 01:15:26 +0000",
+      "title": "Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong",
+      "link": "https://dev.to/awxglobal/per-agent-cost-tracking-why-your-llm-analytics-are-probably-wrong-4lg",
+      "summary": "Originally published at awx-shredder.fly.dev/blog\n\n\n\n  \n  \n  Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong\n\n\nYour CFO asks why the OpenAI bill jumped 340% last month. You open your dashboard and see.",
+      "image": "",
+      "published": "Fri, 08 May 2026 07:00:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Complete Claude Code Harness Engineering Guide (5 Layers, 8 Deep-Dives)",
-      "link": "https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j",
-      "summary": "Harness engineering is everything around your AI agent except the model: memory, tools, permissions, hooks, observability. LangChain gained 13.7 benchmark points changing only the harness. This guide is a curated reading",
+      "title": "58. Random Forest: Why One Tree Isn't Enough",
+      "link": "https://dev.to/yakhilesh/58-random-forest-why-one-tree-isnt-enough-1klj",
+      "summary": "You saw in the last post that decision trees overfit easily. Change a few training examples and the whole tree changes. That instability is the core problem.\n\nThe fix is almost embarrassingly simple. Don't build one tree",
       "image": "",
-      "published": "Fri, 08 May 2026 01:00:00 +0000",
+      "published": "Fri, 08 May 2026 07:00:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Kotlin 2.0 vs Python 3.13: The Definitive Guide to benchmark in Production",
-      "link": "https://dev.to/johalputt/kotlin-20-vs-python-313-the-definitive-guide-to-benchmark-in-production-46gj",
-      "summary": "Kotlin 2.0 vs Python 3.13: The Definitive Guide to Benchmarking in Production\n\n\nWith Kotlin 2.0’s stable K2 compiler and Python 3.13’s experimental free-threaded mode, the debate over which language delivers better produ",
-      "image": "",
-      "published": "Fri, 08 May 2026 00:55:08 +0000",
+      "title": "Angular’s New injectAsync() API Explained",
+      "link": "https://dev.to/brianmtreese/angulars-new-injectasync-api-explained-41fh",
+      "summary": "Angular v22 just made lazy-loading services much simpler. In this post, we'll explore how to leverage the new injectAsync() API to reduce your main bundle size and replace awkward lazy-loading workarounds. We’ll compare ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fbriantree.se%2Fassets%2Fimg%2Fcontent%2Fuploads%2F2026%2F05-07%2Fbundle-size.jpg",
+      "published": "Fri, 08 May 2026 07:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
