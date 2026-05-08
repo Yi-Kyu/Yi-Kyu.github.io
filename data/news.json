@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T19:21:00.378618Z",
+  "updated": "2026-05-08T01:30:50.022699Z",
   "articles": [
     {
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
+      "image": "",
+      "published": "Thu, 07 May 2026 18:36:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+      "image": "",
+      "published": "Thu, 07 May 2026 18:06:52 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
       "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
       "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
@@ -70,24 +88,6 @@
       "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
       "image": "",
       "published": "Thu, 07 May 2026 11:20:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
-      "image": "",
-      "published": "Thu, 07 May 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Americans sentenced for running 'laptop farms' for North Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
-      "image": "",
-      "published": "Thu, 07 May 2026 09:45:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Slop Is Killing Online Communities",
-      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 15\n# Comments: 0",
+      "title": "Gambling ads on social media reach more than twice as many men as women: study",
+      "link": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+      "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Thu, 07 May 2026 18:46:25 +0000",
+      "published": "Thu, 07 May 2026 23:17:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 29\n# Comments: 7",
+      "title": "Researchers discover advanced language processing in the unconscious human brain",
+      "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 32\n# Comments: 8",
       "image": "",
-      "published": "Thu, 07 May 2026 17:54:02 +0000",
+      "published": "Thu, 07 May 2026 23:06:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
-      "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "summary": "Article URL: https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/\nComments URL: https://news.ycombinator.com/item?id=48052371\nPoints: 35\n# Comments: 21",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 99\n# Comments: 42",
       "image": "",
-      "published": "Thu, 07 May 2026 17:42:58 +0000",
+      "published": "Thu, 07 May 2026 23:02:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Principles for agent-native CLIs",
-      "link": "https://twitter.com/trevin/status/2051316002730991795",
-      "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 11\n# Comments: 0",
+      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+      "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 4",
       "image": "",
-      "published": "Thu, 07 May 2026 17:40:05 +0000",
+      "published": "Thu, 07 May 2026 22:54:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Agents need control flow, not more prompts",
-      "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 104\n# Comments: 46",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 187\n# Comments: 51",
       "image": "",
-      "published": "Thu, 07 May 2026 16:43:35 +0000",
+      "published": "Thu, 07 May 2026 22:22:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built something I think more developers should be using",
-      "link": "https://dev.to/the-missing-pink/i-built-something-i-think-more-developers-should-be-using-f7a",
-      "summary": "I don't post often. But this one matters to me.\n\nYesterday I attended a presentation by Rob van der Veer (Chief AI Officer at SIG, founder of the OWASP AI Exchange), and it pushed me to finally publish something I'd been",
+      "title": "Scalability Test Planning Framework",
+      "link": "https://dev.to/beefedai/scalability-test-planning-framework-3l9p",
+      "summary": "Why scalability testing changes the conversation\nFrom objectives to guardrails: defining SLAs and acceptance criteria\nPerformance KPIs and observability signals that reveal root cause\nBuilding realistic load test scenari",
       "image": "",
-      "published": "Thu, 07 May 2026 19:18:05 +0000",
+      "published": "Fri, 08 May 2026 01:21:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ayat saadati — Complete Guide",
-      "link": "https://dev.to/sahand1987/ayat-saadati-complete-guide-232l",
-      "summary": "AyatUtils: Your Go-To Python Toolkit\n\n\nAlright, let's talk about AyatUtils. If you've ever found yourself writing the same helper functions over and over again across different projects, you know the pain. That's exactly",
+      "title": "A non-engineer CEO connected Copilot Studio to LDX hub. It took 8 errors and 3 hours. Here's the full log.",
+      "link": "https://dev.to/kozo-ki/a-non-engineer-ceo-connected-copilot-studio-to-ldx-hub-it-took-8-errors-and-3-hours-heres-the-5cdh",
+      "summary": "I'm the CEO of a translation company. Not an engineer.\n\nIn Part 1, I tried to connect Copilot Studio to LDX hub's StructFlow API and hit a wall before getting anything to work. This is Part 2 — the completion.\n\nIt works ",
       "image": "",
-      "published": "Thu, 07 May 2026 19:10:36 +0000",
+      "published": "Fri, 08 May 2026 01:20:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Day 7 of 60 — today I stopped doing abstract Python challenges and started solving problems I could see myself automating in the real world.",
-      "link": "https://dev.to/mbugua_cessy/day-7-of-60-today-i-stopped-doing-abstract-python-challenges-and-started-solving-problems-i-could-2jgi",
-      "summary": "I'm a student learning AI integration and automation by building one real workflow every day for 60 days.\n\nDay 8 of 60 — today I stopped doing abstract Python challenges and started solving problems I could see myself au",
-      "image": "",
-      "published": "Thu, 07 May 2026 19:09:37 +0000",
+      "title": "The wacky 2026 world of bot traffic",
+      "link": "https://dev.to/street-air-5461/the-wacky-2026-world-of-bot-traffic-3fe9",
+      "summary": "Three strategies to deal with bot traffic.\n\n\nGive up. Have at it. Take what you want. As fast as you want. On my dime. Steal it. re-use it. Life is too short.\nHide behind cloudflare. Let them try to deal with it. Have re",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8spkwrq43n2ja2dc0uwg.png",
+      "published": "Fri, 08 May 2026 01:15:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🚀 Building OSSI — An AI-Powered Open Source Intelligence System with Kestra",
-      "link": "https://dev.to/mohit5upadhyay/building-ossi-an-ai-powered-open-source-intelligence-system-with-kestra-1i47",
-      "summary": "Transforming GitHub issues into contributor intelligence using AI + Workflow Orchestration\n\n\nOpen source projects are growing faster than ever.\n\nEvery day repositories receive:\n\n\nBug reports\nFeature requests\nContributor ",
+      "title": "The Complete Claude Code Harness Engineering Guide (5 Layers, 8 Deep-Dives)",
+      "link": "https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j",
+      "summary": "Harness engineering is everything around your AI agent except the model: memory, tools, permissions, hooks, observability. LangChain gained 13.7 benchmark points changing only the harness. This guide is a curated reading",
       "image": "",
-      "published": "Thu, 07 May 2026 19:06:46 +0000",
+      "published": "Fri, 08 May 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I'm Only Building Dead Simple Apps From Now On",
-      "link": "https://dev.to/vientapps/im-only-building-dead-simple-apps-from-now-on-42b",
-      "summary": "I opened Bloons TD the other day to play a quick round.\n\n3 modals appeared before I could see the homescreen. Daily challenge banner. Season pass popup. Currency reward to claim. New event to dismiss. Upgrade pack offer.",
+      "title": "Kotlin 2.0 vs Python 3.13: The Definitive Guide to benchmark in Production",
+      "link": "https://dev.to/johalputt/kotlin-20-vs-python-313-the-definitive-guide-to-benchmark-in-production-46gj",
+      "summary": "Kotlin 2.0 vs Python 3.13: The Definitive Guide to Benchmarking in Production\n\n\nWith Kotlin 2.0’s stable K2 compiler and Python 3.13’s experimental free-threaded mode, the debate over which language delivers better produ",
       "image": "",
-      "published": "Thu, 07 May 2026 19:06:31 +0000",
+      "published": "Fri, 08 May 2026 00:55:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
