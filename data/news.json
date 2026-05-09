@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T12:44:40.887721Z",
+  "updated": "2026-05-09T18:39:55.566876Z",
   "articles": [
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "image": "",
+      "published": "Sat, 09 May 2026 10:26:03 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
       "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
       "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
@@ -79,15 +88,6 @@
       "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
       "image": "",
       "published": "Fri, 08 May 2026 08:16:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 06:42:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "link": "https://internetarchive.ch/",
-      "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 35\n# Comments: 9",
+      "title": "Zed Editor Theme-Builder",
+      "link": "https://zed.dev/theme-builder",
+      "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 15\n# Comments: 6",
       "image": "",
-      "published": "Sat, 09 May 2026 12:00:30 +0000",
+      "published": "Sat, 09 May 2026 17:30:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Forking the Web",
-      "link": "https://dillo-browser.org/lab/web-fork/",
-      "summary": "Article URL: https://dillo-browser.org/lab/web-fork/\nComments URL: https://news.ycombinator.com/item?id=48074087\nPoints: 13\n# Comments: 2",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 29\n# Comments:",
       "image": "",
-      "published": "Sat, 09 May 2026 11:33:07 +0000",
+      "published": "Sat, 09 May 2026 17:06:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Killswitch: Per-function short-circuit mitigation primitive",
-      "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-      "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 15\n# Comments: 2",
+      "title": "I Will Not Add Query Strings to Your URLs",
+      "link": "https://susam.net/no-query-strings.html",
+      "summary": "Article URL: https://susam.net/no-query-strings.html\nComments URL: https://news.ycombinator.com/item?id=48076173\nPoints: 27\n# Comments: 5",
       "image": "",
-      "published": "Sat, 09 May 2026 09:14:05 +0000",
+      "published": "Sat, 09 May 2026 16:28:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "link": "https://arxiv.org/abs/2604.15597",
-      "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 14\n# Comments: 2",
+      "title": "Introduction to Beaver Triples",
+      "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+      "summary": "Article URL: https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples\nComments URL: https://news.ycombinator.com/item?id=48076009\nPoints: 9\n# Comments: 3",
       "image": "",
-      "published": "Sat, 09 May 2026 08:44:34 +0000",
+      "published": "Sat, 09 May 2026 16:02:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 207\n# Comments: 119",
+      "title": "PipeDream on the Acorn Archimedes",
+      "link": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 52\n# Comments: 15",
       "image": "",
-      "published": "Sat, 09 May 2026 04:53:52 +0000",
+      "published": "Sat, 09 May 2026 15:01:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What is Node.js? JavaScript on the Server Explained",
-      "link": "https://dev.to/satyasootar/what-is-nodejs-javascript-on-the-server-explained-3i1c",
-      "summary": "Hello readers 👋, welcome to the 2nd blog in this NodeJS series!\n\nIn our last post, we did something exciting: we installed Node.js, wrote our first script, and even spun up a tiny Hello World server. It was hands-on and ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frsidrhb3y45glazrxcky.png",
-      "published": "Sat, 09 May 2026 12:34:50 +0000",
+      "title": "Neovim Grepping and File Search Without Plugins",
+      "link": "https://dev.to/khalil_chermiti_096af98ea/neovim-grepping-and-file-search-without-plugins-3ned",
+      "summary": "Neovim already has powerful built-in tools for searching text and files.\nYou don't need Telescope or any plugin for basic workflow.\n\n\n\n  \n  \n  Grepping Text with :grep\n\n\nNeovim can use any external search tool through :g",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9zv7o64hqlpfawaq5ta.png",
+      "published": "Sat, 09 May 2026 18:32:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Quark's Outlines: Python Slice Objects",
-      "link": "https://dev.to/mike-vincent/quarks-outlines-python-slice-objects-2dea",
-      "summary": "Quark’s Outlines: Python Slice Objects\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python Slice Objects\n\n\n\n  \n  \n  What is a Python slice object?\n\n\nWhen you want to take part of a l",
-      "image": "",
-      "published": "Sat, 09 May 2026 12:27:23 +0000",
+      "title": "Hardware-backed SSH keys, end to end: YubiKey, PIV, software alternatives, and where SSH CAs fit in",
+      "link": "https://dev.to/rivik/hardware-backed-ssh-keys-end-to-end-yubikey-piv-software-alternatives-and-where-ssh-cas-fit-in-3lob",
+      "summary": "This is a working guide to using a YubiKey for SSH on a real Linux fleet, plus the surrounding landscape — PIV, software-only alternatives, and SSH certificate authorities. The goal is to retire file-based SSH keys witho",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1hjf0lgz29yi7qoy3prj.png",
+      "published": "Sat, 09 May 2026 18:31:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Setting Up Your First Node.js Application Step-by-Step",
-      "link": "https://dev.to/satyasootar/setting-up-your-first-nodejs-application-step-by-step-fef",
-      "summary": "Hello readers 👋, welcome to the 1st blog in the NodeJS series!\n\nSo far, we've spent a lot of time understanding JavaScript in the browser. Today, we are taking a big step forward. We are leaving the browser behind and st",
+      "title": "Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs",
+      "link": "https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n",
+      "summary": "What I Built\n\n\nI built a lightweight tool called Gemma 4 Error Log Simplifier, designed to turn raw and often confusing error logs into structured, easy-to-understand debugging insights.\n\nError messages from different en",
       "image": "",
-      "published": "Sat, 09 May 2026 12:26:46 +0000",
+      "published": "Sat, 09 May 2026 18:19:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DNSSEC: The Developer's Setup Guide (2026)",
-      "link": "https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj",
-      "summary": "DNSSEC has a reputation for being complicated. That reputation is mostly deserved, but the actual setup on modern DNS providers takes about ten minutes. The hard part is understanding what it does and why, so you don't m",
+      "title": "Scaling Systems: Bigger Machine or More Machines?",
+      "link": "https://dev.to/shubhamkant_/scaling-systems-bigger-machine-or-more-machines-59ie",
+      "summary": "What is Scalability?\n\n\nThe ability to handle more requests by buying a bigger machine or buying more machines is called scalability.\n\n\n  \n  \n  Vertical Scaling\n\n\nVertical scaling refers to using a bigger machine and addi",
       "image": "",
-      "published": "Sat, 09 May 2026 12:20:57 +0000",
+      "published": "Sat, 09 May 2026 18:05:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Designing public vs. private state: what goes where and why",
-      "link": "https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk",
-      "summary": "One of the most common sources of confusion when building on Midnight is the question of privacy. Developers expect that marking something as \"not exported\" or keeping it off the main interface will make it private. It d",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyegu5oc0rbnogq82do6f.png",
-      "published": "Sat, 09 May 2026 12:15:04 +0000",
+      "title": "Why Rust Feels Hard (And Why That's Actually the Point)",
+      "link": "https://dev.to/vrannang1/why-rust-feels-hard-and-why-thats-actually-the-point-4ge5",
+      "summary": "Part 1 of the \"Rust Without the Headache\" series\n\nLet me tell you about the bug that broke me.\n\nI was working on a Python service—nothing crazy. Just a background worker that processed incoming data and wrote results to ",
+      "image": "",
+      "published": "Sat, 09 May 2026 18:05:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
