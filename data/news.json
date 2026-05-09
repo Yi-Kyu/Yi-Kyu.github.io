@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-09T07:28:24.202339Z",
+  "updated": "2026-05-09T12:44:40.887721Z",
   "articles": [
+    {
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilitie",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg",
+      "published": "Sat, 09 May 2026 12:46:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
       "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
@@ -34,15 +43,6 @@
       "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as cred",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg",
       "published": "Fri, 08 May 2026 16:30:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg",
-      "published": "Fri, 08 May 2026 16:00:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-      "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 74\n# Comments: 30",
+      "title": "Internet Archive Switzerland",
+      "link": "https://internetarchive.ch/",
+      "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 35\n# Comments: 9",
       "image": "",
-      "published": "Sat, 09 May 2026 05:52:12 +0000",
+      "published": "Sat, 09 May 2026 12:00:30 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Forking the Web",
+      "link": "https://dillo-browser.org/lab/web-fork/",
+      "summary": "Article URL: https://dillo-browser.org/lab/web-fork/\nComments URL: https://news.ycombinator.com/item?id=48074087\nPoints: 13\n# Comments: 2",
+      "image": "",
+      "published": "Sat, 09 May 2026 11:33:07 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "link": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 15\n# Comments: 2",
+      "image": "",
+      "published": "Sat, 09 May 2026 09:14:05 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "link": "https://arxiv.org/abs/2604.15597",
+      "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 14\n# Comments: 2",
+      "image": "",
+      "published": "Sat, 09 May 2026 08:44:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "link": "https://twitter.com/trq212/status/2052809885763747935",
-      "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 81\n# Comments: 41",
+      "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 207\n# Comments: 119",
       "image": "",
       "published": "Sat, 09 May 2026 04:53:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-      "link": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-      "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 108\n# Comments: 45",
-      "image": "",
-      "published": "Sat, 09 May 2026 03:21:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 184\n# Comments: 79",
-      "image": "",
-      "published": "Sat, 09 May 2026 02:41:42 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-      "link": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 241\n# Comments: 157",
-      "image": "",
-      "published": "Fri, 08 May 2026 21:47:47 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I Found LeetCode for Software Design, and It’s Awesome",
-      "link": "https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d",
-      "summary": "Disclosure: This post includes affiliate links; I may receive compensation if you purchase products or services from the different links provided in this article.\n\n\n\nIf you're preparing for FAANG interviews, you already ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpq3r0l5057vq83pibgfe.png",
-      "published": "Sat, 09 May 2026 07:17:35 +0000",
+      "title": "What is Node.js? JavaScript on the Server Explained",
+      "link": "https://dev.to/satyasootar/what-is-nodejs-javascript-on-the-server-explained-3i1c",
+      "summary": "Hello readers 👋, welcome to the 2nd blog in this NodeJS series!\n\nIn our last post, we did something exciting: we installed Node.js, wrote our first script, and even spun up a tiny Hello World server. It was hands-on and ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frsidrhb3y45glazrxcky.png",
+      "published": "Sat, 09 May 2026 12:34:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lab 12 - Telnet and SSH ( I Captured My Own Password in Wireshark — Here's What Telnet Taught Me About Network Security )",
-      "link": "https://dev.to/almahmudkhalif/lab-12-telnet-and-ssh-i-captured-my-own-password-in-wireshark-heres-what-telnet-taught-me-3dn3",
-      "summary": "There's a moment in networking that changes how you think about protocols forever.\n\nYou type a password into a terminal. Then you open Wireshark, follow a TCP stream, and there it is — your password, sitting in plain tex",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8764xkfomy07gkdt3o2z.png",
-      "published": "Sat, 09 May 2026 07:14:37 +0000",
+      "title": "Quark's Outlines: Python Slice Objects",
+      "link": "https://dev.to/mike-vincent/quarks-outlines-python-slice-objects-2dea",
+      "summary": "Quark’s Outlines: Python Slice Objects\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python Slice Objects\n\n\n\n  \n  \n  What is a Python slice object?\n\n\nWhen you want to take part of a l",
+      "image": "",
+      "published": "Sat, 09 May 2026 12:27:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Lightweight Way to Keep Short-Form Video References Organized",
-      "link": "https://dev.to/xzmhxdxh/a-lightweight-way-to-keep-short-form-video-references-organized-jo7",
-      "summary": "Short-form video is awkward to organize because it sits between a bookmark, a media asset, and a note. A TikTok might be useful because of its hook, the pacing of an edit, a product shot, a caption pattern, or a sound. I",
+      "title": "Setting Up Your First Node.js Application Step-by-Step",
+      "link": "https://dev.to/satyasootar/setting-up-your-first-nodejs-application-step-by-step-fef",
+      "summary": "Hello readers 👋, welcome to the 1st blog in the NodeJS series!\n\nSo far, we've spent a lot of time understanding JavaScript in the browser. Today, we are taking a big step forward. We are leaving the browser behind and st",
       "image": "",
-      "published": "Sat, 09 May 2026 07:07:01 +0000",
+      "published": "Sat, 09 May 2026 12:26:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Ücretsiz Sınırsız Gemini API Erişimi",
-      "link": "https://dev.to/tobiass_hoffmann/ucretsiz-sinirsiz-gemini-api-erisimi-1dd2",
-      "summary": "Google'ın Gemini ailesi, yüksek hacimli iş yükleri için en uygun maliyetli sınır model serilerinden biridir. Gemini 2.5 Pro milyon token başına 1,25 / 10 dolar maliyetle çalışır; Flash varyantları daha ucuzdur. Ancak ücr",
+      "title": "DNSSEC: The Developer's Setup Guide (2026)",
+      "link": "https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj",
+      "summary": "DNSSEC has a reputation for being complicated. That reputation is mostly deserved, but the actual setup on modern DNS providers takes about ten minutes. The hard part is understanding what it does and why, so you don't m",
       "image": "",
-      "published": "Sat, 09 May 2026 07:06:19 +0000",
+      "published": "Sat, 09 May 2026 12:20:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemini API ฟรี ไม่จำกัด",
-      "link": "https://dev.to/thanawat_wonchai/gemini-api-frii-aimcchamkad-5ih",
-      "summary": "กลุ่มโมเดล Gemini ของ Google เป็นตัวเลือก LLM ที่คุ้มค่าสำหรับงานปริมาณสูง แต่ค่าใช้จ่ายยังเพิ่มเร็วเมื่อแอปสาธารณะมีผู้ใช้จำนวนมาก Puter.js ช่วยให้คุณเรียกใช้ Gemini หลายรุ่น เช่น 2.5 Pro, 2.5 Flash, 2.0 Flash, 3 Flash ",
-      "image": "",
-      "published": "Sat, 09 May 2026 07:05:38 +0000",
+      "title": "Designing public vs. private state: what goes where and why",
+      "link": "https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk",
+      "summary": "One of the most common sources of confusion when building on Midnight is the question of privacy. Developers expect that marking something as \"not exported\" or keeping it off the main interface will make it private. It d",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyegu5oc0rbnogq82do6f.png",
+      "published": "Sat, 09 May 2026 12:15:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
