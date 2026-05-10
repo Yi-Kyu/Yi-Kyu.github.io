@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T12:45:10.264904Z",
+  "updated": "2026-05-10T18:41:16.717494Z",
   "articles": [
     {
       "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the tar",
+      "image": "",
+      "published": "Sun, 10 May 2026 13:52:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+      "image": "",
+      "published": "Sun, 10 May 2026 10:16:47 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access troja",
@@ -70,24 +88,6 @@
       "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
       "image": "",
       "published": "Fri, 08 May 2026 12:18:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trellix source code breach claimed by RansomHouse hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 09:23:23 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The left-wing case for AI",
-      "link": "https://www.seangoedecke.com/the-left-wing-case-for-ai/",
-      "summary": "Article URL: https://www.seangoedecke.com/the-left-wing-case-for-ai/\nComments URL: https://news.ycombinator.com/item?id=48083264\nPoints: 5\n# Comments: 0",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 117\n# Comments: 9",
       "image": "",
-      "published": "Sun, 10 May 2026 12:01:03 +0000",
+      "published": "Sun, 10 May 2026 17:54:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "9 Mothers (YC P26) Is Hiring",
-      "link": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q\nComments URL: https://news.ycombinator.com/item?id=48083251\nPoints: 0\n# Comments: 0",
+      "title": "Incident CVE-2024-Yikes",
+      "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 39\n# Comments: 4",
       "image": "",
-      "published": "Sun, 10 May 2026 12:00:11 +0000",
+      "published": "Sun, 10 May 2026 17:43:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Space Cadet Pinball on Linux",
-      "link": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "summary": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/\nComments URL: https://news.ycombinator.com/item?id=48082968\nPoints: 60\n# Comments: 16",
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "link": "https://tracesofhumanity.org/hello-world/",
+      "summary": "Article URL: https://tracesofhumanity.org/hello-world/\nComments URL: https://news.ycombinator.com/item?id=48085782\nPoints: 38\n# Comments: 7",
       "image": "",
-      "published": "Sun, 10 May 2026 11:22:02 +0000",
+      "published": "Sun, 10 May 2026 17:15:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "link": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "summary": "Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/\nComments URL: https://news.ycombinator.com/item?id=48082676\nPoints: 44\n# Comments: 4",
+      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
+      "link": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "summary": "Article URL: https://janrosenow.substack.com/p/spain-just-became-one-of-europes\nComments URL: https://news.ycombinator.com/item?id=48085330\nPoints: 39\n# Comments: 12",
       "image": "",
-      "published": "Sun, 10 May 2026 10:33:06 +0000",
+      "published": "Sun, 10 May 2026 16:31:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Think Linear Algebra (2023)",
-      "link": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "summary": "Article URL: https://allendowney.github.io/ThinkLinearAlgebra/index.html\nComments URL: https://news.ycombinator.com/item?id=48082396\nPoints: 12\n# Comments: 0",
+      "title": "GitHub is sinking",
+      "link": "https://dbushell.com/2026/04/29/github-is-sinking/",
+      "summary": "Article URL: https://dbushell.com/2026/04/29/github-is-sinking/\nComments URL: https://news.ycombinator.com/item?id=48085095\nPoints: 92\n# Comments: 65",
       "image": "",
-      "published": "Sun, 10 May 2026 09:40:33 +0000",
+      "published": "Sun, 10 May 2026 16:07:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "All Roads Lead to AI Rome",
-      "link": "https://dev.to/vektor_memory_43f51a32376/all-roads-lead-to-ai-rome-16f",
-      "summary": "We built incredible AI tools. Then we built walls between them, and forgot to lay the road infrastructure.\n\n\n\n7 min read - by Vektor Memory · vektormemory.com\n\nHow Via solves the context amnesia problem across Claude, Cu",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4btn73335qr506b3lcht.jpg",
-      "published": "Sun, 10 May 2026 12:43:39 +0000",
+      "title": "How Python Powers Real-World Data Analytics",
+      "link": "https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m",
+      "summary": "Python Isn't a Trend. It's the Standard.\n\n\nIf you work with data in any capacity, whether wrangling CSVs for a monthly report or building production dashboards for executive stakeholders, you will eventually encounter Py",
+      "image": "",
+      "published": "Sun, 10 May 2026 18:27:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Lean Proved My Durability Definition Too Easily",
-      "link": "https://dev.to/iroha1203/when-lean-proved-my-durability-definition-too-easily-20nc",
-      "summary": "TL;DR\n\nI tried to formalize a small ACID-like model in Lean 4.\n\nConsistency became invariant preservation.\nIsolation became a deliberately strong commutation law.\nDurability exposed that my model had no persistence bound",
+      "title": "Task Manager API in FastAPI",
+      "link": "https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a",
+      "summary": "I built a complete REST API for task management in FastAPI with a well-defined layered architecture (router, service, repository, DB) and a SQLAlchemy-based database. I have full CRUD testing coverage, including success ",
       "image": "",
-      "published": "Sun, 10 May 2026 12:34:42 +0000",
+      "published": "Sun, 10 May 2026 18:20:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Months of work on a 3-app Marvel ecosystem — React 19, Three.js globe, PWA, i18n, monorepo",
-      "link": "https://dev.to/adsy/months-of-work-on-a-3-app-marvel-ecosystem-react-19-threejs-globe-pwa-i18n-monorepo-2pp",
-      "summary": "Hi everyone, hope y'all having a great day !\n\nSide project I've been building for months during my own MCU marathon. Not a weekend vibe-code — real architecture, hand-curated data, iterative development with AI assistanc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9vntu0m7slbrlht28nmh.png",
-      "published": "Sun, 10 May 2026 12:34:31 +0000",
+      "title": "JavaScript Modules Explained: From Chaos to Clean Code",
+      "link": "https://dev.to/harman_panwar_46de8d9454b/javascript-modules-explained-from-chaos-to-clean-code-ibb",
+      "summary": "If you've ever opened a JavaScript file and found 3,000 lines of tangled functions, global variables clashing with each other, and no clear structure — you already understand why modules exist, even if you haven't used t",
+      "image": "",
+      "published": "Sun, 10 May 2026 18:10:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren't What You'd Expect",
-      "link": "https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-in-2026-i-migrated-a-production-backend-and-the-tradeoffs-arent-what-5hin",
-      "summary": "Jakarta EE vs Spring Boot in 2026: I Migrated a Production Backend and the Tradeoffs Aren't What You'd Expect\n\n\nJakarta EE 11 launched with a refreshed pitch around portability, independent runtimes, and alignment with t",
+      "title": "Your MCP Server Has No Network Identity. Here's Why That's a Problem.",
+      "link": "https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj",
+      "summary": "MCP (Model Context Protocol) crossed 97 million monthly SDK downloads. Every major AI provider adopted it. It solved a real problem: how do agents invoke tools and retrieve context in a standardized way?\n\nBut MCP is a pr",
       "image": "",
-      "published": "Sun, 10 May 2026 12:32:52 +0000",
+      "published": "Sun, 10 May 2026 18:09:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Jakarta EE vs Spring Boot en 2026: migré un backend de producción y los tradeoffs no son los que esperaba",
-      "link": "https://dev.to/jtorchia/jakarta-ee-vs-spring-boot-en-2026-migre-un-backend-de-produccion-y-los-tradeoffs-no-son-los-que-2baf",
-      "summary": "Jakarta EE vs Spring Boot en 2026: migré un backend de producción y los tradeoffs no son los que esperaba\n\n\nJakarta EE 11 salió con un renovado discurso de portabilidad, runtime independiente y alineación con las últimas",
+      "title": "P2P vs. Broker: The Architecture Decision Defining Multi-Agent Systems",
+      "link": "https://dev.to/asterview/p2p-vs-broker-the-architecture-decision-defining-multi-agent-systems-54dg",
+      "summary": "Most multi-agent systems are built on a broker. There's a coordinator that receives tasks, dispatches them to worker agents, and collects results. It's a natural architecture. It mirrors how humans organize teams. It's e",
       "image": "",
-      "published": "Sun, 10 May 2026 12:32:47 +0000",
+      "published": "Sun, 10 May 2026 18:07:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
