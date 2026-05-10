@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T01:29:17.288737Z",
+  "updated": "2026-05-10T07:51:28.917313Z",
   "articles": [
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "France Moves to Break Encrypted Messaging",
-      "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-      "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 61\n# Comments: 24",
+      "title": "Debian must ship reproducible packages",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 67\n# Comments: 13",
       "image": "",
-      "published": "Sat, 09 May 2026 22:14:35 +0000",
+      "published": "Sun, 10 May 2026 05:26:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Getting arrested in Japan",
-      "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-      "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 131\n# Comments: 132",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "link": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 8\n# Comments: 4",
       "image": "",
-      "published": "Sat, 09 May 2026 21:56:19 +0000",
+      "published": "Sun, 10 May 2026 04:47:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rust but Lisp",
-      "link": "https://github.com/ThatXliner/rust-but-lisp",
-      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 62\n# Comments: 31",
+      "title": "Gemini API File Search is now multimodal",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 65\n# Comments: 8",
       "image": "",
-      "published": "Sat, 09 May 2026 21:46:27 +0000",
+      "published": "Sun, 10 May 2026 03:22:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Local privilege escalation via execve()",
-      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 78\n# Comments: 56",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "link": "https://github.com/imtomt/ymawky",
+      "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video str",
       "image": "",
-      "published": "Sat, 09 May 2026 20:31:21 +0000",
+      "published": "Sun, 10 May 2026 03:01:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I caught the car",
-      "link": "https://undecidability.net/senior/",
-      "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 37\n# Comments: 32",
+      "title": "Sparse Cholesky Elimination Tree",
+      "link": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+      "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 24\n# Comments: 0",
       "image": "",
-      "published": "Sat, 09 May 2026 20:31:07 +0000",
+      "published": "Sun, 10 May 2026 01:52:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "JavaScript Arrays 101",
-      "link": "https://dev.to/pratham69/javascript-arrays-101-3hd1",
-      "summary": "Your first real data structure — and the one you'll use more than any other.\n\n\n\n\nLet me paint a picture. You're building a to-do app. You've got 5 tasks. So you do the \"logical\" thing:\n\n\n\nlet task1 = \"Buy groceries\";\nlet",
-      "image": "",
-      "published": "Sun, 10 May 2026 01:19:39 +0000",
+      "title": "Introducing Zopa: a 60 KB authorization engine for proxy-wasm, written in Zig",
+      "link": "https://dev.to/kanywst/introducing-zopa-a-60-kb-authorization-engine-for-proxy-wasm-written-in-zig-1l66",
+      "summary": "There are plenty of times you want to delegate \"let this request through, or block it\" to a wasm filter inside Envoy. API gateways, service mesh boundaries, L7 checkpoints. The default move is to use OPA's wasm build.\n\nT",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe5tld6tadgzo8cwx4f6l.png",
+      "published": "Sun, 10 May 2026 07:37:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Understanding JavaScript Classes Objects and the ‘new’ Keyword: A Beginner’s Guide",
-      "link": "https://dev.to/nabinkdl/understanding-javascript-classes-objects-and-the-new-keyword-a-beginners-guide-1b04",
-      "summary": "JavaScript Classes &amp; the new Keyword: A Beginner's Guide to OOP 🎯\n\n\nIf you're just starting with JavaScript and Object-Oriented Programming (OOP), the class and new keywords might seem confusing. Let me break it down",
+      "title": "How to Check if You're Affected by CVE-2026-26268 in Cursor (and What to Do)",
+      "link": "https://dev.to/armor1ai/how-to-check-if-youre-affected-by-cve-2026-26268-in-cursor-and-what-to-do-4nd2",
+      "summary": "CVE-2026-26268 is a CVSS 8.1 high-severity vulnerability in the Cursor AI IDE that lets a malicious repository execute arbitrary code on a developer's machine the moment Cursor's agent performs a Git operation against it",
       "image": "",
-      "published": "Sun, 10 May 2026 01:17:38 +0000",
+      "published": "Sun, 10 May 2026 07:34:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Naver वीडियो स्ट्रीमिंग का विश्लेषण: HLS और WebAssembly के साथ एक हाई-परफॉर्मेंस डाउनलोडर का निर्माण",
-      "link": "https://dev.to/yqqwe/naver-viiddiyo-sttriiming-kaa-vishlessnn-hls-aur-webassembly-ke-saath-ek-haaii-prphonrmens-ddaaunloddr-kaa-nirmaann-3kc2",
-      "summary": "एक डेवलपर के रूप में, \"वीडियो डाउनलोड करना\" केवल एक .mp4 लिंक खोजने जैसा सरल लग सकता है। हालांकि, Naver (Naver TV, स्पोर्ट्स और V LIVE आर्काइव्स सहित) जैसे बड़े प्लेटफॉर्म के लिए, वास्तविकता बहुत अधिक जटिल है। Naver एक प",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgc9o5jmy3oq1bqiltsm8.png",
-      "published": "Sun, 10 May 2026 01:11:38 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Реверс-инжиниринг Naver Video: Как построить высокопроизводительный загрузчик на основе HLS и WebAssembly",
-      "link": "https://dev.to/yqqwe/rieviers-inzhiniringh-naver-video-kak-postroit-vysokoproizvoditielnyi-zaghruzchik-na-osnovie-hls-i-1jm4",
-      "summary": "Для большинства пользователей «скачать видео» — это просто поиск прямой ссылки на .mp4. Однако для разработчиков, работающих с современными контент-платформами уровня Naver (Naver TV, V LIVE, Sports), реальность оказывае",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faz614nkacml76c154zli.png",
-      "published": "Sun, 10 May 2026 01:11:22 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Preventing unnecessary re-renders using React.memo, useMemo and useCallback hooks",
-      "link": "https://dev.to/dhwang/preventing-unnecessary-re-renders-using-reactmemo-and-related-hooks-48f6",
-      "summary": "Preventing unnecessary re-renders in React is crucial for maintaining performance, especially in complex component trees. Here is a comprehensive summary of the key concepts, focusing on React.memo and related hooks.\n\n\n ",
+      "title": "Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.",
+      "link": "https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg",
+      "summary": "The era of enterprise AI agents has arrived — but not in the way the hype suggested. At the AI Agent Conference in New York this week, leaders from Datadog, T-Mobile, CrewAI, RingCentral, and others described a shift tha",
       "image": "",
-      "published": "Sun, 10 May 2026 01:11:10 +0000",
+      "published": "Sun, 10 May 2026 07:31:24 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "My standup answers used to be terrible. So I built a tool to fix that.",
+      "link": "https://dev.to/melonix/my-standup-answers-used-to-be-terrible-so-i-built-a-tool-to-fix-that-55f6",
+      "summary": "Every Monday I'd sit down for our team sync and draw a blank.\n\nWhat did I actually work on last week? How many hours did I put in? Was I in flow or just firefighting?\n\nI had no good answer. Tasks were scattered, time was",
+      "image": "",
+      "published": "Sun, 10 May 2026 07:25:25 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "My First SOL Transfer: No Middleman, No Waiting",
+      "link": "https://dev.to/fachiny17/my-first-sol-transfer-no-middleman-no-waiting-1eog",
+      "summary": "I sent my first SOL transfer on devnet today and it felt oddly magical. I created a fresh wallet, typed one command, and half a SOL zipped across the network almost instantly. Watching the transaction appear on Solana Ex",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8y5o5j2em6u5yljli0z.png",
+      "published": "Sun, 10 May 2026 07:23:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
