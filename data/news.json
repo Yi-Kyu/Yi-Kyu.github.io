@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T18:39:55.566876Z",
+  "updated": "2026-05-10T01:29:17.288737Z",
   "articles": [
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access troja",
+      "image": "",
+      "published": "Sat, 09 May 2026 15:27:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
       "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
@@ -79,15 +88,6 @@
       "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
       "image": "",
       "published": "Fri, 08 May 2026 09:23:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "image": "",
-      "published": "Fri, 08 May 2026 08:16:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Zed Editor Theme-Builder",
-      "link": "https://zed.dev/theme-builder",
-      "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 15\n# Comments: 6",
+      "title": "France Moves to Break Encrypted Messaging",
+      "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 61\n# Comments: 24",
       "image": "",
-      "published": "Sat, 09 May 2026 17:30:39 +0000",
+      "published": "Sat, 09 May 2026 22:14:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 29\n# Comments:",
+      "title": "Getting arrested in Japan",
+      "link": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 131\n# Comments: 132",
       "image": "",
-      "published": "Sat, 09 May 2026 17:06:46 +0000",
+      "published": "Sat, 09 May 2026 21:56:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Will Not Add Query Strings to Your URLs",
-      "link": "https://susam.net/no-query-strings.html",
-      "summary": "Article URL: https://susam.net/no-query-strings.html\nComments URL: https://news.ycombinator.com/item?id=48076173\nPoints: 27\n# Comments: 5",
+      "title": "Rust but Lisp",
+      "link": "https://github.com/ThatXliner/rust-but-lisp",
+      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 62\n# Comments: 31",
       "image": "",
-      "published": "Sat, 09 May 2026 16:28:36 +0000",
+      "published": "Sat, 09 May 2026 21:46:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Introduction to Beaver Triples",
-      "link": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
-      "summary": "Article URL: https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples\nComments URL: https://news.ycombinator.com/item?id=48076009\nPoints: 9\n# Comments: 3",
+      "title": "Local privilege escalation via execve()",
+      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 78\n# Comments: 56",
       "image": "",
-      "published": "Sat, 09 May 2026 16:02:38 +0000",
+      "published": "Sat, 09 May 2026 20:31:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PipeDream on the Acorn Archimedes",
-      "link": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 52\n# Comments: 15",
+      "title": "I caught the car",
+      "link": "https://undecidability.net/senior/",
+      "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 37\n# Comments: 32",
       "image": "",
-      "published": "Sat, 09 May 2026 15:01:16 +0000",
+      "published": "Sat, 09 May 2026 20:31:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Neovim Grepping and File Search Without Plugins",
-      "link": "https://dev.to/khalil_chermiti_096af98ea/neovim-grepping-and-file-search-without-plugins-3ned",
-      "summary": "Neovim already has powerful built-in tools for searching text and files.\nYou don't need Telescope or any plugin for basic workflow.\n\n\n\n  \n  \n  Grepping Text with :grep\n\n\nNeovim can use any external search tool through :g",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9zv7o64hqlpfawaq5ta.png",
-      "published": "Sat, 09 May 2026 18:32:16 +0000",
+      "title": "JavaScript Arrays 101",
+      "link": "https://dev.to/pratham69/javascript-arrays-101-3hd1",
+      "summary": "Your first real data structure — and the one you'll use more than any other.\n\n\n\n\nLet me paint a picture. You're building a to-do app. You've got 5 tasks. So you do the \"logical\" thing:\n\n\n\nlet task1 = \"Buy groceries\";\nlet",
+      "image": "",
+      "published": "Sun, 10 May 2026 01:19:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hardware-backed SSH keys, end to end: YubiKey, PIV, software alternatives, and where SSH CAs fit in",
-      "link": "https://dev.to/rivik/hardware-backed-ssh-keys-end-to-end-yubikey-piv-software-alternatives-and-where-ssh-cas-fit-in-3lob",
-      "summary": "This is a working guide to using a YubiKey for SSH on a real Linux fleet, plus the surrounding landscape — PIV, software-only alternatives, and SSH certificate authorities. The goal is to retire file-based SSH keys witho",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1hjf0lgz29yi7qoy3prj.png",
-      "published": "Sat, 09 May 2026 18:31:36 +0000",
+      "title": "Understanding JavaScript Classes Objects and the ‘new’ Keyword: A Beginner’s Guide",
+      "link": "https://dev.to/nabinkdl/understanding-javascript-classes-objects-and-the-new-keyword-a-beginners-guide-1b04",
+      "summary": "JavaScript Classes &amp; the new Keyword: A Beginner's Guide to OOP 🎯\n\n\nIf you're just starting with JavaScript and Object-Oriented Programming (OOP), the class and new keywords might seem confusing. Let me break it down",
+      "image": "",
+      "published": "Sun, 10 May 2026 01:17:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs",
-      "link": "https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n",
-      "summary": "What I Built\n\n\nI built a lightweight tool called Gemma 4 Error Log Simplifier, designed to turn raw and often confusing error logs into structured, easy-to-understand debugging insights.\n\nError messages from different en",
-      "image": "",
-      "published": "Sat, 09 May 2026 18:19:30 +0000",
+      "title": "Naver वीडियो स्ट्रीमिंग का विश्लेषण: HLS और WebAssembly के साथ एक हाई-परफॉर्मेंस डाउनलोडर का निर्माण",
+      "link": "https://dev.to/yqqwe/naver-viiddiyo-sttriiming-kaa-vishlessnn-hls-aur-webassembly-ke-saath-ek-haaii-prphonrmens-ddaaunloddr-kaa-nirmaann-3kc2",
+      "summary": "एक डेवलपर के रूप में, \"वीडियो डाउनलोड करना\" केवल एक .mp4 लिंक खोजने जैसा सरल लग सकता है। हालांकि, Naver (Naver TV, स्पोर्ट्स और V LIVE आर्काइव्स सहित) जैसे बड़े प्लेटफॉर्म के लिए, वास्तविकता बहुत अधिक जटिल है। Naver एक प",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgc9o5jmy3oq1bqiltsm8.png",
+      "published": "Sun, 10 May 2026 01:11:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Scaling Systems: Bigger Machine or More Machines?",
-      "link": "https://dev.to/shubhamkant_/scaling-systems-bigger-machine-or-more-machines-59ie",
-      "summary": "What is Scalability?\n\n\nThe ability to handle more requests by buying a bigger machine or buying more machines is called scalability.\n\n\n  \n  \n  Vertical Scaling\n\n\nVertical scaling refers to using a bigger machine and addi",
-      "image": "",
-      "published": "Sat, 09 May 2026 18:05:50 +0000",
+      "title": "Реверс-инжиниринг Naver Video: Как построить высокопроизводительный загрузчик на основе HLS и WebAssembly",
+      "link": "https://dev.to/yqqwe/rieviers-inzhiniringh-naver-video-kak-postroit-vysokoproizvoditielnyi-zaghruzchik-na-osnovie-hls-i-1jm4",
+      "summary": "Для большинства пользователей «скачать видео» — это просто поиск прямой ссылки на .mp4. Однако для разработчиков, работающих с современными контент-платформами уровня Naver (Naver TV, V LIVE, Sports), реальность оказывае",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faz614nkacml76c154zli.png",
+      "published": "Sun, 10 May 2026 01:11:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Rust Feels Hard (And Why That's Actually the Point)",
-      "link": "https://dev.to/vrannang1/why-rust-feels-hard-and-why-thats-actually-the-point-4ge5",
-      "summary": "Part 1 of the \"Rust Without the Headache\" series\n\nLet me tell you about the bug that broke me.\n\nI was working on a Python service—nothing crazy. Just a background worker that processed incoming data and wrote results to ",
+      "title": "Preventing unnecessary re-renders using React.memo, useMemo and useCallback hooks",
+      "link": "https://dev.to/dhwang/preventing-unnecessary-re-renders-using-reactmemo-and-related-hooks-48f6",
+      "summary": "Preventing unnecessary re-renders in React is crucial for maintaining performance, especially in complex component trees. Here is a comprehensive summary of the key concepts, focusing on React.memo and related hooks.\n\n\n ",
       "image": "",
-      "published": "Sat, 09 May 2026 18:05:09 +0000",
+      "published": "Sun, 10 May 2026 01:11:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
