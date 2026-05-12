@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-12T08:16:53.045222Z",
+  "updated": "2026-05-12T13:29:08.639419Z",
   "articles": [
+    {
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "summary": "Why do the Riskiest SOC Alerts Go Unanswered?\nSecurity operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is inves",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg",
+      "published": "Tue, 12 May 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "summary": "TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fre",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg",
+      "published": "Tue, 12 May 2026 17:16:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg",
+      "published": "Tue, 12 May 2026 16:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
       "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg",
-      "published": "Tue, 12 May 2026 10:48:00 +0530",
-      "source": "The Hacker News",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "image": "",
+      "published": "Tue, 12 May 2026 07:29:36 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg",
-      "published": "Tue, 12 May 2026 00:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [.",
+      "image": "",
+      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exploits CVE-2026-4194",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg",
-      "published": "Mon, 11 May 2026 23:24:00 +0530",
-      "source": "The Hacker News",
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being l",
+      "image": "",
+      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
       "image": "",
       "published": "Mon, 11 May 2026 18:03:06 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [.",
-      "image": "",
-      "published": "Mon, 11 May 2026 18:02:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-      "image": "",
-      "published": "Mon, 11 May 2026 11:26:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-      "image": "",
-      "published": "Mon, 11 May 2026 09:53:56 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Screenshots of Old Desktop OSes",
-      "link": "http://www.typewritten.org/Media/",
-      "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 89\n# Comments: 22",
+      "title": "UnDUNE II",
+      "link": "https://liquidream.itch.io/undune2",
+      "summary": "Article URL: https://liquidream.itch.io/undune2\nComments URL: https://news.ycombinator.com/item?id=48107404\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Tue, 12 May 2026 05:11:24 +0000",
+      "published": "Tue, 12 May 2026 12:38:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Extremely Low Frequencies",
-      "link": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 55\n# Comments: 1",
+      "title": "Don't hijack my mouse pointer",
+      "link": "https://ruky.me/dont-hijack-my-pointer/",
+      "summary": "Article URL: https://ruky.me/dont-hijack-my-pointer/\nComments URL: https://news.ycombinator.com/item?id=48107027\nPoints: 16\n# Comments: 13",
       "image": "",
-      "published": "Tue, 12 May 2026 03:59:35 +0000",
+      "published": "Tue, 12 May 2026 12:00:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Software Internals Book Club",
-      "link": "https://eatonphil.com/bookclub.html",
-      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 82\n# Comments: 13",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "summary": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship\nComments URL: https://news.ycombinator.com/item?id=48107024\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Tue, 12 May 2026 02:28:11 +0000",
+      "published": "Tue, 12 May 2026 12:00:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Platform on AWS",
-      "link": "https://claude.com/blog/claude-platform-on-aws",
-      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 123\n# Comments: 56",
+      "title": "Houses are for living, not for speculation",
+      "link": "https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation\nComments URL: https://news.ycombinator.com/item?id=48106670\nPoints: 60\n# Comments: 41",
       "image": "",
-      "published": "Tue, 12 May 2026 01:24:29 +0000",
+      "published": "Tue, 12 May 2026 11:20:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
-      "link": "https://github.com/davmlaw/they_live_adblocker",
-      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 187\n# Comments: 49",
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 133\n# Comments: 81",
       "image": "",
-      "published": "Tue, 12 May 2026 00:37:54 +0000",
+      "published": "Tue, 12 May 2026 11:00:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ghost Signature: Cryptographic Receipts for AI Output (Ed25519 + JWKS)",
-      "link": "https://dev.to/fyrnitydev/ghost-signature-cryptographic-receipts-for-ai-output-ed25519-jwks-mh",
-      "summary": "TL;DR\n\n\nI built a tiny API that lets your AI agent cryptographically sign every output with Ed25519, so anyone can verify \"yes, this came from agent X at time Y, unmodified\" — without trusting you, me, or any platform. P",
+      "title": "What changes when a WordPress project is planned with clear criteria",
+      "link": "https://dev.to/elliemiguel/what-changes-when-a-wordpress-project-is-planned-with-clear-criteria-4j77",
+      "summary": "I’ve picked apart enough WordPress projects to know where the slow, expensive problems start: not in the code, but in the way decisions were made at the beginning. If you’re wondering how to choose a freelance WordPress ",
       "image": "",
-      "published": "Tue, 12 May 2026 08:05:12 +0000",
+      "published": "Tue, 12 May 2026 13:23:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Pi extension to show a new Pi logo every time you open Pi.",
-      "link": "https://dev.to/fredysandoval/a-pi-extension-to-show-a-new-pi-logo-every-time-you-open-pi-3407",
-      "summary": "People of pi, I Just published a Pi extension to show a new Pi logo every time you open Pi.\n\nWhat you get\n\n\nRandom Pi logo on startup\nSmall animation when Pi opens a new session\nBuilt-in shortcut help in the header\nRespo",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Tue, 12 May 2026 08:03:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Kubernetes üzerinde Docker rate limit aşma",
-      "link": "https://dev.to/aciklab/kubernetes-uzerinde-docker-rate-limit-asma-3pkd",
-      "summary": "Buun için docker hub üzerindeki kullanıcı adı ve parolanızı not aldığınızı varsayıyorum.\n\nÖncelikle bu erişim bilgilerini hangi namespace'te kullanacaksanız sadece onun altında secret oluşturmanız gerekiyor. aşağıdaki gi",
+      "title": "NGB Reports: Canonical + Composable Reporting on .NET and PostgreSQL",
+      "link": "https://dev.to/ngbplatform/ngb-reports-canonical-composable-reporting-on-net-and-postgresql-1b77",
+      "summary": "I just published a new demo of NGB Reports — the reporting layer of NGB Platform.\n\nNGB Platform is an open-source, metadata-driven business platform for building accounting-first industry solutions. The goal is not to bu",
       "image": "",
-      "published": "Tue, 12 May 2026 08:02:30 +0000",
+      "published": "Tue, 12 May 2026 13:19:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Starting Fresh: Three Years of Watching AI Change Everything",
-      "link": "https://dev.to/temp_coffee/starting-fresh-three-years-of-watching-ai-change-everything-16he",
-      "summary": "I regret not writing any of this down sooner.\n\nWhen I first encountered generative AI in December 2022, I had no idea how much it would shape the next few years of my life. The trial and error, the shifting opinions, the",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuuwt2ls6psgo9et41z8m.png",
-      "published": "Tue, 12 May 2026 08:01:24 +0000",
+      "title": "Your Monitor Can't Show Turquoise. Or 65% of Visible Colors.",
+      "link": "https://dev.to/arthurpro/your-monitor-cant-show-turquoise-or-65-of-visible-colors-d6",
+      "summary": "The \"16.7 million colors\" number on every monitor's spec sheet is technically true and substantively misleading. It counts the number of unique color codes you can address, not the number of physical colors you can produ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek8vgr48ytgmcin104qw.jpg",
+      "published": "Tue, 12 May 2026 13:18:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop checking dashboards. Build the monitoring layer that checks for you.",
-      "link": "https://dev.to/stephendsouza/stop-checking-dashboards-build-the-monitoring-layer-that-checks-for-you-1kfc",
-      "summary": "Every developer has a version of this story.\n\nYou open your laptop in the morning. Something feels off. \n\nYou check\nStripe - green. \nCheck the server - up. \nCheck the error logs — clean. \n\nSpend 20 minutes manually click",
+      "title": "[Boost]",
+      "link": "https://dev.to/desty2k/-173c",
+      "summary": "Loading code without the disk: what each OS lets you get away with\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Wojciech Wentland\n            \n    ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3866520%2F3ad33efb-4ece-434a-97e5-e9cecc7cc9fd.png",
+      "published": "Tue, 12 May 2026 13:12:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Automating Windows Server Setup with Ansible: My DevOps Journey (Part 2)",
+      "link": "https://dev.to/sirisharaju_kamparaju_c9c/automating-windows-server-setup-with-ansible-my-devops-journey-part-2-92e",
+      "summary": "In my previous blog, I walked through how I automated Linux server setup using Ansible — SSH hardening, roles, and playbooks. If you haven't read that yet, check out Part 1 here.\nIn this post, I'll focus entirely on the ",
       "image": "",
-      "published": "Tue, 12 May 2026 08:00:32 +0000",
+      "published": "Tue, 12 May 2026 13:12:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
