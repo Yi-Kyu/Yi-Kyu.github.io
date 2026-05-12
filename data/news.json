@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T19:22:45.683872Z",
+  "updated": "2026-05-12T01:29:46.795344Z",
   "articles": [
     {
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
+      "image": "",
+      "published": "Mon, 11 May 2026 18:40:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "image": "",
+      "published": "Mon, 11 May 2026 18:03:06 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [.",
+      "image": "",
+      "published": "Mon, 11 May 2026 18:02:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Instructure confirms hackers used Canvas flaw to deface portals",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
       "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
@@ -61,33 +88,6 @@
       "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
       "image": "",
       "published": "Mon, 11 May 2026 09:53:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-      "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
-      "image": "",
-      "published": "Mon, 11 May 2026 09:02:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-      "image": "",
-      "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "image": "",
-      "published": "Mon, 11 May 2026 05:03:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "link": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "summary": "Article URL: https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/\nComments URL: https://news.ycombinator.com/item?id=48098537\nPoints: 78\n# Comments: 28",
+      "title": "Can we code our way out of gentrification?",
+      "link": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
+      "summary": "Article URL: https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification\nComments URL: https://news.ycombinator.com/item?id=48102360\nPoints: 10\n# Comments: 20",
       "image": "",
-      "published": "Mon, 11 May 2026 18:12:38 +0000",
+      "published": "Mon, 11 May 2026 23:54:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "link": "https://bild.ai/jobs",
-      "summary": "Article URL: https://bild.ai/jobs\nComments URL: https://news.ycombinator.com/item?id=48098122\nPoints: 0\n# Comments: 0",
+      "title": "Griffin PowerMate driver for modern macOS",
+      "link": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver\nComments URL: https://news.ycombinator.com/item?id=48100970\nPoints: 33\n# Comments: 11",
       "image": "",
-      "published": "Mon, 11 May 2026 17:43:12 +0000",
+      "published": "Mon, 11 May 2026 21:35:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft Israel chief leaves amid ethical controversy",
-      "link": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-      "summary": "Article URL: https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602\nComments URL: https://news.ycombinator.com/item?id=48097796\nPoints: 75\n# Comments: 60",
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "summary": "https://github.com/TanStack/router/issues/7383\n\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 505\n# Comments: 174",
       "image": "",
-      "published": "Mon, 11 May 2026 17:18:11 +0000",
+      "published": "Mon, 11 May 2026 21:08:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "link": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "summary": "Article URL: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale\nComments URL: https://news.ycombinator.com/item?id=48097078\nPoints: 39\n# Comments: 6",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\nComments URL: https://news.ycombinator.com/item?id=48100662\nPoints: 58\n# Comments: 57",
       "image": "",
-      "published": "Mon, 11 May 2026 16:22:31 +0000",
+      "published": "Mon, 11 May 2026 21:04:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: TikTok but for Scientific Papers",
-      "link": "https://andreaturchet.github.io/website/index.html",
-      "summary": "Article URL: https://andreaturchet.github.io/website/index.html\nComments URL: https://news.ycombinator.com/item?id=48096842\nPoints: 58\n# Comments: 35",
+      "title": "Interaction Models",
+      "link": "https://thinkingmachines.ai/blog/interaction-models/",
+      "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 84\n# Comments: 8",
       "image": "",
-      "published": "Mon, 11 May 2026 16:05:50 +0000",
+      "published": "Mon, 11 May 2026 20:53:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Survive an Infrastructure Meltdown with Meshtastic and MeshCore (2026)",
-      "link": "https://dev.to/noperai42eng/how-to-survive-an-infrastructure-meltdown-with-meshtastic-and-meshcore-2026-dej",
-      "summary": "How to Survive an Infrastructure Meltdown with Meshtastic and MeshCore (2026)\n\n\n\nWhen the cell network drops, the internet dies, and the power grid stays down for days, LoRa mesh radios keep your family, neighbors, and m",
-      "image": "",
-      "published": "Mon, 11 May 2026 19:09:19 +0000",
+      "title": "Engineering a High-Performance Reddit Video Downloader: Decoding DASH, HLS, and Client-Side Transmuxing",
+      "link": "https://dev.to/yqqwe/engineering-a-high-performance-reddit-video-downloader-decoding-dash-hls-and-client-side-11ke",
+      "summary": "As developers, we often perceive video downloading as a simple GET request to a .mp4 URL. However, modern social media giants like Reddit have moved far beyond static file hosting. Today, Reddit employs sophisticated Ada",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuutymbgrx301d2sz3kc.png",
+      "published": "Tue, 12 May 2026 01:26:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Minimalist, Ad-Free Inbox for Instant Privacy: Introducing MailFlux",
-      "link": "https://dev.to/mahmudul_hasantamim_4fcd/building-a-minimalist-ad-free-inbox-for-instant-privacy-introducing-mailflux-1a8e",
-      "summary": "Hello Dev Community! 👋\n\nI wanted to share a side project I’ve been working on called MailFlux.\n\nAs someone who spends a lot of time testing applications and signing up for various tools, I was tired of using secondary in",
+      "title": "How to verify AI-discovered vulnerabilities aren't just training data echoes",
+      "link": "https://dev.to/alanwest/how-to-verify-ai-discovered-vulnerabilities-arent-just-training-data-echoes-1f50",
+      "summary": "The setup\n\n\nLast month a friend DM'd me a screenshot. An AI security agent had \"discovered\" a vulnerability in a popular open-source project. The agent walked through exploitation steps, suggested a patch, the whole nine",
       "image": "",
-      "published": "Mon, 11 May 2026 19:07:35 +0000",
+      "published": "Tue, 12 May 2026 01:21:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Privacy-first mind mapping app. Part 7: Owning Your Workflow",
-      "link": "https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-6-owning-your-workflow-26ha",
-      "summary": "Most posts about self‑hosting or indie projects drift into marketing speak. This one doesn’t. This is simply how I build and ship MindMapVault — the real workflow, the real tools, and the real reasons behind them.\n\nThis ",
+      "title": "GitHub Action: Auto-Post Architecture Diagrams on IaC PRs",
+      "link": "https://dev.to/pandey-raghvendra/github-action-auto-post-architecture-diagrams-on-iac-prs-47l9",
+      "summary": "Every time your team opens a pull request that changes Terraform, Kubernetes, Bicep, or any other IaC file, reviewers face the same problem: they have to mentally simulate what the code change does to the actual infrastr",
       "image": "",
-      "published": "Mon, 11 May 2026 19:07:21 +0000",
+      "published": "Tue, 12 May 2026 01:20:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Reddit Starts Blocking the Mobile Web: The \"App-Wall\" Is Officially Here",
-      "link": "https://dev.to/its_vrushal/reddit-starts-blocking-the-mobile-web-the-app-wall-is-officially-here-38ko",
-      "summary": "Imagine searching for a critical piece of advice—a troubleshooting fix for your car, a honest review of a new medical treatment, or a nuanced political debate—and landing on a Reddit thread, only to find the content blur",
+      "title": "Visualize Checkov Results on Your Architecture Diagram",
+      "link": "https://dev.to/pandey-raghvendra/visualize-checkov-results-on-your-architecture-diagram-42ed",
+      "summary": "Checkov finds hundreds of misconfigurations in your Terraform, Kubernetes, and CloudFormation code — but its output is a wall of terminal text. Resource names like aws_s3_bucket.data_lake and check IDs like CKV_AWS_18 do",
       "image": "",
-      "published": "Mon, 11 May 2026 19:01:25 +0000",
+      "published": "Tue, 12 May 2026 01:20:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bootcamps Are Dead",
-      "link": "https://dev.to/bytehala/bootcamps-are-dead-3nj4",
-      "summary": "The main benefit of bootcamps was building real-world projects and job-ready portfolios. Pay an AI service $20, and anyone can have that in a week.\n\nThis puts EVERYONE at a level playing field in terms of projects. So wh",
+      "title": "Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product",
+      "link": "https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-56db",
+      "summary": "Coding agents today are products, not platforms. Every single one ships as a bloated, all-in-one package that forces you into its way of working. Claude Code wants you to use their plugin system. Codex wants you to use t",
       "image": "",
-      "published": "Mon, 11 May 2026 19:00:32 +0000",
+      "published": "Tue, 12 May 2026 01:20:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
