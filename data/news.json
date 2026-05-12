@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-12T13:29:08.639419Z",
+  "updated": "2026-05-12T19:24:33.515262Z",
   "articles": [
+    {
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Transfer Agent (MTA) de",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg",
+      "published": "Tue, 12 May 2026 22:14:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious att",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg",
+      "published": "Tue, 12 May 2026 20:17:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between January and Febr",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg",
+      "published": "Tue, 12 May 2026 18:20:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
       "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
@@ -13,81 +40,54 @@
     {
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fre",
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Min",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg",
       "published": "Tue, 12 May 2026 17:16:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Why Agentic AI Is Security's Next Blind Spot",
-      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg",
-      "published": "Tue, 12 May 2026 16:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stole",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg",
-      "published": "Tue, 12 May 2026 13:07:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities befor",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg",
-      "published": "Tue, 12 May 2026 12:25:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
       "image": "",
-      "published": "Tue, 12 May 2026 07:29:36 -0400",
+      "published": "Tue, 12 May 2026 14:58:34 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [.",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
       "image": "",
-      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "published": "Tue, 12 May 2026 14:23:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being l",
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "image": "",
-      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "published": "Tue, 12 May 2026 14:09:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
       "image": "",
-      "published": "Mon, 11 May 2026 18:40:34 -0400",
+      "published": "Tue, 12 May 2026 14:08:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
       "image": "",
-      "published": "Mon, 11 May 2026 18:03:06 -0400",
+      "published": "Tue, 12 May 2026 13:07:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "UnDUNE II",
-      "link": "https://liquidream.itch.io/undune2",
-      "summary": "Article URL: https://liquidream.itch.io/undune2\nComments URL: https://news.ycombinator.com/item?id=48107404\nPoints: 7\n# Comments: 0",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 66\n# Comments: 8",
       "image": "",
-      "published": "Tue, 12 May 2026 12:38:45 +0000",
+      "published": "Tue, 12 May 2026 18:12:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Don't hijack my mouse pointer",
-      "link": "https://ruky.me/dont-hijack-my-pointer/",
-      "summary": "Article URL: https://ruky.me/dont-hijack-my-pointer/\nComments URL: https://news.ycombinator.com/item?id=48107027\nPoints: 16\n# Comments: 13",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "link": "https://github.com/cactus-compute/needle",
+      "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.We were always frustrated by the little e",
       "image": "",
-      "published": "Tue, 12 May 2026 12:00:55 +0000",
+      "published": "Tue, 12 May 2026 18:03:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-      "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
-      "summary": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship\nComments URL: https://news.ycombinator.com/item?id=48107024\nPoints: 0\n# Comments: 0",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Tue, 12 May 2026 12:00:46 +0000",
+      "published": "Tue, 12 May 2026 17:54:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Houses are for living, not for speculation",
-      "link": "https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Houses_are_for_living,_not_for_speculation\nComments URL: https://news.ycombinator.com/item?id=48106670\nPoints: 60\n# Comments: 41",
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 26\n# Comments: 12",
       "image": "",
-      "published": "Tue, 12 May 2026 11:20:06 +0000",
+      "published": "Tue, 12 May 2026 17:52:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 133\n# Comments: 81",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "link": "https://deepmind.google/blog/ai-pointer/",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/\nComments URL: https://news.ycombinator.com/item?id=48111581\nPoints: 44\n# Comments: 33",
       "image": "",
-      "published": "Tue, 12 May 2026 11:00:07 +0000",
+      "published": "Tue, 12 May 2026 17:40:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What changes when a WordPress project is planned with clear criteria",
-      "link": "https://dev.to/elliemiguel/what-changes-when-a-wordpress-project-is-planned-with-clear-criteria-4j77",
-      "summary": "I’ve picked apart enough WordPress projects to know where the slow, expensive problems start: not in the code, but in the way decisions were made at the beginning. If you’re wondering how to choose a freelance WordPress ",
+      "title": "I Built a Free Browser Games Website Because Games Became Too Complicated",
+      "link": "https://dev.to/thesahibsingh/i-built-a-free-browser-games-website-because-games-became-too-complicated-2cpg",
+      "summary": "I Built a Free Browser Games Website Because I Miss Simple Online Games\n\n\nMost online games today either ask you to install an app, create an account, watch too many ads, or deal with a heavy interface before you can eve",
       "image": "",
-      "published": "Tue, 12 May 2026 13:23:00 +0000",
+      "published": "Tue, 12 May 2026 19:17:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "NGB Reports: Canonical + Composable Reporting on .NET and PostgreSQL",
-      "link": "https://dev.to/ngbplatform/ngb-reports-canonical-composable-reporting-on-net-and-postgresql-1b77",
-      "summary": "I just published a new demo of NGB Reports — the reporting layer of NGB Platform.\n\nNGB Platform is an open-source, metadata-driven business platform for building accounting-first industry solutions. The goal is not to bu",
+      "title": "Ace These 5 Backend Concepts to Become a Senior Engineer",
+      "link": "https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd",
+      "summary": "Nowadays, AI can help ship almost every backend feature in a few minutes, but it does not replace the fundamentals you need to understand when your agent is moving in the wrong direction.\n\nCRUD endpoints, webhooks, exter",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fusliqeyje5l4a373q7bn.png",
+      "published": "Tue, 12 May 2026 19:11:26 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "S3 Bucket Regional Namespaces with CDK",
+      "link": "https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86",
+      "summary": "So you learned about the new S3 bucket account regional namespace feature and you're thinking \"this is amazing, let me try in CDK.\"\n\nWell... This is where you'll learn that the L2 Bucket construct has not yet been update",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6lb1dlx5m0o1pm2rod9.png",
+      "published": "Tue, 12 May 2026 19:07:20 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How We Built a Programmatic SEO Platform with 500+ Pages for Turkey's LED Lighting Industry",
+      "link": "https://dev.to/ismailgunaydin/how-we-built-a-programmatic-seo-platform-with-500-pages-for-turkeys-led-lighting-industry-5f9a",
+      "summary": "Most SEO content is written one page at a time. We needed 500+ pages covering 81 cities, 7 venue types, 6 product categories, 7 calculators, pricing data, case studies, and a full industry glossary — all with consistent ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmv44ykwce1vhoc1bhapu.jpeg",
+      "published": "Tue, 12 May 2026 19:05:29 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "GitHub Weekly: Security Scanning Hits Your IDE, Enterprise Migrations Go Live",
+      "link": "https://dev.to/htekdev/github-weekly-security-scanning-hits-your-ide-enterprise-migrations-go-live-18k0",
+      "summary": "Security Scanning Moves Left—All the Way to Your Editor\n\n\nGitHub shipped secret scanning via the GitHub MCP Server to general availability this week, and it's the kind of shift-left move I've been waiting for. You can no",
       "image": "",
-      "published": "Tue, 12 May 2026 13:19:53 +0000",
+      "published": "Tue, 12 May 2026 19:04:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your Monitor Can't Show Turquoise. Or 65% of Visible Colors.",
-      "link": "https://dev.to/arthurpro/your-monitor-cant-show-turquoise-or-65-of-visible-colors-d6",
-      "summary": "The \"16.7 million colors\" number on every monitor's spec sheet is technically true and substantively misleading. It counts the number of unique color codes you can address, not the number of physical colors you can produ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fek8vgr48ytgmcin104qw.jpg",
-      "published": "Tue, 12 May 2026 13:18:44 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "[Boost]",
-      "link": "https://dev.to/desty2k/-173c",
-      "summary": "Loading code without the disk: what each OS lets you get away with\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Wojciech Wentland\n            \n    ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3866520%2F3ad33efb-4ece-434a-97e5-e9cecc7cc9fd.png",
-      "published": "Tue, 12 May 2026 13:12:35 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Automating Windows Server Setup with Ansible: My DevOps Journey (Part 2)",
-      "link": "https://dev.to/sirisharaju_kamparaju_c9c/automating-windows-server-setup-with-ansible-my-devops-journey-part-2-92e",
-      "summary": "In my previous blog, I walked through how I automated Linux server setup using Ansible — SSH hardening, roles, and playbooks. If you haven't read that yet, check out Part 1 here.\nIn this post, I'll focus entirely on the ",
+      "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+      "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+      "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\n\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on ",
       "image": "",
-      "published": "Tue, 12 May 2026 13:12:31 +0000",
-      "source": "DEV Community",
+      "published": "Tue, 12 May 2026 13:59:35 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\n\nMaking Zigzag CSS Layo",
       "image": "",
       "published": "Wed, 06 May 2026 13:50:44 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Fixed-Height Cards: More Fragile Than They Look",
-      "link": "https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/",
-      "summary": "Getting a multi-column of cards to line up equally is is a headache we've all faced, and it gets even harder when working with fixed heights.\n\nFixed-Height Cards: More Fragile Than They Look originally handwritten and pu",
-      "image": "",
-      "published": "Mon, 04 May 2026 14:01:36 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
