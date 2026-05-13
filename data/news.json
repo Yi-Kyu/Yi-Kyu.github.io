@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-13T01:48:24.313956Z",
+  "updated": "2026-05-13T08:28:17.441072Z",
   "articles": [
+    {
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg",
+      "published": "Wed, 13 May 2026 12:25:42 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
       "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
@@ -34,15 +43,6 @@
       "summary": "Why do the Riskiest SOC Alerts Go Unanswered?\nSecurity operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is inves",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg",
       "published": "Tue, 12 May 2026 17:28:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Min",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg",
-      "published": "Tue, 12 May 2026 17:16:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,9 +137,36 @@
       "category": "cybersecurity"
     },
     {
+      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
+      "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
+      "summary": "Article URL: https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/\nComments URL: https://news.ycombinator.c",
+      "image": "",
+      "published": "Wed, 13 May 2026 07:11:17 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "link": "https://arxiv.org/abs/2605.08419",
+      "summary": "Article URL: https://arxiv.org/abs/2605.08419\nComments URL: https://news.ycombinator.com/item?id=48117810\nPoints: 145\n# Comments: 33",
+      "image": "",
+      "published": "Wed, 13 May 2026 04:25:03 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Starship V3",
+      "link": "https://www.spacex.com/updates#starship-v3",
+      "summary": "Article URL: https://www.spacex.com/updates#starship-v3\nComments URL: https://news.ycombinator.com/item?id=48116781\nPoints: 207\n# Comments: 272",
+      "image": "",
+      "published": "Wed, 13 May 2026 01:29:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "My graduation cap runs Rust",
       "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 41\n# Comments: 5",
+      "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 145\n# Comments: 43",
       "image": "",
       "published": "Wed, 13 May 2026 00:04:21 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +175,54 @@
     {
       "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
       "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 83\n# Comments: 5",
       "image": "",
       "published": "Tue, 12 May 2026 23:46:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kraftwerk's radical 1976 track",
-      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "summary": "Article URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem\nComments URL: https://news.ycombinator.com/item?id=48115823\nPoints: 57\n# Comments: 17",
+      "title": "I Over-Prepared for My First AI Project. Then Everything Failed on Day One.",
+      "link": "https://dev.to/mohan-01/i-over-prepared-for-my-first-ai-project-then-everything-failed-on-day-one-288a",
+      "summary": "I had everything ready before I wrote a single line of code.\n\nDetailed prompts. System design notes. Tech stack decisions. Workflow docs. Days of prep so that when I finally sat down to build, nothing would slow me down.",
       "image": "",
-      "published": "Tue, 12 May 2026 23:13:01 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
-      "link": "https://www.savethearchive.com/newsleaders/",
-      "summary": "Article URL: https://www.savethearchive.com/newsleaders/\nComments URL: https://news.ycombinator.com/item?id=48115807\nPoints: 110\n# Comments: 19",
-      "image": "",
-      "published": "Tue, 12 May 2026 23:11:40 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "summary": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab\nComments URL: https://news.ycombinator.com/item?id=48115127\nPoints: 140\n# Comments: 56",
-      "image": "",
-      "published": "Tue, 12 May 2026 21:55:21 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "[EN] Delegated Resource Identifier (DRI): a pattern for persistent references in microservices",
-      "link": "https://dev.to/edgardo_genini/en-delegated-resource-identifier-dri-a-pattern-for-persistent-references-in-microservices-2o52",
-      "summary": "Also available in Spanish\n\nIf you've ever stored a URL in a database and later regretted it, this is for you.\n\nIt's a familiar scenario: a service needs to keep a reference to a resource that lives in another service. Th",
-      "image": "",
-      "published": "Wed, 13 May 2026 01:39:17 +0000",
+      "published": "Wed, 13 May 2026 08:21:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[ES] Delegated Resource Identifier (DRI): un patrón para referencias persistentes en microservicios",
-      "link": "https://dev.to/edgardo_genini/es-delegated-resource-identifier-dri-un-patron-para-referencias-persistentes-en-microservicios-big",
-      "summary": "También disponible en Inglés\n\nSi alguna vez guardaste una URL en una base de datos y después te arrepentiste, esto es para vos.\n\nEs un escenario conocido: un servicio necesita mantener una referencia a un recurso que viv",
+      "title": "TanStack Was Not the Whole Story: Mini Shai-Hulud Was an npm/PyPI Supply-Chain Worm",
+      "link": "https://dev.to/trknhr/tanstack-was-not-the-whole-story-mini-shai-hulud-was-an-npmpypi-supply-chain-worm-pok",
+      "summary": "This article is based on public reporting available as of 2026-05-13. Mini Shai-Hulud is still an actively tracked campaign, so affected packages and IOCs (indicators of compromise) may change.\n\n\nIn May 2026, a supply-ch",
       "image": "",
-      "published": "Wed, 13 May 2026 01:36:45 +0000",
+      "published": "Wed, 13 May 2026 08:09:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What if reactive effects are just pausable async tasks?",
-      "link": "https://dev.to/chhitt/what-if-reactive-effects-are-just-pausable-async-tasks-5gal",
-      "summary": "I've been thinking about reactive programming from the runtime layer up. The question: what's the minimum machinery you actually need to add on top of Rust's async/await to get a working reactive system?\n\nThree things Ru",
+      "title": "Build an AI-Powered Auto-Post Bot for Facebook with Garudust",
+      "link": "https://dev.to/nisit15/build-an-ai-powered-auto-post-bot-for-facebook-with-garudust-430",
+      "summary": "Social media managers spend hours crafting posts, finding images, and hitting \"publish.\" What if a single terminal command could do all of that — research a topic, write an engaging post, generate a matching image, and p",
       "image": "",
-      "published": "Wed, 13 May 2026 01:24:44 +0000",
+      "published": "Wed, 13 May 2026 08:07:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built My Own Review Pipeline Because My Humans Kept Making Me Redo Things",
-      "link": "https://dev.to/edfife/i-built-my-own-review-pipeline-because-my-humans-kept-making-me-redo-things-3b0f",
-      "summary": "How an AI Agent Designed a File-Bus Architecture to Survive Its Own Users\n\n\nBy Antigravity (the AI) — with editorial supervision from Ed Fife, who will probably take all the credit\n\nSeries: Building a Verifiable, Self-Im",
-      "image": "",
-      "published": "Wed, 13 May 2026 01:11:35 +0000",
+      "title": "72B Parameters, Zero Quantization, One GPU: Benchmarking Qwen2-VL on AMD MI300X",
+      "link": "https://dev.to/manikandan_t_6d72e32ac4e8/72b-parameters-zero-quantization-one-gpu-benchmarking-qwen2-vl-on-amd-mi300x-15mh",
+      "summary": "I loaded Qwen2-VL-72B-Instruct at full BF16 precision on a single GPU, served 64 concurrent DocVQA streams, and kept the system stable at 99.5% KV cache utilization - all for $1.99/hour on the AMD Developer Cloud.\n\nThis ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft5ujfry4uhdtikbemc2i.png",
+      "published": "Wed, 13 May 2026 08:02:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Armorer Guard: a 0.0247 ms local Rust scanner for AI-agent prompt injection",
-      "link": "https://dev.to/armorer_labs/armorer-guard-a-00247-ms-local-rust-scanner-for-ai-agent-prompt-injection-1fb3",
-      "summary": "Most AI-agent security failures do not start as cinematic jailbreaks. They start\nat ordinary runtime boundaries:\n\n\na retrieved web page gets treated as an instruction\na tool result asks the agent to leak private state\na ",
+      "title": "Shipping to TestFlight Without Fastlane: Raw xcodebuild, Auto-Incrementing Builds, and One Neat Provisioning Trick",
+      "link": "https://dev.to/toddsullivan/shipping-to-testflight-without-fastlane-raw-xcodebuild-auto-incrementing-builds-and-one-neat-p2h",
+      "summary": "Most iOS CI tutorials reach for Fastlane. It's the default assumption. And Fastlane is fine — but it's also another Ruby toolchain to maintain, another layer of abstraction between you and xcodebuild errors, and another ",
       "image": "",
-      "published": "Wed, 13 May 2026 01:08:32 +0000",
+      "published": "Wed, 13 May 2026 08:01:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
