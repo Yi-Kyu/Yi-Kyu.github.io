@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T13:57:45.780712Z",
+  "updated": "2026-05-13T19:26:43.894606Z",
   "articles": [
     {
       "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
@@ -20,10 +20,10 @@
       "category": "cybersecurity"
     },
     {
-      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
       "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-X1ZWS1wjhotRXh44H3uH6bxJmz3fwKA9tFIuYxCVV_b_BhzNKscxBa_St0ybBNSIpHYTlgBf0YvsuY1B2FUJebmGwtpkgeDh7DutT4ERpurg_iRTfDNbyWWzFOt5Z8PLGDu-kywwNTPdNVK_UDcAC8ZzdFCry5xDvx8c8l9QtNJKk6J4ZQVRIpvAfzwf/s1600/wiz.jpg",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost se",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png",
       "published": "Wed, 13 May 2026 17:22:43 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. ",
+      "image": "",
+      "published": "Wed, 13 May 2026 12:37:49 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after ",
+      "image": "",
+      "published": "Wed, 13 May 2026 11:45:56 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
+      "image": "",
+      "published": "Wed, 13 May 2026 11:42:46 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+      "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
+      "image": "",
+      "published": "Wed, 13 May 2026 10:36:09 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
       "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
       "image": "",
       "published": "Wed, 13 May 2026 08:49:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 08:30:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 07:53:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors",
-      "image": "",
-      "published": "Tue, 12 May 2026 19:09:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and ",
-      "image": "",
-      "published": "Tue, 12 May 2026 16:17:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,129 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "link": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-      "summary": "Article URL: https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies\nComments URL: https://news.ycombinator.com/item?id=48121299\nPoints: 34\n# Comments: 17",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "link": "https://www.tryardent.com/",
+      "summary": "Hey HN! We’re Vikram and Evan from Ardent (https://tryardent.com). We're building database sandboxes for you and your coding agents.In the last two years coding agents have gotten dramatically more capable at handling co",
       "image": "",
-      "published": "Wed, 13 May 2026 12:57:42 +0000",
+      "published": "Wed, 13 May 2026 16:54:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "summary": "Article URL: https://jorijn.com/en/blog/leaving-github-for-forgejo/\nComments URL: https://news.ycombinator.com/item?id=48121266\nPoints: 76\n# Comments: 38",
+      "title": "Haiku",
+      "link": "https://www.haiku-os.org",
+      "summary": "Article URL: https://www.haiku-os.org\nComments URL: https://news.ycombinator.com/item?id=48124002\nPoints: 131\n# Comments: 61",
       "image": "",
-      "published": "Wed, 13 May 2026 12:54:00 +0000",
+      "published": "Wed, 13 May 2026 16:22:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
-      "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-      "summary": "Article URL: https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager\nComments URL: https://news.ycombinator.com/item?id=48120776\nPoints: 0\n# Comments: 0",
+      "title": "S-100 Virtual Workbench",
+      "link": "https://grantmestrength.github.io/S100/",
+      "summary": "Article URL: https://grantmestrength.github.io/S100/\nComments URL: https://news.ycombinator.com/item?id=48123546\nPoints: 58\n# Comments: 13",
       "image": "",
-      "published": "Wed, 13 May 2026 12:00:30 +0000",
+      "published": "Wed, 13 May 2026 15:52:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Moved My Digital Stack to Europe",
-      "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "summary": "Article URL: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/\nComments URL: https://news.ycombinator.com/item?id=48120629\nPoints: 310\n# Comments: 209",
+      "title": "Kickstarter is forced to ban adult content by payment processors",
+      "link": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "summary": "Article URL: https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648\nComments URL: https://news.ycombinator.com/item?id=48123198\nPoints: 260\n# Comments",
       "image": "",
-      "published": "Wed, 13 May 2026 11:42:20 +0000",
+      "published": "Wed, 13 May 2026 15:26:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
-      "link": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "summary": "Article URL: https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html\nComments URL: https://news.ycombinator.com/item?id=48120351\nPoints: 22\n# Comments: 4",
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "link": "https://ossresistance.com/",
+      "summary": "Article URL: https://ossresistance.com/\nComments URL: https://news.ycombinator.com/item?id=48123015\nPoints: 198\n# Comments: 62",
       "image": "",
-      "published": "Wed, 13 May 2026 11:02:57 +0000",
+      "published": "Wed, 13 May 2026 15:13:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CORS for Beginners: Why the Browser Sometimes Blocks Your Request",
-      "link": "https://dev.to/ezeanyim_henry/cors-for-beginners-why-the-browser-sometimes-blocks-your-request-1oei",
-      "summary": "CORS for Beginners: Why the Browser Sometimes Blocks Your Request\n\n\n\n\nIf you are learning frontend development, APIs, or JavaScript, there is a decent chance you have seen an error that looks something like this:\n\n\n\"Bloc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi0y5q4g6zbap9xg6obcs.png",
-      "published": "Wed, 13 May 2026 13:47:17 +0000",
+      "title": "How I automated stop-loss monitoring with Claude Code and Telegram (no broker API needed)",
+      "link": "https://dev.to/tellmefrankie/how-i-automated-stop-loss-monitoring-with-claude-code-and-telegram-no-broker-api-needed-1nfh",
+      "summary": "The problem with manual stop-loss monitoring: you check your phone, the market moves while you're not watching, and you exit a position three points below where you meant to.\n\nHere's how I built an automated stop-loss mo",
+      "image": "",
+      "published": "Wed, 13 May 2026 19:17:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Even ₹30–40 LPA Tech Salaries No Longer Feel Comfortable in Bangalore",
-      "link": "https://dev.to/ashokprasad_niyyam/why-even-30-40-lpa-tech-salaries-no-longer-feel-comfortable-in-bangalore-14hc",
-      "summary": "For years, Bangalore represented opportunity.\n\nFor many software engineers and startup professionals across India, getting a job in Bangalore meant:\n\n\ncareer growth,\nbetter salary,\nstartup exposure,\nand financial progres",
+      "title": "Building related-post recommendations for a Shopify blog — the algorithm, not the app",
+      "link": "https://dev.to/stackedboost/building-related-post-recommendations-for-a-shopify-blog-the-algorithm-not-the-app-o50",
+      "summary": "Shopify gives you product recommendations out of the box. There's a whole /recommendations/products.json endpoint, a recommendations.products Liquid drop, and an entire ML pipeline behind it. For blog posts? Nothing. Zer",
       "image": "",
-      "published": "Wed, 13 May 2026 13:47:15 +0000",
+      "published": "Wed, 13 May 2026 19:14:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We Built a Pentesting Company Because We Were Tired of Watching Startups Get Burned",
-      "link": "https://dev.to/albernaz_/we-built-a-pentesting-company-because-we-were-tired-of-watching-startups-get-burned-10jf",
-      "summary": "There was a pattern we kept seeing that genuinely bothered us.\n\nA startup would get to Series A, or land their first enterprise customer, and suddenly need a pentest report right now. They'd scramble to find a vendor, ge",
+      "title": "Two Retrieval Methods Are Better Than One: Evidence from 500 Clinical Queries",
+      "link": "https://dev.to/nomad-link-id/two-retrieval-methods-are-better-than-one-evidence-from-500-clinical-queries-4g41",
+      "summary": "When I set out to evaluate retrieval configurations for Portuguese clinical text, I expected one method to dominate. Instead, I found something more interesting: BM25 and dense retrieval solve different questions. Neithe",
       "image": "",
-      "published": "Wed, 13 May 2026 13:47:03 +0000",
+      "published": "Wed, 13 May 2026 19:14:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to simulate a game economy before launch",
-      "link": "https://dev.to/roberto_mangiafico_5ed1e7/how-to-simulate-a-game-economy-before-launch-4kp6",
-      "summary": "💡 This post was originally published on the Leap blog. Cross-posted here for the dev.to community.\n\n\n\n  \n  \n  Excel, Machinations, custom code, or an integrated engine: a comparison of approaches.\n\n\nYou've designed the e",
+      "title": "O(log n) & O(n log n): Search and Sort Masters",
+      "link": "https://dev.to/utku_catal/olog-n-on-log-n-search-and-sort-masters-3635",
+      "summary": "Searching and sorting power modern applications. O(log n) and O(n log n) represent optimal efficiency for these tasks. Knowing them is the difference between a search that returns instantly and one that crawls.\n\n\n  \n  \n ",
       "image": "",
-      "published": "Wed, 13 May 2026 13:44:25 +0000",
+      "published": "Wed, 13 May 2026 19:14:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Charge 10 sats per CrewAI tool call in one line",
-      "link": "https://dev.to/zekebuilds/charge-10-sats-per-crewai-tool-call-in-one-line-29fl",
-      "summary": "The bill problem nobody mentions\n\n\nYou wrote a CrewAI tool. It queries a market data API, or a search index, or a model endpoint that costs you real money per call. You published it. Six hours later your dashboard is on ",
-      "image": "",
-      "published": "Wed, 13 May 2026 13:43:03 +0000",
+      "title": "Page history and credits on a static blog",
+      "link": "https://dev.to/sourcier/page-history-and-credits-on-a-static-blog-1a6m",
+      "summary": "Original post: Page history and credits on a static blog\n\nSeries: Part of How this blog was built: documenting every decision that shaped this site.\n\n\nMost blog posts operate on an implicit contract: once published, they",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZmxvd2NoYXJ0IFRECiAgQVtNYXJrZG93biBmcm9udG1hdHRlclxuY29sbGVjdGlvbnMvcG9zdHMvPHNsdWc-L2luZGV4Lm1kXSAtLT4gQltDb250ZW50IHNjaGVtYVxuc3JjL2NvbnRlbnQuY29uZmlnLnRzXQogIEIgLS0-IENbImdldENvbGxlY3Rpb24oJ3Bvc3RzJykiXQogIEMgLS0-IERbTWFya2Rvd25Qb3N0TGF5b3V0LmFzdHJvXQogIEQgLS0-IEVbUGFnZUhpc3RvcnkuYXN0cm9cbnJlbmRlcnMgaGlzdG9yeSBlbnRyaWVzXQogIEQgLS0-IEZbUGFnZUNyZWRpdHMuYXN0cm9cbnJlbmRlcnMgY3JlZGl0IGVudHJpZXNdCiAgRSAtLT4gR1tSZW5kZXJlZCBwb3N0IHBhZ2VdCiAgRiAtLT4gRw",
+      "published": "Wed, 13 May 2026 19:13:56 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "rotateX()",
+      "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
+      "summary": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\n\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 13 May 2026 14:36:54 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "rotateY()",
+      "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
+      "summary": "The rotateY() function rotates an element around its vertical y-axis.\n\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 13 May 2026 14:33:58 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "rotateZ()",
+      "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
+      "summary": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \n\nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 13 May 2026 14:33:03 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "rotate()",
+      "link": "https://css-tricks.com/almanac/functions/r/rotate/",
+      "summary": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\n\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 13 May 2026 14:32:47 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -232,42 +268,6 @@
       "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\n\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on ",
       "image": "",
       "published": "Tue, 12 May 2026 13:59:35 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Using CSS corner-shape For Folded Corners",
-      "link": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
-      "summary": "I came across Kitty Giraudel’s folded corners technique. I’ve been on a bit of a corner-shape kick lately, so I figured that corner-shape could be used to create folded corners as well.\n\nUsing CSS corner-shape For Folded",
-      "image": "",
-      "published": "Fri, 08 May 2026 13:54:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "A Scrollytelling Gift for Mum on Mother’s Day 2026",
-      "link": "https://css-tricks.com/a-scrollytelling-gift-for-mum-on-mothers-day-2026/",
-      "summary": "I will explain how my mum inspired this 2026 Mother’s Day scrollytelling experiment — but also, how she inspired my approach to dev and life.\n\nA Scrollytelling Gift for Mum on Mother’s Day 2026 originally handwritten and",
-      "image": "",
-      "published": "Thu, 07 May 2026 14:22:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Google’s Prompt API",
-      "link": "https://css-tricks.com/googles-prompt-api/",
-      "summary": "Mat Marquis on Google pulling the web standards equivalent of U2 album marketing:\n\nAs a Chrome user, you’ll have&#160;received Gemini Nano in the form of a 4GB transfer&#160;recently; no permission asked or required. If ",
-      "image": "",
-      "published": "Wed, 06 May 2026 19:41:29 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
-      "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
-      "summary": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\n\nMaking Zigzag CSS Layo",
-      "image": "",
-      "published": "Wed, 06 May 2026 13:50:44 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
