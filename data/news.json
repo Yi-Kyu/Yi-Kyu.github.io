@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T19:24:33.515262Z",
+  "updated": "2026-05-13T01:48:24.313956Z",
   "articles": [
     {
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
@@ -47,6 +47,42 @@
       "category": "cybersecurity"
     },
     {
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors",
+      "image": "",
+      "published": "Tue, 12 May 2026 19:09:55 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and ",
+      "image": "",
+      "published": "Tue, 12 May 2026 16:17:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help preven",
+      "image": "",
+      "published": "Tue, 12 May 2026 15:46:04 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+      "image": "",
+      "published": "Tue, 12 May 2026 15:40:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft releases Windows 10 KB5087544 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
       "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
@@ -56,39 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "title": "Patch Tuesday, May 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on",
       "image": "",
-      "published": "Tue, 12 May 2026 14:23:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "image": "",
-      "published": "Tue, 12 May 2026 14:09:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
-      "image": "",
-      "published": "Tue, 12 May 2026 14:08:06 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-      "image": "",
-      "published": "Tue, 12 May 2026 13:07:01 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 12 May 2026 21:46:45 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign",
+      "title": "My graduation cap runs Rust",
+      "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 41\n# Comments: 5",
       "image": "",
-      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 66\n# Comments: 8",
-      "image": "",
-      "published": "Tue, 12 May 2026 18:12:28 +0000",
+      "published": "Wed, 13 May 2026 00:04:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "link": "https://github.com/cactus-compute/needle",
-      "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.We were always frustrated by the little e",
+      "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 12 May 2026 18:03:11 +0000",
+      "published": "Tue, 12 May 2026 23:46:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 16\n# Comments: 0",
+      "title": "Kraftwerk's radical 1976 track",
+      "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "summary": "Article URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem\nComments URL: https://news.ycombinator.com/item?id=48115823\nPoints: 57\n# Comments: 17",
       "image": "",
-      "published": "Tue, 12 May 2026 17:54:12 +0000",
+      "published": "Tue, 12 May 2026 23:13:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "link": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 26\n# Comments: 12",
+      "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
+      "link": "https://www.savethearchive.com/newsleaders/",
+      "summary": "Article URL: https://www.savethearchive.com/newsleaders/\nComments URL: https://news.ycombinator.com/item?id=48115807\nPoints: 110\n# Comments: 19",
       "image": "",
-      "published": "Tue, 12 May 2026 17:52:34 +0000",
+      "published": "Tue, 12 May 2026 23:11:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Reimagining the mouse pointer for the AI era",
-      "link": "https://deepmind.google/blog/ai-pointer/",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/\nComments URL: https://news.ycombinator.com/item?id=48111581\nPoints: 44\n# Comments: 33",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "summary": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab\nComments URL: https://news.ycombinator.com/item?id=48115127\nPoints: 140\n# Comments: 56",
       "image": "",
-      "published": "Tue, 12 May 2026 17:40:13 +0000",
+      "published": "Tue, 12 May 2026 21:55:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Built a Free Browser Games Website Because Games Became Too Complicated",
-      "link": "https://dev.to/thesahibsingh/i-built-a-free-browser-games-website-because-games-became-too-complicated-2cpg",
-      "summary": "I Built a Free Browser Games Website Because I Miss Simple Online Games\n\n\nMost online games today either ask you to install an app, create an account, watch too many ads, or deal with a heavy interface before you can eve",
+      "title": "[EN] Delegated Resource Identifier (DRI): a pattern for persistent references in microservices",
+      "link": "https://dev.to/edgardo_genini/en-delegated-resource-identifier-dri-a-pattern-for-persistent-references-in-microservices-2o52",
+      "summary": "Also available in Spanish\n\nIf you've ever stored a URL in a database and later regretted it, this is for you.\n\nIt's a familiar scenario: a service needs to keep a reference to a resource that lives in another service. Th",
       "image": "",
-      "published": "Tue, 12 May 2026 19:17:13 +0000",
+      "published": "Wed, 13 May 2026 01:39:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Ace These 5 Backend Concepts to Become a Senior Engineer",
-      "link": "https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd",
-      "summary": "Nowadays, AI can help ship almost every backend feature in a few minutes, but it does not replace the fundamentals you need to understand when your agent is moving in the wrong direction.\n\nCRUD endpoints, webhooks, exter",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fusliqeyje5l4a373q7bn.png",
-      "published": "Tue, 12 May 2026 19:11:26 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "S3 Bucket Regional Namespaces with CDK",
-      "link": "https://dev.to/aws/s3-bucket-regional-namespaces-with-cdk-3j86",
-      "summary": "So you learned about the new S3 bucket account regional namespace feature and you're thinking \"this is amazing, let me try in CDK.\"\n\nWell... This is where you'll learn that the L2 Bucket construct has not yet been update",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff6lb1dlx5m0o1pm2rod9.png",
-      "published": "Tue, 12 May 2026 19:07:20 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How We Built a Programmatic SEO Platform with 500+ Pages for Turkey's LED Lighting Industry",
-      "link": "https://dev.to/ismailgunaydin/how-we-built-a-programmatic-seo-platform-with-500-pages-for-turkeys-led-lighting-industry-5f9a",
-      "summary": "Most SEO content is written one page at a time. We needed 500+ pages covering 81 cities, 7 venue types, 6 product categories, 7 calculators, pricing data, case studies, and a full industry glossary — all with consistent ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmv44ykwce1vhoc1bhapu.jpeg",
-      "published": "Tue, 12 May 2026 19:05:29 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "GitHub Weekly: Security Scanning Hits Your IDE, Enterprise Migrations Go Live",
-      "link": "https://dev.to/htekdev/github-weekly-security-scanning-hits-your-ide-enterprise-migrations-go-live-18k0",
-      "summary": "Security Scanning Moves Left—All the Way to Your Editor\n\n\nGitHub shipped secret scanning via the GitHub MCP Server to general availability this week, and it's the kind of shift-left move I've been waiting for. You can no",
+      "title": "[ES] Delegated Resource Identifier (DRI): un patrón para referencias persistentes en microservicios",
+      "link": "https://dev.to/edgardo_genini/es-delegated-resource-identifier-dri-un-patron-para-referencias-persistentes-en-microservicios-big",
+      "summary": "También disponible en Inglés\n\nSi alguna vez guardaste una URL en una base de datos y después te arrepentiste, esto es para vos.\n\nEs un escenario conocido: un servicio necesita mantener una referencia a un recurso que viv",
       "image": "",
-      "published": "Tue, 12 May 2026 19:04:46 +0000",
+      "published": "Wed, 13 May 2026 01:36:45 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What if reactive effects are just pausable async tasks?",
+      "link": "https://dev.to/chhitt/what-if-reactive-effects-are-just-pausable-async-tasks-5gal",
+      "summary": "I've been thinking about reactive programming from the runtime layer up. The question: what's the minimum machinery you actually need to add on top of Rust's async/await to get a working reactive system?\n\nThree things Ru",
+      "image": "",
+      "published": "Wed, 13 May 2026 01:24:44 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I Built My Own Review Pipeline Because My Humans Kept Making Me Redo Things",
+      "link": "https://dev.to/edfife/i-built-my-own-review-pipeline-because-my-humans-kept-making-me-redo-things-3b0f",
+      "summary": "How an AI Agent Designed a File-Bus Architecture to Survive Its Own Users\n\n\nBy Antigravity (the AI) — with editorial supervision from Ed Fife, who will probably take all the credit\n\nSeries: Building a Verifiable, Self-Im",
+      "image": "",
+      "published": "Wed, 13 May 2026 01:11:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Armorer Guard: a 0.0247 ms local Rust scanner for AI-agent prompt injection",
+      "link": "https://dev.to/armorer_labs/armorer-guard-a-00247-ms-local-rust-scanner-for-ai-agent-prompt-injection-1fb3",
+      "summary": "Most AI-agent security failures do not start as cinematic jailbreaks. They start\nat ordinary runtime boundaries:\n\n\na retrieved web page gets treated as an instruction\na tool result asks the agent to leak private state\na ",
+      "image": "",
+      "published": "Wed, 13 May 2026 01:08:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
