@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T19:26:43.894606Z",
+  "updated": "2026-05-14T01:51:02.869980Z",
   "articles": [
     {
       "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+      "image": "",
+      "published": "Wed, 13 May 2026 18:23:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Iranian hackers targeted major South Korean electronics maker",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
+      "image": "",
+      "published": "Wed, 13 May 2026 17:59:33 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "image": "",
+      "published": "Wed, 13 May 2026 16:23:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
       "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. ",
@@ -61,33 +88,6 @@
       "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after ",
       "image": "",
       "published": "Wed, 13 May 2026 11:45:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 11:42:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 10:36:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 08:49:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-      "link": "https://www.tryardent.com/",
-      "summary": "Hey HN! We’re Vikram and Evan from Ardent (https://tryardent.com). We're building database sandboxes for you and your coding agents.In the last two years coding agents have gotten dramatically more capable at handling co",
+      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+      "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+      "summary": "Article URL: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758\nComments URL: https://news.ycombinator.com/item?id=48129789\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Wed, 13 May 2026 16:54:03 +0000",
+      "published": "Thu, 14 May 2026 00:54:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Haiku",
-      "link": "https://www.haiku-os.org",
-      "summary": "Article URL: https://www.haiku-os.org\nComments URL: https://news.ycombinator.com/item?id=48124002\nPoints: 131\n# Comments: 61",
+      "title": "Scorched Earth 2000 is back",
+      "link": "http://www.scorch2000.com/web/",
+      "summary": "Article URL: http://www.scorch2000.com/web/\nComments URL: https://news.ycombinator.com/item?id=48129694\nPoints: 13\n# Comments: 8",
       "image": "",
-      "published": "Wed, 13 May 2026 16:22:10 +0000",
+      "published": "Thu, 14 May 2026 00:41:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "S-100 Virtual Workbench",
-      "link": "https://grantmestrength.github.io/S100/",
-      "summary": "Article URL: https://grantmestrength.github.io/S100/\nComments URL: https://news.ycombinator.com/item?id=48123546\nPoints: 58\n# Comments: 13",
+      "title": "The Other Half of AI Safety",
+      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety\nComments URL: https://news.ycombinator.com/item?id=48129561\nPoints: 35\n# Comments: 27",
       "image": "",
-      "published": "Wed, 13 May 2026 15:52:00 +0000",
+      "published": "Thu, 14 May 2026 00:27:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kickstarter is forced to ban adult content by payment processors",
-      "link": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
-      "summary": "Article URL: https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648\nComments URL: https://news.ycombinator.com/item?id=48123198\nPoints: 260\n# Comments",
+      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "link": "https://news.ycombinator.com/item?id=48128003",
+      "summary": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore.This is a first. I never lost access",
       "image": "",
-      "published": "Wed, 13 May 2026 15:26:27 +0000",
+      "published": "Wed, 13 May 2026 21:40:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "link": "https://ossresistance.com/",
-      "summary": "Article URL: https://ossresistance.com/\nComments URL: https://news.ycombinator.com/item?id=48123015\nPoints: 198\n# Comments: 62",
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/\nComments URL: https://news.ycombinator.com/item?id=48127815\nPoints: 52\n# Comments: 30",
       "image": "",
-      "published": "Wed, 13 May 2026 15:13:37 +0000",
+      "published": "Wed, 13 May 2026 21:24:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I automated stop-loss monitoring with Claude Code and Telegram (no broker API needed)",
-      "link": "https://dev.to/tellmefrankie/how-i-automated-stop-loss-monitoring-with-claude-code-and-telegram-no-broker-api-needed-1nfh",
-      "summary": "The problem with manual stop-loss monitoring: you check your phone, the market moves while you're not watching, and you exit a position three points below where you meant to.\n\nHere's how I built an automated stop-loss mo",
+      "title": "How to use Vercel's Deepsec with ollama",
+      "link": "https://dev.to/vishal_veerareddy_9cdd17d/how-to-use-vercels-deepsec-with-ollama-20pa",
+      "summary": "How to run continuous, AI-powered security audits on your codebase — routed through a local proxy that picks the cheapest viable model for each file.\n\n\n\n\n\nMost security scanners feel like spam filters from 2005. They fla",
       "image": "",
-      "published": "Wed, 13 May 2026 19:17:25 +0000",
+      "published": "Thu, 14 May 2026 01:38:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building related-post recommendations for a Shopify blog — the algorithm, not the app",
-      "link": "https://dev.to/stackedboost/building-related-post-recommendations-for-a-shopify-blog-the-algorithm-not-the-app-o50",
-      "summary": "Shopify gives you product recommendations out of the box. There's a whole /recommendations/products.json endpoint, a recommendations.products Liquid drop, and an entire ML pipeline behind it. For blog posts? Nothing. Zer",
-      "image": "",
-      "published": "Wed, 13 May 2026 19:14:48 +0000",
+      "title": "I Used to Think System Design Diagrams Had to Look Cool. I Was Wrong",
+      "link": "https://dev.to/flik/i-used-to-think-system-design-diagrams-had-to-look-cool-i-was-wrong-4hd1",
+      "summary": "I used to have a major problem with system design. Every time I sat down to map out a new architecture, my first thought wasn’t actually about how the system should function. Instead, I’d ask myself: “What diagram should",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2A9WdZHHHxRfTPLVec9yoYDA.png",
+      "published": "Thu, 14 May 2026 01:33:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Two Retrieval Methods Are Better Than One: Evidence from 500 Clinical Queries",
-      "link": "https://dev.to/nomad-link-id/two-retrieval-methods-are-better-than-one-evidence-from-500-clinical-queries-4g41",
-      "summary": "When I set out to evaluate retrieval configurations for Portuguese clinical text, I expected one method to dominate. Instead, I found something more interesting: BM25 and dense retrieval solve different questions. Neithe",
+      "title": "AgentKit vs LangChain vs Direct HTTP — picking the right integration for paid agent APIs",
+      "link": "https://dev.to/quantoracle/agentkit-vs-langchain-vs-direct-http-picking-the-right-integration-for-paid-agent-apis-2582",
+      "summary": "When you're plugging an LLM agent into an external API, you have three reasonable patterns: hand-rolled HTTP, AgentKit's action provider model, or LangChain's tool calling. They all work. They produce identical outputs a",
       "image": "",
-      "published": "Wed, 13 May 2026 19:14:30 +0000",
+      "published": "Thu, 14 May 2026 01:24:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "O(log n) & O(n log n): Search and Sort Masters",
-      "link": "https://dev.to/utku_catal/olog-n-on-log-n-search-and-sort-masters-3635",
-      "summary": "Searching and sorting power modern applications. O(log n) and O(n log n) represent optimal efficiency for these tasks. Knowing them is the difference between a search that returns instantly and one that crawls.\n\n\n  \n  \n ",
-      "image": "",
-      "published": "Wed, 13 May 2026 19:14:17 +0000",
+      "title": "Data Analyst vs Data Scientist 2026: Skills, Salary, Hiring",
+      "link": "https://dev.to/gnana_6392e836fd500a957dc/data-analyst-vs-data-scientist-2026-skills-salary-hiring-bc2",
+      "summary": "Are Data Analyst and Data Scientist Still the Same Job in 2026?\n\n\nFrom the outside, the two roles look interchangeable: similar posting volumes, similar geographies, similar work-mode mix. From the inside, they are two d",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5gkdm799dfn8u1fmrp0.png",
+      "published": "Thu, 14 May 2026 01:18:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Page history and credits on a static blog",
-      "link": "https://dev.to/sourcier/page-history-and-credits-on-a-static-blog-1a6m",
-      "summary": "Original post: Page history and credits on a static blog\n\nSeries: Part of How this blog was built: documenting every decision that shaped this site.\n\n\nMost blog posts operate on an implicit contract: once published, they",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2FZmxvd2NoYXJ0IFRECiAgQVtNYXJrZG93biBmcm9udG1hdHRlclxuY29sbGVjdGlvbnMvcG9zdHMvPHNsdWc-L2luZGV4Lm1kXSAtLT4gQltDb250ZW50IHNjaGVtYVxuc3JjL2NvbnRlbnQuY29uZmlnLnRzXQogIEIgLS0-IENbImdldENvbGxlY3Rpb24oJ3Bvc3RzJykiXQogIEMgLS0-IERbTWFya2Rvd25Qb3N0TGF5b3V0LmFzdHJvXQogIEQgLS0-IEVbUGFnZUhpc3RvcnkuYXN0cm9cbnJlbmRlcnMgaGlzdG9yeSBlbnRyaWVzXQogIEQgLS0-IEZbUGFnZUNyZWRpdHMuYXN0cm9cbnJlbmRlcnMgY3JlZGl0IGVudHJpZXNdCiAgRSAtLT4gR1tSZW5kZXJlZCBwb3N0IHBhZ2VdCiAgRiAtLT4gRw",
-      "published": "Wed, 13 May 2026 19:13:56 +0000",
+      "title": "🌍 GeoHazard AI — Building a Multi-Agent Geological & Climate Risk System with Google ADK",
+      "link": "https://dev.to/muhammad_yasin_f39f26989f/geohazard-ai-building-a-multi-agent-geological-climate-risk-system-with-google-adk-2hld",
+      "summary": "This post is my submission for \"DEV Education Track: Build Multi-Agent Systems with ADK\" (https://dev.to/deved/build-multi-agent-systems).\n\n\n\n\n🌍 GeoHazard AI — Building a Multi-Agent Geological &amp; Climate Risk System ",
+      "image": "",
+      "published": "Thu, 14 May 2026 01:17:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
