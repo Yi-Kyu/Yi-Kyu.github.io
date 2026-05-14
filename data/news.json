@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-14T13:22:10.136863Z",
+  "updated": "2026-05-14T19:24:59.920544Z",
   "articles": [
+    {
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks.\nThe vulnerability, tracked as CVE-2026-20182, carries ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg",
+      "published": "Thu, 14 May 2026 23:15:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions of the npm pa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg",
+      "published": "Thu, 14 May 2026 22:52:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "summary": "Everything is still on fire.\nThis week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Ha",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg",
+      "published": "Thu, 14 May 2026 21:37:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine.\nActive since at least 2016, Ghostwriter has been linked to both cyber e",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEld5BcqD9rYWVjx7o_XlV5pN_9djvilow0iIYP-LlFEzGReX8fTPZ0gKi9zMGVLTT8qddHu5FyBMaZpQroEzYFpsoPWf96hD7JeTdqsROemmavXW2pDxNwc9kjvpJdhahmXA5Ng88tN1lyO5rqzC3K6JNwPFPWBo7OzSsaiQIN8JJsXvMrGhewMfzpouF/s1600/uk.jpg",
+      "published": "Thu, 14 May 2026 19:30:37 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg",
-      "published": "Thu, 14 May 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as",
+      "image": "",
+      "published": "Thu, 14 May 2026 15:07:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Tr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg",
-      "published": "Thu, 14 May 2026 14:55:50 +0530",
-      "source": "The Hacker News",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 14:53:50 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg",
-      "published": "Thu, 14 May 2026 12:36:15 +0530",
-      "source": "The Hacker News",
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 11:43:41 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif",
-      "published": "Thu, 14 May 2026 11:30:09 +0530",
-      "source": "The Hacker News",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 11:21:32 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
       "image": "",
       "published": "Thu, 14 May 2026 08:12:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 06:03:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 04:55:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-      "image": "",
-      "published": "Wed, 13 May 2026 18:23:31 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New York, California pension leaders oppose 'extreme' SpaceX control structure",
-      "link": "https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/",
-      "summary": "Article URL: https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/\nComments URL: https://news.ycombinator.com/item?id=48134389\nPoints: 29\n# Comme",
+      "title": "The Power of a Free Popsicle (2018)",
+      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "summary": "Article URL: https://www.gsb.stanford.edu/insights/power-free-popsicle\nComments URL: https://news.ycombinator.com/item?id=48139316\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Thu, 14 May 2026 12:21:55 +0000",
+      "published": "Thu, 14 May 2026 18:33:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Siri for Families Apple Will Never Build",
-      "link": "https://taoofmac.com/space/blog/2026/05/14/1220",
-      "summary": "Article URL: https://taoofmac.com/space/blog/2026/05/14/1220\nComments URL: https://news.ycombinator.com/item?id=48134084\nPoints: 22\n# Comments: 5",
+      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
+      "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
+      "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/\nComments URL: https://news.ycombinator.com/item?id=48139220\nPoints: 13\n# Comments: 0",
       "image": "",
-      "published": "Thu, 14 May 2026 11:47:47 +0000",
+      "published": "Thu, 14 May 2026 18:25:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Myths about /dev/urandom (2014)",
-      "link": "https://www.2uo.de/myths-about-urandom/",
-      "summary": "Article URL: https://www.2uo.de/myths-about-urandom/\nComments URL: https://news.ycombinator.com/item?id=48133908\nPoints: 17\n# Comments: 17",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "summary": "Article URL: https://blog.calif.io/p/first-public-kernel-memory-corruption\nComments URL: https://news.ycombinator.com/item?id=48139219\nPoints: 22\n# Comments: 4",
       "image": "",
-      "published": "Thu, 14 May 2026 11:26:22 +0000",
+      "published": "Thu, 14 May 2026 18:25:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Running the second public ODoH relay",
-      "link": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "summary": "Every privacy-focused DNS service requires an account: NextDNS, Cloudflare for Families, Apple's iCloud Private Relay (paid, iOS-only). The protocol that doesn’t require one - ODoH - had basically one well-known public r",
+      "title": "God Damn AI is making me dumb",
+      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 144\n# Comments: 86",
       "image": "",
-      "published": "Thu, 14 May 2026 10:44:50 +0000",
+      "published": "Thu, 14 May 2026 18:19:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pipes, Forks, and Zombies",
-      "link": "https://cs61.seas.harvard.edu/wiki/2017/Shell3/",
-      "summary": "Article URL: https://cs61.seas.harvard.edu/wiki/2017/Shell3/\nComments URL: https://news.ycombinator.com/item?id=48133493\nPoints: 3\n# Comments: 0",
+      "title": "You Don't Align an AI, You Align with It",
+      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
+      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it\nComments URL: https://news.ycombinator.com/item?id=48139144\nPoints: 11\n# Comments: 2",
       "image": "",
-      "published": "Thu, 14 May 2026 10:37:54 +0000",
+      "published": "Thu, 14 May 2026 18:19:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Control Plane Problem in VMware Alternatives",
-      "link": "https://dev.to/ntctech/the-control-plane-problem-in-vmware-alternatives-eh5",
-      "summary": "Most VMware migration plans inventory VMs, clusters, storage, and licensing. Very few inventory the operational assumptions attached to vCenter itself. The result is predictable: the hypervisor migration succeeds in stag",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1m6xlmikl6y82g9y62fa.jpg",
-      "published": "Thu, 14 May 2026 13:03:28 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Two False-Positive Fixes, Same Root Cause",
-      "link": "https://dev.to/jeremy_longshore/two-false-positive-fixes-same-root-cause-3387",
-      "summary": "Two separate monitoring failures on the same day, same root cause. Both fixed by answering a single question: \"Am I testing for health, or am I testing for perfect conditions?\" The distinction matters because perfect con",
+      "title": "From 3 Posts/Week to Daily Multi-Platform Content: Scaling Without Growing Your Team — Part 5 of 5",
+      "link": "https://dev.to/guayoyo_tech/from-3-postsweek-to-daily-multi-platform-content-scaling-without-growing-your-team-2e7i",
+      "summary": "We've reached the end of the series. You have an agent that generates on-brand copy. A visual pipeline that produces consistent images. An approval circuit via WhatsApp. All running on your infrastructure.\n\nOne final lin",
       "image": "",
-      "published": "Thu, 14 May 2026 13:00:27 +0000",
+      "published": "Thu, 14 May 2026 19:05:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Streamlining Deployment: How GitHub Releases Elevate Your Engineering KPIs and Development OKRs",
-      "link": "https://dev.to/devactivity/streamlining-deployment-how-github-releases-elevate-your-engineering-kpis-and-development-okrs-2p9p",
-      "summary": "In the fast-paced world of software development, efficient and well-documented deployment processes are not just a nice-to-have; they are crucial for team productivity, successful rollbacks, and ultimately, achieving you",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D16H1EzyPLxUjXVENsou-WHAHcY1wSjSN6%26sz%3Dw751",
-      "published": "Thu, 14 May 2026 13:00:18 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "The GitHub Org Owner Dilemma: How to Prevent and Recover from Losing Admin Access",
-      "link": "https://dev.to/devactivity/the-github-org-owner-dilemma-how-to-prevent-and-recover-from-losing-admin-access-189k",
-      "summary": "GitHub organizations are the backbone for countless collaborative development, academic, and research projects. They provide the essential structure for managing repositories, teams, and access permissions. Yet, a critic",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D14O7CjyrFoDR0OfTrB7xx7wcC4xfCS-CI%26sz%3Dw751",
-      "published": "Thu, 14 May 2026 13:00:17 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Claude Code vs ChatGPT Codex: Two Official Agents, One Choice You Don't Have to Make",
-      "link": "https://dev.to/kenimo49/claude-code-vs-chatgpt-codex-two-official-agents-one-choice-you-dont-have-to-make-3fh4",
-      "summary": "For a long time my AI coding workflow was a junk drawer. Aider, Continue, OpenClaw, three different VS Code plugins, an .envrc with API keys for providers I'd forgotten I had. Then on April 4, 2026, Anthropic banned thir",
+      "title": "De 3 Posts/Semana a Contenido Diario Multi-Plataforma: Escalando Sin Crecer el Equipo — Parte 5 de 5",
+      "link": "https://dev.to/guayoyo_tech/de-3-postssemana-a-contenido-diario-multi-plataforma-escalando-sin-crecer-el-equipo-4knf",
+      "summary": "Llegamos al final de la serie. Tienes un agente que genera copy on-brand. Un pipeline visual que produce imágenes consistentes. Un circuito de aprobación vía WhatsApp. Todo corriendo en tu infraestructura.\n\nFalta un últi",
       "image": "",
-      "published": "Thu, 14 May 2026 13:00:00 +0000",
+      "published": "Thu, 14 May 2026 19:04:40 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Fn::GetStackOutput: How CloudFormation and CDK Solved Cross-Region References Together",
+      "link": "https://dev.to/pahud/fngetstackoutput-how-cloudformation-and-cdk-solved-cross-region-references-together-9f8",
+      "summary": "Fn::GetStackOutput: How CloudFormation and CDK Solved Cross-Region References Together\n\n\n\n  \n  \n  One String, Two Regions\n\n\nYour ACM certificate must live in us-east-1. Your app runs in ap-northeast-1. You need the certi",
+      "image": "",
+      "published": "Thu, 14 May 2026 19:04:11 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "You Approve, AI Publishes: Human Approval Circuit via WhatsApp — Part 4 of 5",
+      "link": "https://dev.to/guayoyo_tech/you-approve-ai-publishes-human-approval-circuit-via-whatsapp-5cpm",
+      "summary": "Your pipeline already generates copy and images. The next step is the most important decision: publish or not?\n\nThe \"human-in-the-loop\" pattern is what separates an AI toy from a real production tool. The human decides. ",
+      "image": "",
+      "published": "Thu, 14 May 2026 19:02:23 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Tú Apruebas, la IA Publica: Circuito de Aprobación Humana vía WhatsApp — Parte 4 de 5",
+      "link": "https://dev.to/guayoyo_tech/tu-apruebas-la-ia-publica-circuito-de-aprobacion-humana-via-whatsapp-l95",
+      "summary": "Tu pipeline ya genera copy y genera imágenes. El siguiente paso es la decisión más importante: ¿publicas o no?\n\nEl patrón \"human-in-the-loop\" es lo que separa un juguete de IA de una herramienta de producción real. El hu",
+      "image": "",
+      "published": "Thu, 14 May 2026 19:02:18 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Computing and Displaying Discounted Prices in CSS",
+      "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
+      "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\n\nComputing and Displaying Discounted P",
+      "image": "",
+      "published": "Thu, 14 May 2026 14:05:01 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\n\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Wed, 13 May 2026 14:32:47 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-      "link": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-      "summary": "The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and only that.\n\nSoon We Can Finally Banish JavaScript to the ShadowRealm originally handwritten and published with love on ",
-      "image": "",
-      "published": "Tue, 12 May 2026 13:59:35 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
