@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-14T01:51:02.869980Z",
+  "updated": "2026-05-14T08:21:42.064526Z",
   "articles": [
+    {
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg",
+      "published": "Thu, 14 May 2026 12:36:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif",
+      "published": "Thu, 14 May 2026 11:30:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
       "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg",
-      "published": "Wed, 13 May 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Criti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg",
-      "published": "Wed, 13 May 2026 16:06:10 +0530",
-      "source": "The Hacker News",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 03:34:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. ",
       "image": "",
       "published": "Wed, 13 May 2026 12:37:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after ",
-      "image": "",
-      "published": "Wed, 13 May 2026 11:45:56 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-      "link": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-      "summary": "Article URL: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758\nComments URL: https://news.ycombinator.com/item?id=48129789\nPoints: 7\n# Comments: 0",
+      "title": "What the Hell Was Going on with Cigarette Ads in the 70s?",
+      "link": "https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/",
+      "summary": "Article URL: https://tohippo.com/what-the-hell-was-going-on-with-cigarette-ads-in-the-70s/\nComments URL: https://news.ycombinator.com/item?id=48132159\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Thu, 14 May 2026 00:54:18 +0000",
+      "published": "Thu, 14 May 2026 07:25:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Scorched Earth 2000 is back",
-      "link": "http://www.scorch2000.com/web/",
-      "summary": "Article URL: http://www.scorch2000.com/web/\nComments URL: https://news.ycombinator.com/item?id=48129694\nPoints: 13\n# Comments: 8",
+      "title": "Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-for-small-business\nComments URL: https://news.ycombinator.com/item?id=48130950\nPoints: 194\n# Comments: 120",
       "image": "",
-      "published": "Thu, 14 May 2026 00:41:29 +0000",
+      "published": "Thu, 14 May 2026 03:59:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Other Half of AI Safety",
-      "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "summary": "Article URL: https://personalaisafety.com/p/the-other-half-of-ai-safety\nComments URL: https://news.ycombinator.com/item?id=48129561\nPoints: 35\n# Comments: 27",
+      "title": "Arena AI Model ELO History",
+      "link": "https://mayerwin.github.io/AI-Arena-History/",
+      "summary": "Hi HN,I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feel",
       "image": "",
-      "published": "Thu, 14 May 2026 00:27:20 +0000",
+      "published": "Thu, 14 May 2026 03:19:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-      "link": "https://news.ycombinator.com/item?id=48128003",
-      "summary": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore.This is a first. I never lost access",
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "link": "https://github.com/DrCatHicks/learning-opportunities",
+      "summary": "Article URL: https://github.com/DrCatHicks/learning-opportunities\nComments URL: https://news.ycombinator.com/item?id=48130679\nPoints: 30\n# Comments: 5",
       "image": "",
-      "published": "Wed, 13 May 2026 21:40:18 +0000",
+      "published": "Thu, 14 May 2026 03:13:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "summary": "Article URL: https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/\nComments URL: https://news.ycombinator.com/item?id=48127815\nPoints: 52\n# Comments: 30",
+      "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdo",
       "image": "",
-      "published": "Wed, 13 May 2026 21:24:14 +0000",
+      "published": "Thu, 14 May 2026 02:45:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to use Vercel's Deepsec with ollama",
-      "link": "https://dev.to/vishal_veerareddy_9cdd17d/how-to-use-vercels-deepsec-with-ollama-20pa",
-      "summary": "How to run continuous, AI-powered security audits on your codebase — routed through a local proxy that picks the cheapest viable model for each file.\n\n\n\n\n\nMost security scanners feel like spam filters from 2005. They fla",
+      "title": "Arena ELO History: el gráfico que expone cómo se degradan los LLM",
+      "link": "https://dev.to/lu1tr0n/arena-elo-history-el-grafico-que-expone-como-se-degradan-los-llm-27ll",
+      "summary": "Un investigador independiente acaba de publicar una herramienta que expone uno de los patrones peor documentados de la industria de la inteligencia artificial: los modelos de lenguaje grandes se degradan después de su la",
       "image": "",
-      "published": "Thu, 14 May 2026 01:38:46 +0000",
+      "published": "Thu, 14 May 2026 08:19:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Used to Think System Design Diagrams Had to Look Cool. I Was Wrong",
-      "link": "https://dev.to/flik/i-used-to-think-system-design-diagrams-had-to-look-cool-i-was-wrong-4hd1",
-      "summary": "I used to have a major problem with system design. Every time I sat down to map out a new architecture, my first thought wasn’t actually about how the system should function. Instead, I’d ask myself: “What diagram should",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1024%2F1%2A9WdZHHHxRfTPLVec9yoYDA.png",
-      "published": "Thu, 14 May 2026 01:33:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "AgentKit vs LangChain vs Direct HTTP — picking the right integration for paid agent APIs",
-      "link": "https://dev.to/quantoracle/agentkit-vs-langchain-vs-direct-http-picking-the-right-integration-for-paid-agent-apis-2582",
-      "summary": "When you're plugging an LLM agent into an external API, you have three reasonable patterns: hand-rolled HTTP, AgentKit's action provider model, or LangChain's tool calling. They all work. They produce identical outputs a",
+      "title": "AGEF explained: a portable evidence format for AI agent sessions",
+      "link": "https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-40fn",
+      "summary": "If you ship AI-assisted code in a regulated codebase and somebody asks \"show me what the agent did\", you have about a week before that question turns into a finding. The data exists somewhere. It is not in a single shape",
       "image": "",
-      "published": "Thu, 14 May 2026 01:24:30 +0000",
+      "published": "Thu, 14 May 2026 08:19:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Data Analyst vs Data Scientist 2026: Skills, Salary, Hiring",
-      "link": "https://dev.to/gnana_6392e836fd500a957dc/data-analyst-vs-data-scientist-2026-skills-salary-hiring-bc2",
-      "summary": "Are Data Analyst and Data Scientist Still the Same Job in 2026?\n\n\nFrom the outside, the two roles look interchangeable: similar posting volumes, similar geographies, similar work-mode mix. From the inside, they are two d",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5gkdm799dfn8u1fmrp0.png",
-      "published": "Thu, 14 May 2026 01:18:58 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "🌍 GeoHazard AI — Building a Multi-Agent Geological & Climate Risk System with Google ADK",
-      "link": "https://dev.to/muhammad_yasin_f39f26989f/geohazard-ai-building-a-multi-agent-geological-climate-risk-system-with-google-adk-2hld",
-      "summary": "This post is my submission for \"DEV Education Track: Build Multi-Agent Systems with ADK\" (https://dev.to/deved/build-multi-agent-systems).\n\n\n\n\n🌍 GeoHazard AI — Building a Multi-Agent Geological &amp; Climate Risk System ",
+      "title": "The trust pipeline: three commands to run before merging an AI-assisted change",
+      "link": "https://dev.to/radotsvetkov/the-trust-pipeline-three-commands-to-run-before-merging-an-ai-assisted-change-1ple",
+      "summary": "The most common failure mode I see when teams adopt AI coding agents is not a bad diff. It is a good diff that no one can defend. The agent ran. The session closed. Three days later, somebody asks how the change came to ",
       "image": "",
-      "published": "Thu, 14 May 2026 01:17:19 +0000",
+      "published": "Thu, 14 May 2026 08:19:27 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "MCP governance for an AI coding agent without breaking the audit chain",
+      "link": "https://dev.to/radotsvetkov/mcp-governance-for-an-ai-coding-agent-without-breaking-the-audit-chain-okp",
+      "summary": "The Model Context Protocol gave AI agents a clean way to reach into systems. In a year it has become the default tool surface for serious agents. That is mostly good news. The mostly is the operative word.\n\nWithout care,",
+      "image": "",
+      "published": "Thu, 14 May 2026 08:19:15 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Replay AI coding sessions deterministically: the divergence detector for your repo",
+      "link": "https://dev.to/radotsvetkov/replay-ai-coding-sessions-deterministically-the-divergence-detector-for-your-repo-19lf",
+      "summary": "There is a moment in every AI coding workflow where you wish you could roll the tape back. The agent did something on Tuesday. By Thursday the model has shifted. The tool surface has shifted. You cannot reproduce the iss",
+      "image": "",
+      "published": "Thu, 14 May 2026 08:18:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
