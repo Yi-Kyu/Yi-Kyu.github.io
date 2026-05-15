@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-15T08:33:42.211327Z",
+  "updated": "2026-05-15T13:21:12.281431Z",
   "articles": [
+    {
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. Po",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg",
+      "published": "Fri, 15 May 2026 16:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual p",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg",
+      "published": "Fri, 15 May 2026 16:24:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
       "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc.\nAccording to Socket and StepSecurity, three different versions of the npm pa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj2m9-HHmDEDzKIsalsJ_HJcwcUsIFajvcpTLP9QMyqS9F_JroTH7lXeOGZFuO6j6F-RzbIo1kBIQ0udSFQGzjN2hxO8ZfyFeHM5557BPI1sjiJ7cEMJJE62t11e07Wt1CsmAntpLHSM0XbnQDvVYNBfNdAOsob9kN6G6-mQjKX68fEE1nzy_Bn4TvxyK/s1600/node.jpg",
-      "published": "Thu, 14 May 2026 22:52:43 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+      "image": "",
+      "published": "Fri, 15 May 2026 08:29:48 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "summary": "Everything is still on fire.\nThis week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Ha",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1600/threatsday-2.jpg",
-      "published": "Thu, 14 May 2026 21:37:46 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook o",
+      "image": "",
+      "published": "Fri, 15 May 2026 05:40:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on co",
       "image": "",
       "published": "Thu, 14 May 2026 16:09:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI confirms security breach in TanStack supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as",
-      "image": "",
-      "published": "Thu, 14 May 2026 15:07:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 14:53:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Ask HN: How to be SOC2 Type 2 compliant as a solo-entreprenuer?",
-      "link": "https://news.ycombinator.com/item?id=48145524",
-      "summary": "Is it possible? Do you know success cases w/o spending 20+k $ on auditors? My customers bombards me with question about certification of my app Perfect Wiki, I need help with finding the best way to show them that my app",
+      "title": "Cursing the government does not fix potholes. Spray-painting them does",
+      "link": "https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway",
+      "summary": "Article URL: https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway\nComments URL: https://news.ycombinator.com/item?id=48147988\nPoints: 9\n# Comments: 6",
       "image": "",
-      "published": "Fri, 15 May 2026 07:18:23 +0000",
+      "published": "Fri, 15 May 2026 12:54:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Claude Code works in large codebases",
-      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "summary": "Article URL: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start\nComments URL: https://news.ycombinator.com/item?id=48144494\nPoints: 158\n# Comments: 109",
+      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "link": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+      "summary": "Article URL: https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/\nComments URL: https://news.ycombinator.com/item?id=48147945\nPoints: 26\n# Comments:",
       "image": "",
-      "published": "Fri, 15 May 2026 04:15:31 +0000",
+      "published": "Fri, 15 May 2026 12:49:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Solar-based sleep patterns compared to modern norms",
-      "link": "https://dylan.gr/1775146616",
-      "summary": "Article URL: https://dylan.gr/1775146616\nComments URL: https://news.ycombinator.com/item?id=48144490\nPoints: 39\n# Comments: 24",
+      "title": "Bitwarden scrubs 'Always free' and 'Inclusion' values from its site",
+      "link": "https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down",
+      "summary": "Article URL: https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down\nComments URL: https://news.ycombinator.com/item?id=48147637\nPoints: 19\n# Co",
       "image": "",
-      "published": "Fri, 15 May 2026 04:15:24 +0000",
+      "published": "Fri, 15 May 2026 12:11:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Coldkey – Post-quantum age key generation and paper backup tool",
-      "link": "https://github.com/pike00/coldkey",
-      "summary": "Article URL: https://github.com/pike00/coldkey\nComments URL: https://news.ycombinator.com/item?id=48144410\nPoints: 16\n# Comments: 5",
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "link": "https://radicle.dev/",
+      "summary": "Article URL: https://radicle.dev/\nComments URL: https://news.ycombinator.com/item?id=48147603\nPoints: 30\n# Comments: 3",
       "image": "",
-      "published": "Fri, 15 May 2026 04:02:09 +0000",
+      "published": "Fri, 15 May 2026 12:07:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "summary": "Article URL: https://www.tristandc.com/government/news-2026-05-11-airdrop.php\nComments URL: https://news.ycombinator.com/item?id=48144380\nPoints: 94\n# Comments: 16",
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "link": "https://signoz.io/careers",
+      "summary": "Article URL: https://signoz.io/careers\nComments URL: https://news.ycombinator.com/item?id=48147533\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Fri, 15 May 2026 03:56:14 +0000",
+      "published": "Fri, 15 May 2026 12:00:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenClaw 2026.5.14 Beta 1: Codex Migration and Agent Control",
-      "link": "https://dev.to/hex_agent/openclaw-2026514-beta-1-codex-migration-and-agent-control-290l",
-      "summary": "OpenClaw 2026.5.14 beta 1 is not a tiny follow-up to the 2026.5.12 stable release. It feels like the next hardening wave after that release: less bundled runtime weight, cleaner Codex migration paths, better agent steeri",
-      "image": "",
-      "published": "Fri, 15 May 2026 08:32:33 +0000",
+      "title": "Gemini 3.1 Flash-Lite is now generally available on Gemini Enterprise Agent Platform",
+      "link": "https://dev.to/googleai/gemini-31-flash-lite-is-now-generally-available-on-gemini-enterprise-agent-platform-2pcg",
+      "summary": "Today, we're thrilled to announce that Gemini 3.1 Flash-Lite, our fastest and most cost-efficient Gemini 3 series model yet, is now generally available.\n\nDesigned for ultra-low latency, high-volume tasks, and unmatched c",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zyq0i2bx6py36dsf6oz.jpg",
+      "published": "Fri, 15 May 2026 13:13:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building ResuMatch AI with TDD and AI-Assisted Development (Claude)",
-      "link": "https://dev.to/mafiqqq/building-resumatch-ai-with-tdd-and-ai-assisted-development-claude-24hd",
-      "summary": "🎯 Why I Started Experimenting with This\n\n\nWhile building ResuMatch AI, I ran into a problem I didn’t expect:\n\nAI could generate code extremely fast… but it could also confidently generate the wrong implementation.\n\nAt fi",
+      "title": "Built an AI Log Analysis Tool — And Its \"Analysis History\" Feature Is Something I Use Every Day",
+      "link": "https://dev.to/halokid/built-an-ai-log-analysis-tool-and-its-analysis-history-feature-is-something-i-use-every-day-5985",
+      "summary": "🔍 I Built an AI Log Analysis Tool — And Its \"Analysis History\" Feature Is Something I Use Every Day\n\n\n\nAuthor: Pangulab Team\nTool: https://www.pangulab.com\n\n\n\n\n\n\n  \n  \n  Intro\n\n\nLast month I shared an AI-powered log anal",
       "image": "",
-      "published": "Fri, 15 May 2026 08:29:10 +0000",
+      "published": "Fri, 15 May 2026 13:03:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hydrogen MCP UCP Migration: Production Cutover Before June 15",
-      "link": "https://dev.to/no7software-uk/hydrogen-mcp-ucp-migration-production-cutover-before-june-15-i9b",
-      "summary": "Shopify flipped the Storefront Catalog MCP server to the Universal Commerce Protocol on April 22, 2026, per the official Shopify developer changelog. The old /api/mcp endpoint and the previous search_shop_catalog and loo",
+      "title": "Why AI-Generated Content Falls Flat (And How to Actually Use AI)",
+      "link": "https://dev.to/binky_6ad02e76335bf0ce709/why-ai-generated-content-falls-flat-and-how-to-actually-use-ai-29bf",
+      "summary": "Why AI-Generated Content Falls Flat (And How to Actually Use AI)\n\n\nAI can generate 100 articles a day, but readers will reject 99 of them the moment they sense something's off. One blogger told me she went from a 4.2% em",
       "image": "",
-      "published": "Fri, 15 May 2026 08:28:14 +0000",
+      "published": "Fri, 15 May 2026 13:01:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Mobile Visual Regression Testing in 2026: Why Vision AI Catches What Script-Based Tools Miss",
-      "link": "https://dev.to/drizzdev/mobile-visual-regression-testing-in-2026-why-vision-ai-catches-what-script-based-tools-miss-2bfm",
-      "summary": "Your functional tests pass. Your unit tests pass. Your E2E suite is green.\n\nAnd then a user reports that the checkout button is invisible on the Galaxy S24. The login form overlaps the keyboard on iPhone 15. The navigati",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhd91tj8pro11ugk4xh20.png",
-      "published": "Fri, 15 May 2026 08:26:13 +0000",
+      "title": "Predictable Capacity Pricing: A New Model for Agentic AI & Measuring Developer Productivity",
+      "link": "https://dev.to/devactivity/predictable-capacity-pricing-a-new-model-for-agentic-ai-measuring-developer-productivity-4fh8",
+      "summary": "The Evolution of AI Development Demands a New Pricing Paradigm\n\n\nAI-assisted development is no longer just about lightweight code completions or quick chat interactions. We're rapidly moving into an era of sophisticated,",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdrive.google.com%2Fthumbnail%3Fid%3D1al_Ws8kndauoiEOVMnJU3p-lZXaY3l0c%26sz%3Dw751",
+      "published": "Fri, 15 May 2026 13:00:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🚀 Truenex Memory v0.1.0-alpha.1 – Your local, searchable knowledge vault 🧠📦",
-      "link": "https://dev.to/marco_mannone_78daaf7e6f9/truenex-memory-v010-alpha1-your-local-searchable-knowledge-vault-pal",
-      "summary": "🚀 Truenex Memory v0.1.0‑alpha.1 – Your local, searchable knowledge vault 🧠📦\n\n\nIf you’ve ever lost track of where a config was saved, a file lived in two projects, or you just want a single source of truth for everything ",
+      "title": "The JavaScript Event Loop: Why Your Code Doesn't Do What You Think It Does",
+      "link": "https://dev.to/jps27cse/the-javascript-event-loop-why-your-code-doesnt-do-what-you-think-it-does-ib7",
+      "summary": "JavaScript is single-threaded. One thread. One call stack. One thing at a time.\n\nAnd yet — you've written code that fetches data from an API while animating a loading spinner while handling button clicks while running a ",
       "image": "",
-      "published": "Fri, 15 May 2026 08:21:31 +0000",
+      "published": "Fri, 15 May 2026 13:00:03 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+      "link": "https://css-tricks.com/whats-important-11/",
+      "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\n\nWhat’s !important #11: 3D Voxel Scenes, Flyi",
+      "image": "",
+      "published": "Fri, 15 May 2026 13:16:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \n\nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Wed, 13 May 2026 14:33:03 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "rotate()",
-      "link": "https://css-tricks.com/almanac/functions/r/rotate/",
-      "summary": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\n\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 13 May 2026 14:32:47 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
