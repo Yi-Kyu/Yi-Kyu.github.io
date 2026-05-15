@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T19:24:59.920544Z",
+  "updated": "2026-05-15T01:49:12.026845Z",
   "articles": [
     {
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 18:50:36 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
+      "image": "",
+      "published": "Thu, 14 May 2026 17:07:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on co",
+      "image": "",
+      "published": "Thu, 14 May 2026 16:09:56 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "OpenAI confirms security breach in TanStack supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
       "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as",
@@ -61,33 +88,6 @@
       "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
       "image": "",
       "published": "Thu, 14 May 2026 14:53:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 11:43:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 11:21:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
-      "image": "",
-      "published": "Thu, 14 May 2026 08:12:40 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Power of a Free Popsicle (2018)",
-      "link": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "summary": "Article URL: https://www.gsb.stanford.edu/insights/power-free-popsicle\nComments URL: https://news.ycombinator.com/item?id=48139316\nPoints: 11\n# Comments: 0",
+      "title": "Elevated error rates on Opus 4.7",
+      "link": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "summary": "Article URL: https://status.claude.com/incidents/8z7l5zcy0v3b\nComments URL: https://news.ycombinator.com/item?id=48142964\nPoints: 35\n# Comments: 28",
       "image": "",
-      "published": "Thu, 14 May 2026 18:33:47 +0000",
+      "published": "Fri, 15 May 2026 00:22:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Understanding the Linux Kernel: The Linux Kernel Startup",
-      "link": "https://internals-for-interns.com/posts/linux-kernel-startup/",
-      "summary": "Article URL: https://internals-for-interns.com/posts/linux-kernel-startup/\nComments URL: https://news.ycombinator.com/item?id=48139220\nPoints: 13\n# Comments: 0",
+      "title": "Have a Coherent AI Policy",
+      "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "summary": "Article URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/\nComments URL: https://news.ycombinator.com/item?id=48142553\nPoints: 31\n# Comments: 20",
       "image": "",
-      "published": "Thu, 14 May 2026 18:25:10 +0000",
+      "published": "Thu, 14 May 2026 23:24:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "summary": "Article URL: https://blog.calif.io/p/first-public-kernel-memory-corruption\nComments URL: https://news.ycombinator.com/item?id=48139219\nPoints: 22\n# Comments: 4",
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\nComments URL: https://news.ycombinator.com/item?id=48142193\nPoints: 80\n# Comments: 28",
       "image": "",
-      "published": "Thu, 14 May 2026 18:25:09 +0000",
+      "published": "Thu, 14 May 2026 22:38:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "God Damn AI is making me dumb",
-      "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-      "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 144\n# Comments: 86",
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\nComments URL: https://news.ycombinator.com/item?id=48142188\nPoints: 93\n# Comments:",
       "image": "",
-      "published": "Thu, 14 May 2026 18:19:28 +0000",
+      "published": "Thu, 14 May 2026 22:37:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "You Don't Align an AI, You Align with It",
-      "link": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it\nComments URL: https://news.ycombinator.com/item?id=48139144\nPoints: 11\n# Comments: 2",
+      "title": "A few words on DS4",
+      "link": "https://antirez.com/news/165",
+      "summary": "Article URL: https://antirez.com/news/165\nComments URL: https://news.ycombinator.com/item?id=48142108\nPoints: 133\n# Comments: 42",
       "image": "",
-      "published": "Thu, 14 May 2026 18:19:13 +0000",
+      "published": "Thu, 14 May 2026 22:29:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From 3 Posts/Week to Daily Multi-Platform Content: Scaling Without Growing Your Team — Part 5 of 5",
-      "link": "https://dev.to/guayoyo_tech/from-3-postsweek-to-daily-multi-platform-content-scaling-without-growing-your-team-2e7i",
-      "summary": "We've reached the end of the series. You have an agent that generates on-brand copy. A visual pipeline that produces consistent images. An approval circuit via WhatsApp. All running on your infrastructure.\n\nOne final lin",
+      "title": "Leetcode 2",
+      "link": "https://dev.to/lexnwimue/leetcode-2-2f0h",
+      "summary": "I did LeetCode 2. Yup. That’s the headline. The classic Add Two Numbers.\n\nSubmitted my solution thanks to the tremendous help of ChatGPT, but I still feel a bit guilty about it. Afterward, I went down a rabbit hole of tr",
       "image": "",
-      "published": "Thu, 14 May 2026 19:05:18 +0000",
+      "published": "Fri, 15 May 2026 01:38:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "De 3 Posts/Semana a Contenido Diario Multi-Plataforma: Escalando Sin Crecer el Equipo — Parte 5 de 5",
-      "link": "https://dev.to/guayoyo_tech/de-3-postssemana-a-contenido-diario-multi-plataforma-escalando-sin-crecer-el-equipo-4knf",
-      "summary": "Llegamos al final de la serie. Tienes un agente que genera copy on-brand. Un pipeline visual que produce imágenes consistentes. Un circuito de aprobación vía WhatsApp. Todo corriendo en tu infraestructura.\n\nFalta un últi",
+      "title": "Designing Browser-Based Horror Visual Novels Around Atmosphere and Player Attention",
+      "link": "https://dev.to/wen_yong_f063f14db0f44038/designing-browser-based-horror-visual-novels-around-atmosphere-and-player-attention-4f02",
+      "summary": "Browser-based horror games have a different rhythm from traditional desktop horror. The player arrives through a tab, often with other tabs open nearby, and the experience has to earn attention quickly without relying on",
       "image": "",
-      "published": "Thu, 14 May 2026 19:04:40 +0000",
+      "published": "Fri, 15 May 2026 01:35:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fn::GetStackOutput: How CloudFormation and CDK Solved Cross-Region References Together",
-      "link": "https://dev.to/pahud/fngetstackoutput-how-cloudformation-and-cdk-solved-cross-region-references-together-9f8",
-      "summary": "Fn::GetStackOutput: How CloudFormation and CDK Solved Cross-Region References Together\n\n\n\n  \n  \n  One String, Two Regions\n\n\nYour ACM certificate must live in us-east-1. Your app runs in ap-northeast-1. You need the certi",
+      "title": "The Secret of the Small Database: Why \"Big\" Technology Often Slows You Down",
+      "link": "https://dev.to/ynwd/the-secret-of-the-small-database-why-big-technology-often-slows-you-down-150",
+      "summary": "Imagine you are running a business. You need to save and retrieve files every day. You have two choices:\n\n\n\nThe Remote Mega-Warehouse: A massive, high-security building located 10 miles away. Every time you want to save ",
       "image": "",
-      "published": "Thu, 14 May 2026 19:04:11 +0000",
+      "published": "Fri, 15 May 2026 01:28:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You Approve, AI Publishes: Human Approval Circuit via WhatsApp — Part 4 of 5",
-      "link": "https://dev.to/guayoyo_tech/you-approve-ai-publishes-human-approval-circuit-via-whatsapp-5cpm",
-      "summary": "Your pipeline already generates copy and images. The next step is the most important decision: publish or not?\n\nThe \"human-in-the-loop\" pattern is what separates an AI toy from a real production tool. The human decides. ",
+      "title": "LLM Structured Output Validation in Python That Holds Up",
+      "link": "https://dev.to/rosgluk/llm-structured-output-validation-in-python-that-holds-up-3inc",
+      "summary": "Most LLM \"structured output\" tutorials are unserious.\nThey teach you to ask for JSON politely and then hope the model behaves.\nThat is not validation.\nThat is optimism with braces.\n\n\n\nOpenAI's own docs make the distincti",
       "image": "",
-      "published": "Thu, 14 May 2026 19:02:23 +0000",
+      "published": "Fri, 15 May 2026 01:26:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Tú Apruebas, la IA Publica: Circuito de Aprobación Humana vía WhatsApp — Parte 4 de 5",
-      "link": "https://dev.to/guayoyo_tech/tu-apruebas-la-ia-publica-circuito-de-aprobacion-humana-via-whatsapp-l95",
-      "summary": "Tu pipeline ya genera copy y genera imágenes. El siguiente paso es la decisión más importante: ¿publicas o no?\n\nEl patrón \"human-in-the-loop\" es lo que separa un juguete de IA de una herramienta de producción real. El hu",
+      "title": "Best GPU for Llama 70B in 2026 (48GB+ VRAM Required)",
+      "link": "https://dev.to/thurmon_demich/best-gpu-for-llama-70b-in-2026-48gb-vram-required-3jal",
+      "summary": "This article was originally published on Best GPU for LLM. The full version with interactive tools, FAQ, and live pricing is on the original site.\n\n\nQuick answer: You need at least 48GB of VRAM to run Llama 70B at usable",
       "image": "",
-      "published": "Thu, 14 May 2026 19:02:18 +0000",
+      "published": "Fri, 15 May 2026 01:14:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
