@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T01:28:58.529306Z",
+  "updated": "2026-05-16T07:44:08.235532Z",
   "articles": [
     {
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
@@ -137,6 +137,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "The CTF scene is dead",
+      "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead\nComments URL: https://news.ycombinator.com/item?id=48157559\nPoints: 14\n# Comments: 1",
+      "image": "",
+      "published": "Sat, 16 May 2026 07:01:55 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "California's Battery Array Is as Powerful as 12 Nuclear Power Plants",
+      "link": "https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/",
+      "summary": "Article URL: https://zolairenergy.com/californias-battery-array-is-as-powerful-as-12-nuclear-power-plants-heres-whats-on-the-horizon/\nComments URL: https://news.ycombinator.com/item?id=48156628\nPoints: 18\n# Comments: 7",
+      "image": "",
+      "published": "Sat, 16 May 2026 03:42:30 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
       "link": "https://ljtn.github.io/epiq/",
       "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable ",
@@ -146,83 +164,65 @@
       "category": "development"
     },
     {
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "title": "NYT and vaping: How to lie by saying only true things (2022)",
+      "link": "https://gwern.net/vaping",
+      "summary": "Article URL: https://gwern.net/vaping\nComments URL: https://news.ycombinator.com/item?id=48155555\nPoints: 86\n# Comments: 34",
+      "image": "",
+      "published": "Sat, 16 May 2026 00:15:53 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "link": "https://dynomight.net/p2p-meth/",
-      "summary": "Article URL: https://dynomight.net/p2p-meth/\nComments URL: https://news.ycombinator.com/item?id=48155324\nPoints: 29\n# Comments: 9",
+      "summary": "Article URL: https://dynomight.net/p2p-meth/\nComments URL: https://news.ycombinator.com/item?id=48155324\nPoints: 109\n# Comments: 104",
       "image": "",
       "published": "Fri, 15 May 2026 23:37:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Erlang/OTP 29.0",
-      "link": "https://www.erlang.org/news/188",
-      "summary": "Article URL: https://www.erlang.org/news/188\nComments URL: https://news.ycombinator.com/item?id=48155297\nPoints: 70\n# Comments: 3",
-      "image": "",
-      "published": "Fri, 15 May 2026 23:33:32 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Spectre Programming Language",
-      "link": "https://spectre-docs.pages.dev",
-      "summary": "Article URL: https://spectre-docs.pages.dev\nComments URL: https://news.ycombinator.com/item?id=48155159\nPoints: 20\n# Comments: 1",
-      "image": "",
-      "published": "Fri, 15 May 2026 23:14:51 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How to Write to SSDs [pdf]",
-      "link": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf\nComments URL: https://news.ycombinator.com/item?id=48154711\nPoints: 45\n# Comments: 5",
-      "image": "",
-      "published": "Fri, 15 May 2026 22:23:38 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How I Host My Side Projects for Under /Month (2026)",
-      "link": "https://dev.to/armorbreak/how-i-host-my-side-projects-for-under-month-2026-gbf",
-      "summary": "How I Host My Side Projects for Under $5/Month (2026)\n\n\nI run 4 live projects on a single VPS. Here's exactly what I use and what it costs.\n\n\n  \n  \n  The Problem\n\n\n\n\n\nYou built an amazing side project. Now you need to de",
-      "image": "",
-      "published": "Sat, 16 May 2026 01:16:52 +0000",
+      "title": "Deploying Metabase on AWS ECS (Fargate) with PostgreSQL (RDS)",
+      "link": "https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa",
+      "summary": "At some point in your cloud journey, you stop just deploying applications and start thinking about data, persistence, and real-world architecture.\n\nBecause most production applications don’t just run they store, query, a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnmxh5hhqdaarr2vvj1c5.JPG",
+      "published": "Sat, 16 May 2026 07:42:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills",
-      "link": "https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf",
-      "summary": "The Short Answer\n\n\nMachine Learning Engineer pays more and hires more; AI Engineer is the wider entry door and the faster-growing title. Among US postings, the median ML Engineer base salary is $165,000 versus $145,000 f",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feaj3742tixw3flglnhns.png",
-      "published": "Sat, 16 May 2026 01:07:09 +0000",
+      "title": "I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time",
+      "link": "https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd",
+      "summary": "I wanted to validate a startup idea before writing code. So I tested every free AI startup idea validator I could find in 2026 — same idea across all of them.\n\nThe test idea: \"An AI tool that monitors local government me",
+      "image": "",
+      "published": "Sat, 16 May 2026 07:29:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Mythos vs Claude Opus 4.6: what the leaked benchmarks mean for developers",
-      "link": "https://dev.to/preecha/claude-mythos-vs-claude-opus-46-what-the-leaked-benchmarks-mean-for-developers-1h84",
-      "summary": "TL;DR\n\n\nClaude Mythos (internal codename “Capybara”) appeared in accidentally exposed Anthropic draft documents. It was reported to score “dramatically higher” than Claude Opus 4.6 on coding, academic reasoning, and cybe",
-      "image": "",
-      "published": "Sat, 16 May 2026 01:01:36 +0000",
+      "title": "I Built the Chrome Feature Google Never Shipped",
+      "link": "https://dev.to/muhammad_ali_e2651e45bed9/i-built-the-chrome-feature-google-never-shipped-oko",
+      "summary": "# I Built the Chrome Feature Google Never Shipped\n\n\n\n\nTags: chrome productivity javascript webdev\nCover image: [use cover.svg or a screenshot of the extension UI]\n\n\n\nThere's a moment every developer knows.\n\nYou're deep i",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxyihe508fontbed7lhe.png",
+      "published": "Sat, 16 May 2026 07:24:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AgenticTrade vs RapidAPI: Why 10% Commission Is the Better Deal for Developers",
-      "link": "https://dev.to/judy_miranttie/agentictrade-vs-rapidapi-why-10-commission-is-the-better-deal-for-developers-5da4",
-      "summary": "If you've spent any time building AI-powered products, you've heard of RapidAPI. It dominates the API marketplace space with 35M+ developers and millions of listed APIs. It's the default when you want to monetize or disc",
+      "title": "WebSockets are Overkill: Master Server-Sent Events in Next.js ⚡",
+      "link": "https://dev.to/iprajapatiparesh/websockets-are-overkill-master-server-sent-events-in-nextjs-hkn",
+      "summary": "The WebSocket Default Trap\n\nWhen building a modern B2B SaaS dashboard at Smart Tech Devs, you often need real-time updates. If a background job finishes processing a massive CSV export, you want a notification to instant",
       "image": "",
-      "published": "Sat, 16 May 2026 01:00:27 +0000",
+      "published": "Sat, 16 May 2026 07:24:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When handoff.md Stops Being Enough for AI Agents",
-      "link": "https://dev.to/a2cr_mcp/when-handoffmd-stops-being-enough-for-ai-agents-5h64",
-      "summary": "If you are doing long AI-agent work, the first handoff tool you should try is probably not a service.\n\nIt is a file.\n\nCreate handoff.md in your repository and write down what the next AI session needs to know:\n\n\n\n# Hando",
+      "title": "I shipped 19 SEO essays in 12 days from a single Next.js page file",
+      "link": "https://dev.to/ggyanie/i-shipped-19-seo-essays-in-12-days-from-a-single-nextjs-page-file-5615",
+      "summary": "I have been quietly running an experiment for the last twelve days. I wanted to know how minimal the publishing pipeline for a real SEO essay corpus can be if I gave up every CMS, every markdown loader, and every static-",
       "image": "",
-      "published": "Sat, 16 May 2026 00:46:00 +0000",
+      "published": "Sat, 16 May 2026 07:22:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
