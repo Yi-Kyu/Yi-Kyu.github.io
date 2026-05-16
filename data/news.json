@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-16T12:50:50.105488Z",
+  "updated": "2026-05-16T18:43:43.343122Z",
   "articles": [
+    {
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png",
+      "published": "Sat, 16 May 2026 20:50:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
       "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score:",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png",
-      "published": "Fri, 15 May 2026 11:49:04 +0530",
-      "source": "The Hacker News",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "image": "",
+      "published": "Sat, 16 May 2026 10:15:37 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
       "image": "",
       "published": "Fri, 15 May 2026 11:56:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
-      "image": "",
-      "published": "Fri, 15 May 2026 10:49:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community\nComments URL: https://news.ycombinator.com/item?id=48159405\nPoints: 0\n# Comments: 0",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 11\n# Comments: 5",
       "image": "",
-      "published": "Sat, 16 May 2026 12:01:06 +0000",
+      "published": "Sat, 16 May 2026 17:12:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "link": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-      "summary": "Article URL: https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735\nComments URL: https://news.ycombinator.com/item?id=48159282\nPoints: ",
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "link": "https://tangled.org/rocksky.app/rocksky",
+      "summary": "Article URL: https://tangled.org/rocksky.app/rocksky\nComments URL: https://news.ycombinator.com/item?id=48161881\nPoints: 7\n# Comments: 3",
       "image": "",
-      "published": "Sat, 16 May 2026 11:43:45 +0000",
+      "published": "Sat, 16 May 2026 17:00:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Accelerando (2005)",
-      "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "summary": "Article URL: https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html\nComments URL: https://news.ycombinator.com/item?id=48159241\nPoints: 32\n# Comments: 7",
+      "title": "You don't know HTML Lists",
+      "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "summary": "Article URL: https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/\nComments URL: https://news.ycombinator.com/item?id=48161861\nPoints: 139\n# Comments: 18",
       "image": "",
-      "published": "Sat, 16 May 2026 11:36:32 +0000",
+      "published": "Sat, 16 May 2026 16:58:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "link": "https://twitter.com/steipete/status/2055346265869721905",
-      "summary": "Article URL: https://twitter.com/steipete/status/2055346265869721905\nComments URL: https://news.ycombinator.com/item?id=48159227\nPoints: 27\n# Comments: 29",
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "summary": "Article URL: https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2\nComments URL: https://news.ycombinator.com/item?id=48160914\nPoints: 7",
       "image": "",
-      "published": "Sat, 16 May 2026 11:34:04 +0000",
+      "published": "Sat, 16 May 2026 15:12:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Futhark by Example",
-      "link": "https://futhark-lang.org/examples.html",
-      "summary": "Article URL: https://futhark-lang.org/examples.html\nComments URL: https://news.ycombinator.com/item?id=48158606\nPoints: 46\n# Comments: 9",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "link": "https://www.seangoedecke.com/steering-vectors/",
+      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/\nComments URL: https://news.ycombinator.com/item?id=48160807\nPoints: 119\n# Comments: 46",
       "image": "",
-      "published": "Sat, 16 May 2026 09:50:10 +0000",
+      "published": "Sat, 16 May 2026 14:58:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building NSFD-v1: An Algorithm for Detecting Network Signal Failure in Industrial Production Lines",
-      "link": "https://dev.to/shieldstring/building-nsfd-v1-an-algorithm-for-detecting-network-signal-failure-in-industrial-production-lines-1bl8",
-      "summary": "Here is the full article, formatted and written natively for the dev.to platform — using its Markdown conventions, developer-friendly tone, collapsible sections, code blocks, callout tags, and proper tagging metadata.\n\n\n",
+      "title": "Why Floci is built in Java (and why that's the right call in 2026)",
+      "link": "https://dev.to/hectorvent/why-floci-is-built-in-java-and-why-thats-the-right-call-in-2026-50ag",
+      "summary": "I get this question every week:\n\n\n\"Why did you build Floci in Java? Why not Go, Rust, or Python like LocalStack?\"\n\n\nIt's a fair question. And the short answer is: the constraints picked the language, not the other way ar",
       "image": "",
-      "published": "Sat, 16 May 2026 12:47:15 +0000",
+      "published": "Sat, 16 May 2026 18:35:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How To Use Python For SEO Redirect Mapping",
-      "link": "https://dev.to/nad14/how-to-use-python-for-seo-redirect-mapping-377h",
-      "summary": "Website migrations often lead to broken links and ranking losses if redirects are not mapped correctly. Python makes this process faster and more accurate by automating URL matching using page titles, headings and fuzzy ",
+      "title": "Solana’s Account Model: A Web2 Developer’s Guide to On-Chain Storage - Hala Kabir",
+      "link": "https://dev.to/halakabir234hub/solanas-account-model-a-web2-developers-guide-to-on-chain-storage-hala-kabir-1h1c",
+      "summary": "If you are a Web2 developer dipping your toes into Web3, the word \"account\" probably conjures up images of user profiles, usernames, and passwords stored securely inside a database table.\n\nWhen you move over to blockchai",
       "image": "",
-      "published": "Sat, 16 May 2026 12:39:38 +0000",
+      "published": "Sat, 16 May 2026 18:23:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Async-First Engineering Culture for Remote Teams",
-      "link": "https://dev.to/kunal_pareek/async-first-engineering-culture-for-remote-teams-5fgm",
-      "summary": "Most discussions around remote engineering focus on meetings, productivity hacks, or tools. But after working with distributed teams on WordPress platforms, internal tooling, frontend dashboards, SaaS systems, and API in",
-      "image": "",
-      "published": "Sat, 16 May 2026 12:36:02 +0000",
+      "title": "\"Spartans-GraphRAG: Token-Efficient Threat Intelligence with TigerGraph\"",
+      "link": "https://dev.to/indra_20/spartans-graphrag-token-efficient-threat-intelligence-with-tigergraph-4pfk",
+      "summary": "Large Language Models are revolutionizing how we interact with data, but as they spread across industries, token consumption is exploding. Context windows are growing, but so are the bills. Basic Retrieval-Augmented Gene",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6msw7z2n3s5x1v6ehzgi.png",
+      "published": "Sat, 16 May 2026 18:22:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Planning Problem: Why Smart Engineers Are Stuck Solving Trivial AI Tasks",
-      "link": "https://dev.to/jaikora/the-planning-problem-why-smart-engineers-are-stuck-solving-trivial-ai-tasks-381g",
-      "summary": "The Planning Problem: Why Smart Engineers Are Stuck Solving Trivial AI Tasks\n\n\nYour engineers can delegate to AI. They can assess what comes back. They can even compound successful patterns into reusable workflows. But a",
+      "title": "I found 146W of \"ghost power\" on NVIDIA A100 at 0% utilization. Here's my API to detect it",
+      "link": "https://dev.to/mikebains41debug/i-found-146w-of-ghost-power-on-nvidia-a100-at-0-utilization-heres-my-api-to-detect-it-ogc",
+      "summary": "I ran 35 controlled energy tests on NVIDIA A100 and H100 GPUs on RunPod.\n\nStandard monitoring tools missed something critical.\n\nWhen nvidia-smi reports 0% GPU utilization, data center operators assume the GPU is idle. Bi",
       "image": "",
-      "published": "Sat, 16 May 2026 12:34:24 +0000",
+      "published": "Sat, 16 May 2026 18:19:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Chain-of-Thought and Beyond: How LLMs Actually Learn to Reason",
-      "link": "https://dev.to/soohan_abbasi/chain-of-thought-and-beyond-how-llms-actually-learn-to-reason-3kk4",
-      "summary": "\"The ability to reason step-by-step is not just a feature. It might be the difference between a language model that sounds intelligent and one that actually is.\"\n\n\n\n\n\n  \n  \n  Introduction: When AI Started Thinking\n\n\nIn 2",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmz4somay658v8xjhnbld.png",
-      "published": "Sat, 16 May 2026 12:30:00 +0000",
+      "title": "I Deleted My Working AI Project and Rebuilt It From Scratch. Here's What I Learned.",
+      "link": "https://dev.to/mohan-01/i-deleted-my-working-ai-project-and-rebuilt-it-from-scratch-heres-what-i-learned-1gi3",
+      "summary": "I had a working prototype in a few hours. It ran. It looked like something real.\n\nI deleted it anyway.\n\nNot because it was broken — because I couldn't explain what it was doing. And that felt worse than having nothing at",
+      "image": "",
+      "published": "Sat, 16 May 2026 18:18:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
