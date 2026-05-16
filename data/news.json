@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T19:10:51.412862Z",
+  "updated": "2026-05-16T01:28:58.529306Z",
   "articles": [
     {
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "image": "",
+      "published": "Fri, 15 May 2026 15:30:33 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
       "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat",
@@ -79,15 +88,6 @@
       "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
       "image": "",
       "published": "Fri, 15 May 2026 10:49:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-      "image": "",
-      "published": "Fri, 15 May 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
-      "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-      "summary": "Article URL: https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/\nComments URL: https://news.ycombinator.com/item?id=48151863\nPoints: 11\n# Co",
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "link": "https://ljtn.github.io/epiq/",
+      "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable ",
       "image": "",
-      "published": "Fri, 15 May 2026 18:11:03 +0000",
+      "published": "Sat, 16 May 2026 00:18:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
-      "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html\nComments URL: https://news.ycombinator.com/item?id=48151767\nPoints: 27\n# Comments: 26",
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "link": "https://dynomight.net/p2p-meth/",
+      "summary": "Article URL: https://dynomight.net/p2p-meth/\nComments URL: https://news.ycombinator.com/item?id=48155324\nPoints: 29\n# Comments: 9",
       "image": "",
-      "published": "Fri, 15 May 2026 18:00:43 +0000",
+      "published": "Fri, 15 May 2026 23:37:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "link": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "summary": "Article URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/\nComments URL: https://news.ycombinator.com/item?id=48151383\n",
+      "title": "Erlang/OTP 29.0",
+      "link": "https://www.erlang.org/news/188",
+      "summary": "Article URL: https://www.erlang.org/news/188\nComments URL: https://news.ycombinator.com/item?id=48155297\nPoints: 70\n# Comments: 3",
       "image": "",
-      "published": "Fri, 15 May 2026 17:28:24 +0000",
+      "published": "Fri, 15 May 2026 23:33:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-      "link": "https://github.com/bahdotsh/feedr",
-      "summary": "Article URL: https://github.com/bahdotsh/feedr\nComments URL: https://news.ycombinator.com/item?id=48151317\nPoints: 9\n# Comments: 4",
+      "title": "Spectre Programming Language",
+      "link": "https://spectre-docs.pages.dev",
+      "summary": "Article URL: https://spectre-docs.pages.dev\nComments URL: https://news.ycombinator.com/item?id=48155159\nPoints: 20\n# Comments: 1",
       "image": "",
-      "published": "Fri, 15 May 2026 17:22:53 +0000",
+      "published": "Fri, 15 May 2026 23:14:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "link": "https://github.com/gdevic/FPGA-Calculator",
-      "summary": "Article URL: https://github.com/gdevic/FPGA-Calculator\nComments URL: https://news.ycombinator.com/item?id=48151237\nPoints: 34\n# Comments: 4",
+      "title": "How to Write to SSDs [pdf]",
+      "link": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf\nComments URL: https://news.ycombinator.com/item?id=48154711\nPoints: 45\n# Comments: 5",
       "image": "",
-      "published": "Fri, 15 May 2026 17:15:58 +0000",
+      "published": "Fri, 15 May 2026 22:23:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MCP (Model Context Protocol) for .NET Devs — What It Is and Why You'll Be Using It Soon",
-      "link": "https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98",
-      "summary": "Every major AI tool is adopting MCP. If you build .NET APIs, this is the integration pattern coming your way.\n\n\n\n\n\n  \n  \n  What Is MCP?\n\n\nMCP (Model Context Protocol) is an open-standard protocol designed to standardize ",
+      "title": "How I Host My Side Projects for Under /Month (2026)",
+      "link": "https://dev.to/armorbreak/how-i-host-my-side-projects-for-under-month-2026-gbf",
+      "summary": "How I Host My Side Projects for Under $5/Month (2026)\n\n\nI run 4 live projects on a single VPS. Here's exactly what I use and what it costs.\n\n\n  \n  \n  The Problem\n\n\n\n\n\nYou built an amazing side project. Now you need to de",
       "image": "",
-      "published": "Fri, 15 May 2026 19:02:52 +0000",
+      "published": "Sat, 16 May 2026 01:16:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Vibe Architecture",
-      "link": "https://dev.to/davidayres/vibe-architecture-262e",
-      "summary": "It's undeniable that AI has changed the technology landscape, but everything I read is deeply focused on the impact to Engineering, while Architects rarely get the same attention. In this article, I wanted to highlight a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfjbixqncsnykd0i1qqv.jpg",
-      "published": "Fri, 15 May 2026 19:00:58 +0000",
+      "title": "AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills",
+      "link": "https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf",
+      "summary": "The Short Answer\n\n\nMachine Learning Engineer pays more and hires more; AI Engineer is the wider entry door and the faster-growing title. Among US postings, the median ML Engineer base salary is $165,000 versus $145,000 f",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feaj3742tixw3flglnhns.png",
+      "published": "Sat, 16 May 2026 01:07:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Topogram’s structured graph: concept and implementation",
-      "link": "https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj",
-      "summary": "Audience: Organizations who maintain product specs, API contracts, and delivery artifacts and want those to stay aligned with code and process.\n\nReading time: ~4 minutes.\n\nWhat this post covers: What Topogram means by a ",
+      "title": "Claude Mythos vs Claude Opus 4.6: what the leaked benchmarks mean for developers",
+      "link": "https://dev.to/preecha/claude-mythos-vs-claude-opus-46-what-the-leaked-benchmarks-mean-for-developers-1h84",
+      "summary": "TL;DR\n\n\nClaude Mythos (internal codename “Capybara”) appeared in accidentally exposed Anthropic draft documents. It was reported to score “dramatically higher” than Claude Opus 4.6 on coding, academic reasoning, and cybe",
       "image": "",
-      "published": "Fri, 15 May 2026 18:55:54 +0000",
+      "published": "Sat, 16 May 2026 01:01:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Designing a REST API That Developers Actually Like Using",
-      "link": "https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-5813",
-      "summary": "Designing a REST API That Developers Actually Like Using\n\n\nI've consumed hundreds of APIs. The good ones share these patterns. The bad ones make me want to quit coding.\n\n\n  \n  \n  1. Consistent Response Format\n\n\n\n\n\n// ✅ G",
+      "title": "AgenticTrade vs RapidAPI: Why 10% Commission Is the Better Deal for Developers",
+      "link": "https://dev.to/judy_miranttie/agentictrade-vs-rapidapi-why-10-commission-is-the-better-deal-for-developers-5da4",
+      "summary": "If you've spent any time building AI-powered products, you've heard of RapidAPI. It dominates the API marketplace space with 35M+ developers and millions of listed APIs. It's the default when you want to monetize or disc",
       "image": "",
-      "published": "Fri, 15 May 2026 18:54:03 +0000",
+      "published": "Sat, 16 May 2026 01:00:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "15 CSS Tricks That Save Me Hours Every Week",
-      "link": "https://dev.to/armorbreak/15-css-tricks-that-save-me-hours-every-week-mj2",
-      "summary": "15 CSS Tricks That Save Me Hours Every Week\n\n\nCSS has evolved. These aren't hacks — they're modern features you should be using.\n\n\n  \n  \n  1. Container Queries (Finally!)\n\n\n\n\n\n/* Before: Media queries based on viewport *",
+      "title": "When handoff.md Stops Being Enough for AI Agents",
+      "link": "https://dev.to/a2cr_mcp/when-handoffmd-stops-being-enough-for-ai-agents-5h64",
+      "summary": "If you are doing long AI-agent work, the first handoff tool you should try is probably not a service.\n\nIt is a file.\n\nCreate handoff.md in your repository and write down what the next AI session needs to know:\n\n\n\n# Hando",
       "image": "",
-      "published": "Fri, 15 May 2026 18:52:55 +0000",
+      "published": "Sat, 16 May 2026 00:46:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
