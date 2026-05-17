@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-17T12:46:10.306684Z",
+  "updated": "2026-05-17T18:47:49.904328Z",
   "articles": [
+    {
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg",
+      "published": "Sun, 17 May 2026 17:27:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
       "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. Po",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg",
-      "published": "Fri, 15 May 2026 16:30:00 +0530",
-      "source": "The Hacker News",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "image": "",
+      "published": "Sun, 17 May 2026 10:43:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat",
       "image": "",
       "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-      "image": "",
-      "published": "Fri, 15 May 2026 13:10:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I don't think AI will make your processes go faster",
-      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 18\n# Comments: 2",
+      "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+      "link": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+      "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/\nComments URL: https://news.ycombinator.com/item?id=48171015\nPoints: 44\n# Comments: 6",
       "image": "",
-      "published": "Sun, 17 May 2026 12:13:45 +0000",
+      "published": "Sun, 17 May 2026 17:29:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple Silicon costs more than OpenRouter",
-      "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 27\n# Comments: 10",
+      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+      "link": "https://twitter.com/ryangrim/status/2055992439031185782",
+      "summary": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 67\n# Comments: 29",
       "image": "",
-      "published": "Sun, 17 May 2026 12:09:23 +0000",
+      "published": "Sun, 17 May 2026 17:10:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Native all the way, until you need text",
-      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 35\n# Comments: 13",
+      "title": "The occasional ECONNRESET",
+      "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 33\n# Comments: 3",
       "image": "",
-      "published": "Sun, 17 May 2026 11:49:46 +0000",
+      "published": "Sun, 17 May 2026 17:09:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb\nComments URL: https://news.ycombinator.com/item?id=48168056\nPoints: 3\n# Comments: 0",
+      "title": "Americans Are Smashing Flock Cameras",
+      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "summary": "Article URL: https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\nComments URL: https://news.ycombinator.com/item?id=48170798\nPoints: 287\n# Comments: 229",
       "image": "",
-      "published": "Sun, 17 May 2026 11:49:31 +0000",
+      "published": "Sun, 17 May 2026 17:09:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-      "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 64\n# Comments: 21",
+      "title": "Dontsurveil.me",
+      "link": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+      "summary": "Article URL: https://opencivics-labs.github.io/dontsurveil.me/c22.html\nComments URL: https://news.ycombinator.com/item?id=48170247\nPoints: 5\n# Comments: 2",
       "image": "",
-      "published": "Sun, 17 May 2026 08:00:04 +0000",
+      "published": "Sun, 17 May 2026 16:15:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How We Built “Captain Cool OS” : A Multi-Agent AI Tactical Intelligence System for Cricket Captains Using Gemini",
-      "link": "https://dev.to/vedant_5adc1428274e929ec3/how-we-built-captain-cool-os-a-multi-agent-ai-tactical-intelligence-system-for-cricket-captains-87h",
-      "summary": "🏏 Captain Cool OS\n\n\nCaptain Cool OS is an AI-powered tactical decision engine for cricket captains, built using Google Gemini and a multi-agent orchestration system.\n\nThe idea was simple:\nWhat if an AI could think throug",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4dxbu46kg0w0q80d9zby.png",
-      "published": "Sun, 17 May 2026 12:44:40 +0000",
+      "title": "Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring",
+      "link": "https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33",
+      "summary": "Introduction\n\n\nIn lending, **delinquency **refers to a borrower failing to meet contractual repayment obligations on time, usually measured by days past due. In practice, even a 30-day delay can be an early signal that t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsb6acfri08rb3md4w4re.png",
+      "published": "Sun, 17 May 2026 18:35:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Captain Cool AI — Building a Multi-Agent IPL Tactical Engine with FastAPI, Next.js & Gemini AI 🚀🏏",
-      "link": "https://dev.to/hemant_choudhary_72859653/captain-cool-ai-building-a-multi-agent-ipl-tactical-engine-with-fastapi-nextjs-gemini-ai-1i06",
-      "summary": "Introduction\n\nWhat if an AI could think like an IPL captain during a high-pressure chase?\n\nThat idea led me to build Captain Cool AI — a multi-agent cricket strategy engine inspired by the calm tactical mindset of legend",
+      "title": "Add PoW-skip + Lightning payments to any MCP server in 10 lines",
+      "link": "https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac",
+      "summary": "You built an MCP server. Now agents are hammering your premium tools for free and you've got no lever to pull.\n\nThe boring fix is \"add auth\" — OAuth tokens, API keys, a whole user management system. But that's overkill f",
       "image": "",
-      "published": "Sun, 17 May 2026 12:40:56 +0000",
+      "published": "Sun, 17 May 2026 18:25:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🏏 Captain Cool — Building a Multi-Agent IPL Strategy Engine with Google Gemini, Antigravity & AI Debate",
-      "link": "https://dev.to/rushauti_bhogle_e3399cd3a/captain-cool-building-a-multi-agent-ipl-strategy-engine-with-google-gemini-antigravity-ai-40a5",
-      "summary": "🏏 Captain Cool — AI That Thinks Like an IPL Captain\n\n\nWhat happens when you combine cricket strategy, multi-agent reasoning, and the Google Gemini ecosystem in a 3-hour hackathon sprint?\n\nYou get Captain Cool — an AI-pow",
+      "title": "Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees",
+      "link": "https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo",
+      "summary": "AI agents are easy to demo when they follow a clean path: receive a task, call a tool, produce an answer, and finish successfully.\n\nThey become much harder to reason about when multiple agents run together.\n\nIn a real sy",
       "image": "",
-      "published": "Sun, 17 May 2026 12:40:51 +0000",
+      "published": "Sun, 17 May 2026 18:25:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Terms and Conditions for a Mobile App: What to Include and Why It Matters",
-      "link": "https://dev.to/daiva_mclean_c9b1e0c67638/terms-and-conditions-for-a-mobile-app-what-to-include-and-why-it-matters-2h68",
-      "summary": "What Are Terms and Conditions?\n\n\nTerms and conditions (also called terms of service or terms of use) are a legal agreement between you and your users. By downloading or using your app, users agree to your terms.\n\nThey de",
+      "title": "Your cert exam is 10 weeks away. You've studied three times. Here's the pattern.",
+      "link": "https://dev.to/miad_ea7faef80e5125861119/your-cert-exam-is-10-weeks-away-youve-studied-three-times-heres-the-pattern-53nk",
+      "summary": "When I started building ClaudeLab, I expected the hard part to be the AI engine. The adaptive\n  testing logic, the Claude API integration, the readiness scoring. That stuff was hard, but it\n  was the kind of hard that ha",
       "image": "",
-      "published": "Sun, 17 May 2026 12:40:48 +0000",
+      "published": "Sun, 17 May 2026 18:24:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🏏 Captain Cool: Building a Multi-Agent IPL Strategist with Google Gemini & ADK",
-      "link": "https://dev.to/mkate/captain-cool-building-a-multi-agent-ipl-strategist-with-google-gemini-adk-a9n",
-      "summary": "In the high-pressure cooker of T20 cricket, a captain has mere seconds to make decisions that dictate the outcome of a match. Who bowls the death overs? How do you set a field for a rampaging Suryakumar Yadav on a grippi",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4wx6qq0yqmim00ukuoqf.png",
-      "published": "Sun, 17 May 2026 12:40:25 +0000",
+      "title": "Building a Low-Cost Image Converter on AWS With Rust Lambda",
+      "link": "https://dev.to/fayismahmood/building-a-low-cost-image-converter-on-aws-with-rust-lambda-1d11",
+      "summary": "Project demo link: https://image-ignite.vercel.app/\n\nThis started as a hobby project. I was thinking about a simple image conversion service for  resizing ,convert, compress uploaded images.\n\nSince it was a personal proj",
+      "image": "",
+      "published": "Sun, 17 May 2026 18:24:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
