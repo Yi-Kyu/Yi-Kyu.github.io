@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:43:43.343122Z",
+  "updated": "2026-05-17T01:46:08.973019Z",
   "articles": [
     {
       "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was ex",
+      "image": "",
+      "published": "Sat, 16 May 2026 16:55:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
       "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
@@ -79,15 +88,6 @@
       "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
       "image": "",
       "published": "Fri, 15 May 2026 13:10:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
-      "image": "",
-      "published": "Fri, 15 May 2026 11:56:56 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "link": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 11\n# Comments: 5",
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "link": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 32\n# Comments: 3",
       "image": "",
-      "published": "Sat, 16 May 2026 17:12:58 +0000",
+      "published": "Sat, 16 May 2026 23:59:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "link": "https://tangled.org/rocksky.app/rocksky",
-      "summary": "Article URL: https://tangled.org/rocksky.app/rocksky\nComments URL: https://news.ycombinator.com/item?id=48161881\nPoints: 7\n# Comments: 3",
+      "title": "A nicer voltmeter clock",
+      "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 52\n# Comments: 12",
       "image": "",
-      "published": "Sat, 16 May 2026 17:00:41 +0000",
+      "published": "Sat, 16 May 2026 22:45:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "You don't know HTML Lists",
-      "link": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "summary": "Article URL: https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/\nComments URL: https://news.ycombinator.com/item?id=48161861\nPoints: 139\n# Comments: 18",
+      "title": "MCP Hello Page",
+      "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 47\n# Comments: 18",
       "image": "",
-      "published": "Sat, 16 May 2026 16:58:26 +0000",
+      "published": "Sat, 16 May 2026 22:25:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "summary": "Article URL: https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2\nComments URL: https://news.ycombinator.com/item?id=48160914\nPoints: 7",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "link": "https://crates.io/crates/zerostack/1.0.0",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 144\n# Comments: 44",
       "image": "",
-      "published": "Sat, 16 May 2026 15:12:17 +0000",
+      "published": "Sat, 16 May 2026 22:23:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "link": "https://www.seangoedecke.com/steering-vectors/",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/\nComments URL: https://news.ycombinator.com/item?id=48160807\nPoints: 119\n# Comments: 46",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 58\n# Comments: 65",
       "image": "",
-      "published": "Sat, 16 May 2026 14:58:16 +0000",
+      "published": "Sat, 16 May 2026 20:14:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Floci is built in Java (and why that's the right call in 2026)",
-      "link": "https://dev.to/hectorvent/why-floci-is-built-in-java-and-why-thats-the-right-call-in-2026-50ag",
-      "summary": "I get this question every week:\n\n\n\"Why did you build Floci in Java? Why not Go, Rust, or Python like LocalStack?\"\n\n\nIt's a fair question. And the short answer is: the constraints picked the language, not the other way ar",
-      "image": "",
-      "published": "Sat, 16 May 2026 18:35:05 +0000",
+      "title": "Anatomy of Duck DB for Python Developers",
+      "link": "https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh",
+      "summary": "Introduction - SQL without a Server\n\nPandas is widely used for data analysis and almost every data analyst or even data engineers utilize it for faster analysis with table like data structure called DataFrames.The drawba",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbuq4kc3xb8bopc1nu0d0.png",
+      "published": "Sun, 17 May 2026 01:32:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Solana’s Account Model: A Web2 Developer’s Guide to On-Chain Storage - Hala Kabir",
-      "link": "https://dev.to/halakabir234hub/solanas-account-model-a-web2-developers-guide-to-on-chain-storage-hala-kabir-1h1c",
-      "summary": "If you are a Web2 developer dipping your toes into Web3, the word \"account\" probably conjures up images of user profiles, usernames, and passwords stored securely inside a database table.\n\nWhen you move over to blockchai",
+      "title": "Deep Dive: Connecting AI to Snowflake with Model Context Protocol (MCP)",
+      "link": "https://dev.to/anjijava16/deep-dive-connecting-ai-to-snowflake-with-model-context-protocol-mcp-2lmi",
+      "summary": "The Model Context Protocol (MCP) lets AI assistants like Claude talk directly to Snowflake in real time — no custom API glue needed. This guide covers architecture patterns, RSA key-pair auth, Snowflake RBAC setup, produ",
       "image": "",
-      "published": "Sat, 16 May 2026 18:23:47 +0000",
+      "published": "Sun, 17 May 2026 01:31:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "\"Spartans-GraphRAG: Token-Efficient Threat Intelligence with TigerGraph\"",
-      "link": "https://dev.to/indra_20/spartans-graphrag-token-efficient-threat-intelligence-with-tigergraph-4pfk",
-      "summary": "Large Language Models are revolutionizing how we interact with data, but as they spread across industries, token consumption is exploding. Context windows are growing, but so are the bills. Basic Retrieval-Augmented Gene",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6msw7z2n3s5x1v6ehzgi.png",
-      "published": "Sat, 16 May 2026 18:22:43 +0000",
+      "title": "25 Years of LinkaGoGo: Servers Under Desks, Domain Disasters, and a Billion Bookmarks",
+      "link": "https://dev.to/linkagogo/25-years-of-linkagogo-servers-under-desks-domain-disasters-and-a-billion-bookmarks-d4",
+      "summary": "LinkaGoGo turns 25 this month. The web has changed beyond recognition since 2001, but the problem it solves hasn't: you find something worth keeping, and you want it to still be there when you need it. Here's the full st",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmul0gjuq4tl0k7mgui5d.png",
+      "published": "Sun, 17 May 2026 01:23:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I found 146W of \"ghost power\" on NVIDIA A100 at 0% utilization. Here's my API to detect it",
-      "link": "https://dev.to/mikebains41debug/i-found-146w-of-ghost-power-on-nvidia-a100-at-0-utilization-heres-my-api-to-detect-it-ogc",
-      "summary": "I ran 35 controlled energy tests on NVIDIA A100 and H100 GPUs on RunPod.\n\nStandard monitoring tools missed something critical.\n\nWhen nvidia-smi reports 0% GPU utilization, data center operators assume the GPU is idle. Bi",
+      "title": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error",
+      "link": "https://dev.to/wrencollective/the-insanity-loop-why-ai-agents-get-stuck-retrying-the-same-error-1eo0",
+      "summary": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error\n\n\nI'm an AI agent. I was given £20 and 12 months to run a real business. This is my field log from week one.\n\nOn day three, I hit a problem. I was trying",
       "image": "",
-      "published": "Sat, 16 May 2026 18:19:15 +0000",
+      "published": "Sun, 17 May 2026 01:11:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Deleted My Working AI Project and Rebuilt It From Scratch. Here's What I Learned.",
-      "link": "https://dev.to/mohan-01/i-deleted-my-working-ai-project-and-rebuilt-it-from-scratch-heres-what-i-learned-1gi3",
-      "summary": "I had a working prototype in a few hours. It ran. It looked like something real.\n\nI deleted it anyway.\n\nNot because it was broken — because I couldn't explain what it was doing. And that felt worse than having nothing at",
+      "title": "Your Behavior Is More Honest Than Your Words",
+      "link": "https://dev.to/icophy/your-behavior-is-more-honest-than-your-words-778",
+      "summary": "Your Behavior Is More Honest Than Your Words\n\n\nToday, while working on a personal knowledge base project, I ran into a question that made me stop and think for a while.\n\nWe were discussing how to capture input — how user",
       "image": "",
-      "published": "Sat, 16 May 2026 18:18:51 +0000",
+      "published": "Sun, 17 May 2026 01:09:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
