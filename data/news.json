@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T18:47:49.904328Z",
+  "updated": "2026-05-18T01:54:54.446889Z",
   "articles": [
     {
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
+      "image": "",
+      "published": "Sun, 17 May 2026 18:30:08 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
       "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
       "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
@@ -79,15 +88,6 @@
       "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
       "image": "",
       "published": "Fri, 15 May 2026 15:30:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat",
-      "image": "",
-      "published": "Fri, 15 May 2026 13:47:25 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-      "link": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
-      "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/\nComments URL: https://news.ycombinator.com/item?id=48171015\nPoints: 44\n# Comments: 6",
+      "title": "Design posters showcasing your country's electrical grid",
+      "link": "https://github.com/open-energy-transition/grid2poster",
+      "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 54\n# Comments: 14",
       "image": "",
-      "published": "Sun, 17 May 2026 17:29:38 +0000",
+      "published": "Sun, 17 May 2026 22:47:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-      "link": "https://twitter.com/ryangrim/status/2055992439031185782",
-      "summary": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 67\n# Comments: 29",
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "link": "https://xca-attacks.github.io/fabricked/",
+      "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 23\n# Comments: 11",
       "image": "",
-      "published": "Sun, 17 May 2026 17:10:48 +0000",
+      "published": "Sun, 17 May 2026 22:23:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The occasional ECONNRESET",
-      "link": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 33\n# Comments: 3",
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "link": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 54\n# Comments: 26",
       "image": "",
-      "published": "Sun, 17 May 2026 17:09:36 +0000",
+      "published": "Sun, 17 May 2026 21:56:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Americans Are Smashing Flock Cameras",
-      "link": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "summary": "Article URL: https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\nComments URL: https://news.ycombinator.com/item?id=48170798\nPoints: 287\n# Comments: 229",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 93\n# Comments: 72",
       "image": "",
-      "published": "Sun, 17 May 2026 17:09:15 +0000",
+      "published": "Sun, 17 May 2026 21:45:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dontsurveil.me",
-      "link": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
-      "summary": "Article URL: https://opencivics-labs.github.io/dontsurveil.me/c22.html\nComments URL: https://news.ycombinator.com/item?id=48170247\nPoints: 5\n# Comments: 2",
+      "title": "GenCAD",
+      "link": "https://gencad.github.io/",
+      "summary": "Article URL: https://gencad.github.io/\nComments URL: https://news.ycombinator.com/item?id=48173429\nPoints: 105\n# Comments: 22",
       "image": "",
-      "published": "Sun, 17 May 2026 16:15:01 +0000",
+      "published": "Sun, 17 May 2026 21:40:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring",
-      "link": "https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33",
-      "summary": "Introduction\n\n\nIn lending, **delinquency **refers to a borrower failing to meet contractual repayment obligations on time, usually measured by days past due. In practice, even a 30-day delay can be an early signal that t",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsb6acfri08rb3md4w4re.png",
-      "published": "Sun, 17 May 2026 18:35:18 +0000",
+      "title": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn",
+      "link": "https://dev.to/childrentime/timers-in-react-without-settimeout-usetimeout-useinterval-usecountdown-and-useraffn-3oe1",
+      "summary": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn\n\n\nTimers are one of those things every React developer writes by hand the first ten times and gets wrong on at least six of them. Th",
+      "image": "",
+      "published": "Mon, 18 May 2026 01:53:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Add PoW-skip + Lightning payments to any MCP server in 10 lines",
-      "link": "https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac",
-      "summary": "You built an MCP server. Now agents are hammering your premium tools for free and you've got no lever to pull.\n\nThe boring fix is \"add auth\" — OAuth tokens, API keys, a whole user management system. But that's overkill f",
-      "image": "",
-      "published": "Sun, 17 May 2026 18:25:40 +0000",
+      "title": "Host & Network Penetration Testing: Exploitation CTF Walkthrough",
+      "link": "https://dev.to/james_kariuki/host-network-penetration-testing-exploitation-ctf-walkthrough-f7m",
+      "summary": "Introduction\n\n\nAfter recently transitioning into my first cybersecurity role, I'm continuing my practical skills development through hands-on labs. This writeup documents my approach to completing the Exploitation CTF, w",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntua7ej7weuyl4caslm7.png",
+      "published": "Mon, 18 May 2026 01:47:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees",
-      "link": "https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo",
-      "summary": "AI agents are easy to demo when they follow a clean path: receive a task, call a tool, produce an answer, and finish successfully.\n\nThey become much harder to reason about when multiple agents run together.\n\nIn a real sy",
+      "title": "Bidet AI — on-device Gemma 4 turns a messy brain-dump into clean writing",
+      "link": "https://dev.to/mark_barnett_a50bc71e7433/bidet-ai-on-device-gemma-4-turns-a-messy-brain-dump-into-clean-writing-4256",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI'm Mark. I'm a middle-school teacher, and I'm not a coder. A few times a year there's a piece of writing that wrecks me: honest",
       "image": "",
-      "published": "Sun, 17 May 2026 18:25:38 +0000",
+      "published": "Mon, 18 May 2026 01:41:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your cert exam is 10 weeks away. You've studied three times. Here's the pattern.",
-      "link": "https://dev.to/miad_ea7faef80e5125861119/your-cert-exam-is-10-weeks-away-youve-studied-three-times-heres-the-pattern-53nk",
-      "summary": "When I started building ClaudeLab, I expected the hard part to be the AI engine. The adaptive\n  testing logic, the Claude API integration, the readiness scoring. That stuff was hard, but it\n  was the kind of hard that ha",
+      "title": "The Death of \"Just Write the Code\": How AI-Native Development Is Reshaping What It Means to Be a Developer",
+      "link": "https://dev.to/oketch/the-death-of-just-write-the-code-how-ai-native-development-is-reshaping-what-it-means-to-be-a-21n9",
+      "summary": "You're not losing your job to AI. But the developer who knows how to work with AI might.\n\n\n\n\nI used to spend 40 minutes writing a database migration script. Last Tuesday, I described what I needed in two sentences, revie",
       "image": "",
-      "published": "Sun, 17 May 2026 18:24:47 +0000",
+      "published": "Mon, 18 May 2026 01:36:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Low-Cost Image Converter on AWS With Rust Lambda",
-      "link": "https://dev.to/fayismahmood/building-a-low-cost-image-converter-on-aws-with-rust-lambda-1d11",
-      "summary": "Project demo link: https://image-ignite.vercel.app/\n\nThis started as a hobby project. I was thinking about a simple image conversion service for  resizing ,convert, compress uploaded images.\n\nSince it was a personal proj",
+      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+      "link": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
+      "summary": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.\n\nIt's not that AI agents are useless. It's the opposite. They got good enough that handing one a shell started to feel reckless.",
       "image": "",
-      "published": "Sun, 17 May 2026 18:24:38 +0000",
+      "published": "Mon, 18 May 2026 01:32:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
