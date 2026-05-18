@@ -1,12 +1,30 @@
 {
-  "updated": "2026-05-18T09:33:08.592679Z",
+  "updated": "2026-05-18T14:47:58.638518Z",
   "articles": [
     {
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg",
-      "published": "Mon, 18 May 2026 12:16:37 +0530",
+      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+      "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+      "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams uns",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg",
+      "published": "Mon, 18 May 2026 18:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Doc",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif",
+      "published": "Mon, 18 May 2026 16:53:41 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical fl",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg",
+      "published": "Mon, 18 May 2026 16:24:05 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -15,35 +33,35 @@
       "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
       "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attacker",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg",
-      "published": "Mon, 18 May 2026 10:29:21 +0530",
+      "published": "Mon, 18 May 2026 14:27:34 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg",
-      "published": "Sun, 17 May 2026 17:27:53 +0530",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg",
+      "published": "Mon, 18 May 2026 14:27:26 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no custom",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg",
-      "published": "Sun, 17 May 2026 12:43:33 +0530",
-      "source": "The Hacker News",
+      "title": "Grafana says stolen GitHub token let hackers steal codebase",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+      "image": "",
+      "published": "Mon, 18 May 2026 09:46:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png",
-      "published": "Sat, 16 May 2026 20:50:48 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
+      "image": "",
+      "published": "Mon, 18 May 2026 07:14:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
       "image": "",
       "published": "Mon, 18 May 2026 01:33:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
-      "image": "",
-      "published": "Sun, 17 May 2026 18:30:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
-      "image": "",
-      "published": "Sun, 17 May 2026 10:43:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Colombian singer Shakira acquitted of tax fraud in Spain",
-      "link": "https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/",
-      "summary": "Article URL: https://www.reuters.com/world/americas/colombian-singer-shakira-acquitted-tax-fraud-spain-2026-05-18/\nComments URL: https://news.ycombinator.com/item?id=48177039\nPoints: 5\n# Comments: 1",
+      "title": "Actually, Democracy Dies in H.R.",
+      "link": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html\nComments URL: https://news.ycombinator.com/item?id=48180091\nPoints: 11\n# Comments: 2",
       "image": "",
-      "published": "Mon, 18 May 2026 09:00:39 +0000",
+      "published": "Mon, 18 May 2026 14:04:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why is Google Maps back to showing old satellite images of Altadena?",
-      "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
-      "summary": "Article URL: https://www.reddit.com/r/pasadena/s/94BHlkE84r\nComments URL: https://news.ycombinator.com/item?id=48176762\nPoints: 10\n# Comments: 2",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "summary": "Article URL: https://github.com/zakirullin/files.md\nComments URL: https://news.ycombinator.com/item?id=48179677\nPoints: 64\n# Comments: 23",
       "image": "",
-      "published": "Mon, 18 May 2026 08:19:21 +0000",
+      "published": "Mon, 18 May 2026 13:33:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Which country voted the best at Eurovision?",
-      "link": "https://lalitm.com/post/which-country-voted-best-at-eurovision/",
-      "summary": "Article URL: https://lalitm.com/post/which-country-voted-best-at-eurovision/\nComments URL: https://news.ycombinator.com/item?id=48175307\nPoints: 9\n# Comments: 2",
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o\nComments URL: https://news.ycombinator.com/item?id=48179183\nPoints: 55\n# Comments: 20",
       "image": "",
-      "published": "Mon, 18 May 2026 03:39:07 +0000",
+      "published": "Mon, 18 May 2026 13:01:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 72\n# Comments: 168",
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840\nComments URL: https://news.ycombinator.com/item?id=48179029\nPoints: 65\n# Comments: 27",
       "image": "",
-      "published": "Mon, 18 May 2026 02:59:34 +0000",
+      "published": "Mon, 18 May 2026 12:49:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 125\n# Comments: 29",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=48179021\nPoints: 93\n# Comments: ",
       "image": "",
-      "published": "Sun, 17 May 2026 23:10:09 +0000",
+      "published": "Mon, 18 May 2026 12:49:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LLM Wiki - Compiled Knowledge That RAG Cannot Replace",
-      "link": "https://dev.to/rosgluk/llm-wiki-compiled-knowledge-that-rag-cannot-replace-8op",
-      "summary": "The premise is simple: compiled knowledge is more reusable than retrieved fragments.\nRAG became the default answer to a straightforward question - how do I give an LLM access to external knowledge?\n\n\n\nAnd the usual archi",
+      "title": "Cross Browser Testing vs Cross Device Testing: Key Differences",
+      "link": "https://dev.to/sally1025/cross-browser-testing-vs-cross-device-testing-key-differences-22hg",
+      "summary": "Over my years of experience, I have realized how important cross-browser testing and cross-device testing are. Many testers and developers fail to understand that these are very different concepts. They are often grouped",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpa4dstieuwzwq9c22vfm.png",
+      "published": "Mon, 18 May 2026 14:37:56 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "IP Warmup for New Mail Servers: Complete 2026 Guide",
+      "link": "https://dev.to/dhiraj_chatpar_e54b46b388/ip-warmup-for-new-mail-servers-complete-2026-guide-68h",
+      "summary": "You just deployed your new KumoMTA or PowerMTA server. You have clean IPs, perfect DNS, and a million emails queued to send. Stop. If you send that volume immediately, you'll be blacklisted within 48 hours. This guide ex",
       "image": "",
-      "published": "Mon, 18 May 2026 09:22:56 +0000",
+      "published": "Mon, 18 May 2026 14:37:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Retrieval vs Representation in Knowledge Systems",
-      "link": "https://dev.to/rosgluk/retrieval-vs-representation-in-knowledge-systems-5e49",
-      "summary": "Most modern knowledge systems optimize retrieval, and that is understandable.\nSearch is visible, easy to demo, and feels magical when it works. Type a question, get an answer.\n\n\n\nBut retrieval is only one half of the pro",
+      "title": "Bounce Rate Reduction: The Complete Technical Guide",
+      "link": "https://dev.to/dhiraj_chatpar_e54b46b388/bounce-rate-reduction-the-complete-technical-guide-470n",
+      "summary": "Bounce rate is the silent killer of email deliverability. A rate above 2% gets you flagged. Above 5% gets you blocked. Most teams don't know they have a problem until their IP reputation is already damaged.\n\nThis guide c",
       "image": "",
-      "published": "Mon, 18 May 2026 09:22:43 +0000",
+      "published": "Mon, 18 May 2026 14:37:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Context is the New Bottleneck: Building Token-Efficient AI Coding Agents in 2026",
-      "link": "https://dev.to/monuminu/context-is-the-new-bottleneck-building-token-efficient-ai-coding-agents-with-mcp-in-2026-5fd0",
-      "summary": "Context is the New Bottleneck: Building Token-Efficient AI Coding Agents with MCP in 2026\n\n\n\n\n\n\n\n\n  \n  \n  Table of Contents\n\n\n\nIntroduction: The Context Crisis Nobody Saw Coming\nWhy Token Efficiency Is the New Performanc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3sj5oe4bk7yd9js7kpi9.png",
-      "published": "Mon, 18 May 2026 09:21:39 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Avoid Unnecessary Re-renders in Vue with `v-memo`",
-      "link": "https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo",
-      "summary": "When building Vue applications, performance usually feels great by default - Vue’s reactivity system is incredibly efficient.\n\nBut as applications grow larger, you may eventually run into situations where:\n\n\ncomponents r",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7hlfz848ut2d9ly8i8q.png",
-      "published": "Mon, 18 May 2026 09:21:34 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "From Closures to an AST in a Kotlin Transform Graph",
-      "link": "https://dev.to/monom/from-closures-to-an-ast-in-a-kotlin-transform-graph-4ajc",
-      "summary": "kumulant is a streaming statistics library: you feed it numbers, it maintains an accumulator like a mean or a quantile sketch, and you read snapshots back. Above the accumulator sits a graph of transforms and filters tha",
+      "title": "KumoMTA Setup Guide: From Zero to Production Email",
+      "link": "https://dev.to/dhiraj_chatpar_e54b46b388/kumomta-setup-guide-from-zero-to-production-email-3h1o",
+      "summary": "KumoMTA's combination of open-source licensing and modern architecture makes it an attractive choice for teams ready to move beyond legacy MTA solutions. This guide walks you through a production-ready KumoMTA deployment",
       "image": "",
-      "published": "Mon, 18 May 2026 09:20:16 +0000",
+      "published": "Mon, 18 May 2026 14:37:09 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "KumoMTA: The Complete 2026 Guide to Enterprise Open Source Email Delivery",
+      "link": "https://dev.to/dhiraj_chatpar_e54b46b388/kumomta-the-complete-2026-guide-to-enterprise-open-source-email-delivery-ade",
+      "summary": "Liquid syntax error: 'raw' tag was never closed",
+      "image": "",
+      "published": "Mon, 18 May 2026 14:37:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+      "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+      "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\n\nCross-Document View Transition",
+      "image": "",
+      "published": "Mon, 18 May 2026 13:47:19 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The rotateY() function rotates an element around its vertical y-axis.\n\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Wed, 13 May 2026 14:33:58 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "rotateZ()",
-      "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
-      "summary": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \n\nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 13 May 2026 14:33:03 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
