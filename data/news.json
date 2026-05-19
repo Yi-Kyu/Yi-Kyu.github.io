@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-19T14:26:33.078726Z",
+  "updated": "2026-05-19T19:30:26.637742Z",
   "articles": [
+    {
+      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence and Research Team, encom",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg",
+      "published": "Tue, 19 May 2026 22:08:12 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerabil",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg",
+      "published": "Tue, 19 May 2026 20:26:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
       "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is rwl.angular-console (ve",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg",
-      "published": "Tue, 19 May 2026 13:19:23 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
+      "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
+      "image": "",
+      "published": "Tue, 19 May 2026 12:22:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg",
-      "published": "Tue, 19 May 2026 10:58:06 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
+      "image": "",
+      "published": "Tue, 19 May 2026 12:10:47 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
+      "image": "",
+      "published": "Tue, 19 May 2026 10:30:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
       "image": "",
       "published": "Tue, 19 May 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: The hidden bottlenecks in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows",
-      "image": "",
-      "published": "Tue, 19 May 2026 08:14:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
-      "image": "",
-      "published": "Tue, 19 May 2026 07:22:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "image": "",
-      "published": "Mon, 18 May 2026 18:15:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "link": "https://setpose.com/",
-      "summary": "Article URL: https://setpose.com/\nComments URL: https://news.ycombinator.com/item?id=48193474\nPoints: 6\n# Comments: 0",
+      "title": "Deciphering the Hashihara Castle Town Map",
+      "link": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
+      "summary": "Article URL: https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html\nComments URL: https://news.ycombinator.com/item?id=48196897\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 19 May 2026 14:04:19 +0000",
+      "published": "Tue, 19 May 2026 18:04:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Anthropic Is Preparing for IPO and We Should Be Worried",
-      "link": "https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/",
-      "summary": "Article URL: https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/\nComments URL: https://news.ycombinator.com/item?id=48193111\nPoints: 30\n# Comments: 32",
+      "title": "Google Search as you know it is over",
+      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/\nComments URL: https://news.ycombinator.com/item?id=48196764\nPoints: 98\n# Comments: 122",
       "image": "",
-      "published": "Tue, 19 May 2026 13:30:58 +0000",
+      "published": "Tue, 19 May 2026 17:56:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenBSD 7.9 Released",
-      "link": "https://www.openbsd.org/79.html",
-      "summary": "Article URL: https://www.openbsd.org/79.html\nComments URL: https://news.ycombinator.com/item?id=48192882\nPoints: 85\n# Comments: 21",
+      "title": "Gemini Omni",
+      "link": "https://deepmind.google/models/gemini-omni/",
+      "summary": "Article URL: https://deepmind.google/models/gemini-omni/\nComments URL: https://news.ycombinator.com/item?id=48196609\nPoints: 65\n# Comments: 23",
       "image": "",
-      "published": "Tue, 19 May 2026 13:11:51 +0000",
+      "published": "Tue, 19 May 2026 17:46:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Colonization of Venus",
-      "link": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Colonization_of_Venus\nComments URL: https://news.ycombinator.com/item?id=48192410\nPoints: 45\n# Comments: 22",
+      "title": "Gemini 3.5 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...\n\nComments URL: https://news.ycombinator.com/item?id=48196570\nPoints: 71\n# Comments: 107",
       "image": "",
-      "published": "Tue, 19 May 2026 12:26:45 +0000",
+      "published": "Tue, 19 May 2026 17:43:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "New accessibility features powered by Apple Intelligence",
-      "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48192224\nPoints: 188\n# Comments: 79",
+      "title": "Cursor Cloud Agents Down",
+      "link": "https://forum.cursor.com/t/cloud-agents-broken-ii/161036",
+      "summary": "Article URL: https://forum.cursor.com/t/cloud-agents-broken-ii/161036\nComments URL: https://news.ycombinator.com/item?id=48196479\nPoints: 16\n# Comments: 2",
       "image": "",
-      "published": "Tue, 19 May 2026 12:04:18 +0000",
+      "published": "Tue, 19 May 2026 17:37:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI is slowly destroying open source and its not even done yet",
-      "link": "https://dev.to/bridget_amana/ai-is-slowly-destroying-open-source-and-its-not-even-done-yet-oc3",
-      "summary": "With the wide adoption of AI, we have seen the positive and negative impact it has had on businesses across the board. Open source was supposed to be one of the biggest beneficiaries. The idea was that it would lower the",
-      "image": "",
-      "published": "Tue, 19 May 2026 14:22:33 +0000",
+      "title": "RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part-2)",
+      "link": "https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2",
+      "summary": "This is my part-2 of the topic, in case you would like to go beyond basics of RabbitMQ and Kafka have look at my part-1.\n \n\n  \n  RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures (part",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3936242%2F5cebb340-ec45-4f77-b185-19f2c7d7a5e8.png",
+      "published": "Tue, 19 May 2026 19:28:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What I learned introspecting 922 npm MCP servers",
-      "link": "https://dev.to/ratamaha/what-i-learned-introspecting-922-npm-mcp-servers-4a14",
-      "summary": "TL;DR: We ran npx -y &lt;package&gt; against 922 npm-published MCP servers, sent them the JSON-RPC initialize and tools/list calls, and captured what they did. 359 responded. 563 failed in 15 distinct ways that say more ",
+      "title": "Notes + Local AI: Simpler Than You Think",
+      "link": "https://dev.to/kenahrens/notes-local-ai-simpler-than-you-think-2ce6",
+      "summary": "I got caught flat-footed twice by the same customer. I have an office hours call with them almost every week. For a couple of weeks in a row they asked the same question: any update on that issue from last month? I'd wri",
       "image": "",
-      "published": "Tue, 19 May 2026 14:20:28 +0000",
+      "published": "Tue, 19 May 2026 19:28:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "No Dataset? No Problem. How I Curated a Custom AI Dataset From Instagram & Pinterest to Build a Pose Suggester",
-      "link": "https://dev.to/taufeeq_901/no-dataset-no-problem-how-i-curated-a-custom-ai-dataset-from-instagram-pinterest-to-build-a-i32",
-      "summary": "When you start a new Machine Learning project, you pray there’s a clean, ready-to-use dataset on Kaggle or Hugging Face.\n\nBut when I decided to build an AI-powered Pose Suggester—a system that analyzes a user's backgroun",
+      "title": "How the Internet Actually Works: Understanding Client-Server Architecture with Real Code",
+      "link": "https://dev.to/analjyotigoswami/how-the-internet-actually-works-understanding-client-server-architecture-with-real-code-fd1",
+      "summary": "How the Internet Actually Works: Understanding Client-Server Architecture with Real Code\n\n\n\n  \n  \n  The Big Picture: What Happens When You Visit a Website?\n\n\nEvery time you type a URL into your browser and hit Enter, a s",
       "image": "",
-      "published": "Tue, 19 May 2026 14:19:21 +0000",
+      "published": "Tue, 19 May 2026 19:27:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Doubling the speed of an already fast SQL parser using AI",
-      "link": "https://dev.to/bilal_spectral/doubling-the-speed-of-an-already-fast-sql-parser-using-ai-298",
-      "summary": "Our SQL parsers are among the fastest, if not the fastest, in the world. Once you have something highly optimized, it's very hard to get further tangible gains. Yet I managed to double their speed, and I wouldn't have be",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faef78k5kl19690ylomy9.png",
-      "published": "Tue, 19 May 2026 14:18:32 +0000",
+      "title": "NestJS vs Express: Which One Should You Choose in 2025?",
+      "link": "https://dev.to/mirzasaikatahmmed/nestjs-vs-express-which-one-should-you-choose-in-2025-o14",
+      "summary": "NestJS vs Express: Which One Should You Choose in 2025?\n\n\nNode.js gives you two wildly different starting points when building a backend: the minimal, unopinionated Express and the structured, opinionated NestJS. Both ar",
+      "image": "",
+      "published": "Tue, 19 May 2026 19:25:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Heart of the AI Harness: A Knowledge Graph of the AI, by the AI, for the AI (Series Part 2)",
-      "link": "https://dev.to/ryantsuji/the-heart-of-the-ai-harness-a-knowledge-graph-of-the-ai-by-the-ai-for-the-ai-series-part-2-53bm",
-      "summary": "Hi, I'm Ryan, CTO at airCloset.\n\n\nDisclaimer: \"cortex\" and \"cortex-product-graph\" referenced in this article are internal code names for an AI platform developed in-house at airCloset. They are unrelated to existing comm",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjioh14o8c9ttqzg8fkd3.png",
-      "published": "Tue, 19 May 2026 14:16:20 +0000",
+      "title": "How We Built a Contactless Digital Signature App inside the Browser (No Servers, 100% Private)",
+      "link": "https://dev.to/somyabhalani/how-we-built-a-contactless-digital-signature-app-inside-the-browser-no-servers-100-private-18n2",
+      "summary": "Traditional digital signature platforms have two major issues: privacy and cost. \n\nTo sign a document, you have to upload sensitive agreements to a third-party server. And as a developer, running server-side document ren",
+      "image": "",
+      "published": "Tue, 19 May 2026 19:21:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
