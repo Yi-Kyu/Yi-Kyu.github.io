@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-20T01:54:44.608783Z",
+  "updated": "2026-05-20T08:48:28.588329Z",
   "articles": [
+    {
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana L",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg",
+      "published": "Wed, 20 May 2026 10:42:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg",
+      "published": "Wed, 20 May 2026 09:31:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
       "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve time for core updates",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdm6ntsTvJJXoF1Bvx2Qm11faosxt-w7g0VzPCnsORnDN-q79t1wnbzqTFxbkRw5DF1DjhdDUgZ1H_0O4h35tZcEvlsM7dEUkbPyvaQdkEhhyGhpF90Bug4O1aai-0dXi1DdnnOpH2SmC8GoQD0TAd742-StQ4Pva_IVXNUcRpy9V96B7dwBnOc41xScyj/s1600/drupal-update.jpg",
-      "published": "Tue, 19 May 2026 16:14:45 +0530",
-      "source": "The Hacker News",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "image": "",
+      "published": "Wed, 20 May 2026 04:14:08 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-      "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to rea",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiortK4EUp9FwJsfVYW-j20LfpbM5qMNelk5-T8BbZ7dEcmBLXnqhWW9loE8GD6aexZv3h-xHEgn_N7ECjV8KXdcGwNxsbhCPP07COzt9c8BhMaVTF4OaSnKD2b98mJjsU1d57OXj2FQtOhKyeo6oPcT0-rrOi-_dKf1iielQQnhsprZ43tHyYFbiYhgFK8/s1600/email-hacking.jpg",
-      "published": "Tue, 19 May 2026 14:53:15 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "image": "",
+      "published": "Wed, 20 May 2026 03:31:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "image": "",
+      "published": "Wed, 20 May 2026 01:08:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybe",
       "image": "",
       "published": "Tue, 19 May 2026 17:47:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Discord rolls out end-to-end encryption on voice, video calls",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-      "image": "",
-      "published": "Tue, 19 May 2026 16:37:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "image": "",
-      "published": "Tue, 19 May 2026 15:45:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "image": "",
-      "published": "Tue, 19 May 2026 15:35:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Railway Blocked by Google Cloud",
-      "link": "https://status.railway.com/?date=20260519",
-      "summary": "Article URL: https://status.railway.com/?date=20260519\nComments URL: https://news.ycombinator.com/item?id=48201484\nPoints: 98\n# Comments: 19",
+      "title": "Everything in C is undefined behavior",
+      "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "summary": "Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\nComments URL: https://news.ycombinator.com/item?id=48203698\nPoints: 141\n# Comments: 102",
       "image": "",
-      "published": "Wed, 20 May 2026 00:23:54 +0000",
+      "published": "Wed, 20 May 2026 06:07:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "link": "https://twitter.com/github/status/2056884788179726685",
-      "summary": "Article URL: https://twitter.com/github/status/2056884788179726685\nComments URL: https://news.ycombinator.com/item?id=48201316\nPoints: 108\n# Comments: 19",
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "summary": "Article URL: https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/\nComments URL: https://news.ycombinator.com/item?id=48203536\nPoints: 35\n# Comments: 2",
       "image": "",
-      "published": "Wed, 20 May 2026 00:01:18 +0000",
+      "published": "Wed, 20 May 2026 05:43:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "summary": "Article URL: https://github.com/wiltodelta/remove-ai-watermarks\nComments URL: https://news.ycombinator.com/item?id=48200569\nPoints: 114\n# Comments: 64",
+      "title": "There's no earthly way of knowing which direction we are going",
+      "link": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
+      "summary": "Article URL: https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going\nComments URL: https://news.ycombinator.com/item?id=48203484\nPoints: 32\n# Comments: 17",
       "image": "",
-      "published": "Tue, 19 May 2026 22:30:31 +0000",
+      "published": "Wed, 20 May 2026 05:33:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "link": "https://openai.com/index/advancing-content-provenance/",
-      "summary": "Article URL: https://openai.com/index/advancing-content-provenance/\nComments URL: https://news.ycombinator.com/item?id=48198291\nPoints: 197\n# Comments: 100",
+      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
+      "link": "https://andlukyane.com//blog/minimax-m27-workflows",
+      "summary": "Article URL: https://andlukyane.com//blog/minimax-m27-workflows\nComments URL: https://news.ycombinator.com/item?id=48203249\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Tue, 19 May 2026 19:34:30 +0000",
+      "published": "Wed, 20 May 2026 04:51:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dumb ways for an open source project to die",
-      "link": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "summary": "Article URL: https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html\nComments URL: https://news.ycombinator.com/item?id=48198127\nPoints: 151\n# Comments: 80",
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan\nComments URL: https://news.ycombinator.com/item?id=48202047\nPoints: 65\n# Comments: 9",
       "image": "",
-      "published": "Tue, 19 May 2026 19:22:56 +0000",
+      "published": "Wed, 20 May 2026 01:43:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Optimizing Cement Kiln Heat Consumption: A Process Engineer’s Python Approach",
-      "link": "https://dev.to/aminuddinkhan/optimizing-cement-kiln-heat-consumption-a-process-engineers-python-approach-5b1i",
-      "summary": "For over three decades, my world revolved around the deafening roar of industrial fans, the intense glow of the rotary kiln, and the constant pursuit of the perfect clinker. In those traditional days of cement plant oper",
+      "title": "Google I/O 2026 Dev Keynote: Recap",
+      "link": "https://dev.to/khairunnisaas/google-io-2026-dev-keynote-recap-4afi",
+      "summary": "In case you missed it, here's a recap of what Google announced at I/O today. Some of these are updates, some are brand new. Let's get into it.\n\n\n  \n  \n  The Antigravity Ecosystem\n\n\nAntigravity 2.0\n\nGoogle officially intr",
       "image": "",
-      "published": "Wed, 20 May 2026 01:51:25 +0000",
+      "published": "Wed, 20 May 2026 08:43:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Turned 6 Cognitive Science Principles Into an AI Agent That Builds Obsidian Vaults",
-      "link": "https://dev.to/easonnotsing/how-i-turned-6-cognitive-science-principles-into-an-ai-agent-that-builds-obsidian-vaults-103e",
-      "summary": "In 30 years, computers got 100x faster. Our learning method stayed the same: read → highlight → re-read → forget → re-read again.\n\nI shared with EMBA students who have to digest hundreds of pages of materials every month",
+      "title": "Quantitative Content Methodology: 5-Layer Content Framework",
+      "link": "https://dev.to/gulsaharslan/quantitative-content-methodology-5-layer-content-framework-3bad",
+      "summary": "Quantitative Content Methodology (QCM) treats content not as mere text, but as a mathematical dataset optimized for search engines and LLMs. In this guide, we explain the 5-layer content framework applicable to any topic",
       "image": "",
-      "published": "Wed, 20 May 2026 01:51:19 +0000",
+      "published": "Wed, 20 May 2026 08:43:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your AI database agent needs better errors than “tool failed”",
-      "link": "https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-better-errors-than-tool-failed-4gpa",
-      "summary": "“Tool failed” is not an error message.\n\nIt is a debugging tax.\n\nWhen an AI agent queries a database through MCP, failures need to be structured enough for the agent to recover and specific enough for humans to audit.\n\nA ",
+      "title": "Comment Réduire les Coûts des Tokens d'Agent en Ligne de Commande (Guide 2026)",
+      "link": "https://dev.to/antoine_laurentt/comment-reduire-les-couts-des-tokens-dagent-en-ligne-de-commande-guide-2026-3g3o",
+      "summary": "Un agent de codage CLI paraît économique jusqu’au moment où la facture arrive. Vous lancez Claude Code ou Codex sur un dépôt, demandez une refactorisation, puis l’agent lit quarante fichiers, relance les tests plusieurs ",
       "image": "",
-      "published": "Wed, 20 May 2026 01:50:46 +0000",
+      "published": "Wed, 20 May 2026 08:43:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your MCP database server should not use an admin key",
-      "link": "https://dev.to/mads_hansen_27b33ebfee4c9/your-mcp-database-server-should-not-use-an-admin-key-17lb",
-      "summary": "The fastest way to make an AI database agent dangerous is to connect it with the same credential a senior engineer uses in production.\n\nThe model does not need your admin key.\n\nIt needs a narrow, explicit operating lane.",
+      "title": "Agent Token Kosten reduzieren per CLI (2026 Anleitung)",
+      "link": "https://dev.to/emree_demir/agent-token-kosten-reduzieren-per-cli-2026-anleitung-1lcd",
+      "summary": "Ein CLI-Codierungsagent fühlt sich frei an, bis die Rechnung kommt. Sie richten Claude Code oder Codex auf ein Repository, lassen ein Modul refaktorisieren, und zehn Minuten später hat der Agent vierzig Dateien gelesen, ",
       "image": "",
-      "published": "Wed, 20 May 2026 01:49:40 +0000",
+      "published": "Wed, 20 May 2026 08:41:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CDN Cache Invalidation: Why Deleted URLs Still Redirect (And How We Fixed It)",
-      "link": "https://dev.to/anand_rathnas_d5b608cc3de/cdn-cache-invalidation-why-deleted-urls-still-redirect-and-how-we-fixed-it-18mm",
-      "summary": "This article was originally published on Jo4 Blog.\n\n\nYou deleted the URL. Redis says it's gone. The database confirms it. But users click the link and still get redirected to the destination. cf-cache-status: HIT. Cloudf",
+      "title": "We Stopped Using Microservices. Here Is What We Learned.",
+      "link": "https://dev.to/zny10289/we-stopped-using-microservices-here-is-what-we-learned-2g0k",
+      "summary": "We Stopped Using Microservices. Here Is What We Learned.\n\n\nTwo years ago we split our monolith into 12 microservices. Eighteen months ago we merged five of them back. Here is what that taught us.\n\n\n  \n  \n  Why We Split\n\n",
       "image": "",
-      "published": "Wed, 20 May 2026 01:48:55 +0000",
+      "published": "Wed, 20 May 2026 08:40:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
