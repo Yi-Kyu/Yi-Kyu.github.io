@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-20T14:26:31.390802Z",
+  "updated": "2026-05-20T19:58:00.589729Z",
   "articles": [
+    {
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg",
+      "published": "Wed, 20 May 2026 22:36:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromisi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg",
+      "published": "Wed, 20 May 2026 20:06:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
       "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires.\nDownload the CISO Expert ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg",
-      "published": "Wed, 20 May 2026 16:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. I",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png",
-      "published": "Wed, 20 May 2026 13:58:26 +0530",
-      "source": "The Hacker News",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "image": "",
+      "published": "Wed, 20 May 2026 11:46:37 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
       "image": "",
       "published": "Wed, 20 May 2026 04:14:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "image": "",
-      "published": "Wed, 20 May 2026 03:31:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "560-610 minutes of exercise a week needed for substantial heart benefits",
-      "link": "https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/",
-      "summary": "Article URL: https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/\nComments URL: https://news.ycombinator.com/item?id=48207509\nPoints: 21\n# Comments: 17",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "summary": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 121\n# Comments: 47",
       "image": "",
-      "published": "Wed, 20 May 2026 13:35:21 +0000",
+      "published": "Wed, 20 May 2026 19:05:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
-      "link": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen",
-      "summary": "Article URL: https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen\nComments URL: https://news.ycombinator.com/item?id=48207251\nPoints: 39\n# Comments: 13",
+      "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
+      "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
+      "summary": "Article URL: https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report\nComments URL: https://news.ycombinator.com/item?id=48212279\nPoints: 80\n# Comments: 57",
       "image": "",
-      "published": "Wed, 20 May 2026 13:19:36 +0000",
+      "published": "Wed, 20 May 2026 18:50:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-      "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-      "summary": "Article URL: https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html\nComments URL: https://news.ycombinator.com/item?",
+      "title": "Node.js 26.0.0 (Now with Temporal)",
+      "link": "https://nodejs.org/en/blog/release/v26.0.0",
+      "summary": "Article URL: https://nodejs.org/en/blog/release/v26.0.0\nComments URL: https://news.ycombinator.com/item?id=48212242\nPoints: 37\n# Comments: 7",
       "image": "",
-      "published": "Wed, 20 May 2026 13:02:30 +0000",
+      "published": "Wed, 20 May 2026 18:48:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
-      "link": "https://www.alqst.org/ar/posts/1190",
-      "summary": "Article URL: https://www.alqst.org/ar/posts/1190\nComments URL: https://news.ycombinator.com/item?id=48206768\nPoints: 245\n# Comments: 78",
+      "title": "Flipper One Tech Specs",
+      "link": "https://docs.flipper.net/one/general/tech-specs",
+      "summary": "Article URL: https://docs.flipper.net/one/general/tech-specs\nComments URL: https://news.ycombinator.com/item?id=48212046\nPoints: 29\n# Comments: 6",
       "image": "",
-      "published": "Wed, 20 May 2026 12:43:41 +0000",
+      "published": "Wed, 20 May 2026 18:33:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
-      "link": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
-      "summary": "Article URL: https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/\nComments URL: https://news.ycombinator.com/item?id=48206640\nPoints: 88\n# Comments: 65",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "summary": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained\nComments URL: https://news.ycombinator.com/item?id=48211409\nPoints: 21\n# Comments: 9",
       "image": "",
-      "published": "Wed, 20 May 2026 12:30:58 +0000",
+      "published": "Wed, 20 May 2026 17:48:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Per-User OAuth for AI Agents: Why It Matters and What to Look For",
-      "link": "https://dev.to/composiodev/per-user-oauth-for-ai-agents-why-it-matters-and-what-to-look-for-4h4a",
-      "summary": "AI agents are crossing a line that traditional software never had to. They read your Slack, draft your emails, push code, update your CRM, and pay your invoices. To do that, they need keys to systems that belong to speci",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdcvak90uie20wnaldj4n.png",
-      "published": "Wed, 20 May 2026 14:21:08 +0000",
+      "title": "Python Day 2: Conditions, Loops & Functions — The Engine Behind Every AI App",
+      "link": "https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm",
+      "summary": "Introduction\n\n\nVariables store data. But conditions, loops, and functions are what make programs think, repeat, and scale.\n\nThese concepts power AI agents, automation scripts, backend APIs, chatbots, and workflow systems",
+      "image": "",
+      "published": "Wed, 20 May 2026 19:45:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You Got Your Whole Genome Sequenced. Now What?",
-      "link": "https://dev.to/matbanik/you-got-your-whole-genome-sequenced-now-what-egb",
-      "summary": "Published May 20, 2026 on matbanik.info\n\nYou paid somewhere between $300 and $500 for whole genome sequencing. Maybe Nebula, maybe Dante, maybe one of the newer providers that keep undercutting each other. You got a fold",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmatbanik.info%2Fimages%2Fblog%2Fnutrition%2Fagentic-genomics-setup%2Fscene1-hero.webp",
-      "published": "Wed, 20 May 2026 14:20:57 +0000",
+      "title": "Access Denied: What Every AWS Beginner Gets Wrong About IAM",
+      "link": "https://dev.to/jvogel/access-denied-what-every-aws-beginner-gets-wrong-about-iam-9k1",
+      "summary": "The IAM mental model I wish someone had drawn on a whiteboard for me when I was starting out with AWS.\n\nIf you want a video to follow along with this blog, you can find it in the AWS Developers Youtube Channel\n\nI spun up",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzr93ou0btgdyypbajc2m.png",
+      "published": "Wed, 20 May 2026 19:45:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zero to Full-Stack in 6 Months: The Izzy Way...",
-      "link": "https://dev.to/callmeizzy/zero-to-full-stack-in-6-months-the-izzy-way-1ieo",
-      "summary": "TL;DR\n\n\nThis post is adapted from my 2024 YouTube video, \"Learned To Code In 6 Months!\". Since the original recording, I have evolved as a developer and expanded my technology stack beyond the initial scope discussed her",
+      "title": "Google I/O 2026: From Consumer to Builder",
+      "link": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
+      "summary": "I tune in to Google I/O every year. But this year felt different.\n\nIn the past, I watched as a consumer. I needed the updates, first to keep up, then to pass them on to my audience. I was a distributor of news, a passive",
       "image": "",
-      "published": "Wed, 20 May 2026 14:20:30 +0000",
+      "published": "Wed, 20 May 2026 19:41:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PasteCheck v1.3 — what I improved after launching and getting real users",
-      "link": "https://dev.to/charles_blackwood/pastecheck-v13-what-i-improved-after-launching-and-getting-real-users-2l87",
-      "summary": "A few days ago I launched PasteCheck — a free tool \nto paste code and see errors highlighted instantly.\n\nAfter launch I found real gaps and shipped v1.3. \nHere's what changed:\n\nPython indentation monitor\nNow flags mixed ",
-      "image": "",
-      "published": "Wed, 20 May 2026 14:20:18 +0000",
+      "title": "OpenGuard AI",
+      "link": "https://dev.to/suyashsrivastavadev/openguard-ai-288m",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nOpenGuard is a developer-centric, self-hosted static code analysis (SCA) platform designed to act as an open-source alternative ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjbkzjqbi02xcd57mvg.png",
+      "published": "Wed, 20 May 2026 19:38:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DeepSeek V4 on Huawei's Ascend 950: A Real Stress Test for China's AI Chip Ecosystem",
-      "link": "https://dev.to/lanternproton/deepseek-v4-on-huaweis-ascend-950-a-real-stress-test-for-chinas-ai-chip-ecosystem-ook",
-      "summary": "In April 2026, DeepSeek released V4 — a 1.6 trillion parameter MoE model — and for the first time, the technical report listed Huawei's Ascend NPU alongside NVIDIA in its validated hardware list. This is the story of wha",
+      "title": "What I Learned Building a 402-Powered API for Agent Workflows",
+      "link": "https://dev.to/max_holloway/what-i-learned-building-a-402-powered-api-for-agent-workflows-5kj",
+      "summary": "Disclosure: I used AI as an editing/drafting assistant for this post, but the architecture, examples, and technical claims here are mine and were reviewed before publishing.\n\n\nMost paid APIs still assume a familiar model",
       "image": "",
-      "published": "Wed, 20 May 2026 14:16:22 +0000",
+      "published": "Wed, 20 May 2026 19:35:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
