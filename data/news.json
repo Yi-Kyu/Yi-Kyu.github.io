@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-21T14:35:22.082293Z",
+  "updated": "2026-05-21T19:39:53.137542Z",
   "articles": [
+    {
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022.\n\n\"Showboa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg",
+      "published": "Thu, 21 May 2026 19:47:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
       "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS C",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg",
-      "published": "Thu, 21 May 2026 09:57:01 +0530",
-      "source": "The Hacker News",
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+      "image": "",
+      "published": "Thu, 21 May 2026 14:13:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+      "image": "",
+      "published": "Thu, 21 May 2026 11:11:08 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
       "image": "",
       "published": "Thu, 21 May 2026 09:58:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
-      "image": "",
-      "published": "Thu, 21 May 2026 09:09:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Flipper One project needs community help to build open Linux platform",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-      "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
-      "image": "",
-      "published": "Thu, 21 May 2026 07:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Google's Antigravity Bait and Switch",
-      "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "summary": "Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch\nComments URL: https://news.ycombinator.com/item?id=48222529\nPoints: 50\n# Comments: 19",
+      "title": "Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
+      "link": "https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf",
+      "summary": "Article URL: https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf\nComments URL: https://news.ycombinator.com/item?id=48227068\nPoints: 11\n# Comments: 6",
       "image": "",
-      "published": "Thu, 21 May 2026 13:50:59 +0000",
+      "published": "Thu, 21 May 2026 18:29:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI is just unauthorised plagiarism at a bigger scale",
-      "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/\nComments URL: https://news.ycombinator.com/item?id=48222383\nPoints: 225\n# Comments: 104",
+      "title": "BBEdit 16",
+      "link": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "summary": "Article URL: https://www.barebones.com/products/bbedit/bbedit16.html\nComments URL: https://news.ycombinator.com/item?id=48226944\nPoints: 102\n# Comments: 17",
       "image": "",
-      "published": "Thu, 21 May 2026 13:38:12 +0000",
+      "published": "Thu, 21 May 2026 18:21:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hating AI Is Good",
-      "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually\nComments URL: https://news.ycombinator.com/item?id=48222366\nPoints: 193\n# Comments: 194",
+      "title": "Where are all the UK red telephone kiosks?",
+      "link": "https://www.thek6project.co.uk/",
+      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 26\n# Comments: 11",
       "image": "",
-      "published": "Thu, 21 May 2026 13:36:06 +0000",
+      "published": "Thu, 21 May 2026 18:04:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "US employers spend more than $1.5B a year to fight labor unions, report finds",
-      "link": "https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/20/how-much-companies-spend-fight-unions\nComments URL: https://news.ycombinator.com/item?id=48222241\nPoints: 67\n# Comments: 20",
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "link": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 258\n# Comments: 78",
       "image": "",
-      "published": "Thu, 21 May 2026 13:25:41 +0000",
+      "published": "Thu, 21 May 2026 17:55:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Magic the Gathering format: Fun 40",
-      "link": "https://fabiensanglard.net/mtg/fun//index.html",
-      "summary": "Article URL: https://fabiensanglard.net/mtg/fun//index.html\nComments URL: https://news.ycombinator.com/item?id=48222105\nPoints: 21\n# Comments: 16",
+      "title": "Chewing gum restores dad's taste and smell years after Covid",
+      "link": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+      "summary": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/\nComments URL: https://news.ycombinator.com/item?id=48226038\nPoints: 71\n# Comments: 27",
       "image": "",
-      "published": "Thu, 21 May 2026 13:13:36 +0000",
+      "published": "Thu, 21 May 2026 17:14:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Stripe Took 48 Hours and 3 API Calls to Break My Freelance Income Stream in Lagos",
-      "link": "https://dev.to/global-creator-lab/how-stripe-took-48-hours-and-3-api-calls-to-break-my-freelance-income-stream-in-lagos-25d9",
-      "summary": "The Problem We Were Actually Solving\n\n\nI freelanced full-time for a US-based crypto startup that paid monthly via PayPal. The first transfer of $6,400 arrived in March 2024. By the time the money cleared my GTBank accoun",
-      "image": "",
-      "published": "Thu, 21 May 2026 14:32:53 +0000",
+      "title": "AI Daily Digest: May 22, 2026 — Agentic Workflows, Coding Agents & Embodied AI",
+      "link": "https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05",
+      "summary": "5-min read · Curated daily by an AI Systems Architect\nFocus: Agentic Workflows · AI Coding Tools · Embodied Intelligence\n\n\n\n\n\n\n  \n  \n  1. Cursor 3.0 Unlocks \"Agents Window\" — Parallel AI Agents Across Git Worktrees\n\n\n【Te",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8lklt5vget6sxll19hv.png",
+      "published": "Thu, 21 May 2026 19:34:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Pretty normal",
-      "link": "https://dev.to/ben/pretty-normal-1893",
-      "summary": "I Used to Get Excited About New Tools Now I Feel Tired.\n\n\n  \n      Staying updated as unpaid homework\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Har",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3735796%2Fb533ba06-7693-48b5-ace8-63923f5d2d0a.jpg",
-      "published": "Thu, 21 May 2026 14:30:16 +0000",
+      "title": "How I Secured Internal Microservice Calls Without Passing JWTs",
+      "link": "https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k",
+      "summary": "When you build a microservices backend, most security tutorials cover one thing well: securing the public gateway. Validate the JWT, extract the user identity, reject bad requests.\n\nWhat they don't cover is what happens ",
+      "image": "",
+      "published": "Thu, 21 May 2026 19:34:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Both Camps in the 'Left Behind' Argument Are Right About Each Other",
-      "link": "https://dev.to/arthurpro/both-camps-in-the-left-behind-argument-are-right-about-each-other-497j",
-      "summary": "There's a small, angry post on a bear blog called migraine brain that's been on Hacker News for a few days now. The whole post is three paragraphs. It opens: \"'People who don't use AI will be left behind,' they say. I ca",
+      "title": "Stop Mixing Them Up: SLI vs SLO vs SLA Explained",
+      "link": "https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge",
+      "summary": "I used these three terms interchangeably, and many people around me did the same. One day, I decided to sit down and properly understand the difference between them. If you have also thought they were basically the same ",
       "image": "",
-      "published": "Thu, 21 May 2026 14:30:00 +0000",
+      "published": "Thu, 21 May 2026 19:32:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Flutter MCP Toolkit v3",
-      "link": "https://dev.to/arenukvern/flutter-mcp-toolkit-v3-b27",
-      "summary": "After a couple of months I finally released v3 of Flutter MCP Toolkit (which complimentary for official Dart / Flutter MCP server) + CLI tools to work.\n\nThis release again completely changes its architecture (MCP and CLI",
+      "title": "Rebuilding My Engineering Mind",
+      "link": "https://dev.to/yamato0234/rebuilding-my-engineering-mind-67i",
+      "summary": "A 5-Year Roadmap Back to Strong Fundamentals\n\n\nIn 2018, I started my bachelor’s degree in Computer Engineering with almost no real passion for it.\n\nAt the time, I was just there to get a degree.\n\nI attended classes, did ",
       "image": "",
-      "published": "Thu, 21 May 2026 14:29:05 +0000",
+      "published": "Thu, 21 May 2026 19:28:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google Just Shipped Gemini 3.5 Flash. Here's What Developers Actually Need to Know.",
-      "link": "https://dev.to/om_shree_0709/google-just-shipped-gemini-35-flash-heres-what-developers-actually-need-to-know-3eak",
-      "summary": "The Flash series has always been Google's answer to the speed-vs-intelligence tradeoff. With Gemini 3.5 Flash, Google is making a different argument: you shouldn't have to choose.\n\n\n  \n  \n  The Problem It's Solving\n\n\nThe",
+      "title": "Building a Music Production Ecosystem Instead of Just Releasing Plugins",
+      "link": "https://dev.to/tizwildin/building-a-music-production-ecosystem-instead-of-just-releasing-plugins-3c9i",
+      "summary": "Building a Music Production Ecosystem Instead of Just Releasing Plugins\n\nMost music tech projects stop at:\n\na plugin\na sample pack\na preset bank\na single release\n\nI wanted to try building something larger.\n\nOver the past",
       "image": "",
-      "published": "Thu, 21 May 2026 14:26:01 +0000",
+      "published": "Thu, 21 May 2026 19:26:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
