@@ -1,11 +1,38 @@
 {
-  "updated": "2026-05-21T01:53:56.856283Z",
+  "updated": "2026-05-21T08:50:19.230673Z",
   "articles": [
+    {
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper priv",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif",
+      "published": "Thu, 21 May 2026 13:05:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS C",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg",
+      "published": "Thu, 21 May 2026 09:57:01 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nT",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg",
+      "published": "Thu, 21 May 2026 09:14:11 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
       "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
       "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg",
       "published": "Wed, 20 May 2026 22:36:54 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&am",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4cD52DtnzH5FM8ZMrW9KyPrD1ysrJURSmqalrw9f6siP8XxYqClsqV6ofHpM8ir7gBnmmvehj5HB1k0aSHdPmLtKKwtLLvjSi4ELa9eMq12maW7p56a2yBdl7xzdfv6893fvQxLIH0kKGYKnzYM_7-3XysWIGsSNiEYXBjmiWFqe0Pe8uq-TkWlQjjv4/s1600/cyberattack-paki.jpg",
-      "published": "Wed, 20 May 2026 18:21:43 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "image": "",
+      "published": "Thu, 21 May 2026 03:49:48 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Agent AI is Coming. Are You Ready?",
-      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
-      "summary": "New Industry Data Just Released Suggests Not.\n\nOn May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of ide",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif",
-      "published": "Wed, 20 May 2026 17:28:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybe",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg",
-      "published": "Wed, 20 May 2026 17:08:43 +0530",
-      "source": "The Hacker News",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "image": "",
+      "published": "Thu, 21 May 2026 02:54:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
       "image": "",
       "published": "Wed, 20 May 2026 11:46:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
-      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
-      "image": "",
-      "published": "Wed, 20 May 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-      "image": "",
-      "published": "Wed, 20 May 2026 08:52:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48219340\nPoints: 0\n# Comments: 0",
+      "image": "",
+      "published": "Thu, 21 May 2026 08:01:53 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Vivaldi 8.0",
+      "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\nComments URL: https://news.ycombinator.com/item?id=48219060\nPoints: 72\n# Comments: 25",
+      "image": "",
+      "published": "Thu, 21 May 2026 07:21:55 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Haskell Foundation 2026 Update",
+      "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 106\n# Comments: 26",
+      "image": "",
+      "published": "Thu, 21 May 2026 02:13:23 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "What is a Demand Coop",
+      "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 54\n# Comments: 54",
+      "image": "",
+      "published": "Thu, 21 May 2026 01:20:52 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Intuit to lay off over 3k employees to refocus on AI",
       "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 20\n# Comments: 4",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 180\n# Comments: 133",
       "image": "",
       "published": "Thu, 21 May 2026 00:36:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I reverse engineered Apple's video wallpapers",
-      "link": "https://github.com/kageroumado/phosphene",
-      "summary": "Article URL: https://github.com/kageroumado/phosphene\nComments URL: https://news.ycombinator.com/item?id=48215979\nPoints: 45\n# Comments: 7",
+      "title": "Instruction: how to create a website (HTML file, webpage, or HTML document)",
+      "link": "https://dev.to/irvirty/instruction-how-to-create-a-website-html-file-webpage-or-html-document-33b0",
+      "summary": "To create an HTML page and view it, we will use your pre-installed programs, such as a text editor and a browser.\n\n\nFirst step: you need to create a file \"index.html\" with the \".html\" extension. To do this, use this inst",
       "image": "",
-      "published": "Wed, 20 May 2026 23:54:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "DOS Zone",
-      "link": "https://dos.zone/",
-      "summary": "Article URL: https://dos.zone/\nComments URL: https://news.ycombinator.com/item?id=48215418\nPoints: 86\n# Comments: 20",
-      "image": "",
-      "published": "Wed, 20 May 2026 22:53:27 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Starship's Twelfth Flight Test",
-      "link": "https://www.spacex.com/launches/starship-flight-12",
-      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-12\nComments URL: https://news.ycombinator.com/item?id=48214558\nPoints: 88\n# Comments: 79",
-      "image": "",
-      "published": "Wed, 20 May 2026 21:41:54 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Google Declaring War on the Web",
-      "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 329\n# Comments: 217",
-      "image": "",
-      "published": "Wed, 20 May 2026 21:33:18 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "A 3-step agent cost me $4.20. agenttrace showed me the O(n ) tool call hiding in plain sight.",
-      "link": "https://dev.to/mukundakatta/a-3-step-agent-cost-me-420-agenttrace-showed-me-the-on-tool-call-hiding-in-plain-sight-3omp",
-      "summary": "I ran a small agent. Three steps. One web search, one summarize, one cite-check. I had budgeted maybe 12 cents.\n\nThe bill at the end of the run was $4.20.\n\nI knew something was off but the per-call invoice line items wer",
-      "image": "",
-      "published": "Thu, 21 May 2026 01:52:32 +0000",
+      "published": "Thu, 21 May 2026 08:44:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond WebView: The Next Evolution of Hybrid App Architecture",
-      "link": "https://dev.to/ai_superapp/beyond-webview-the-next-evolution-of-hybrid-app-architecture-170n",
-      "summary": "1. The Hybrid App Journey — What Got Us Here\n\n\nFor years, mobile development teams have faced the same trade-off: native applications provide the best performance and user experience, but they also require maintaining se",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2k2lk66cntg0n6dt9yx.png",
-      "published": "Thu, 21 May 2026 01:52:31 +0000",
+      "title": "Forgelab PDF API Review: Affordable REST API for PDF Merge, Split, and Compress",
+      "link": "https://dev.to/pickuma/forgelab-pdf-api-review-affordable-rest-api-for-pdf-merge-split-and-compress-5fn9",
+      "summary": "PDF processing looks trivial until you ship it. Merging two files, splitting a report into per-chapter documents, compressing a 40 MB scan so it clears an email size limit — each one is a solved problem inside some libra",
+      "image": "",
+      "published": "Thu, 21 May 2026 08:41:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Our retry loop made an outage worse. The circuit breaker stopped the cascade.",
-      "link": "https://dev.to/mukundakatta/our-retry-loop-made-an-outage-worse-the-circuit-breaker-stopped-the-cascade-4n47",
-      "summary": "A few weeks back there was a 22-minute window where Anthropic returned a high rate of 5xx responses. Not a full outage. Degraded.\n\nOur agent service had a retry policy that backed off and tried again on 5xx. With six wor",
-      "image": "",
-      "published": "Thu, 21 May 2026 01:52:16 +0000",
+      "title": "UseState - Exercises",
+      "link": "https://dev.to/sivakumar_mathiyalagan_/usestate-exercises-3ekc",
+      "summary": "*Toggle Button *\n\n\n\nimport { useState } from \"react\";\n\nfunction Toggle(){\n\n   const [bulb,setBulb] = useState(\"https://www.w3schools.com/js/pic_bulboff.gif\")\n//    const [flag,setFlag] = useState(false);\n\n\n\n\n\n   function",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F187mb0jiai4eexcl0yyv.png",
+      "published": "Thu, 21 May 2026 08:41:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude returned ```json blocks 14% of the time. Here is the Rust crate I wish I had earlier.",
-      "link": "https://dev.to/mukundakatta/claude-returned-json-blocks-14-of-the-time-here-is-the-rust-crate-i-wish-i-had-earlier-4dp6",
-      "summary": "I had a system prompt that ended with: Reply with only a JSON object. Do not include code fences. Do not include explanation.\n\nThat should be enough. It is not.\n\nOver a week of structured-output calls (12,400 of them, mo",
+      "title": "The Pope, Anthropic, and the Weight of Rerum Novarum",
+      "link": "https://dev.to/peremptory/the-pope-anthropic-and-the-weight-of-rerum-novarum-5692",
+      "summary": "On May 25, an American pope will stand in the Vatican's Synod Hall and present the first papal encyclical on artificial intelligence. Alongside him: Christopher Olah, co-founder of Anthropic and one of the field's leadin",
       "image": "",
-      "published": "Thu, 21 May 2026 01:52:16 +0000",
+      "published": "Thu, 21 May 2026 08:40:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I burned my Anthropic org cap and waited 3 days. Then I built llmfleet.",
-      "link": "https://dev.to/mukundakatta/i-burned-my-anthropic-org-cap-and-waited-3-days-then-i-built-llmfleet-2noo",
-      "summary": "Tuesday afternoon I kicked off a re-grading job. About 18,000 prompts against claude-opus-4-7, eight workers, each one looping messages.create as fast as it could.\n\nForty minutes in, every call started coming back with a",
+      "title": "NVIDIA's $81.6B Quarter Confirms the Networking Bottleneck — Here's What Developers Should Know",
+      "link": "https://dev.to/harryfloyd/nvidias-816b-quarter-confirms-the-networking-bottleneck-heres-what-developers-should-know-5hal",
+      "summary": "NVIDIA reported $81.6 billion in revenue for Q1 FY2027 yesterday. That's an 85% year-over-year increase. Non-GAAP EPS of $1.87 beat consensus by 6%. Q2 guidance of $91 billion is 4% above what analysts expected.\n\nBy ever",
       "image": "",
-      "published": "Thu, 21 May 2026 01:52:00 +0000",
+      "published": "Thu, 21 May 2026 08:39:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
