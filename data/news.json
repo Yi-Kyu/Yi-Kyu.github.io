@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T19:58:00.589729Z",
+  "updated": "2026-05-21T01:53:56.856283Z",
   "articles": [
     {
       "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in Califo",
+      "image": "",
+      "published": "Wed, 20 May 2026 17:36:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "image": "",
+      "published": "Wed, 20 May 2026 17:19:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
@@ -70,24 +88,6 @@
       "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
       "image": "",
       "published": "Wed, 20 May 2026 08:52:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
-      "image": "",
-      "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "image": "",
-      "published": "Wed, 20 May 2026 04:14:08 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "summary": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 121\n# Comments: 47",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 20\n# Comments: 4",
       "image": "",
-      "published": "Wed, 20 May 2026 19:05:30 +0000",
+      "published": "Thu, 21 May 2026 00:36:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
-      "link": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
-      "summary": "Article URL: https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report\nComments URL: https://news.ycombinator.com/item?id=48212279\nPoints: 80\n# Comments: 57",
+      "title": "I reverse engineered Apple's video wallpapers",
+      "link": "https://github.com/kageroumado/phosphene",
+      "summary": "Article URL: https://github.com/kageroumado/phosphene\nComments URL: https://news.ycombinator.com/item?id=48215979\nPoints: 45\n# Comments: 7",
       "image": "",
-      "published": "Wed, 20 May 2026 18:50:59 +0000",
+      "published": "Wed, 20 May 2026 23:54:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Node.js 26.0.0 (Now with Temporal)",
-      "link": "https://nodejs.org/en/blog/release/v26.0.0",
-      "summary": "Article URL: https://nodejs.org/en/blog/release/v26.0.0\nComments URL: https://news.ycombinator.com/item?id=48212242\nPoints: 37\n# Comments: 7",
+      "title": "DOS Zone",
+      "link": "https://dos.zone/",
+      "summary": "Article URL: https://dos.zone/\nComments URL: https://news.ycombinator.com/item?id=48215418\nPoints: 86\n# Comments: 20",
       "image": "",
-      "published": "Wed, 20 May 2026 18:48:30 +0000",
+      "published": "Wed, 20 May 2026 22:53:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Flipper One Tech Specs",
-      "link": "https://docs.flipper.net/one/general/tech-specs",
-      "summary": "Article URL: https://docs.flipper.net/one/general/tech-specs\nComments URL: https://news.ycombinator.com/item?id=48212046\nPoints: 29\n# Comments: 6",
+      "title": "Starship's Twelfth Flight Test",
+      "link": "https://www.spacex.com/launches/starship-flight-12",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-12\nComments URL: https://news.ycombinator.com/item?id=48214558\nPoints: 88\n# Comments: 79",
       "image": "",
-      "published": "Wed, 20 May 2026 18:33:56 +0000",
+      "published": "Wed, 20 May 2026 21:41:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "summary": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained\nComments URL: https://news.ycombinator.com/item?id=48211409\nPoints: 21\n# Comments: 9",
+      "title": "Google Declaring War on the Web",
+      "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 329\n# Comments: 217",
       "image": "",
-      "published": "Wed, 20 May 2026 17:48:52 +0000",
+      "published": "Wed, 20 May 2026 21:33:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Python Day 2: Conditions, Loops & Functions — The Engine Behind Every AI App",
-      "link": "https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm",
-      "summary": "Introduction\n\n\nVariables store data. But conditions, loops, and functions are what make programs think, repeat, and scale.\n\nThese concepts power AI agents, automation scripts, backend APIs, chatbots, and workflow systems",
+      "title": "A 3-step agent cost me $4.20. agenttrace showed me the O(n ) tool call hiding in plain sight.",
+      "link": "https://dev.to/mukundakatta/a-3-step-agent-cost-me-420-agenttrace-showed-me-the-on-tool-call-hiding-in-plain-sight-3omp",
+      "summary": "I ran a small agent. Three steps. One web search, one summarize, one cite-check. I had budgeted maybe 12 cents.\n\nThe bill at the end of the run was $4.20.\n\nI knew something was off but the per-call invoice line items wer",
       "image": "",
-      "published": "Wed, 20 May 2026 19:45:20 +0000",
+      "published": "Thu, 21 May 2026 01:52:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Access Denied: What Every AWS Beginner Gets Wrong About IAM",
-      "link": "https://dev.to/jvogel/access-denied-what-every-aws-beginner-gets-wrong-about-iam-9k1",
-      "summary": "The IAM mental model I wish someone had drawn on a whiteboard for me when I was starting out with AWS.\n\nIf you want a video to follow along with this blog, you can find it in the AWS Developers Youtube Channel\n\nI spun up",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzr93ou0btgdyypbajc2m.png",
-      "published": "Wed, 20 May 2026 19:45:19 +0000",
+      "title": "Beyond WebView: The Next Evolution of Hybrid App Architecture",
+      "link": "https://dev.to/ai_superapp/beyond-webview-the-next-evolution-of-hybrid-app-architecture-170n",
+      "summary": "1. The Hybrid App Journey — What Got Us Here\n\n\nFor years, mobile development teams have faced the same trade-off: native applications provide the best performance and user experience, but they also require maintaining se",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr2k2lk66cntg0n6dt9yx.png",
+      "published": "Thu, 21 May 2026 01:52:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google I/O 2026: From Consumer to Builder",
-      "link": "https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom",
-      "summary": "I tune in to Google I/O every year. But this year felt different.\n\nIn the past, I watched as a consumer. I needed the updates, first to keep up, then to pass them on to my audience. I was a distributor of news, a passive",
+      "title": "Our retry loop made an outage worse. The circuit breaker stopped the cascade.",
+      "link": "https://dev.to/mukundakatta/our-retry-loop-made-an-outage-worse-the-circuit-breaker-stopped-the-cascade-4n47",
+      "summary": "A few weeks back there was a 22-minute window where Anthropic returned a high rate of 5xx responses. Not a full outage. Degraded.\n\nOur agent service had a retry policy that backed off and tried again on 5xx. With six wor",
       "image": "",
-      "published": "Wed, 20 May 2026 19:41:08 +0000",
+      "published": "Thu, 21 May 2026 01:52:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OpenGuard AI",
-      "link": "https://dev.to/suyashsrivastavadev/openguard-ai-288m",
-      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nOpenGuard is a developer-centric, self-hosted static code analysis (SCA) platform designed to act as an open-source alternative ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qjbkzjqbi02xcd57mvg.png",
-      "published": "Wed, 20 May 2026 19:38:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What I Learned Building a 402-Powered API for Agent Workflows",
-      "link": "https://dev.to/max_holloway/what-i-learned-building-a-402-powered-api-for-agent-workflows-5kj",
-      "summary": "Disclosure: I used AI as an editing/drafting assistant for this post, but the architecture, examples, and technical claims here are mine and were reviewed before publishing.\n\n\nMost paid APIs still assume a familiar model",
+      "title": "Claude returned ```json blocks 14% of the time. Here is the Rust crate I wish I had earlier.",
+      "link": "https://dev.to/mukundakatta/claude-returned-json-blocks-14-of-the-time-here-is-the-rust-crate-i-wish-i-had-earlier-4dp6",
+      "summary": "I had a system prompt that ended with: Reply with only a JSON object. Do not include code fences. Do not include explanation.\n\nThat should be enough. It is not.\n\nOver a week of structured-output calls (12,400 of them, mo",
       "image": "",
-      "published": "Wed, 20 May 2026 19:35:37 +0000",
+      "published": "Thu, 21 May 2026 01:52:16 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I burned my Anthropic org cap and waited 3 days. Then I built llmfleet.",
+      "link": "https://dev.to/mukundakatta/i-burned-my-anthropic-org-cap-and-waited-3-days-then-i-built-llmfleet-2noo",
+      "summary": "Tuesday afternoon I kicked off a re-grading job. About 18,000 prompts against claude-opus-4-7, eight workers, each one looping messages.create as fast as it could.\n\nForty minutes in, every call started coming back with a",
+      "image": "",
+      "published": "Thu, 21 May 2026 01:52:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
