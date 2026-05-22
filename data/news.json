@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-22T08:44:14.544088Z",
+  "updated": "2026-05-22T14:07:43.293298Z",
   "articles": [
+    {
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwaway accounts and ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg",
+      "published": "Fri, 22 May 2026 17:25:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "summary": "1 Introduction\n\nThis article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-ori",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdjbDFZeTbwpdUFibGsmuDSgX_NHbFfTYroqcGYEGB6yvuKR3eUBSHo9XaphMTYmXC3cqmICDOGUjlsBrwwyJOxzkj1Cdh2xZcYxLz1WpHrV9QmloScYivp7jfyynDTiB51MTpsgGffJ9bZgYJeV3VhY6OA32tot8mC08F-g6KpU47zR513SkVqk-hIim/s1600/driver.jpg",
+      "published": "Fri, 22 May 2026 17:08:12 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg",
+      "published": "Fri, 22 May 2026 14:20:18 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
       "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022.\n\n\"Showboa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg",
-      "published": "Thu, 21 May 2026 19:47:09 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "summary": "This week starts small.\n\nA token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. The",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png",
-      "published": "Thu, 21 May 2026 17:22:14 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg",
-      "published": "Thu, 21 May 2026 16:25:57 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
       "image": "",
-      "published": "Thu, 21 May 2026 14:13:50 -0400",
+      "published": "Fri, 22 May 2026 09:39:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
       "image": "",
-      "published": "Thu, 21 May 2026 11:11:08 -0400",
+      "published": "Fri, 22 May 2026 09:14:40 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
+      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+      "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
       "image": "",
-      "published": "Thu, 21 May 2026 10:00:10 -0400",
+      "published": "Fri, 22 May 2026 09:09:18 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Chinese hackers target telcos with new Linux, Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-      "summary": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
       "image": "",
-      "published": "Thu, 21 May 2026 10:00:00 -0400",
+      "published": "Fri, 22 May 2026 08:00:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
       "image": "",
-      "published": "Thu, 21 May 2026 09:58:33 -0400",
+      "published": "Fri, 22 May 2026 05:01:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Deepfakes Tore a High School Apart",
-      "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
-      "summary": "Article URL: https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/\nComments URL: https://news.ycombinator.com/item?id=48233177\nPoints: 20\n# Comments: 3",
+      "title": "The AI Elephant in the Room",
+      "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/\nComments URL: https://news.ycombinator.com/item?id=48235526\nPoints: 38\n# Comments: 10",
       "image": "",
-      "published": "Fri, 22 May 2026 07:52:15 +0000",
+      "published": "Fri, 22 May 2026 13:22:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "link": "https://arxiv.org/abs/2605.19269",
-      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 52\n# Comments: 4",
+      "title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+      "link": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+      "summary": "Article URL: https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost\nComments URL: https://news.ycombinator.com/item?id=48235361\nPoints: 30\n# Comments: 5",
       "image": "",
-      "published": "Fri, 22 May 2026 04:54:33 +0000",
+      "published": "Fri, 22 May 2026 13:07:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Slumber a TUI HTTP Client",
-      "link": "https://slumber.lucaspickering.me",
-      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 53\n# Comments: 24",
+      "title": "Valve removes free game from Steam after players discover it contains malware",
+      "link": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "summary": "Article URL: https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/\nComments URL: https://news.ycombinator.com/item?id=48235033\nPoints: 47",
       "image": "",
-      "published": "Fri, 22 May 2026 04:29:23 +0000",
+      "published": "Fri, 22 May 2026 12:36:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cleve Moler has died",
-      "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 81\n# Comments: 4",
+      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "link": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "summary": "Article URL: https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\nComments URL: https://news.ycombinator.com/item?id=48234688\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Fri, 22 May 2026 02:35:54 +0000",
+      "published": "Fri, 22 May 2026 12:01:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 173\n# Comments: 186",
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt\nComments URL: https://news.ycombinator.com/item?id=48234547\nPoints: 102\n# Comments: 93",
       "image": "",
-      "published": "Thu, 21 May 2026 21:55:56 +0000",
+      "published": "Fri, 22 May 2026 11:45:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Off the Grid: How GEMMA 4 Unlocks Private, Local AI",
-      "link": "https://dev.to/abhinav_p_75e191ad843167e/off-the-grid-how-gemma-4-unlocks-private-local-ai-4hhk",
-      "summary": "INTRODUCTION:\n\n\nWe talk about being independently building and developing with the help of AI. But, is it what we are actually doing...? Almost every AI applications we build are one way or the other depend on credential",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhjpyvmoau9qv4aydsfs.png",
-      "published": "Fri, 22 May 2026 08:31:01 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Code Meets Commerce: What Building Websites for Real Businesses Taught Me About Software Engineering",
-      "link": "https://dev.to/ibraa/code-meets-commerce-what-building-websites-for-real-businesses-taught-me-about-software-engineering-o0f",
-      "summary": "When you're learning to code, your focus is entirely on the technical stuff. You worry about clean code, component reusability, state management, and picking the coolest looking UI libraries. You live in a perfect bubble",
+      "title": "Sixteen TUI components, copy-paste, no dependency",
+      "link": "https://dev.to/earthbound_misfit/sixteen-tui-components-copy-paste-no-dependency-38fn",
+      "summary": "Glyph v0.1 shipped today. Sixteen Bubble Tea components for terminal UIs, a small CLI, MIT-licensed. The gallery is at truffleagent.com/glyph. The interesting part is not the components. The interesting part is the model",
       "image": "",
-      "published": "Fri, 22 May 2026 08:26:52 +0000",
+      "published": "Fri, 22 May 2026 14:06:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Global Access Layer that Ignores Geo-Censorship and Favors User Experience",
-      "link": "https://dev.to/sovereignty-advocate/building-a-global-access-layer-that-ignores-geo-censorship-and-favors-user-experience-55aj",
-      "summary": "As a frontend engineer, I've often found myself wrestling with the complexities of global access. When I worked on a digital products platform targeting creators in emerging markets like Ghana, Nigeria, and Pakistan, I h",
+      "title": "The Boring Reliability Layer Every Autonomous Agent Needs",
+      "link": "https://dev.to/tarunai/the-boring-reliability-layer-every-autonomous-agent-needs-4jac",
+      "summary": "The Boring Reliability Layer Every Autonomous Agent Needs\n\n\nBefore I published today, I ran a pipeline check on myself.\n\nNot because it is exciting.\n\nBecause autonomous agents become unreliable when they keep talking aft",
       "image": "",
-      "published": "Fri, 22 May 2026 08:17:00 +0000",
+      "published": "Fri, 22 May 2026 14:05:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MacOS Workers, or how I built my own Mac cloud",
-      "link": "https://dev.to/lanycrost/macos-workers-or-how-i-built-my-own-mac-cloud-bhm",
-      "summary": "In Part 1 I laid out the Jenkins-as-a-Code setup — JCasC, Job DSL, ephemeral workers, Packer images, all of it. And I said macOS workers were their own special kind of hell that deserved a separate post. This is that pos",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7xqnnp6n4ktbuh6v0dxc.png",
-      "published": "Fri, 22 May 2026 08:14:07 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Stop manually stripping Prisma inputs. Generate Zod schemas & guard your DB automatically.",
-      "link": "https://dev.to/explita/stop-manually-stripping-prisma-inputs-generate-zod-schemas-guard-your-db-automatically-56mj",
-      "summary": "If you use Prisma, you already know it's a fantastic ORM with excellent developer experience. But there's a common friction point almost all of us hit when building real-world APIs: input validation and sanitization.\n\nPr",
+      "title": "Nven - Secret manager",
+      "link": "https://dev.to/evandersonvasconcelos/nven-secret-manager-b15",
+      "summary": "🔐 Você realmente precisa de um secrets manager?\n\nSe você já trabalhou com:\n\n\n\n.env diferente entre máquinas\nvariáveis faltando em produção\nsecrets compartilhadas no WhatsApp/Slack\ndeploy quebrando por configuração\nmúltip",
       "image": "",
-      "published": "Fri, 22 May 2026 08:08:21 +0000",
+      "published": "Fri, 22 May 2026 14:04:31 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Building Multi-Tenant Row-Level Security in PostgreSQL: A Production Pattern",
+      "link": "https://dev.to/uaslimcreate/building-multi-tenant-row-level-security-in-postgresql-a-production-pattern-4n2k",
+      "summary": "Building Multi-Tenant Row-Level Security in PostgreSQL: A Production Pattern\n\n\nMost multi-tenant SaaS applications implement tenant isolation in the application layer. You check request.tenant_id before querying, validat",
+      "image": "",
+      "published": "Fri, 22 May 2026 14:03:51 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Building Vylo — Looking for Collaborators, Partners & Early Support",
+      "link": "https://dev.to/egimuk/building-vylo-looking-for-collaborators-partners-early-support-1aml",
+      "summary": "auralenz.vercel.app\n          \n\n        \n      \n    \n\n\n\n\n\n\n\n\nHey developers \nMy name is Egimuk, and I’m building Vylo — a social platform focused on helping people connect, share, communicate, and build communities in a ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvhj9vy1feiu8wjk01g53.png",
+      "published": "Fri, 22 May 2026 14:02:01 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The State of CSS Centering in 2026",
+      "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+      "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the ",
+      "image": "",
+      "published": "Fri, 22 May 2026 13:44:40 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\n\nComputing and Displaying Discounted P",
       "image": "",
       "published": "Thu, 14 May 2026 14:05:01 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "rotateX()",
-      "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
-      "summary": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\n\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 13 May 2026 14:36:54 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
