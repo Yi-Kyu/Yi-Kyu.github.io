@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-22T01:55:13.580119Z",
+  "updated": "2026-05-22T08:44:14.544088Z",
   "articles": [
+    {
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg",
+      "published": "Fri, 22 May 2026 11:17:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg",
+      "published": "Fri, 22 May 2026 11:06:18 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
       "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
@@ -25,24 +43,6 @@
       "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg",
       "published": "Thu, 21 May 2026 16:25:57 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "When Identity is the Attack Path",
-      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg",
-      "published": "Thu, 21 May 2026 16:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper priv",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif",
-      "published": "Thu, 21 May 2026 13:05:53 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The IBM-ification of Google?",
-      "link": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
-      "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/\nComments URL: https://news.ycombinator.com/item?id=48230049\nPoints: 61\n# Comments: 55",
+      "title": "Deepfakes Tore a High School Apart",
+      "link": "https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/",
+      "summary": "Article URL: https://www.404media.co/radnor-high-school-pennsylvania-ai-deepfakes-child-sexual-abuse-material/\nComments URL: https://news.ycombinator.com/item?id=48233177\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Thu, 21 May 2026 23:30:10 +0000",
+      "published": "Fri, 22 May 2026 07:52:15 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "link": "https://arxiv.org/abs/2605.19269",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 52\n# Comments: 4",
+      "image": "",
+      "published": "Fri, 22 May 2026 04:54:33 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Slumber a TUI HTTP Client",
+      "link": "https://slumber.lucaspickering.me",
+      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 53\n# Comments: 24",
+      "image": "",
+      "published": "Fri, 22 May 2026 04:29:23 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Cleve Moler has died",
+      "link": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 81\n# Comments: 4",
+      "image": "",
+      "published": "Fri, 22 May 2026 02:35:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 92\n# Comments: 46",
+      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 173\n# Comments: 186",
       "image": "",
       "published": "Thu, 21 May 2026 21:55:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 69\n# Comments: 48",
-      "image": "",
-      "published": "Thu, 21 May 2026 20:56:36 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "link": "https://arxiv.org/abs/2605.12460",
-      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 56\n# Comments: 4",
-      "image": "",
-      "published": "Thu, 21 May 2026 19:37:26 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Using Kagi Search with Low Vision",
-      "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 129\n# Comments: 20",
-      "image": "",
-      "published": "Thu, 21 May 2026 19:32:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "From \"Vibe Coding\" to Production Hardening: How to Secure AI-Coded Applications",
-      "link": "https://dev.to/suryansh_swarn/from-vibe-coding-to-production-hardening-how-to-secure-ai-coded-applications-2d63",
-      "summary": "We are living in the golden era of \"Vibe Coding.\" Thanks to advanced LLMs like Claude, GPT-4, and specialized coding assistants, developers can now translate raw human intent into fully functioning software in a matter o",
-      "image": "",
-      "published": "Fri, 22 May 2026 01:45:34 +0000",
+      "title": "Off the Grid: How GEMMA 4 Unlocks Private, Local AI",
+      "link": "https://dev.to/abhinav_p_75e191ad843167e/off-the-grid-how-gemma-4-unlocks-private-local-ai-4hhk",
+      "summary": "INTRODUCTION:\n\n\nWe talk about being independently building and developing with the help of AI. But, is it what we are actually doing...? Almost every AI applications we build are one way or the other depend on credential",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhjpyvmoau9qv4aydsfs.png",
+      "published": "Fri, 22 May 2026 08:31:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents",
-      "link": "https://dev.to/ex_boys/beyond-runtime-skilllites-full-chain-security-for-evolving-agents-1lph",
-      "summary": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents\n\n\nDeveloping AI agents that can learn and adapt is exciting, but it introduces a critical security challenge: how do you safely allow an agent to evolve",
+      "title": "Code Meets Commerce: What Building Websites for Real Businesses Taught Me About Software Engineering",
+      "link": "https://dev.to/ibraa/code-meets-commerce-what-building-websites-for-real-businesses-taught-me-about-software-engineering-o0f",
+      "summary": "When you're learning to code, your focus is entirely on the technical stuff. You worry about clean code, component reusability, state management, and picking the coolest looking UI libraries. You live in a perfect bubble",
       "image": "",
-      "published": "Fri, 22 May 2026 01:44:32 +0000",
+      "published": "Fri, 22 May 2026 08:26:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Context-Driven Testing: What It Is and Why It Matters Now",
-      "link": "https://dev.to/rebeqa/context-driven-testing-what-it-is-and-why-it-matters-now-32cj",
-      "summary": "Context-driven testing rejects the notion that there's a universal \"best practice\" for QA. Instead, it holds that the value of any testing approach depends entirely on the context you're operating in. What works at a reg",
+      "title": "Building a Global Access Layer that Ignores Geo-Censorship and Favors User Experience",
+      "link": "https://dev.to/sovereignty-advocate/building-a-global-access-layer-that-ignores-geo-censorship-and-favors-user-experience-55aj",
+      "summary": "As a frontend engineer, I've often found myself wrestling with the complexities of global access. When I worked on a digital products platform targeting creators in emerging markets like Ghana, Nigeria, and Pakistan, I h",
       "image": "",
-      "published": "Fri, 22 May 2026 01:41:17 +0000",
+      "published": "Fri, 22 May 2026 08:17:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Global Digital Store in a Country that Hates Cryptocurrency",
-      "link": "https://dev.to/global-commerce-strategy/building-a-global-digital-store-in-a-country-that-hates-cryptocurrency-1jl7",
-      "summary": "The Problem We Were Actually Solving\n\n\nWhen I started working on a platform for selling digital downloads, I thought the biggest challenge would be getting the product right. I mean, it's just a collection of files, how ",
-      "image": "",
-      "published": "Fri, 22 May 2026 01:38:11 +0000",
+      "title": "MacOS Workers, or how I built my own Mac cloud",
+      "link": "https://dev.to/lanycrost/macos-workers-or-how-i-built-my-own-mac-cloud-bhm",
+      "summary": "In Part 1 I laid out the Jenkins-as-a-Code setup — JCasC, Job DSL, ephemeral workers, Packer images, all of it. And I said macOS workers were their own special kind of hell that deserved a separate post. This is that pos",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7xqnnp6n4ktbuh6v0dxc.png",
+      "published": "Fri, 22 May 2026 08:14:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub confirmed a breach last week that exposed around 3,800 internal repositories. The cause wasn't a zero-day. It was a VS Code extension.",
-      "link": "https://dev.to/thejs_pythonguy/github-confirmed-a-breach-last-week-that-exposed-around-3800-internal-repositories-the-cause-2ann",
-      "summary": "Attackers took over the publisher token for Nx Console, which has about 2.2 million installs. They pushed a malicious JavaScript file to the VS Code Marketplace. It was up for 18 minutes before it got pulled. Because of ",
+      "title": "Stop manually stripping Prisma inputs. Generate Zod schemas & guard your DB automatically.",
+      "link": "https://dev.to/explita/stop-manually-stripping-prisma-inputs-generate-zod-schemas-guard-your-db-automatically-56mj",
+      "summary": "If you use Prisma, you already know it's a fantastic ORM with excellent developer experience. But there's a common friction point almost all of us hit when building real-world APIs: input validation and sanitization.\n\nPr",
       "image": "",
-      "published": "Fri, 22 May 2026 01:37:10 +0000",
+      "published": "Fri, 22 May 2026 08:08:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
