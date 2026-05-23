@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-23T12:51:58.342505Z",
+  "updated": "2026-05-23T18:49:43.355676Z",
   "articles": [
+    {
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for instal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png",
+      "published": "Sat, 23 May 2026 22:05:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages wer",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg",
+      "published": "Sat, 23 May 2026 21:37:51 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKqQ4Uk8lGWwF7f6lrmP6dRHkEmQTJsqFs8xvJ5256xUcHTeWMNVMkPguALNqLPpJWneU9XWIEzi4jSUVTiS2In1QMSl7NEjNDB99yHlGeCjw4OAQ3Lx8jhE5l9RUGMmth_ecUC1GcgierrFk8XKREHXC73mQn3w3jFcqjvJL1UZpPJPP62Uv-IpfBafRI/s1600/cisa-drupal.jpg",
-      "published": "Sat, 23 May 2026 12:53:48 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and d",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yN-yeHodasj_piRqdUbE1MGyOfiyAzo-x6KZ_V9oilxP_v_kFNoyLVU7oNmG05F5g49pLeMY_jgJtU0mFk9ft_0qi4oLFgTxm0KWBncWw9lq0lVJFdkzshBzjul-2ODkaGNoLbgFUqKXbwKJJiF8nm0E6u7q6hnK_Vzb07XT-iygxE6Ct3bxW7A6s6f8/s1600/firstvpn.jpg",
-      "published": "Fri, 22 May 2026 23:05:02 +0530",
-      "source": "The Hacker News",
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+      "image": "",
+      "published": "Sat, 23 May 2026 10:23:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
       "image": "",
       "published": "Fri, 22 May 2026 09:14:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
-      "image": "",
-      "published": "Fri, 22 May 2026 09:09:18 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I Miss Terry Pratchett",
-      "link": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "summary": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/\nComments URL: https://news.ycombinator.com/item?id=48247127\nPoints: 4\n# Comments: 0",
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "link": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "summary": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality\nComments URL: https://news.ycombinator.com/item?id=48249747\nPoints: 35\n# Comments: 7",
       "image": "",
-      "published": "Sat, 23 May 2026 12:35:28 +0000",
+      "published": "Sat, 23 May 2026 18:02:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "80386 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/\nComments URL: https://news.ycombinator.com/item?id=48247004\nPoints: 29\n# Comments: 3",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "summary": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\nComments URL: https://news.ycombinator.com/item?id=48248954\nPoints: 36\n# Comments: 3",
       "image": "",
-      "published": "Sat, 23 May 2026 12:11:43 +0000",
+      "published": "Sat, 23 May 2026 16:24:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "link": "https://horace.io/brrr_intro.html",
-      "summary": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 16\n# Comments: 6",
+      "title": "Evaluating Spec CPU2026",
+      "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
+      "summary": "Article URL: https://chipsandcheese.com/p/evaluating-spec-cpu2026\nComments URL: https://news.ycombinator.com/item?id=48248861\nPoints: 9\n# Comments: 0",
       "image": "",
-      "published": "Sat, 23 May 2026 11:50:22 +0000",
+      "published": "Sat, 23 May 2026 16:13:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DHS Quits Granting Green Cards–Almost",
-      "link": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-      "summary": "Article URL: https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely\nComments URL: https://news.ycombinator.com/item?id=48246735\nPoints: 28\n# Comments: 7",
+      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+      "link": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\nComments URL: https://news.ycombinator.com/item?id=48248775\nPoints: 108\n# Comments: 31",
       "image": "",
-      "published": "Sat, 23 May 2026 11:18:23 +0000",
+      "published": "Sat, 23 May 2026 16:02:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "link": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "summary": "Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/\nComments URL: https://news.ycombinator.com/item?id=48246614\nPoints: 80\n# Comments: 44",
+      "title": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+      "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/\nComments URL: https://news.ycombinator.com/item?id=48248659\nPoints: 74\n# Comments: 69",
       "image": "",
-      "published": "Sat, 23 May 2026 10:57:14 +0000",
+      "published": "Sat, 23 May 2026 15:47:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js",
-      "link": "https://dev.to/prem_gaikwad_316d716c3/i-built-a-full-stack-miro-clone-with-real-time-collaboration-using-nextjs-1gda",
-      "summary": "🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js\n\n\nAfter weeks of building, debugging, redesigning, and optimizing — I finally completed my full stack collaborative whiteboard project called C",
+      "title": "I Spent a Month Testing Decentralized Poker Sites. Here's What Actually Works.",
+      "link": "https://dev.to/mm_cc_62ed7bf86a804a3f340/i-spent-a-month-testing-decentralized-poker-sites-heres-what-actually-works-1po6",
+      "summary": "I've been playing online poker since the Full Tilt days. I've seen the shutdowns, the payment processor nightmares, the slow crawl back to legitimacy. But nothing prepared me for what happened when I tried to cash out $4",
       "image": "",
-      "published": "Sat, 23 May 2026 12:45:49 +0000",
+      "published": "Sat, 23 May 2026 18:39:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an African Economic Data Pipeline with Python, DuckDB & World Bank API",
-      "link": "https://dev.to/hajirufai/building-an-african-economic-data-pipeline-with-python-duckdb-world-bank-api-3al0",
-      "summary": "Every data engineer knows the struggle: finding a project that's both technically impressive and genuinely useful. Today I'll walk you through AfriData Pipeline — a production-grade ETL system that extracts economic data",
+      "title": "DeepSeek-R1: The $0 o1 Alternative You Can Run Right Now",
+      "link": "https://dev.to/lingdas1/deepseek-r1-the-0-o1-alternative-you-can-run-right-now-24a5",
+      "summary": "1|# DeepSeek-R1: The $0 o1 Alternative You Can Run Right Now\n 2|\n 3|&gt; **Run OpenAI o1-level reasoning on your own GPU — for free, with full privacy, and no API keys.**\n 4|\n 5|## Why DeepSeek-R1 Matters\n 6|\n 7|In Janua",
       "image": "",
-      "published": "Sat, 23 May 2026 12:41:33 +0000",
+      "published": "Sat, 23 May 2026 18:39:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "llms.txt vs robots.txt vs ai.txt: The Developer's Cheat Sheet",
-      "link": "https://dev.to/mudassirworks/llmstxt-vs-robotstxt-vs-aitxt-the-developers-cheat-sheet-1p72",
-      "summary": "llms.txt vs robots.txt vs ai.txt: The Developer's Cheat Sheet\n\n\nEvery Next.js developer building a public site in the last 18 months has hit the same wall: you Google \"how to control what AI crawlers read\" and get three ",
+      "title": "The PHP Stack I Built TrustGate On — And Why I'd Do It Differently Today",
+      "link": "https://dev.to/pratap_h/the-php-stack-i-built-trustgate-on-and-why-id-do-it-differently-today-397a",
+      "summary": "I built TrustGate — India's independent business review platform — entirely as a custom WordPress plugin.\n\nFull REST API. Custom database tables with versioned migrations. Cryptographically secure random tokens for a liv",
       "image": "",
-      "published": "Sat, 23 May 2026 12:40:02 +0000",
+      "published": "Sat, 23 May 2026 18:36:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Intigriti Challenge 0526 Writeup",
-      "link": "https://dev.to/arnavkr/intigriti-challenge-0526-writeup-3f74",
-      "summary": "Well this is a typical XSS challenge, you find an injection point and pop and alert. Pretty straightforward, just have to find that injection point.\n\nThis month's challenge is a community feed website with register, logi",
+      "title": "Building High-Throughput Data Pipelines: Why Chaining Encryption and Compression is a Performance Killer",
+      "link": "https://dev.to/ygal_brami_561905d06d4ab6/building-high-throughput-data-pipelines-why-chaining-encryption-and-compression-is-a-performance-4pcf",
+      "summary": "In modern backend architecture, data pipelines are constantly forced to balance two competing priorities: storage/bandwidth efficiency and strict cryptographic security. \n\nTo meet compliance requirements and cut cloud in",
       "image": "",
-      "published": "Sat, 23 May 2026 12:37:31 +0000",
+      "published": "Sat, 23 May 2026 18:35:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Business Logic Flaws: How Attackers Skip Steps in Your App to Get What They Should Never Have",
-      "link": "https://dev.to/jer_catallo/how-business-logic-flaws-let-anyone-skip-payment-and-get-pro-access-for-free-2mbd",
-      "summary": "Business logic flaws are vulnerabilities that exist not because of a coding mistake, but because the application trusts its own workflow too much. Instead of exploiting a buffer overflow or injecting code, attackers simp",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F18d4zu9kz7mgn0ls84tr.png",
-      "published": "Sat, 23 May 2026 12:37:00 +0000",
+      "title": "Optic is dead. A 2026 migration guide for OpenAPI breaking changes",
+      "link": "https://dev.to/deepak_satyam_f22f6f8183f/optic-is-dead-a-2026-migration-guide-for-openapi-breaking-changes-4go2",
+      "summary": "This article was originally published on the SpecShield blog. I'm a co-founder of SpecShield, one of the migration targets discussed below — full disclosure upfront. The post tries to be honest about where SpecShield fit",
+      "image": "",
+      "published": "Sat, 23 May 2026 18:29:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
