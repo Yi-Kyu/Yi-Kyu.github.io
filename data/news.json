@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T12:52:36.978554Z",
+  "updated": "2026-05-24T18:55:43.096151Z",
   "articles": [
     {
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+      "image": "",
+      "published": "Sun, 24 May 2026 10:12:32 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
       "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious cod",
@@ -79,15 +88,6 @@
       "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
       "image": "",
       "published": "Fri, 22 May 2026 11:32:18 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "image": "",
-      "published": "Fri, 22 May 2026 09:39:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Childhood Computing",
-      "link": "https://susam.net/childhood-computing.html",
-      "summary": "Article URL: https://susam.net/childhood-computing.html\nComments URL: https://news.ycombinator.com/item?id=48256597\nPoints: 9\n# Comments: 1",
+      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 24 May 2026 12:07:34 +0000",
+      "published": "Sun, 24 May 2026 17:18:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mastering Dyalog APL",
-      "link": "https://mastering.dyalog.com/README.html",
-      "summary": "Article URL: https://mastering.dyalog.com/README.html\nComments URL: https://news.ycombinator.com/item?id=48256475\nPoints: 19\n# Comments: 1",
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Sun, 24 May 2026 11:42:15 +0000",
+      "published": "Sun, 24 May 2026 17:00:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Worlds Left to Conquer",
-      "link": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/\nComments URL: https://news.ycombinator.com/item?id=48256192\nPoints: 15\n# Comments: 4",
+      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "link": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "summary": "Article URL: https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver\nComments URL: https://news.ycombinator.com/item?id=48258736\nPoints: 47\n# Comments: 42",
       "image": "",
-      "published": "Sun, 24 May 2026 10:48:48 +0000",
+      "published": "Sun, 24 May 2026 16:36:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 69\n# Comments: 40",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 116\n# Comments: 117",
       "image": "",
-      "published": "Sun, 24 May 2026 08:29:38 +0000",
+      "published": "Sun, 24 May 2026 16:31:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "All Lean Books and Where to Find Them",
-      "link": "https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ",
-      "summary": "Article URL: https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ\nComments URL: https://news.ycombinator.com/item?id=48255501\nPoints: 20\n# Comments: 1",
+      "title": "Ruby for Good",
+      "link": "https://ti.to/codeforgood/rubyforgood",
+      "summary": "Article URL: https://ti.to/codeforgood/rubyforgood\nComments URL: https://news.ycombinator.com/item?id=48258254\nPoints: 60\n# Comments: 19",
       "image": "",
-      "published": "Sun, 24 May 2026 08:13:32 +0000",
+      "published": "Sun, 24 May 2026 15:49:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built an AI IDE where the AI tries to hack its own code here's how the swarm works",
-      "link": "https://dev.to/malgatyuvraj/i-built-an-ai-ide-where-the-ai-tries-to-hack-its-own-code-heres-how-the-swarm-works-28a5",
-      "summary": "Most AI coding tools are built to assist you.\n\nRogue Studio is built to attack you — specifically, to attack \nthe code it just wrote for you, find every vulnerability, and \nforce itself to fix them before you ever see th",
+      "title": "I built a free AI observability tool, prove your AI is useful, not just running",
+      "link": "https://dev.to/emmao/i-built-a-free-ai-observability-tool-prove-your-ai-is-useful-not-just-running-470a",
+      "summary": "Most AI monitoring tools tell you if your API is up.\nMine tells you if it's worth running.\n\n\n  \n  \n  Try it right now, no signup, 30 seconds\n\n\nVisit: https://ai-pou-tracker.vercel.app\n\n\nType any prompt in the Quick Test ",
       "image": "",
-      "published": "Sun, 24 May 2026 12:48:50 +0000",
+      "published": "Sun, 24 May 2026 18:42:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From Govhack Win to Something That Actually Matters",
-      "link": "https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi",
-      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n\n\n\n  \n  \n  What I Built\n\n\nProject Haven is an AI-powered emergency response and disaster recovery platform built specifically for bushfire preparedness — h",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2y4ec9cqn3z8xrob0zxe.png",
-      "published": "Sun, 24 May 2026 12:46:29 +0000",
+      "title": "터미널 AI 에이전트 구축 (v12)",
+      "link": "https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v12-42c9",
+      "summary": "터미널 AI 에이전트 구축 (v12)\n\n\n터미널에서 직접 작동하는 AI 에이전트를 구축하여 개발 워크플로우를 최적화하세요. 이 가이드는 개발자들이 직접 구축하고 커스터마이징할 수 있는 실질적인 터미널 AI 에이전트를 제공합니다.\n\n\n  \n  \n  1. CLI AI 에이전트 생태계\n\n\n현재 CLI AI 에이전트 생태계는 다음과 같은 주요 도구들로 구성되어 있습니다:\n\n\n  \n  \n  Aider",
+      "image": "",
+      "published": "Sun, 24 May 2026 18:40:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Coding & Vibe Coding: Build Faster Without Losing the Plot",
-      "link": "https://dev.to/nimay_04/ai-coding-vibe-coding-build-faster-without-losing-the-plot-b2c",
-      "summary": "AI Coding &amp; Vibe Coding: Build Faster Without Losing the Plot\n\nAI coding is no longer just autocomplete. It is planning, editing, testing, debugging, refactoring, and sometimes opening pull requests while you do some",
+      "title": "Building Instagram-Powered Apps with HikerAPI (Without Fighting Scrapers)",
+      "link": "https://dev.to/baroque_ai_383066a9394165/building-instagram-powered-apps-with-hikerapi-without-fighting-scrapers-3nh9",
+      "summary": "I recently worked on a project where I needed reliable Instagram data inside a backend workflow.\n\nAt first, I tried the usual approaches:\n\nDirect scraping\nBrowser automation\ninstagrapi\nRotating proxies\n\nIt worked… until ",
       "image": "",
-      "published": "Sun, 24 May 2026 12:45:33 +0000",
+      "published": "Sun, 24 May 2026 18:40:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fine-Tuning Gemma 4 for Function Calling with TRL's New Multimodal Tool Support",
-      "link": "https://dev.to/pulkitgovrani/fine-tuning-gemma-4-for-function-calling-with-trls-new-multimodal-tool-support-4ghf",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nGemma 4 ships with native function calling built in — trained from scratch, not prompt-engineered. But \"built in\" and \"tuned for your specific tools\" a",
+      "title": "Checkpoints, Not Transcripts: Rethinking AI Coding Agent Memory",
+      "link": "https://dev.to/lweiss01/checkpoints-not-transcripts-rethinking-ai-coding-agent-memory-21pj",
+      "summary": "TL;DR: AI coding agent memory should live in the repository, not the chat window. Bigger context windows and vector databases are solving the wrong problem. Here is the case for treating the repo itself as the durable co",
       "image": "",
-      "published": "Sun, 24 May 2026 12:42:07 +0000",
+      "published": "Sun, 24 May 2026 18:40:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemma 4 Scored 89.2% on AIME. Here's Why That Number Should Change How You Think About Open-Source AI",
-      "link": "https://dev.to/pulkitgovrani/gemma-4-scored-892-on-aime-heres-why-that-number-should-change-how-you-think-about-open-source-5aem",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nAIME — the American Invitational Mathematics Examination — is the test given to the top 5% of high school math competitors in the US. The problems requ",
+      "title": "From Side Project to Student Savior: My AI PPT & Resume Tool Crossed 1.5K+ Users",
+      "link": "https://dev.to/chandrakant_kelgire_79721/from-side-project-to-student-savior-my-ai-ppt-resume-tool-crossed-15k-users-2c1o",
+      "summary": "Hey Dev Community!A few weeks ago I quietly dropped a small project — an AI-powered tool for students. Today, I’m back with an update that genuinely surprised me.pptmaker.co.in has now helped 10,000+ students create pres",
       "image": "",
-      "published": "Sun, 24 May 2026 12:41:25 +0000",
+      "published": "Sun, 24 May 2026 18:34:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
