@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-25T01:58:47.608106Z",
+  "updated": "2026-05-25T09:41:59.797482Z",
   "articles": [
+    {
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious pac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg",
+      "published": "Mon, 25 May 2026 11:29:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
       "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
@@ -34,15 +43,6 @@
       "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affec",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg",
       "published": "Sat, 23 May 2026 15:21:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of inco",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png",
-      "published": "Sat, 23 May 2026 13:05:13 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "link": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-      "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 121\n# Comments: 79",
+      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "link": "https://www.tinyvolt.com/geomatic",
+      "summary": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can u",
       "image": "",
-      "published": "Sun, 24 May 2026 19:12:46 +0000",
+      "published": "Mon, 25 May 2026 08:25:00 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+      "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
+      "summary": "Article URL: https://www.atlasobscura.com/articles/blankets-summer-hot\nComments URL: https://news.ycombinator.com/item?id=48263711\nPoints: 27\n# Comments: 8",
+      "image": "",
+      "published": "Mon, 25 May 2026 05:33:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Jira Is Turing-Complete",
+      "link": "https://seriot.ch/computation/jira.html",
+      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 169\n# Comments: 73",
+      "image": "",
+      "published": "Mon, 25 May 2026 03:54:14 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The Eternal Sloptember",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\nComments URL: https://news.ycombinator.com/item?id=48263238\nPoints: 321\n# Comments: 252",
+      "image": "",
+      "published": "Mon, 25 May 2026 03:47:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "A fundamental principle of aeronautical engineering has been overturned",
       "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 54\n# Comments: 28",
+      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 162\n# Comments: 79",
       "image": "",
       "published": "Sun, 24 May 2026 19:10:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 92\n# Comments: 83",
+      "title": "File Types (Regular, Directory, Link, Device, Socket, Pipe)",
+      "link": "https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3",
+      "summary": "In Linux, everything is treated as a file.\n\nLinux supports different file types for:\n\n\nData storage\nDirectories\nHardware devices\nCommunication\nInter-process communication\n\n\nMain Linux File Types\n\n\n\n\nFile Type\nSymbol\nPurp",
       "image": "",
-      "published": "Sun, 24 May 2026 18:39:10 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Migrating from Go to Rust",
-      "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 133\n# Comments: 128",
-      "image": "",
-      "published": "Sun, 24 May 2026 18:31:42 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "link": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 29\n# Comments: 0",
-      "image": "",
-      "published": "Sun, 24 May 2026 17:18:52 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs",
-      "link": "https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb",
-      "summary": "React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs\n\n\nPointer events are the part of React nobody writes about because everybody assumes they have already been figured out. T",
-      "image": "",
-      "published": "Mon, 25 May 2026 01:47:37 +0000",
+      "published": "Mon, 25 May 2026 09:36:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Engineering decisions for my video call tool",
-      "link": "https://dev.to/prgrmr/engineering-decisions-for-my-video-call-tool-1167",
-      "summary": "WebChat\nA PeerJS-based browser-to-browser video conferencing app with low-latency, high-performance real-time communication.\n\nThis project pushed me deep into the internals of infrastructure optimization.\n\n\n\n\nKey Enginee",
+      "title": "From Arduino IDE to AVR GCC | AVR Bare Metal #1",
+      "link": "https://dev.to/jitterbytes/from-arduino-ide-to-avr-gcc-avr-bare-metal-1-29j1",
+      "summary": "Introduction\n\n\nIt has been a while since I started playing around with microcontrollers. My journey began with the Arduino UNO and programming it using the Arduino IDE. Later, I spent some time learning how to program PI",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytktpwouoymuhid24ygf.png",
+      "published": "Mon, 25 May 2026 09:32:27 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Using Bitcoin as collateral without wrapping it: the design of a BTC collateral vault",
+      "link": "https://dev.to/barissozen/using-bitcoin-as-collateral-without-wrapping-it-the-design-of-a-btc-collateral-vault-30f4",
+      "summary": "This is the Monday deep-dive — one mechanism, examined closely.\n\nSuppose a trading agent needs to post collateral, and the asset it wants to post is Bitcoin. That is a reasonable thing to want: BTC is the deepest, most l",
       "image": "",
-      "published": "Mon, 25 May 2026 01:47:05 +0000",
+      "published": "Mon, 25 May 2026 09:32:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The End of Web Scraping: Introducing WebMCP & Chrome DevTools for Agents",
-      "link": "https://dev.to/ajaymourya/the-end-of-web-scraping-introducing-webmcp-chrome-devtools-for-agents-4k81",
-      "summary": "A raw, developer-first look at Google’s proposed WebMCP open standard and Chrome DevTools for Agents - featuring real-world failure scenarios, a 10-line browser console polyfill, and the security nightmare Google swept u",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzy1g4vczpuy1vbkik0d1.png",
-      "published": "Mon, 25 May 2026 01:44:09 +0000",
+      "title": "Unreal Engine 5 Skill System Architecture using GAS and GameplayTags",
+      "link": "https://dev.to/frydayfreebie/unreal-engine-5-skill-system-architecture-using-gas-and-gameplaytags-44of",
+      "summary": "1. Overview\n\n\n\nWhen developing the game, the most important thing I considered was implementing a structure that is expandable and reusable.\nSo, for this project, I designed a common SkillBase structure + GameplayTag bas",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd55zh94zwhfrdsvicune.png",
+      "published": "Mon, 25 May 2026 09:31:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Treasure Hunt Engine: Where Optimism Meets Reality",
-      "link": "https://dev.to/built-from-africa/treasure-hunt-engine-where-optimism-meets-reality-1dn8",
-      "summary": "The Problem We Were Actually Solving\n\n\nWe needed a high-performance system to index and retrieve documents from a large corpus of data. The catch was that our users cared not only about the speed of the search but also t",
+      "title": "5 Things I Wish I Knew Before Building with Hermes Agent",
+      "link": "https://dev.to/pulkitgovrani/5-things-i-wish-i-knew-before-building-with-hermes-agent-3ah3",
+      "summary": "This is a submission for the Hermes Agent Challenge: Write About Hermes Agent\n\nI spent a week building a production system on Hermes Agent — a persistent AI memory layer for GitHub repositories called Shadow CTO. Here's ",
       "image": "",
-      "published": "Mon, 25 May 2026 01:44:09 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Building a comfortable workflow for debugging an old version of the Linux kernel",
-      "link": "https://dev.to/ddupard/building-a-comfortable-workflow-for-debugging-an-old-version-of-the-linux-kernel-557c",
-      "summary": "When you want to work on the Linux kernel, for example to see how an exploit acts (like Dirty COW on kernel 4.7), you need to build a comfortable working environment.\n\nI use:\n\n\n\nDocker for compiling sources in their orig",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F52j4gppztvssbvxchx44.png",
-      "published": "Mon, 25 May 2026 01:38:52 +0000",
+      "published": "Mon, 25 May 2026 09:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
