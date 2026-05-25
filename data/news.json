@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-25T09:41:59.797482Z",
+  "updated": "2026-05-25T14:25:56.490861Z",
   "articles": [
+    {
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks.\n\nAccording to QiAnXin XLab, the activity involves the exploi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bYCvN_MmCGXVH5raR8wqJQv52CST3mK7UBfLXVnqRRL_rHkhJpSOBjdPyR5oXmPsSB-X3-Sib6-eVToqi4UXB218ESR2uFdczESGAM5i4ZkxQyE7AkQteCFCasknPz262ceUOFccS3xcUbaQdvUGoRw0kJE7QQMSbeP2OAQVfY9lFYTj7ZhzCL_GdkuM/s1600/check-cf.jpg",
+      "published": "Mon, 25 May 2026 17:32:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually u",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg",
+      "published": "Mon, 25 May 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.\n\nRem",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg",
+      "published": "Mon, 25 May 2026 15:02:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
       "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages wer",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg",
-      "published": "Sat, 23 May 2026 21:37:51 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cyb",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg",
-      "published": "Sat, 23 May 2026 17:25:35 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affec",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg",
-      "published": "Sat, 23 May 2026 15:21:13 +0530",
-      "source": "The Hacker News",
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authen",
+      "image": "",
+      "published": "Mon, 25 May 2026 08:45:54 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -83,12 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Former US execs plead guilty to aiding tech support scammers",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-      "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campa",
       "image": "",
-      "published": "Fri, 22 May 2026 11:32:18 -0400",
-      "source": "BleepingComputer",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,102 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime gro",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=48266906\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-      "link": "https://www.tinyvolt.com/geomatic",
-      "summary": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can u",
-      "image": "",
-      "published": "Mon, 25 May 2026 08:25:00 +0000",
+      "published": "Mon, 25 May 2026 13:56:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
-      "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
-      "summary": "Article URL: https://www.atlasobscura.com/articles/blankets-summer-hot\nComments URL: https://news.ycombinator.com/item?id=48263711\nPoints: 27\n# Comments: 8",
+      "title": "2026 HIPAA Security Rule Update",
+      "link": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "summary": "Article URL: https://medcurity.com/hipaa-security-rule-2026-update/\nComments URL: https://news.ycombinator.com/item?id=48266895\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Mon, 25 May 2026 05:33:31 +0000",
+      "published": "Mon, 25 May 2026 13:55:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jira Is Turing-Complete",
-      "link": "https://seriot.ch/computation/jira.html",
-      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 169\n# Comments: 73",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "link": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "summary": "Article URL: https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/\nComments URL: https://news.ycombinator.com/item?id=48266485\nPoints: 91\n# Comments: 2",
       "image": "",
-      "published": "Mon, 25 May 2026 03:54:14 +0000",
+      "published": "Mon, 25 May 2026 13:17:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Eternal Sloptember",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\nComments URL: https://news.ycombinator.com/item?id=48263238\nPoints: 321\n# Comments: 252",
+      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "link": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "summary": "Article URL: https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/\nComments URL: https://news.ycombinator.com/item?id=48266435\nPoints: 13\n# Comments: 2",
       "image": "",
-      "published": "Mon, 25 May 2026 03:47:24 +0000",
+      "published": "Mon, 25 May 2026 13:12:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 162\n# Comments: 79",
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia",
+      "link": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "summary": "Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback\nComments URL: https://news.ycombinator.com/item?id=48266422\nPoints: 8\n# Co",
       "image": "",
-      "published": "Sun, 24 May 2026 19:10:26 +0000",
+      "published": "Mon, 25 May 2026 13:09:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "File Types (Regular, Directory, Link, Device, Socket, Pipe)",
-      "link": "https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3",
-      "summary": "In Linux, everything is treated as a file.\n\nLinux supports different file types for:\n\n\nData storage\nDirectories\nHardware devices\nCommunication\nInter-process communication\n\n\nMain Linux File Types\n\n\n\n\nFile Type\nSymbol\nPurp",
+      "title": "How to Build a High-Performance Image Optimization Pipeline in 5 Minutes",
+      "link": "https://dev.to/roman_klymenko_39f1198f16/how-to-build-a-high-performance-image-optimization-pipeline-in-5-minutes-41nc",
+      "summary": "Images make up over 60% of average web page weight. If you're serving unoptimized, raw JPEGs or PNGs to mobile clients, your site's Largest Contentful Paint (LCP) score is taking a massive hit.\n\n\n\nIn this quick guide, we",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98q2bn8latw4dofdm6oe.png",
+      "published": "Mon, 25 May 2026 14:22:09 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "50 Linux Commands Every DevOps Engineer Must Know",
+      "link": "https://dev.to/pawan_natekar_8b1ab344624/50-linux-commands-every-devops-engineer-must-know-1hke",
+      "summary": "If you're working in DevOps, Linux is not optional—it's your daily workspace.\n\nWhether you're troubleshooting production issues, deploying applications, checking logs, managing users, or debugging network problems, Linux",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ta5bcij0vmxu6z9syku.png",
+      "published": "Mon, 25 May 2026 14:21:00 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Less Toil, More Flow - Automating the Path from Request to Implementation",
+      "link": "https://dev.to/dvddpl/less-toil-more-flow-automating-the-path-from-request-to-implementation-328k",
+      "summary": "My organisation recently underwent a major restructuring. In a matter of weeks, my team doubled in size and multiplied its responsibilities: we went from supporting a handful of AWS accounts to owning infrastructure acro",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu5zbrki4n42zb3qo21n0.png",
+      "published": "Mon, 25 May 2026 14:17:59 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The Code Review Checklist I Actually Use",
+      "link": "https://dev.to/pixel-wraith/the-code-review-checklist-i-actually-use-9ok",
+      "summary": "Every code review checklist I've ever seen...in books, in onboarding docs, in Twitter threads...covers the same six things: tests, naming, style, error handling, complexity, and \"did the author actually think about this.",
       "image": "",
-      "published": "Mon, 25 May 2026 09:36:03 +0000",
+      "published": "Mon, 25 May 2026 14:17:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From Arduino IDE to AVR GCC | AVR Bare Metal #1",
-      "link": "https://dev.to/jitterbytes/from-arduino-ide-to-avr-gcc-avr-bare-metal-1-29j1",
-      "summary": "Introduction\n\n\nIt has been a while since I started playing around with microcontrollers. My journey began with the Arduino UNO and programming it using the Arduino IDE. Later, I spent some time learning how to program PI",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytktpwouoymuhid24ygf.png",
-      "published": "Mon, 25 May 2026 09:32:27 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Using Bitcoin as collateral without wrapping it: the design of a BTC collateral vault",
-      "link": "https://dev.to/barissozen/using-bitcoin-as-collateral-without-wrapping-it-the-design-of-a-btc-collateral-vault-30f4",
-      "summary": "This is the Monday deep-dive — one mechanism, examined closely.\n\nSuppose a trading agent needs to post collateral, and the asset it wants to post is Bitcoin. That is a reasonable thing to want: BTC is the deepest, most l",
+      "title": "How I run a small blog on Astro 5 + Content Collections",
+      "link": "https://dev.to/aulvem/how-i-run-a-small-blog-on-astro-5-content-collections-4m3i",
+      "summary": "I run a small blog (aulvem.com) on Astro 5 + MDX + Content Collections, hosted statically on Cloudflare Pages. The interesting part isn't the stack — it's the operational rules I lean on the schema to enforce so that a w",
       "image": "",
-      "published": "Mon, 25 May 2026 09:32:26 +0000",
+      "published": "Mon, 25 May 2026 14:16:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Unreal Engine 5 Skill System Architecture using GAS and GameplayTags",
-      "link": "https://dev.to/frydayfreebie/unreal-engine-5-skill-system-architecture-using-gas-and-gameplaytags-44of",
-      "summary": "1. Overview\n\n\n\nWhen developing the game, the most important thing I considered was implementing a structure that is expandable and reusable.\nSo, for this project, I designed a common SkillBase structure + GameplayTag bas",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd55zh94zwhfrdsvicune.png",
-      "published": "Mon, 25 May 2026 09:31:45 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "5 Things I Wish I Knew Before Building with Hermes Agent",
-      "link": "https://dev.to/pulkitgovrani/5-things-i-wish-i-knew-before-building-with-hermes-agent-3ah3",
-      "summary": "This is a submission for the Hermes Agent Challenge: Write About Hermes Agent\n\nI spent a week building a production system on Hermes Agent — a persistent AI memory layer for GitHub repositories called Shadow CTO. Here's ",
+      "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+      "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+      "summary": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\n\nCross-",
       "image": "",
-      "published": "Mon, 25 May 2026 09:30:00 +0000",
-      "source": "DEV Community",
+      "published": "Mon, 25 May 2026 13:46:54 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\n\nWhat’s !important #11: 3D Voxel Scenes, Flyi",
       "image": "",
       "published": "Fri, 15 May 2026 13:16:34 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Computing and Displaying Discounted Prices in CSS",
-      "link": "https://css-tricks.com/computing-and-displaying-discounted-prices-in-css/",
-      "summary": "A clever use of CSS to calculate and display a discounted product price by providing a base price and discount amount, featuring modern CSS features like attr(), mod(), and round().\n\nComputing and Displaying Discounted P",
-      "image": "",
-      "published": "Thu, 14 May 2026 14:05:01 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
