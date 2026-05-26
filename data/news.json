@@ -1,6 +1,24 @@
 {
-  "updated": "2026-05-26T01:50:54.603545Z",
+  "updated": "2026-05-26T09:01:16.862352Z",
   "articles": [
+    {
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7Xqq7FlHxai3-wKrWcUujSg4cXnMJ_0LiXDaZHaZosFt3sPF1_PwcaqufOoM7q66vakQyKX5-odysTHOhtIG7ESj52Kna0i3OxaOA0sTONuH3NhkmautF8CTeiLBDzHFWjEvIT286ZnhERvK2VsvzxTdqjlEpXsbSELeqVHyr18JodeQZC-qudm2yblS/s1600/iran-hackers.jpg",
+      "published": "Tue, 26 May 2026 12:43:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately fa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg",
+      "published": "Tue, 26 May 2026 10:49:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
       "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.\n\nRem",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg",
-      "published": "Mon, 25 May 2026 15:02:54 +0530",
-      "source": "The Hacker News",
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
+      "image": "",
+      "published": "Tue, 26 May 2026 04:46:45 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious pac",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg",
-      "published": "Mon, 25 May 2026 11:29:13 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+      "image": "",
+      "published": "Tue, 26 May 2026 03:41:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Bee",
+      "image": "",
+      "published": "Tue, 26 May 2026 03:01:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authen",
       "image": "",
       "published": "Mon, 25 May 2026 08:45:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
-      "image": "",
-      "published": "Sun, 24 May 2026 10:12:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-      "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious cod",
-      "image": "",
-      "published": "Sat, 23 May 2026 16:48:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-      "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-      "image": "",
-      "published": "Sat, 23 May 2026 10:23:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "link": "https://support.apple.com/en-us/127115",
-      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 63\n# Comments: 20",
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "link": "https://dynip.dev/",
+      "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 54\n# Comments: 15",
       "image": "",
-      "published": "Mon, 25 May 2026 23:40:40 +0000",
+      "published": "Tue, 26 May 2026 07:35:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Performance of Rust Language [pdf]",
-      "link": "https://github.com/yugr/rust-slides/",
-      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 7\n# Comments: 0",
+      "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "link": "https://news.ycombinator.com/item?id=48275508",
+      "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125\n\nComments URL: https://news.ycombinator.com/item?id=48275508\nPoints: 94\n# Comments: 53",
       "image": "",
-      "published": "Mon, 25 May 2026 23:37:31 +0000",
+      "published": "Tue, 26 May 2026 05:49:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nobody cracks open a programming book anymore",
-      "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 84\n# Comments: 106",
+      "title": "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+      "link": "https://github.com/andreoliwa/logseq-doctor",
+      "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Mon, 25 May 2026 23:21:57 +0000",
+      "published": "Tue, 26 May 2026 05:43:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 130\n# Comments: 40",
+      "title": "The User Is Visibly Frustrated",
+      "link": "https://pscanf.com/s/354/",
+      "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 131\n# Comments: 96",
       "image": "",
-      "published": "Mon, 25 May 2026 23:16:59 +0000",
+      "published": "Tue, 26 May 2026 04:39:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Every Frontier AI Is INTJ",
-      "link": "https://zonted.com/posts/every-ai-is-intj/",
-      "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/\nComments URL: https://news.ycombinator.com/item?id=48272755\nPoints: 9\n# Comments: 3",
+      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "link": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 123\n# Comments: 58",
       "image": "",
-      "published": "Mon, 25 May 2026 22:43:16 +0000",
+      "published": "Tue, 26 May 2026 03:56:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Fix Tool-Use Loops in Autonomous Coding Agents",
-      "link": "https://dev.to/alanwest/how-to-fix-tool-use-loops-in-autonomous-coding-agents-540e",
-      "summary": "Last month I was helping a friend debug their autonomous coding agent. It had been \"working\" on a task for 47 minutes, burned through roughly twelve bucks in API costs, and somehow ended up exactly where it started. The ",
+      "title": "git bisect: Find the Commit That Broke Everything",
+      "link": "https://dev.to/sysemperor/git-bisect-find-the-commit-that-broke-everything-2mn3",
+      "summary": "There is a particular kind of dread that comes with opening a bug report, running git log, and seeing 300 commits between \"this worked\" and \"this doesn't.\" Most people start at HEAD and work backwards one commit at a tim",
       "image": "",
-      "published": "Tue, 26 May 2026 01:38:16 +0000",
+      "published": "Tue, 26 May 2026 08:56:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Months of self-testing: Citations shine, other features remain unproven.",
-      "link": "https://dev.to/owjdie163com_096e40b198/months-of-self-testing-citations-shine-other-features-remain-unproven-1351",
-      "summary": "ok so full disclosure: I'm the person who built this. I'm not here to drop a pitch deck on you — I just need people who actually live in PDF hell to tell me if I'm solving a real problem or cosplaying as a startup.\n\nhow ",
+      "title": "CKP LLM: The Missing Layer Between Your AI Agent and Its Knowledge Base",
+      "link": "https://dev.to/alessandro_marocchini/ckp-llm-the-missing-layer-between-your-ai-agent-and-its-knowledge-base-2ap5",
+      "summary": "Last week my AI coding agent gave me a confident, detailed answer — referencing the wrong project entirely.\n\nThe problem was not the model. It was context: the agent had loaded 20 knowledge files and picked the wrong one",
       "image": "",
-      "published": "Tue, 26 May 2026 01:38:07 +0000",
+      "published": "Tue, 26 May 2026 08:55:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Code for Canary Deployments: How I Ship to 1% of Users Before Breaking Everything",
-      "link": "https://dev.to/nextools/claude-code-for-canary-deployments-how-i-ship-to-1-of-users-before-breaking-everything-3j49",
-      "summary": "I used to ship by faith. The change passed code review, the tests went green, the deploy button was right there, and I pressed it. Most of the time it was fine. The handful of times it was not fine cost me weekends, cust",
-      "image": "",
-      "published": "Tue, 26 May 2026 01:18:41 +0000",
+      "title": "My AI Agent Was Escalating Every Contract. One Decision Layer Fixed It 📑🤖📑🤖",
+      "link": "https://dev.to/sridhar_s_dfc5fa7b6b295f9/my-hermes-agent-couldnt-decide-which-contracts-needed-legal-review-one-planning-layer-fixed-it-11c3",
+      "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n  \n  \n  My Hermes Agent Couldn’t Decide Which Contracts Needed Legal Review. One Planning Layer Fixed It. 📑🤖\n\n\n\n  \n  \n  What I Built\n\n\nWhile ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhn7p7dxqpnr5hl3se7a8.png",
+      "published": "Tue, 26 May 2026 08:52:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your recurring scraper is re-downloading data that didn't change. Here's the 15-line fix (conditional GET)",
-      "link": "https://dev.to/0012303/your-recurring-scraper-is-re-downloading-data-that-didnt-change-heres-the-15-line-fix-25lc",
-      "summary": "Note: This is a cross-post. Canonical version (full long-form) lives on my blog: https://blog.spinov.online/blog/ethical-scraping-is-a-rate-limit-question/\n\n\n\n  \n  \n  TL;DR\n\n\nThe \"ethical scraping\" debate keeps arguing a",
-      "image": "",
-      "published": "Tue, 26 May 2026 01:12:12 +0000",
+      "title": "Writing High-Performance Kernels in TileLang, from GEMM to MLA",
+      "link": "https://dev.to/atlas_cloud_ai/writing-high-performance-kernels-in-tilelang-from-gemm-to-mla-13p0",
+      "summary": "If you write GPU kernels, you live somewhere on a spectrum. At one end is Triton: quick to write, but the compiler makes most of the layout and shared-memory decisions for you. At the other end is CUTLASS / CuTe: total c",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh8lcjjjac553rk86mkpz.png",
+      "published": "Tue, 26 May 2026 08:50:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Espressif Reveals CoreBoard and Korvo Dev Kits for ESP32-S31",
-      "link": "https://dev.to/circuitrocks/espressif-reveals-coreboard-and-korvo-dev-kits-for-esp32-s31-1egm",
-      "summary": "Espressif just pulled the wraps off two fresh development kits aimed at one of its most ambitious chips yet: the dual-core RISC-V ESP32-S31. If you've been waiting for a board that blends heavy IoT muscle with edge AI ca",
+      "title": "Building a Printable Library with Next.js and Cloudflare: Practical Notes",
+      "link": "https://dev.to/he_zidong_214dea759d6e088/building-a-printable-library-with-nextjs-and-cloudflare-practical-notes-2nd3",
+      "summary": "I have been working on Funboxie, a small library of printable coloring pages, worksheets, templates, and kids' activities.\n\nIt sounds like a simple content site, but the implementation quickly starts to look like a light",
       "image": "",
-      "published": "Tue, 26 May 2026 01:05:54 +0000",
+      "published": "Tue, 26 May 2026 08:45:55 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
+      "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
+      "summary": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\n\nCross-",
+      "image": "",
+      "published": "Mon, 25 May 2026 13:46:54 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The State of CSS Centering in 2026",
+      "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+      "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the ",
+      "image": "",
+      "published": "Fri, 22 May 2026 13:44:40 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Stack Overflow: When We Stop Asking",
+      "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+      "summary": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\n\nStack Overflow: When We Stop Asking originally handwritten and published with ",
+      "image": "",
+      "published": "Wed, 20 May 2026 13:51:34 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+      "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+      "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\n\nCross-Document View Transition",
+      "image": "",
+      "published": "Mon, 18 May 2026 13:47:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+      "link": "https://css-tricks.com/whats-important-11/",
+      "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\n\nWhat’s !important #11: 3D Voxel Scenes, Flyi",
+      "image": "",
+      "published": "Fri, 15 May 2026 13:16:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
