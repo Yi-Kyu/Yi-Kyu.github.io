@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T19:11:06.146637Z",
+  "updated": "2026-05-26T01:50:54.603545Z",
   "articles": [
     {
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The bootstrapper's EU stack for under €10 per month",
-      "link": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
-      "summary": "Article URL: https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/\nComments URL: https://news.ycombinator.com/item?id=48270111\nPoints: 8\n# Comments: 0",
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "link": "https://support.apple.com/en-us/127115",
+      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 63\n# Comments: 20",
       "image": "",
-      "published": "Mon, 25 May 2026 18:37:05 +0000",
+      "published": "Mon, 25 May 2026 23:40:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Alaska's oil revival sparks a new energy rush Into the Arctic",
-      "link": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-      "summary": "Article URL: https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/\nComments URL: https://news.ycombinator.com/item?id=48269971\nPoints: 13\n# Comments: 8",
+      "title": "Performance of Rust Language [pdf]",
+      "link": "https://github.com/yugr/rust-slides/",
+      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Mon, 25 May 2026 18:20:46 +0000",
+      "published": "Mon, 25 May 2026 23:37:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "summary": "Article URL: https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-t",
+      "title": "Nobody cracks open a programming book anymore",
+      "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 84\n# Comments: 106",
       "image": "",
-      "published": "Mon, 25 May 2026 18:19:58 +0000",
+      "published": "Mon, 25 May 2026 23:21:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/workweave",
-      "summary": "Article URL: https://jobs.ashbyhq.com/workweave\nComments URL: https://news.ycombinator.com/item?id=48269937\nPoints: 0\n# Comments: 0",
+      "title": "Using AI to write better code more slowly",
+      "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 130\n# Comments: 40",
       "image": "",
-      "published": "Mon, 25 May 2026 18:18:26 +0000",
+      "published": "Mon, 25 May 2026 23:16:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "summary": "Article URL: https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout\nComments URL: https://news.ycombinator.com/item?id=48269580\nPoints: 52\n# Comments: 9",
+      "title": "Every Frontier AI Is INTJ",
+      "link": "https://zonted.com/posts/every-ai-is-intj/",
+      "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/\nComments URL: https://news.ycombinator.com/item?id=48272755\nPoints: 9\n# Comments: 3",
       "image": "",
-      "published": "Mon, 25 May 2026 17:45:11 +0000",
+      "published": "Mon, 25 May 2026 22:43:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR",
-      "link": "https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8",
-      "summary": "Author: Shivam Wakade | Founder, PrivSR\nIntroduction\n\nCommunication has become one of the most important parts of modern life. From personal messaging and business operations to emergency response and industrial monitori",
+      "title": "How to Fix Tool-Use Loops in Autonomous Coding Agents",
+      "link": "https://dev.to/alanwest/how-to-fix-tool-use-loops-in-autonomous-coding-agents-540e",
+      "summary": "Last month I was helping a friend debug their autonomous coding agent. It had been \"working\" on a task for 47 minutes, burned through roughly twelve bucks in API costs, and somehow ended up exactly where it started. The ",
       "image": "",
-      "published": "Mon, 25 May 2026 19:05:09 +0000",
+      "published": "Tue, 26 May 2026 01:38:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Rebuilt an RPG Map Editor with Rust, React, and WASM",
-      "link": "https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0",
-      "summary": "Replacing a map editor sounds like a frontend task.\n\nIt is not.\n\nA browser-based RPG map editor lives inside a product loop:\n\n\nCreate a map.\nOpen it in the editor.\nPaint, place assets, rename it, and change layers.\nSave ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8micpgxd2w8kp3xum5ul.png",
-      "published": "Mon, 25 May 2026 18:55:25 +0000",
+      "title": "Months of self-testing: Citations shine, other features remain unproven.",
+      "link": "https://dev.to/owjdie163com_096e40b198/months-of-self-testing-citations-shine-other-features-remain-unproven-1351",
+      "summary": "ok so full disclosure: I'm the person who built this. I'm not here to drop a pitch deck on you — I just need people who actually live in PDF hell to tell me if I'm solving a real problem or cosplaying as a startup.\n\nhow ",
+      "image": "",
+      "published": "Tue, 26 May 2026 01:38:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a System That Automates YouTube Post-Production",
-      "link": "https://dev.to/satyamskillz/building-a-system-that-automates-youtube-post-production-55d",
-      "summary": "Most creator tools today focus on analytics and suggestions.\n\nWe wanted to explore something different:\n\nWhat if YouTube post-production could actually be automated?\n\nWe’ve been building Growati, a system that helps crea",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhqxjqv6twuqciadlmj6l.png",
-      "published": "Mon, 25 May 2026 18:53:55 +0000",
+      "title": "Claude Code for Canary Deployments: How I Ship to 1% of Users Before Breaking Everything",
+      "link": "https://dev.to/nextools/claude-code-for-canary-deployments-how-i-ship-to-1-of-users-before-breaking-everything-3j49",
+      "summary": "I used to ship by faith. The change passed code review, the tests went green, the deploy button was right there, and I pressed it. Most of the time it was fine. The handful of times it was not fine cost me weekends, cust",
+      "image": "",
+      "published": "Tue, 26 May 2026 01:18:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a 100% Serverless Digital Asset Packager in the Browser",
-      "link": "https://dev.to/assetforge_labs_1a43f338a/building-a-100-serverless-digital-asset-packager-in-the-browser-31j8",
-      "summary": "Building SaaS tools usually means paying for server compute, especially when handling file processing and ZIP generation. But as a solo developer, I wanted to build a high-performance tool for creators without racking up",
+      "title": "Your recurring scraper is re-downloading data that didn't change. Here's the 15-line fix (conditional GET)",
+      "link": "https://dev.to/0012303/your-recurring-scraper-is-re-downloading-data-that-didnt-change-heres-the-15-line-fix-25lc",
+      "summary": "Note: This is a cross-post. Canonical version (full long-form) lives on my blog: https://blog.spinov.online/blog/ethical-scraping-is-a-rate-limit-question/\n\n\n\n  \n  \n  TL;DR\n\n\nThe \"ethical scraping\" debate keeps arguing a",
       "image": "",
-      "published": "Mon, 25 May 2026 18:50:48 +0000",
+      "published": "Tue, 26 May 2026 01:12:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Game Recommended AI",
-      "link": "https://dev.to/alejandrotg-code/game-recommended-ai-2b9a",
-      "summary": "I have developed a full-stack web platform designed to intelligently analyze the genuine feedback from the Steam gaming community before making a purchase. The main goal was to create a fully functional product from star",
+      "title": "Espressif Reveals CoreBoard and Korvo Dev Kits for ESP32-S31",
+      "link": "https://dev.to/circuitrocks/espressif-reveals-coreboard-and-korvo-dev-kits-for-esp32-s31-1egm",
+      "summary": "Espressif just pulled the wraps off two fresh development kits aimed at one of its most ambitious chips yet: the dual-core RISC-V ESP32-S31. If you've been waiting for a board that blends heavy IoT muscle with edge AI ca",
       "image": "",
-      "published": "Mon, 25 May 2026 18:50:41 +0000",
+      "published": "Tue, 26 May 2026 01:05:54 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Cross-Document View Transitions: Scaling Across Hundreds of Elements",
-      "link": "https://css-tricks.com/cross-document-view-transitions-part-2/",
-      "summary": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\n\nCross-",
-      "image": "",
-      "published": "Mon, 25 May 2026 13:46:54 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The State of CSS Centering in 2026",
-      "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-      "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the ",
-      "image": "",
-      "published": "Fri, 22 May 2026 13:44:40 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Stack Overflow: When We Stop Asking",
-      "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-      "summary": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\n\nStack Overflow: When We Stop Asking originally handwritten and published with ",
-      "image": "",
-      "published": "Wed, 20 May 2026 13:51:34 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
-      "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
-      "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\n\nCross-Document View Transition",
-      "image": "",
-      "published": "Mon, 18 May 2026 13:47:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-      "link": "https://css-tricks.com/whats-important-11/",
-      "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\n\nWhat’s !important #11: 3D Voxel Scenes, Flyi",
-      "image": "",
-      "published": "Fri, 15 May 2026 13:16:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
