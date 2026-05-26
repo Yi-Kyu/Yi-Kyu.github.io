@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-26T09:01:16.862352Z",
+  "updated": "2026-05-26T14:29:25.118031Z",
   "articles": [
+    {
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "summary": "Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg",
+      "published": "Tue, 26 May 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerabili",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34meakbjhvY3-jNVG7Q8tPJ5Xk1a-vtGSeKgfVDApX6pn88G7gYhK2oz34my6QeWHsldmSJuV4o8tlBOmw-9Ul32EJYhC-aFmExZvn6ibinw10_4DhBf6pHmIum2Ha_HggakezqS_uKiOPJzrIdwioMru5Oj74p87z_ZbQt_c-bH8kQl6jEXYycod7Vrw/s1600/sharepoint.png",
+      "published": "Tue, 26 May 2026 17:19:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While tha",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg",
+      "published": "Tue, 26 May 2026 16:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg",
+      "published": "Tue, 26 May 2026 14:43:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
       "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately fa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg",
-      "published": "Tue, 26 May 2026 10:49:38 +0530",
-      "source": "The Hacker News",
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. ",
+      "image": "",
+      "published": "Tue, 26 May 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "summary": "Monday recap. Same mess, new week.\n\nA sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3KNTIZROmtfiYkIEINzg34cq_-I4prGGMjQ8F8oHbOcrNNB0FyCuQq-bb9ChCEtkO5TxGqm_5YRrG7r3IJAkcsX_eC3vmpR1Va-b3NOfEQynjPDmOm2A_uJ15IZk5VPnrmZzOKKjzA6_kjUFNbUkFHKsEk_Ts92DfPZXa3x4r8o8UQkOpMmNUfBwGxx/s1600/rere.jpg",
-      "published": "Mon, 25 May 2026 19:43:27 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "image": "",
+      "published": "Tue, 26 May 2026 08:19:43 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks.\n\nAccording to QiAnXin XLab, the activity involves the exploi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bYCvN_MmCGXVH5raR8wqJQv52CST3mK7UBfLXVnqRRL_rHkhJpSOBjdPyR5oXmPsSB-X3-Sib6-eVToqi4UXB218ESR2uFdczESGAM5i4ZkxQyE7AkQteCFCasknPz262ceUOFccS3xcUbaQdvUGoRw0kJE7QQMSbeP2OAQVfY9lFYTj7ZhzCL_GdkuM/s1600/check-cf.jpg",
-      "published": "Mon, 25 May 2026 17:32:46 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually u",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg",
-      "published": "Mon, 25 May 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can",
+      "image": "",
+      "published": "Tue, 26 May 2026 08:16:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
       "image": "",
       "published": "Tue, 26 May 2026 03:41:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Bee",
-      "image": "",
-      "published": "Tue, 26 May 2026 03:01:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "summary": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
-      "image": "",
-      "published": "Mon, 25 May 2026 13:07:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-      "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authen",
-      "image": "",
-      "published": "Mon, 25 May 2026 08:45:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "link": "https://dynip.dev/",
-      "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 54\n# Comments: 15",
+      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+      "link": "https://retrogamecoders.com/overhead-camera-view/",
+      "summary": "Article URL: https://retrogamecoders.com/overhead-camera-view/\nComments URL: https://news.ycombinator.com/item?id=48279842\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Tue, 26 May 2026 07:35:20 +0000",
+      "published": "Tue, 26 May 2026 13:47:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
-      "link": "https://news.ycombinator.com/item?id=48275508",
-      "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125\n\nComments URL: https://news.ycombinator.com/item?id=48275508\nPoints: 94\n# Comments: 53",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "summary": "Article URL: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/\nComments URL: https://news.ycombinator.com/item?id=48279316\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Tue, 26 May 2026 05:49:35 +0000",
+      "published": "Tue, 26 May 2026 13:08:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
-      "link": "https://github.com/andreoliwa/logseq-doctor",
-      "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 7\n# Comments: 1",
+      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/\nComments URL: https://news.ycombinator.com/item?id=48278610\nPoints: 25\n# Comments: 15",
       "image": "",
-      "published": "Tue, 26 May 2026 05:43:25 +0000",
+      "published": "Tue, 26 May 2026 12:08:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The User Is Visibly Frustrated",
-      "link": "https://pscanf.com/s/354/",
-      "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 131\n# Comments: 96",
+      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+      "link": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "summary": "Article URL: https://vllm.ai/blog/2026-05-26-eagle-3-1\nComments URL: https://news.ycombinator.com/item?id=48278407\nPoints: 28\n# Comments: 11",
       "image": "",
-      "published": "Tue, 26 May 2026 04:39:03 +0000",
+      "published": "Tue, 26 May 2026 11:46:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-      "link": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
-      "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 123\n# Comments: 58",
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "summary": "Article URL: https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/\nComments URL: https://news.ycombinator.com/item?id=48278406\nPoints: 181\n# Comments: 52",
       "image": "",
-      "published": "Tue, 26 May 2026 03:56:09 +0000",
+      "published": "Tue, 26 May 2026 11:46:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "git bisect: Find the Commit That Broke Everything",
-      "link": "https://dev.to/sysemperor/git-bisect-find-the-commit-that-broke-everything-2mn3",
-      "summary": "There is a particular kind of dread that comes with opening a bug report, running git log, and seeing 300 commits between \"this worked\" and \"this doesn't.\" Most people start at HEAD and work backwards one commit at a tim",
+      "title": "Memory Cache: o bug invisível que só aparece quando sua aplicação precisa escalar horizontalmente",
+      "link": "https://dev.to/vmendonca/memory-cache-o-bug-invisivel-que-so-aparece-quando-sua-aplicacao-precisa-escalar-horizontalmente-2dcj",
+      "summary": "Você implementou um endpoint que busca a timeline de uma conversa, viu que a query era pesada demais pra rodar em todo request, então injetou um cache de memória no controller, configurou expiração de cinco minutos e seg",
       "image": "",
-      "published": "Tue, 26 May 2026 08:56:10 +0000",
+      "published": "Tue, 26 May 2026 14:20:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CKP LLM: The Missing Layer Between Your AI Agent and Its Knowledge Base",
-      "link": "https://dev.to/alessandro_marocchini/ckp-llm-the-missing-layer-between-your-ai-agent-and-its-knowledge-base-2ap5",
-      "summary": "Last week my AI coding agent gave me a confident, detailed answer — referencing the wrong project entirely.\n\nThe problem was not the model. It was context: the agent had loaded 20 knowledge files and picked the wrong one",
+      "title": "\"this\" in JS is SIMPLE as a rock",
+      "link": "https://dev.to/andrii256/this-in-js-is-simple-as-a-rock-2hdp",
+      "summary": "What if I tell you that this in JS is simple?\n\nWhat if I tell you that there is no magic and you can come up with it in a few minutes?\n\nWhat if I tell you that there are simple 5-step algorithms that will help you quickl",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5kgf7obejugpxdzx65b4.png",
+      "published": "Tue, 26 May 2026 14:17:36 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "LoRaWAN has ~51 bytes per frame. Your JSON alert doesn't fit.",
+      "link": "https://dev.to/egonex/lorawan-has-51-bytes-per-frame-your-json-alert-doesnt-fit-2co9",
+      "summary": "Part 1 was about format size — CAP, JSON, and ECP side by side. Read it here if you missed it.\n\nThis post is about LoRaWAN: one uplink, a hard byte ceiling, and what happens when your alert payload was written for HTTP.\n",
       "image": "",
-      "published": "Tue, 26 May 2026 08:55:01 +0000",
+      "published": "Tue, 26 May 2026 14:14:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI Agent Was Escalating Every Contract. One Decision Layer Fixed It 📑🤖📑🤖",
-      "link": "https://dev.to/sridhar_s_dfc5fa7b6b295f9/my-hermes-agent-couldnt-decide-which-contracts-needed-legal-review-one-planning-layer-fixed-it-11c3",
-      "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n  \n  \n  My Hermes Agent Couldn’t Decide Which Contracts Needed Legal Review. One Planning Layer Fixed It. 📑🤖\n\n\n\n  \n  \n  What I Built\n\n\nWhile ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhn7p7dxqpnr5hl3se7a8.png",
-      "published": "Tue, 26 May 2026 08:52:38 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Writing High-Performance Kernels in TileLang, from GEMM to MLA",
-      "link": "https://dev.to/atlas_cloud_ai/writing-high-performance-kernels-in-tilelang-from-gemm-to-mla-13p0",
-      "summary": "If you write GPU kernels, you live somewhere on a spectrum. At one end is Triton: quick to write, but the compiler makes most of the layout and shared-memory decisions for you. At the other end is CUTLASS / CuTe: total c",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh8lcjjjac553rk86mkpz.png",
-      "published": "Tue, 26 May 2026 08:50:38 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Building a Printable Library with Next.js and Cloudflare: Practical Notes",
-      "link": "https://dev.to/he_zidong_214dea759d6e088/building-a-printable-library-with-nextjs-and-cloudflare-practical-notes-2nd3",
-      "summary": "I have been working on Funboxie, a small library of printable coloring pages, worksheets, templates, and kids' activities.\n\nIt sounds like a simple content site, but the implementation quickly starts to look like a light",
+      "title": "Stop Avoiding Bitwise Operators",
+      "link": "https://dev.to/ainga/stop-avoiding-bitwise-operators-b2g",
+      "summary": "When I started learning JavaScript, bitwise operators were the topic every tutorial quietly skipped. \"You'll almost never use these,\" they said. So I avoided them for years.\n\nBut recently, I decided to jump into Vue's so",
       "image": "",
-      "published": "Tue, 26 May 2026 08:45:55 +0000",
+      "published": "Tue, 26 May 2026 14:12:21 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "ERP Product Tree Denormalization: The Maintenance and Scale Conundrum",
+      "link": "https://dev.to/merbayerp/erp-product-tree-denormalization-the-maintenance-and-scale-conundrum-5957",
+      "summary": "The Denormalized Product Tree: Initial Relief, Later a Deep Pit\n\n\nWhile working on a manufacturing ERP, I've repeatedly seen how appealing the product tree structure looks initially. Typically, denormalization is preferr",
+      "image": "",
+      "published": "Tue, 26 May 2026 14:09:45 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Technical Writing in the AI Age",
+      "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
+      "summary": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\n\nTechnical Writing in the AI Age originally handwritten and publishe",
+      "image": "",
+      "published": "Tue, 26 May 2026 13:49:28 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\n\nCross-Document View Transition",
       "image": "",
       "published": "Mon, 18 May 2026 13:47:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
-      "link": "https://css-tricks.com/whats-important-11/",
-      "summary": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\n\nWhat’s !important #11: 3D Voxel Scenes, Flyi",
-      "image": "",
-      "published": "Fri, 15 May 2026 13:16:34 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
