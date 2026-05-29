@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-29T01:52:28.994232Z",
+  "updated": "2026-05-29T08:59:28.120951Z",
   "articles": [
+    {
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfUl1K-os1XyLN-SBt6PgMia_jFG03ArRa3H0FI2hsiUqNa3lqSWY2NJcvOhY33TArSKJxeookUpkATdERUpEwKw-IUi6iv9ZVuUq4c1A99mLwgQB4ibCxBx4MBR1XXmM98zH7v-QWDO7bhh1AONQ8Op0htvwHhuivwI1Cch9rgLPO-zSGCjjQbvXdDte/s1600/north-korea.png",
+      "published": "Fri, 29 May 2026 11:27:41 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
       "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg",
-      "published": "Thu, 28 May 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been P",
+      "image": "",
+      "published": "Fri, 29 May 2026 04:29:40 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...",
       "image": "",
       "published": "Thu, 28 May 2026 15:08:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
-      "image": "",
-      "published": "Thu, 28 May 2026 13:25:43 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Where are the economies of scale in homebuilding?",
-      "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "summary": "Article URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale\nComments URL: https://news.ycombinator.com/item?id=48317339\nPoints: 10\n# Comments: 1",
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/\nComments URL: https://news.ycombinator.com/item?id=48319968\nPoints: 32\n# Comments: 31",
       "image": "",
-      "published": "Fri, 29 May 2026 00:16:20 +0000",
+      "published": "Fri, 29 May 2026 07:05:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 6\n# Comments: 2",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "summary": "Article URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\nComments URL: https://news.ycombinator.com/item?id=48319509\nPoints: 124\n# Comments: 56",
       "image": "",
-      "published": "Fri, 29 May 2026 00:09:35 +0000",
+      "published": "Fri, 29 May 2026 05:45:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\nComments URL: https://news.ycombinator.com/item?id=48317093\nPoints: 65\n# Comments: 18",
+      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "link": "https://github.com/HeidiSQL/HeidiSQL",
+      "summary": "Article URL: https://github.com/HeidiSQL/HeidiSQL\nComments URL: https://news.ycombinator.com/item?id=48318568\nPoints: 12\n# Comments: 3",
       "image": "",
-      "published": "Thu, 28 May 2026 23:42:47 +0000",
+      "published": "Fri, 29 May 2026 03:14:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "summary": "Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895\nComments URL: https://news.ycombinator.com/item?id=48317043\nPoints: 30\n# Comments: 11",
+      "title": "Let's compile Quake like it's 1997",
+      "link": "https://fabiensanglard.net/compile_like_1997/",
+      "summary": "Article URL: https://fabiensanglard.net/compile_like_1997/\nComments URL: https://news.ycombinator.com/item?id=48318522\nPoints: 19\n# Comments: 3",
       "image": "",
-      "published": "Thu, 28 May 2026 23:36:41 +0000",
+      "published": "Fri, 29 May 2026 03:07:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Silent Critic",
-      "link": "https://www.tft.io/the-silent-critic/",
-      "summary": "Article URL: https://www.tft.io/the-silent-critic/\nComments URL: https://news.ycombinator.com/item?id=48316958\nPoints: 7\n# Comments: 2",
+      "title": "Cars collect a startling amount of data about you",
+      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\nComments URL: https://news.ycombinator.com/item?id=48318481\nPoints: 312\n# Comments: 140",
       "image": "",
-      "published": "Thu, 28 May 2026 23:25:51 +0000",
+      "published": "Fri, 29 May 2026 03:01:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "🦄 Modernizing Wild Rydes with modern technologies",
-      "link": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
-      "summary": "Wild Rydes was an old project used by AWS hands-on labs to show how to deploy a serverless application using its services. It consists of a Uber-like application where you would request rides by UNICORNS (🦄). In the foll",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg64lwggk9sd17jhk3cxm.png",
-      "published": "Fri, 29 May 2026 01:46:49 +0000",
+      "title": "The Hard Truth About Choosing a Database and Why Most Projects Get It Wrong",
+      "link": "https://dev.to/charity254/the-hard-truth-about-choosing-a-database-and-why-most-projects-get-it-wrong-2jpe",
+      "summary": "When building a project, choosing a database often feels like a quick decision. You pick something familiar or popular, wire it up, and move on to more interesting problems.\n\nLater, that decision quietly starts shaping e",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4dn7rf19vlqewb7avpvl.png",
+      "published": "Fri, 29 May 2026 08:57:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Markio ✨ — A Modern Markdown Editor Rebuilt with GitHub Copilot",
-      "link": "https://dev.to/sripadh_sujith_1487e8db18/markio-a-modern-markdown-editor-rebuilt-with-github-copilot-1ppe",
-      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n\n\n\n  \n  \n  What I Built\n\n\nI built Markio, a modern Markdown editor and live preview application built using Next.js.\n\nThe idea behind Markio was to create ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtr2azvh49g2h4m9x951.png",
-      "published": "Fri, 29 May 2026 01:28:01 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Une journée avec `/challenger` : 4 bugs, 4 hypothèses réfutées avant le fix",
-      "link": "https://dev.to/michelfaure/une-journee-avec-challenger-4-bugs-4-hypotheses-refutees-avant-le-fix-1ikh",
-      "summary": "Le matin où j'ai cru que c'était une seule journée\n\n\nSamedi 16 mai, huit heures dix. Café tiède dans la tasse à tête de Françoise, héritée d'un anniversaire de bureau. Le tableau Sentry de la nuit affiche un point rouge ",
+      "title": "EV-QA-Framework: Open-Source ML-Powered Quality Analysis for EV Battery Systems",
+      "link": "https://dev.to/remontsuri/ev-qa-framework-open-source-instrumient-dlia-ml-analiza-kachiestva-tiaghovykh-batariei-eliektromobiliei-1m9g",
+      "summary": "EV-QA-Framework: Open-Source ML-Powered Quality Analysis for EV Battery Systems\n\n\nEV-QA-Framework is an open-source machine learning framework for analyzing electric vehicle battery data. Whether you work with BMS teleme",
       "image": "",
-      "published": "Fri, 29 May 2026 01:16:02 +0000",
+      "published": "Fri, 29 May 2026 08:54:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A day in the life of `/challenger`: 4 bugs, 4 hypotheses falsified before the fix",
-      "link": "https://dev.to/michelfaure/a-day-in-the-life-of-challenger-4-bugs-4-hypotheses-falsified-before-the-fix-2pp",
-      "summary": "The morning I thought it was one single day\n\n\nSaturday May 16, eight ten in the morning. Lukewarm coffee in Françoise's mug — inherited from an office birthday. The overnight Sentry board shows an isolated red dot on a t",
+      "title": "I Built an AI Security Coach for People Who Can't Afford to Get Hacked",
+      "link": "https://dev.to/linfordlee14/i-built-an-ai-security-coach-for-people-who-cant-afford-to-get-hacked-3202",
+      "summary": "CyberBuddy is a gamified Android app that guides everyday users through personal cybersecurity using a Gemini A2A agent. Here's the full build story.\n\n\n𝗜 𝗯𝘂𝗶𝗹𝘁 𝘁𝗵𝗶𝘀 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝘀𝗼𝗺𝗲𝗼𝗻𝗲 𝗮𝘀𝗸𝗲𝗱 𝗺𝗲 𝗮 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗮𝗻𝘀𝘄𝗲𝗿 𝗶",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3l85wdpwnw2yj7s331mx.png",
+      "published": "Fri, 29 May 2026 08:53:34 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I Got Tired of Wiring Grafana + Loki + Tempo — So I Built a One-Command Observability Stack",
+      "link": "https://dev.to/sulthonzh/i-got-tired-of-wiring-grafana-loki-tempo-so-i-built-a-one-command-observability-stack-5g26",
+      "summary": "I've lost count of how many weekends I've spent wiring up observability stacks for side projects. Grafana for dashboards. Loki for logs. Tempo for traces. Prometheus for metrics. Jaeger if you're feeling adventurous. Eac",
       "image": "",
-      "published": "Fri, 29 May 2026 01:15:24 +0000",
+      "published": "Fri, 29 May 2026 08:49:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop pasting tokens into random websites: meet SmartDevUtils",
-      "link": "https://dev.to/ramcsamal/stop-pasting-tokens-into-random-websites-meet-smartdevutils-3n4",
-      "summary": "If you've done any of these in the last week —\n\n\nGoogled \"decode jwt online\", clicked the first result, and pasted a real token into a textbox on a domain you'd never heard of.\nOpened an ad-cluttered \"JSON formatter\" sit",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12il2769smwuq5e2oxp9.png",
-      "published": "Fri, 29 May 2026 01:07:02 +0000",
+      "title": "Anonymous Proxies: How Modern Websites Decide Whether to Trust Your Traffic",
+      "link": "https://dev.to/9proxy/anonymous-proxies-how-modern-websites-decide-whether-to-trust-your-traffic-4135",
+      "summary": "If you've spent any time around proxies, VPNs, web scraping, or anti-bot systems, you've probably heard some variation of the same advice: Just change your IP.\n\nFor a long time, that was surprisingly effective.\n\nBut the ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F648jcvz3mbvapfpmzliv.png",
+      "published": "Fri, 29 May 2026 08:49:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
