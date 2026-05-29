@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T19:59:57.297313Z",
+  "updated": "2026-05-29T01:52:28.994232Z",
   "articles": [
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+      "image": "",
+      "published": "Thu, 28 May 2026 20:21:03 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+      "image": "",
+      "published": "Thu, 28 May 2026 18:24:49 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "BTMOB Android malware service generates custom phishing payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
+      "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+      "image": "",
+      "published": "Thu, 28 May 2026 17:10:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
       "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...",
@@ -61,33 +88,6 @@
       "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
       "image": "",
       "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-      "image": "",
-      "published": "Thu, 28 May 2026 10:25:43 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
-      "image": "",
-      "published": "Thu, 28 May 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-      "image": "",
-      "published": "Thu, 28 May 2026 08:43:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "summary": "Article URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/\nComments URL: https://news.ycombinator.com/item?id=48314002\nPoints: 14\n# Comments: 1",
+      "title": "Where are the economies of scale in homebuilding?",
+      "link": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+      "summary": "Article URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale\nComments URL: https://news.ycombinator.com/item?id=48317339\nPoints: 10\n# Comments: 1",
       "image": "",
-      "published": "Thu, 28 May 2026 19:15:54 +0000",
+      "published": "Fri, 29 May 2026 00:16:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Separate the Cord from the Device",
-      "link": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-      "summary": "Article URL: https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html\nComments URL: https://news.ycombinator.com/item?id=48313990\nPoints: 6\n# Comments: 0",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 6\n# Comments: 2",
       "image": "",
-      "published": "Thu, 28 May 2026 19:14:38 +0000",
+      "published": "Fri, 29 May 2026 00:09:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Just Use Postgres for Durable Workflows",
-      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "summary": "Article URL: https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution\nComments URL: https://news.ycombinator.com/item?id=48313530\nPoints: 90\n# Comments: 29",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\nComments URL: https://news.ycombinator.com/item?id=48317093\nPoints: 65\n# Comments: 18",
       "image": "",
-      "published": "Thu, 28 May 2026 18:41:46 +0000",
+      "published": "Thu, 28 May 2026 23:42:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "About LLMs at Zig Days",
-      "link": "https://kristoff.it/blog/llms-at-zig-days/",
-      "summary": "Article URL: https://kristoff.it/blog/llms-at-zig-days/\nComments URL: https://news.ycombinator.com/item?id=48313219\nPoints: 53\n# Comments: 27",
+      "title": "Garnix (A Nix CI) is shutting down",
+      "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "summary": "Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895\nComments URL: https://news.ycombinator.com/item?id=48317043\nPoints: 30\n# Comments: 11",
       "image": "",
-      "published": "Thu, 28 May 2026 18:20:34 +0000",
+      "published": "Thu, 28 May 2026 23:36:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Lone Lisp Heap",
-      "link": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-      "summary": "Article URL: https://www.matheusmoreira.com/articles/lone-lisp-heap\nComments URL: https://news.ycombinator.com/item?id=48313142\nPoints: 6\n# Comments: 2",
+      "title": "The Silent Critic",
+      "link": "https://www.tft.io/the-silent-critic/",
+      "summary": "Article URL: https://www.tft.io/the-silent-critic/\nComments URL: https://news.ycombinator.com/item?id=48316958\nPoints: 7\n# Comments: 2",
       "image": "",
-      "published": "Thu, 28 May 2026 18:16:20 +0000",
+      "published": "Thu, 28 May 2026 23:25:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Build a $0/month contact form backend with Google Sheets",
-      "link": "https://dev.to/ttcd77/build-a-0month-contact-form-backend-with-google-sheets-27lg",
-      "summary": "Static sites do not need a monthly form backend.\n\nIf you build portfolio sites, landing pages, or simple client websites, the contact form is usually the awkward bit. You do not want to run a server just to collect a nam",
-      "image": "",
-      "published": "Thu, 28 May 2026 19:58:13 +0000",
+      "title": "🦄 Modernizing Wild Rydes with modern technologies",
+      "link": "https://dev.to/cferreirasuazo/modernizing-wild-rydes-with-modern-technologies-5g2p",
+      "summary": "Wild Rydes was an old project used by AWS hands-on labs to show how to deploy a serverless application using its services. It consists of a Uber-like application where you would request rides by UNICORNS (🦄). In the foll",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg64lwggk9sd17jhk3cxm.png",
+      "published": "Fri, 29 May 2026 01:46:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The x3.16 Developer | Part 1",
-      "link": "https://dev.to/amirarad/the-x316-developer-part-1-2jc4",
-      "summary": "TL;DR\n\n\n\nTaking the time to figure out what has value beyond this specific task and feeding it back into your setup is the single highest-leverage thing you can do.\n\n\n\n\n\n\n  \n  \n  1. The Promise and the Gap\n\n\nEveryone's c",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0hhhive3s5nob3k3gru.png",
-      "published": "Thu, 28 May 2026 19:44:19 +0000",
+      "title": "Markio ✨ — A Modern Markdown Editor Rebuilt with GitHub Copilot",
+      "link": "https://dev.to/sripadh_sujith_1487e8db18/markio-a-modern-markdown-editor-rebuilt-with-github-copilot-1ppe",
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n\n\n\n  \n  \n  What I Built\n\n\nI built Markio, a modern Markdown editor and live preview application built using Next.js.\n\nThe idea behind Markio was to create ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtr2azvh49g2h4m9x951.png",
+      "published": "Fri, 29 May 2026 01:28:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "bQuery.js Grows Up: From Tiny jQuery Tribute to a Full-Stack Framework — and a Brand New Home at bquery.js.org 🎉",
-      "link": "https://dev.to/josunlp/bqueryjs-grows-up-from-tiny-jquery-tribute-to-a-full-stack-framework-and-a-brand-new-home-at-1paa",
-      "summary": "Hi everyone! 👋\n\nbQuery.js started last autumn with a question I couldn't stop chewing on: why was jQuery actually invented?\n\nStrip away two decades of memes and \"jQuery is dead\" hot takes, and the answer is pretty simple",
+      "title": "Une journée avec `/challenger` : 4 bugs, 4 hypothèses réfutées avant le fix",
+      "link": "https://dev.to/michelfaure/une-journee-avec-challenger-4-bugs-4-hypotheses-refutees-avant-le-fix-1ikh",
+      "summary": "Le matin où j'ai cru que c'était une seule journée\n\n\nSamedi 16 mai, huit heures dix. Café tiède dans la tasse à tête de Françoise, héritée d'un anniversaire de bureau. Le tableau Sentry de la nuit affiche un point rouge ",
       "image": "",
-      "published": "Thu, 28 May 2026 19:41:00 +0000",
+      "published": "Fri, 29 May 2026 01:16:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I shipped super-time-tracker-ui, a local web UI for my CLI time sheets",
-      "link": "https://dev.to/f3rnox/i-shipped-super-time-tracker-ui-a-local-web-ui-for-my-cli-time-sheets-574a",
-      "summary": "The short version\n\n\nIf you live in the terminal but still wish your time sheets had a real interface, I built the thing for you. It's called super-time-tracker-ui and it's now on npm.\n\n\n\nnpm install -g super-time-tracker",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk9ioz7um7icgydzdwgs6.png",
-      "published": "Thu, 28 May 2026 19:37:42 +0000",
+      "title": "A day in the life of `/challenger`: 4 bugs, 4 hypotheses falsified before the fix",
+      "link": "https://dev.to/michelfaure/a-day-in-the-life-of-challenger-4-bugs-4-hypotheses-falsified-before-the-fix-2pp",
+      "summary": "The morning I thought it was one single day\n\n\nSaturday May 16, eight ten in the morning. Lukewarm coffee in Françoise's mug — inherited from an office birthday. The overnight Sentry board shows an isolated red dot on a t",
+      "image": "",
+      "published": "Fri, 29 May 2026 01:15:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Before SQL, We Had to Tell Computers Everything. Then One Idea Changed That Forever.",
-      "link": "https://dev.to/baldwin_apps/before-sql-we-had-to-tell-computers-everything-then-one-idea-changed-that-forever-3ddl",
-      "summary": "Here's something most SQL tutorials skip entirely:\n\nSQL wasn't just a new syntax. It was a new way of thinking.\n\nBefore SQL existed, most systems were built around procedural programming. You didn't describe a result — y",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1pcm35lde2qzgaajy51.png",
-      "published": "Thu, 28 May 2026 19:37:32 +0000",
+      "title": "Stop pasting tokens into random websites: meet SmartDevUtils",
+      "link": "https://dev.to/ramcsamal/stop-pasting-tokens-into-random-websites-meet-smartdevutils-3n4",
+      "summary": "If you've done any of these in the last week —\n\n\nGoogled \"decode jwt online\", clicked the first result, and pasted a real token into a textbox on a domain you'd never heard of.\nOpened an ad-cluttered \"JSON formatter\" sit",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F12il2769smwuq5e2oxp9.png",
+      "published": "Fri, 29 May 2026 01:07:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
