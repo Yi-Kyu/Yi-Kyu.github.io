@@ -1,6 +1,33 @@
 {
-  "updated": "2026-05-29T08:59:28.120951Z",
+  "updated": "2026-05-29T14:32:36.389954Z",
   "articles": [
+    {
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assess",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg",
+      "published": "Fri, 29 May 2026 17:01:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the op",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg",
+      "published": "Fri, 29 May 2026 16:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certif",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg",
+      "published": "Fri, 29 May 2026 14:41:25 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
       "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.\n\n\"The campaign abused trusted endpo",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg",
-      "published": "Thu, 28 May 2026 20:56:04 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png",
-      "published": "Thu, 28 May 2026 19:23:52 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed inf",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg",
-      "published": "Thu, 28 May 2026 19:03:16 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been P",
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into poli",
       "image": "",
-      "published": "Fri, 29 May 2026 04:29:40 -0400",
+      "published": "Fri, 29 May 2026 10:32:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
       "image": "",
-      "published": "Thu, 28 May 2026 20:21:03 -0400",
+      "published": "Fri, 29 May 2026 10:26:36 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
       "image": "",
-      "published": "Thu, 28 May 2026 18:24:49 -0400",
+      "published": "Fri, 29 May 2026 08:08:08 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
       "image": "",
-      "published": "Thu, 28 May 2026 17:10:11 -0400",
+      "published": "Fri, 29 May 2026 07:07:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...",
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
       "image": "",
-      "published": "Thu, 28 May 2026 15:08:10 -0400",
+      "published": "Fri, 29 May 2026 06:11:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
-      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "summary": "Article URL: https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/\nComments URL: https://news.ycombinator.com/item?id=48319968\nPoints: 32\n# Comments: 31",
+      "title": "Please Use AI",
+      "link": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "summary": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai\nComments URL: https://news.ycombinator.com/item?id=48323101\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Fri, 29 May 2026 07:05:31 +0000",
+      "published": "Fri, 29 May 2026 13:50:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "summary": "Article URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\nComments URL: https://news.ycombinator.com/item?id=48319509\nPoints: 124\n# Comments: 56",
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "link": "https://github.com/scanaislop/aislop",
+      "summary": "Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops. They aren’t syntax and passes most tests, they are patterns like emp",
       "image": "",
-      "published": "Fri, 29 May 2026 05:45:36 +0000",
+      "published": "Fri, 29 May 2026 13:37:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "link": "https://github.com/HeidiSQL/HeidiSQL",
-      "summary": "Article URL: https://github.com/HeidiSQL/HeidiSQL\nComments URL: https://news.ycombinator.com/item?id=48318568\nPoints: 12\n# Comments: 3",
+      "title": "Local Git Remotes",
+      "link": "https://cblgh.org/posts/local-git-remotes/",
+      "summary": "Article URL: https://cblgh.org/posts/local-git-remotes/\nComments URL: https://news.ycombinator.com/item?id=48322389\nPoints: 20\n# Comments: 17",
       "image": "",
-      "published": "Fri, 29 May 2026 03:14:39 +0000",
+      "published": "Fri, 29 May 2026 12:45:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Let's compile Quake like it's 1997",
-      "link": "https://fabiensanglard.net/compile_like_1997/",
-      "summary": "Article URL: https://fabiensanglard.net/compile_like_1997/\nComments URL: https://news.ycombinator.com/item?id=48318522\nPoints: 19\n# Comments: 3",
+      "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "link": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+      "summary": "Article URL: https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/\nComments URL: https://news.ycombinator.com/item?id=48322241\nPoints: 17\n# Comments: 5",
       "image": "",
-      "published": "Fri, 29 May 2026 03:07:22 +0000",
+      "published": "Fri, 29 May 2026 12:30:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cars collect a startling amount of data about you",
-      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\nComments URL: https://news.ycombinator.com/item?id=48318481\nPoints: 312\n# Comments: 140",
+      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
+      "link": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/\nComments URL: https://news.ycombinator.com/item?id=48322154\nPoints: 72\n# Comments: 35",
       "image": "",
-      "published": "Fri, 29 May 2026 03:01:00 +0000",
+      "published": "Fri, 29 May 2026 12:17:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Hard Truth About Choosing a Database and Why Most Projects Get It Wrong",
-      "link": "https://dev.to/charity254/the-hard-truth-about-choosing-a-database-and-why-most-projects-get-it-wrong-2jpe",
-      "summary": "When building a project, choosing a database often feels like a quick decision. You pick something familiar or popular, wire it up, and move on to more interesting problems.\n\nLater, that decision quietly starts shaping e",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4dn7rf19vlqewb7avpvl.png",
-      "published": "Fri, 29 May 2026 08:57:23 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "EV-QA-Framework: Open-Source ML-Powered Quality Analysis for EV Battery Systems",
-      "link": "https://dev.to/remontsuri/ev-qa-framework-open-source-instrumient-dlia-ml-analiza-kachiestva-tiaghovykh-batariei-eliektromobiliei-1m9g",
-      "summary": "EV-QA-Framework: Open-Source ML-Powered Quality Analysis for EV Battery Systems\n\n\nEV-QA-Framework is an open-source machine learning framework for analyzing electric vehicle battery data. Whether you work with BMS teleme",
+      "title": "Install PM2",
+      "link": "https://dev.to/ralvaracode/install-pm2-gmp",
+      "summary": "Originally posted on Web Warrior Toolbox\n\n\nOn a server where you’ve already installed npm or pnpm, you can add PM2 to manage your backend application.\n\nIf you’re not sure about your fnm/pnpm setup, check this tutorial.\n\n",
       "image": "",
-      "published": "Fri, 29 May 2026 08:54:10 +0000",
+      "published": "Fri, 29 May 2026 14:25:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built an AI Security Coach for People Who Can't Afford to Get Hacked",
-      "link": "https://dev.to/linfordlee14/i-built-an-ai-security-coach-for-people-who-cant-afford-to-get-hacked-3202",
-      "summary": "CyberBuddy is a gamified Android app that guides everyday users through personal cybersecurity using a Gemini A2A agent. Here's the full build story.\n\n\n𝗜 𝗯𝘂𝗶𝗹𝘁 𝘁𝗵𝗶𝘀 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝘀𝗼𝗺𝗲𝗼𝗻𝗲 𝗮𝘀𝗸𝗲𝗱 𝗺𝗲 𝗮 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗮𝗻𝘀𝘄𝗲𝗿 𝗶",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3l85wdpwnw2yj7s331mx.png",
-      "published": "Fri, 29 May 2026 08:53:34 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Got Tired of Wiring Grafana + Loki + Tempo — So I Built a One-Command Observability Stack",
-      "link": "https://dev.to/sulthonzh/i-got-tired-of-wiring-grafana-loki-tempo-so-i-built-a-one-command-observability-stack-5g26",
-      "summary": "I've lost count of how many weekends I've spent wiring up observability stacks for side projects. Grafana for dashboards. Loki for logs. Tempo for traces. Prometheus for metrics. Jaeger if you're feeling adventurous. Eac",
+      "title": "The Ultimate Python Logic Journey: Chocolates -> Divisors -> Primes",
+      "link": "https://dev.to/kathirvel-s/the-ultimate-python-logic-journey-chocolates-divisors-primes-19h5",
+      "summary": "Imagine this...\n\nYou walk into a shop and buy 30 chocolates. 🍫\n\nYour friend looks at the chocolates and asks:\n\n\n“Can we divide these chocolates equally among people without breaking any chocolate?”\n\n\nInteresting question",
       "image": "",
-      "published": "Fri, 29 May 2026 08:49:12 +0000",
+      "published": "Fri, 29 May 2026 14:24:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Anonymous Proxies: How Modern Websites Decide Whether to Trust Your Traffic",
-      "link": "https://dev.to/9proxy/anonymous-proxies-how-modern-websites-decide-whether-to-trust-your-traffic-4135",
-      "summary": "If you've spent any time around proxies, VPNs, web scraping, or anti-bot systems, you've probably heard some variation of the same advice: Just change your IP.\n\nFor a long time, that was surprisingly effective.\n\nBut the ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F648jcvz3mbvapfpmzliv.png",
-      "published": "Fri, 29 May 2026 08:49:08 +0000",
+      "title": "Nexthena app",
+      "link": "https://dev.to/blackstar/nexthena-app-5g9i",
+      "summary": "Built a local-first AI whiteboard app — free on Windows/Linux, $2 one-time on macOS [OC]\n\nHey all — I built Nexthena, a desktop whiteboard that runs entirely on your machine. No account required, no cloud sync, completel",
+      "image": "",
+      "published": "Fri, 29 May 2026 14:23:50 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "No Template Fits? Generate Your Own Awesome DESIGN.md with .NET and Ollama",
+      "link": "https://dev.to/auyeungdavid_2847435260/no-template-fits-generate-your-own-awesome-designmd-with-net-and-ollama-2o",
+      "summary": "Introduction\n\n\nI found that lots of excellent DESIGN.md examples are already available in this awesome repo:\n\n\nhttps://github.com/VoltAgent/awesome-design-md\n\n\nLight introduction: this repository is a curated collection ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdc2s4ysb4i0liilef3j3.png",
+      "published": "Fri, 29 May 2026 14:21:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "DeepSeek API Complete Guide: Setup, Pricing, and Best Practices",
+      "link": "https://dev.to/shadie_ai/deepseek-api-complete-guide-setup-pricing-and-best-practices-2g3c",
+      "summary": "DeepSeek API Complete Guide: Setup, Pricing, and Best Practices\n\n\n\n  \n  \n  Why DeepSeek API is Gaining Traction Among DevelopersIf you've been following the AI landscape, you've likely heard about DeepSeek. This open-wei",
+      "image": "",
+      "published": "Fri, 29 May 2026 14:20:02 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+      "link": "https://css-tricks.com/whats-important-12/",
+      "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\n\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, an",
+      "image": "",
+      "published": "Fri, 29 May 2026 13:25:38 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the ",
       "image": "",
       "published": "Fri, 22 May 2026 13:44:40 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Stack Overflow: When We Stop Asking",
-      "link": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
-      "summary": "It still hits like a ton of bricks to see the steep decline in Stack Overflow questions. What does that mean about learning in our industry?\n\nStack Overflow: When We Stop Asking originally handwritten and published with ",
-      "image": "",
-      "published": "Wed, 20 May 2026 13:51:34 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
