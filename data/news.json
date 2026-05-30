@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T12:55:51.610605Z",
+  "updated": "2026-05-30T18:53:46.670921Z",
   "articles": [
     {
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "image": "",
+      "published": "Sat, 30 May 2026 14:02:51 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain r",
+      "image": "",
+      "published": "Sat, 30 May 2026 10:16:08 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
@@ -70,24 +88,6 @@
       "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into poli",
       "image": "",
       "published": "Fri, 29 May 2026 10:32:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
-      "image": "",
-      "published": "Fri, 29 May 2026 10:26:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Chrome adds session cookie theft protection for all users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
-      "image": "",
-      "published": "Fri, 29 May 2026 08:08:08 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "link": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a\nComments URL: https://news.ycombinator.com/item?id=48335388\nPoints: 6\n# Comments: 1",
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "link": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "summary": "Article URL: https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates\nComments URL: https://news.ycombinator.com/item?id=48339180\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Sat, 30 May 2026 12:17:33 +0000",
+      "published": "Sat, 30 May 2026 18:19:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "link": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "summary": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/\nComments URL: https://news.ycombinator.com/item?id=48335135\nPoints: 71\n# Comments: 28",
+      "title": "White House's Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens",
+      "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
+      "summary": "Article URL: https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/\nComments URL: https://news.ycombinator.com/item?id=48339127\nPoints: 24\n# Comments: 1",
       "image": "",
-      "published": "Sat, 30 May 2026 11:41:29 +0000",
+      "published": "Sat, 30 May 2026 18:14:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "link": "https://helios.southlondonscientific.com/",
-      "summary": "Plug-in solar panels (no electrician needed) have just become legal in the UK and will go on sale soon. Helios estimates how much electricity a typical installation could generate at a given address and what that's worth",
+      "title": "Let's talk about EU Sovereignty (2025)",
+      "link": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty",
+      "summary": "Article URL: https://musings.martyn.berlin/lets-talk-about-eu-sovereignty\nComments URL: https://news.ycombinator.com/item?id=48338887\nPoints: 8\n# Comments: 2",
       "image": "",
-      "published": "Sat, 30 May 2026 11:08:37 +0000",
+      "published": "Sat, 30 May 2026 17:49:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "link": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "summary": "Article URL: https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism\nComments URL: https://news.ycombinator.com/item?id=48334710\nPoints: 19\n# Comments: 4",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "link": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-05-30\nComments URL: https://news.ycombinator.com/item?id=48338673\nPoints: 59\n# Comments: 9",
       "image": "",
-      "published": "Sat, 30 May 2026 10:30:50 +0000",
+      "published": "Sat, 30 May 2026 17:29:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pandoc Templates",
-      "link": "https://pandoc-templates.org/",
-      "summary": "Article URL: https://pandoc-templates.org/\nComments URL: https://news.ycombinator.com/item?id=48334515\nPoints: 110\n# Comments: 7",
+      "title": "OpenRouter raises $113M Series B",
+      "link": "https://openrouter.ai/announcements/series-b",
+      "summary": "Article URL: https://openrouter.ai/announcements/series-b\nComments URL: https://news.ycombinator.com/item?id=48338660\nPoints: 126\n# Comments: 54",
       "image": "",
-      "published": "Sat, 30 May 2026 09:56:42 +0000",
+      "published": "Sat, 30 May 2026 17:27:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why my single Next.js app runs 4 different domains (and how the proxy.ts decides who sees what)",
-      "link": "https://dev.to/youssefroop/why-my-single-nextjs-app-runs-4-different-domains-and-how-the-proxyts-decides-who-sees-what-3lmk",
-      "summary": "&gt; TL;DR — I run four different domains off one Next.js codebase: a marketing site at pagestrike.com, an authenticated app at app.pagestrike.com, a public publishing domain at pagestrike.app, and customer-owned domains",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsplusdkloheltggsu528.png",
-      "published": "Sat, 30 May 2026 12:51:32 +0000",
+      "title": "Built free app for game design and worldbuilding",
+      "link": "https://dev.to/imsc/built-free-app-for-game-design-and-worldbuilding-38n8",
+      "summary": "Hi! I want to share a project that I work for a while. It started from idea to get rid off manual copying data from game design documents to game engine. Here you can define your game objects, their props, relations and ",
+      "image": "",
+      "published": "Sat, 30 May 2026 18:47:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Coding agents should not hold write credentials.",
-      "link": "https://dev.to/davidloibner/coding-agents-should-not-hold-write-credentials-3eod",
-      "summary": "I have been thinking a lot about coding agents lately. \nNot really about whether they can write good code, because usually they can, sometimes they can't. That part is obvious. But the risk is shifting from wrong answers",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftkqxyh8iwunln7x431on.png",
-      "published": "Sat, 30 May 2026 12:50:22 +0000",
+      "title": "You Have a Free AI Model Sitting in Chrome Right Now",
+      "link": "https://dev.to/lovestaco/you-have-a-free-ai-model-sitting-in-chrome-right-now-43c3",
+      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it a try and share your f",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzksxqstc1ugjf17n5vx.png",
+      "published": "Sat, 30 May 2026 18:47:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Making Codex CLI and Codex.app Use mise-managed Ruby and Node.js",
-      "link": "https://dev.to/masutaka/making-codex-cli-and-codexapp-use-mise-managed-ruby-and-nodejs-4fm6",
-      "summary": "I mostly use Claude Code, but lately I've been using Codex CLI and Codex.app (hereafter \"Codex\") more often too. My environment is macOS.\n\nHowever, after I started using mise in [2026-03-29-1], I ran into trouble because",
+      "title": "I created a fork of GunDB and rewrote it in TypeScript using Vibe Code",
+      "link": "https://dev.to/israelmarmar/i-created-a-fork-of-gundb-and-rewrote-it-in-typescript-using-vibe-code-5b9b",
+      "summary": "Inspired by a similar project called GenosDB and Cloudflare’s initiative to rebuild Next.js, I decided to rebuild GunDB with a modern coding style, incorporating improvements and addressing shortcomings in the original t",
       "image": "",
-      "published": "Sat, 30 May 2026 12:43:18 +0000",
+      "published": "Sat, 30 May 2026 18:43:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Top CLI AI Coding Agents to Use in 2026",
-      "link": "https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn",
-      "summary": "AI coding tools have moved way past autocomplete. Today's CLI agents read your entire codebase, plan changes across files, run tests, and even open pull requests - all from the terminal. Picking the right one matters, an",
+      "title": "6 Advanced JavaScript Questions That Separate Seniors from Mid-Levels",
+      "link": "https://dev.to/vitalyobolensky/6-advanced-javascript-questions-that-separate-seniors-from-mid-levels-6cm",
+      "summary": "1. Stale closure &amp; primitive capture\n\n\nWhat is the output of the following code?\n\n\n\nfunction createIncrement() {\n  let count = 0;\n  const message = `Count is ${count}`;\n\n  function increment() {\n    count++;\n  }\n\n  f",
       "image": "",
-      "published": "Sat, 30 May 2026 12:42:12 +0000",
+      "published": "Sat, 30 May 2026 18:42:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Using LLMs to Audit Other LLMs: You Are Bricking Your Production Latency",
-      "link": "https://dev.to/vaxoni/stop-using-llms-to-audit-other-llms-you-are-bricking-your-production-latency-39i2",
-      "summary": "Look at your modern Agentic AI stack.\n\nAn agent wants to execute a tool, trigger a deployment, access a database, or call an external API.\n\nBecause nobody fully trusts a probabilistic black box, many teams now use a seco",
-      "image": "",
-      "published": "Sat, 30 May 2026 12:41:05 +0000",
+      "title": "Claude Does Not Need More Prompts. It Needs Reasoning Discipline.",
+      "link": "https://dev.to/gagharutyunyan/claude-does-not-need-more-prompts-it-needs-reasoning-discipline-32da",
+      "summary": "Large language models are good at sounding structured. That is not the same as\nbeing structured.\n\nAsk an AI assistant to \"use first principles\" and it may produce a confident\nanswer with the phrase \"first principles\" nea",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhj5x0brdm0xy9wem1rj8.png",
+      "published": "Sat, 30 May 2026 18:40:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
