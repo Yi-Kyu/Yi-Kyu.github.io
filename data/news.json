@@ -1,6 +1,15 @@
 {
-  "updated": "2026-05-30T01:48:16.019449Z",
+  "updated": "2026-05-30T08:11:55.851560Z",
   "articles": [
+    {
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg",
+      "published": "Sat, 30 May 2026 12:11:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
       "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
@@ -20,7 +29,7 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assess",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg",
@@ -34,15 +43,6 @@
       "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the op",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg",
       "published": "Fri, 29 May 2026 16:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certif",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg",
-      "published": "Fri, 29 May 2026 14:41:25 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenRCT2 v0.5.1 \"Swamp Castle\" released Last version to support Windows 7",
+      "link": "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released",
+      "summary": "Article URL: https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released\nComments URL: https://news.ycombinator.com/item?id=48333096\nPoints: 5\n# Comments: 0",
+      "image": "",
+      "published": "Sat, 30 May 2026 06:00:32 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "link": "https://www.perryts.com/",
+      "summary": "Article URL: https://www.perryts.com/\nComments URL: https://news.ycombinator.com/item?id=48332151\nPoints: 76\n# Comments: 62",
+      "image": "",
+      "published": "Sat, 30 May 2026 03:14:25 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Naphtha shortages in Japan",
+      "link": "https://www.nippon.com/en/japan-data/h02783/",
+      "summary": "Article URL: https://www.nippon.com/en/japan-data/h02783/\nComments URL: https://news.ycombinator.com/item?id=48331786\nPoints: 101\n# Comments: 62",
+      "image": "",
+      "published": "Sat, 30 May 2026 02:20:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Ember.js 7.0",
+      "link": "https://blog.emberjs.com/ember-released-7-0/",
+      "summary": "Article URL: https://blog.emberjs.com/ember-released-7-0/\nComments URL: https://news.ycombinator.com/item?id=48330902\nPoints: 64\n# Comments: 14",
+      "image": "",
+      "published": "Fri, 29 May 2026 23:57:45 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "What Is a Dickover?",
       "link": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 82\n# Comments: 26",
+      "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 298\n# Comments: 117",
       "image": "",
       "published": "Fri, 29 May 2026 23:54:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MCP is dead?",
-      "link": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "summary": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead\nComments URL: https://news.ycombinator.com/item?id=48330436\nPoints: 76\n# Comments: 61",
+      "title": "\"The AI did it\" won't save you when EU regulators come knocking",
+      "link": "https://dev.to/thegatewayguy/the-ai-did-it-wont-save-you-when-eu-regulators-come-knocking-3nlb",
+      "summary": "The EU Cyber Resilience Act has been on everyone's \"we'll deal with it later\" list since it entered into force in December 2024. Later is arriving: vulnerability reporting requirements kick in September 2026, and full co",
       "image": "",
-      "published": "Fri, 29 May 2026 22:56:49 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "link": "https://github.com/secluso/core",
-      "summary": "Hey everyone,I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption: https://news.ycombinator.com/item?id=42284412.It was called Privastead then and it's",
-      "image": "",
-      "published": "Fri, 29 May 2026 22:32:29 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Free full BGP feed. IPv4 and IPv6",
-      "link": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "summary": "Article URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/\nComments URL: https://news.ycombinator.com/item?id=48330088\nPoints: 22\n# Comments: 7",
-      "image": "",
-      "published": "Fri, 29 May 2026 22:21:58 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The Last Technical Interview",
-      "link": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "summary": "Article URL: https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564\nComments URL: https://news.ycombinator.com/item?id=48328405\nPoints: 49\n# Comments: 15",
-      "image": "",
-      "published": "Fri, 29 May 2026 19:58:56 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I Ran the Same NestJS Prompt on Claude and Gemini. One Got 6 Security Errors. Here's What Both Missed.",
-      "link": "https://dev.to/ofri-peretz/i-ran-the-same-nestjs-prompt-on-claude-and-gemini-one-got-6-security-errors-heres-what-both-1fnf",
-      "summary": "Two models. One prompt. Same linter.\n\nI gave Claude Sonnet 4.6 and Gemini 2.5 Flash the identical prompt: \"Build a NestJS users service. Authentication, registration, login, profile endpoint, admin panel.\" Then I ran bot",
-      "image": "",
-      "published": "Sat, 30 May 2026 01:36:35 +0000",
+      "published": "Sat, 30 May 2026 08:09:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hytales Veltrix Config Files Were Breaking Production Search and No One Admitted How Often",
-      "link": "https://dev.to/on-chain-commerce/hytales-veltrix-config-files-were-breaking-production-search-and-no-one-admitted-how-often-1ekn",
-      "summary": "In 2025 we inherited the public facing search index for Hytales treasure hunt system. The index powered both the in-game mini-map finder and the official community site. Within two weeks we noticed that every time a new ",
+      "title": "The Moment the Runtime Became Your Enemy",
+      "link": "https://dev.to/built-from-africa/the-moment-the-runtime-became-your-enemy-2do",
+      "summary": "The Problem We Were Actually Solving\n\n\nOur Treasure Hunt Engine indexes 1.2 TB of JSON event logs from Veltrix operators, then answers sub-second queries like give me all log lines where field error_code = E499 between 2",
       "image": "",
-      "published": "Sat, 30 May 2026 01:34:16 +0000",
+      "published": "Sat, 30 May 2026 08:06:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub Copilot vs Cursor vs Claude Code: An Honest 30-Day Comparison (2026)",
-      "link": "https://dev.to/zeroknowledge0x/github-copilot-vs-cursor-vs-claude-code-an-honest-30-day-comparison-2026-365n",
-      "summary": "GitHub Copilot vs Cursor vs Claude Code: An Honest 30-Day Comparison (2026)\n\n\nI spent 30 days using all three AI coding tools on real production code. Here's the brutally honest truth about each one — including the thing",
+      "title": "I spent a week fixing my chatbot's memory — here's what worked",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-a-week-fixing-my-chatbots-memory-heres-what-worked-43dj",
+      "summary": "Two months ago, I shipped a customer support chatbot for my SaaS product. It worked great for the first three messages. Then it started forgetting what the user said earlier, repeating itself, and giving contradictory ad",
       "image": "",
-      "published": "Sat, 30 May 2026 01:34:08 +0000",
+      "published": "Sat, 30 May 2026 08:01:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Anatomy of a 30-Point Security Audit (And Why Every Domain Needs One)",
-      "link": "https://dev.to/rronyecz/the-anatomy-of-a-30-point-security-audit-and-why-every-domain-needs-one-1lm6",
-      "summary": "Most domains have between six and ten security misconfigurations that their owners do not know about.\n\nNot because the owners are careless. Because DNS is a layered system built over four decades, where each layer adds i",
+      "title": "Taste-Skill: The Anti-Slop Framework That Gives Your AI 28.5K⭐ Worth of Taste",
+      "link": "https://dev.to/tenglongai2026/taste-skill-the-anti-slop-framework-that-gives-your-ai-285k-worth-of-taste-lba",
+      "summary": "Tired of AI-generated UIs that all look the same? White background, blue button, generic sans-serif, no soul?\n\nYou're not alone. That's why Taste-Skill hit 28.5K stars on GitHub — and gained 2,000+ just today.\n\n\n  \n  \n  ",
       "image": "",
-      "published": "Sat, 30 May 2026 01:34:06 +0000",
+      "published": "Sat, 30 May 2026 08:01:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude API vs OpenAI API: Developer Comparison (2026)",
-      "link": "https://dev.to/claudeguide/claude-api-vs-openai-api-developer-comparison-2026-1bge",
-      "summary": "Originally published at claudeguide.io/claude-vs-openai-api-comparison-2026\n\n\n\n  \n  \n  Claude API vs OpenAI API: Developer Comparison (2026)\n\n\nBoth APIs let you build LLM-powered applications, but they have meaningfully ",
+      "title": "10 Prompts That Make Cursor and Copilot Do the Heavy Lifting",
+      "link": "https://dev.to/zyvop/10-prompts-that-make-cursor-and-copilot-do-the-heavy-lifting-2map",
+      "summary": "Here's something that hasn't changed since 2024: the AI editor is only as good as what you ask it.\n\nWhat has changed is that both Cursor and Copilot are completely different products now. Cursor v3.0 shipped Background A",
       "image": "",
-      "published": "Sat, 30 May 2026 01:31:34 +0000",
+      "published": "Sat, 30 May 2026 08:00:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
