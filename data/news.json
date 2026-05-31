@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T13:04:47.249587Z",
+  "updated": "2026-05-31T18:57:40.755240Z",
   "articles": [
     {
       "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "summary": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "image": "",
+      "published": "Sun, 31 May 2026 10:06:42 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
       "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
@@ -79,15 +88,6 @@
       "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
       "image": "",
       "published": "Fri, 29 May 2026 14:08:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into poli",
-      "image": "",
-      "published": "Fri, 29 May 2026 10:32:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Backpressure is all you need",
-      "link": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "summary": "Article URL: https://www.lucasfcosta.com/blog/backpressure-is-all-you-need\nComments URL: https://news.ycombinator.com/item?id=48345090\nPoints: 12\n# Comments: 6",
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "link": "https://deflock.org/",
+      "summary": "Article URL: https://deflock.org/\nComments URL: https://news.ycombinator.com/item?id=48347370\nPoints: 55\n# Comments: 12",
       "image": "",
-      "published": "Sun, 31 May 2026 12:11:27 +0000",
+      "published": "Sun, 31 May 2026 17:04:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dav2d",
-      "link": "https://jbkempf.com/blog/2026/dav2d/",
-      "summary": "Article URL: https://jbkempf.com/blog/2026/dav2d/\nComments URL: https://news.ycombinator.com/item?id=48344961\nPoints: 96\n# Comments: 19",
+      "title": "The Speed of Prototyping in the Age of AI",
+      "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=48347153\nPoints: 33\n# Comments: 28",
       "image": "",
-      "published": "Sun, 31 May 2026 11:44:45 +0000",
+      "published": "Sun, 31 May 2026 16:37:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "London's Free Roof Terraces",
-      "link": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html\nComments URL: https://news.ycombinator.com/item?id=48343714\nPoints: 129\n# Comments: 53",
+      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "summary": "Article URL: https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/\nComments URL:",
       "image": "",
-      "published": "Sun, 31 May 2026 07:16:18 +0000",
+      "published": "Sun, 31 May 2026 16:19:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Website Specification",
-      "link": "https://specification.website/",
-      "summary": "Article URL: https://specification.website/\nComments URL: https://news.ycombinator.com/item?id=48343683\nPoints: 248\n# Comments: 98",
+      "title": "Chibil: A C compiler targeting .NET IL",
+      "link": "https://github.com/MichalStrehovsky/chibil",
+      "summary": "Article URL: https://github.com/MichalStrehovsky/chibil\nComments URL: https://news.ycombinator.com/item?id=48346660\nPoints: 36\n# Comments: 4",
       "image": "",
-      "published": "Sun, 31 May 2026 07:09:50 +0000",
+      "published": "Sun, 31 May 2026 15:46:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
-      "link": "https://hi.telli.com/join-us",
-      "summary": "Article URL: https://hi.telli.com/join-us\nComments URL: https://news.ycombinator.com/item?id=48343635\nPoints: 0\n# Comments: 0",
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "link": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial\nComments URL: https://news.ycombinator.com/item?id=48346629\nPoints: 89\n#",
       "image": "",
-      "published": "Sun, 31 May 2026 07:00:50 +0000",
+      "published": "Sun, 31 May 2026 15:43:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I Built Hidden Collector Game in Unity",
-      "link": "https://dev.to/sinxcos07/how-i-built-hidden-collector-in-unity-541g",
-      "summary": "As part of my game development journey, I recently created Hidden Collector, a Unity-based game where players explore levels and collect hidden items while progressing through different challenges.\n\nThis project started ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4n3k36rhbkhqhll7ej6.png",
-      "published": "Sun, 31 May 2026 12:43:02 +0000",
+      "title": "I built an n8n MCP Server so Claude can list, run, and monitor my workflows in plain English",
+      "link": "https://dev.to/penumbra_ghost/i-built-an-n8n-mcp-server-so-claude-can-list-run-and-monitor-my-workflows-in-plain-english-3g1h",
+      "summary": "I got tired of opening the n8n dashboard every time I needed to check on a workflow.\n\nYou know the drill: open browser → navigate to executions → find the right workflow → check status → close. Five clicks for something ",
+      "image": "",
+      "published": "Sun, 31 May 2026 18:35:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Moving Beyond the Context Window: The Agentic Memory Architecture",
-      "link": "https://dev.to/dhruvagg/moving-beyond-the-context-window-the-agentic-memory-architecture-2lgo",
-      "summary": "I’ve spent a lot of time lately thinking about why some LLM agents feel \"intelligent\" while others just feel like chatbots with a slightly better prompt. It almost always comes down to how the system handles memory.\n\nWhe",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F011zeafacau6bm7p1gbj.png",
-      "published": "Sun, 31 May 2026 12:42:10 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.\n\nLooking for contributors to help add:\n📊 Open & click tracking\n🐳 Docker support\n All issues are open. Jump in 👇\nhttps://github.com/nikh",
-      "link": "https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97",
-      "summary": "GitHub - nikhilt101/email-blast-tool: Open source HTML email sender tool using CSV/XLSX + Gmail SMTP · GitHub\n          \n        \n          \n            Open source HTML email sender tool using CSV/XLSX + Gmail SMTP - ni",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fopengraph.githubassets.com%2Fbff95b54784989e642c1e2a5aae256ccb4f0561d226efeb24c536c11bf2e89e7%2Fnikhilt101%2Femail-blast-tool",
-      "published": "Sun, 31 May 2026 12:38:06 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Progressive Distillation",
-      "link": "https://dev.to/neuml/progressive-distillation-341i",
-      "summary": "Now that almost everyone has thought about or is actively integrating AI workflows into their projects, some might ask is this all worth the cost? Many think the current economics of the AI space don't scale and that the",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cplh7fmykynr89a33fq.png",
-      "published": "Sun, 31 May 2026 12:37:43 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "System Design - 6.CAP Theorem & PACELC, CAP Theorem & PACELC: The Most Important Trade-off in Distributed Systems",
-      "link": "https://dev.to/rajkiran_389/system-design-6cap-theorem-pacelc-cap-theorem-pacelc-the-most-important-trade-off-in-3cod",
-      "summary": "The Theorem That Changed How We Think About Databases\nIn 2000, Eric Brewer stood at a conference and proposed a conjecture that would reshape distributed systems forever:\n\n\"You can only guarantee two of these three prope",
+      "title": "Your MCP servers can read your SSH keys. Anthropic just fixed that.",
+      "link": "https://dev.to/thegatewayguy/your-mcp-servers-can-read-your-ssh-keys-anthropic-just-fixed-that-4ik6",
+      "summary": "Every MCP server you run locally executes with your full filesystem and network permissions. That means the GitHub MCP server, the Slack one, that third-party tool you installed from npm last week — all of them can read ",
       "image": "",
-      "published": "Sun, 31 May 2026 12:37:18 +0000",
+      "published": "Sun, 31 May 2026 18:31:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I Built an Autonomous RBI Regulatory Digest Agent with Hermes Agent",
+      "link": "https://dev.to/kunal_pratapsingh_50fdc8/i-built-an-autonomous-rbi-regulatory-digest-agent-with-hermes-agent-2f8g",
+      "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nEvery time the Reserve Bank of India publishes a circular, somewhere inside an Indian bank, a com",
+      "image": "",
+      "published": "Sun, 31 May 2026 18:30:14 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Error: Cannot Set Headers After They Are Sent to the Client",
+      "link": "https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a",
+      "summary": "Error: Cannot Set Headers After They Are Sent to the Client\n\n\nIf you've built APIs with Express for any length of time, you've probably seen this error:\n\n\n\nError [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are",
+      "image": "",
+      "published": "Sun, 31 May 2026 18:30:00 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Novelty by AI ที่มา Disproved Erdős Planar Unit Distance Problem",
+      "link": "https://dev.to/terngr/novelty-by-ai-thiimaa-disproved-erdos-planar-unit-distance-problem-446e",
+      "summary": "AI จะครองโลก เป็นคำที่ได้ยินมานาน เท่าที่ผู้เขียนจำความได้ก็มี Judgement Day ยุคหนัง Terminator แต่หากจะจริงจังขนาดโยงเข้าความเป็นจริงก็ยังไม่มีอะไรชัดเจน\n\n\nแต่วันนี้เรามีหลักฐานพิสูจน์ได้จริงแล้ว ด้วยความ Novelty จาก Op",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pzvs7ltjv9zzqwsazjd.png",
+      "published": "Sun, 31 May 2026 18:29:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
