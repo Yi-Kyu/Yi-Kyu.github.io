@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T02:08:25.413209Z",
+  "updated": "2026-06-01T11:01:24.707253Z",
   "articles": [
+    {
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susce",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg",
+      "published": "Mon, 01 Jun 2026 14:15:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
       "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
-      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
-      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assess",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg",
-      "published": "Fri, 29 May 2026 17:01:59 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
       "image": "",
       "published": "Fri, 29 May 2026 14:21:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
-      "image": "",
-      "published": "Fri, 29 May 2026 14:08:47 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Chuwi Minibook X: the netbook we deserve",
-      "link": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/\nComments URL: https://news.ycombinator.com/item?id=48350598\nPoints: 84\n# Comments: 67",
+      "title": "Why are large language models so terrible at video games?",
+      "link": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-video-games-llms-togelius\nComments URL: https://news.ycombinator.com/item?id=48354405\nPoints: 17\n# Comments: 20",
       "image": "",
-      "published": "Sun, 31 May 2026 22:59:50 +0000",
+      "published": "Mon, 01 Jun 2026 09:14:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "It's Not Just X. It's Y",
-      "link": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/\nComments URL: https://news.ycombinator.com/item?id=48350149\nPoints: 95\n# Comments: 83",
+      "title": "Cessation of public development of Kefir C compiler",
+      "link": "https://kefir.protopopov.lv/posts/announce2.html",
+      "summary": "Article URL: https://kefir.protopopov.lv/posts/announce2.html\nComments URL: https://news.ycombinator.com/item?id=48354224\nPoints: 31\n# Comments: 2",
       "image": "",
-      "published": "Sun, 31 May 2026 21:57:48 +0000",
+      "published": "Mon, 01 Jun 2026 08:52:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "'Backrooms' Stuns with $81M Debut",
-      "link": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
-      "summary": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/\nComments URL: https://news.ycombinator.com/item?id=48348864\nPoints: 156\n# C",
+      "title": "Blorp Language",
+      "link": "https://blorp-lang.org/",
+      "summary": "Article URL: https://blorp-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48353694\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Sun, 31 May 2026 19:27:44 +0000",
+      "published": "Mon, 01 Jun 2026 07:35:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The History of \"Prisencolinensinainciusol\"",
-      "link": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
-      "summary": "Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/\nComments URL: https://news.ycombinator.com/item?id=48348737\nPoints: 24\n# Co",
+      "title": "Rift: Better Alternative to Git Worktrees",
+      "link": "https://github.com/anomalyco/rift",
+      "summary": "Article URL: https://github.com/anomalyco/rift\nComments URL: https://news.ycombinator.com/item?id=48353427\nPoints: 43\n# Comments: 19",
       "image": "",
-      "published": "Sun, 31 May 2026 19:14:23 +0000",
+      "published": "Mon, 01 Jun 2026 06:53:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "link": "https://twitter.com/i/status/2060746160558543217",
-      "summary": "Article URL: https://twitter.com/i/status/2060746160558543217\nComments URL: https://news.ycombinator.com/item?id=48348578\nPoints: 379\n# Comments: 179",
+      "title": "A 10 year old Xeon is all you need",
+      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "summary": "Article URL: https://point.free/blog/gemma-4-on-a-2016-xeon/\nComments URL: https://news.ycombinator.com/item?id=48353348\nPoints: 158\n# Comments: 61",
       "image": "",
-      "published": "Sun, 31 May 2026 18:57:48 +0000",
+      "published": "Mon, 01 Jun 2026 06:38:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Modern Android Architecture (Part 2): The Lego Architecture: Divide and Conquer, Taken to the Extreme",
-      "link": "https://dev.to/zealot2002/modern-android-architecture-part-2-the-lego-architecture-divide-and-conquer-taken-to-the-58j7",
-      "summary": "Modern Android Architecture (Part 2): The Lego Architecture: Divide and Conquer, Taken to the Extreme\n\n\n\nSeries Navigation: Article 1: A Decade of Android Architecture Evolution | Article 3: Refactoring a Product Detail ",
+      "title": "Spec-Driven Development: When Structure Helps and When It Becomes Tax",
+      "link": "https://dev.to/tisha_chawla/spec-driven-development-when-structure-helps-and-when-it-becomes-tax-11bf",
+      "summary": "Tisha Chawla · Software Engineer at Microsoft\n\n\n  \n  \n  1. The Ambiguity Tax\n\n\nThe bottleneck in AI-assisted engineering is no longer code generation. It is intent preservation.\n\nA human engineer can resolve ambiguity us",
       "image": "",
-      "published": "Mon, 01 Jun 2026 02:06:02 +0000",
+      "published": "Mon, 01 Jun 2026 10:50:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Modern Android Architecture (Part 1): A Decade of Android Architecture Evolution: What Problem Are We Really Solving?",
-      "link": "https://dev.to/zealot2002/modern-android-architecture-part-1-a-decade-of-android-architecture-evolution-what-problem-are-403f",
-      "summary": "Modern Android Architecture (Part 1): A Decade of Android Architecture Evolution: What Problem Are We Really Solving?\n\n\n\nSeries Navigation: Article 2: The Lego Architecture: Divide and Conquer, Taken to the Extreme | Art",
+      "title": "Stop guessing if your DB migrations work! 🚀 With 'trymigrate', you can test Flyway migrations using JUnit 5 & Testcontainers in true TDD style. Features delta-linting for clean models without legacy frustration. Open sou",
+      "link": "https://dev.to/bekoenig/stop-guessing-if-your-db-migrations-work-with-trymigrate-you-can-test-flyway-scripts-using-2dl4",
+      "summary": "",
       "image": "",
-      "published": "Mon, 01 Jun 2026 02:05:31 +0000",
+      "published": "Mon, 01 Jun 2026 10:49:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why I Gave Up on Regex and Built an AI Data Extractor",
-      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/why-i-gave-up-on-regex-and-built-an-ai-data-extractor-106k",
-      "summary": "I’ve been scraping the web for years. It’s a love-hate relationship: the thrill of finally pulling the data you need, followed by the despair when the site redesigns and everything breaks. Last month, I hit a wall. I nee",
+      "title": "Foundational Concepts in Data Engineering Using an E-Commerce Platform Example",
+      "link": "https://dev.to/motanga/foundational-concepts-in-data-engineering-using-an-e-commerce-platform-example-5djf",
+      "summary": "INTRODUCTION\n\nData engineering is the process of collecting, moving, transforming, storing, and managing data so that it can be used for reporting, analytics, machine learning, and decision-making. Almost every modern di",
       "image": "",
-      "published": "Mon, 01 Jun 2026 02:01:14 +0000",
+      "published": "Mon, 01 Jun 2026 10:47:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We Built a Referral Program Tool Inside Our URL Shortener. Here's Why.",
-      "link": "https://dev.to/anand_rathnas_d5b608cc3de/we-built-a-referral-program-tool-inside-our-url-shortener-heres-why-pak",
-      "summary": "This article was originally published on Jo4 Blog.\n\n\nEvery SaaS founder eventually asks the same question: \"How do I get my existing users to bring me new ones?\"\n\nThe answer is referral programs. The problem is the tools",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 01:55:21 +0000",
+      "title": "Message Queues: When to Use Kafka vs RabbitMQ vs SQS",
+      "link": "https://dev.to/sarvabharan/message-queues-when-to-use-kafka-vs-rabbitmq-vs-sqs-3mic",
+      "summary": "Messaging systems are one of those architectural decisions that seem harmless during sprint planning.\n\nSix months later, they're either silently scaling your platform... or personally ruining your weekends.\n\nThe truth is",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felb3bn5qsymodxdfm5mu.png",
+      "published": "Mon, 01 Jun 2026 10:46:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How we built a 14-agent pipeline that ships a deployed app + launch assets in ~7 minutes",
-      "link": "https://dev.to/harjjotsinghh/how-we-built-a-14-agent-pipeline-that-ships-a-deployed-app-launch-assets-in-7-minutes-24ko",
-      "summary": "Most AI app builders stop at \"deployed.\" You prompt, you get a repo, maybe a preview URL, and then the actual work starts: wiring a domain, writing the landing copy, cutting screenshots, drafting the launch thread. We wa",
+      "title": "Security by obscurity is dead. Three things killed it at the same time.",
+      "link": "https://dev.to/leonidbugaev/security-by-obscurity-is-dead-three-things-killed-it-at-the-same-time-2ikf",
+      "summary": "For years, “we’re not a bank, we don’t need that level of security” was a defensible posture. Most teams ran a dep scanner, had a pen test once a year, and quietly relied on attackers not caring enough to read their code",
       "image": "",
-      "published": "Mon, 01 Jun 2026 01:54:28 +0000",
+      "published": "Mon, 01 Jun 2026 10:39:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
