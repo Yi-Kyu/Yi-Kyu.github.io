@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-01T11:01:24.707253Z",
+  "updated": "2026-06-01T17:08:28.259444Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "summary": "Monday hit like a cron job with anger issues.\n\nA busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, ske",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png",
+      "published": "Mon, 01 Jun 2026 19:29:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite Labs, targets of th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg",
+      "published": "Mon, 01 Jun 2026 17:24:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a comp",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg",
+      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is ad",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png",
+      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
       "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
@@ -11,83 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.\n\nThe bot network, per the ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png",
-      "published": "Sun, 31 May 2026 17:52:12 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg",
-      "published": "Sat, 30 May 2026 12:11:26 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg",
-      "published": "Fri, 29 May 2026 23:37:12 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network usin",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png",
-      "published": "Fri, 29 May 2026 20:09:56 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
       "image": "",
-      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
+      "published": "Mon, 01 Jun 2026 13:04:16 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "summary": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
       "image": "",
-      "published": "Sun, 31 May 2026 10:06:42 -0400",
+      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
-      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
       "image": "",
-      "published": "Sat, 30 May 2026 14:02:51 -0400",
+      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
-      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain r",
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks",
       "image": "",
-      "published": "Sat, 30 May 2026 10:16:08 -0400",
+      "published": "Mon, 01 Jun 2026 08:30:27 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident re",
       "image": "",
-      "published": "Fri, 29 May 2026 14:21:36 -0400",
+      "published": "Mon, 01 Jun 2026 08:01:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why are large language models so terrible at video games?",
-      "link": "https://spectrum.ieee.org/ai-video-games-llms-togelius",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-video-games-llms-togelius\nComments URL: https://news.ycombinator.com/item?id=48354405\nPoints: 17\n# Comments: 20",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md\nComments URL: https://news.ycombinator.com/item?id=48359232\nPoints: 17\n# Comments: 3",
       "image": "",
-      "published": "Mon, 01 Jun 2026 09:14:26 +0000",
+      "published": "Mon, 01 Jun 2026 16:41:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cessation of public development of Kefir C compiler",
-      "link": "https://kefir.protopopov.lv/posts/announce2.html",
-      "summary": "Article URL: https://kefir.protopopov.lv/posts/announce2.html\nComments URL: https://news.ycombinator.com/item?id=48354224\nPoints: 31\n# Comments: 2",
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/\nComments URL: https://news.ycombinator.com/item?id=48359130\nPoints: 109\n# Comments: 41",
       "image": "",
-      "published": "Mon, 01 Jun 2026 08:52:05 +0000",
+      "published": "Mon, 01 Jun 2026 16:33:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Blorp Language",
-      "link": "https://blorp-lang.org/",
-      "summary": "Article URL: https://blorp-lang.org/\nComments URL: https://news.ycombinator.com/item?id=48353694\nPoints: 8\n# Comments: 1",
+      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
+      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "summary": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 115\n# Comments: 20",
       "image": "",
-      "published": "Mon, 01 Jun 2026 07:35:15 +0000",
+      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rift: Better Alternative to Git Worktrees",
-      "link": "https://github.com/anomalyco/rift",
-      "summary": "Article URL: https://github.com/anomalyco/rift\nComments URL: https://news.ycombinator.com/item?id=48353427\nPoints: 43\n# Comments: 19",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "summary": "Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec\nComments URL: https://news.ycombinator.com/item?id=48358646\nPoints: 143\n# Comments: 92",
       "image": "",
-      "published": "Mon, 01 Jun 2026 06:53:27 +0000",
+      "published": "Mon, 01 Jun 2026 16:00:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A 10 year old Xeon is all you need",
-      "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "summary": "Article URL: https://point.free/blog/gemma-4-on-a-2016-xeon/\nComments URL: https://news.ycombinator.com/item?id=48353348\nPoints: 158\n# Comments: 61",
+      "title": "Can You Stop a Hypersonic Missile?",
+      "link": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
+      "summary": "Article URL: https://protortyp.github.io/posts/can-you-stop-a-hypersonic/\nComments URL: https://news.ycombinator.com/item?id=48358515\nPoints: 31\n# Comments: 19",
       "image": "",
-      "published": "Mon, 01 Jun 2026 06:38:42 +0000",
+      "published": "Mon, 01 Jun 2026 15:51:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spec-Driven Development: When Structure Helps and When It Becomes Tax",
-      "link": "https://dev.to/tisha_chawla/spec-driven-development-when-structure-helps-and-when-it-becomes-tax-11bf",
-      "summary": "Tisha Chawla · Software Engineer at Microsoft\n\n\n  \n  \n  1. The Ambiguity Tax\n\n\nThe bottleneck in AI-assisted engineering is no longer code generation. It is intent preservation.\n\nA human engineer can resolve ambiguity us",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 10:50:27 +0000",
+      "title": "From Sinus Relief to Toxic Gas: A Lesson in LLM Overreliance (LLM09)",
+      "link": "https://dev.to/ggle_in/from-sinus-relief-to-toxic-gas-a-lesson-in-llm-overreliance-llm09-dhp",
+      "summary": "When Your AI Medical Assistant Turns Into a Chemistry Tutor from Hell: A Lesson in LLM Overreliance\n\nHey dev.to!\nI’m Jack, and my latest hobby beside gardening and cooking, I love poking at AI models in my sandbox to see",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqz0uxvk4gjwhc4sxid.png",
+      "published": "Mon, 01 Jun 2026 17:06:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop guessing if your DB migrations work! 🚀 With 'trymigrate', you can test Flyway migrations using JUnit 5 & Testcontainers in true TDD style. Features delta-linting for clean models without legacy frustration. Open sou",
-      "link": "https://dev.to/bekoenig/stop-guessing-if-your-db-migrations-work-with-trymigrate-you-can-test-flyway-scripts-using-2dl4",
-      "summary": "",
+      "title": "Building Picture-in-Picture (PiP) Mode in React Native with Expo and TypeScript",
+      "link": "https://dev.to/dainyjose/building-picture-in-picture-pip-mode-in-react-native-with-expo-and-typescript-af6",
+      "summary": "Picture-in-Picture (PiP) mode is one of the most useful features for media-based mobile applications. It allows users to continue watching video content while navigating outside the app.\n\nIn this article, we will build a",
       "image": "",
-      "published": "Mon, 01 Jun 2026 10:49:45 +0000",
+      "published": "Mon, 01 Jun 2026 17:06:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Foundational Concepts in Data Engineering Using an E-Commerce Platform Example",
-      "link": "https://dev.to/motanga/foundational-concepts-in-data-engineering-using-an-e-commerce-platform-example-5djf",
-      "summary": "INTRODUCTION\n\nData engineering is the process of collecting, moving, transforming, storing, and managing data so that it can be used for reporting, analytics, machine learning, and decision-making. Almost every modern di",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 10:47:26 +0000",
+      "title": "Silent Skills Every Developer Should Build",
+      "link": "https://dev.to/fcharles/silent-skills-every-developer-should-build-56fe",
+      "summary": "\"The coming generation of programmers are not those who know how to code, but those who have mastered soft skills.\"\nCo-Executive Director - Caleb Nyoiro\n\n\nWhen people start learning software development, most of the atte",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.ibb.co%2FMypDD1ZD%2Fskills.jpg",
+      "published": "Mon, 01 Jun 2026 17:06:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Message Queues: When to Use Kafka vs RabbitMQ vs SQS",
-      "link": "https://dev.to/sarvabharan/message-queues-when-to-use-kafka-vs-rabbitmq-vs-sqs-3mic",
-      "summary": "Messaging systems are one of those architectural decisions that seem harmless during sprint planning.\n\nSix months later, they're either silently scaling your platform... or personally ruining your weekends.\n\nThe truth is",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felb3bn5qsymodxdfm5mu.png",
-      "published": "Mon, 01 Jun 2026 10:46:14 +0000",
+      "title": "FastAPI for AI Engineers - Part 2: Building Your First CRUD API",
+      "link": "https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-2-building-your-first-crud-api-lpl",
+      "summary": "In the previous article, we explored why FastAPI has become one of the most popular backend frameworks for modern AI applications.\n\nIf you haven't read the previous post, check it out: https://dev.to/zeroshotanu/fastapi-",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 17:06:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Security by obscurity is dead. Three things killed it at the same time.",
-      "link": "https://dev.to/leonidbugaev/security-by-obscurity-is-dead-three-things-killed-it-at-the-same-time-2ikf",
-      "summary": "For years, “we’re not a bank, we don’t need that level of security” was a defensible posture. Most teams ran a dep scanner, had a pen test once a year, and quietly relied on attackers not caring enough to read their code",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 10:39:32 +0000",
+      "title": "Quel hébergeur web choisir pour un freelance ou une TPE ? (2026)",
+      "link": "https://dev.to/naciofelix/quel-hebergeur-web-choisir-pour-un-freelance-ou-une-tpe-2026-40fl",
+      "summary": "53 % des visiteurs mobiles quittent un site qui met plus de 3 secondes à charger (Google, 2024). Autrement dit : si votre hébergement est mauvais, la moitié de vos visiteurs potentiels n'attendra même pas de voir votre p",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3kqxuooosdhj6e3jnnl.png",
+      "published": "Mon, 01 Jun 2026 17:05:59 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Astro Markdown Component Utility for Any Framework",
+      "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+      "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, &#8230;\n\nAs",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 13:25:00 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Every view-transition-name on a page must be unique. The problem is that every pseudo-element selector in your CSS targets a specific name, so your animation styles explode into an unmanageable wall of selectors.\n\nCross-",
       "image": "",
       "published": "Mon, 25 May 2026 13:46:54 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The State of CSS Centering in 2026",
-      "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
-      "summary": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the ",
-      "image": "",
-      "published": "Fri, 22 May 2026 13:44:40 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
