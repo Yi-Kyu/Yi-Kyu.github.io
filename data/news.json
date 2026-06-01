@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-01T17:08:28.259444Z",
+  "updated": "2026-06-01T21:18:14.133583Z",
   "articles": [
+    {
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.\n\n\"This i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png",
+      "published": "Mon, 01 Jun 2026 23:10:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susce",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg",
-      "published": "Mon, 01 Jun 2026 14:15:29 +0530",
-      "source": "The Hacker News",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 14:17:13 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -83,12 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident re",
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on T",
       "image": "",
-      "published": "Mon, 01 Jun 2026 08:01:09 -0400",
-      "source": "BleepingComputer",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on",
+      "title": "Alphabet Announces $80B Equity Capital Raise to Expand AI Infra and Compute",
+      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx\nComments URL: https://news.yco",
       "image": "",
-      "published": "Tue, 12 May 2026 21:46:45 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md\nComments URL: https://news.ycombinator.com/item?id=48359232\nPoints: 17\n# Comments: 3",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 16:41:49 +0000",
+      "published": "Mon, 01 Jun 2026 20:55:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/\nComments URL: https://news.ycombinator.com/item?id=48359130\nPoints: 109\n# Comments: 41",
+      "title": "Debug Project",
+      "link": "https://debug.com/",
+      "summary": "Article URL: https://debug.com/\nComments URL: https://news.ycombinator.com/item?id=48362347\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Mon, 01 Jun 2026 16:33:59 +0000",
+      "published": "Mon, 01 Jun 2026 20:40:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
-      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "summary": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 115\n# Comments: 20",
+      "title": "GitHub and the crime against software",
+      "link": "https://eblog.fly.dev/githubbad.html",
+      "summary": "Article URL: https://eblog.fly.dev/githubbad.html\nComments URL: https://news.ycombinator.com/item?id=48361064\nPoints: 130\n# Comments: 45",
       "image": "",
-      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
+      "published": "Mon, 01 Jun 2026 18:54:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "summary": "Article URL: https://www.anthropic.com/news/confidential-draft-s1-sec\nComments URL: https://news.ycombinator.com/item?id=48358646\nPoints: 143\n# Comments: 92",
+      "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
+      "link": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
+      "summary": "Article URL: https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo\nComments URL: https://news.ycombinator.com/item?id=48360933\nPoints: 38\n# Com",
       "image": "",
-      "published": "Mon, 01 Jun 2026 16:00:40 +0000",
+      "published": "Mon, 01 Jun 2026 18:44:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Can You Stop a Hypersonic Missile?",
-      "link": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
-      "summary": "Article URL: https://protortyp.github.io/posts/can-you-stop-a-hypersonic/\nComments URL: https://news.ycombinator.com/item?id=48358515\nPoints: 31\n# Comments: 19",
+      "title": "GrapheneOS Speech Services version 2 released",
+      "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released\nComments URL: https://news.ycombinator.com/item?id=48360871\nPoints: 32\n# Comments: 7",
       "image": "",
-      "published": "Mon, 01 Jun 2026 15:51:30 +0000",
+      "published": "Mon, 01 Jun 2026 18:39:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From Sinus Relief to Toxic Gas: A Lesson in LLM Overreliance (LLM09)",
-      "link": "https://dev.to/ggle_in/from-sinus-relief-to-toxic-gas-a-lesson-in-llm-overreliance-llm09-dhp",
-      "summary": "When Your AI Medical Assistant Turns Into a Chemistry Tutor from Hell: A Lesson in LLM Overreliance\n\nHey dev.to!\nI’m Jack, and my latest hobby beside gardening and cooking, I love poking at AI models in my sandbox to see",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdaqz0uxvk4gjwhc4sxid.png",
-      "published": "Mon, 01 Jun 2026 17:06:42 +0000",
+      "title": "What I Got Wrong About Claude Code (And How I Fixed It)",
+      "link": "https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48",
+      "summary": "My first Claude Code pull request had 200 files. No documented standards, no workflow, no clear direction. Two weeks of patching later, I understood why and overhauled everything.\n\n\n  \n  \n  How Do You End Up With a 200-F",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 21:08:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Picture-in-Picture (PiP) Mode in React Native with Expo and TypeScript",
-      "link": "https://dev.to/dainyjose/building-picture-in-picture-pip-mode-in-react-native-with-expo-and-typescript-af6",
-      "summary": "Picture-in-Picture (PiP) mode is one of the most useful features for media-based mobile applications. It allows users to continue watching video content while navigating outside the app.\n\nIn this article, we will build a",
+      "title": "Your DIY platform is automation debt with a better outfit",
+      "link": "https://dev.to/thegatewayguy/your-diy-platform-is-automation-debt-with-a-better-outfit-1165",
+      "summary": "Platform engineers are some of the most resourceful people in IT. Give them a problem, they'll automate it. The trouble is, automation doesn't maintain itself.\n\nA piece on The New Stack this week named the pattern clearl",
       "image": "",
-      "published": "Mon, 01 Jun 2026 17:06:29 +0000",
+      "published": "Mon, 01 Jun 2026 21:08:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Silent Skills Every Developer Should Build",
-      "link": "https://dev.to/fcharles/silent-skills-every-developer-should-build-56fe",
-      "summary": "\"The coming generation of programmers are not those who know how to code, but those who have mastered soft skills.\"\nCo-Executive Director - Caleb Nyoiro\n\n\nWhen people start learning software development, most of the atte",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fi.ibb.co%2FMypDD1ZD%2Fskills.jpg",
-      "published": "Mon, 01 Jun 2026 17:06:20 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "FastAPI for AI Engineers - Part 2: Building Your First CRUD API",
-      "link": "https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-2-building-your-first-crud-api-lpl",
-      "summary": "In the previous article, we explored why FastAPI has become one of the most popular backend frameworks for modern AI applications.\n\nIf you haven't read the previous post, check it out: https://dev.to/zeroshotanu/fastapi-",
+      "title": "AgentOne 1.0 Is Here",
+      "link": "https://dev.to/agent-one/agentone-10-is-here-e6i",
+      "summary": "AgentOne is finally out of beta.\n\nWith the 1.0.0 release, AgentOne has reached a milestone I have been working toward for a long time: a stable, everyday AI workspace that feels fast, flexible, and reliable enough to rec",
       "image": "",
-      "published": "Mon, 01 Jun 2026 17:06:06 +0000",
+      "published": "Mon, 01 Jun 2026 21:06:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Quel hébergeur web choisir pour un freelance ou une TPE ? (2026)",
-      "link": "https://dev.to/naciofelix/quel-hebergeur-web-choisir-pour-un-freelance-ou-une-tpe-2026-40fl",
-      "summary": "53 % des visiteurs mobiles quittent un site qui met plus de 3 secondes à charger (Google, 2024). Autrement dit : si votre hébergement est mauvais, la moitié de vos visiteurs potentiels n'attendra même pas de voir votre p",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl3kqxuooosdhj6e3jnnl.png",
-      "published": "Mon, 01 Jun 2026 17:05:59 +0000",
+      "title": "Calling Abroad Without an App: A Practical Guide to Browser-Based International Calls",
+      "link": "https://dev.to/ivanindiv/calling-abroad-without-an-app-a-practical-guide-to-browser-based-international-calls-31h4",
+      "summary": "Staying in touch across borders used to come down to two bad options: a phone bill that made you wince, or yet another messaging app that only works if the person on the other end installs it too. Neither helps much when",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 20:55:15 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "My AI agent kept destroying its own work every session. Here's the 6-file system that fixed it.",
+      "link": "https://dev.to/abdullah_abbas814/my-ai-agent-kept-destroying-its-own-work-every-session-heres-the-6-file-system-that-fixed-it-28km",
+      "summary": "Every vibe coder hits this wall eventually.\n\n\nSession 1: agent builds the feature perfectly.\nSession 3: agent breaks the feature it built.\nSession 5: agent has no idea the feature ever existed.\n\nThis isn't a model proble",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 20:55:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
