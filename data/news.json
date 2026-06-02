@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T21:18:14.133583Z",
+  "updated": "2026-06-02T02:09:25.334737Z",
   "articles": [
     {
       "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Dashlane password manager users locked out by brute force attacks",
       "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
       "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
@@ -61,33 +88,6 @@
       "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
       "image": "",
       "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 08:30:27 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Alphabet Announces $80B Equity Capital Raise to Expand AI Infra and Compute",
-      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx\nComments URL: https://news.yco",
+      "title": "macOS Needs Its Grid Back",
+      "link": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "summary": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/\nComments URL: https://news.ycombinator.com/item?id=48364800\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Mon, 01 Jun 2026 20:55:15 +0000",
+      "published": "Tue, 02 Jun 2026 01:28:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Debug Project",
-      "link": "https://debug.com/",
-      "summary": "Article URL: https://debug.com/\nComments URL: https://news.ycombinator.com/item?id=48362347\nPoints: 10\n# Comments: 0",
+      "title": "Crystal Nights (2008)",
+      "link": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+      "summary": "Article URL: https://www.gregegan.net/MISC/CRYSTAL/Crystal.html\nComments URL: https://news.ycombinator.com/item?id=48364754\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Mon, 01 Jun 2026 20:40:13 +0000",
+      "published": "Tue, 02 Jun 2026 01:22:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GitHub and the crime against software",
-      "link": "https://eblog.fly.dev/githubbad.html",
-      "summary": "Article URL: https://eblog.fly.dev/githubbad.html\nComments URL: https://news.ycombinator.com/item?id=48361064\nPoints: 130\n# Comments: 45",
+      "title": "What's gonna happen to software engineers?",
+      "link": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
+      "summary": "Article URL: https://yakko.dev/blog/whats-gonna-happen-to-software-developers\nComments URL: https://news.ycombinator.com/item?id=48364284\nPoints: 30\n# Comments: 30",
       "image": "",
-      "published": "Mon, 01 Jun 2026 18:54:55 +0000",
+      "published": "Tue, 02 Jun 2026 00:21:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices",
-      "link": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo",
-      "summary": "Article URL: https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo\nComments URL: https://news.ycombinator.com/item?id=48360933\nPoints: 38\n# Com",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "summary": "https://archive.ph/nKEVw\n\nComments URL: https://news.ycombinator.com/item?id=48364055\nPoints: 73\n# Comments: 120",
       "image": "",
-      "published": "Mon, 01 Jun 2026 18:44:09 +0000",
+      "published": "Mon, 01 Jun 2026 23:45:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GrapheneOS Speech Services version 2 released",
-      "link": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
-      "summary": "Article URL: https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released\nComments URL: https://news.ycombinator.com/item?id=48360871\nPoints: 32\n# Comments: 7",
+      "title": "The Frame Problem (2004)",
+      "link": "https://plato.stanford.edu/entries/frame-problem/",
+      "summary": "Article URL: https://plato.stanford.edu/entries/frame-problem/\nComments URL: https://news.ycombinator.com/item?id=48363903\nPoints: 12\n# Comments: 3",
       "image": "",
-      "published": "Mon, 01 Jun 2026 18:39:53 +0000",
+      "published": "Mon, 01 Jun 2026 23:25:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What I Got Wrong About Claude Code (And How I Fixed It)",
-      "link": "https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48",
-      "summary": "My first Claude Code pull request had 200 files. No documented standards, no workflow, no clear direction. Two weeks of patching later, I understood why and overhauled everything.\n\n\n  \n  \n  How Do You End Up With a 200-F",
+      "title": "I Thought Regex Could Handle It: My Data Extraction Rabbit Hole",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-thought-regex-could-handle-it-my-data-extraction-rabbit-hole-1lo2",
+      "summary": "A few months ago, I was building a tool to automatically parse invoice emails. You know the drill: subject line like \"Invoice #12345 from ACME Corp - $1,234.56 due 2024-03-15\". Seemed straightforward. I spent a day craft",
       "image": "",
-      "published": "Mon, 01 Jun 2026 21:08:21 +0000",
+      "published": "Tue, 02 Jun 2026 02:00:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your DIY platform is automation debt with a better outfit",
-      "link": "https://dev.to/thegatewayguy/your-diy-platform-is-automation-debt-with-a-better-outfit-1165",
-      "summary": "Platform engineers are some of the most resourceful people in IT. Give them a problem, they'll automate it. The trouble is, automation doesn't maintain itself.\n\nA piece on The New Stack this week named the pattern clearl",
+      "title": "Zero Trust Isn't Just for Enterprises: What Developers Need to Know About Sharing Files in 2026",
+      "link": "https://dev.to/simpledrop/zero-trust-isnt-just-for-enterprises-what-developers-need-to-know-about-sharing-files-in-2026-2mjm",
+      "summary": "Hey folks! 👋\n\nAs developers, we’re constantly sharing files—configuration snippets, build artifacts, design mockups, error logs, and quick code samples. For a long time, our collective file-sharing habits leaned heavily ",
       "image": "",
-      "published": "Mon, 01 Jun 2026 21:08:05 +0000",
+      "published": "Tue, 02 Jun 2026 02:00:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AgentOne 1.0 Is Here",
-      "link": "https://dev.to/agent-one/agentone-10-is-here-e6i",
-      "summary": "AgentOne is finally out of beta.\n\nWith the 1.0.0 release, AgentOne has reached a milestone I have been working toward for a long time: a stable, everyday AI workspace that feels fast, flexible, and reliable enough to rec",
-      "image": "",
-      "published": "Mon, 01 Jun 2026 21:06:57 +0000",
+      "title": "My First Embedded System with a 40-Year-Old Machine",
+      "link": "https://dev.to/abstract-333/my-first-embedded-system-with-a-40-year-old-machine-39n7",
+      "summary": "What happened?\n\n\nRecently, I got an unusual task: bring an old medical machine back to life.\n\nThe machine had been built more than 40 years ago (older than me 🙃) and its original control mechanism was completely mechanic",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiezbxyh6884vestb14ps.jpeg",
+      "published": "Tue, 02 Jun 2026 02:00:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Calling Abroad Without an App: A Practical Guide to Browser-Based International Calls",
-      "link": "https://dev.to/ivanindiv/calling-abroad-without-an-app-a-practical-guide-to-browser-based-international-calls-31h4",
-      "summary": "Staying in touch across borders used to come down to two bad options: a phone bill that made you wince, or yet another messaging app that only works if the person on the other end installs it too. Neither helps much when",
+      "title": "SNMP or NetFlow in Network Monitoring: Why Does the Choice Remain",
+      "link": "https://dev.to/merbayerp/snmp-or-netflow-in-network-monitoring-why-does-the-choice-remain-1eg8",
+      "summary": "Network monitoring is one of the most fundamental responsibilities of a system administrator or network engineer. When traffic slows down, an application becomes unresponsive, or there's a suspicion of a security vulnera",
       "image": "",
-      "published": "Mon, 01 Jun 2026 20:55:15 +0000",
+      "published": "Tue, 02 Jun 2026 01:52:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI agent kept destroying its own work every session. Here's the 6-file system that fixed it.",
-      "link": "https://dev.to/abdullah_abbas814/my-ai-agent-kept-destroying-its-own-work-every-session-heres-the-6-file-system-that-fixed-it-28km",
-      "summary": "Every vibe coder hits this wall eventually.\n\n\nSession 1: agent builds the feature perfectly.\nSession 3: agent breaks the feature it built.\nSession 5: agent has no idea the feature ever existed.\n\nThis isn't a model proble",
+      "title": "How I Tested Every Major Multimodal AI Model in 2026 — And Which One Actually Saved My Wallet",
+      "link": "https://dev.to/rarenode/how-i-tested-every-major-multimodal-ai-model-in-2026-and-which-one-actually-saved-my-wallet-3b6d",
+      "summary": "Honestly, I gotta say, when I first started digging into multimodal AI this year, I was expecting everything to be either crazy expensive or kinda mediocre. You know how it goes — every company claims their model is \"rev",
       "image": "",
-      "published": "Mon, 01 Jun 2026 20:55:00 +0000",
+      "published": "Tue, 02 Jun 2026 01:25:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
