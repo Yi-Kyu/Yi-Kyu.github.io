@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-03T02:27:05.323612Z",
+  "updated": "2026-06-03T10:26:50.607024Z",
   "articles": [
+    {
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe vulnerability has been codena",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif",
+      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.\n\nThe Minecraft-focused malware-as-a-service (MaaS) campaign ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg",
+      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
       "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. A",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg",
-      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News",
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "summary": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 06:12:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient.\n\nThat's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand tha",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png",
-      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 05:02:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
       "image": "",
       "published": "Tue, 02 Jun 2026 18:44:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 18:12:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
-      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 17:54:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 16:01:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Roku LT Operating System open source distribution",
-      "link": "https://blog.roku.com/developer/roku-lt-os",
-      "summary": "Article URL: https://blog.roku.com/developer/roku-lt-os\nComments URL: https://news.ycombinator.com/item?id=48378495\nPoints: 5\n# Comments: 2",
+      "title": "It is an amazing time for programmers",
+      "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+      "summary": "Article URL: https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers\nComments URL: https://news.ycombinator.com/item?id=48381211\nPoints: 56\n# Comments: 31",
       "image": "",
-      "published": "Wed, 03 Jun 2026 01:13:38 +0000",
+      "published": "Wed, 03 Jun 2026 08:00:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Don't Want My Search Engine to Think for Me",
-      "link": "https://searchzee.com/blog/search-without-ai-summaries",
-      "summary": "Article URL: https://searchzee.com/blog/search-without-ai-summaries\nComments URL: https://news.ycombinator.com/item?id=48378099\nPoints: 43\n# Comments: 31",
+      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
+      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "summary": "Article URL: https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans\nComments URL: https://news.ycombinator.com/item?id=48380516\nPoints: 31\n# Comments: 33",
       "image": "",
-      "published": "Wed, 03 Jun 2026 00:29:07 +0000",
+      "published": "Wed, 03 Jun 2026 06:04:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Amazon Has Axed Its New Stargate Series",
-      "link": "https://www.gateworld.net/news/2026/06/amazon-axed-new-stargate-series/",
-      "summary": "Article URL: https://www.gateworld.net/news/2026/06/amazon-axed-new-stargate-series/\nComments URL: https://news.ycombinator.com/item?id=48378068\nPoints: 40\n# Comments: 34",
+      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+      "link": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+      "summary": "Article URL: https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/\nComments URL: https://news.ycombinator.com/item?id=48380395\nPoints: 8\n# Comments: 2",
       "image": "",
-      "published": "Wed, 03 Jun 2026 00:23:41 +0000",
+      "published": "Wed, 03 Jun 2026 05:49:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-      "summary": "Article URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report\nComments URL: https://news.ycombinator.com/item?id=48377854\nPoints: 56\n# Comments: 45",
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 97\n# Comments: 26",
       "image": "",
-      "published": "Tue, 02 Jun 2026 23:55:04 +0000",
+      "published": "Wed, 03 Jun 2026 03:47:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...\n\nComments URL: https://news.ycombinator.com/item?id=48377761\nPoints: 101\n# Comments: 92",
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device\nComments URL: https://news.ycombinator.com/item?id=48379664\nPoints: 38\n# Comments: 8",
       "image": "",
-      "published": "Tue, 02 Jun 2026 23:43:12 +0000",
+      "published": "Wed, 03 Jun 2026 03:47:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My AIT Bangkok Journey Begins: From College Auditorium to Selection Day | Gautam Kumar Maurya",
-      "link": "https://dev.to/gkm563/my-ait-bangkok-journey-begins-from-college-auditorium-to-selection-day-gautam-kumar-maurya-3gn1",
-      "summary": "There are some moments in student life that completely change the way you look at yourself and your future. For me, one of those moments started inside my college auditorium during my 4th semester of BTech.\n\nAt that time",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8p8iyx150ayibdure9qo.png",
-      "published": "Wed, 03 Jun 2026 01:54:23 +0000",
+      "title": "A Practical Framework for Testing Non-Deterministic AI Agents",
+      "link": "https://dev.to/ella-wilson/a-practical-framework-for-testing-non-deterministic-ai-agents-4hk0",
+      "summary": "Documented AI incidents rose to 362 in 2025 from 233 in 2024, while hallucination rates across 26 leading models ranged from 22% to 94%. These numbers show that the quality of AI Agents is becoming a serious bottleneck. ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mjhr117tdtzmh3y7a7a.png",
+      "published": "Wed, 03 Jun 2026 10:21:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Feel Sorry for AI",
-      "link": "https://dev.to/markhuang-ai/i-feel-sorry-for-ai-144m",
-      "summary": "AI gets pulled between impossible trust and total distrust. Neither side is a serious operating model.\n\nAnswer Snapshot\n\nI feel sorry for AI.\n\nNot because the model has feelings. Not because mistakes should be excused. I",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.markhuang.ai%2Fblog%2Fi-feel-sorry-for-ai%2Fhero.webp",
-      "published": "Wed, 03 Jun 2026 01:51:54 +0000",
+      "title": "Steam Regional Price Data: fetch 60 regions in one run for $1.05/1K",
+      "link": "https://dev.to/devil_scrapes/steam-regional-price-data-fetch-60-regions-in-one-run-for-1051k-5b3d",
+      "summary": "Quick answer: Steam publishes regional prices on the public store.steampowered.com/api/appdetails endpoint — but it returns one currency at a time, tied to your request IP. Building a 60-region price matrix means 60 requ",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 10:21:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to stop your coding agent from reading your .env secrets",
-      "link": "https://dev.to/klavex/how-to-stop-your-coding-agent-from-reading-your-env-secrets-5g6o",
-      "summary": "Open Cursor, Claude Code, or any MCP-enabled agent in your project and ask it to \"fix the failing test.\" To do that, it reads files. Lots of them. And nothing stops it from reading this one:\n\n\n\n.env\n\n\n\n\n\n\nIt doesn't matt",
+      "title": "Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap",
+      "link": "https://dev.to/therizwansaleem/building-a-modern-software-engineer-portfolio-a-practical-actionable-roadmap-4o7l",
+      "summary": "Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap\n\n\n\n  \n  \n  Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap\n\n\nCreating a compelling portfolio isn’t just about ",
       "image": "",
-      "published": "Wed, 03 Jun 2026 01:46:49 +0000",
+      "published": "Wed, 03 Jun 2026 10:20:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Third-Party Cookie Cover-Up: Why Big Tech’s \"Privacy Pivot\" is Just a Corporate Land Grab",
-      "link": "https://dev.to/murtaza_k96/the-third-party-cookie-cover-up-why-big-techs-privacy-pivot-is-just-a-corporate-land-grab-24hm",
-      "summary": "Let’s touch an absolute raw nerve across corporate marketing, data engineering, and tech compliance: The imminent death of the third-party cookie isn't a victory for consumer privacy—it is a calculated consolidation of p",
+      "title": "How I stopped begging for structured bug reports (and automated it with AI)",
+      "link": "https://dev.to/vadym_shramko_eafa79e6ca9/how-i-stopped-begging-for-structured-bug-reports-and-automated-it-with-ai-5hed",
+      "summary": "If you work in a software team, you know the pain. You ask Product Managers or Designers to fill out a detailed Jira template for bugs (Steps to reproduce, Expected, Actual). They do it for a week, and then go back to dr",
       "image": "",
-      "published": "Wed, 03 Jun 2026 01:45:55 +0000",
+      "published": "Wed, 03 Jun 2026 10:18:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hidden Cost of Stateless AI APIs",
-      "link": "https://dev.to/rikuq/the-hidden-cost-of-stateless-ai-apis-36a3",
-      "summary": "If you're building anything conversational with an AI API — a chatbot, an agent, a multi-turn assistant — there's a cost hiding in plain sight that most developers don't think about until their bill shows up.\n\nEvery AI A",
+      "title": "Stateful AI without a database: threads and assistants",
+      "link": "https://dev.to/backboardio/stateful-ai-without-a-database-threads-and-assistants-2i3f",
+      "summary": "LLMs are stateless. Every API call to a raw model is a blank slate. The model has no idea what was said two messages ago. So the moment you want a chatbot that remembers the conversation, you are on the hook for state.\n\n",
       "image": "",
-      "published": "Wed, 03 Jun 2026 01:44:04 +0000",
+      "published": "Wed, 03 Jun 2026 10:17:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
