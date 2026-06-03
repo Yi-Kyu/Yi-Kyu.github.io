@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-03T10:26:50.607024Z",
+  "updated": "2026-06-03T16:08:21.995122Z",
   "articles": [
+    {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an attacker to st",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg",
+      "published": "Wed, 03 Jun 2026 18:28:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise Identity\n\nEnterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg",
+      "published": "Wed, 03 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg",
+      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.\n\nLike in the case of CVE-2026-33829, which impacted the Windows Snipping To",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg",
+      "published": "Wed, 03 Jun 2026 15:48:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
       "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.\n\nThe Minecraft-focused malware-as-a-service (MaaS) campaign ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg",
-      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
-      "source": "The Hacker News",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg",
-      "published": "Wed, 03 Jun 2026 00:16:00 +0530",
-      "source": "The Hacker News",
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 10:02:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Sekoia, the activity",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg",
-      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg",
-      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
-      "source": "The Hacker News",
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "summary": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 07:35:47 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
       "image": "",
       "published": "Wed, 03 Jun 2026 05:02:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,120 @@
       "category": "cybersecurity"
     },
     {
-      "title": "It is an amazing time for programmers",
-      "link": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
-      "summary": "Article URL: https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers\nComments URL: https://news.ycombinator.com/item?id=48381211\nPoints: 56\n# Comments: 31",
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "link": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "summary": "Article URL: https://letsencrypt.org/2026/06/03/pq-certs\nComments URL: https://news.ycombinator.com/item?id=48385114\nPoints: 38\n# Comments: 10",
       "image": "",
-      "published": "Wed, 03 Jun 2026 08:00:14 +0000",
+      "published": "Wed, 03 Jun 2026 15:06:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "link": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-      "summary": "Article URL: https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans\nComments URL: https://news.ycombinator.com/item?id=48380516\nPoints: 31\n# Comments: 33",
+      "title": "DaVinci Resolve 21",
+      "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "summary": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/whatsnew\nComments URL: https://news.ycombinator.com/item?id=48384482\nPoints: 106\n# Comments: 39",
       "image": "",
-      "published": "Wed, 03 Jun 2026 06:04:36 +0000",
+      "published": "Wed, 03 Jun 2026 14:18:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
-      "link": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
-      "summary": "Article URL: https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/\nComments URL: https://news.ycombinator.com/item?id=48380395\nPoints: 8\n# Comments: 2",
+      "title": "Shopify Is Down",
+      "link": "https://www.shopifystatus.com",
+      "summary": "Article URL: https://www.shopifystatus.com\nComments URL: https://news.ycombinator.com/item?id=48384221\nPoints: 60\n# Comments: 39",
       "image": "",
-      "published": "Wed, 03 Jun 2026 05:49:31 +0000",
+      "published": "Wed, 03 Jun 2026 14:00:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "summary": "Article URL: https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/\nComments URL: https://news.ycombinator.com/item?id=48379669\nPoints: 97\n# Comments: 26",
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "link": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+      "summary": "Article URL: https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/\nComments URL: https://news.ycombinator.com/item?id=48383823\nPoints: 115\n# Comments: 16",
       "image": "",
-      "published": "Wed, 03 Jun 2026 03:47:56 +0000",
+      "published": "Wed, 03 Jun 2026 13:33:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "U of T researchers demonstrate AI worm could target any online device",
-      "link": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "summary": "Article URL: https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device\nComments URL: https://news.ycombinator.com/item?id=48379664\nPoints: 38\n# Comments: 8",
+      "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+      "link": "https://github.com/yaodub/cast",
+      "summary": "Article URL: https://github.com/yaodub/cast\nComments URL: https://news.ycombinator.com/item?id=48383471\nPoints: 10\n# Comments: 13",
       "image": "",
-      "published": "Wed, 03 Jun 2026 03:47:21 +0000",
+      "published": "Wed, 03 Jun 2026 13:04:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Practical Framework for Testing Non-Deterministic AI Agents",
-      "link": "https://dev.to/ella-wilson/a-practical-framework-for-testing-non-deterministic-ai-agents-4hk0",
-      "summary": "Documented AI incidents rose to 362 in 2025 from 233 in 2024, while hallucination rates across 26 leading models ranged from 22% to 94%. These numbers show that the quality of AI Agents is becoming a serious bottleneck. ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mjhr117tdtzmh3y7a7a.png",
-      "published": "Wed, 03 Jun 2026 10:21:39 +0000",
+      "title": "How many Node.js apps can you run on a 2-core 1GB VPS with PM2? (The math)",
+      "link": "https://dev.to/vpsfordev/how-many-nodejs-apps-can-you-run-on-a-2-core-1gb-vps-with-pm2-the-math-ec4",
+      "summary": "Every indie hacker running on a $5 VPS has asked this question. The answer depends entirely on what kind of apps you're running — and most guides skip the actual math.\n\nHere's the breakdown I wish I had when I started.\n\n",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 16:06:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Steam Regional Price Data: fetch 60 regions in one run for $1.05/1K",
-      "link": "https://dev.to/devil_scrapes/steam-regional-price-data-fetch-60-regions-in-one-run-for-1051k-5b3d",
-      "summary": "Quick answer: Steam publishes regional prices on the public store.steampowered.com/api/appdetails endpoint — but it returns one currency at a time, tied to your request IP. Building a 60-region price matrix means 60 requ",
+      "title": "Building a Conversational AI with Claude and ChatGPT APIs: A Practical Guide",
+      "link": "https://dev.to/gateofai/building-a-conversational-ai-with-claude-and-chatgpt-apis-a-practical-guide-4a3c",
+      "summary": "🚀 Technical Briefing: This tutorial is part of our deep-dive series on Agentic Workflows at Gate of AI. For the full technical breakdown, interactive code sandbox, and the native Arabic translation, visit the original ar",
       "image": "",
-      "published": "Wed, 03 Jun 2026 10:21:09 +0000",
+      "published": "Wed, 03 Jun 2026 16:06:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap",
-      "link": "https://dev.to/therizwansaleem/building-a-modern-software-engineer-portfolio-a-practical-actionable-roadmap-4o7l",
-      "summary": "Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap\n\n\n\n  \n  \n  Building a Modern Software Engineer Portfolio: A Practical, Actionable Roadmap\n\n\nCreating a compelling portfolio isn’t just about ",
+      "title": "Agentes de IA: cómo un LLM razona, usa herramientas y actúa solo",
+      "link": "https://dev.to/lu1tr0n/agentes-de-ia-como-un-llm-razona-usa-herramientas-y-actua-solo-2od3",
+      "summary": "Durante años, la inteligencia artificial respondía una pregunta y se quedaba esperando la siguiente. En 2026 el patrón cambió: un agente de IA ya no se limita a contestar, sino que decide qué hacer, usa herramientas exte",
       "image": "",
-      "published": "Wed, 03 Jun 2026 10:20:21 +0000",
+      "published": "Wed, 03 Jun 2026 16:05:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I stopped begging for structured bug reports (and automated it with AI)",
-      "link": "https://dev.to/vadym_shramko_eafa79e6ca9/how-i-stopped-begging-for-structured-bug-reports-and-automated-it-with-ai-5hed",
-      "summary": "If you work in a software team, you know the pain. You ask Product Managers or Designers to fill out a detailed Jira template for bugs (Steps to reproduce, Expected, Actual). They do it for a week, and then go back to dr",
+      "title": "Beyoneer Programming Interface for Plugins",
+      "link": "https://dev.to/iamexe/beyoneer-programming-interface-for-plugins-5aa4",
+      "summary": "Developing plugins for Beyoneer IDE (BPI) requires efficient keyboard mapping, utilizing BeyoCommand_ for standard shortcuts and BeyoKeyMap_ for advanced, complex combinations. Developers should register shortcuts within",
       "image": "",
-      "published": "Wed, 03 Jun 2026 10:18:31 +0000",
+      "published": "Wed, 03 Jun 2026 16:03:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stateful AI without a database: threads and assistants",
-      "link": "https://dev.to/backboardio/stateful-ai-without-a-database-threads-and-assistants-2i3f",
-      "summary": "LLMs are stateless. Every API call to a raw model is a blank slate. The model has no idea what was said two messages ago. So the moment you want a chatbot that remembers the conversation, you are on the hook for state.\n\n",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 10:17:28 +0000",
+      "title": "Operating Real-Time AI: SLAs, Observability, and Knowing When It's Broken",
+      "link": "https://dev.to/kenwalger/operating-real-time-ai-slas-observability-and-knowing-when-its-broken-8n2",
+      "summary": "The previous four posts in this series covered the three architectural pillars of real-time AI at scale: feature pipelines, feature stores, and vector search. Each post addressed the design decisions and failure modes sp",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl7bzwqtjttwvgq6tzxa0.png",
+      "published": "Wed, 03 Jun 2026 15:59:38 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "offset-path",
+      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@custom-media",
+      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@function",
+      "link": "https://css-tricks.com/almanac/rules/f/function/",
+      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -241,33 +268,6 @@
       "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, &#8230;\n\nAs",
       "image": "",
       "published": "Mon, 01 Jun 2026 13:25:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
-      "link": "https://css-tricks.com/whats-important-12/",
-      "summary": "The old (testing in Safari when you don’t have Safari), the new (::checkmark), the in-between (anchor positioning but with HTML), and more.\n\nWhat’s !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, an",
-      "image": "",
-      "published": "Fri, 29 May 2026 13:25:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Revealing Text With CSS letter-spacing",
-      "link": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
-      "summary": "Until we get something like ::nth-letter, there are still some really cool text effects we can make from existing CSS features, like letter-spacing, ::first-word and ::first-line.\n\nRevealing Text With CSS letter-spacing ",
-      "image": "",
-      "published": "Wed, 27 May 2026 12:37:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Technical Writing in the AI Age",
-      "link": "https://css-tricks.com/technical-writing-in-the-ai-age/",
-      "summary": "This isn’t totally about AI. It’s about technical writing in the age of AI. I have some thoughts on this and I hope it’s helpful to you humans reading.\n\nTechnical Writing in the AI Age originally handwritten and publishe",
-      "image": "",
-      "published": "Tue, 26 May 2026 13:49:28 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
