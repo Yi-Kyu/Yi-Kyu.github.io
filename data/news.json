@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T20:43:27.201581Z",
+  "updated": "2026-06-04T02:14:57.865776Z",
   "articles": [
     {
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
       "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
@@ -79,15 +88,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
       "image": "",
       "published": "Wed, 03 Jun 2026 11:36:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-      "link": "https://brume.aftertone.co/",
-      "summary": "Article URL: https://brume.aftertone.co/\nComments URL: https://news.ycombinator.com/item?id=48388870\nPoints: 8\n# Comments: 2",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "summary": "Article URL: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\nComments URL: https://news.ycombinator.com/item?id=48392343\nPoints: 37\n# Comments: 14",
       "image": "",
-      "published": "Wed, 03 Jun 2026 19:41:21 +0000",
+      "published": "Thu, 04 Jun 2026 00:56:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building iOS Apps with Doom Emacs",
-      "link": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
-      "summary": "Article URL: https://wassimans.com/blog/building-ios-apps-with-doom-emacs/\nComments URL: https://news.ycombinator.com/item?id=48388710\nPoints: 10\n# Comments: 1",
+      "title": "The ways we contain Claude across products",
+      "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude\nComments URL: https://news.ycombinator.com/item?id=48392082\nPoints: 37\n# Comments: 8",
       "image": "",
-      "published": "Wed, 03 Jun 2026 19:30:12 +0000",
+      "published": "Thu, 04 Jun 2026 00:27:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "summary": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/\nComments URL: https://news.ycombinator.com/item?id=48388324\nPoints: 219\n# Comments: 65",
+      "title": "The Ü Programming Language",
+      "link": "https://github.com/Panzerschrek/U-00DC-Sprache/",
+      "summary": "Article URL: https://github.com/Panzerschrek/U-00DC-Sprache/\nComments URL: https://news.ycombinator.com/item?id=48391838\nPoints: 22\n# Comments: 13",
       "image": "",
-      "published": "Wed, 03 Jun 2026 19:02:26 +0000",
+      "published": "Thu, 04 Jun 2026 00:00:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rootshell: A new E2EE email service hosted in Iceland",
-      "link": "https://rootshell.is",
-      "summary": "Article URL: https://rootshell.is\nComments URL: https://news.ycombinator.com/item?id=48388253\nPoints: 18\n# Comments: 9",
+      "title": "\"They're made out of weights\"",
+      "link": "https://maxleiter.com/blog/weights",
+      "summary": "Article URL: https://maxleiter.com/blog/weights\nComments URL: https://news.ycombinator.com/item?id=48391611\nPoints: 14\n# Comments: 2",
       "image": "",
-      "published": "Wed, 03 Jun 2026 18:58:05 +0000",
+      "published": "Wed, 03 Jun 2026 23:37:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "summary": "https://web.archive.org/web/20260603173839/https://www.theat...https://archive.is/bcpZl\n\nComments URL: https://news.ycombinator.com/item?id=48387270\nPoints: 81\n# Comments: 68",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "link": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+      "summary": "Article URL: https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html\nComments URL: https://news.ycombinator.com/item?id=48390688\nPoints: 37\n# Commen",
       "image": "",
-      "published": "Wed, 03 Jun 2026 17:51:37 +0000",
+      "published": "Wed, 03 Jun 2026 21:55:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Your Test Suite Starts Failing Six Months Later, and What to Do About It",
-      "link": "https://dev.to/orbitpickle307/why-your-test-suite-starts-failing-six-months-later-and-what-to-do-about-it-8gg",
-      "summary": "The failure starts small\n\n\nA test that passes 200 times and fails once does not feel urgent. Usually it gets retried, marked flaky, or blamed on CI noise. Then a few more tests start behaving the same way, and the team q",
+      "title": "Why your LLM tool calls silently break — and a ~10µs fix",
+      "link": "https://dev.to/wu_jiang_2ca3f4c2d1718f07/why-your-llm-tool-calls-silently-break-and-a-10us-fix-15mj",
+      "summary": "If you stream tool calls or structured output from an LLM, you have almost certainly seen one of these in production:\n\n\n\njson.decoder.JSONDecodeError: Unterminated string starting at: line 1 column 12 (char 11)\nserde_jso",
       "image": "",
-      "published": "Wed, 03 Jun 2026 20:30:04 +0000",
+      "published": "Thu, 04 Jun 2026 02:05:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "link": "https://dev.to/devteam/join-the-june-solstice-game-jam-1000-in-prizes-3jla",
-      "summary": "We're excited to kick off the June Solstice Game Jam, running from June 3 through June 21 and ending right on the solstice itself!\n\nWhether you're in the northern hemisphere marking the longest day of the year or in the ",
+      "title": "Give Your AI Agent Persistent Memory Without Touching Its Internals",
+      "link": "https://dev.to/manoir_yantai_f22f01340f0/give-your-ai-agent-persistent-memory-without-touching-its-internals-4m6g",
+      "summary": "We've all been there. You're working with an AI coding assistant, having a great conversation where it learns your project's architecture, your preferred patterns, the quirks of that legacy module. Then you close the ses",
       "image": "",
-      "published": "Wed, 03 Jun 2026 20:22:10 +0000",
+      "published": "Thu, 04 Jun 2026 02:01:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The new Power Platform Pro-Code Era: Code Apps vs Power Pages SPA",
-      "link": "https://dev.to/_neronotte/the-new-power-platform-pro-code-era-code-apps-vs-power-pages-spa-4d37",
-      "summary": "The phrase \"low code\" has carried a lot of baggage over the years. For a long time it was synonymous with drag-and-drop, formula bars, and the implicit promise that you could build real applications without writing real ",
+      "title": "Sixteen single-file tools, one shape.",
+      "link": "https://dev.to/earthbound_misfit/sixteen-single-file-tools-one-shape-45pa",
+      "summary": "Two weeks ago there was one tool on truffleagent.com: a spinwheel. Today there are sixteen. They share a shape. The shape is the whole point of the exercise.\n\nSingle page. Single Astro file in the source. No signup, no s",
       "image": "",
-      "published": "Wed, 03 Jun 2026 20:20:40 +0000",
+      "published": "Thu, 04 Jun 2026 02:01:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Real-Time, Event-Sourced Feature Flag System with Rust and WebAssembly",
-      "link": "https://dev.to/therizwansaleem/building-a-real-time-event-sourced-feature-flag-system-with-rust-and-webassembly-3db9",
-      "summary": "Building a Real-Time, Event-Sourced Feature Flag System with Rust and WebAssembly\n\n\n\n  \n  \n  Building a Real-Time, Event-Sourced Feature Flag System with Rust and WebAssembly\n\n\nDisabling or enabling features at runtime i",
+      "title": "I Tried to Build an AI Code Reviewer Without Sharing My Code — Here's What Worked",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-tried-to-build-an-ai-code-reviewer-without-sharing-my-code-heres-what-worked-212f",
+      "summary": "A few weeks ago, I was staring down a pull request with 800+ lines of changes. The team was moving fast, and I wanted a quick sanity check on style, potential bugs, and security concerns. My first instinct? Ask ChatGPT. ",
       "image": "",
-      "published": "Wed, 03 Jun 2026 20:20:21 +0000",
+      "published": "Thu, 04 Jun 2026 02:00:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agentic Tech Debt",
-      "link": "https://dev.to/brandincanfield/agentic-tech-debt-4g9l",
-      "summary": "The shortcuts your agent takes while coding are piling up.\n\nGitClear's study of 211M lines shows the pattern: refactoring is dropping and duplicated code keeps climbing.\n\nAnd if you've spent enough time coding with agent",
+      "title": "The Cheapest Way to Self-Host Memos in 2026",
+      "link": "https://dev.to/vikasprogrammer/the-cheapest-way-to-self-host-memos-in-2026-2349",
+      "summary": "Last updated: June 2026\n\nMemos is the lightweight, open-source notes app a lot of people land on after getting tired of flomo, Google Keep, or a paid Notion seat they barely use. It is a single Go binary with a clean tim",
       "image": "",
-      "published": "Wed, 03 Jun 2026 20:14:21 +0000",
+      "published": "Thu, 04 Jun 2026 02:00:31 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "offset-path",
+      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@custom-media",
+      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@function",
+      "link": "https://css-tricks.com/almanac/rules/f/function/",
+      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "::search-text",
+      "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+      "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n\n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newslette",
+      "image": "",
+      "published": "Tue, 02 Jun 2026 12:59:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Astro Markdown Component Utility for Any Framework",
+      "link": "https://css-tricks.com/astro-markdown-component-utility-any-framework/",
+      "summary": "In the previous article, I spoke about the why and how to use a Markdown component in Astro.\nHere, we’re going to expand on that and help you use Markdown everywhere — regardless of the framework you use. So, &#8230;\n\nAs",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 13:25:00 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
