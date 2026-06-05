@@ -1,10 +1,28 @@
 {
-  "updated": "2026-06-05T14:15:33.737236Z",
+  "updated": "2026-06-05T19:26:05.401202Z",
   "articles": [
+    {
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-sp",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg",
+      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png",
+      "published": "Fri, 05 Jun 2026 20:23:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
       "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framewor",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) server",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg",
       "published": "Fri, 05 Jun 2026 18:03:38 +0530",
       "source": "The Hacker News",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg",
-      "published": "Fri, 05 Jun 2026 12:31:41 +0530",
-      "source": "The Hacker News",
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 15:15:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-      "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg",
-      "published": "Fri, 05 Jun 2026 11:04:19 +0530",
-      "source": "The Hacker News",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 14:09:47 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 13:50:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to o",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 10:50:15 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
       "image": "",
       "published": "Fri, 05 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 02:24:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 17:37:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 17:27:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 16:47:16 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Investigation: Russian censorship systems (TMCT) expose Chinese DPI signatures",
-      "link": "https://freenet.monster/china-unicom.html?lang=en",
-      "summary": "Article URL: https://freenet.monster/china-unicom.html?lang=en\nComments URL: https://news.ycombinator.com/item?id=48411382\nPoints: 14\n# Comments: 2",
+      "title": "Transformers Are Inherently Succinct",
+      "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.\n\nComments URL: https://news.ycombinator.com/item?id=48416635\nPoints: 3\n# Comments: 1",
       "image": "",
-      "published": "Fri, 05 Jun 2026 12:16:40 +0000",
+      "published": "Fri, 05 Jun 2026 18:50:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-      "link": "https://nango.dev/careers",
-      "summary": "Article URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=48411227\nPoints: 0\n# Comments: 0",
+      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+      "link": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+      "summary": "Article URL: https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/\nComments URL: https://news.ycombinator.com/item?id=48415987\nPoints: 64\n# Comments: 34",
       "image": "",
-      "published": "Fri, 05 Jun 2026 12:00:18 +0000",
+      "published": "Fri, 05 Jun 2026 17:56:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ultra-processed foods in the global food system: The role of tobacco companies",
-      "link": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-      "summary": "Article URL: https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501\nComments URL: https://news.ycombinator.com/item?id=48411190\nPoints: 184\n# Comments: 202",
+      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+      "link": "https://sakana.ai/rsi-lab/",
+      "summary": "Article URL: https://sakana.ai/rsi-lab/\nComments URL: https://news.ycombinator.com/item?id=48415633\nPoints: 14\n# Comments: 7",
       "image": "",
-      "published": "Fri, 05 Jun 2026 11:56:27 +0000",
+      "published": "Fri, 05 Jun 2026 17:27:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "link": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
-      "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy\nComments URL: https://news.ycombinator.com/item?id=48410602\nPoints: 59\n# Comments:",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "summary": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...https://www.adyen.com/press-and-media/adyen-payments-gov-uk\n\nComments URL: https://news.ycombinator.com/item?id=48415217\nPoints: 107\n# Comments: 26",
       "image": "",
-      "published": "Fri, 05 Jun 2026 10:44:48 +0000",
+      "published": "Fri, 05 Jun 2026 16:55:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "link": "https://github.com/zdk/lowfat",
-      "summary": "Hi HN,Not sure if anyone would be interested.But, just wanted to share that I've been maintaining my small tool called 'lowfat' that helps me filters some of my verbose CLI output.It's a single binary, works as an agent ",
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "summary": "Article URL: https://github.com/icflorescu/mantine-datatable/discussions/813\nComments URL: https://news.ycombinator.com/item?id=48414978\nPoints: 44\n# Comments: 10",
       "image": "",
-      "published": "Fri, 05 Jun 2026 09:10:42 +0000",
+      "published": "Fri, 05 Jun 2026 16:39:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Understanding Interfaces, Traits, and Dynamic Method Dispatch: Bridging Theory and Real-World Applications",
-      "link": "https://dev.to/ilyatech/understanding-interfaces-traits-and-dynamic-method-dispatch-bridging-theory-and-real-world-1fj8",
-      "summary": "Technical Reconstruction: Interfaces, Traits, and Dynamic Method Dispatch\n\n\nMain Thesis: Understanding the 'why' behind Interfaces, Traits, and Dynamic Method Dispatch is crucial for self-taught developers to transition ",
+      "title": "neovim-final-final: Why I Can't Stop Tinkering With My Dev Environment (And Why That's Okay)",
+      "link": "https://dev.to/joshmatthew/neovim-final-final-why-i-cant-stop-tinkering-with-my-dev-environment-and-why-thats-okay-3576",
+      "summary": "Let me paint you a picture.\n\nIt's a perfectly good Saturday afternoon. You had plans. Real plans. Maybe you were going to finish that side project, maybe finally write some tests (lol), or at the very least touch grass f",
       "image": "",
-      "published": "Fri, 05 Jun 2026 14:10:55 +0000",
+      "published": "Fri, 05 Jun 2026 19:13:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cursor 3's parallel agents change what a template ships with",
-      "link": "https://dev.to/davekurian/cursor-3s-parallel-agents-change-what-a-template-ships-with-joc",
-      "summary": "Cursor 3 ships a thing called \"Build in Parallel.\" The pitch is straightforward: instead of executing a plan step by step, Composer identifies which steps are independent and runs them as concurrent subagents.\n\nIt's a re",
+      "title": "Advice for (parents of) teen coders",
+      "link": "https://dev.to/pinodeca/advice-for-parents-of-teen-coders-58ii",
+      "summary": "Today 2 of my kids (13/rising 9th grader, 16/rising 11th grader) finished their first week of Operation Spark's 1 month summer code camp for teens in New Orleans: https://www.operationspark.org/programs/highschool\n\nI'm s",
       "image": "",
-      "published": "Fri, 05 Jun 2026 14:07:52 +0000",
+      "published": "Fri, 05 Jun 2026 19:12:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "First Year Self-Employed Taxes: What I Wish I'd Known Before Going Solo",
-      "link": "https://dev.to/iulius_oltean_78d903de8e6/first-year-self-employed-taxes-what-i-wish-id-known-before-going-solo-2a73",
-      "summary": "First Year Self Employed Taxes 2026\nI'm a solo dev running AniNext — an anime discovery app on iOS and Android. When I started taking the business seriously, taxes hit me like a brick.\n\nI'll be honest: I made every mista",
+      "title": "How LLMs Actually Work: A Developer's Mental Model",
+      "link": "https://dev.to/markofrei919/how-llms-actually-work-a-developers-mental-model-50nd",
+      "summary": "Most of us use LLMs every day now, but if you asked the average developer what's actually happening between hitting enter and getting a response, the answer is usually some mix of \"it's a neural network\" and a shrug. Tha",
       "image": "",
-      "published": "Fri, 05 Jun 2026 14:07:36 +0000",
+      "published": "Fri, 05 Jun 2026 19:07:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your CLAUDE.md is too long. The 200-line ceiling that actually works.",
-      "link": "https://dev.to/davekurian/your-claudemd-is-too-long-the-200-line-ceiling-that-actually-works-1fb0",
-      "summary": "Most CLAUDE.md files we see are too long. Five thousand lines, six thousand. Every team rule, every legacy comment, every \"I once tried this and it didn't work\" footnote. The author feels productive writing them. The mod",
+      "title": "I shipped a 2-line Claude Code plugin that makes it shut up",
+      "link": "https://dev.to/oler/i-shipped-a-2-line-claude-code-plugin-that-makes-it-shut-up-1hel",
+      "summary": "Toggle it on and Claude Code answers in ≤ 5 lines — until you turn it off. Open source, MIT.\n\n\nClaude Code is brilliant. It's also a chatterbox. You ask a quick thing and get three paragraphs, a recap, and a \"great quest",
       "image": "",
-      "published": "Fri, 05 Jun 2026 14:06:38 +0000",
+      "published": "Fri, 05 Jun 2026 19:05:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Expo SDK 54's precompiled XCFrameworks cut our iOS build from 14 min to 4",
-      "link": "https://dev.to/davekurian/expo-sdk-54s-precompiled-xcframeworks-cut-our-ios-build-from-14-min-to-4-9gi",
-      "summary": "Our fitness kit's iOS build used to take 14 minutes on CI. After upgrading to Expo SDK 54, it takes 4.\n\nThat's not a CI optimisation. We didn't add parallel runners or bump the machine size. We just landed on the SDK tha",
+      "title": "I Put ChatGPT Browser Inside My Terminal",
+      "link": "https://dev.to/tomerbendavid/i-put-chatgpt-browser-inside-my-terminal-3e24",
+      "summary": "RexIDE Now Features Built In ChatGPT Browser Sessions\n\nRexIDE now supports embedded browser panes, letting you run ChatGPT browser directly inside the IDE alongside your terminals, tasks, and project files.\n\nThis elimina",
       "image": "",
-      "published": "Fri, 05 Jun 2026 14:06:37 +0000",
+      "published": "Fri, 05 Jun 2026 18:57:20 +0000",
       "source": "DEV Community",
       "category": "development"
     }
