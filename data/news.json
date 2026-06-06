@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T19:26:05.401202Z",
+  "updated": "2026-06-06T01:50:48.886414Z",
   "articles": [
     {
       "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
+      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
+      "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 17:54:42 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
       "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
@@ -79,15 +88,6 @@
       "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to o",
       "image": "",
       "published": "Fri, 05 Jun 2026 10:50:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Transformers Are Inherently Succinct",
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "link": "https://classic100.gotski.workers.dev/",
+      "summary": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I also kind of like that it",
+      "image": "",
+      "published": "Sat, 06 Jun 2026 01:32:09 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "summary": "Article URL: https://salvagedcircuitry.com/sigma-45mm.html\nComments URL: https://news.ycombinator.com/item?id=48420148\nPoints: 32\n# Comments: 0",
+      "image": "",
+      "published": "Sat, 06 Jun 2026 00:33:26 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The perils of UUID primary keys in SQLite",
+      "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+      "summary": "Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html\nComments URL: https://news.ycombinator.com/item?id=48419571\nPoints: 20\n# Comments: 10",
+      "image": "",
+      "published": "Fri, 05 Jun 2026 23:13:12 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Transformers are inherently succinct",
       "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.\n\nComments URL: https://news.ycombinator.com/item?id=48416635\nPoints: 3\n# Comments: 1",
+      "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.\n\nComments URL: https://news.ycombinator.com/item?id=48416635\nPoints: 89\n# Comments: 30",
       "image": "",
       "published": "Fri, 05 Jun 2026 18:50:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
-      "link": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-      "summary": "Article URL: https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/\nComments URL: https://news.ycombinator.com/item?id=48415987\nPoints: 64\n# Comments: 34",
+      "title": "Aging and Eye Problems",
+      "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
+      "summary": "Article URL: https://ldstephens.net/posts/aging-and-eye-problems/\nComments URL: https://news.ycombinator.com/item?id=48416392\nPoints: 52\n# Comments: 24",
       "image": "",
-      "published": "Fri, 05 Jun 2026 17:56:19 +0000",
+      "published": "Fri, 05 Jun 2026 18:30:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-      "link": "https://sakana.ai/rsi-lab/",
-      "summary": "Article URL: https://sakana.ai/rsi-lab/\nComments URL: https://news.ycombinator.com/item?id=48415633\nPoints: 14\n# Comments: 7",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 17:27:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "summary": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...https://www.adyen.com/press-and-media/adyen-payments-gov-uk\n\nComments URL: https://news.ycombinator.com/item?id=48415217\nPoints: 107\n# Comments: 26",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 16:55:30 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Mantine-datatable (and others) compromised – owner account suspended",
-      "link": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "summary": "Article URL: https://github.com/icflorescu/mantine-datatable/discussions/813\nComments URL: https://news.ycombinator.com/item?id=48414978\nPoints: 44\n# Comments: 10",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 16:39:57 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "neovim-final-final: Why I Can't Stop Tinkering With My Dev Environment (And Why That's Okay)",
-      "link": "https://dev.to/joshmatthew/neovim-final-final-why-i-cant-stop-tinkering-with-my-dev-environment-and-why-thats-okay-3576",
-      "summary": "Let me paint you a picture.\n\nIt's a perfectly good Saturday afternoon. You had plans. Real plans. Maybe you were going to finish that side project, maybe finally write some tests (lol), or at the very least touch grass f",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 19:13:33 +0000",
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
+      "link": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\nNote: AI is currently a Hot Topic in the developer space. I recommend reading this post in full before commenting. The dataset being used does not come fro",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovhtick339ll39h5bx8i.png",
+      "published": "Sat, 06 Jun 2026 01:41:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Advice for (parents of) teen coders",
-      "link": "https://dev.to/pinodeca/advice-for-parents-of-teen-coders-58ii",
-      "summary": "Today 2 of my kids (13/rising 9th grader, 16/rising 11th grader) finished their first week of Operation Spark's 1 month summer code camp for teens in New Orleans: https://www.operationspark.org/programs/highschool\n\nI'm s",
+      "title": "Create an ECS Fargate Service Step by Step",
+      "link": "https://dev.to/jun_uen0/create-an-ecs-fargate-service-step-by-step-1a7d",
+      "summary": "Prepare Docker Image at ECR\n\n\nIf you don't have an image at ECR, please check this article and get it.\n\nPush Docker image to AWS ECR\nIn this article, I use React app image.\n\n\n  \n  \n  About ECS\n\n\nAWS Elastic Container Ser",
       "image": "",
-      "published": "Fri, 05 Jun 2026 19:12:20 +0000",
+      "published": "Sat, 06 Jun 2026 01:40:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How LLMs Actually Work: A Developer's Mental Model",
-      "link": "https://dev.to/markofrei919/how-llms-actually-work-a-developers-mental-model-50nd",
-      "summary": "Most of us use LLMs every day now, but if you asked the average developer what's actually happening between hitting enter and getting a response, the answer is usually some mix of \"it's a neural network\" and a shrug. Tha",
+      "title": "Stop hand-coding the Japanese Rokuyo calendar: LLM-generated lunar logic silently breaks",
+      "link": "https://dev.to/shirabedev/stop-hand-coding-the-japanese-rokuyo-calendar-llm-generated-lunar-logic-silently-breaks-3pie",
+      "summary": "Originally published in Japanese on Qiita. This is the English edition.\n\n\n\n  \n  \n  TL;DR\n\n\n\nBusiness requirements that touch the Japanese Rokuyo calendar are surging in the LLM era — wedding-date pickers, moving-day scor",
       "image": "",
-      "published": "Fri, 05 Jun 2026 19:07:39 +0000",
+      "published": "Sat, 06 Jun 2026 01:37:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I shipped a 2-line Claude Code plugin that makes it shut up",
-      "link": "https://dev.to/oler/i-shipped-a-2-line-claude-code-plugin-that-makes-it-shut-up-1hel",
-      "summary": "Toggle it on and Claude Code answers in ≤ 5 lines — until you turn it off. Open source, MIT.\n\n\nClaude Code is brilliant. It's also a chatterbox. You ask a quick thing and get three paragraphs, a recap, and a \"great quest",
+      "title": "Shopify CSV Product Category Looks Blank? Test the Import, Not Just the Preview",
+      "link": "https://dev.to/_172c9b2760d6c5bc1e8966/shopify-csv-product-category-looks-blank-test-the-import-not-just-the-preview-18hd",
+      "summary": "If you are importing hundreds of products, a blank Product Category field in the Shopify CSV upload preview can make the whole file look broken. The preview is useful, but it is not the final source of truth for every ta",
       "image": "",
-      "published": "Fri, 05 Jun 2026 19:05:33 +0000",
+      "published": "Sat, 06 Jun 2026 01:35:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Put ChatGPT Browser Inside My Terminal",
-      "link": "https://dev.to/tomerbendavid/i-put-chatgpt-browser-inside-my-terminal-3e24",
-      "summary": "RexIDE Now Features Built In ChatGPT Browser Sessions\n\nRexIDE now supports embedded browser panes, letting you run ChatGPT browser directly inside the IDE alongside your terminals, tasks, and project files.\n\nThis elimina",
+      "title": "CSS First + Thin Component Wrapper: A 10KB Component Library Practice",
+      "link": "https://dev.to/yuelinghuashu/css-first-thin-component-wrapper-a-10kb-component-library-practice-dmj",
+      "summary": "title: \"CSS First + Thin Component Wrapper: A 10KB Component Library Practice\"\ndescription: \"From UnoCSS back to native CSS, a design token-driven component library solution. Four-layer CSS architecture, minimal Vue comp",
       "image": "",
-      "published": "Fri, 05 Jun 2026 18:57:20 +0000",
+      "published": "Sat, 06 Jun 2026 01:30:10 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
+      "image": "",
+      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "offset-path",
+      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@custom-media",
+      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@function",
+      "link": "https://css-tricks.com/almanac/rules/f/function/",
+      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "::search-text",
+      "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+      "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n\n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newslette",
+      "image": "",
+      "published": "Tue, 02 Jun 2026 12:59:21 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
