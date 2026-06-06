@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-06T08:19:23.985576Z",
+  "updated": "2026-06-06T13:00:21.156120Z",
   "articles": [
+    {
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data busi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKr3KoscB_oGLqU5_JV16DIaB7jXY1ko8PiJDTuwrxbHcZV2DYJpfkx8lqwNbscwTSTVQUMwd8vBf-nI13mQE7vzzmUzwKF3BF6q7s5Lnq7kG7CovDsKaHYlvKpEXo2cvNk4mA27BdJSI6buZLqtVCKhYQ31GOaozmEHQecUa9Zdt-jwFJIZ0OCvlF27_p/s1600/smart-tv.jpg",
+      "published": "Sat, 06 Jun 2026 13:59:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1600/solarwinds-serv-u.jpg",
+      "published": "Sat, 06 Jun 2026 13:44:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
       "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
@@ -25,24 +43,6 @@
       "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYckKvOFV_Xz1o-nUKCcjlMQmOxdFC6FMzIjMnE4GSPPJ9kQxDLqOmK9WhofViemB5grKkMJDV_KPnQAuLci5RtV3sCOei2Fzk31qOdIk3Jeroj_6NVxoa0VX0Bw5nwwzffBp4o3hoDysRntjOxTR7akhfDV_1ZIpmcQKFMsxdvb00KYypSv7daJTqYHXb/s1600/cisco-exploit.jpg",
       "published": "Sat, 06 Jun 2026 09:49:28 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-sp",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg",
-      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png",
-      "published": "Fri, 05 Jun 2026 20:23:40 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: 303\n# Comments: 83",
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=48424103\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Sat, 06 Jun 2026 04:38:36 +0000",
+      "published": "Sat, 06 Jun 2026 12:00:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "summary": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\nComments URL: https://news.ycombinator.com/item?id=48421171\nPoints: 57\n# Comments: 16",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/\nComments URL: https://news.ycombinator.com/item?id=48423990\nPoints: 61\n# Comments: 58",
       "image": "",
-      "published": "Sat, 06 Jun 2026 03:41:32 +0000",
+      "published": "Sat, 06 Jun 2026 11:46:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lockdown Mode",
-      "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "summary": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode\nComments URL: https://news.ycombinator.com/item?id=48421145\nPoints: 49\n# Comments: 23",
+      "title": "Introduction – Rust for Python Programmers",
+      "link": "https://microsoft.github.io/RustTraining/python-book/",
+      "summary": "Article URL: https://microsoft.github.io/RustTraining/python-book/\nComments URL: https://news.ycombinator.com/item?id=48423615\nPoints: 20\n# Comments: 7",
       "image": "",
-      "published": "Sat, 06 Jun 2026 03:36:15 +0000",
+      "published": "Sat, 06 Jun 2026 10:52:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391\nComments URL: https://news.ycombinator.com/item?id=48421079\nPoints: 77\n# Comments: 20",
+      "title": "Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]",
+      "link": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+      "summary": "Article URL: https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf\nComments URL: https://news.ycombinator.com/item?id=48423541\nPoints: 26\n# Comments: 21",
       "image": "",
-      "published": "Sat, 06 Jun 2026 03:23:47 +0000",
+      "published": "Sat, 06 Jun 2026 10:42:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ask HN: Why is the HN crowd so anti-AI?",
-      "link": "https://news.ycombinator.com/item?id=48420827",
-      "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or some",
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "summary": "Article URL: https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/\nComments URL: https://news.ycombinator.com/item?id=48422993\nPoints: 78\n# Comments: 18",
       "image": "",
-      "published": "Sat, 06 Jun 2026 02:31:51 +0000",
+      "published": "Sat, 06 Jun 2026 09:17:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Anthropic Actually Said About AI Building Itself",
-      "link": "https://dev.to/arjun_adhikari_4ac4ca1052/what-anthropic-actually-said-about-ai-building-itself-4419",
-      "summary": "In June 2026, Anthropic released a report about something they call \"recursive self-improvement.\" The title is \"When AI builds itself.\" \n\nMost people who read the headlines think this means: AI is becoming superintellige",
+      "title": "Show DEV: AIPDFKit -> Free AI-Powered PDF Tools for Developers (No Account Needed)",
+      "link": "https://dev.to/karamanbk/show-dev-aipdfkit-free-ai-powered-pdf-tools-for-developers-no-account-needed-4h9l",
+      "summary": "I built AIPDFKit because I kept running into the same friction: needing to do something simple with a PDF -- redact some sensitive info, pull out a table, or convert a document to Markdown -- and every tool either requir",
       "image": "",
-      "published": "Sat, 06 Jun 2026 08:10:19 +0000",
+      "published": "Sat, 06 Jun 2026 12:46:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Regex Fails: Using LLMs to Extract Structured Data from Messy Pages",
-      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages-2mbg",
-      "summary": "I’ve been doing web scraping for years. For most projects, I lean on BeautifulSoup, cssselect, and a handful of regex patterns. You know the drill: inspect the page, find the selector, extract the text, clean it up. It w",
+      "title": "Learn Leetcode daily with Claude code mentor",
+      "link": "https://dev.to/stewie-pixel/learn-leetcode-daily-with-claude-code-mentor-f52",
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nAfter being abandoned for several months, I have come back to build and complete Claude with LeetCode, which is a DSA learning syste",
       "image": "",
-      "published": "Sat, 06 Jun 2026 08:08:15 +0000",
+      "published": "Sat, 06 Jun 2026 12:36:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Real-time Stripe monitoring that never leaves your browser",
-      "link": "https://dev.to/lightseong/real-time-stripe-monitoring-that-never-leaves-your-browser-48oh",
-      "summary": "Stripe Alerts is a Chrome extension that monitors \nyour Stripe dashboard and sends instant desktop \nnotifications when something goes wrong — failed \npayment spikes, chargebacks, subscription \ncancellations, and refund a",
+      "title": "Quark's Outlines: Python User-defined Methods",
+      "link": "https://dev.to/mike-vincent/quarks-outlines-python-user-defined-methods-4aj5",
+      "summary": "Quark’s Outlines: Python User-Defined Methods\n\n\nOverview, Historical Timeline, Problems &amp; Solutions\n\n\n  \n  \n  An Overview of Python User-Defined Methods\n\n\n\n  \n  \n  What is a Python user-defined method?\n\n\nWhen you def",
       "image": "",
-      "published": "Sat, 06 Jun 2026 08:05:38 +0000",
+      "published": "Sat, 06 Jun 2026 12:36:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemini Model Management: Ending Inefficiency! The Secret to 3x Faster Cost Tracking with Model Registry",
-      "link": "https://dev.to/junhee916/gemini-model-management-ending-inefficiency-the-secret-to-3x-faster-cost-tracking-with-model-2gig",
-      "summary": "Gemini Model Management: Ending Inefficiency – How Model Registry Tripled Our Cost Tracking Speed\n\nManaging our Gemini model system had become a real headache. Model versioning was a mess, and tracking costs for each AI ",
+      "title": "Teaching Networking? The OSI Simulator Is Your Best Classroom Tool",
+      "link": "https://dev.to/roboticela/series-01-1620-teaching-networking-the-osi-simulator-is-your-best-classroom-tool-22jh",
+      "summary": "If you're a networking instructor — at a university, technical college, boot camp, or corporate training program — you know the frustration of teaching the OSI Model. Static PowerPoint slides can only do so much. Student",
       "image": "",
-      "published": "Sat, 06 Jun 2026 08:00:04 +0000",
+      "published": "Sat, 06 Jun 2026 12:34:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
-      "link": "https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl",
-      "summary": "Most code health scores are vibes. A number goes up, a number goes down, and nobody checks whether the files it flags are the files that actually break later. I wanted to know if the score I built does better than that, ",
+      "title": "Type-Safe Agents: Leveraging apcore-js in TypeScript",
+      "link": "https://dev.to/tercelyi/type-safe-agents-leveraging-apcore-js-in-typescript-2447",
+      "summary": "While Python dominates the AI research space, TypeScript is the engine of the modern full-stack web. From high-performance Node.js backends to complex React frontends, TypeScript provides the structure and safety that la",
       "image": "",
-      "published": "Sat, 06 Jun 2026 07:57:41 +0000",
+      "published": "Sat, 06 Jun 2026 12:32:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
