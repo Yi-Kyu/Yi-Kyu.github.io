@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-06T01:50:48.886414Z",
+  "updated": "2026-06-06T08:19:23.985576Z",
   "articles": [
+    {
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyg1vRQART17ZjJXANnrQ8Vtn7h_tM5IihGJ4LnxbGTDFL1QSvR_lEDmVm7bsO84br04_oM-RM9ZgX-6b5yVQnEOTwKgk3KzImrhPBrI91GIYmQ-n09hq3vjF3tPVnNqVhHbV22BIxXg9zhGg4b2s4kATPjtnqGWldHRw29GexKQbEcX6HxG46vPfvo26l/s1600/chrome-update.jpg",
+      "published": "Sat, 06 Jun 2026 12:58:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.\n\nThe incident impacted 73 Microsoft repositories across four of its GitHub organi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG8k6LtHNQ3cHl_X1AZbXRn6LZCNZ6lMLjy-9HG7-_OQekMOhCQKkktrnMqVteXfmGHBMMlbTv3v9Rl6kKjXlNQBSHUVybmD_IBVvMDT7IsMGV49OMSfF5V8bMFVW4ZwFjlg_gddyYtiiQqmdpYIJjuKLTZz_rxooZZQQye7omBEOjyxMFFjAaiZuc6Non/s1600/azure-npm.jpg",
+      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYckKvOFV_Xz1o-nUKCcjlMQmOxdFC6FMzIjMnE4GSPPJ9kQxDLqOmK9WhofViemB5grKkMJDV_KPnQAuLci5RtV3sCOei2Fzk31qOdIk3Jeroj_6NVxoa0VX0Bw5nwwzffBp4o3hoDysRntjOxTR7akhfDV_1ZIpmcQKFMsxdvb00KYypSv7daJTqYHXb/s1600/cisco-exploit.jpg",
+      "published": "Sat, 06 Jun 2026 09:49:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
       "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
@@ -16,33 +43,6 @@
       "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campa",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png",
       "published": "Fri, 05 Jun 2026 20:23:40 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) server",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg",
-      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platf",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg",
-      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.\n\nThe vulner",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg",
-      "published": "Fri, 05 Jun 2026 14:08:59 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: ABC Classic 100 Rankings visualised",
-      "link": "https://classic100.gotski.workers.dev/",
-      "summary": "This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years.I've considered adding a search function, but I also kind of like that it",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: 303\n# Comments: 83",
       "image": "",
-      "published": "Sat, 06 Jun 2026 01:32:09 +0000",
+      "published": "Sat, 06 Jun 2026 04:38:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "summary": "Article URL: https://salvagedcircuitry.com/sigma-45mm.html\nComments URL: https://news.ycombinator.com/item?id=48420148\nPoints: 32\n# Comments: 0",
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "summary": "Article URL: https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\nComments URL: https://news.ycombinator.com/item?id=48421171\nPoints: 57\n# Comments: 16",
       "image": "",
-      "published": "Sat, 06 Jun 2026 00:33:26 +0000",
+      "published": "Sat, 06 Jun 2026 03:41:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The perils of UUID primary keys in SQLite",
-      "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-      "summary": "Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html\nComments URL: https://news.ycombinator.com/item?id=48419571\nPoints: 20\n# Comments: 10",
+      "title": "Lockdown Mode",
+      "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "summary": "Article URL: https://help.openai.com/en/articles/20001061-lockdown-mode\nComments URL: https://news.ycombinator.com/item?id=48421145\nPoints: 49\n# Comments: 23",
       "image": "",
-      "published": "Fri, 05 Jun 2026 23:13:12 +0000",
+      "published": "Sat, 06 Jun 2026 03:36:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Transformers are inherently succinct",
-      "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "summary": "This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.\n\nComments URL: https://news.ycombinator.com/item?id=48416635\nPoints: 89\n# Comments: 30",
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391\nComments URL: https://news.ycombinator.com/item?id=48421079\nPoints: 77\n# Comments: 20",
       "image": "",
-      "published": "Fri, 05 Jun 2026 18:50:26 +0000",
+      "published": "Sat, 06 Jun 2026 03:23:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Aging and Eye Problems",
-      "link": "https://ldstephens.net/posts/aging-and-eye-problems/",
-      "summary": "Article URL: https://ldstephens.net/posts/aging-and-eye-problems/\nComments URL: https://news.ycombinator.com/item?id=48416392\nPoints: 52\n# Comments: 24",
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "link": "https://news.ycombinator.com/item?id=48420827",
+      "summary": "Genuine question.Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or some",
       "image": "",
-      "published": "Fri, 05 Jun 2026 18:30:31 +0000",
+      "published": "Sat, 06 Jun 2026 02:31:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects AI-Generated Content on DEV!",
-      "link": "https://dev.to/devengers/two-devs-and-a-copilot-created-classifierai-a-prototype-chrome-extension-that-automatically-4fge",
-      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\nNote: AI is currently a Hot Topic in the developer space. I recommend reading this post in full before commenting. The dataset being used does not come fro",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovhtick339ll39h5bx8i.png",
-      "published": "Sat, 06 Jun 2026 01:41:40 +0000",
+      "title": "What Anthropic Actually Said About AI Building Itself",
+      "link": "https://dev.to/arjun_adhikari_4ac4ca1052/what-anthropic-actually-said-about-ai-building-itself-4419",
+      "summary": "In June 2026, Anthropic released a report about something they call \"recursive self-improvement.\" The title is \"When AI builds itself.\" \n\nMost people who read the headlines think this means: AI is becoming superintellige",
+      "image": "",
+      "published": "Sat, 06 Jun 2026 08:10:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Create an ECS Fargate Service Step by Step",
-      "link": "https://dev.to/jun_uen0/create-an-ecs-fargate-service-step-by-step-1a7d",
-      "summary": "Prepare Docker Image at ECR\n\n\nIf you don't have an image at ECR, please check this article and get it.\n\nPush Docker image to AWS ECR\nIn this article, I use React app image.\n\n\n  \n  \n  About ECS\n\n\nAWS Elastic Container Ser",
+      "title": "When Regex Fails: Using LLMs to Extract Structured Data from Messy Pages",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/when-regex-fails-using-llms-to-extract-structured-data-from-messy-pages-2mbg",
+      "summary": "I’ve been doing web scraping for years. For most projects, I lean on BeautifulSoup, cssselect, and a handful of regex patterns. You know the drill: inspect the page, find the selector, extract the text, clean it up. It w",
       "image": "",
-      "published": "Sat, 06 Jun 2026 01:40:34 +0000",
+      "published": "Sat, 06 Jun 2026 08:08:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop hand-coding the Japanese Rokuyo calendar: LLM-generated lunar logic silently breaks",
-      "link": "https://dev.to/shirabedev/stop-hand-coding-the-japanese-rokuyo-calendar-llm-generated-lunar-logic-silently-breaks-3pie",
-      "summary": "Originally published in Japanese on Qiita. This is the English edition.\n\n\n\n  \n  \n  TL;DR\n\n\n\nBusiness requirements that touch the Japanese Rokuyo calendar are surging in the LLM era — wedding-date pickers, moving-day scor",
+      "title": "Real-time Stripe monitoring that never leaves your browser",
+      "link": "https://dev.to/lightseong/real-time-stripe-monitoring-that-never-leaves-your-browser-48oh",
+      "summary": "Stripe Alerts is a Chrome extension that monitors \nyour Stripe dashboard and sends instant desktop \nnotifications when something goes wrong — failed \npayment spikes, chargebacks, subscription \ncancellations, and refund a",
       "image": "",
-      "published": "Sat, 06 Jun 2026 01:37:13 +0000",
+      "published": "Sat, 06 Jun 2026 08:05:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Shopify CSV Product Category Looks Blank? Test the Import, Not Just the Preview",
-      "link": "https://dev.to/_172c9b2760d6c5bc1e8966/shopify-csv-product-category-looks-blank-test-the-import-not-just-the-preview-18hd",
-      "summary": "If you are importing hundreds of products, a blank Product Category field in the Shopify CSV upload preview can make the whole file look broken. The preview is useful, but it is not the final source of truth for every ta",
+      "title": "Gemini Model Management: Ending Inefficiency! The Secret to 3x Faster Cost Tracking with Model Registry",
+      "link": "https://dev.to/junhee916/gemini-model-management-ending-inefficiency-the-secret-to-3x-faster-cost-tracking-with-model-2gig",
+      "summary": "Gemini Model Management: Ending Inefficiency – How Model Registry Tripled Our Cost Tracking Speed\n\nManaging our Gemini model system had become a real headache. Model versioning was a mess, and tracking costs for each AI ",
       "image": "",
-      "published": "Sat, 06 Jun 2026 01:35:46 +0000",
+      "published": "Sat, 06 Jun 2026 08:00:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CSS First + Thin Component Wrapper: A 10KB Component Library Practice",
-      "link": "https://dev.to/yuelinghuashu/css-first-thin-component-wrapper-a-10kb-component-library-practice-dmj",
-      "summary": "title: \"CSS First + Thin Component Wrapper: A 10KB Component Library Practice\"\ndescription: \"From UnoCSS back to native CSS, a design token-driven component library solution. Four-layer CSS architecture, minimal Vue comp",
+      "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
+      "link": "https://dev.to/raghav_builds/i-tested-whether-a-code-health-score-actually-predicts-bugs-heres-the-benchmark-10dl",
+      "summary": "Most code health scores are vibes. A number goes up, a number goes down, and nobody checks whether the files it flags are the files that actually break later. I wanted to know if the score I built does better than that, ",
       "image": "",
-      "published": "Sat, 06 Jun 2026 01:30:10 +0000",
+      "published": "Sat, 06 Jun 2026 07:57:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
