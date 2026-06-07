@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T13:12:34.974927Z",
+  "updated": "2026-06-07T19:00:39.694496Z",
   "articles": [
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+      "image": "",
+      "published": "Sun, 07 Jun 2026 10:17:46 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Silent Ransom Group targets law firms with fake IT support calls",
+      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according t",
+      "image": "",
+      "published": "Sun, 07 Jun 2026 10:09:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
       "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
@@ -70,24 +88,6 @@
       "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
       "image": "",
       "published": "Fri, 05 Jun 2026 15:15:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 14:09:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 13:50:58 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "summary": "Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/\nComments URL: https://news.ycombinator.com/item?id=48434312\nPoints: 54\n# Comments: 11",
+      "title": "The curious case of low-protein diets",
+      "link": "https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer\nComments URL: https://news.ycombinator.com/item?id=48437450\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:49:29 +0000",
+      "published": "Sun, 07 Jun 2026 18:37:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
-      "link": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
-      "summary": "Article URL: https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle\nComments URL: https://news.ycombinator.com/item?id=48434204\nPoints: 5\n# Comments: 2",
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "link": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+      "summary": "Article URL: https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics\nComments URL: https://news.ycombinator.com/item?id=48437442\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:34:27 +0000",
+      "published": "Sun, 07 Jun 2026 18:36:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "9 Mothers (YC P26) Is Hiring",
-      "link": "https://9mothers.com/careers",
-      "summary": "Article URL: https://9mothers.com/careers\nComments URL: https://news.ycombinator.com/item?id=48433987\nPoints: 0\n# Comments: 0",
+      "title": "My automated doubt development process",
+      "link": "https://www.alexself.dev/blog/automated-doubt",
+      "summary": "Article URL: https://www.alexself.dev/blog/automated-doubt\nComments URL: https://news.ycombinator.com/item?id=48437305\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:00:40 +0000",
+      "published": "Sun, 07 Jun 2026 18:17:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "summary": "Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/\nComments URL: https://news.ycombinator.com/item?id=48433410\nPoints: 169\n# Comments: 90",
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "summary": "Article URL: https://github.com/yukiyokotani/office-open-xml-viewer\nComments URL: https://news.ycombinator.com/item?id=48436863\nPoints: 14\n# Comments: 5",
       "image": "",
-      "published": "Sun, 07 Jun 2026 10:10:33 +0000",
+      "published": "Sun, 07 Jun 2026 17:22:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Efficient and Training-Free Single-Image Diffusion Models",
-      "link": "https://arxiv.org/abs/2606.04299",
-      "summary": "Article URL: https://arxiv.org/abs/2606.04299\nComments URL: https://news.ycombinator.com/item?id=48433305\nPoints: 15\n# Comments: 0",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "summary": "Article URL: https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\nComments URL: https://news.ycombinator.com/item?id=48436819\nPoints: 33\n# Comments: 3",
       "image": "",
-      "published": "Sun, 07 Jun 2026 09:43:45 +0000",
+      "published": "Sun, 07 Jun 2026 17:18:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI Agents Don’t Need More Prompts. They Need Execution Boundaries.",
-      "link": "https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg",
-      "summary": "AI agents are moving from chat into action.\n\nThey can call tools, send emails, update records, delete data, trigger workflows, deploy code, issue refunds, change IAM permissions, and interact with MCP servers.\n\nThat shif",
+      "title": "Simple A2A implementation with Strands",
+      "link": "https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7",
+      "summary": "A2A has become like a standard for enabling agent to agent communication, we could use the a2a-sdk for running and configuring the a2a server and its features such as agent card, agent skills, agent executor, request han",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:51:34 +0000",
+      "published": "Sun, 07 Jun 2026 18:38:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Two SELECTs in the Same Transaction Can Return Different Results in GBase 8c",
-      "link": "https://dev.to/michaelfv/why-two-selects-in-the-same-transaction-can-return-different-results-in-gbase-8c-l0",
-      "summary": "Seeing different query results within the same transaction in a gbase database can be confusing. Many operators suspect caching, replication lag, or driver issues. However, the root cause often lies in a mismatch between",
+      "title": "Roast my portfolio",
+      "link": "https://dev.to/waliimran/roast-my-portfolio-fop",
+      "summary": "I finished building my first portfolio. I want everyone to give their honest opinion on it. No need to hold back.\n\nwaliimran.vercel.app\n\nThanks you!",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:45:00 +0000",
+      "published": "Sun, 07 Jun 2026 18:34:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Android Icon Specifications: Adaptive Icons, Round Icons & More",
-      "link": "https://dev.to/roboticela/android-icon-specifications-adaptive-icons-round-icons-more-5fhn",
-      "summary": "Android icon design is simultaneously more flexible and more complex than iOS. While Apple enforces a single rounded-rectangle shape for all icons, Android has evolved through multiple icon paradigms — from the wild-west",
-      "image": "",
-      "published": "Sun, 07 Jun 2026 12:44:48 +0000",
+      "title": "I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere",
+      "link": "https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf",
+      "summary": "Whenever I heard about harmonics, I thought they were only related to large substations, transmission systems, and industrial facilities. I assumed harmonics were something utility engineers dealt with and not something ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felxg6nf0ldn5lrb5knys.png",
+      "published": "Sun, 07 Jun 2026 18:32:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Showcasing StorySync: My Open-Source Manga & Manhwa Tracker Built with Flutter",
-      "link": "https://dev.to/amr_zero0-1/showcasing-storysync-my-open-source-manga-manhwa-tracker-built-with-flutter-5fba",
-      "summary": "Hi everyone! 👋\n\nThis is my first time sharing a project with the community, and I'd love to showcase something I've been working on over the past few months.\n\nStorySync is an open-source manga and manhwa tracking applica",
+      "title": "Detecting PII in Real-World Text",
+      "link": "https://dev.to/bspann/detecting-pii-in-real-world-text-310p",
+      "summary": "In Part 1 we installed Presidio and ran a basic detection on clean sample text. Real data is messier. Emails have signatures with phone numbers buried in HTML. Support tickets mix PII with technical jargon. Chat logs hav",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:44:06 +0000",
+      "published": "Sun, 07 Jun 2026 18:28:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What a policy gate catches in AI-generated code, and what slips through",
-      "link": "https://dev.to/vorsken/what-a-policy-gate-catches-in-ai-generated-code-and-what-slips-through-4n97",
-      "summary": "I maintain an open-source GitHub Action called vorsken. It does one thing: scan the diff on a pull request with Semgrep, apply a fixed policy, and return BLOCK, FLAG, or PASS. No dashboard, no model that drifts over time",
+      "title": "Starting with Excel: How it transforms data to insights.",
+      "link": "https://dev.to/charleen_bakhita/starting-with-excel-how-it-transforms-data-to-insights-3g24",
+      "summary": "Introduction\n\n\nExcel is a powerful spreadsheet program developed by Microsoft that is used to calculate, organize and analyze data. It provides a way of turning raw data into meaningful insights through handling large da",
       "image": "",
-      "published": "Sun, 07 Jun 2026 12:44:03 +0000",
+      "published": "Sun, 07 Jun 2026 18:24:41 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "offset-path",
-      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@custom-media",
-      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@function",
-      "link": "https://css-tricks.com/almanac/rules/f/function/",
-      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "::search-text",
-      "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
-      "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n\n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newslette",
-      "image": "",
-      "published": "Tue, 02 Jun 2026 12:59:21 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
