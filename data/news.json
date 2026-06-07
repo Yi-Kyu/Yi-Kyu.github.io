@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T08:40:36.478427Z",
+  "updated": "2026-06-07T13:12:34.974927Z",
   "articles": [
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "link": "https://www.ioccc.org/2025/",
-      "summary": "Article URL: https://www.ioccc.org/2025/\nComments URL: https://news.ycombinator.com/item?id=48432199\nPoints: 109\n# Comments: 18",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "summary": "Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/\nComments URL: https://news.ycombinator.com/item?id=48434312\nPoints: 54\n# Comments: 11",
       "image": "",
-      "published": "Sun, 07 Jun 2026 05:47:54 +0000",
+      "published": "Sun, 07 Jun 2026 12:49:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I design with Claude more than Figma now",
-      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "summary": "Article URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/\nComments URL: https://news.ycombinator.com/item?id=48431981\nPoints: 119\n# Comments: 84",
+      "title": "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+      "link": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
+      "summary": "Article URL: https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle\nComments URL: https://news.ycombinator.com/item?id=48434204\nPoints: 5\n# Comments: 2",
       "image": "",
-      "published": "Sun, 07 Jun 2026 05:04:24 +0000",
+      "published": "Sun, 07 Jun 2026 12:34:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The circus freaks of open source",
-      "link": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
-      "summary": "Article URL: https://drewdevault.com/blog/Circus-freaks-of-FOSS/\nComments URL: https://news.ycombinator.com/item?id=48431952\nPoints: 74\n# Comments: 17",
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "link": "https://9mothers.com/careers",
+      "summary": "Article URL: https://9mothers.com/careers\nComments URL: https://news.ycombinator.com/item?id=48433987\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Sun, 07 Jun 2026 04:57:02 +0000",
+      "published": "Sun, 07 Jun 2026 12:00:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "summary": "Article URL: https://github.com/ValveSoftware/GameNetworkingSockets/issues/398\nComments URL: https://news.ycombinator.com/item?id=48431461\nPoints: 137\n# Comments: 63",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/\nComments URL: https://news.ycombinator.com/item?id=48433410\nPoints: 169\n# Comments: 90",
       "image": "",
-      "published": "Sun, 07 Jun 2026 03:21:52 +0000",
+      "published": "Sun, 07 Jun 2026 10:10:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses\nComments URL: https://news.ycombinator.com/item?id=48431286\nPoints: 74\n# Comments: 38",
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "link": "https://arxiv.org/abs/2606.04299",
+      "summary": "Article URL: https://arxiv.org/abs/2606.04299\nComments URL: https://news.ycombinator.com/item?id=48433305\nPoints: 15\n# Comments: 0",
       "image": "",
-      "published": "Sun, 07 Jun 2026 02:46:37 +0000",
+      "published": "Sun, 07 Jun 2026 09:43:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Preventing context bloat and agent loops in database MCP servers",
-      "link": "https://dev.to/snss5312/preventing-context-bloat-and-agent-loops-in-database-mcp-servers-3o43",
-      "summary": "I've been running Cursor and Claude Code with MCP for a while now, and one thing became obvious pretty quickly:\n\nGiving an agent a generic execute_sql tool is usually a terrible idea.\n\nThe first problem is context explos",
+      "title": "AI Agents Don’t Need More Prompts. They Need Execution Boundaries.",
+      "link": "https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg",
+      "summary": "AI agents are moving from chat into action.\n\nThey can call tools, send emails, update records, delete data, trigger workflows, deploy code, issue refunds, change IAM permissions, and interact with MCP servers.\n\nThat shif",
       "image": "",
-      "published": "Sun, 07 Jun 2026 08:29:52 +0000",
+      "published": "Sun, 07 Jun 2026 12:51:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to send email from Cloudflare Workers, Deno, and Bun (Nodemailer won't)",
-      "link": "https://dev.to/alialnaghmoush/how-to-send-email-from-cloudflare-workers-deno-and-bun-nodemailer-wont-3j00",
-      "summary": "If you've tried sending email from a Cloudflare Worker, a Deno app, or a Bun server, you've probably hit the same wall I did: Nodemailer doesn't run there.\n\nNodemailer has been the default for ~15 years, and it's excelle",
+      "title": "Why Two SELECTs in the Same Transaction Can Return Different Results in GBase 8c",
+      "link": "https://dev.to/michaelfv/why-two-selects-in-the-same-transaction-can-return-different-results-in-gbase-8c-l0",
+      "summary": "Seeing different query results within the same transaction in a gbase database can be confusing. Many operators suspect caching, replication lag, or driver issues. However, the root cause often lies in a mismatch between",
       "image": "",
-      "published": "Sun, 07 Jun 2026 08:22:48 +0000",
+      "published": "Sun, 07 Jun 2026 12:45:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lottie Animations with Tailwind CSS: The Complete Integration Guide",
-      "link": "https://dev.to/fazalshah/lottie-animations-with-tailwind-css-the-complete-integration-guide-1hl1",
-      "summary": "Tailwind CSS and Lottie animations are a natural pair â€” Tailwind handles static layout and styling, Lottie handles complex motion. This guide covers every integration pattern: sizing, responsive layouts, dark mode, hov",
+      "title": "Android Icon Specifications: Adaptive Icons, Round Icons & More",
+      "link": "https://dev.to/roboticela/android-icon-specifications-adaptive-icons-round-icons-more-5fhn",
+      "summary": "Android icon design is simultaneously more flexible and more complex than iOS. While Apple enforces a single rounded-rectangle shape for all icons, Android has evolved through multiple icon paradigms — from the wild-west",
       "image": "",
-      "published": "Sun, 07 Jun 2026 08:21:42 +0000",
+      "published": "Sun, 07 Jun 2026 12:44:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What is the most efficient way to evaluate poker hands at scale?",
-      "link": "https://dev.to/stojankojo/what-is-the-most-efficient-way-to-evaluate-poker-hands-at-scale-4dpn",
-      "summary": "The most efficient way to evaluate poker hands at scale is not to write logic that checks for straights and flushes at runtime. Instead, the industry standard for high-frequency trading (HFT) and real-money poker is pre-",
+      "title": "Showcasing StorySync: My Open-Source Manga & Manhwa Tracker Built with Flutter",
+      "link": "https://dev.to/amr_zero0-1/showcasing-storysync-my-open-source-manga-manhwa-tracker-built-with-flutter-5fba",
+      "summary": "Hi everyone! 👋\n\nThis is my first time sharing a project with the community, and I'd love to showcase something I've been working on over the past few months.\n\nStorySync is an open-source manga and manhwa tracking applica",
       "image": "",
-      "published": "Sun, 07 Jun 2026 08:21:35 +0000",
+      "published": "Sun, 07 Jun 2026 12:44:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lottie Animations in Gatsby.js: A Complete Guide",
-      "link": "https://dev.to/fazalshah/lottie-animations-in-gatsbyjs-a-complete-guide-58pm",
-      "summary": "Gatsby's static site generation requires specific patterns for Lottie â€” animations need to be excluded from SSR, JSON imports need proper webpack config, and performance needs special attention for static pages. This g",
+      "title": "What a policy gate catches in AI-generated code, and what slips through",
+      "link": "https://dev.to/vorsken/what-a-policy-gate-catches-in-ai-generated-code-and-what-slips-through-4n97",
+      "summary": "I maintain an open-source GitHub Action called vorsken. It does one thing: scan the diff on a pull request with Semgrep, apply a fixed policy, and return BLOCK, FLAG, or PASS. No dashboard, no model that drifts over time",
       "image": "",
-      "published": "Sun, 07 Jun 2026 08:20:58 +0000",
+      "published": "Sun, 07 Jun 2026 12:44:03 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
+      "image": "",
+      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "offset-path",
+      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@custom-media",
+      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@function",
+      "link": "https://css-tricks.com/almanac/rules/f/function/",
+      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "::search-text",
+      "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+      "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n\n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newslette",
+      "image": "",
+      "published": "Tue, 02 Jun 2026 12:59:21 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
