@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T19:00:39.694496Z",
+  "updated": "2026-06-08T02:09:31.224761Z",
   "articles": [
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+      "image": "",
+      "published": "Sun, 07 Jun 2026 19:20:02 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
       "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
       "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
@@ -79,15 +88,6 @@
       "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
       "image": "",
       "published": "Fri, 05 Jun 2026 17:54:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 15:15:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The curious case of low-protein diets",
-      "link": "https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer",
-      "summary": "Article URL: https://knowablemagazine.org/content/article/living-world/2026/low-protein-diet-animals-live-longer\nComments URL: https://news.ycombinator.com/item?id=48437450\nPoints: 4\n# Comments: 0",
+      "title": "Teenage Engineering: Introducing APC-2",
+      "link": "https://teenage.engineering/products/apc-2",
+      "summary": "Article URL: https://teenage.engineering/products/apc-2\nComments URL: https://news.ycombinator.com/item?id=48440383\nPoints: 54\n# Comments: 20",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:37:17 +0000",
+      "published": "Mon, 08 Jun 2026 01:27:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
-      "link": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
-      "summary": "Article URL: https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics\nComments URL: https://news.ycombinator.com/item?id=48437442\nPoints: 8\n# Comments: 1",
+      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
+      "link": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
+      "summary": "Article URL: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html\nComments URL: https://news.ycombinator.com/item?id=48440360\nPoints: 25\n# Comments: 5",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:36:36 +0000",
+      "published": "Mon, 08 Jun 2026 01:22:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My automated doubt development process",
-      "link": "https://www.alexself.dev/blog/automated-doubt",
-      "summary": "Article URL: https://www.alexself.dev/blog/automated-doubt\nComments URL: https://news.ycombinator.com/item?id=48437305\nPoints: 4\n# Comments: 1",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "summary": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=48440064\nPoints: 46\n# Comments: 8",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:17:40 +0000",
+      "published": "Mon, 08 Jun 2026 00:28:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "summary": "Article URL: https://github.com/yukiyokotani/office-open-xml-viewer\nComments URL: https://news.ycombinator.com/item?id=48436863\nPoints: 14\n# Comments: 5",
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+      "summary": "Article URL: https://github.com/melastmohican/rust-rpico2-embassy-examples\nComments URL: https://news.ycombinator.com/item?id=48440008\nPoints: 28\n# Comments: 2",
       "image": "",
-      "published": "Sun, 07 Jun 2026 17:22:28 +0000",
+      "published": "Mon, 08 Jun 2026 00:17:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "link": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "summary": "Article URL: https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html\nComments URL: https://news.ycombinator.com/item?id=48436819\nPoints: 33\n# Comments: 3",
+      "title": "Firefox Merges Support for Vulkan Video Decoding",
+      "link": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
+      "summary": "Article URL: https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged\nComments URL: https://news.ycombinator.com/item?id=48439348\nPoints: 65\n# Comments: 7",
       "image": "",
-      "published": "Sun, 07 Jun 2026 17:18:12 +0000",
+      "published": "Sun, 07 Jun 2026 22:41:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Simple A2A implementation with Strands",
-      "link": "https://dev.to/aws-builders/simple-a2a-implementation-with-strands-2n7",
-      "summary": "A2A has become like a standard for enabling agent to agent communication, we could use the a2a-sdk for running and configuring the a2a server and its features such as agent card, agent skills, agent executor, request han",
+      "title": "MainWP's Strengths and Who It Fits — An Honest Review from a Competing Tool Builder",
+      "link": "https://dev.to/susumun/mainwps-strengths-and-who-it-fits-an-honest-review-from-a-competing-tool-builder-4iap",
+      "summary": "Among WordPress maintenance tools, MainWP stands out as the leader for agencies with a strong open-source bias. Founded in 2013, fully GPL-licensed, and architected so that the dashboard itself runs on your own WordPress",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:38:48 +0000",
+      "published": "Mon, 08 Jun 2026 01:59:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Roast my portfolio",
-      "link": "https://dev.to/waliimran/roast-my-portfolio-fop",
-      "summary": "I finished building my first portfolio. I want everyone to give their honest opinion on it. No need to hold back.\n\nwaliimran.vercel.app\n\nThanks you!",
+      "title": "HALO: cómo construimos una red ciudadana de emergencias serverless en AWS",
+      "link": "https://dev.to/sergio_arias/halo-como-construimos-una-red-ciudadana-de-emergencias-serverless-en-aws-57o3",
+      "summary": "En junio de 2026, Bolivia atraviesa una de las crisis sociales más severas de los últimos años. Los bloqueos prolongados, el desabastecimiento y la interrupción de rutas no solo han afectado la economía, sino también la ",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:34:50 +0000",
+      "published": "Mon, 08 Jun 2026 01:51:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere",
-      "link": "https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf",
-      "summary": "Whenever I heard about harmonics, I thought they were only related to large substations, transmission systems, and industrial facilities. I assumed harmonics were something utility engineers dealt with and not something ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Felxg6nf0ldn5lrb5knys.png",
-      "published": "Sun, 07 Jun 2026 18:32:30 +0000",
+      "title": "How not to build a login & signup system",
+      "link": "https://dev.to/juddee/how-not-to-build-a-login-signup-system-4fc5",
+      "summary": "You shouldn't build a login &amp; signup system that only securely and effectively authenticates users; instead, create a system that makes sure your application does more than just securely authenticate users by adding ",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 01:45:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Detecting PII in Real-World Text",
-      "link": "https://dev.to/bspann/detecting-pii-in-real-world-text-310p",
-      "summary": "In Part 1 we installed Presidio and ran a basic detection on clean sample text. Real data is messier. Emails have signatures with phone numbers buried in HTML. Support tickets mix PII with technical jargon. Chat logs hav",
+      "title": "Single-tenant memory is the wrong default for agents",
+      "link": "https://dev.to/nikos_dritsakos_a207771fb/single-tenant-memory-is-the-wrong-default-for-agents-49no",
+      "summary": "Every AI agent your company runs wakes up knowing nothing.\n\nIt doesn't remember the billing quirk someone debugged last Tuesday. It doesn't know the deploy recipe that a different agent figured out two weeks ago. It re-d",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:28:34 +0000",
+      "published": "Mon, 08 Jun 2026 01:41:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Starting with Excel: How it transforms data to insights.",
-      "link": "https://dev.to/charleen_bakhita/starting-with-excel-how-it-transforms-data-to-insights-3g24",
-      "summary": "Introduction\n\n\nExcel is a powerful spreadsheet program developed by Microsoft that is used to calculate, organize and analyze data. It provides a way of turning raw data into meaningful insights through handling large da",
+      "title": "How to Build an Acquisition Loop Roach Startup for Near Free",
+      "link": "https://dev.to/traffictorch/how-to-build-an-acquisition-loop-roach-startup-for-near-free-292c",
+      "summary": "I strapped in my daily decaf, fired up the laptop, and figured I’d write this while the kettle was still making noises that sound suspiciously like a dying possum.\n\nIf you’re sick of hearing about billion-dollar startups",
       "image": "",
-      "published": "Sun, 07 Jun 2026 18:24:41 +0000",
+      "published": "Mon, 08 Jun 2026 01:37:18 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
+      "image": "",
+      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "offset-path",
+      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
+      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@custom-media",
+      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
+      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "@function",
+      "link": "https://css-tricks.com/almanac/rules/f/function/",
+      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
+      "image": "",
+      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "::search-text",
+      "link": "https://css-tricks.com/almanac/pseudo-selectors/s/search-text/",
+      "summary": "The CSS ::search-text pseudo-element selects the matching text from your browser's \"find in page\" feature. \n\n::search-text originally handwritten and published with love on CSS-Tricks. You should really get the newslette",
+      "image": "",
+      "published": "Tue, 02 Jun 2026 12:59:21 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
