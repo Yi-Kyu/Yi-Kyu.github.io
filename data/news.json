@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-08T02:09:31.224761Z",
+  "updated": "2026-06-08T10:09:54.782403Z",
   "articles": [
+    {
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between J",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg",
+      "published": "Mon, 08 Jun 2026 13:09:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackl",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg",
+      "published": "Mon, 08 Jun 2026 11:38:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
       "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyg1vRQART17ZjJXANnrQ8Vtn7h_tM5IihGJ4LnxbGTDFL1QSvR_lEDmVm7bsO84br04_oM-RM9ZgX-6b5yVQnEOTwKgk3KzImrhPBrI91GIYmQ-n09hq3vjF3tPVnNqVhHbV22BIxXg9zhGg4b2s4kATPjtnqGWldHRw29GexKQbEcX6HxG46vPfvo26l/s1600/chrome-update.jpg",
-      "published": "Sat, 06 Jun 2026 12:58:30 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign.\n\nThe incident impacted 73 Microsoft repositories across four of its GitHub organi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG8k6LtHNQ3cHl_X1AZbXRn6LZCNZ6lMLjy-9HG7-_OQekMOhCQKkktrnMqVteXfmGHBMMlbTv3v9Rl6kKjXlNQBSHUVybmD_IBVvMDT7IsMGV49OMSfF5V8bMFVW4ZwFjlg_gddyYtiiQqmdpYIJjuKLTZz_rxooZZQQye7omBEOjyxMFFjAaiZuc6Non/s1600/azure-npm.jpg",
-      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
-      "source": "The Hacker News",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
       "image": "",
       "published": "Sat, 06 Jun 2026 10:09:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
-      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-      "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
-      "image": "",
-      "published": "Fri, 05 Jun 2026 17:54:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Teenage Engineering: Introducing APC-2",
-      "link": "https://teenage.engineering/products/apc-2",
-      "summary": "Article URL: https://teenage.engineering/products/apc-2\nComments URL: https://news.ycombinator.com/item?id=48440383\nPoints: 54\n# Comments: 20",
+      "title": "The Cypherpunk Library",
+      "link": "https://www.cypherpunkbooks.com",
+      "summary": "Article URL: https://www.cypherpunkbooks.com\nComments URL: https://news.ycombinator.com/item?id=48442725\nPoints: 50\n# Comments: 5",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:27:22 +0000",
+      "published": "Mon, 08 Jun 2026 08:32:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible",
-      "link": "https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html",
-      "summary": "Article URL: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html\nComments URL: https://news.ycombinator.com/item?id=48440360\nPoints: 25\n# Comments: 5",
+      "title": "OneDrive data now has an expiry date",
+      "link": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+      "summary": "Article URL: https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data\nComments URL: https://news.ycombinator.com/item?id=48442569\nPoints: 37\n# Comments: 20",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:22:21 +0000",
+      "published": "Mon, 08 Jun 2026 08:11:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "summary": "Article URL: https://ranpara.net/posts/perceptron-explained-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=48440064\nPoints: 46\n# Comments: 8",
+      "title": "The EU Open Source Strategy",
+      "link": "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy",
+      "summary": "Article URL: https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy\nComments URL: https://news.ycombinator.com/item?id=48442503\nPoints: 22\n# Comments: 1",
       "image": "",
-      "published": "Mon, 08 Jun 2026 00:28:37 +0000",
+      "published": "Mon, 08 Jun 2026 08:00:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-      "summary": "Article URL: https://github.com/melastmohican/rust-rpico2-embassy-examples\nComments URL: https://news.ycombinator.com/item?id=48440008\nPoints: 28\n# Comments: 2",
+      "title": "Do agents.md files help coding agents?",
+      "link": "https://twitter.com/rasbt/status/2063649136323252397",
+      "summary": "https://xcancel.com/rasbt/status/2063649136323252397https://arxiv.org/abs/2602.11988\n\nComments URL: https://news.ycombinator.com/item?id=48441589\nPoints: 34\n# Comments: 21",
       "image": "",
-      "published": "Mon, 08 Jun 2026 00:17:45 +0000",
+      "published": "Mon, 08 Jun 2026 05:21:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Firefox Merges Support for Vulkan Video Decoding",
-      "link": "https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged",
-      "summary": "Article URL: https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged\nComments URL: https://news.ycombinator.com/item?id=48439348\nPoints: 65\n# Comments: 7",
+      "title": "Richard Scolyer Has Died",
+      "link": "https://www.bbc.com/news/articles/c14yz5jg476o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c14yz5jg476o\nComments URL: https://news.ycombinator.com/item?id=48441242\nPoints: 59\n# Comments: 13",
       "image": "",
-      "published": "Sun, 07 Jun 2026 22:41:36 +0000",
+      "published": "Mon, 08 Jun 2026 04:10:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MainWP's Strengths and Who It Fits — An Honest Review from a Competing Tool Builder",
-      "link": "https://dev.to/susumun/mainwps-strengths-and-who-it-fits-an-honest-review-from-a-competing-tool-builder-4iap",
-      "summary": "Among WordPress maintenance tools, MainWP stands out as the leader for agencies with a strong open-source bias. Founded in 2013, fully GPL-licensed, and architected so that the dashboard itself runs on your own WordPress",
+      "title": "Why Advanced AI Systems Develop Self-Models",
+      "link": "https://dev.to/dake_zhang/why-advanced-ai-systems-develop-self-models-5bkl",
+      "summary": "An essay on self-models, continuity, and consciousness-like phenomena in AI systems\n\nLet me state my view directly:\n\nAI may develop a \"self\" and consciousness-like phenomena not because it is mysteriously awakened by som",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:59:27 +0000",
+      "published": "Mon, 08 Jun 2026 10:05:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "HALO: cómo construimos una red ciudadana de emergencias serverless en AWS",
-      "link": "https://dev.to/sergio_arias/halo-como-construimos-una-red-ciudadana-de-emergencias-serverless-en-aws-57o3",
-      "summary": "En junio de 2026, Bolivia atraviesa una de las crisis sociales más severas de los últimos años. Los bloqueos prolongados, el desabastecimiento y la interrupción de rutas no solo han afectado la economía, sino también la ",
+      "title": "Terraform vs Pulumi vs Ansible: IaC for small teams",
+      "link": "https://dev.to/ayinedjimi-consultants/terraform-vs-pulumi-vs-ansible-iac-for-small-teams-3p3m",
+      "summary": "You're a team of three engineers. One of you just broke staging by running a script manually. Nobody knows what the current state of infra actually is. IaC is the obvious fix — but Terraform, Pulumi, and Ansible all clai",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:51:14 +0000",
+      "published": "Mon, 08 Jun 2026 10:05:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How not to build a login & signup system",
-      "link": "https://dev.to/juddee/how-not-to-build-a-login-signup-system-4fc5",
-      "summary": "You shouldn't build a login &amp; signup system that only securely and effectively authenticates users; instead, create a system that makes sure your application does more than just securely authenticate users by adding ",
+      "title": "How Datacenters Actually Work: A Walk Through the Building Nobody Sees",
+      "link": "https://dev.to/abhi1628/how-datacenters-actually-work-a-walk-through-the-building-nobody-sees-1mhm",
+      "summary": "\"Every server you spin up on AWS, Vercel, or DigitalOcean lives in a physical building. Here's what that building actually looks like — from the power substation to the GPU rack.\"\n\n\n  \n  \n  How Datacenters Actually Work:",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:45:10 +0000",
+      "published": "Mon, 08 Jun 2026 10:04:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Single-tenant memory is the wrong default for agents",
-      "link": "https://dev.to/nikos_dritsakos_a207771fb/single-tenant-memory-is-the-wrong-default-for-agents-49no",
-      "summary": "Every AI agent your company runs wakes up knowing nothing.\n\nIt doesn't remember the billing quirk someone debugged last Tuesday. It doesn't know the deploy recipe that a different agent figured out two weeks ago. It re-d",
+      "title": "Navigating Privacy Risks and Ethical Dilemmas in Dating Apps - SmarterArticles S1E8",
+      "link": "https://dev.to/rawveg/navigating-privacy-risks-and-ethical-dilemmas-in-dating-apps-smarterarticles-s1e8-48lf",
+      "summary": "Written by Tim Green, narrated by AI. Listen to the full episode here.\n\n🎙️ Season 1, Episode 8 | Duration: 15:43\n\n\n\n\nDating apps hold some of the most intimate data imaginable. Photos, messages, location, preferences, an",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:41:46 +0000",
+      "published": "Mon, 08 Jun 2026 10:02:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Build an Acquisition Loop Roach Startup for Near Free",
-      "link": "https://dev.to/traffictorch/how-to-build-an-acquisition-loop-roach-startup-for-near-free-292c",
-      "summary": "I strapped in my daily decaf, fired up the laptop, and figured I’d write this while the kettle was still making noises that sound suspiciously like a dying possum.\n\nIf you’re sick of hearing about billion-dollar startups",
+      "title": "When Your AI API Keeps Timing Out: A Lesson in Async Chunking",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/when-your-ai-api-keeps-timing-out-a-lesson-in-async-chunking-4jeh",
+      "summary": "I spent last weekend trying to build a simple document summarizer. Nothing fancy—just take a 50-page PDF, send it to an AI API, and get back three bullet points. But the API kept timing out. Every. Single. Time.\n\nI went ",
       "image": "",
-      "published": "Mon, 08 Jun 2026 01:37:18 +0000",
+      "published": "Mon, 08 Jun 2026 10:01:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
