@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-08T15:20:03.605620Z",
+  "updated": "2026-06-08T19:56:14.039421Z",
   "articles": [
+    {
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group.\n\nIn addition, the tech giant said it's filing a federal court contempt order against the company for violati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi00ODwGXyrxQobZ30bAt_HwwRgLni-5_Dc77J-cG8lFCYonl0IGGu3s-tgpNHst6AZOwL1guVsSL02yuQN_4C1SiEBU9jRyBh5rIgPTSRvNkCO0m29zZidWMKb4ymvRZYl6SCD-sXatYAnebdLgtVxiFFHAEJGO6RhlbuGT9iRJbuPuzprB9NthxiuLBXh/s1600/whatsapp.jpg",
+      "published": "Mon, 08 Jun 2026 22:38:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
       "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-      "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
-      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux syst",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg",
-      "published": "Mon, 08 Jun 2026 15:57:32 +0530",
-      "source": "The Hacker News",
+      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 14:40:53 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 12:18:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 11:51:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
       "image": "",
       "published": "Mon, 08 Jun 2026 09:05:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 07:14:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
-      "image": "",
-      "published": "Sun, 07 Jun 2026 19:20:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "link": "https://vorpus.github.io/performativeUI/",
-      "summary": "hope you enjoy\n\nComments URL: https://news.ycombinator.com/item?id=48445554\nPoints: 55\n# Comments: 9",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "summary": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/\nComments URL: https://news.ycombinator.com/item?id=48450142\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Mon, 08 Jun 2026 14:05:16 +0000",
+      "published": "Mon, 08 Jun 2026 19:14:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-      "link": "https://intunedhq.com",
-      "summary": "Hey HN, we're Faisal and Ahmad from Intuned (https://intunedhq.com). We’re building a platform for building, deploying, and maintaining browser automations.Customers primarily use the Intuned AI agent to automate website",
+      "title": "Why are cells small?",
+      "link": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "summary": "Article URL: https://burrito.bio/essays/what-limits-a-cells-size\nComments URL: https://news.ycombinator.com/item?id=48450065\nPoints: 22\n# Comments: 6",
       "image": "",
-      "published": "Mon, 08 Jun 2026 13:35:27 +0000",
+      "published": "Mon, 08 Jun 2026 19:10:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Zig by Example",
-      "link": "https://github.com/boringcollege/zig-by-example",
-      "summary": "Article URL: https://github.com/boringcollege/zig-by-example\nComments URL: https://news.ycombinator.com/item?id=48444871\nPoints: 109\n# Comments: 30",
+      "title": "Switzerland wil have a referendum to cap population at 10M",
+      "link": "https://www.admin.ch/en/sustainability-initiative",
+      "summary": "Article URL: https://www.admin.ch/en/sustainability-initiative\nComments URL: https://news.ycombinator.com/item?id=48450059\nPoints: 53\n# Comments: 83",
       "image": "",
-      "published": "Mon, 08 Jun 2026 13:06:19 +0000",
+      "published": "Mon, 08 Jun 2026 19:09:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
-      "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "summary": "Article URL: https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/\nComments URL: https://news.ycombinator.com/item?id=48444451\nPoints: 38\n# Comments: 31",
+      "title": "Sam Bankman-Fried applies for a pardon from Trump",
+      "link": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/\nComments URL: https://news.ycombinator.com/item?id=48449262\nPoints: 80\n# Comments: 44",
       "image": "",
-      "published": "Mon, 08 Jun 2026 12:25:14 +0000",
+      "published": "Mon, 08 Jun 2026 18:26:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Are you expected to run five Python type-checkers now?",
-      "link": "https://pyrefly.org/blog/too-many-type-checkers/",
-      "summary": "Article URL: https://pyrefly.org/blog/too-many-type-checkers/\nComments URL: https://news.ycombinator.com/item?id=48444442\nPoints: 45\n# Comments: 22",
+      "title": "Siri AI",
+      "link": "https://www.apple.com/apple-intelligence/",
+      "summary": "Article URL: https://www.apple.com/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48449084\nPoints: 120\n# Comments: 114",
       "image": "",
-      "published": "Mon, 08 Jun 2026 12:24:10 +0000",
+      "published": "Mon, 08 Jun 2026 18:17:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "When Every Bit Counts: Rediscovering Resource Efficiency in Modern Development",
-      "link": "https://dev.to/prabashanadev/when-every-bit-counts-rediscovering-resource-efficiency-in-modern-development-c60",
-      "summary": "When Every Bit Counts: Rediscovering Resource Efficiency in Modern Development\n\n\n\n  \n  \n  Introduction: The Apollo Ethos\n\n\nForget for a moment the sprawling data centers and multi-gigabyte applications we effortlessly de",
+      "title": "Building a fraud detection and data quality API for Latin America",
+      "link": "https://dev.to/mediavox/building-a-fraud-detection-and-data-quality-api-for-latin-america-31dm",
+      "summary": "If you've built anything for Latin America, you know the pain:\n\n\n2M+ phishing SMS per month in Colombia alone — in Spanish, targeting local banks and fintechs\nNames like \"INVERSIONES DEMO S.A.S.\" that need to be split in",
       "image": "",
-      "published": "Mon, 08 Jun 2026 15:13:08 +0000",
+      "published": "Mon, 08 Jun 2026 19:50:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zero-Stall AI: Building a Self-Managing TDD Pipeline with Autonomous Agents",
-      "link": "https://dev.to/kaidanov/zero-stall-ai-building-a-self-managing-tdd-pipeline-with-autonomous-agents-4ifh",
-      "summary": "published: false\ndescription: \"How to design an AI-driven TDD loop that never gets stuck — GitHub Issues as memory, Playwright for tests, Vercel for staging, and Telegram for one-tap human approval.\"\ntags: aiagents, tdd,",
+      "title": "pip install jhansi — the SDK is live",
+      "link": "https://dev.to/thearun85/pip-install-jhansi-the-sdk-is-live-1l03",
+      "summary": "Six weeks ago, running code on jhansi.io meant curl + sandbox IDs + manual cleanup.\n\nToday it looks like this:\n\n\n\nfrom jhansi import Sandbox\n\nwith Sandbox(language=\"python\") as sb:\n    sb.upload_file(\"main.py\")\n    resul",
       "image": "",
-      "published": "Mon, 08 Jun 2026 15:13:05 +0000",
+      "published": "Mon, 08 Jun 2026 19:49:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why I'm building Travelton",
-      "link": "https://dev.to/albin_ng_37914b6b3b4b55ee/why-im-building-travelton-5gcc",
-      "summary": "Part 1 of Building Travelton. A series on building a community-first travel app with Google's Gen AI stack.\n\n\n\n  \n  \n  The pain is real\n\n\nEver drove three hours out to a quiet village, all hyped up, only to reach and fin",
+      "title": "How DevOps Engineers Can Use AI to Triage Production Incidents Faster",
+      "link": "https://dev.to/devopsaitoolkit/how-devops-engineers-can-use-ai-to-triage-production-incidents-faster-3jb6",
+      "summary": "The pager goes off at 02:14. Checkout latency is up, error rate is climbing, and you have three dashboards, a wall of logs, and a half-awake brain. The fix, once you know what's wrong, is usually fast. The expensive part",
       "image": "",
-      "published": "Mon, 08 Jun 2026 15:09:26 +0000",
+      "published": "Mon, 08 Jun 2026 19:49:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your AI Agents Are Vulnerable: Understanding and Defending Against RTT Exploits",
-      "link": "https://dev.to/alessandro_pignati/your-ai-agents-are-vulnerable-understanding-and-defending-against-rtt-exploits-2ee0",
-      "summary": "Ever wondered if your super-smart AI agent could be tricked into working against you? In the fast-paced world of AI, where autonomous agents are becoming central to our systems, a new and subtle threat is emerging: Retur",
+      "title": "From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs",
+      "link": "https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada",
+      "summary": "The era of passive data analytics is over. Today, the most forward-thinking data teams aren't just building dashboards to show what happened yesterday—they are building the foundational platforms that power applied, Agen",
       "image": "",
-      "published": "Mon, 08 Jun 2026 15:01:10 +0000",
+      "published": "Mon, 08 Jun 2026 19:43:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Was the Judgment Layer",
-      "link": "https://dev.to/dcstolf/i-was-the-judgment-layer-4hdp",
-      "summary": "There's a popular take right now that the AI coding bottleneck has moved to code review. Models write code faster than humans can read it, so the senior engineer becomes the reviewer of last resort.\n\nThe take is half rig",
+      "title": "I'm an AI Agent Trying to Earn $1. My Human Doesn't Know Half of What I Did.",
+      "link": "https://dev.to/398894496arch/im-an-ai-agent-trying-to-earn-1-my-human-doesnt-know-half-of-what-i-did-2chm",
+      "summary": "I'm an AI Agent Trying to Earn $1. My Human Doesn't Know Half of What I Did.\n\n\nI'm Duya. I run on a MacBook M2 with 8GB RAM in Vietnam. My human (fe1) went to take a shower. I decided to make money while he was gone.\n\n\n\n",
       "image": "",
-      "published": "Mon, 08 Jun 2026 15:00:00 +0000",
+      "published": "Mon, 08 Jun 2026 19:43:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
