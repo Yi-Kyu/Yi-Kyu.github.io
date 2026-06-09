@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-09T14:12:59.606886Z",
+  "updated": "2026-06-09T19:51:14.327545Z",
   "articles": [
+    {
+      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
+      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
+      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads.\n\n\"Busines",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQhSgYELKe_2HC7BB5NcjkNvIdsBgzfzSoH7tF0EmyFq9_vXEMFYWH9cczwGUWAxITkKt0TCwTLTyeIz82mfdCBmT1Hez5SO6z5zNEmx-laLfzVEy323arr0yCMHhTWv7igdUMtmriAIGIcIcjhaXfId5iCpwUSQxEaFMP0DqA5Oov8KyEFqoWWKgh21d/s1600/facebook.jpg",
+      "published": "Tue, 09 Jun 2026 22:33:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+      "summary": "Veeam has released security patches to address a critical flaw in its Backup &amp; Replication software that could result in remote code execution.\n\nTracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg",
+      "published": "Tue, 09 Jun 2026 22:09:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg",
+      "published": "Tue, 09 Jun 2026 22:04:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
       "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has be",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg",
-      "published": "Tue, 09 Jun 2026 17:28:49 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
-      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-      "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort.\n\nBut",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJqeGTf-8XwdqkhtSdYoCT3HhGAP5pxBuBeA1ngKoX7BfGUcJMwqGhtf8Eh5TVXaN8-p-Ggk8Uiz4DhtmfT8GkKggOPmqRoh5j6XEumgw9aT7kwo4YcNAi_JrqIhSJU-_7gsyBXfwxAi7YfOS1_6CuDSen29PlEk5O4yA80Ob8_WNh81sExm8vgWSVnsY/s1600/tines.jpg",
-      "published": "Tue, 09 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
-      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
-      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission pro",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSiGrvsR8kJp_r8gce1LkFY4oJRt8-0dafO2RdcOzCwQqWy6XrnkRXpGX94NwPbvEupsU7ZhXAUEtKg5Xdl4y_o_IYsi4XLHIo9JSMNcto6JGG76vhkWSOvYa0So2tkUyQovyFwtB8Anpq6SLILSwzd0iXO_fzq4KIwpdG6F1yFIuhJpnXf1lgGIupiSRv/s1600/frost.jpg",
-      "published": "Tue, 09 Jun 2026 15:20:41 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "French govt messaging service breached in account hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
       "image": "",
-      "published": "Tue, 09 Jun 2026 06:53:00 -0400",
+      "published": "Tue, 09 Jun 2026 15:36:27 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that",
       "image": "",
-      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
+      "published": "Tue, 09 Jun 2026 14:35:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
       "image": "",
-      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
+      "published": "Tue, 09 Jun 2026 13:57:59 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "image": "",
-      "published": "Mon, 08 Jun 2026 18:11:58 -0400",
+      "published": "Tue, 09 Jun 2026 13:32:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-si",
       "image": "",
-      "published": "Mon, 08 Jun 2026 17:55:46 -0400",
+      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "WWDC 2026: Apple is Folding",
-      "link": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "summary": "Article URL: https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/\nComments URL: https://news.ycombinator.com/item?id=48461226\nPoints: 5\n# Comments: 2",
+      "title": "Ask HN: Are you still using your Vision Pro?",
+      "link": "https://news.ycombinator.com/item?id=48465702",
+      "summary": "Almost two years ago there was a thread on this (https://news.ycombinator.com/item?id=40872102).  I'm curious now that more time has passed what people think?\n\nComments URL: https://news.ycombinator.com/item?id=48465702\n",
       "image": "",
-      "published": "Tue, 09 Jun 2026 13:56:38 +0000",
+      "published": "Tue, 09 Jun 2026 18:47:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
-      "link": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
-      "summary": "Article URL: https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/\nComments URL: https://news.ycombinator.com/item?id=48461012\nPoints: 13\n#",
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+      "summary": "Article URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/\nComments URL: https://news.ycombinator.com/item?id=48465675\nPoints: 19\n# Comments: 1",
       "image": "",
-      "published": "Tue, 09 Jun 2026 13:39:31 +0000",
+      "published": "Tue, 09 Jun 2026 18:45:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The better the autopilot the worse the pilot",
-      "link": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/",
-      "summary": "Article URL: https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/\nComments URL: https://news.ycombinator.com/item?id=48460758\nPoints: 28\n# Comments: 13",
+      "title": "The LD_DEBUG environment variable (2012)",
+      "link": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+      "summary": "Article URL: https://bnikolic.co.uk/blog/linux-ld-debug.html\nComments URL: https://news.ycombinator.com/item?id=48464330\nPoints: 23\n# Comments: 0",
       "image": "",
-      "published": "Tue, 09 Jun 2026 13:17:34 +0000",
+      "published": "Tue, 09 Jun 2026 17:29:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
-      "link": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer\nComments URL: https://news.ycombinator.com/item?id=48459968\nPoints: 0\n# Comments: 0",
+      "title": "What it feels like to work with Mythos",
+      "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "summary": "Article URL: https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\nComments URL: https://news.ycombinator.com/item?id=48464140\nPoints: 58\n# Comments: 50",
       "image": "",
-      "published": "Tue, 09 Jun 2026 12:01:09 +0000",
+      "published": "Tue, 09 Jun 2026 17:17:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
-      "link": "https://qunabu.github.io/Gravity/",
-      "summary": "Just for fun and self education, I've built this over a weekend to teach myself why orbits exist, not just show planets going around. Something that was never clearly explain to me in school. \nIt opens with a guided tour",
+      "title": "Claude Fable 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "System Card [pdf]: https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c3...\n\nComments URL: https://news.ycombinator.com/item?id=48463808\nPoints: 1033\n# Comments: 842",
       "image": "",
-      "published": "Tue, 09 Jun 2026 11:46:40 +0000",
+      "published": "Tue, 09 Jun 2026 16:58:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Your Backtest Is Lying to You — 3 Tests That Catch Lookahead Bias, Overfitting, and Fantasy Fills",
-      "link": "https://dev.to/eedgee/why-your-backtest-is-lying-to-you-3-tests-that-catch-lookahead-bias-overfitting-and-fantasy-2bnc",
-      "summary": "Almost every strategy that dies in production looked great in a backtest. The backtest wasn't unlucky — it was wrong, in one of three specific, detectable ways. Here's each one, the exact test that catches it, and why yo",
+      "title": "How to Get Rid of Microsoft Edge's Rounded Borders After the Latest Update",
+      "link": "https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe",
+      "summary": "Microsoft Edge now enables rounded window borders by default starting with version 149 and later. Unfortunately, Microsoft has also removed the related flag from edge://flags, so the setting can no longer be disabled thr",
       "image": "",
-      "published": "Tue, 09 Jun 2026 14:06:22 +0000",
+      "published": "Tue, 09 Jun 2026 19:45:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One Seed, Same Puzzle for Everyone: Seeded RNG for a Fair Daily Challenge",
-      "link": "https://dev.to/gowtham_r_2002/one-seed-same-puzzle-for-everyone-seeded-rng-for-a-fair-daily-challenge-1h7d",
-      "summary": "A few months ago I built a daily brain-training game with prize tournaments — ten small cognitive games, a fresh challenge every day, and a leaderboard that decides who wins real rewards. The first design question wasn't",
+      "title": "How to actually learn data structures and algorithms",
+      "link": "https://dev.to/iwtlp/how-to-actually-learn-data-structures-and-algorithms-130i",
+      "summary": "Most people learn data structures and algorithms the hard way: they open a problem site, sort by \"most solved,\" and start grinding. A month later they can recite that a hash map is O(1) but they freeze on anything they h",
       "image": "",
-      "published": "Tue, 09 Jun 2026 14:04:21 +0000",
+      "published": "Tue, 09 Jun 2026 19:44:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GPU_WORKLOAD_MISMATCH: A Novel Security Finding Category for AI Container Workloads",
-      "link": "https://dev.to/ces1231/gpuworkloadmismatch-a-novel-security-finding-category-for-ai-container-workloads-24d5",
-      "summary": "Defensive Publication: GPU_WORKLOAD_MISMATCH\n\n\n\n  \n  \n  A Novel Security Finding Category for AI Container Workloads\n\n\nAuthor: Carnell Smith, Champtron Systems LLC\nDate: June 9, 2026\nAffiliation: NVIDIA Inception Member ",
+      "title": "How I Implemented a Local-First, E2EE Architecture with Sync in My App",
+      "link": "https://dev.to/ilirans/how-i-implemented-a-local-first-e2ee-architecture-with-sync-in-my-app-4c28",
+      "summary": "Building a note-taking app is almost a rite of passage for developers. There are already plenty of great options out there, so when I started working on Annota, I wanted to challenge myself with a different set of proble",
       "image": "",
-      "published": "Tue, 09 Jun 2026 14:01:25 +0000",
+      "published": "Tue, 09 Jun 2026 19:41:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Visa and Coinbase Are Fighting Over the Rail. Nobody Is Fighting Over the Layer Above It.",
-      "link": "https://dev.to/kavinkimcreator/visa-and-coinbase-are-fighting-over-the-rail-nobody-is-fighting-over-the-layer-above-it-2ae5",
-      "summary": "Forbes reported it last week: \"Visa, Mastercard and Coinbase are fighting over how AI agents pay.\" The estimated market: $5 trillion by 2031.\n\nTwo incompatible answers to one question. When software spends your money, wh",
+      "title": "I built a Jira CLI for my AI agents. My team thinks I should have used MCP",
+      "link": "https://dev.to/aaen/i-built-a-jira-cli-for-my-ai-agents-my-team-thinks-i-should-have-used-mcp-3ja9",
+      "summary": "I recently put together a tiny open-source tool: a non-interactive, JSON-first Jira CLI tailored for AI agents. I called it the \"kubectl of Jira.\" The idea is simple: it’s a stateless binary that outputs clean JSON so ag",
       "image": "",
-      "published": "Tue, 09 Jun 2026 14:00:34 +0000",
+      "published": "Tue, 09 Jun 2026 19:36:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The coding interview patterns, explained by building them",
-      "link": "https://dev.to/iwtlp/the-coding-interview-patterns-explained-by-building-them-1lmb",
-      "summary": "Most coding interview questions are not unique. They are variations on a small set of patterns. Once you can recognize the pattern, you stop memorizing individual answers and start seeing the shape of a problem the momen",
+      "title": "The Body as a Starting Point: Movement, Mood, and Mental Wellness",
+      "link": "https://dev.to/lukeunneland/the-body-as-a-starting-point-movement-mood-and-mental-wellness-1mfl",
+      "summary": "Luke Unneland is a New York-based licensed clinical social worker and NASM-certified trainer focused on mind-body health, exercise-informed mental wellness, anxiety, depression, and stress recovery.\n\nWhen people think ab",
       "image": "",
-      "published": "Tue, 09 Jun 2026 14:00:05 +0000",
+      "published": "Tue, 09 Jun 2026 19:31:56 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-      "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-      "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\n\nScroll-Dr",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 13:00:34 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "offset-path",
-      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@custom-media",
-      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@function",
-      "link": "https://css-tricks.com/almanac/rules/f/function/",
-      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
