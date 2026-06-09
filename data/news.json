@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-09T01:47:25.150716Z",
+  "updated": "2026-06-09T08:53:46.547084Z",
   "articles": [
+    {
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1600/lite.png",
+      "published": "Tue, 09 Jun 2026 11:56:14 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
       "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.\n\nA chatbot got fooled. A bot to",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg",
-      "published": "Mon, 08 Jun 2026 18:48:57 +0530",
-      "source": "The Hacker News",
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "image": "",
+      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "image": "",
+      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
       "image": "",
       "published": "Mon, 08 Jun 2026 17:03:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 16:41:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 14:40:53 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Mach – A compiled systems language looking for contributions",
-      "link": "https://github.com/octalide/mach",
-      "summary": "Hi HN,I'm the creator of Mach (https://github.com/octalide/mach or https://machlang.org). Two days ago, we finally achieved full self hosting. I wanted to make a post here to show off the language since this is a big mil",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/\nComments URL: https://news.ycombinator.com/item?id=48457830\nPoints: 65\n# Comments: 17",
       "image": "",
-      "published": "Mon, 08 Jun 2026 23:05:20 +0000",
+      "published": "Tue, 09 Jun 2026 07:33:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Command Center, the AI coding env for people who care about quality",
-      "link": "https://www.cc.dev/",
-      "summary": "Hi HN! We’re Jimmy and Ray. Jimmy is a Thiel Fellow with a Ph. D. from MIT who has worked on programming tools for 15 years; Ray became VP of Sales at a $2B company when he was 19 and has built side-businesses vibe-codin",
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966\nComments URL: https://news.ycombinator.com/item?id=48457181\nPoints: 82\n# Comments: 23",
       "image": "",
-      "published": "Mon, 08 Jun 2026 22:10:18 +0000",
+      "published": "Tue, 09 Jun 2026 06:14:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "link": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "summary": "Article URL: https://openai.com/index/openai-submits-confidential-s-1/\nComments URL: https://news.ycombinator.com/item?id=48452317\nPoints: 296\n# Comments: 201",
+      "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
+      "link": "https://loro.dev/blog/mergeable-containers",
+      "summary": "Article URL: https://loro.dev/blog/mergeable-containers\nComments URL: https://news.ycombinator.com/item?id=48456555\nPoints: 18\n# Comments: 2",
       "image": "",
-      "published": "Mon, 08 Jun 2026 21:22:43 +0000",
+      "published": "Tue, 09 Jun 2026 04:48:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "summary": "Article URL: https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\nComments URL: https://news.ycombinator.com/item?id=48452000\nPoints: 11\n# Comments: 5",
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "summary": "Article URL: https://blog.aheymans.xyz/post/thinkpad_x61/\nComments URL: https://news.ycombinator.com/item?id=48456245\nPoints: 63\n# Comments: 20",
       "image": "",
-      "published": "Mon, 08 Jun 2026 21:02:00 +0000",
+      "published": "Tue, 09 Jun 2026 04:06:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "FrontierCode",
-      "link": "https://cognition.ai/blog/frontier-code",
-      "summary": "Article URL: https://cognition.ai/blog/frontier-code\nComments URL: https://news.ycombinator.com/item?id=48451723\nPoints: 97\n# Comments: 20",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\nComments URL: https://news.ycombinator.com/item?id=48456015\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Mon, 08 Jun 2026 20:45:03 +0000",
+      "published": "Tue, 09 Jun 2026 03:34:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What AI Agent Platforms Are Available? How to Transition into an Agent Engineer?",
-      "link": "https://dev.to/dufrence/what-ai-agent-platforms-are-available-how-to-transition-into-an-agent-engineer-hha",
-      "summary": "What AI Agent platforms are available? There are two major categories: Workflow platforms (Dify — most open-source friendly; Coze — easiest to get started; n8n — most connectors) and Agentic AI platforms (SoloEngine — lo",
+      "title": "Swift Ternary Operator — Making Quick Decisions in One Line ⚡",
+      "link": "https://dev.to/gamya_m/swift-ternary-operator-making-quick-decisions-in-one-line-1k4o",
+      "summary": "We've covered if, else if, else, and switch — all great ways to make decisions in Swift. But there's one more tool in the toolkit that's much more compact than all of them. It's called the ternary conditional operator, a",
       "image": "",
-      "published": "Tue, 09 Jun 2026 01:33:27 +0000",
+      "published": "Tue, 09 Jun 2026 08:44:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We built a public registry and SDK for WebMCP tools. Here's why it matters.",
-      "link": "https://dev.to/jeffsalive/we-built-a-public-registry-and-sdk-for-webmcp-tools-heres-why-it-matters-43lf",
-      "summary": "If you haven't come across WebMCP yet, the quick version is this: it's a W3C proposal that lets a web page register callable actions directly in the browser using document.modelContext. Think of it as an in-browser MCP s",
+      "title": "Why only 60% of AI Agents succeed",
+      "link": "https://dev.to/reneza/why-40-of-all-ai-agents-are-shut-off-5fjd",
+      "summary": "The AI agent used to be the star of every demo.\n\nNow it's on the shutdown list. Not because the model got worse.\n\nThe most valuable asset in your AI program is in none of the quotes you ever signed.\n\nA demo is a showroom",
       "image": "",
-      "published": "Tue, 09 Jun 2026 01:28:11 +0000",
+      "published": "Tue, 09 Jun 2026 08:41:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your low-code project didn't fail because of low-code. It failed because you picked the wrong paradigm.",
-      "link": "https://dev.to/cpengc1984/your-low-code-project-didnt-fail-because-of-low-code-it-failed-because-you-picked-the-wrong-3ch2",
-      "summary": "Everyone who's shipped an enterprise system on a low-code platform knows the arc. The first two months are euphoric — drag, drop, forms and workflows and dashboards go live, the boss is thrilled. Then the business gets r",
+      "title": "Building a QR Code SaaS (QRGenLabs) — Looking for Honest Feedback",
+      "link": "https://dev.to/rahuld1590/building-a-qr-code-saas-qrgenlabs-looking-for-honest-feedback-2k5n",
+      "summary": "Hi DEV Community 👋\n\nI've been working on a SaaS project called QRGenLabs, a platform that helps users create QR codes for URLs, PDFs, social profiles, email, phone numbers, Wi-Fi, and more.\n\nOne thing I've noticed while ",
       "image": "",
-      "published": "Tue, 09 Jun 2026 01:24:35 +0000",
+      "published": "Tue, 09 Jun 2026 08:39:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Minha Jornada Aprendendo React Native",
-      "link": "https://dev.to/gusthy02/minha-jornada-aprendendo-react-native-je",
-      "summary": "Recentemente comecei meus estudos em React Native para desenvolver aplicativos móveis utilizando JavaScript e React.\n\nDurante os estudos aprendi conceitos importantes como:\n\n\nComponentes\nProps\nState\nNavegação com React N",
+      "title": "Building AI agents with Vercel AI SDK",
+      "link": "https://dev.to/zsevic/building-ai-agents-with-vercel-ai-sdk-48pa",
+      "summary": "The Vercel AI SDK treats agents as tool-calling loops: the model generates text or invokes tools, the SDK runs those tools, and the loop continues until the model answers or a stop condition fires.\n\nThis post builds a su",
       "image": "",
-      "published": "Tue, 09 Jun 2026 01:23:41 +0000",
+      "published": "Tue, 09 Jun 2026 08:35:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "THE LONGEST DAY",
-      "link": "https://dev.to/isaac_sam_c46a7e776186f65/the-longest-day-1f32",
-      "summary": "The Longest Day — A Narrative Game of Freedom, Code, and Consciousness\n\n\nThis is a submission for the June Solstice Game Jam\n\n\n\n\n\n  \n  \n  What I Built\n\n\nThe Longest Day is a narrative browser game that weaves together th",
+      "title": "I Wrote 10 AI Stories in 10 Days. My Keyboard Started Smoking on Day 4.",
+      "link": "https://dev.to/xulingfeng/i-wrote-10-ai-stories-in-10-days-my-keyboard-started-smoking-on-day-4-28o9",
+      "summary": "Biggest thing I learned writing the AI, Ego &amp; Regret series: I argue with myself way more than I thought.\n\nEvery post goes through the same loop:\n\n10 PM: \"This story's fire. Gonna blow up tomorrow.\"\n\n1 AM: \"Wait — di",
       "image": "",
-      "published": "Tue, 09 Jun 2026 01:23:12 +0000",
+      "published": "Tue, 09 Jun 2026 08:29:19 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-      "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-      "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\n\nScroll-Dr",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 13:00:34 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
-      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
-      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
-      "image": "",
-      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "offset-path",
-      "link": "https://css-tricks.com/almanac/properties/o/offset-path/",
-      "summary": "The offset-path property in CSS defines a movement path for an element to follow during animation.\nThis property began life as motion-path. This, and all other related motion-* properties, are being renamed offset-* in t",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 15:02:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@custom-media",
-      "link": "https://css-tricks.com/almanac/rules/c/custom-media/",
-      "summary": "The CSS @custom-media at-rule allows creating aliases for media queries.\n\n@custom-media originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:03:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "@function",
-      "link": "https://css-tricks.com/almanac/rules/f/function/",
-      "summary": "The @function at-rule defines CSS custom functions. These custom functions are reusable blocks of CSS that can accept arguments, contain complex logic, and return values based on that logic. \n\n@function originally handwr",
-      "image": "",
-      "published": "Wed, 03 Jun 2026 13:02:39 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
