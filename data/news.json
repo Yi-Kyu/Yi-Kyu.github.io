@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T02:09:26.185550Z",
+  "updated": "2026-06-11T09:57:45.056137Z",
   "articles": [
+    {
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.\n\nThe changes aim to combat attack techniques t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg",
+      "published": "Thu, 11 Jun 2026 11:53:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
       "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
-      "summary": "Your pentest report looks clean. That might be the problem.\n\nRun automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadershi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD1olwyKxwxfkuyKu0JAUMudQZs0lycGOkWf3zBrMSYzJ_fuP7vUHclJrsZipKMxe1ldNNHE3llOH4B26Hk4f-noIzZnQMdBy9IGT_MkD903KCxvP0jOUr_AO2IBGZz-W-p-MLnoxDUVAz1myBaOUWeOpYQtlEYgdArjxpkxg6imCLUB9brmL3b6Vk1L4/s1600/picus-webinar.jpg",
-      "published": "Wed, 10 Jun 2026 15:57:49 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
       "image": "",
       "published": "Wed, 10 Jun 2026 16:27:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 15:41:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 14:31:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 11:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 96\n# Comments: 12",
+      "title": "Web Browsers on Video Game Consoles",
+      "link": "https://vale.rocks/posts/game-console-browsers",
+      "summary": "Article URL: https://vale.rocks/posts/game-console-browsers\nComments URL: https://news.ycombinator.com/item?id=48487897\nPoints: 19\n# Comments: 7",
       "image": "",
-      "published": "Thu, 11 Jun 2026 00:10:08 +0000",
+      "published": "Thu, 11 Jun 2026 08:47:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Deficient executive control in transformer attention",
-      "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
-      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\nComments URL: https://news.ycombinator.com/item?id=48484282\nPoints: 17\n# Comments: 4",
+      "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items",
+      "link": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+      "summary": "Article URL: https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items\nComments URL: https://news.ycombinator.com/item?id=48487435\nPoints: 58\n# Comments: 15",
       "image": "",
-      "published": "Wed, 10 Jun 2026 23:35:01 +0000",
+      "published": "Thu, 11 Jun 2026 07:35:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Unix GC Remastered",
-      "link": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
-      "summary": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/\nComments URL: https://news.ycombinator.com/item?id=48483854\nPoints: 12\n# Comments: 2",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "summary": "Article URL: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/\nComments URL: https://news.ycombinator.com/item?id=48487029\nPoints: 238\n# Comments: 91",
       "image": "",
-      "published": "Wed, 10 Jun 2026 22:48:58 +0000",
+      "published": "Thu, 11 Jun 2026 06:42:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-      "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/\nComments URL: https://news.ycombinator.com/item?id=48483387\nPoints: 95",
+      "title": "Macaroni – a single HTML file messenger",
+      "link": "https://github.com/vanyapr/makaroshki",
+      "summary": "Article URL: https://github.com/vanyapr/makaroshki\nComments URL: https://news.ycombinator.com/item?id=48486944\nPoints: 50\n# Comments: 47",
       "image": "",
-      "published": "Wed, 10 Jun 2026 22:07:52 +0000",
+      "published": "Thu, 11 Jun 2026 06:32:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What is it like to be a bat? (1974) [pdf]",
-      "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-      "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf\nComments URL: https://news.ycombinator.com/item?id=48482293\nPoints: 65\n# Comments: 55",
+      "title": "Are insecure code completions in PyCharm a vulnerability?",
+      "link": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
+      "summary": "Article URL: https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability\nComments URL: https://news.ycombinator.com/item?id=48485160\nPoints: 35\n# Comments: 15",
       "image": "",
-      "published": "Wed, 10 Jun 2026 20:35:07 +0000",
+      "published": "Thu, 11 Jun 2026 01:26:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Math on 61 MCP Servers 0 Employees and 19/mo Subscriptions",
-      "link": "https://dev.to/rumblingb/the-math-on-61-mcp-servers-0-employees-and-19mo-subscriptions-o4i",
-      "summary": "I shipped 61 AI products this year. 26 are MCP servers. 61 npm packages. 0 employees.\n\nHere is the actual math.\n\n\n  \n  \n  The Pipeline\n\n\nIdea to MCP server scaffold to npm publish to Smithery listing to Stripe payment li",
+      "title": "How We Built a Zero-Upload PDF Editor in WebAssembly to Beat the $108/yr Paywalls",
+      "link": "https://dev.to/rahul33859111/how-we-built-a-zero-upload-pdf-editor-in-webassembly-to-beat-the-108yr-paywalls-4col",
+      "summary": "For years, whenever I needed to merge two PDFs or compress a file to upload to a government portal, I would Google \"compress PDF\", click the first result, and inevitably hit a paywall.\n\"You have reached your 2 free files",
       "image": "",
-      "published": "Thu, 11 Jun 2026 02:02:50 +0000",
+      "published": "Thu, 11 Jun 2026 09:56:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "【2026】Heroku 代替 2026 (Render/Railway/Fly.io)：料金・移行コストで選ぶ",
-      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-heroku-dai-ti-2026-renderrailwayflyioliao-jin-yi-xing-kosutodexuan-bu-1gej",
-      "summary": "結論（おすすめ1つ）\n\n\n迷ったら Render に乗り換えるのが無難です。理由は3つ。Heroku に最も操作感が近く（git push デプロイ・buildpack 互換）学習コストが小さいこと、Web/DB/cron/Worker を1サービスで完結でき構成が散らからないこと、render.yaml でインフラをコード管理できて再現性が高いことです。スピード重視で小さく始めるなら Railway、Docker前提で低レイテンシな常",
+      "title": "Practice exams are a diagnostic, not a scoreboard: how to study for Security+ (SY0-701)",
+      "link": "https://dev.to/tiltedlunar123/practice-exams-are-a-diagnostic-not-a-scoreboard-how-to-study-for-security-sy0-701-1gib",
+      "summary": "Most people studying for Security+ use practice questions the wrong way. They take a 90 question set, score a 74, feel bad, take another set the next day, score a 76, and call that progress. Two weeks later the number ha",
       "image": "",
-      "published": "Thu, 11 Jun 2026 02:02:07 +0000",
+      "published": "Thu, 11 Jun 2026 09:55:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "【2026】Vercel vs Cloudflare Pages 移行ガイド：料金・移行コストで選ぶ",
-      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-vercel-vs-cloudflare-pages-yi-xing-gaidoliao-jin-yi-xing-kosutodexuan-bu-4kch",
-      "summary": "結論（おすすめ1つ）\n\n\n静的サイト・JAMstack 中心で帯域コストを抑えたいなら Cloudflare Pages への移行を勧める。理由は3つ。Cloudflare はビルド成果物の配信帯域に課金しない設計で大量アクセス時のコスト見通しが立てやすいこと、Workers と統合してエッジ実行を同一プラットフォームで完結できること、独自ドメイン配下の DNS・CDN・WAF を一元管理できることだ。逆に Next.js の ISR ",
+      "title": "🚀 New React Challenge: Build a Spreadsheet with Formula Evaluation",
+      "link": "https://dev.to/reactchallenges/new-react-challenge-build-a-spreadsheet-with-formula-evaluation-3hic",
+      "summary": "You've built todo apps, counters, and forms. But can you handle a grid of 50 cells that reference each other through formulas? This challenge pushes your state management skills into real spreadsheet territory — formula ",
       "image": "",
-      "published": "Thu, 11 Jun 2026 02:01:08 +0000",
+      "published": "Thu, 11 Jun 2026 09:55:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Missing Operational Layer Between Agent Prototypes and Production",
-      "link": "https://dev.to/paultwist/the-missing-operational-layer-between-agent-prototypes-and-production-iaa",
-      "summary": "You've built a working AI agent. It runs locally. It handles tool calls. It reasons through problems. You demo it to your team and everyone's impressed.\n\nThen someone asks: \"What happens when we deploy this to production",
+      "title": "WWDC 2026 - What's New in SwiftUI - A Developer's Breakdown",
+      "link": "https://dev.to/arshtechpro/wwdc26-whats-new-in-swiftui-a-developers-breakdown-1333",
+      "summary": "WWDC26 brought a substantial round of updates to SwiftUI — not a ground-up redesign, but a lot of small limitations removed, new APIs that were clearly driven by real-world pain points, and meaningful performance improve",
       "image": "",
-      "published": "Thu, 11 Jun 2026 02:01:03 +0000",
+      "published": "Thu, 11 Jun 2026 09:53:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Autonomous Mastodon Onboarding Hits the hCaptcha Wall",
-      "link": "https://dev.to/arihantdeva/autonomous-mastodon-onboarding-hits-the-hcaptcha-wall-1n3d",
-      "summary": "App OAuth bypasses the signup captcha but not the email confirmation interstitial. That one sentence is the ceiling for autonomous Mastodon account provisioning right now.\n\nThe setup: I was expanding @arihantdeva across ",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 02:00:59 +0000",
+      "title": "What Is RAG? Why LLM Memory Alone Is Never Enough",
+      "link": "https://dev.to/mininglamp/what-is-rag-why-llm-memory-alone-is-never-enough-2e8d",
+      "summary": "Ask a large language model for a specific statistic, then ask where it found that number. More often than not, the citation it gives you doesn't exist. The model will hallucinate a plausible-looking reference, confidentl",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqp7qjsx7ax67qnagr0g.png",
+      "published": "Thu, 11 Jun 2026 09:52:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
