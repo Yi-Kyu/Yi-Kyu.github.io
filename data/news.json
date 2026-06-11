@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T20:03:04.988200Z",
+  "updated": "2026-06-11T02:09:26.185550Z",
   "articles": [
     {
       "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+      "image": "",
+      "published": "Wed, 10 Jun 2026 17:23:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+      "image": "",
+      "published": "Wed, 10 Jun 2026 16:27:08 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "GitHub announces npm security changes to tackle supply-chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
       "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
@@ -70,24 +88,6 @@
       "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
       "image": "",
       "published": "Wed, 10 Jun 2026 11:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access ",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 10:05:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 09:44:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic's Model Naming, Extrapolated",
-      "link": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-      "summary": "Article URL: https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated\nComments URL: https://news.ycombinator.com/item?id=48480852\nPoints: 39\n# Comments: 7",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 96\n# Comments: 12",
       "image": "",
-      "published": "Wed, 10 Jun 2026 18:45:20 +0000",
+      "published": "Thu, 11 Jun 2026 00:10:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Policy on the AI Exponential",
-      "link": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "summary": "Article URL: https://darioamodei.com/post/policy-on-the-ai-exponential\nComments URL: https://news.ycombinator.com/item?id=48480719\nPoints: 50\n# Comments: 23",
+      "title": "Deficient executive control in transformer attention",
+      "link": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+      "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\nComments URL: https://news.ycombinator.com/item?id=48484282\nPoints: 17\n# Comments: 4",
       "image": "",
-      "published": "Wed, 10 Jun 2026 18:36:04 +0000",
+      "published": "Wed, 10 Jun 2026 23:35:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]",
-      "link": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-      "summary": "https://gwern.net/doc/economics/automation/1989-david.pdf\n\nComments URL: https://news.ycombinator.com/item?id=48479996\nPoints: 18\n# Comments: 3",
+      "title": "Unix GC Remastered",
+      "link": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+      "summary": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/\nComments URL: https://news.ycombinator.com/item?id=48483854\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Wed, 10 Jun 2026 17:47:46 +0000",
+      "published": "Wed, 10 Jun 2026 22:48:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
-      "link": "https://www.matteast.io/spacex-escape-velocity.html",
-      "summary": "Article URL: https://www.matteast.io/spacex-escape-velocity.html\nComments URL: https://news.ycombinator.com/item?id=48479947\nPoints: 117\n# Comments: 99",
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "link": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "summary": "Article URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/\nComments URL: https://news.ycombinator.com/item?id=48483387\nPoints: 95",
       "image": "",
-      "published": "Wed, 10 Jun 2026 17:44:59 +0000",
+      "published": "Wed, 10 Jun 2026 22:07:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GeoLibre 1.0",
-      "link": "https://geolibre.app/",
-      "summary": "Article URL: https://geolibre.app/\nComments URL: https://news.ycombinator.com/item?id=48479852\nPoints: 18\n# Comments: 0",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "link": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+      "summary": "Article URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf\nComments URL: https://news.ycombinator.com/item?id=48482293\nPoints: 65\n# Comments: 55",
       "image": "",
-      "published": "Wed, 10 Jun 2026 17:39:47 +0000",
+      "published": "Wed, 10 Jun 2026 20:35:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stop Flying Blind: How to Build a Production-Grade Telemetry Layer for Self-Improving AI Agents",
-      "link": "https://dev.to/programmingcentral/stop-flying-blind-how-to-build-a-production-grade-telemetry-layer-for-self-improving-ai-agents-3lc6",
-      "summary": "Imagine this: You’ve just deployed a state-of-the-art autonomous AI agent. It uses advanced reasoning loops, accesses a vector database for long-term memory, and dynamically optimizes its own prompts to deliver incredibl",
+      "title": "The Math on 61 MCP Servers 0 Employees and 19/mo Subscriptions",
+      "link": "https://dev.to/rumblingb/the-math-on-61-mcp-servers-0-employees-and-19mo-subscriptions-o4i",
+      "summary": "I shipped 61 AI products this year. 26 are MCP servers. 61 npm packages. 0 employees.\n\nHere is the actual math.\n\n\n  \n  \n  The Pipeline\n\n\nIdea to MCP server scaffold to npm publish to Smithery listing to Stripe payment li",
       "image": "",
-      "published": "Wed, 10 Jun 2026 20:00:00 +0000",
+      "published": "Thu, 11 Jun 2026 02:02:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Companies Disrupting Your Job Are Now Proposing Rules to Protect It",
-      "link": "https://dev.to/keithjmackay/the-companies-disrupting-your-job-are-now-proposing-rules-to-protect-it-54bf",
-      "summary": "The Companies Disrupting Your Job Are Now Proposing Rules to Protect It\n\n\nThe robot tax, the four-day workweek, the public wealth fund. Good ideas, self-serving ideas, and missing ideas. Let's sort them out.\n\n\n\n\nYou migh",
+      "title": "【2026】Heroku 代替 2026 (Render/Railway/Fly.io)：料金・移行コストで選ぶ",
+      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-heroku-dai-ti-2026-renderrailwayflyioliao-jin-yi-xing-kosutodexuan-bu-1gej",
+      "summary": "結論（おすすめ1つ）\n\n\n迷ったら Render に乗り換えるのが無難です。理由は3つ。Heroku に最も操作感が近く（git push デプロイ・buildpack 互換）学習コストが小さいこと、Web/DB/cron/Worker を1サービスで完結でき構成が散らからないこと、render.yaml でインフラをコード管理できて再現性が高いことです。スピード重視で小さく始めるなら Railway、Docker前提で低レイテンシな常",
       "image": "",
-      "published": "Wed, 10 Jun 2026 19:51:22 +0000",
+      "published": "Thu, 11 Jun 2026 02:02:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Fable 5 review: I let Anthropic's new \"bazooka\" loose on my SaaS",
-      "link": "https://dev.to/danielbergholz/claude-fable-5-review-i-let-anthropics-new-bazooka-loose-on-my-saas-41co",
-      "summary": "Claude Fable 5 just launched, and I did what any reasonable person would do: I woke up at 6 AM, got flashbanged by an announcement page with no dark mode, read the whole thing, and then let the model loose on my producti",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsjm0y3g8chb2og8ghx1d.gif",
-      "published": "Wed, 10 Jun 2026 19:50:21 +0000",
+      "title": "【2026】Vercel vs Cloudflare Pages 移行ガイド：料金・移行コストで選ぶ",
+      "link": "https://dev.to/_7fb6011b57d383122b5a/2026-vercel-vs-cloudflare-pages-yi-xing-gaidoliao-jin-yi-xing-kosutodexuan-bu-4kch",
+      "summary": "結論（おすすめ1つ）\n\n\n静的サイト・JAMstack 中心で帯域コストを抑えたいなら Cloudflare Pages への移行を勧める。理由は3つ。Cloudflare はビルド成果物の配信帯域に課金しない設計で大量アクセス時のコスト見通しが立てやすいこと、Workers と統合してエッジ実行を同一プラットフォームで完結できること、独自ドメイン配下の DNS・CDN・WAF を一元管理できることだ。逆に Next.js の ISR ",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 02:01:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My first data analytics projects",
-      "link": "https://dev.to/mohammad_meezan/my-first-data-analytics-projects-1ejh",
-      "summary": "Today I got hands on my first data analytics project which was a healthcare dataset.\n\nFirst I got the dataset and then I did the following steps.\n\n\nI understood the data first as It was a healthcare data there was given ",
+      "title": "The Missing Operational Layer Between Agent Prototypes and Production",
+      "link": "https://dev.to/paultwist/the-missing-operational-layer-between-agent-prototypes-and-production-iaa",
+      "summary": "You've built a working AI agent. It runs locally. It handles tool calls. It reasons through problems. You demo it to your team and everyone's impressed.\n\nThen someone asks: \"What happens when we deploy this to production",
       "image": "",
-      "published": "Wed, 10 Jun 2026 19:44:44 +0000",
+      "published": "Thu, 11 Jun 2026 02:01:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "teamOS Bare Metal x86 Kernel",
-      "link": "https://dev.to/saoodahmed198stack/teamos-bare-metal-x86-kernel-317j",
-      "summary": "I am building an independent hobby kernel from scratch using C and NASM assembly. \n\nThe project is built to run entirely inside a web browser tab using copy.sh x86 virtualization so you don't have to install any toolchai",
+      "title": "Autonomous Mastodon Onboarding Hits the hCaptcha Wall",
+      "link": "https://dev.to/arihantdeva/autonomous-mastodon-onboarding-hits-the-hcaptcha-wall-1n3d",
+      "summary": "App OAuth bypasses the signup captcha but not the email confirmation interstitial. That one sentence is the ceiling for autonomous Mastodon account provisioning right now.\n\nThe setup: I was expanding @arihantdeva across ",
       "image": "",
-      "published": "Wed, 10 Jun 2026 19:33:15 +0000",
+      "published": "Thu, 11 Jun 2026 02:00:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
