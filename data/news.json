@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-11T15:25:45.418120Z",
+  "updated": "2026-06-11T20:04:29.073484Z",
   "articles": [
+    {
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg",
+      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.\n\n\"This was an acciden",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg",
+      "published": "Thu, 11 Jun 2026 23:13:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from v",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg",
+      "published": "Thu, 11 Jun 2026 22:20:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
       "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
@@ -11,7 +38,7 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones b",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by seve",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg",
-      "published": "Thu, 11 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. ",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 15:39:53 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.\n\nThe campaigns involve a prol",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg",
-      "published": "Thu, 11 Jun 2026 15:15:58 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.\n\nThe changes aim to combat attack techniques t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg",
-      "published": "Thu, 11 Jun 2026 11:53:03 +0530",
-      "source": "The Hacker News",
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "summary": "Law enforcement has dismantled the &ldquo;AudiA6&rdquo; cryptocurrency service&nbsp;allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 11:55:41 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
       "image": "",
       "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Amazon Says Its Data Centers Use 2.5B Gallons of Water",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water\nComments URL: https://news.ycombinator.com/item?id=48491253\nPoints: 14\n# Comments: 5",
+      "title": "Show HN: A police department for your Claude Code agents",
+      "link": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
+      "summary": "Article URL: https://github.com/varmabudharaju/agent-pd/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=48493786\nPoints: 7\n# Comments: 4",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:58:41 +0000",
+      "published": "Thu, 11 Jun 2026 17:47:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AMD Gaslights Security Researcher, Changes Rules Retroactively [video]",
-      "link": "https://www.youtube.com/watch?v=4HjWHNLRMB0",
-      "summary": "Article URL: https://www.youtube.com/watch?v=4HjWHNLRMB0\nComments URL: https://news.ycombinator.com/item?id=48490946\nPoints: 10\n# Comments: 2",
+      "title": "Software Is Made Between Commits",
+      "link": "https://zed.dev/blog/introducing-deltadb",
+      "summary": "Article URL: https://zed.dev/blog/introducing-deltadb\nComments URL: https://news.ycombinator.com/item?id=48492533\nPoints: 120\n# Comments: 71",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:35:53 +0000",
+      "published": "Thu, 11 Jun 2026 16:28:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MiMo Code Is Now Released and Open-Source",
-      "link": "https://mimo.xiaomi.com/mimocode",
-      "summary": "Article URL: https://mimo.xiaomi.com/mimocode\nComments URL: https://news.ycombinator.com/item?id=48490826\nPoints: 46\n# Comments: 19",
+      "title": "Solar generates more energy in US than coal for first time",
+      "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal\nComments URL: https://news.ycombinator.com/item?id=48492306\nPoints: 281\n# Comments: 123",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:27:19 +0000",
+      "published": "Thu, 11 Jun 2026 16:10:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
-      "link": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
-      "summary": "Article URL: https://nextcloud.com/blog/nextcloud-hub26-spring/\nComments URL: https://news.ycombinator.com/item?id=48490715\nPoints: 43\n# Comments: 10",
+      "title": "Waymo Premier",
+      "link": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "summary": "Article URL: https://waymo.com/blog/2026/06/waymo-premier/\nComments URL: https://news.ycombinator.com/item?id=48492304\nPoints: 91\n# Comments: 176",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:17:47 +0000",
+      "published": "Thu, 11 Jun 2026 16:10:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Euro-Office: First version of the open-source web office is here",
-      "link": "https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html",
-      "summary": "Article URL: https://www.heise.de/en/news/Euro-Office-First-version-of-the-open-source-web-office-is-here-11322160.html\nComments URL: https://news.ycombinator.com/item?id=48490564\nPoints: 22\n# Comments: 6",
+      "title": "The RCE that AMD wouldn't fix",
+      "link": "https://mrbruh.com/amd2/",
+      "summary": "Article URL: https://mrbruh.com/amd2/\nComments URL: https://news.ycombinator.com/item?id=48492215\nPoints: 138\n# Comments: 42",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:06:43 +0000",
+      "published": "Thu, 11 Jun 2026 16:03:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI Said I'm Inefficient. A Recruiter Said Not to Listen. I Ended Up On The Other Side of the Table.",
-      "link": "https://dev.to/xulingfeng/ai-said-im-inefficient-a-recruiter-said-not-to-listen-i-ended-up-on-the-other-side-of-the-table-184o",
-      "summary": "This is a story about an engineer labeled \"inefficient\" — the system said he wasn't good enough, management only looked at the system, and he spent two months proving who was wrong. Then he ended up on the client-side re",
+      "title": "I Sent 40 Follow-Up Emails After Interview Silence — Two Timings Tripled Replies",
+      "link": "https://dev.to/charliemorrison/i-sent-40-follow-up-emails-after-interview-silence-two-timings-tripled-replies-89l",
+      "summary": "A thank-you email is the easy part. The hard part is the email you send after — the one where the interview went fine, the manager said \"we'll be in touch by Friday,\" and then it is the following Wednesday and you have h",
       "image": "",
-      "published": "Thu, 11 Jun 2026 15:18:32 +0000",
+      "published": "Thu, 11 Jun 2026 19:56:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "rabbitholes: inline explanations with no server in the middle",
-      "link": "https://dev.to/palo_alto_ai/rabbitholes-inline-explanations-with-no-server-in-the-middle-4c2o",
-      "summary": "Most browser extensions that call an external API route your data through their own server. That's how they log usage, build analytics, gate features behind subscriptions, and eventually get acquired or shut down. I didn",
+      "title": "Python Developer Roadmap 2026 — From Zero to Job-Ready (No Fluff, Real Sequence)",
+      "link": "https://dev.to/zyvop/python-developer-roadmap-2026-from-zero-to-job-ready-no-fluff-real-sequence-l53",
+      "summary": "The problem with most Python roadmaps is that they are either too shallow (\"just learn the basics!\") or overwhelming lists of 50 tools with no idea of what order to learn them in or how long each stage should take.\n\nThis",
       "image": "",
-      "published": "Thu, 11 Jun 2026 15:13:16 +0000",
+      "published": "Thu, 11 Jun 2026 19:44:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why VALORANT Can't Come to Mac — And Why It Doesn't Have to Stay That Way",
-      "link": "https://dev.to/justice_montgomerywalkup_/why-valorant-cant-come-to-mac-and-why-it-doesnt-have-to-stay-that-way-4972",
-      "summary": "VALORANT isn't on macOS. Not because Riot doesn't want it there, not because\nApple Silicon can't run it — but because of a single implementation detail:\nApple effectively bans third-party kernel drivers, and Riot's anti-",
+      "title": "The X-Inertia cache trap: Cloudflare, Vary, and edge-cached HTML",
+      "link": "https://dev.to/andreasbergstrom/the-x-inertia-cache-trap-cloudflare-vary-and-edge-cached-html-90e",
+      "summary": "I clicked the logo on one of my Laravel + Inertia sites and the homepage rendered inside Inertia's error modal — in production, on a 200 response. The cause: Inertia serves HTML and JSON under the same URL, my app had op",
       "image": "",
-      "published": "Thu, 11 Jun 2026 15:05:02 +0000",
+      "published": "Thu, 11 Jun 2026 19:37:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Managing context across Claude is a mess. Here's what fixed it for me.",
-      "link": "https://dev.to/sf1997-spec/managing-context-across-claude-is-a-mess-heres-what-fixed-it-for-me-3c4j",
-      "summary": "I use Claude in too many forms. The chat app for quick questions. Projects for the longer-running stuff. The desktop app. The API in a couple of scripts. And Claude Code in the terminal for anything that touches a real c",
+      "title": "Apple Goes Agentic: AI Week of June 4-11, 2026",
+      "link": "https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm",
+      "summary": "Apple rebuilt its developer stack around AI agents at WWDC 2026 this week. At the same time, Microsoft's new coding model reached real users, a supply chain attack hit 13 AI coding tools, and the protocol layer under all",
       "image": "",
-      "published": "Thu, 11 Jun 2026 15:01:25 +0000",
+      "published": "Thu, 11 Jun 2026 19:34:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Ktav: I got fed up with every config format, so I built one with no quotes, no commas, no indentation hell",
-      "link": "https://dev.to/phpcraftdream/ktav-i-got-fed-up-with-every-config-format-so-i-built-one-with-no-quotes-no-commas-no-54an",
-      "summary": "This started as a rage-quit from config files.\n\nI was hacking on a hobby project — a SOCKS5 proxy rotator — and every time I needed to tweak launch configs, I'd lose time fighting the format itself instead of the actual ",
+      "title": "Hello IT World! Why I’m \"Learning in Public\" at sandycodesdev 🚀",
+      "link": "https://dev.to/sandeepa_karunanayake_d34/title-hello-it-world-why-im-learning-in-public-at-sandycodesdev-25lg",
+      "summary": "Hey guys! 👋\n\nMy name is Sandeepa (but you can call me Sandy). I’m a third-year software engineering undergraduate student at SLIIT.\n\nIf you are reading this, you are catching me right at the starting line of a massive ca",
       "image": "",
-      "published": "Thu, 11 Jun 2026 14:50:36 +0000",
+      "published": "Thu, 11 Jun 2026 19:29:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
