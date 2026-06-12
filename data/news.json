@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-11T20:04:29.073484Z",
+  "updated": "2026-06-12T02:05:36.604242Z",
   "articles": [
+    {
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest.\n\nGoogle's Mandi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpNcbfulhruio1VSh8OPKOjdx3gvP-Chg8OjSm7LZeVK2GaVR-osKeoQjO9e1_56Dtedmlisu76lYc70Wv5I1efqJcs2uh1RnbKJOITEcqcJoN-8PhNfmzAeLkDrST8Kg3qTbqE8wUrOd4jxE-gMi-vKN1B8W2zgY0ymFTtip79RVltY9J3QmXrAOJa4H/s1600/shinyHunters-universities.jpg",
+      "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
       "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones b",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png",
-      "published": "Thu, 11 Jun 2026 18:50:41 +0530",
-      "source": "The Hacker News",
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "summary": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 19:14:16 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Maine breach portal abused to publish fake data breach disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the cl",
+      "image": "",
+      "published": "Thu, 11 Jun 2026 18:44:58 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
       "image": "",
       "published": "Thu, 11 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affec",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 08:52:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
-      "image": "",
-      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: A police department for your Claude Code agents",
-      "link": "https://github.com/varmabudharaju/agent-pd/blob/master/README.md",
-      "summary": "Article URL: https://github.com/varmabudharaju/agent-pd/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=48493786\nPoints: 7\n# Comments: 4",
+      "title": "Claude Fable is relentlessly proactive",
+      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/\nComments URL: https://news.ycombinator.com/item?id=48498573\nPoints: 15\n# Comments: 3",
       "image": "",
-      "published": "Thu, 11 Jun 2026 17:47:39 +0000",
+      "published": "Fri, 12 Jun 2026 01:06:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Software Is Made Between Commits",
-      "link": "https://zed.dev/blog/introducing-deltadb",
-      "summary": "Article URL: https://zed.dev/blog/introducing-deltadb\nComments URL: https://news.ycombinator.com/item?id=48492533\nPoints: 120\n# Comments: 71",
+      "title": "Deconstructing Datalog",
+      "link": "https://www.rntz.net/post/my-thesis.html",
+      "summary": "Article URL: https://www.rntz.net/post/my-thesis.html\nComments URL: https://news.ycombinator.com/item?id=48498442\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Thu, 11 Jun 2026 16:28:24 +0000",
+      "published": "Fri, 12 Jun 2026 00:45:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Solar generates more energy in US than coal for first time",
-      "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal\nComments URL: https://news.ycombinator.com/item?id=48492306\nPoints: 281\n# Comments: 123",
+      "title": "Why removing 'um' from a recording is harder than it sounds",
+      "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "summary": "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/\nComments URL: https://news.ycombinator.com/item?id=48498421\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Thu, 11 Jun 2026 16:10:05 +0000",
+      "published": "Fri, 12 Jun 2026 00:42:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Waymo Premier",
-      "link": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "summary": "Article URL: https://waymo.com/blog/2026/06/waymo-premier/\nComments URL: https://news.ycombinator.com/item?id=48492304\nPoints: 91\n# Comments: 176",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+      "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "summary": "Article URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf\nComments URL: https://news.ycombinator.com/item?id=48498385\nPoints: 68\n# Comments: 11",
       "image": "",
-      "published": "Thu, 11 Jun 2026 16:10:02 +0000",
+      "published": "Fri, 12 Jun 2026 00:38:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The RCE that AMD wouldn't fix",
-      "link": "https://mrbruh.com/amd2/",
-      "summary": "Article URL: https://mrbruh.com/amd2/\nComments URL: https://news.ycombinator.com/item?id=48492215\nPoints: 138\n# Comments: 42",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "link": "https://tombedor.dev/human-attention-and-human-effort/",
+      "summary": "Article URL: https://tombedor.dev/human-attention-and-human-effort/\nComments URL: https://news.ycombinator.com/item?id=48497609\nPoints: 268\n# Comments: 73",
       "image": "",
-      "published": "Thu, 11 Jun 2026 16:03:40 +0000",
+      "published": "Thu, 11 Jun 2026 23:01:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Sent 40 Follow-Up Emails After Interview Silence — Two Timings Tripled Replies",
-      "link": "https://dev.to/charliemorrison/i-sent-40-follow-up-emails-after-interview-silence-two-timings-tripled-replies-89l",
-      "summary": "A thank-you email is the easy part. The hard part is the email you send after — the one where the interview went fine, the manager said \"we'll be in touch by Friday,\" and then it is the following Wednesday and you have h",
+      "title": "RAG (Retrieval-Augmented Generation) Explained for Beginners: Build AI Applications Using Your Own Data",
+      "link": "https://dev.to/pavan_barnana_/rag-retrieval-augmented-generation-explained-for-beginners-build-ai-applications-using-your-own-1g50",
+      "summary": "Introduction\n\n\nLarge Language Models (LLMs) such as ChatGPT, Gemini, and Claude are incredibly powerful. They can answer questions, generate code, summarize documents, and assist with various tasks.\n\nHowever, they have o",
       "image": "",
-      "published": "Thu, 11 Jun 2026 19:56:46 +0000",
+      "published": "Fri, 12 Jun 2026 02:01:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Python Developer Roadmap 2026 — From Zero to Job-Ready (No Fluff, Real Sequence)",
-      "link": "https://dev.to/zyvop/python-developer-roadmap-2026-from-zero-to-job-ready-no-fluff-real-sequence-l53",
-      "summary": "The problem with most Python roadmaps is that they are either too shallow (\"just learn the basics!\") or overwhelming lists of 50 tools with no idea of what order to learn them in or how long each stage should take.\n\nThis",
+      "title": "My SaaS Idea Scraper Surfaced 583 Demand Cards This Week — 3 Ideas Worth Building",
+      "link": "https://dev.to/ins199/my-saas-idea-scraper-surfaced-583-demand-cards-this-week-3-ideas-worth-building-1ibh",
+      "summary": "I run DemandRadar, a scraper that hunts for SaaS ideas by analyzing demand signals across the web — Reddit, Product Hunt, payment discovery data, the works. It spits out daily reports with scored opportunities based on r",
       "image": "",
-      "published": "Thu, 11 Jun 2026 19:44:11 +0000",
+      "published": "Fri, 12 Jun 2026 01:42:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The X-Inertia cache trap: Cloudflare, Vary, and edge-cached HTML",
-      "link": "https://dev.to/andreasbergstrom/the-x-inertia-cache-trap-cloudflare-vary-and-edge-cached-html-90e",
-      "summary": "I clicked the logo on one of my Laravel + Inertia sites and the homepage rendered inside Inertia's error modal — in production, on a 200 response. The cause: Inertia serves HTML and JSON under the same URL, my app had op",
+      "title": "A Safer CSV Workflow for Bulk Shopify Shipping Package Updates",
+      "link": "https://dev.to/_172c9b2760d6c5bc1e8966/a-safer-csv-workflow-for-bulk-shopify-shipping-package-updates-ih8",
+      "summary": "Updating package details across a large Shopify catalog is risky when the source spreadsheet mixes product IDs, dimensions, weights, and package assignments.\n\nThe first important distinction: Shopify's normal product CSV",
       "image": "",
-      "published": "Thu, 11 Jun 2026 19:37:26 +0000",
+      "published": "Fri, 12 Jun 2026 01:35:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Apple Goes Agentic: AI Week of June 4-11, 2026",
-      "link": "https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm",
-      "summary": "Apple rebuilt its developer stack around AI agents at WWDC 2026 this week. At the same time, Microsoft's new coding model reached real users, a supply chain attack hit 13 AI coding tools, and the protocol layer under all",
+      "title": "The Parcel That Taught Me Everything",
+      "link": "https://dev.to/ogeobubu/the-parcel-that-taught-me-everything-4kgf",
+      "summary": "Two months ago, my product manager walked up to my desk and said four words: \"We need parcel delivery.\" I nodded confidently. Inside? I had no clue where to start. FoodMartex was already handling food orders—customers or",
       "image": "",
-      "published": "Thu, 11 Jun 2026 19:34:55 +0000",
+      "published": "Fri, 12 Jun 2026 01:35:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hello IT World! Why I’m \"Learning in Public\" at sandycodesdev 🚀",
-      "link": "https://dev.to/sandeepa_karunanayake_d34/title-hello-it-world-why-im-learning-in-public-at-sandycodesdev-25lg",
-      "summary": "Hey guys! 👋\n\nMy name is Sandeepa (but you can call me Sandy). I’m a third-year software engineering undergraduate student at SLIIT.\n\nIf you are reading this, you are catching me right at the starting line of a massive ca",
+      "title": "Scarab Diagnostic Field Test #026 — Next.js Turbopack Denied-Path Watcher Boundary",
+      "link": "https://dev.to/scarab-systems/scarab-diagnostic-field-test-026-nextjs-turbopack-denied-path-watcher-boundary-4pkp",
+      "summary": "Target: vercel/next.js\nIssue: vercel/next.js#81161\nPR: vercel/next.js#94735\nField Lab: https://github.com/scarab-systems/scarab-field-lab\n\nThis field test targeted a Next.js Turbopack development-server issue where memor",
       "image": "",
-      "published": "Thu, 11 Jun 2026 19:29:21 +0000",
+      "published": "Fri, 12 Jun 2026 01:21:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
