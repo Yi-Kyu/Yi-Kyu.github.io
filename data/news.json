@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-12T14:26:14.251773Z",
+  "updated": "2026-06-12T19:47:48.792010Z",
   "articles": [
+    {
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is a Rust binary built t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg",
+      "published": "Sat, 13 Jun 2026 00:54:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.\n\nThe network i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg",
+      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as Velvet Ant, says it b",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg",
+      "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
       "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.\n\nLangGraph is an open-source ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifnUd6CRFC-YdhoEDgmNoLtKUYjbZvqQJOETqK59Zd5Pk_epd9uGMfPCrujB3grOrajNxMls_p7TWQwnyCxFo1Ou8MM70yUh3dP04776sp-xk3O8544Z9YD-v_konqCTv1eX_42iMBkr4j5c-h0_I5dyBWvrr_3jrphGH3xLcZgaDAN1uH8OA5rWerJE5B/s1600/langgraph.jpg",
-      "published": "Fri, 12 Jun 2026 15:20:36 +0530",
-      "source": "The Hacker News",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 15:33:32 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-      "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.\n\nThe effort, codenamed Operation Ramz, took place between Octobe",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcWT1xHrfFw79S9Oy4jvo4Uw-tcziRPU4yzf1sySQQHWcn2S1Q-ke0f75hujKSNOkS375t93N6FrNzo0JXtXBm4lmsk4DQxVQyb8WVWOrQ2QSVBTMKjOexXV5394bYytXtS6putjNb8A0hqLqu7uvuKhGarI8TmwaxtxJebZJJDu6sEP17k6ic0tPSFiB/s1600/phish.jpg",
-      "published": "Fri, 12 Jun 2026 14:22:55 +0530",
-      "source": "The Hacker News",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.\n\nEuropol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"ke",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg",
-      "published": "Fri, 12 Jun 2026 12:08:41 +0530",
-      "source": "The Hacker News",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
       "image": "",
       "published": "Fri, 12 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 07:44:58 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 06:13:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Direct",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 04:26:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "summary": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 03:09:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "WASI 0.3.0 Released",
-      "link": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-      "summary": "Article URL: https://github.com/WebAssembly/WASI/releases/tag/v0.3.0\nComments URL: https://news.ycombinator.com/item?id=48504063\nPoints: 15\n# Comments: 0",
+      "title": "A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial",
+      "link": "https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/\nComments URL: https://news.ycombinator.com/item?id=48507836\nPoints: 58\n# Comments: 12",
       "image": "",
-      "published": "Fri, 12 Jun 2026 13:51:15 +0000",
+      "published": "Fri, 12 Jun 2026 18:40:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SpaceX's president is floating a Tesla merger as the company begins trading",
-      "link": "https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226",
-      "summary": "Article URL: https://qz.com/spacex-tesla-merger-gwynne-shotwell-ipo-061226\nComments URL: https://news.ycombinator.com/item?id=48504013\nPoints: 48\n# Comments: 38",
+      "title": "I Won't Buy You a Coffee",
+      "link": "https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/",
+      "summary": "Article URL: https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/\nComments URL: https://news.ycombinator.com/item?id=48507783\nPoints: 54\n# Comments: 39",
       "image": "",
-      "published": "Fri, 12 Jun 2026 13:47:21 +0000",
+      "published": "Fri, 12 Jun 2026 18:37:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci\nComments URL: https://news.ycombinator.com/item?id=48503717\nPoints: 0\n# Comments: 0",
+      "title": "Cosmodial Sky Atlas",
+      "link": "https://killedbyapixel.github.io/Cosmodial/",
+      "summary": "Article URL: https://killedbyapixel.github.io/Cosmodial/\nComments URL: https://news.ycombinator.com/item?id=48507571\nPoints: 11\n# Comments: 1",
       "image": "",
-      "published": "Fri, 12 Jun 2026 13:14:18 +0000",
+      "published": "Fri, 12 Jun 2026 18:20:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Encrypted Spaces An architecture for collaborative applications",
-      "link": "https://encryptedspaces.org/",
-      "summary": "Article URL: https://encryptedspaces.org/\nComments URL: https://news.ycombinator.com/item?id=48503219\nPoints: 6\n# Comments: 0",
+      "title": "I Am Not a Reverse Centaur",
+      "link": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "summary": "Article URL: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur\nComments URL: https://news.ycombinator.com/item?id=48507282\nPoints: 112\n# Comments: 71",
       "image": "",
-      "published": "Fri, 12 Jun 2026 12:22:07 +0000",
+      "published": "Fri, 12 Jun 2026 17:53:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Maxproof",
-      "link": "https://arxiv.org/abs/2606.13473",
-      "summary": "Article URL: https://arxiv.org/abs/2606.13473\nComments URL: https://news.ycombinator.com/item?id=48503014\nPoints: 62\n# Comments: 3",
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "link": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "summary": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/\nComments URL: https://news.ycombinator.com/item?id=48507278\nPoints: 97\n# Comments: 93",
       "image": "",
-      "published": "Fri, 12 Jun 2026 12:00:02 +0000",
+      "published": "Fri, 12 Jun 2026 17:52:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stop Building the Wrong Thing: How I Use @spec-writer and @planner Before Writing a Single Line of Code",
-      "link": "https://dev.to/panditabhis/stop-building-the-wrong-thing-how-i-use-spec-writer-and-planner-before-writing-a-single-line-of-1jd0",
-      "summary": "I once spent three days building a notification system.\n\nReal-time WebSocket updates. Notification center with read/unread state. Badge counts. Persistence across sessions. It was clean, well-tested, well-reviewed code.\n",
+      "title": "How I Integrated Specmatic Contract Testing into a Real Banking API (ValueMeters)",
+      "link": "https://dev.to/krameshr/how-i-integrated-specmatic-contract-testing-into-a-real-banking-api-valuemeters-cak",
+      "summary": "How I Added Contract Testing to My Banking API Using Specmatic — A Complete Journey\n\n\n\n  \n  \n  My Background\n\n\nI am K. Ramesh, a Full Stack Developer from India specialising in the MERN stack and Java Spring Boot. I rece",
       "image": "",
-      "published": "Fri, 12 Jun 2026 14:17:13 +0000",
+      "published": "Fri, 12 Jun 2026 19:37:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What the Meta software engineer interview is actually like (and how I'd prep)",
-      "link": "https://dev.to/maheshbandaru_ba8cc2/what-the-meta-software-engineer-interview-is-actually-like-and-how-id-prep-5bg4",
-      "summary": "A friend got a Meta recruiter ping last month and immediately texted me \"what do I even do now.\" I'd been through the loop, so I wrote her a long reply. This is basically that reply, cleaned up.\n\nThe first thing worth sa",
+      "title": ".NET 11 vs .NET 10: We Benchmarked Both on a Real Production App (Should You Upgrade?)",
+      "link": "https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh",
+      "summary": "Originally published on PrepStack. Cross-posting the TL;DR here.\n\n\nWe run a multi-tenant analytics SaaS on ASP.NET Core (~110k MAU, ~3,200 req/sec peak, ~95k LOC) and benchmarked .NET 9, .NET 10 (current LTS), and .NET 1",
       "image": "",
-      "published": "Fri, 12 Jun 2026 14:16:50 +0000",
+      "published": "Fri, 12 Jun 2026 19:35:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Connect a Database to Vercel in 10 Minutes (Aurora + Next.js)",
-      "link": "https://dev.to/antwi_erasmus_bcc39d823fd/connect-a-database-to-vercel-in-10-minutes-aurora-nextjs-26d7",
-      "summary": "Most Vercel + Aurora tutorials break at local dev. This one shows the gate check, why vercel env pull fails, and the exact command order to avoid AssumeRoleWithWebIdentity and PAM authentication failed.\n  \n  \nWatch the v",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 14:16:29 +0000",
+      "title": "What Makes An Agent Loop Useful?",
+      "link": "https://dev.to/ebonyl/what-makes-an-agent-loop-useful-d5e",
+      "summary": "Over the last few days, my feed has been filled with posts about agent loops.\n\nThe message is usually some variation of the same idea: stop prompting agents one step at a time and start designing systems that can act, ev",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsw74q33yphlaub6xz0lm.png",
+      "published": "Fri, 12 Jun 2026 19:32:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Helm Charts for a Simple SPA: Over-Engineering or Smart DevOps?",
-      "link": "https://dev.to/sohanaakbar7/helm-charts-for-a-simple-spa-over-engineering-or-smart-devops-1go9",
-      "summary": "Ah, the Single Page Application (SPA). You’ve built it in React, Vue, or Svelte. You’ve run npm run build, and out pops a dist/ folder containing a few .js, .css, and an index.html.\n\nNow comes the boring part: Getting it",
+      "title": "Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained",
+      "link": "https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol",
+      "summary": "Why these Git commands confuse so many beginners\n\n\nA lot of developers use these commands from memory:\n\n\ngit branch -M main\ngit checkout -b feature/inicial\ngit switch -c feature/inicial\ngit push -u origin feature/inicial",
       "image": "",
-      "published": "Fri, 12 Jun 2026 14:15:21 +0000",
+      "published": "Fri, 12 Jun 2026 19:27:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The AI Wardriving Setup That Mapped 40,000 Networks in 72 Hours (And Vanished Without a Trace)",
-      "link": "https://dev.to/numbpill3d/the-ai-wardriving-setup-that-mapped-40000-networks-in-72-hours-and-vanished-without-a-trace-184c",
-      "summary": "Look. I’ve been driving around with a laptop on my lap since the WEP days. I’ve cracked WPA in parking lots. I’ve mapped entire city blocks from the passenger seat of a 2003 Civic with a busted AC. But what I built last ",
+      "title": "Web Testing in 2026 Is Less About Tools and More About Trust",
+      "link": "https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3",
+      "summary": "Web testing has become a lot harder to describe in one sentence.\n\nIt used to be easier to say, “We run some Selenium tests,” or “We use Cypress for frontend testing.”\n\nNow that feels incomplete.\n\nA modern web app can fai",
       "image": "",
-      "published": "Fri, 12 Jun 2026 14:14:21 +0000",
+      "published": "Fri, 12 Jun 2026 19:25:11 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Why Isn’t My 3D View Transition Working?",
+      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "There’s no need to include ‘navigation’ in your navigation labels",
+      "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
+      "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 15:08:38 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+      "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+      "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembere",
+      "image": "",
+      "published": "Wed, 10 Jun 2026 13:02:10 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
+      "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
+      "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\n\nScroll-Dr",
+      "image": "",
+      "published": "Mon, 08 Jun 2026 13:00:34 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Another Stab at the Perfect CSS Pie Chart… Sans JavaScript!",
+      "link": "https://css-tricks.com/another-stab-at-the-perfect-css-pie-chart-sans-javascript/",
+      "summary": "We dive again into CSS Pie Charts! This time, Author Antoine Villepreux delivers semantic and flexible charts without a single line of JS.\n\nAnother Stab at the Perfect CSS Pie Chart&#8230; Sans JavaScript! originally han",
+      "image": "",
+      "published": "Thu, 04 Jun 2026 13:14:49 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
