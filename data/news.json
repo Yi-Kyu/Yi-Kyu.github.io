@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-13T13:16:23.698959Z",
+  "updated": "2026-06-13T19:02:29.310473Z",
   "articles": [
+    {
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vulnerability, tracked",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg",
+      "published": "Sat, 13 Jun 2026 18:53:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
       "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjacking by Tenet S",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg",
-      "published": "Fri, 12 Jun 2026 17:34:33 +0530",
-      "source": "The Hacker News",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "image": "",
+      "published": "Sat, 13 Jun 2026 10:06:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
       "image": "",
       "published": "Fri, 12 Jun 2026 13:54:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "summary": "Article URL: https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko\nComments URL: https://news.ycombinator.com/item?id=48516573\nPoints: 9\n# Comments: 0",
+      "title": "GameBoy Workboy",
+      "link": "https://tcrf.net/Workboy",
+      "summary": "Article URL: https://tcrf.net/Workboy\nComments URL: https://news.ycombinator.com/item?id=48519552\nPoints: 21\n# Comments: 2",
       "image": "",
-      "published": "Sat, 13 Jun 2026 12:20:05 +0000",
+      "published": "Sat, 13 Jun 2026 17:43:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-      "link": "https://hallucinate.site/gallery",
-      "summary": "Article URL: https://hallucinate.site/gallery\nComments URL: https://news.ycombinator.com/item?id=48516510\nPoints: 27\n# Comments: 6",
+      "title": "PwC Report: AI Making Medical Bills Higher",
+      "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/\nComments URL: https://news.ycombinator.com/item?id=48519519\nPoints: 16\n# Comments: 2",
       "image": "",
-      "published": "Sat, 13 Jun 2026 12:11:35 +0000",
+      "published": "Sat, 13 Jun 2026 17:39:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "link": "https://github.com/tensorzero/tensorzero",
-      "summary": "Article URL: https://github.com/tensorzero/tensorzero\nComments URL: https://news.ycombinator.com/item?id=48516504\nPoints: 3\n# Comments: 1",
+      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 146\n# Comments: 140",
       "image": "",
-      "published": "Sat, 13 Jun 2026 12:10:47 +0000",
+      "published": "Sat, 13 Jun 2026 16:57:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Packages",
-      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-      "summary": "Article URL: https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500\nComments URL: https://news.ycombinator.com/item?id=48516379\nPoints: 51\n# Comments: 5",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html\nComments URL: https://news.ycombinator.com/item?id=48519011\nPoints: 34\n# Comments: 3",
       "image": "",
-      "published": "Sat, 13 Jun 2026 11:55:30 +0000",
+      "published": "Sat, 13 Jun 2026 16:49:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "link": "https://github.com/Paca-AI/paca",
-      "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable ",
+      "title": "AI Coding at Home Without Going Broke",
+      "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 94\n# Comments: 90",
       "image": "",
-      "published": "Sat, 13 Jun 2026 09:44:25 +0000",
+      "published": "Sat, 13 Jun 2026 16:45:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "TypeScript Mapped Types: The Feature That Changes How You Design Types",
-      "link": "https://dev.to/kaithorne/typescript-mapped-types-the-feature-that-changes-how-you-design-types-5dep",
-      "summary": "You've written this before:\n\n\n\ninterface User {\n  id: number;\n  name: string;\n  email: string;\n  role: 'admin' | 'user';\n}\n\ninterface UserFormState {\n  id: boolean;\n  name: boolean;\n  email: boolean;\n  role: boolean;\n}\n\n",
+      "title": "I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev",
+      "link": "https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi",
+      "summary": "I was working on a project and needed to convert some Markdown to HTML. Searched for it online, found a site, done. Next day I needed HTML back to Markdown. Searched again, different site. Then JSON to CSV. Then somethin",
       "image": "",
-      "published": "Sat, 13 Jun 2026 13:06:23 +0000",
+      "published": "Sat, 13 Jun 2026 18:57:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Vibe coding fades as Karpathy pioneers agentic engineering in AI evolution",
-      "link": "https://dev.to/davekurian/vibe-coding-fades-as-karpathy-pioneers-agentic-engineering-in-ai-evolution-5451",
-      "summary": "Is vibe coding dead? A year ago, most AI-heavy founders rode its wave, writing plain-English prompts and letting models do the rest. Now, with Andrej Karpathy publicly moving on and championing agentic engineering, a sha",
+      "title": "Types of loops in JS",
+      "link": "https://dev.to/annapoo/types-of-loops-in-js-2135",
+      "summary": "Programming is all about solving problems efficiently. Two concepts that play a major role in writing reusable and efficient programs are loops and functions.\n\nLoops help us perform repetitive tasks without writing the s",
       "image": "",
-      "published": "Sat, 13 Jun 2026 13:04:32 +0000",
+      "published": "Sat, 13 Jun 2026 18:56:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Essential Skills to Put on a Resume in 2026 (With Examples)",
-      "link": "https://dev.to/saraah/essential-skills-to-put-on-a-resume-in-2026-with-examples-1n0b",
-      "summary": "Introduction\n\n\nYour skills section can make or break your resume. Recruiters spend\n  an average of 6 seconds scanning resumes, and the skills section\n  is one of the first places they look.\n\nBut here's the problem: most ",
+      "title": "Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam",
+      "link": "https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07",
+      "summary": "Dulu, nyari query yang bikin database spike itu bisa makan berhari-hari. Yang nyari capek, yang nge-fix juga capek. Sekarang? Hitungan jam — dan bonusnya, sambil belajar hal baru juga.\n\n\n\n\nCeritanya begini. Kalau kamu pe",
       "image": "",
-      "published": "Sat, 13 Jun 2026 13:00:41 +0000",
+      "published": "Sat, 13 Jun 2026 18:55:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The awkward middle ground between full-stack and cloud infrastructure",
-      "link": "https://dev.to/jay_patel/the-awkward-middle-ground-between-full-stack-and-cloud-infrastructure-23d7",
-      "summary": "Hey guys,\n\nLately, I’ve been trying to bridge the gap between my day-to-day work as a full-stack MERN dev and the infrastructure side of things as an associate cloud engineer.\n\nHonestly, the deeper I go down this rabbit ",
+      "title": "How API Testing Levelled Up My QA Career (And Why Most Engineers Skip It)",
+      "link": "https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g",
+      "summary": "The Moment I Realised UI Testing Wasn't Enough\n\n\nThree years into my QA career, I thought I was doing well.\n\nI had a solid Selenium suite running. Regression coverage was green. Stakeholders were happy.\n\nThen a productio",
       "image": "",
-      "published": "Sat, 13 Jun 2026 13:00:06 +0000",
+      "published": "Sat, 13 Jun 2026 18:52:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Using SurrealDB Graph Queries to Power Video Recommendations",
-      "link": "https://dev.to/ahmet_gedik778845/using-surrealdb-graph-queries-to-power-video-recommendations-303c",
-      "summary": "Our recommendation logic at ViralVidVault used to be a 280-line SQLite query with six self-joins. Every time a European visitor finished a viral clip, we wanted to answer one question: what should play next? The honest v",
+      "title": "I built a free extension to track Claude's usage limits before you hit them",
+      "link": "https://dev.to/martin_511ea87a455763cb29/i-built-a-free-extension-to-track-claudes-usage-limits-before-you-hit-them-4h74",
+      "summary": "If you use Claude daily, you've probably hit a wall mid-task. The reason it's so easy: Claude doesn't have one limit. It has several.\n\n\nA rolling 5-hour session window\nA weekly pool shared by all models\n\nSeparate weekly ",
       "image": "",
-      "published": "Sat, 13 Jun 2026 13:00:01 +0000",
+      "published": "Sat, 13 Jun 2026 18:46:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
