@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:02:29.310473Z",
+  "updated": "2026-06-14T02:08:07.207064Z",
   "articles": [
     {
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "summary": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused",
+      "image": "",
+      "published": "Sat, 13 Jun 2026 16:53:13 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
       "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
@@ -79,15 +88,6 @@
       "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
       "image": "",
       "published": "Fri, 12 Jun 2026 14:19:34 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GameBoy Workboy",
-      "link": "https://tcrf.net/Workboy",
-      "summary": "Article URL: https://tcrf.net/Workboy\nComments URL: https://news.ycombinator.com/item?id=48519552\nPoints: 21\n# Comments: 2",
+      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "summary": "Article URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/\nComments URL: https://news.ycombinator.com/item?id=48523271\nPoints: 15\n# Comments: 4",
       "image": "",
-      "published": "Sat, 13 Jun 2026 17:43:02 +0000",
+      "published": "Sun, 14 Jun 2026 01:23:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PwC Report: AI Making Medical Bills Higher",
-      "link": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-      "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/\nComments URL: https://news.ycombinator.com/item?id=48519519\nPoints: 16\n# Comments: 2",
+      "title": "4 things to know about the new sunscreen ingredient the FDA approved",
+      "link": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+      "summary": "Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol\nComments URL: https://news.ycombinator.com/item?id=48523203\nPoints: 30\n# Comments: 1",
       "image": "",
-      "published": "Sat, 13 Jun 2026 17:39:14 +0000",
+      "published": "Sun, 14 Jun 2026 01:10:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-      "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "summary": "Article URL: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 146\n# Comments: 140",
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html\nComments URL: https://news.ycombinator.com/item?id=48522675\nPoints: 33\n# Comments: 3",
       "image": "",
-      "published": "Sat, 13 Jun 2026 16:57:49 +0000",
+      "published": "Sat, 13 Jun 2026 23:52:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The adder at the heart of Intel's 8087 floating-point chip",
-      "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-      "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html\nComments URL: https://news.ycombinator.com/item?id=48519011\nPoints: 34\n# Comments: 3",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "link": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life\nComments URL: https://news.ycombinator.com/item?id=48522486\nPoints: 90\n# Comments: 10",
       "image": "",
-      "published": "Sat, 13 Jun 2026 16:49:42 +0000",
+      "published": "Sat, 13 Jun 2026 23:22:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI Coding at Home Without Going Broke",
-      "link": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/\nComments URL: https://news.ycombinator.com/item?id=48518969\nPoints: 94\n# Comments: 90",
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "link": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "summary": "Article URL: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains\nComments URL: https://news.ycombinator.com/item?id=48522310\nPoints: 16\n# Comments: 1",
       "image": "",
-      "published": "Sat, 13 Jun 2026 16:45:03 +0000",
+      "published": "Sat, 13 Jun 2026 22:54:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev",
-      "link": "https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi",
-      "summary": "I was working on a project and needed to convert some Markdown to HTML. Searched for it online, found a site, done. Next day I needed HTML back to Markdown. Searched again, different site. Then JSON to CSV. Then somethin",
+      "title": "How I Fixed My AI Chatbot's Laggy Responses with Server-Sent Events",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/how-i-fixed-my-ai-chatbots-laggy-responses-with-server-sent-events-5404",
+      "summary": "I've been building a personal AI assistant for my developer blog – you know, one of those floating chat widgets that answers questions about my projects. The idea was simple: feed in my content, hook it up to an AI API, ",
       "image": "",
-      "published": "Sat, 13 Jun 2026 18:57:13 +0000",
+      "published": "Sun, 14 Jun 2026 02:00:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Types of loops in JS",
-      "link": "https://dev.to/annapoo/types-of-loops-in-js-2135",
-      "summary": "Programming is all about solving problems efficiently. Two concepts that play a major role in writing reusable and efficient programs are loops and functions.\n\nLoops help us perform repetitive tasks without writing the s",
+      "title": "React.js ~Clean Code Practical Use~",
+      "link": "https://dev.to/kkr0423/reactjs-clean-code-practical-use-10kg",
+      "summary": "1. The codebase should be created for concentrating on &lt;&gt;JSX Section&lt;/&gt;\n\n-The JSX section can often be modified after release.\n\n\nSeparate a data-fetching section from the view section.\n\n\n\n\n// NG🤔 You can not ",
       "image": "",
-      "published": "Sat, 13 Jun 2026 18:56:47 +0000",
+      "published": "Sun, 14 Jun 2026 01:50:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam",
-      "link": "https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07",
-      "summary": "Dulu, nyari query yang bikin database spike itu bisa makan berhari-hari. Yang nyari capek, yang nge-fix juga capek. Sekarang? Hitungan jam — dan bonusnya, sambil belajar hal baru juga.\n\n\n\n\nCeritanya begini. Kalau kamu pe",
+      "title": "Creating your own Remote Cache Server for Nx and Lerna with Cacheiro",
+      "link": "https://dev.to/rerodrigues/creating-your-own-remote-cache-server-for-nx-and-lerna-with-cacheiro-2dcg",
+      "summary": "🌐 Este artigo também está disponível em Português.\n\n\nIf you work with monorepos using Nx or Lerna, you already know that remote caching is practically a superpower. The ability to run a build, test, or lint in your CI pi",
       "image": "",
-      "published": "Sat, 13 Jun 2026 18:55:19 +0000",
+      "published": "Sun, 14 Jun 2026 01:40:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How API Testing Levelled Up My QA Career (And Why Most Engineers Skip It)",
-      "link": "https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g",
-      "summary": "The Moment I Realised UI Testing Wasn't Enough\n\n\nThree years into my QA career, I thought I was doing well.\n\nI had a solid Selenium suite running. Regression coverage was green. Stakeholders were happy.\n\nThen a productio",
+      "title": "Criando seu próprio Servidor de Cache Remoto para Nx e Lerna com o Cacheiro",
+      "link": "https://dev.to/rerodrigues/criando-seu-proprio-servidor-de-cache-remoto-para-nx-e-lerna-com-o-cacheiro-48a8",
+      "summary": "🌐 This article is also available in English.\n\n\nSe você trabalha com monorepos usando Nx ou Lerna, sabe que o cache remoto é praticamente um superpoder. A capacidade de rodar um build, teste ou lint no CI (ou na máquina d",
       "image": "",
-      "published": "Sat, 13 Jun 2026 18:52:51 +0000",
+      "published": "Sun, 14 Jun 2026 01:32:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a free extension to track Claude's usage limits before you hit them",
-      "link": "https://dev.to/martin_511ea87a455763cb29/i-built-a-free-extension-to-track-claudes-usage-limits-before-you-hit-them-4h74",
-      "summary": "If you use Claude daily, you've probably hit a wall mid-task. The reason it's so easy: Claude doesn't have one limit. It has several.\n\n\nA rolling 5-hour session window\nA weekly pool shared by all models\n\nSeparate weekly ",
+      "title": "I Cut RAG Costs 65% With DeepSeek + ChromaDB — Full Data",
+      "link": "https://dev.to/rileykim/i-cut-rag-costs-65-with-deepseek-chromadb-full-data-lcc",
+      "summary": "I Cut RAG Costs 65% With DeepSeek + ChromaDB — Full Data\n\nLast quarter my team burned through $14,800 on a single RAG workload. That's not a typo. I stared at the invoice like it owed me money, and honestly, it kind of d",
       "image": "",
-      "published": "Sat, 13 Jun 2026 18:46:45 +0000",
+      "published": "Sun, 14 Jun 2026 01:26:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
