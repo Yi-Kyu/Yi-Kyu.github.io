@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T08:57:28.989728Z",
+  "updated": "2026-06-14T13:21:37.696151Z",
   "articles": [
     {
       "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "The Birth and Death of JavaScript (2014)",
+      "link": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "summary": "Article URL: https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript\nComments URL: https://news.ycombinator.com/item?id=48526661\nPoints: 20\n# Comments: 6",
+      "image": "",
+      "published": "Sun, 14 Jun 2026 12:38:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "How to Earn a Billion Dollars",
+      "link": "https://paulgraham.com/earn.html",
+      "summary": "Article URL: https://paulgraham.com/earn.html\nComments URL: https://news.ycombinator.com/item?id=48526360\nPoints: 37\n# Comments: 78",
+      "image": "",
+      "published": "Sun, 14 Jun 2026 11:50:48 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Don't trust large context windows",
       "link": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL: https://news.ycombinator.com/item?id=48524620\nPoints: 63\n# Comments: 47",
+      "summary": "Article URL: https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows\nComments URL: https://news.ycombinator.com/item?id=48524620\nPoints: 158\n# Comments: 110",
       "image": "",
       "published": "Sun, 14 Jun 2026 06:07:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Consciousness likely not unique to earthlings, paper says",
-      "link": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
-      "summary": "Article URL: https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says\nComments URL: https://news.ycombinator.com/item?id=48524447\nPoints: 30\n# Comments: 30",
-      "image": "",
-      "published": "Sun, 14 Jun 2026 05:27:45 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Tribblix: The retro Illumos distribution",
       "link": "http://tribblix.org/",
-      "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 32\n# Comments: 9",
+      "summary": "Article URL: http://tribblix.org/\nComments URL: https://news.ycombinator.com/item?id=48524434\nPoints: 55\n# Comments: 20",
       "image": "",
       "published": "Sun, 14 Jun 2026 05:23:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Phoenix LiveView 1.2 Released",
+      "title": "Phoenix LiveView 1.2",
       "link": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
-      "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released\nComments URL: https://news.ycombinator.com/item?id=48524293\nPoints: 86\n# Comments: 15",
+      "summary": "Article URL: https://phoenixframework.org/blog/phoenix-liveview-1-2-released\nComments URL: https://news.ycombinator.com/item?id=48524293\nPoints: 145\n# Comments: 38",
       "image": "",
       "published": "Sun, 14 Jun 2026 04:53:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pac-Man, but you're the ghost",
-      "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-      "summary": "Article URL: https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost\nComments URL: https://news.ycombinator.com/item?id=48524135\nPoints: 80\n# Comments: 36",
+      "title": "Bun rewrote itself from Zig to Rust using an LLM in 9 days. That should terrify you.",
+      "link": "https://dev.to/adioof/bun-rewrote-itself-from-zig-to-rust-using-an-llm-in-9-days-that-should-terrify-you-5om",
+      "summary": "A major runtime just got machine-translated to a completely different language and merged in under two weeks. Let me say that again slowly.\n\nBun, the JavaScript runtime that the community keeps considering for a serious ",
       "image": "",
-      "published": "Sun, 14 Jun 2026 04:18:45 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-      "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
-      "summary": "Hashing text is easy until you try to make the same workflow feel clean across different environments.\n\nIn the browser, you usually reach for the Web Crypto API. For files, that means working with File or Blob objects an",
-      "image": "",
-      "published": "Sun, 14 Jun 2026 08:51:03 +0000",
+      "published": "Sun, 14 Jun 2026 13:10:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Swift Functions — Returning Values and When to Skip the Return Keyword 📤",
-      "link": "https://dev.to/gamya_m/swift-functions-returning-values-and-when-to-skip-the-return-keyword-4ejf",
-      "summary": "In our last article we learned how to create functions and pass data into them. But functions can also send data back — they do some work and return the result. That's what makes them truly powerful. 🧠\n\n\n\n\n\n  \n  \n  📤 Ret",
+      "title": "Understanding Memory Usage in Django Webserver Workers",
+      "link": "https://dev.to/djangotricks/understanding-memory-usage-in-django-webserver-workers-3opk",
+      "summary": "If you are coming from the PHP world, you might be used to thinking that when a request reaches the web server, everything is parsed and processed from scratch. In Python, however, the behavior is a little different.\n\nA ",
       "image": "",
-      "published": "Sun, 14 Jun 2026 08:44:00 +0000",
+      "published": "Sun, 14 Jun 2026 13:07:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Approval Is Not Enough: Building a Sub‑Microsecond Runtime Governance Gate in Rust",
-      "link": "https://dev.to/akhilesh_warik_8032f0fd9d/approval-is-not-enough-building-a-sub-microsecond-runtime-governance-gate-in-rust-pf4",
-      "summary": "Most AI governance systems check approval once. Then they assume the agent is still authorised to act.\n\nThat assumption fails silently.\nPolicy changes. Delegation revokes. Evidence expires. Yet the agent continues execut",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flh0k9zlojlu9c6y7zx59.png",
-      "published": "Sun, 14 Jun 2026 08:38:20 +0000",
+      "title": "Kakunin introduces cryptographic compliance shield to secure AI agents",
+      "link": "https://dev.to/davekurian/kakunin-introduces-cryptographic-compliance-shield-to-secure-ai-agents-30k9",
+      "summary": "How the cryptographic compliance shield secures autonomous AI agents\n\nAutonomous AI agents now make critical decisions in everything from enterprise workflows to financial markets. But most AI agent security still relies",
+      "image": "",
+      "published": "Sun, 14 Jun 2026 13:06:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Define the state of our agent",
-      "link": "https://dev.to/maria_josegonzalezantel_80/define-the-state-of-our-agent-43e7",
-      "summary": "Meta: Learn how to eliminate LLM hallucinations in career coaching apps using Agentic Workflows and RAG, as seen in the architecture of CVChatly.\n\n\n\n\n\n  The Problem: LLMs often hallucinate career advice or fabricate resu",
+      "title": "How I automated markdown docs from UI screenshots using AI",
+      "link": "https://dev.to/__c1b9e06dc90a7e0a676b/how-i-automated-markdown-docs-from-ui-screenshots-using-ai-obg",
+      "summary": "Last month I was knee-deep in documenting a React component library I’d been building for six months. The library had 40+ components, each with 5–10 props, and I wanted to show actual UI screenshots alongside code exampl",
       "image": "",
-      "published": "Sun, 14 Jun 2026 08:35:58 +0000",
+      "published": "Sun, 14 Jun 2026 13:04:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Terraform vs Pulumi: IaC Tools Compared",
-      "link": "https://dev.to/devopsstart/terraform-vs-pulumi-iac-tools-compared-2hmc",
-      "summary": "Overview\n\n\nTerraform and Pulumi are the two leading infrastructure as code tools. Terraform uses HCL (HashiCorp Configuration Language) while Pulumi lets you use general-purpose programming languages like Python, TypeScr",
+      "title": "Building a Sports E-Commerce Shop with Django — My Full Stack Journey",
+      "link": "https://dev.to/ajmalmubarak/building-a-sports-e-commerce-shop-with-django-my-full-stack-journey-3kc6",
+      "summary": "Hey developers! I'm Ajmal Mubarak, a Python Full Stack \nWeb Developer from Iritty, Kannur, Kerala, India.\n\nToday I'm sharing how I built a full-stack Sports \nE-Commerce Shop using Django.\n\n🌐 My portfolio: ajmalmubarak.in",
       "image": "",
-      "published": "Sun, 14 Jun 2026 08:35:55 +0000",
+      "published": "Sun, 14 Jun 2026 13:03:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
