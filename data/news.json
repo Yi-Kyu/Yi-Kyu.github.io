@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-15T16:47:17.754537Z",
+  "updated": "2026-06-15T20:41:27.627501Z",
   "articles": [
+    {
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void D",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg",
+      "published": "Tue, 16 Jun 2026 01:02:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed\n\nLiteLLM is a widely deployed open-sourc",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg",
+      "published": "Mon, 15 Jun 2026 22:09:01 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
       "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-      "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family.\n\nThe cluster spans 38 separate Chr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEEp49DrIDRyHxMpdUoO-A9TL3T6P-7mUwImILVRSRl940D39uZbouVIhM1j8ZVEpxfTskTrLB5qrDDQ07yp7TFGTXSBhQqlwNLyN49sCW38MZds5YQP_c1lhrkl0aizSaU0ZpBpf9NS3WGD9k5BZhh52ZDuyrtxSwUrXgkjRnWMAgLq3FT6dLG0sCAfh/s1600/chrome-traffic.jpg",
-      "published": "Mon, 15 Jun 2026 16:37:50 +0530",
-      "source": "The Hacker News",
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+      "image": "",
+      "published": "Mon, 15 Jun 2026 16:06:52 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.\n\nWhen a site administrator was logged i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5TE5Z8cG6zx7J64PdC2qxAh0h0o-KRwA1vEBvunxSEWkh5QmlsaIe2zKWUL7yX28chYs9zWMwA6eBcmTzfRIaKtyI53hKlLTSar9d4EMnjPQiY8KoQ0JldPkCQvc6B4EbO2ktcQV07rr4nf_RFBnA_eNHXChsNTOzvB3Fv7-0ENUDa8W8ut1rAdVOFAjh/s1600/wordpress.jpg",
-      "published": "Mon, 15 Jun 2026 15:29:38 +0530",
-      "source": "The Hacker News",
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
+      "image": "",
+      "published": "Mon, 15 Jun 2026 13:37:07 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "image": "",
+      "published": "Mon, 15 Jun 2026 13:12:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
       "image": "",
       "published": "Mon, 15 Jun 2026 11:30:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challeng",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL.",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 09:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-      "link": "https://v1c.rocks/log/exploiting-slack-video/",
-      "summary": "Article URL: https://v1c.rocks/log/exploiting-slack-video/\nComments URL: https://news.ycombinator.com/item?id=48542970\nPoints: 9\n# Comments: 1",
+      "title": "I Love the Computer",
+      "link": "https://michaelenger.com/blog/i-love-the-computer/",
+      "summary": "Article URL: https://michaelenger.com/blog/i-love-the-computer/\nComments URL: https://news.ycombinator.com/item?id=48546441\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Mon, 15 Jun 2026 15:43:17 +0000",
+      "published": "Mon, 15 Jun 2026 20:14:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Iroh 1.0",
-      "link": "https://www.iroh.computer/blog/v1",
-      "summary": "Article URL: https://www.iroh.computer/blog/v1\nComments URL: https://news.ycombinator.com/item?id=48542480\nPoints: 263\n# Comments: 72",
+      "title": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+      "link": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
+      "summary": "Article URL: https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083\nComments URL: https://news.ycombinator.com/item?id=48546358\nPoints: 16\n# Comments: 1",
       "image": "",
-      "published": "Mon, 15 Jun 2026 15:13:06 +0000",
+      "published": "Mon, 15 Jun 2026 20:06:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My Homelab AI Dev Platform",
-      "link": "https://rsgm.dev/post/ai-dev-platform/",
-      "summary": "Article URL: https://rsgm.dev/post/ai-dev-platform/\nComments URL: https://news.ycombinator.com/item?id=48542433\nPoints: 27\n# Comments: 6",
+      "title": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+      "link": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/\nComments URL: https://news.ycombinator.com/item?id=48546306\nPoints: 2",
       "image": "",
-      "published": "Mon, 15 Jun 2026 15:09:40 +0000",
+      "published": "Mon, 15 Jun 2026 20:02:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fox Is Buying Roku",
-      "link": "https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger",
-      "summary": "Article URL: https://www.fastcompany.com/91559558/fox-corp-buying-roku-stock-prices-fall-on-tv-streaming-merger\nComments URL: https://news.ycombinator.com/item?id=48542209\nPoints: 71\n# Comments: 7",
+      "title": "A backdoor in a LinkedIn job offer",
+      "link": "https://roman.pt/posts/linkedin-backdoor/",
+      "summary": "Article URL: https://roman.pt/posts/linkedin-backdoor/\nComments URL: https://news.ycombinator.com/item?id=48546294\nPoints: 54\n# Comments: 7",
       "image": "",
-      "published": "Mon, 15 Jun 2026 14:55:50 +0000",
+      "published": "Mon, 15 Jun 2026 20:00:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "link": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "summary": "Article URL: https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins\nComments URL: https://news.ycombinator.com/item?id=48542132\nPoints: 68\n# Comments: 17",
+      "title": "The Alaska Server",
+      "link": "https://serialport.org/blog/the-alaska-server/",
+      "summary": "Article URL: https://serialport.org/blog/the-alaska-server/\nComments URL: https://news.ycombinator.com/item?id=48545293\nPoints: 15\n# Comments: 1",
       "image": "",
-      "published": "Mon, 15 Jun 2026 14:48:47 +0000",
+      "published": "Mon, 15 Jun 2026 18:37:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built 57 browser-based dev tools in a month — here's how the architecture works",
-      "link": "https://dev.to/michael_schroeder_ea5e99d/i-built-57-browser-based-dev-tools-in-a-month-heres-how-the-architecture-works-38pc",
-      "summary": "About a month ago, I launched UtilYard, a free collection of developer tools, text utilities, finance calculators, and image tools all in one place:\n\nhttps://utilyard.com\n\nI had a simple goal for the site. Create a clean",
+      "title": "How I Built a Zero-Dependency Token Compressor for AI Coding Agents (During My High School Exams)",
+      "link": "https://dev.to/raxyl00/how-i-built-a-zero-dependency-token-compressor-for-ai-coding-agents-during-my-high-school-exams-3ihh",
+      "summary": "as developers, we are spending more and more time working alongside AI coding agents like Cursor, Claude Code, GitHub Copilot, Windsurf, or Cline. \n\nBut as your session grows, you quickly run into two major problems:\n\n\n\n",
       "image": "",
-      "published": "Mon, 15 Jun 2026 16:41:29 +0000",
+      "published": "Mon, 15 Jun 2026 20:37:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a JS/TS runtime in Rust where nothing runs without your permission",
-      "link": "https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-4efp",
-      "summary": "Last week I shipped v2.0.2 of 3va — a JavaScript and TypeScript runtime written in Rust. Here is why I built it and what makes it different from Node.js, Bun, and Deno.\n\n\n\n\n\n  \n  \n  The problem\n\n\nIn 2024, the xz backdoor",
+      "title": "End of the Year idea for DEV?",
+      "link": "https://dev.to/devengers/end-of-the-year-idea-for-dev-f8p",
+      "summary": "Hey all!\n\nI have this thought in mind that we should all come together as a community to celebrate the end of the year.\n\nI am planning on doing this yearly under the DEVenger org, but I don't have any ideas as of now. We",
       "image": "",
-      "published": "Mon, 15 Jun 2026 16:39:42 +0000",
+      "published": "Mon, 15 Jun 2026 20:24:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a 1:1 solar system with Fable 5 in the days before it was pulled offline",
-      "link": "https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni",
-      "summary": "I built a 1:1 solar system with Fable 5 in the days before it was pulled offline\n\n\n  \n  \n\n\n\n  \n  \n    \n  \n\n\n\nOn June 9, Anthropic released Claude Fable 5 — the most capable model they'd ever made publicly available. I us",
+      "title": "What is DevOps? A Plain English Guide",
+      "link": "https://dev.to/agenticdevops/what-is-devops-a-plain-english-guide-chd",
+      "summary": "Pipeline &amp; Prompts | Byte size guides on DevOps, Cloud and AI\n\n\n\n\n\n  \n  \n  Ever Wondered How Netflix Never Seems to Go Down?\n\n\nThink about this for a second. Netflix has over 260 million subscribers worldwide. People",
       "image": "",
-      "published": "Mon, 15 Jun 2026 16:33:46 +0000",
+      "published": "Mon, 15 Jun 2026 20:21:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a JS/TS runtime in Rust where nothing runs without your permission",
-      "link": "https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-b6b",
-      "summary": "Last week I shipped v2.0.0 of 3va — a JavaScript and TypeScript runtime written in Rust. Here is why I built it and what makes it different from Node.js, Bun, and Deno.\nThe problem\nIn 2024, the xz backdoor was hidden ins",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 16:29:40 +0000",
+      "title": "Retry Logic and Tiered Alerting in GitHub Actions",
+      "link": "https://dev.to/agenticdevops/retry-logic-and-tiered-alerting-in-github-actions-4408",
+      "summary": "🛠️ Pipelines in the Wild #2\n\n\n  \n  \n  Byte Size Summary\n\n\nMost pipeline failures are transient — a registry returning a 503, a smoke test catching a slow cold start, a network blip during an image push. Retrying them aut",
+      "image": "https://dev.to/images/diagrams/self-healing-pipelines-retry-alerting-architecture.png",
+      "published": "Mon, 15 Jun 2026 20:21:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I got tired of switching tabs to compare AIs, so I built a Consensus Engine",
-      "link": "https://dev.to/aiverdict/i-got-tired-of-switching-tabs-to-compare-ais-so-i-built-a-consensus-engine-4cnp",
-      "summary": "Like a lot of developers, I’ve integrated AI heavily into my daily workflow. But recently, I ran into a frustrating bottleneck: I couldn't blindly trust a single model.\n\nChatGPT might give a standard, safe answer. Claude",
+      "title": "How I Built an AI Resume Builder with Next.js and OpenAI\nIntro\n The problem: resumes are generic, jobs are specific\n I built CVpilotX to fix this\n\nWhat it does\n Paste job description\n AI rewrites your CV to match it\n Dow",
+      "link": "https://dev.to/subashbelina_c7085b13f7a7/how-i-built-an-ai-resume-builder-with-nextjs-and-openai-intro-the-problem-resumes-are-4l78",
+      "summary": "",
       "image": "",
-      "published": "Mon, 15 Jun 2026 16:28:38 +0000",
+      "published": "Mon, 15 Jun 2026 20:21:11 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "There’s no need to include ‘navigation’ in your navigation labels",
-      "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-      "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:08:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-      "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-      "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembere",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 13:02:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-      "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-      "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\n\nScroll-Dr",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 13:00:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
