@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-16T10:47:27.395680Z",
+  "updated": "2026-06-16T16:16:00.279810Z",
   "articles": [
+    {
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "summary": "Security researchers at&nbsp;Zimperium's zLabs&nbsp;have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands.\n\nTogether, they give an operato",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg",
+      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and p",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjJejsRU4njToU8avtW_XwlouRy_HhUCWBUzgTtjb0e-LWzIO6zQprJ_tRqq6KO0Dvn64NNH35d6lYYadq7WSWAjn4jG_onOHYaJYrdg5CgUeVxyXBQJu7LUIAeVrEhFziJvlITCbj4kN9GSi9vp4ZpRpVwnxYCHKskOjUiFf-KIue9JlZzAJqJZUsxE/s1600/Spur-IP-Intel-Study-Feature.png",
+      "published": "Tue, 16 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
       "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-20262, carries a CVSS score ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-vJIadGle0Cre1cNAxZIcD9ktkl1mPnUwtEtF1xuMbeH75BnvGq3twL0W2OowYW7ZZMxvzMjdbU-VMEZfEvV1q2pTIoG8VU_D0d_rpRqwlViZqUyb1WKcL6pM9Nklx_mISZR2BttoBxMq8w6Z87rf3Stm37ZbcRbAYM0SQeEJqg0T8dc2KsrX1a9l95B7/s1600/cisco-flaw.jpg",
-      "published": "Tue, 16 Jun 2026 11:35:58 +0530",
-      "source": "The Hacker News",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age c",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 10:38:49 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Bran",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweJrEaMuAEZCtL6h2H2XMxWOMGzKSktYq9kDvwXAGvIAt39-gz3irXruUA0KVSSupFdIh13o2F5quHfout07-tOHYK334xgNwRq5WcVbfyL5T1i-jYVCGLuVksBYExOncAm72ZuyRacuSG8a1ssx6jrxN8WcQ5Q91gYN3MYh-rWcY_86jVcbvZJbabPR1/s1600/litespeed.jpg",
-      "published": "Tue, 16 Jun 2026 11:11:52 +0530",
-      "source": "The Hacker News",
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. ",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 10:17:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel ",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 06:47:59 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
       "image": "",
       "published": "Tue, 16 Jun 2026 06:18:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 05:19:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 02:31:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "summary": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the firs",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 17:56:55 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-      "link": "https://trinket.strivemath.org/",
-      "summary": "Article URL: https://trinket.strivemath.org/\nComments URL: https://news.ycombinator.com/item?id=48552723\nPoints: 11\n# Comments: 1",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/\nComments URL: https://news.ycombinator.com/item?id=48556985\nPoints: 15\n# Comments: 5",
       "image": "",
-      "published": "Tue, 16 Jun 2026 09:30:58 +0000",
+      "published": "Tue, 16 Jun 2026 15:39:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "link": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "summary": "Article URL: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827\nComments URL: https://news.ycombinator.com/item?id=48552687\nP",
+      "title": "CJEU: Social networks are the 'publishers' of algorithmically-altered feeds",
+      "link": "https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l",
+      "summary": "Article URL: https://bsky.app/profile/stevepeers.bsky.social/post/3mofdspytds2l\nComments URL: https://news.ycombinator.com/item?id=48556821\nPoints: 12\n# Comments: 3",
       "image": "",
-      "published": "Tue, 16 Jun 2026 09:26:09 +0000",
+      "published": "Tue, 16 Jun 2026 15:30:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Commodore Releases Flip Phone",
-      "link": "https://commodore.net/why-a-flip-phone/",
-      "summary": "Article URL: https://commodore.net/why-a-flip-phone/\nComments URL: https://news.ycombinator.com/item?id=48552614\nPoints: 35\n# Comments: 9",
+      "title": "Fable ban was never about a jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/\nComments URL: https://news.ycombinator.com/item?id=48556785\nPoints: 61\n# Comments: 15",
       "image": "",
-      "published": "Tue, 16 Jun 2026 09:15:31 +0000",
+      "published": "Tue, 16 Jun 2026 15:27:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Understanding the rationale behind a rule when trying to circumvent it",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415\nComments URL: https://news.ycombinator.com/item?id=48551876\nPoints: 31\n# Comments: 6",
+      "title": "Google Chrome's Next Update Will Mark the End of Popular Ad Blockers",
+      "link": "https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers",
+      "summary": "Article URL: https://tech.slashdot.org/story/26/06/15/205219/google-chromes-next-update-will-mark-the-end-of-popular-ad-blockers\nComments URL: https://news.ycombinator.com/item?id=48556414\nPoints: 84\n# Comments: 58",
       "image": "",
-      "published": "Tue, 16 Jun 2026 07:35:27 +0000",
+      "published": "Tue, 16 Jun 2026 15:05:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "summary": "https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\n\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 292\n# Comments: 171",
+      "title": "Subquadratic – Introducing SubQ 1.1 Small",
+      "link": "https://subq.ai/subq-1-1-small-technical-report",
+      "summary": "Article URL: https://subq.ai/subq-1-1-small-technical-report\nComments URL: https://news.ycombinator.com/item?id=48556163\nPoints: 41\n# Comments: 18",
       "image": "",
-      "published": "Tue, 16 Jun 2026 04:58:15 +0000",
+      "published": "Tue, 16 Jun 2026 14:50:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Introducing Security Profiles for Container Permission Management",
-      "link": "https://dev.to/shizuku_198411/introducing-security-profiles-for-container-permission-management-47np",
-      "summary": "Introduction\n\n\nIn this article, I want to introduce Security Profiles, a feature I added to Raind, a container runtime I have been developing.\n\nIn a previous article, I introduced Raind as a runtime that aims to handle D",
+      "title": "USC crea un sistema neuromórfico que se alimenta de la señal que mide",
+      "link": "https://dev.to/lu1tr0n/usc-crea-un-sistema-neuromorfico-que-se-alimenta-de-la-senal-que-mide-ici",
+      "summary": "Un equipo de la Universidad del Sur de California (USC) construyó un sistema neuromórfico del tamaño de una moneda que percibe el mundo, aprende de él y toma decisiones sin batería, sin procesador y sin conexión a la nub",
       "image": "",
-      "published": "Tue, 16 Jun 2026 10:38:19 +0000",
+      "published": "Tue, 16 Jun 2026 16:12:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Workflows vs AI Agent Coordination: Why You Need Both",
-      "link": "https://dev.to/jovansapfioneer/ai-workflows-vs-ai-agent-coordination-why-you-need-both-15dm",
-      "summary": "Workflows define WHAT agents do. Coordination ensures they don't break each other while doing it. Most teams invest heavily in the first and forget the second.\n\n\n\n\n\n  \n  \n  The Article That Sparked This\n\n\nI recently read",
+      "title": "What Is Mock Testing vs Contract Testing — When to Use Each",
+      "link": "https://dev.to/kushoai/what-is-mock-testing-vs-contract-testing-when-to-use-each-2fho",
+      "summary": "Two techniques that look similar on the surface serve completely different purposes beneath the surface and are most powerful when used together.\n\n\n\n\nEvery team building APIs eventually runs into the same wall. You have ",
       "image": "",
-      "published": "Tue, 16 Jun 2026 10:36:43 +0000",
+      "published": "Tue, 16 Jun 2026 16:11:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Copy Math Equations from Claude into Word Without Breaking the Formatting",
-      "link": "https://dev.to/backrun/how-to-copy-math-equations-from-claude-into-word-without-breaking-the-formatting-3l0h",
-      "summary": "If you have ever asked Claude to solve a math problem and then tried to paste the result into Microsoft Word, you already know what happens.\n\nThe regular text looks fine. But the equations turn into a mess of symbols, pl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsbieqcvcihwnojo8si2.png",
-      "published": "Tue, 16 Jun 2026 10:35:39 +0000",
+      "title": "The Agent Worked. The Maintenance Plan Didn't.",
+      "link": "https://dev.to/nolanvale/the-agent-worked-the-maintenance-plan-didnt-3f2l",
+      "summary": "One of the easiest ways to impress stakeholders is to show an AI agent completing a complex workflow.\n\nOne of the hardest things to do is maintain that same workflow six months later.\n\nThose are not the same challenge.\n\n",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 16:10:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your CEP Owns Your In-App UI. Here's What That's Costing You.",
-      "link": "https://dev.to/digia_studio/your-cep-owns-your-in-app-ui-heres-what-thats-costing-you-14p7",
-      "summary": "CleverTap, MoEngage, WebEngage. Three platforms that every serious mobile growth team has either integrated or evaluated. All three are genuinely strong at what they were built for: ingesting user events, building behavi",
+      "title": "💰Don’t Waste Tokens on Data Entry: Tag Customer Reviews Overnight with ZeroGPU Batch API",
+      "link": "https://dev.to/team_zerogpu/-dont-waste-tokens-on-data-entry-tag-customer-reviews-overnight-with-zerogpu-batch-api-1pjf",
+      "summary": "A new cookbook to demonstrate our new Batch API.\n\n\n\n\nMost teams sit on massive backlogs of unstructured text—customer reviews, support tickets, and survey responses. They want to classify it, but doing it one synchronous",
       "image": "",
-      "published": "Tue, 16 Jun 2026 10:35:24 +0000",
+      "published": "Tue, 16 Jun 2026 16:06:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Handling Shadow DOMs in Agentic Scraping Workflows",
-      "link": "https://dev.to/alterlab/handling-shadow-doms-in-agentic-scraping-workflows-4733",
-      "summary": "TL;DR\n\n\nWeb components encapsulate UI and data inside Shadow DOMs, hiding it from standard parsers like BeautifulSoup and document.querySelector. To extract this data, you must use browser automation APIs to pierce the s",
+      "title": "From Walled Garden to Open Road: A DeepSeek API Nestjs Story",
+      "link": "https://dev.to/loyaldash/from-walled-garden-to-open-road-a-deepseek-api-nestjs-story-1poi",
+      "summary": "So here's what happened: from Walled Garden to Open Road: A DeepSeek API Nestjs Story\n\nI want to tell you about the day I finally stopped fighting against a closed source AI vendor and started building with open weights ",
       "image": "",
-      "published": "Tue, 16 Jun 2026 10:32:13 +0000",
+      "published": "Tue, 16 Jun 2026 16:03:15 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "There’s no need to include ‘navigation’ in your navigation labels",
-      "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-      "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:08:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-      "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-      "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembere",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 13:02:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Scroll-Driven, Scroll-Triggered, Scroll States, and View Transitions",
-      "link": "https://css-tricks.com/scroll-driven-scroll-triggered-scroll-states-and-view-transitions/",
-      "summary": "I've said one and mean another, and I've used one when I needed another. Comparing scroll-driven animations, scroll-triggered animations, container query scroll states, and view transitions for my future self.\n\nScroll-Dr",
-      "image": "",
-      "published": "Mon, 08 Jun 2026 13:00:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
