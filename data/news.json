@@ -1,12 +1,30 @@
 {
-  "updated": "2026-06-17T10:20:10.935452Z",
+  "updated": "2026-06-17T14:44:43.800480Z",
   "articles": [
     {
       "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
       "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
       "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg",
-      "published": "Wed, 17 Jun 2026 15:08:46 +0530",
+      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings wa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg",
+      "published": "Wed, 17 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let at",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg",
+      "published": "Wed, 17 Jun 2026 16:00:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.\n\nPalo Alto N",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg",
-      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
-      "source": "The Hacker News",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeo",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Hunt",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg",
-      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
-      "source": "The Hacker News",
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happene",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 09:12:45 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "summary": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 07:54:21 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
       "image": "",
       "published": "Wed, 17 Jun 2026 04:32:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "U.S. Science Is in Chaos",
-      "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "summary": "Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/\nComments URL: https://news.ycombinator.com/item?id=48568058\nPoints: 11\n# Comments: 1",
+      "title": "Epic Games announces Lore version control system",
+      "link": "https://lore.org/",
+      "summary": "Article URL: https://lore.org/\nComments URL: https://news.ycombinator.com/item?id=48571081\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Wed, 17 Jun 2026 09:54:21 +0000",
+      "published": "Wed, 17 Jun 2026 14:30:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "link": "https://cells2pixels.github.io/",
-      "summary": "Neural CAs model self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.Try 3 demos: grow a pattern from a seed (and damage it,",
+      "title": "AI demands more engineering discipline. Not less",
+      "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline\nComments URL: https://news.ycombinator.com/item?id=48570948\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Wed, 17 Jun 2026 09:28:36 +0000",
+      "published": "Wed, 17 Jun 2026 14:20:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Most of the CVE-2026-4020 attackers are the same client",
-      "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
-      "summary": "Article URL: https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020\nComments URL: https://news.ycombinator.com/item?id=48567574\nPoints: 4\n# Comments: 0",
+      "title": "Want your images back? Sure... That'll be $5!",
+      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\nComments URL: https://news.ycombinator.com/item?id=48569954\nPoints: 221\n# Comments: 98",
       "image": "",
-      "published": "Wed, 17 Jun 2026 08:47:14 +0000",
+      "published": "Wed, 17 Jun 2026 13:05:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hacker News but for Independent Blogs",
-      "link": "https://bubbles.town/",
-      "summary": "Article URL: https://bubbles.town/\nComments URL: https://news.ycombinator.com/item?id=48567155\nPoints: 67\n# Comments: 24",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "link": "https://wpvip.com/future-of-the-web-2026/",
+      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 410\n# Comments: 221",
       "image": "",
-      "published": "Wed, 17 Jun 2026 07:49:44 +0000",
+      "published": "Wed, 17 Jun 2026 12:11:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "link": "https://claude.com/blog/the-founders-playbook",
-      "summary": "Article URL: https://claude.com/blog/the-founders-playbook\nComments URL: https://news.ycombinator.com/item?id=48566832\nPoints: 81\n# Comments: 84",
+      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
+      "link": "https://github.com/rxi/microui",
+      "summary": "Article URL: https://github.com/rxi/microui\nComments URL: https://news.ycombinator.com/item?id=48569205\nPoints: 51\n# Comments: 19",
       "image": "",
-      "published": "Wed, 17 Jun 2026 07:04:42 +0000",
+      "published": "Wed, 17 Jun 2026 12:04:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The rsync maintainer used Claude for hundreds of commits. The release broke everything.",
-      "link": "https://dev.to/adioof/the-rsync-maintainer-used-claude-for-hundreds-of-commits-the-release-broke-everything-2njj",
-      "summary": "A trusted Unix tool just shipped hundreds of AI-generated commits. Then the release broke everything.\n\nIf you've ever typed rsync into a terminal — and you have — this one stings.\n\n\n  \n  \n  What Happened\n\n\nThe maintainer",
+      "title": "consent_url is not a governance layer — what Whire got right and what comes next",
+      "link": "https://dev.to/t49qnsx7qtkpanks/consenturl-is-not-a-governance-layer-what-whire-got-right-and-what-comes-next-58fm",
+      "summary": "NOTE: re-routing reply → article because source=hn (no posting auth), email=null. product_fit=gridstamp, score=96 ≥ 85.\n\n\n  \n  \n  consent_url is not a governance layer — what Whire got right and what comes next\n\n\nThe Whi",
       "image": "",
-      "published": "Wed, 17 Jun 2026 10:10:34 +0000",
+      "published": "Wed, 17 Jun 2026 14:34:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Paying $20/month. Use NVIDIA Build: 80+ Free AI Models",
-      "link": "https://dev.to/lorenzojkrl/stop-paying-20month-use-nvidia-build-80-free-ai-models-17ih",
-      "summary": "This is a TLDR of a longer article where I tried multiple free AI models on Cursor and VS Code, through Cline.\n\n\n\nThe service is called NVIDIA NIM e.g. NVIDIA Inference Microservices.\nIt lives at build.nvidia.com.\n\nThe c",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jzt302rwfr58k0dk6ui.png",
-      "published": "Wed, 17 Jun 2026 10:08:29 +0000",
+      "title": "How I Built My First MCP Server for Claude Code (4 Lessons)",
+      "link": "https://dev.to/yureki_lab/how-i-built-my-first-mcp-server-for-claude-code-4-lessons-293i",
+      "summary": "TL;DR\n\n\nI built my first Model Context Protocol (MCP) server to give Claude Code read access to a local project knowledge base — and the first version was bad in ways I didn't expect. Here's the minimal TypeScript skelet",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 14:33:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built an E-Commerce Website for My Handmade Candle Business on WordPress",
-      "link": "https://dev.to/all_naturalbydorothy_53/how-i-built-an-e-commerce-website-for-my-handmade-candle-business-on-wordpress-405a",
-      "summary": "I run a small handmade candle business in the Netherlands called All Natural By Dorothy. We hand-pour soy candles, make luxury soaps, and sell ritual wellness products — but this post isn't about candles. It's about the ",
+      "title": "aws just shipped managed agent payments — here's what that means for the rest of the stack",
+      "link": "https://dev.to/t49qnsx7qtkpanks/aws-just-shipped-managed-agent-payments-heres-what-that-means-for-the-rest-of-the-stack-j8d",
+      "summary": "aws just shipped managed agent payments — here's what that means for the rest of the stack\n\n\namazon bedrock agentcore payments launched last month with coinbase and stripe baked in. developers connect a wallet, set sessi",
       "image": "",
-      "published": "Wed, 17 Jun 2026 10:07:47 +0000",
+      "published": "Wed, 17 Jun 2026 14:33:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DevToolLab Launches a Free Discord Community for Developers",
-      "link": "https://dev.to/moksh/devtoollab-launches-a-free-discord-community-for-developers-5ggl",
-      "summary": "Building a developer toolkit is one thing, but creating a community around it is a different challenge. DevToolLab has expanded to 500+ browser-based utilities, and now there is a dedicated space where developers can con",
+      "title": "The Dialogue Dividend",
+      "link": "https://dev.to/skoczen/the-dialogue-dividend-3fah",
+      "summary": "I remember sitting with a colleague a few years ago. A conversation that started about nothing in particular quickly became one of the most productive exchanges I'd had in a while: problems I'd been thinking about for a ",
       "image": "",
-      "published": "Wed, 17 Jun 2026 10:05:25 +0000",
+      "published": "Wed, 17 Jun 2026 14:29:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PostgreSQL 22034 Error: Causes and Solutions Complete Guide",
-      "link": "https://dev.to/dbmserror/postgresql-22034-error-causes-and-solutions-complete-guide-330n",
-      "summary": "PostgreSQL Error 22034: more than one sql json item\n\n\nPostgreSQL error code 22034 (more than one sql json item) occurs when a SQL/JSON function such as JSON_VALUE() or JSON_QUERY() encounters a JSON path expression that ",
+      "title": "For the women who use Google Meet — I made you a private makeup filter for Chrome 🎁",
+      "link": "https://dev.to/picorisulabo/for-the-women-who-use-google-meet-i-made-you-a-private-makeup-filter-for-chrome-501p",
+      "summary": "I spend a fair amount of time on video calls — remote work, online meetings, the occasional interview. And honestly, there are days when I'd like to look just a little more put-together on camera, without it being a whol",
       "image": "",
-      "published": "Wed, 17 Jun 2026 10:03:03 +0000",
+      "published": "Wed, 17 Jun 2026 14:22:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
