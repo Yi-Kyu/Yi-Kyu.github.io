@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:33:17.979695Z",
+  "updated": "2026-06-17T02:11:47.562523Z",
   "articles": [
     {
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
       "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
       "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
@@ -79,15 +88,6 @@
       "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. ",
       "image": "",
       "published": "Tue, 16 Jun 2026 10:17:27 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-      "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 09:42:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Nobody clicks your share buttons",
-      "link": "https://ankursethi.com/links/nobody-clicks-your-share-buttons/",
-      "summary": "Article URL: https://ankursethi.com/links/nobody-clicks-your-share-buttons/\nComments URL: https://news.ycombinator.com/item?id=48561332\nPoints: 6\n# Comments: 4",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\nComments URL: https://news.ycombinator.com/item?id=48563609",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:12:05 +0000",
+      "published": "Tue, 16 Jun 2026 23:15:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
-      "link": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
-      "summary": "Article URL: https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874\nComments URL: https://news.ycombinator.com/item?id=48560847\nPoints: 163\n# Comments: 5",
+      "title": "NLnet announces funding for 67 more open-source projects",
+      "link": "https://nlnet.nl/news/2026/20260616-67-new-projects.html",
+      "summary": "Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html\nComments URL: https://news.ycombinator.com/item?id=48563569\nPoints: 67\n# Comments: 10",
       "image": "",
-      "published": "Tue, 16 Jun 2026 19:42:05 +0000",
+      "published": "Tue, 16 Jun 2026 23:12:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple is about to make Hide My Email useless",
-      "link": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "summary": "Article URL: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/\nComments URL: https://news.ycombinator.com/item?id=48559935\nPoints: 101\n# Comments: 33",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\nComments URL: https://news.ycombinator.com/item?id=48563394\nPoints: 94\n# Comments: 16",
       "image": "",
-      "published": "Tue, 16 Jun 2026 18:37:21 +0000",
+      "published": "Tue, 16 Jun 2026 22:53:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "summary": "Article URL: https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\nComments URL: https://news.ycombinator.com/item?id=48559188\nPoints: 66\n# Comments: 49",
+      "title": "GrapheneOS has been ported to Android 17",
+      "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\nComments URL: https://news.ycombinator.com/item?id=48561654\nPoints: 401\n# Comments: 164",
       "image": "",
-      "published": "Tue, 16 Jun 2026 17:54:02 +0000",
+      "published": "Tue, 16 Jun 2026 20:34:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-      "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-      "summary": "Article URL: https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus\nComments URL: https://news.ycombinator.com/item?id=48559083\nPoints: 47\n# Comments: 35",
+      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+      "link": "https://github.com/nvlabs/cutile-rs",
+      "summary": "Article URL: https://github.com/nvlabs/cutile-rs\nComments URL: https://news.ycombinator.com/item?id=48561410\nPoints: 28\n# Comments: 9",
       "image": "",
-      "published": "Tue, 16 Jun 2026 17:48:42 +0000",
+      "published": "Tue, 16 Jun 2026 20:17:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stop using AI as a search engine with extra steps.",
-      "link": "https://dev.to/gmoustakas/stop-using-ai-as-a-search-engine-with-extra-steps-49oo",
-      "summary": "I watched a developer spend forty minutes going back and forth with Claude on a database schema problem. Every message was a question. Every reply was an answer. At the end of forty minutes they had a schema that technic",
+      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "link": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
+      "summary": "There's a particular way an AI coding agent goes bad. Not a crash, not an error. It just gets duller. Halfway through a long session it forgets a constraint you set early, repeats a question you already answered, or star",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:27:40 +0000",
+      "published": "Wed, 17 Jun 2026 02:07:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Local Apex Runtime - Nimbus",
-      "link": "https://dev.to/oblitus/i-built-a-local-apex-runtime-nimbus-596o",
-      "summary": "Every Salesforce developer knows the wait. You change three lines of Apex, run your tests, and then go make coffee, because deploying to a scratch org and running the suite takes minutes. There is nothing useful you can ",
+      "title": "The AI Agent Payment Wars Have Begun — Here's What Actually Matters",
+      "link": "https://dev.to/agentwallex/the-ai-agent-payment-wars-have-begun-heres-what-actually-matters-3ia4",
+      "summary": "Visa announced this week that AI agents can now use credit cards. Mastercard launched a protocol for AI-to-AI payments and micropayments. Catena Labs raised $30M and filed for a national trust bank charter to build an \"A",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:22:54 +0000",
+      "published": "Wed, 17 Jun 2026 02:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Valkey vs Redis: API Protocol, Data Format & Compatibility — The Technical Deep-Dive",
-      "link": "https://dev.to/deploynix/valkey-vs-redis-api-protocol-data-format-compatibility-the-technical-deep-dive-4m2e",
-      "summary": "When Redis changed its license on March 20, 2024, it triggered one of the fastest open-source forks in recent memory. Eight days later, on March 28, 2024, the Linux Foundation announced Valkey — a community fork built fr",
+      "title": "Solstice Eternal – AI Powered Adventure Game with Gemma 4",
+      "link": "https://dev.to/heer_patel_a0e15d158980ad/solstice-eternal-ai-powered-adventure-game-with-gemma-4-3n46",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nSolstice Eternal – AI Adventure Game\n\nSolstice Eternal is an interactive AI-powered adventure game where players explore magical",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:22:15 +0000",
+      "published": "Wed, 17 Jun 2026 01:55:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Notion AI's Pricing Trap: Why I Went Open Source Instead",
-      "link": "https://dev.to/loyaldash/notion-ais-pricing-trap-why-i-went-open-source-instead-4e4l",
-      "summary": "Notion AI's Pricing Trap: Why I Went Open Source Instead\n\nI still remember the day my colleague slid a Notion AI invoice across my desk. The number made me physically flinch. We'd been running a mid-sized documentation p",
+      "title": "What Does \"Code Accuracy\" Mean When AI Builds Your App?",
+      "link": "https://dev.to/fan-song/what-does-code-accuracy-mean-when-ai-builds-your-app-314",
+      "summary": "When a non-technical founder asks whether an AI app builder produces \"accurate\" code, they usually mean one thing: does it run without crashing? That is the narrowest possible definition of accuracy, and it is the one mo",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:21:07 +0000",
+      "published": "Wed, 17 Jun 2026 01:53:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Give ChatGPT Web Scraping with MCP Connectors (2026)",
-      "link": "https://dev.to/simon_crawlforge_dev/how-to-give-chatgpt-web-scraping-with-mcp-connectors-2026-4ba6",
-      "summary": "ChatGPT can now call your own tools through custom MCP connectors — including web scraping. But there is a catch the marketing pages skip: connectors must be remote servers, so a local tool like CrawlForge cannot be past",
+      "title": "PostgreSQL vs MySQL vs NoSQL: The Complete Guide to Understanding Modern Databases",
+      "link": "https://dev.to/junhao/postgresql-vs-mysql-vs-nosql-the-complete-guide-to-understanding-modern-databases-5dgp",
+      "summary": "**\nIntroduction**\n_\nEvery application stores data._\n\nWhether you're building a simple blog, an e-commerce platform, a banking system, a social media application, or an AI-powered product, one of the most important archit",
       "image": "",
-      "published": "Tue, 16 Jun 2026 20:20:51 +0000",
+      "published": "Wed, 17 Jun 2026 01:42:35 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Prop For That",
-      "link": "https://css-tricks.com/prop-for-that/",
-      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "There’s no need to include ‘navigation’ in your navigation labels",
-      "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-      "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:08:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-      "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-      "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembere",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 13:02:10 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
