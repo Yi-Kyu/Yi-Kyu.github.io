@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-17T14:45:26.301956Z",
+  "updated": "2026-06-17T19:53:18.469791Z",
   "articles": [
+    {
+      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.\n\nThe threat actor also has at ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbbJOofP7P7zruPGvktMERgtQqGnu5msB1iDGyfukJA9g72QHXmHx9eJNbQaF7VIGcUqB76e5bGpnBnfg9AE4-F5kJQnY2fKtfHoi9zggEgteLN6rpYJeYE2nPlHFHWfj58a_DmklTT0x0GcWmRAxJsVGeysX9CUadCIygZTpDzBxCWZ4HvrPqhPwQy6Ng/s1600/scam.jpg",
+      "published": "Wed, 17 Jun 2026 23:44:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
+      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.\n\nThe vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), wi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg",
+      "published": "Wed, 17 Jun 2026 23:06:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.\n\nOrdinary stuff, until one move near the end.\n\nBefore his command-and-control server",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg",
+      "published": "Wed, 17 Jun 2026 21:30:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings wa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg",
+      "published": "Wed, 17 Jun 2026 20:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
       "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
@@ -11,39 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings wa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg",
-      "published": "Wed, 17 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let at",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg",
-      "published": "Wed, 17 Jun 2026 16:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as p",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg",
-      "published": "Wed, 17 Jun 2026 13:08:24 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg",
-      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
-      "source": "The Hacker News",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in ",
       "image": "",
       "published": "Wed, 17 Jun 2026 06:09:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 04:32:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Epic Games announces Lore version control system",
-      "link": "https://lore.org/",
-      "summary": "Article URL: https://lore.org/\nComments URL: https://news.ycombinator.com/item?id=48571081\nPoints: 7\n# Comments: 1",
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "link": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "summary": "Readable: https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas...\n\nComments URL: https://news.ycombinator.com/item?id=48575451\nPoints: 18\n# Comments: 6",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:30:27 +0000",
+      "published": "Wed, 17 Jun 2026 19:22:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI demands more engineering discipline. Not less",
-      "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "summary": "Article URL: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline\nComments URL: https://news.ycombinator.com/item?id=48570948\nPoints: 12\n# Comments: 0",
+      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "summary": "Article URL: https://openai.com/index/ai-chemist-improves-reaction/\nComments URL: https://news.ycombinator.com/item?id=48573757\nPoints: 23\n# Comments: 12",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:20:44 +0000",
+      "published": "Wed, 17 Jun 2026 17:34:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Want your images back? Sure... That'll be $5!",
-      "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "summary": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\nComments URL: https://news.ycombinator.com/item?id=48569954\nPoints: 221\n# Comments: 98",
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "link": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "summary": "Article URL: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/\nComments URL: https://news.ycombinator.com/item?id=48573435\nPoints: 39\n# Comments: 19",
       "image": "",
-      "published": "Wed, 17 Jun 2026 13:05:03 +0000",
+      "published": "Wed, 17 Jun 2026 17:14:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "link": "https://wpvip.com/future-of-the-web-2026/",
-      "summary": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 410\n# Comments: 221",
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead\nComments URL: https://news.ycombinator.com/item?id=48573221\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 17 Jun 2026 12:11:27 +0000",
+      "published": "Wed, 17 Jun 2026 17:00:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "link": "https://github.com/rxi/microui",
-      "summary": "Article URL: https://github.com/rxi/microui\nComments URL: https://news.ycombinator.com/item?id=48569205\nPoints: 51\n# Comments: 19",
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "link": "https://ribbie.tv/watch",
+      "summary": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.Been waiting to share this for when there’s actually ",
       "image": "",
-      "published": "Wed, 17 Jun 2026 12:04:28 +0000",
+      "published": "Wed, 17 Jun 2026 16:44:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI Documentation Tools in 2026: Mintlify vs Document360 vs GitBook — Which Turns Your Code Into Live Docs?",
-      "link": "https://dev.to/storm_son_b44db572b250b68/ai-documentation-tools-in-2026-mintlify-vs-document360-vs-gitbook-which-turns-your-code-into-110i",
-      "summary": "AI Documentation Tools in 2026: Mintlify vs Document360 vs GitBook — Which Turns Your Code Into Live Docs?\n\n\nIf you've ever inherited a codebase with documentation stuck in 2015, you know the pain: outdated READMEs, scat",
+      "title": "5 Production Mistakes That Changed How I Build Express APIs",
+      "link": "https://dev.to/manolito99/5-production-mistakes-that-changed-how-i-build-express-apis-133e",
+      "summary": "I stopped thinking APIs break because of “complex code”.\n\nThey break because of boring things you didn’t take seriously.\n\nHere are 5 lessons from production:\n\n\n\n\n\n  \n  \n  1. Validate early or suffer later\n\n\nI used to val",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:42:15 +0000",
+      "published": "Wed, 17 Jun 2026 19:50:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Polymarket Trading Bot for Copy Trading & Wallet Analytics",
-      "link": "https://dev.to/chumba_24/building-a-polymarket-trading-bot-for-copy-trading-wallet-analytics-2e48",
-      "summary": "Prediction markets like Polymarket are evolving into real-time data-driven trading ecosystems. Instead of manually placing bets, traders are increasingly relying on wallet analytics, behavioral tracking, and copy-trading",
+      "title": "Leetcode 150 | Day 4: Majority Element - Naive vs. Optimized",
+      "link": "https://dev.to/afuji/leetcode-150-day-4-majority-element-naive-vs-optimized-eo6",
+      "summary": "Leetcode 169 asks us to identify the majority element in a given array. The majority element is defined as the element that appears more than n / 2 times. We are told that we can assume such an element always exists.\n\nFo",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:40:39 +0000",
+      "published": "Wed, 17 Jun 2026 19:49:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Manutenção preditiva no carro: o que os sensores e a telemetria já avisam antes da pane",
-      "link": "https://dev.to/pneuscarmg_centroautomot/manutencao-preditiva-no-carro-o-que-os-sensores-e-a-telemetria-ja-avisam-antes-da-pane-fo",
-      "summary": "Todo carro moderno é, no fundo, um computador sobre rodas. Dezenas de sensores monitoram rotação, temperatura, pressão, detonação, oxigênio nos gases e muito mais — e quase tudo passa pela ECU e fica acessível pela porta",
+      "title": "AWS SAA: 10 Core Concepts (Explained for Infrastructure Engineers)",
+      "link": "https://dev.to/shivam_singh_8a9ada1e8b88/aws-saa-10-core-concepts-explained-for-infrastructure-engineers-4p7",
+      "summary": "This post covers what I learned while preparing for AWS_SAA — IAM, EC2, Load Balancing, Auto Scaling, RDS, Route 53, S3, CloudFront, and messaging services. I'm writing this for engineers who already understand infrastru",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:40:29 +0000",
+      "published": "Wed, 17 Jun 2026 19:47:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "All In or Not At All",
-      "link": "https://dev.to/codegax/all-in-or-not-at-all-4khl",
-      "summary": "I have never been good with middle grounds. I like things clear. Black or White, Zero or One, True or False. Maybe that is why computers made sense to me before many other things did.\n\nA machine does not care about your ",
+      "title": "How to send contact form emails with a simple token-based endpoint",
+      "link": "https://dev.to/riclamer/how-to-send-contact-form-emails-with-a-simple-token-based-endpoint-84",
+      "summary": "Most small websites eventually need the same thing: a contact form that sends an email.\n\nThat sounds simple, but the implementation often becomes more work than expected:\n\n\nSMTP credentials\nmail libraries\nserver-side val",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:40:22 +0000",
+      "published": "Wed, 17 Jun 2026 19:43:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "10 Shopify Development Tricks That Saved Me Hundreds of Hours",
-      "link": "https://dev.to/ecom_digital_a911992dbb89/10-shopify-development-tricks-that-saved-me-hundreds-of-hours-33bk",
-      "summary": "As a Shopify developer, I've spent countless hours building themes, custom features, and integrations for different types of stores. Over time, I discovered that many common problems have simple solutions that can save a",
+      "title": "AI for Data Pipelines & ETL in 2026: dbt AI vs Airflow vs Prefect vs Fivetran",
+      "link": "https://dev.to/storm_son_b44db572b250b68/ai-for-data-pipelines-etl-in-2026-dbt-ai-vs-airflow-vs-prefect-vs-fivetran-3o1d",
+      "summary": "AI for Data Pipelines &amp; ETL in 2026: dbt AI vs Airflow vs Prefect vs Fivetran — Which One Saves You 20+ Hours/Week?\n\n\nData pipelines are the unglamorous backbone of modern apps. Transform raw data into usable insight",
       "image": "",
-      "published": "Wed, 17 Jun 2026 14:39:36 +0000",
+      "published": "Wed, 17 Jun 2026 19:42:28 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The Siren Song of  ariaNotify()",
+      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
+      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of  ariaNotify() originally handwri",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
       "image": "",
       "published": "Fri, 12 Jun 2026 15:08:38 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
-      "link": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
-      "summary": "There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing techniques I reach for when I want a site to feel alive and be remembere",
-      "image": "",
-      "published": "Wed, 10 Jun 2026 13:02:10 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
