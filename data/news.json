@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-18T10:00:09.966154Z",
+  "updated": "2026-06-18T14:36:49.083842Z",
   "articles": [
+    {
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg",
+      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?\n\nFor most enterprises, the answer is a simple no.\n\nThe rush to",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg",
+      "published": "Thu, 18 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
+      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here →\n\nWhen a customer types their card number into your checkout, their browser is running fa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJHzi-rQqSIiD4wXw_HQpgvXGNTNgvJnxt42OupMrchYSmQPyeXbtsuH62zLqPHDq3bywvirdcqKSq9VQ-pZyL02RAw2IYYh1f4qcpUH4NZu50XLSDsQSSYvyqMAEwSN-8PQMcpwXZMtLC_pVYzqZMYm7qkygfMQeZEIHVWpIkYfUifJvX3oUMSBs3w0/s1600/reflectiz.jpg",
+      "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
       "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
@@ -20,47 +47,38 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.\n\nOrdinary stuff, until one move near the end.\n\nBefore his command-and-control server",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg",
-      "published": "Wed, 17 Jun 2026 21:30:56 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings wa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg",
-      "published": "Wed, 17 Jun 2026 20:28:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg",
-      "published": "Wed, 17 Jun 2026 19:21:58 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
       "image": "",
-      "published": "Wed, 17 Jun 2026 21:30:08 -0400",
+      "published": "Thu, 18 Jun 2026 10:19:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such s",
+      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
+      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+      "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protectio",
       "image": "",
-      "published": "Wed, 17 Jun 2026 17:02:42 -0400",
+      "published": "Thu, 18 Jun 2026 09:48:56 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+      "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+      "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
+      "image": "",
+      "published": "Thu, 18 Jun 2026 09:25:47 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
+      "image": "",
+      "published": "Thu, 18 Jun 2026 08:55:36 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -69,25 +87,7 @@
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
       "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
       "image": "",
-      "published": "Wed, 17 Jun 2026 11:12:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeo",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happene",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 09:12:45 -0400",
+      "published": "Thu, 18 Jun 2026 08:54:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I need your clothes, your boots, and your motorcycle",
-      "link": "https://rbelmont.mameworld.info/?p=1725",
-      "summary": "Article URL: https://rbelmont.mameworld.info/?p=1725\nComments URL: https://news.ycombinator.com/item?id=48582464\nPoints: 18\n# Comments: 2",
+      "title": "Git platform built for agentic era",
+      "link": "https://gitlawb.com/node",
+      "summary": "Article URL: https://gitlawb.com/node\nComments URL: https://news.ycombinator.com/item?id=48584873\nPoints: 5\n# Comments: 2",
       "image": "",
-      "published": "Thu, 18 Jun 2026 08:28:04 +0000",
+      "published": "Thu, 18 Jun 2026 13:19:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-f",
+      "title": "How Alberta Eradicated Rats",
+      "link": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+      "summary": "Article URL: https://worksinprogress.co/issue/albertas-war-on-rats/\nComments URL: https://news.ycombinator.com/item?id=48584709\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Thu, 18 Jun 2026 08:08:00 +0000",
+      "published": "Thu, 18 Jun 2026 13:05:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Forge We Deserve",
-      "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-      "summary": "Article URL: https://btao.org/posts/2026-05-09-the-forge-we-deserve/\nComments URL: https://news.ycombinator.com/item?id=48582147\nPoints: 17\n# Comments: 17",
+      "title": "Has W Social switched to closed source?",
+      "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "summary": "Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/\nComments URL: https://news.ycombinator.com/item?id=48584497\nPoints: 75\n# Comments: 40",
       "image": "",
-      "published": "Thu, 18 Jun 2026 07:46:55 +0000",
+      "published": "Thu, 18 Jun 2026 12:46:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-      "link": "https://www.acma.gov.au/sms-sender-id-register",
-      "summary": "Article URL: https://www.acma.gov.au/sms-sender-id-register\nComments URL: https://news.ycombinator.com/item?id=48581489\nPoints: 96\n# Comments: 55",
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "summary": "Article URL: https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/\nComments URL: https://news.ycombinator.com/item?id=48584207\nPoints: 165\n",
       "image": "",
-      "published": "Thu, 18 Jun 2026 06:23:24 +0000",
+      "published": "Thu, 18 Jun 2026 12:19:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek Introduces Vision",
-      "link": "https://chat.deepseek.com/",
-      "summary": "Article URL: https://chat.deepseek.com/\nComments URL: https://news.ycombinator.com/item?id=48581458\nPoints: 141\n# Comments: 64",
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner\nComments URL: https://news.ycombinator.com/item?id=48584135\nPoints: 151\n# Comments: 59",
       "image": "",
-      "published": "Thu, 18 Jun 2026 06:17:40 +0000",
+      "published": "Thu, 18 Jun 2026 12:10:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My First Week on DEV — Badges, Game Jams, and Way More Than I Expected",
-      "link": "https://dev.to/gamya_m/my-first-week-on-dev-badges-game-jams-and-way-more-than-i-expected-3ec2",
-      "summary": "I joined DEV at the start of January, but it's only really been in the past week or so that things clicked into place — and looking back, it's been a lot more eventful than I expected for \"week one.\"\n\n\n  \n  \n  What I Set",
+      "title": "The Tech Debt Nobody Wrote Down",
+      "link": "https://dev.to/brandincanfield/the-tech-debt-nobody-wrote-down-3bb7",
+      "summary": "Most of the debt that actually takes a codebase down was never written down anywhere. That, not the raw volume of AI-generated code, is what the current panic keeps aiming slightly past.\n\nWe borrowed \"debt\" from finance ",
       "image": "",
-      "published": "Thu, 18 Jun 2026 09:55:00 +0000",
+      "published": "Thu, 18 Jun 2026 14:28:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Replaced 5 Social Media APIs With One Key (and My Code Got Way Simpler)",
-      "link": "https://dev.to/olams/i-replaced-5-social-media-apis-with-one-key-and-my-code-got-way-simpler-10k0",
-      "summary": "A while back I was building a side project that needed public data from a few social platforms. Nothing crazy — profiles, posts, some engagement numbers. I figured I'd just grab each platform's official API.\n\nReader, I d",
+      "title": "Why Space Technology Inspires Me as a Student Developer",
+      "link": "https://dev.to/rashvandhappukutty/why-space-technology-inspires-me-as-a-student-developer-2f23",
+      "summary": "Introduction\nEver since I was young, the idea of exploring space has fascinated me. The thought of launching rockets, exploring distant planets, and discovering the unknown represents one of humanity's greatest achieveme",
       "image": "",
-      "published": "Thu, 18 Jun 2026 09:53:00 +0000",
+      "published": "Thu, 18 Jun 2026 14:24:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "HLD Fundamentals #4: How Systems Scale: From 0 to 100 Million Users",
-      "link": "https://dev.to/jaspreet_singh_86ae1740ac/how-systems-scale-from-0-to-100-million-users-3nm",
-      "summary": "One of the most common system design interview questions is:\n\n\n\"How would you scale a web application from 100 users to 100 million users?\"\n\n\nThe answer is rarely a single technology. Instead, systems evolve through mult",
+      "title": "How I cut accessibility remediation time by 70% without leaving VS Code",
+      "link": "https://dev.to/a11ysolutions/how-i-cut-accessibility-remediation-time-by-70-without-leaving-vs-code-igi",
+      "summary": "The problem\n\nEvery time I found an accessibility issue in a PR review, the same thing happened: tab out to the WCAG docs, figure out the right fix, come back to the code, apply it, re-verify. For every single issue.\n\nIt ",
       "image": "",
-      "published": "Thu, 18 Jun 2026 09:51:32 +0000",
+      "published": "Thu, 18 Jun 2026 14:24:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Testing GLM-5.2 on OpenCode: I'm impressed!",
-      "link": "https://dev.to/danielbergholz/testing-glm-52-on-opencode-im-impressed-1780",
-      "summary": "I have a confession: I roll my eyes at AI benchmarks. Every other week someone on Twitter posts a chart where a brand new model is suddenly beating Opus and GPT, the replies go crazy, and then you actually use the thing ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgr0mlan9247h47clurvd.gif",
-      "published": "Thu, 18 Jun 2026 09:51:13 +0000",
+      "title": "Okay, But I'm Still Using It",
+      "link": "https://dev.to/raleighschickel/okay-but-im-still-using-it-gk7",
+      "summary": "Where I'm actually deploying AI coding tools at my next organization, and why.\n\n\n\n\nIf you read my last post, you know I'm not a believer in the uncritical sense. Context rot is real. The confidence-to-accuracy gap is rea",
+      "image": "",
+      "published": "Thu, 18 Jun 2026 14:19:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One command turns Claude Code into a full dev team",
-      "link": "https://dev.to/toffy/one-command-turns-claude-code-into-a-full-dev-team-1d1e",
-      "summary": "I love Claude Code's subagents. But I kept noticing the same chore: every new project, I'd hand-write the same crew again — a builder, a reviewer, someone to keep the stack conventions straight. Good setups, but they liv",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxntrveqx01ax9bfu6ylt.gif",
-      "published": "Thu, 18 Jun 2026 09:43:49 +0000",
+      "title": "How Self-Attention Works — QKV, Softmax, and Matrix Computation",
+      "link": "https://dev.to/zeromathai/how-self-attention-works-qkv-softmax-and-matrix-computation-514j",
+      "summary": "Self-Attention is not just “looking at important words.”\n\nIt is a matrix operation.\n\nAnd that is exactly why Transformers scale.\n\n\n  \n  \n  Core Idea\n\n\nSelf-Attention lets each token compare itself with every other token ",
+      "image": "",
+      "published": "Thu, 18 Jun 2026 14:19:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
