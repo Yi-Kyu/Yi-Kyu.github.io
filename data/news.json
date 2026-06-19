@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-19T10:06:46.920587Z",
+  "updated": "2026-06-19T14:33:54.162480Z",
   "articles": [
+    {
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+      "summary": "Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png",
+      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rule",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
       "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it?\n\nFor most enterprises, the answer is a simple no.\n\nThe rush to",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg",
-      "published": "Thu, 18 Jun 2026 21:03:49 +0530",
-      "source": "The Hacker News",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance cha",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse.\n\nSearches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6k3CSWsyKHS6UdXmxX-w92fdsWjTSL7JR7xeaPBPh8d5G6rkZbMhmJHr9o3gxF5G2I2GojubOJnzhRqxjtKYxlXTrmlgrdRFRrmmyEEIi_zXAQXT3zpq5KNQqOFHrfGKhUFHzsMx1E2Eqs7S_jvTFfN3Jnz1YO58Ryvk0urKEDUZggoQgI07lKFWQDMfw/s1600/threatss.jpg",
-      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
-      "source": "The Hacker News",
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help securit",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
       "image": "",
       "published": "Fri, 19 Jun 2026 04:44:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-      "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
-      "image": "",
-      "published": "Thu, 18 Jun 2026 18:31:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
-      "image": "",
-      "published": "Thu, 18 Jun 2026 14:31:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
-      "image": "",
-      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Leave a Trace",
+      "link": "https://www.jakeworth.com/posts/leave-a-trace",
+      "summary": "Article URL: https://www.jakeworth.com/posts/leave-a-trace\nComments URL: https://news.ycombinator.com/item?id=48597939\nPoints: 45\n# Comments: 27",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 12:45:11 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "NASA picks Eric Schmidt's rocket company for Mars mission",
+      "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/\nComments URL: https://news.ycombinator.com/item?id=48597910\nPoints: 16\n# Comments: 25",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 12:41:15 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The room the economy can't see",
+      "link": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+      "summary": "Article URL: https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/\nComments URL: https://news.ycombinator.com/item?id=48596911\nPoints: 131\n# Comments: 109",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 10:16:20 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Norway greenlights first full-scale ship tunnel",
+      "link": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+      "summary": "Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel\nComments URL: https://news.ycombinator.com/item?id=48596910\nPoints: 62\n# Comments: 28",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 10:16:10 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "summary": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\nComments URL: https://news.ycombinator.com/item?id=48595511\nPoints: 118\n# Comments: 57",
+      "summary": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\nComments URL: https://news.ycombinator.com/item?id=48595511\nPoints: 321\n# Comments: 164",
       "image": "",
       "published": "Fri, 19 Jun 2026 06:35:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "So You Want to Define a Well-Known URI",
-      "link": "https://mnot.net/blog/2026/well_known_uris",
-      "summary": "Article URL: https://mnot.net/blog/2026/well_known_uris\nComments URL: https://news.ycombinator.com/item?id=48595331\nPoints: 66\n# Comments: 30",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 06:05:01 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Fable Converted Pylint to Rust",
-      "link": "https://pypi.org/project/prylint/",
-      "summary": "Article URL: https://pypi.org/project/prylint/\nComments URL: https://news.ycombinator.com/item?id=48594733\nPoints: 39\n# Comments: 29",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 04:21:07 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Ice water drowning survival of young patient (2025)",
-      "link": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "summary": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885\nComments URL: https://news.ycombinator.com/item?id=48594592\nPoints: 147\n# Comments: 96",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 03:50:25 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "summary": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/\nComments URL: https://news.ycombinator.com/item?id=48593731\nPoints: 80\n# Comments: 28",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 01:06:27 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "PDF xref Table Forensics: Detect Edits From File Structure",
-      "link": "https://dev.to/iurii_rogulia/pdf-xref-table-forensics-detect-edits-from-file-structure-3n7i",
-      "summary": "Originally published at htpbe.tech. The version on htpbe.tech stays in sync with the latest detection algorithm — refer to it for the canonical text.\n\n\nMost PDF fraud detection focuses on what you can read: timestamps, p",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 10:00:43 +0000",
+      "title": "AUTOUPG_HOME - A smart way to manage Oracle GI & RU On Prem patches across versions for multiple database environments",
+      "link": "https://dev.to/nabhaas/autoupghome-a-smart-way-to-manage-oracle-gi-ru-on-prem-patches-across-versions-for-multiple-4nn1",
+      "summary": "{ Abhilash Kumar Bhattaram :  Follow on LinkedIn }\n\n  \n  \n  Managing multiple Oracle patches\n\n\nThe purpose of this blog is to understand how patches are being managed even before patching.\n\n\nMore ofthen tha not you have ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F8695%2F296cb680-bec9-47fb-944a-a9d6be5e19d0.jpg",
+      "published": "Fri, 19 Jun 2026 14:21:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "llms.txt for AI Discoverability: Should You Add It?",
-      "link": "https://dev.to/iurii_rogulia/llmstxt-for-ai-discoverability-should-you-add-it-2hd0",
-      "summary": "You put a robots.txt on your site to tell search crawlers what to ignore. You add a sitemap.xml to help them find everything. These standards work because crawlers visit your site repeatedly — on a schedule, automaticall",
+      "title": "Speculative Decoding on Mobile GPUs",
+      "link": "https://dev.to/software_mvp-factory/speculative-decoding-on-mobile-gpus-3e99",
+      "summary": "---\ntitle: \"Speculative Decoding on Mobile GPUs: Draft-Verify LLM Pipelines with Vulkan Compute\"\npublished: true\ndescription: \"Build a speculative decoding pipeline on Android using Vulkan compute shaders for draft model",
       "image": "",
-      "published": "Fri, 19 Jun 2026 10:00:40 +0000",
+      "published": "Fri, 19 Jun 2026 14:20:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fixing Client-Server Waterfalls After Migrating from Vite to Next.js",
-      "link": "https://dev.to/digitaldev/fixing-client-server-waterfalls-after-migrating-from-vite-to-nextjs-51hh",
-      "summary": "The Post-Migration Performance Paradox\n\n\nYou’ve done it. You moved your React application from Vite to Next.js to take advantage of Server Components, better SEO, and optimized routing. But when you open the Network tab ",
+      "title": "The #3 Production Killer in Your LiteLLM Setup: Key Cache Invalidation (and How to Fix It)",
+      "link": "https://dev.to/ai-gateway-veteran/the-3-production-killer-in-your-litellm-setup-key-cache-invalidation-and-how-to-fix-it-5af5",
+      "summary": "This is the pitfall that cost me 3 hours at 2 AM. If you're running LiteLLM Proxy in production, it will hit you too — usually at the worst possible time.\n\n\n\n\n\n\n  \n  \n  What Happened\n\n\nI run LiteLLM Proxy + New API in fr",
       "image": "",
-      "published": "Fri, 19 Jun 2026 10:00:11 +0000",
+      "published": "Fri, 19 Jun 2026 14:18:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "# Why Most \"Production-Ready\" MCP Servers Actually Aren't",
-      "link": "https://dev.to/mathenemy/-why-most-production-ready-mcp-servers-actually-arent-1pm2",
-      "summary": "Disclosure: I'm the author of SUPER-MCP, an open-source MCP server. The criteria in this article are derived from a threat model, not from SUPER-MCP's feature set. Apply this checklist to SUPER-MCP itself and you'll find",
+      "title": "Dejar una huella: por qué comentar mejora internet para todos",
+      "link": "https://dev.to/lu1tr0n/dejar-una-huella-por-que-comentar-mejora-internet-para-todos-gc4",
+      "summary": "Cada vez que algo en internet te ayuda —un post de blog, una respuesta enterrada en la segunda página de Google, una herramienta open source— tenés la opción de seguir de largo o de dejar una huella de que estuviste ahí.",
       "image": "",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
+      "published": "Fri, 19 Jun 2026 14:16:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Commodity-Backed Standard (2041–2042): HSM Timing Attacks and Entanglement-Based Verification",
-      "link": "https://dev.to/bioshistory/the-day-the-math-died-a-history-of-the-quantum-collapse-2041-2042-39g5",
-      "summary": "[Excerpted from THE QUANTUM COLLAPSE CHRONICLES — not science fiction, but a grounded forecast of what may come when quantum computation dismantles the cryptographic foundations of our digital civilization. These article",
+      "title": "I Saved $2,620 Monthly Ditching GPT-4 — A Data Scientist's Deep Dive",
+      "link": "https://dev.to/purecast/i-saved-2620-monthly-ditching-gpt-4-a-data-scientists-deep-dive-1fll",
+      "summary": "I Saved $2,620 Monthly Ditching GPT-4 — A Data Scientist's Deep Dive\n\nThree months back I was staring at an invoice that made my jaw drop. My production SaaS platform was hemorrhaging cash through the OpenAI API — somewh",
       "image": "",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
+      "published": "Fri, 19 Jun 2026 14:15:37 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "A First Look at Scroll-Triggered Animations",
+      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
       "image": "",
       "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "There’s no need to include ‘navigation’ in your navigation labels",
-      "link": "https://css-tricks.com/navigation-in-your-navigation-labels/",
-      "summary": "One of those nuances to keep in your back pocket when writing for screen readers.\n\nThere’s no need to include ‘navigation’ in your navigation labels originally handwritten and published with love on CSS-Tricks. You shoul",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:08:38 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
