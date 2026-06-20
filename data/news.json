@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T13:18:45.452474Z",
+  "updated": "2026-06-20T19:04:16.392061Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion gr",
@@ -70,24 +88,6 @@
       "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
       "image": "",
       "published": "Fri, 19 Jun 2026 12:12:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance cha",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help securit",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
-      "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-      "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones\nComments URL: https://news.ycombinator.com/item?id=48608591\nPoints: 13\n# Comments",
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 123\n# Comments: 32",
       "image": "",
-      "published": "Sat, 20 Jun 2026 11:58:32 +0000",
+      "published": "Sat, 20 Jun 2026 18:05:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating\nComments URL: https://news.ycombinator.com/item?id=48608503\nPoints: 34\n# C",
+      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
+      "link": "https://news.ycombinator.com/item?id=48611303",
+      "summary": "I have a few projects on Github. I am receiving a lot of spam PRs and requests from vibe coders and bots. Most of them to prop up their profiles. The stars are obviously exaggerated too.What other platforms are you using",
       "image": "",
-      "published": "Sat, 20 Jun 2026 11:43:29 +0000",
+      "published": "Sat, 20 Jun 2026 17:52:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "link": "https://bootimus.com",
-      "summary": "Article URL: https://bootimus.com\nComments URL: https://news.ycombinator.com/item?id=48608255\nPoints: 5\n# Comments: 1",
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260617032207.htm\nComments URL: https://news.ycombinator.com/item?id=48611083\nPoints: 44\n# Comments: 9",
       "image": "",
-      "published": "Sat, 20 Jun 2026 10:55:18 +0000",
+      "published": "Sat, 20 Jun 2026 17:27:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CSSQuake",
-      "link": "https://cssquake.com/",
-      "summary": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 98\n# Comments: 19",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "link": "https://www.lispm.net/apps/uhf-x11/",
+      "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/\nComments URL: https://news.ycombinator.com/item?id=48610853\nPoints: 49\n# Comments: 7",
       "image": "",
-      "published": "Sat, 20 Jun 2026 10:49:53 +0000",
+      "published": "Sat, 20 Jun 2026 17:04:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 190\n# Comments: 73",
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "link": "https://github.com/oven-sh/WebKit/pull/249",
+      "summary": "Article URL: https://github.com/oven-sh/WebKit/pull/249\nComments URL: https://news.ycombinator.com/item?id=48610841\nPoints: 44\n# Comments: 30",
       "image": "",
-      "published": "Sat, 20 Jun 2026 05:33:59 +0000",
+      "published": "Sat, 20 Jun 2026 17:02:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free",
-      "link": "https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3",
-      "summary": "If you have ever bought a used car in the UK, you know the anxiety of hidden mechanical defects and \"clocked\" mileage. While the DVSA (Driver and Vehicle Standards Agency) provides excellent public MOT data, most consume",
+      "title": "How I Built a Counter Program in Anchor and Learned to Trust My Tests",
+      "link": "https://dev.to/lymah/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-1akg",
+      "summary": "I spent a week building a counter program in Anchor — the Rust framework\nfor writing Solana programs. By the end I had two instructions, one\nauthorization constraint, and a test suite I could actually trust. Here\nis what",
       "image": "",
-      "published": "Sat, 20 Jun 2026 13:11:17 +0000",
+      "published": "Sat, 20 Jun 2026 18:54:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a dead code forensics CLI because \"this file is unused\" is never enough",
-      "link": "https://dev.to/iamvvekverma/i-built-a-dead-code-forensics-cli-because-this-file-is-unused-is-never-enough-4klo",
-      "summary": "Every senior developer has stared at a file and thought: should I delete this?\n\nYou run vulture. You run deadcode. They both tell you the file has zero import\nsites. You hover over the delete key.\n\nAnd then you don't del",
+      "title": "The AI \"Doom Loop\": Why your autonomous coding agent is making things worse, and how to fix it",
+      "link": "https://dev.to/meherbhaskar/the-ai-doom-loop-why-your-autonomous-coding-agent-is-making-things-worse-and-how-to-fix-it-3cb0",
+      "summary": "If you’ve spent any time working with autonomous AI coding agents recently, you know the drill. \n\nYou give the agent a straightforward task: \"Add a user profile page and link it to the navbar.\" \n\nThe agent says, \"I've go",
       "image": "",
-      "published": "Sat, 20 Jun 2026 13:06:10 +0000",
+      "published": "Sat, 20 Jun 2026 18:42:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My Journey as a Full-Stack Developer",
-      "link": "https://dev.to/jayesh_aswani_d9481379b88/my-journey-as-a-full-stack-developer-4k12",
-      "summary": "Hello developers! \n\nI'm a passionate Full-Stack Developer and BCA student who loves turning ideas into real-world applications.\n\nMy journey in software development has been focused on building scalable, user-friendly, an",
+      "title": "How I Built CarbonCompass with Google Antigravity — A Personal Sustainability Coach, Not Just a Calculator",
+      "link": "https://dev.to/mithunvisvesh_s/how-i-built-carboncompass-with-google-antigravity-a-personal-sustainability-coach-not-just-a-1ic",
+      "summary": "Most carbon footprint apps do the same thing:\n\nQuiz → \"Your footprint is 120 kg CO₂/week\" → Generic tips → User never returns.\n\nThat's not a coaching experience. That's a guilt trip with no follow-through.\nFor PromptWars",
       "image": "",
-      "published": "Sat, 20 Jun 2026 13:06:02 +0000",
+      "published": "Sat, 20 Jun 2026 18:36:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When pytest Said \"Passed,\" It Was Lying",
-      "link": "https://dev.to/josephyeo/when-pytest-said-passed-it-was-lying-43p7",
-      "summary": "How a polluted virtual environment made my green tests meaningless\n\n\nPart of the ForgeFlow series — building a coding agent that runs its execution loop locally on an M5 Max, and writing down what actually breaks. Planni",
+      "title": "TypeForge: Cracking the Code of Your Own Typing Mistakes",
+      "link": "https://dev.to/shogun444/typeforge-cracking-the-code-of-your-own-typing-mistakes-2m9g",
+      "summary": "This is a submission for the June Solstice Game Jam\n\n\n  \n  \n  TypeForge: Turing-Inspired Intelligent Typing Coach\n\n\n\n  \n  \n  What I Built\n\n\nTypeForge is a premium typing coach aligned with Apple's Human Interface Guideli",
       "image": "",
-      "published": "Sat, 20 Jun 2026 13:05:33 +0000",
+      "published": "Sat, 20 Jun 2026 18:25:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Launched My First App on the Amazon Appstore: Halo",
-      "link": "https://dev.to/ai_fan369/i-launched-my-first-app-on-the-amazon-appstore-halo-3dap",
-      "summary": "Today, I published my first Android app on the Amazon Appstore.\n\nThe app is called Halo, a task manager built around a simple idea:\n\nProductivity apps shouldn't just be useful — they should feel good to use.\n\nMost task m",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy11cibg3dqjmcj61e7yy.png",
-      "published": "Sat, 20 Jun 2026 12:57:53 +0000",
+      "title": "I Built a Freelance Alternative Where Anyone Can Claim Your Bounty",
+      "link": "https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58",
+      "summary": "How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Edge Security\n\n\nI wanted to build a platform where anyone can post a task (a \"bounty\"), set a reward, and have people complete it with verifiable proo",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 18:21:51 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "A First Look at Scroll-Triggered Animations",
-      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Siren Song of ariaNotify()",
-      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of ariaNotify() originally handwrit",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Prop For That",
-      "link": "https://css-tricks.com/prop-for-that/",
-      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
