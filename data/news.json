@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-20T08:36:14.780222Z",
+  "updated": "2026-06-20T13:18:45.452474Z",
   "articles": [
+    {
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites.\n\nThe vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a mediu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg",
+      "published": "Sat, 20 Jun 2026 15:26:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
       "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
@@ -34,15 +43,6 @@
       "summary": "Dutch law enforcement authorities, along with counterparts from  Canada  , Germany, and the U.S., have disrupted malicious infrastructure associated with  SocGholish  and cleaned up nearly 15,000 infected WordPress websi",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-D7cu6ZQpoZXfPa_eYHuQijjkt6mJRjmoIS9eSnCGPPgyXNz-AChti_zkCGmlefTdBm5bvbyxXbrJVbpVJIneqvDmIMR8t7gXEyBn2JJFrZLW-hTbo_e8UHBFuh9tfki-QyVk2g5_XqbbSX52HYTNSpNzJng8lMfZiIHT3pMQBTjTeZwSqx2khJt2uAk/s1600/endgame.jpg",
       "published": "Fri, 19 Jun 2026 20:37:54 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-ac",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NmhjowFYAIQws_hl2u1bMpkeyma6TUk8UumS90AdqbBjW_NJ5h97i1yV9uJ_GT6zT8A9jaruiGkhqvn0jb4LuaHDDbGtjZbB7tQQibuQmH4WTDeAI898xZnyDuUQOAvzPHooO7C2S2PQFPIvkmwZ8LTLO4xLUP5ygQVuZI3E0quggcAEvtOqKzx4zKdw/s1600/cisa-fortinet.jpg",
-      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Lithuanian startup launches open-source network to detect Shahed-type drones",
+      "link": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+      "summary": "Article URL: https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones\nComments URL: https://news.ycombinator.com/item?id=48608591\nPoints: 13\n# Comments",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 11:58:32 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+      "link": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating\nComments URL: https://news.ycombinator.com/item?id=48608503\nPoints: 34\n# C",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 11:43:29 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "link": "https://bootimus.com",
+      "summary": "Article URL: https://bootimus.com\nComments URL: https://news.ycombinator.com/item?id=48608255\nPoints: 5\n# Comments: 1",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 10:55:18 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "CSSQuake",
+      "link": "https://cssquake.com/",
+      "summary": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 98\n# Comments: 19",
+      "image": "",
+      "published": "Sat, 20 Jun 2026 10:49:53 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "I Stored a Website in a Favicon",
       "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 96\n# Comments: 30",
+      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/\nComments URL: https://news.ycombinator.com/item?id=48606619\nPoints: 190\n# Comments: 73",
       "image": "",
       "published": "Sat, 20 Jun 2026 05:33:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Designing a backyard deck for my house",
-      "link": "https://blog.cosmin.cloud/posts/diy-deck.html",
-      "summary": "Article URL: https://blog.cosmin.cloud/posts/diy-deck.html\nComments URL: https://news.ycombinator.com/item?id=48606413\nPoints: 9\n# Comments: 2",
+      "title": "Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free",
+      "link": "https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3",
+      "summary": "If you have ever bought a used car in the UK, you know the anxiety of hidden mechanical defects and \"clocked\" mileage. While the DVSA (Driver and Vehicle Standards Agency) provides excellent public MOT data, most consume",
       "image": "",
-      "published": "Sat, 20 Jun 2026 04:45:59 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "link": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering\nComments URL: https://news.ycombinator.com/item?id=48606271\nPo",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 04:07:03 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/\nComments URL: https://news.ycombinator.com/item?id=48606140\nPoints: 74\n# Comments: 15",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 03:36:49 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Hey, n00b, we didn't hire you to complete tasks",
-      "link": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete\nComments URL: https://news.ycombinator.com/item?id=48604851\nPoints: 166\n# Comments: 85",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 00:11:07 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "SvGrid: a Svelte 5 native data grid (MIT core, headless + render component, MCP-ready)",
-      "link": "https://dev.to/bmarkov/svgrid-a-svelte-5-native-data-grid-mit-core-headless-render-component-mcp-ready-1j8l",
-      "summary": "The Svelte ecosystem has matured fast in the last year, but one thing I kept hitting was the data grid problem. If you wanted a real one, your options were:\n\n\n\nTanStack Table (Svelte adapter). Headless only, multi-framew",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 08:17:11 +0000",
+      "published": "Sat, 20 Jun 2026 13:11:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Wrong End of the Problem",
-      "link": "https://dev.to/aepfli/the-wrong-end-of-the-problem-4cok",
-      "summary": "The Wrong End of the Problem\n\n\nEvery company wants AI in their development process right now. That part is clear. What's less clear is where they're putting it.\n\nMost teams I see have done the same thing. Handed develope",
+      "title": "I built a dead code forensics CLI because \"this file is unused\" is never enough",
+      "link": "https://dev.to/iamvvekverma/i-built-a-dead-code-forensics-cli-because-this-file-is-unused-is-never-enough-4klo",
+      "summary": "Every senior developer has stared at a file and thought: should I delete this?\n\nYou run vulture. You run deadcode. They both tell you the file has zero import\nsites. You hover over the delete key.\n\nAnd then you don't del",
       "image": "",
-      "published": "Sat, 20 Jun 2026 08:14:26 +0000",
+      "published": "Sat, 20 Jun 2026 13:06:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dancing the Limbo",
-      "link": "https://dev.to/aepfli/dancing-the-limbo-2kf0",
-      "summary": "The current situation is odd, and I am not sure how to tackle it.\nGetting laid off by Dynatrace was a first in my career.\nAlthough I am enjoying this extended time off, it has a strange feeling to it.\nGarden leave ends i",
+      "title": "My Journey as a Full-Stack Developer",
+      "link": "https://dev.to/jayesh_aswani_d9481379b88/my-journey-as-a-full-stack-developer-4k12",
+      "summary": "Hello developers! \n\nI'm a passionate Full-Stack Developer and BCA student who loves turning ideas into real-world applications.\n\nMy journey in software development has been focused on building scalable, user-friendly, an",
       "image": "",
-      "published": "Sat, 20 Jun 2026 08:13:04 +0000",
+      "published": "Sat, 20 Jun 2026 13:06:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Ultimate Guide to OSINT: Framework, Ethics, Tools & Techniques (Part 1)",
-      "link": "https://dev.to/hitanshugedam/the-ultimate-guide-to-osint-framework-ethics-tools-techniques-part-1-2mli",
-      "summary": "Introduction\n\n\nOpen Source Intelligence (OSINT) has emerged as a crucial discipline in the digital era, driven by the rapid growth of information available on the internet. Today, the internet grows by approximately 20-3",
+      "title": "When pytest Said \"Passed,\" It Was Lying",
+      "link": "https://dev.to/josephyeo/when-pytest-said-passed-it-was-lying-43p7",
+      "summary": "How a polluted virtual environment made my green tests meaningless\n\n\nPart of the ForgeFlow series — building a coding agent that runs its execution loop locally on an M5 Max, and writing down what actually breaks. Planni",
       "image": "",
-      "published": "Sat, 20 Jun 2026 08:12:21 +0000",
+      "published": "Sat, 20 Jun 2026 13:05:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI জুনিয়র ডেভেলপারদের চাকরি কমাচ্ছে বাংলাদেশের ফ্রেশারদের কী করতে হবে?",
-      "link": "https://dev.to/jamilxt/ai-juniyr-ddebhelpaarder-caakri-kmaacche-baanlaadesher-phreshaarder-kii-krte-hbe-1dp",
-      "summary": "আমার এক ছোট ভাই CSE থেকে সদ্য পাস করেছে। ভালো CGPA, কোড লিখতে পারে, খুব উৎসাহী। সে আমাকে বললো \"ভাইয়া, LinkedIn এ গত তিন মাসে শুধু জুনিয়র developer এর চাকরি খুঁজছি। কিন্তু যেখানে আগে ১০০টা posting থাকতো, এখন ৩০টা। বাকিগ",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 08:11:52 +0000",
+      "title": "I Launched My First App on the Amazon Appstore: Halo",
+      "link": "https://dev.to/ai_fan369/i-launched-my-first-app-on-the-amazon-appstore-halo-3dap",
+      "summary": "Today, I published my first Android app on the Amazon Appstore.\n\nThe app is called Halo, a task manager built around a simple idea:\n\nProductivity apps shouldn't just be useful — they should feel good to use.\n\nMost task m",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy11cibg3dqjmcj61e7yy.png",
+      "published": "Sat, 20 Jun 2026 12:57:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
