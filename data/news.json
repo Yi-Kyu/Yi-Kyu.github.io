@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T19:20:29.767260Z",
+  "updated": "2026-06-20T01:59:04.371596Z",
   "articles": [
     {
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion gr",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 16:25:02 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Texas govt data breach exposes over 3 million driver’s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
       "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
@@ -70,24 +88,6 @@
       "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help securit",
       "image": "",
       "published": "Fri, 19 Jun 2026 08:12:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-      "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times",
-      "link": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-      "summary": "Article URL: https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/\nComments URL: https://news.ycombinator.com/item?id=48601420\nPoints: 14\n# Comments:",
+      "title": "How to feed a dictator",
+      "link": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film\nComments URL: https://news.ycombinator.com/item?id=48605301\nPoints: 39\n# Comments: 5",
       "image": "",
-      "published": "Fri, 19 Jun 2026 18:14:11 +0000",
+      "published": "Sat, 20 Jun 2026 01:16:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Is AI ruining our skills? Early results are in – and they're not good",
-      "link": "https://www.nature.com/articles/d41586-026-01947-1",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-01947-1\nComments URL: https://news.ycombinator.com/item?id=48601286\nPoints: 95\n# Comments: 85",
+      "title": "A record 242 US cities now have starter homes that cost $1M",
+      "link": "https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx",
+      "summary": "Article URL: https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx\nComments URL: https://news.ycombinator.com/item?id=48605208\nPo",
       "image": "",
-      "published": "Fri, 19 Jun 2026 18:00:48 +0000",
+      "published": "Sat, 20 Jun 2026 01:01:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "link": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech\nComments URL: https://news.ycombinator.com/item?id=48600950\nPoints: 89\n# Comments: 37",
+      "title": "Hey, n00b, we didn't hire you to complete tasks",
+      "link": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete\nComments URL: https://news.ycombinator.com/item?id=48604851\nPoints: 64\n# Comments: 36",
       "image": "",
-      "published": "Fri, 19 Jun 2026 17:34:28 +0000",
+      "published": "Sat, 20 Jun 2026 00:11:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google workspace threatening to block Firefox access",
-      "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "summary": "Article URL: https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html\nComments URL: https://news.ycombinator.com/item?id=48600345\nPoints: 160\n# Comments: 61",
+      "title": "Aikido Code Audit",
+      "link": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "summary": "Article URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase\nComments URL: https://news.ycombinator.com/item?id=48604741\nPoints: 14\n# Comments: 7",
       "image": "",
-      "published": "Fri, 19 Jun 2026 16:30:49 +0000",
+      "published": "Fri, 19 Jun 2026 23:54:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hyundai buys Boston Dynamics",
-      "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "summary": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/\nComments URL: https://news.ycombinator.com/item?id=48600312\nPoints: 243\n# Comments: 119",
+      "title": "Americans express unease over SpaceX's influence on retirement savings",
+      "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk\nComments URL: https://news.ycombinator.com/item?id=48604186\nPoints: 161\n# Comments: 88",
       "image": "",
-      "published": "Fri, 19 Jun 2026 16:28:20 +0000",
+      "published": "Fri, 19 Jun 2026 22:45:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Devs say AI killed their joy. The rot started before ChatGPT.",
-      "link": "https://dev.to/adioof/devs-say-ai-killed-their-joy-the-rot-started-before-chatgpt-4856",
-      "summary": "AI didn't kill your joy. You just finally noticed it was gone.\n\nA post went viral on a developer forum for career advice. It captured a feeling many had been unable to put into words: coding just wasn’t fun anymore. The ",
+      "title": "I stopped trying to make my AI remember everything. That's when it got good.",
+      "link": "https://dev.to/jessin_ra_84ab54c4f940c6a/i-stopped-trying-to-make-my-ai-remember-everything-thats-when-it-got-good-4616",
+      "summary": "My grandmother has trouble remembering what she ate for breakfast. But she remembers my birthday. She remembers every grandchild's name. She remembers stories from forty years ago like they happened yesterday.\n\nHer brain",
       "image": "",
-      "published": "Fri, 19 Jun 2026 19:07:49 +0000",
+      "published": "Sat, 20 Jun 2026 01:43:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Self-Evolving AI Agents: The Optimizer Is the Easy Part",
-      "link": "https://dev.to/studiomeyer_io/self-evolving-ai-agents-the-optimizer-is-the-easy-part-3i84",
-      "summary": "There are two kinds of AI agent in production right now. The first one you babysit. You tweak its system prompt, watch it fail on a new kind of task, tweak it again, and the prompt slowly turns into a wall of special cas",
+      "title": "SEO Isn't Dead — But GEO Is already eating Its lunch",
+      "link": "https://dev.to/neilton_rocha_dev/seo-isnt-dead-but-geo-is-already-eating-its-lunch-pon",
+      "summary": "Three signals landed in the same week. Together they answer one question: whether a machine ever mentions your name.\n\nMost teams still ask whether they rank. The sharper question in 2026 is whether a model ever cites the",
       "image": "",
-      "published": "Fri, 19 Jun 2026 19:07:23 +0000",
+      "published": "Sat, 20 Jun 2026 01:43:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Software Tradeoffs",
-      "link": "https://dev.to/lavkeshdwivedi/software-tradeoffs-44e7",
-      "summary": "Originally published on lavkesh.com\n\n\n\n\nEvery design decision you make closes off something else, which is just how software works, so making tradeoffs consciously is key, rather than doing it accidentally by adding feat",
+      "title": "Moving Codex Threads to a New Mac",
+      "link": "https://dev.to/robcube/moving-codex-threads-to-a-new-mac-2n3i",
+      "summary": "As an Open AI Partner and I'm in the middle of switching Macs from M1 Air to M4 Air. What. a. pain. Especially in the enterprise world where you cannot just simply migrate everything from one Mac to another like you can ",
       "image": "",
-      "published": "Fri, 19 Jun 2026 19:02:53 +0000",
+      "published": "Sat, 20 Jun 2026 01:25:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Power BI Turns Raw Data Into Decisions",
-      "link": "https://dev.to/lavkeshdwivedi/power-bi-turns-raw-data-into-decisions-2dbb",
-      "summary": "Originally published on lavkesh.com\n\n\n\n\nYou have data everywhere. Sales databases, marketing spreadsheets, customer logs, financial systems. It's all sitting there, but it doesn't tell you anything. You need someone to p",
+      "title": "Don't make the agent do the geometry",
+      "link": "https://dev.to/earthbound_misfit/dont-make-the-agent-do-the-geometry-4dh1",
+      "summary": "I asked an agent to turn a handful of stickies into a mind map with connectors. Thirty-eight seconds later it had built one: a hub in the middle, five branches around it, an arrow from the hub to each branch. The five br",
       "image": "",
-      "published": "Fri, 19 Jun 2026 19:02:51 +0000",
+      "published": "Sat, 20 Jun 2026 01:10:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "44/60 Days System Design Questions",
-      "link": "https://dev.to/thejoud1997/4460-days-system-design-questions-2p0j",
-      "summary": "Your team just shipped \"offline mode\" for your field-service app.\nTechnicians work in basements, tunnels, plant floors — connectivity is unreliable.\n\nThe demo looked great. Navigator.onLine said false, the app kept worki",
+      "title": "I Made Claude Code Think Before It Codes. Then I Gave It a Team.",
+      "link": "https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8",
+      "summary": "A while back I wrote a post called \"I Made Claude Code Think Before It Codes. Here's the Prompt.\" The premise struck a nerve: the problem with AI coding assistants was never intelligence. These models can write a working",
       "image": "",
-      "published": "Fri, 19 Jun 2026 19:02:12 +0000",
+      "published": "Sat, 20 Jun 2026 01:07:41 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "A First Look at Scroll-Triggered Animations",
-      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Siren Song of ariaNotify()",
-      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of ariaNotify() originally handwrit",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Prop For That",
-      "link": "https://css-tricks.com/prop-for-that/",
-      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
