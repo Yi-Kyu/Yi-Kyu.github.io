@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T09:33:08.042202Z",
+  "updated": "2026-06-21T13:28:32.994378Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -137,47 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Closing Chapter 1: From Query to Data",
-      "link": "https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb",
-      "summary": "We opened Chapter 1 with a single line, SELECT * FROM users WHERE id = 1. For that line to leave the client and come back as a result row, the PostgreSQL backend went through five stages. First it decided which processin",
+      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+      "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\nComments URL: https://news.ycombinator.com/item?id=48618455\nPoints: 34\n# Comments: 21",
       "image": "",
-      "published": "Sun, 21 Jun 2026 09:18:04 +0000",
+      "published": "Sun, 21 Jun 2026 12:44:13 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "link": "https://github.com/proteanthread/bcg",
+      "summary": "Article URL: https://github.com/proteanthread/bcg\nComments URL: https://news.ycombinator.com/item?id=48618226\nPoints: 8\n# Comments: 2",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 12:11:29 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Foreign-Born Entrepreneurs Drive America's Unicorn Boom",
+      "link": "https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/",
+      "summary": "Article URL: https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/\nComments URL: https://news.ycombinator.com/item?id=48617991\nPoints: 10\n# Comments: 3",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 11:38:09 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "link": "https://www.beyondallreason.info",
+      "summary": "Article URL: https://www.beyondallreason.info\nComments URL: https://news.ycombinator.com/item?id=48617990\nPoints: 45\n# Comments: 17",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 11:38:01 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "summary": "Article URL: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html\nComments URL: https://news.ycombinator.com/item?id=48617782\nPoints: 46\n# Comments: 15",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 11:06:55 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "15 AI Stories Later, Some Honest Words",
+      "link": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
+      "summary": "May 29 I wrote my first AI trainwreck story. June 18 I finished #15.\n\nPeople keep asking if this was some kind of \"writing experiment\" — it wasn't. I'm not that poetic.\n\nThe truth is, nobody was reading what I wrote befo",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 13:21:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin",
-      "link": "https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek",
-      "summary": "A scan node sits at the leaf of the tree and pulls rows from a single table. A join node sits in the middle and brings together the rows that its two children send up. It takes one row from users, one row from orders, ch",
+      "title": "Напиши мне ИИ: новичок который хочет быстро найти обходные пути",
+      "link": "https://dev.to/paullknya/napishi-mnie-ii-novichok-kotoryi-khochiet-bystro-naiti-obkhodnyie-puti-43gl",
+      "summary": "Недавно ко мне обратился новичок, который хочет быстро заработать 3.5 миллиона за то, что я напишу ему ИИ. Всего-то! \n\nОн обещал мне какие-то золотые горы за мой труд? Он хочет чтобы я написал с нуля ему ИИ? Надеюсь вы п",
       "image": "",
-      "published": "Sun, 21 Jun 2026 09:14:47 +0000",
+      "published": "Sun, 21 Jun 2026 13:14:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Fixed the \"AI Commit Messages\" Problem in 20 Lines of Python",
-      "link": "https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a",
-      "summary": "You've probably seen that trending post — \"I Asked AI to Write My Commit Messages and It Was Embarrassing.\"\n\nSame. But instead of accepting embarrassing output, I fixed it.\n\nHere's the thing: the problem isn't AI writing",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 09:14:30 +0000",
+      "title": "🌈 The ultimate polymorphism: PureScript as a universal language",
+      "link": "https://dev.to/0x1/the-ultimate-polymorphism-purescript-as-a-universal-language-5gdi",
+      "summary": "Just as PureScript has expanded into the backend after having long been confined to the frontend (at least in people's minds), it is now spreading to all areas of programming. It’s a polymorphic language that can target ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feybcgjakr8wj1krjw1pk.gif",
+      "published": "Sun, 21 Jun 2026 13:12:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "1.5 Executor: How Results Come Back",
-      "link": "https://dev.to/joonghyukshin/15-executor-how-results-come-back-5978",
-      "summary": "By the time 1.4 ends, the planner has produced one PlannedStmt. Inside it is an execution tree built from Plan nodes, frozen into a form you can follow step by step, something like \"go into the primary key index on users",
+      "title": "# Vector Search and RAG: A Primer",
+      "link": "https://dev.to/ksankar/-vector-search-and-rag-a-primer-1kjb",
+      "summary": "A short learning path from a weekend project: I indexed my personal markdown notes (~800 chunks), tried a few local embedding models, stored the same vectors in four different backends, and wired up simple RAG. Not a pro",
       "image": "",
-      "published": "Sun, 21 Jun 2026 09:11:30 +0000",
+      "published": "Sun, 21 Jun 2026 13:09:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "1.4.10 Planner Hook: When It Fires, How to Use It",
-      "link": "https://dev.to/joonghyukshin/1410-planner-hook-when-it-fires-how-to-use-it-1nec",
-      "summary": "Everything from 1.4.1 through 1.4.9 happened inside a single function, standard_planner(). Building paths, costing them, searching for a join order, estimating cardinality from statistics: all of it runs inside that one ",
+      "title": "Stop Copy-Pasting Regex You Don't Understand: 5 Patterns Explained",
+      "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/stop-copy-pasting-regex-you-dont-understand-5-patterns-explained-335a",
+      "summary": "Stop Copy-Pasting Regex You Don't Understand: 5 Patterns Explained\n\n\nEvery developer has done it: you Google \"regex for email,\" copy the first Stack Overflow answer, paste it into your code, and cross your fingers that i",
       "image": "",
-      "published": "Sun, 21 Jun 2026 09:10:21 +0000",
+      "published": "Sun, 21 Jun 2026 13:05:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
