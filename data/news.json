@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T19:04:16.392061Z",
+  "updated": "2026-06-21T02:11:06.329313Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-      "link": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "summary": "Article URL: https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/\nComments URL: https://news.ycombinator.com/item?id=48611411\nPoints: 123\n# Comments: 32",
+      "title": "White House delays US voting-machine vulnerability report",
+      "link": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
+      "summary": "Article URL: https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/\nComments URL: https://news.ycombinator.com/item?id=48614809\nPoints: 23\n# Comments: 2",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:05:31 +0000",
+      "published": "Sun, 21 Jun 2026 01:29:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ask HN: Due to spam on GitHub, what platforms can I move my projects?",
-      "link": "https://news.ycombinator.com/item?id=48611303",
-      "summary": "I have a few projects on Github. I am receiving a lot of spam PRs and requests from vibe coders and bots. Most of them to prop up their profiles. The stars are obviously exaggerated too.What other platforms are you using",
+      "title": "When I reject AI code even if it works",
+      "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\nComments URL: https://news.ycombinator.com/item?id=48614631\nPoints: 16\n# Comments: 3",
       "image": "",
-      "published": "Sat, 20 Jun 2026 17:52:07 +0000",
+      "published": "Sun, 21 Jun 2026 00:58:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The ability to regrow body parts is dormant in mammals, not lost",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/06/260617032207.htm\nComments URL: https://news.ycombinator.com/item?id=48611083\nPoints: 44\n# Comments: 9",
+      "title": "'We had to get out of the way': The backlash over delivery robots",
+      "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0rygp005wjo\nComments URL: https://news.ycombinator.com/item?id=48614390\nPoints: 19\n# Comments: 11",
       "image": "",
-      "published": "Sat, 20 Jun 2026 17:27:36 +0000",
+      "published": "Sun, 21 Jun 2026 00:12:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "link": "https://www.lispm.net/apps/uhf-x11/",
-      "summary": "Article URL: https://www.lispm.net/apps/uhf-x11/\nComments URL: https://news.ycombinator.com/item?id=48610853\nPoints: 49\n# Comments: 7",
+      "title": "Project Fetch: Phase Two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two\nComments URL: https://news.ycombinator.com/item?id=48614311\nPoints: 28\n# Comments: 8",
       "image": "",
-      "published": "Sat, 20 Jun 2026 17:04:24 +0000",
+      "published": "Sun, 21 Jun 2026 00:00:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "link": "https://github.com/oven-sh/WebKit/pull/249",
-      "summary": "Article URL: https://github.com/oven-sh/WebKit/pull/249\nComments URL: https://news.ycombinator.com/item?id=48610841\nPoints: 44\n# Comments: 30",
+      "title": "Epoll vs. io_uring in Linux",
+      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/\nComments URL: https://news.ycombinator.com/item?id=48613872\nPoints: 55\n# Comments: 17",
       "image": "",
-      "published": "Sat, 20 Jun 2026 17:02:49 +0000",
+      "published": "Sat, 20 Jun 2026 23:07:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I Built a Counter Program in Anchor and Learned to Trust My Tests",
-      "link": "https://dev.to/lymah/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-1akg",
-      "summary": "I spent a week building a counter program in Anchor — the Rust framework\nfor writing Solana programs. By the end I had two instructions, one\nauthorization constraint, and a test suite I could actually trust. Here\nis what",
+      "title": "Connecting an MCP server gives your agent hands. It also gives a stranger a way in.",
+      "link": "https://dev.to/rapls/connecting-an-mcp-server-gives-your-agent-hands-it-also-gives-a-stranger-a-way-in-3mgi",
+      "summary": "The moment you connect an MCP server, your coding agent stops being a thing that reads and writes in your repo and becomes a thing that can reach out and act. Read a database, hit an API, touch a service, pull in a web p",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:54:21 +0000",
+      "published": "Sun, 21 Jun 2026 01:53:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The AI \"Doom Loop\": Why your autonomous coding agent is making things worse, and how to fix it",
-      "link": "https://dev.to/meherbhaskar/the-ai-doom-loop-why-your-autonomous-coding-agent-is-making-things-worse-and-how-to-fix-it-3cb0",
-      "summary": "If you’ve spent any time working with autonomous AI coding agents recently, you know the drill. \n\nYou give the agent a straightforward task: \"Add a user profile page and link it to the navbar.\" \n\nThe agent says, \"I've go",
+      "title": "Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South",
+      "link": "https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2",
+      "summary": "Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South\n\n\nThere's a question I ask before building anything:\n\n\"What is missing?\"\n\nNot: \"How do I compete with what already exists?\"\n\nThe answer to th",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:42:53 +0000",
+      "published": "Sun, 21 Jun 2026 01:35:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built CarbonCompass with Google Antigravity — A Personal Sustainability Coach, Not Just a Calculator",
-      "link": "https://dev.to/mithunvisvesh_s/how-i-built-carboncompass-with-google-antigravity-a-personal-sustainability-coach-not-just-a-1ic",
-      "summary": "Most carbon footprint apps do the same thing:\n\nQuiz → \"Your footprint is 120 kg CO₂/week\" → Generic tips → User never returns.\n\nThat's not a coaching experience. That's a guilt trip with no follow-through.\nFor PromptWars",
+      "title": "Building a Practical AI Assistant with Python: From Prompt to Production Thinking",
+      "link": "https://dev.to/alton_zheng_15fb4bf0d73a3/building-a-practical-ai-assistant-with-python-from-prompt-to-production-thinking-ofg",
+      "summary": "Why Python is still one of the best choices for AI\n\n\nPython is popular in AI because it has a strong ecosystem, simple syntax, and great support for data processing, APIs, automation, and machine learning.\n\nFor AI applic",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:36:15 +0000",
+      "published": "Sun, 21 Jun 2026 01:21:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TypeForge: Cracking the Code of Your Own Typing Mistakes",
-      "link": "https://dev.to/shogun444/typeforge-cracking-the-code-of-your-own-typing-mistakes-2m9g",
-      "summary": "This is a submission for the June Solstice Game Jam\n\n\n  \n  \n  TypeForge: Turing-Inspired Intelligent Typing Coach\n\n\n\n  \n  \n  What I Built\n\n\nTypeForge is a premium typing coach aligned with Apple's Human Interface Guideli",
+      "title": "CI gates for AI-generated PRs need re-derivable evidence",
+      "link": "https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e",
+      "summary": "When a CI gate flags an AI-generated PR, the important question is not only \"what did it flag?\"\n\nIt is also:\n\n\"Could someone else come back later and re-derive why this finding fired?\"\n\nThat is the reason I added evidenc",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:25:29 +0000",
+      "published": "Sun, 21 Jun 2026 01:08:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Freelance Alternative Where Anyone Can Claim Your Bounty",
-      "link": "https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58",
-      "summary": "How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Edge Security\n\n\nI wanted to build a platform where anyone can post a task (a \"bounty\"), set a reward, and have people complete it with verifiable proo",
+      "title": "React.js ~useState Antipatterns~",
+      "link": "https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9",
+      "summary": "1. Consider grouping related conditions together\n\n\nBefore\n\n\n\n\n  const [x, setX] = useState(0);\n  const [y, setY] = useState(0);\n\n  const handlePointerMove = (e) =&gt; {\n    setX(e.clientX);\n    setY(e.clientY);\n  };\n  re",
       "image": "",
-      "published": "Sat, 20 Jun 2026 18:21:51 +0000",
+      "published": "Sun, 21 Jun 2026 01:06:41 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "A First Look at Scroll-Triggered Animations",
+      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
+      "image": "",
+      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Siren Song of ariaNotify()",
+      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
+      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of ariaNotify() originally handwrit",
+      "image": "",
+      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Prop For That",
+      "link": "https://css-tricks.com/prop-for-that/",
+      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
+      "image": "",
+      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
+      "link": "https://css-tricks.com/whats-important-13/",
+      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
+      "image": "",
+      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Why Isn’t My 3D View Transition Working?",
+      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
+      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
+      "image": "",
+      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
