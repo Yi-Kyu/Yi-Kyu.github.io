@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T02:11:06.329313Z",
+  "updated": "2026-06-21T09:33:08.042202Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -137,92 +137,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "White House delays US voting-machine vulnerability report",
-      "link": "https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/",
-      "summary": "Article URL: https://www.reuters.com/world/white-house-delays-release-us-voting-machine-study-midterms-near-2026-06-19/\nComments URL: https://news.ycombinator.com/item?id=48614809\nPoints: 23\n# Comments: 2",
+      "title": "Closing Chapter 1: From Query to Data",
+      "link": "https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb",
+      "summary": "We opened Chapter 1 with a single line, SELECT * FROM users WHERE id = 1. For that line to leave the client and come back as a result row, the PostgreSQL backend went through five stages. First it decided which processin",
       "image": "",
-      "published": "Sun, 21 Jun 2026 01:29:53 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "When I reject AI code even if it works",
-      "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\nComments URL: https://news.ycombinator.com/item?id=48614631\nPoints: 16\n# Comments: 3",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 00:58:13 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "link": "https://www.bbc.com/news/articles/c0rygp005wjo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c0rygp005wjo\nComments URL: https://news.ycombinator.com/item?id=48614390\nPoints: 19\n# Comments: 11",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 00:12:49 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Project Fetch: Phase Two",
-      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "summary": "Article URL: https://www.anthropic.com/research/project-fetch-phase-two\nComments URL: https://news.ycombinator.com/item?id=48614311\nPoints: 28\n# Comments: 8",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 00:00:25 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Epoll vs. io_uring in Linux",
-      "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "summary": "Article URL: https://sibexi.co/posts/epoll-vs-io_uring/\nComments URL: https://news.ycombinator.com/item?id=48613872\nPoints: 55\n# Comments: 17",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 23:07:09 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Connecting an MCP server gives your agent hands. It also gives a stranger a way in.",
-      "link": "https://dev.to/rapls/connecting-an-mcp-server-gives-your-agent-hands-it-also-gives-a-stranger-a-way-in-3mgi",
-      "summary": "The moment you connect an MCP server, your coding agent stops being a thing that reads and writes in your repo and becomes a thing that can reach out and act. Read a database, hit an API, touch a service, pull in a web p",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 01:53:52 +0000",
+      "published": "Sun, 21 Jun 2026 09:18:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South",
-      "link": "https://dev.to/gabrielmahia/build-rails-not-trains-a-framework-for-ai-infrastructure-in-the-global-south-3nk2",
-      "summary": "Build Rails, Not Trains: A Framework for AI Infrastructure in the Global South\n\n\nThere's a question I ask before building anything:\n\n\"What is missing?\"\n\nNot: \"How do I compete with what already exists?\"\n\nThe answer to th",
+      "title": "1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin",
+      "link": "https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek",
+      "summary": "A scan node sits at the leaf of the tree and pulls rows from a single table. A join node sits in the middle and brings together the rows that its two children send up. It takes one row from users, one row from orders, ch",
       "image": "",
-      "published": "Sun, 21 Jun 2026 01:35:35 +0000",
+      "published": "Sun, 21 Jun 2026 09:14:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Practical AI Assistant with Python: From Prompt to Production Thinking",
-      "link": "https://dev.to/alton_zheng_15fb4bf0d73a3/building-a-practical-ai-assistant-with-python-from-prompt-to-production-thinking-ofg",
-      "summary": "Why Python is still one of the best choices for AI\n\n\nPython is popular in AI because it has a strong ecosystem, simple syntax, and great support for data processing, APIs, automation, and machine learning.\n\nFor AI applic",
+      "title": "I Fixed the \"AI Commit Messages\" Problem in 20 Lines of Python",
+      "link": "https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a",
+      "summary": "You've probably seen that trending post — \"I Asked AI to Write My Commit Messages and It Was Embarrassing.\"\n\nSame. But instead of accepting embarrassing output, I fixed it.\n\nHere's the thing: the problem isn't AI writing",
       "image": "",
-      "published": "Sun, 21 Jun 2026 01:21:33 +0000",
+      "published": "Sun, 21 Jun 2026 09:14:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CI gates for AI-generated PRs need re-derivable evidence",
-      "link": "https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e",
-      "summary": "When a CI gate flags an AI-generated PR, the important question is not only \"what did it flag?\"\n\nIt is also:\n\n\"Could someone else come back later and re-derive why this finding fired?\"\n\nThat is the reason I added evidenc",
+      "title": "1.5 Executor: How Results Come Back",
+      "link": "https://dev.to/joonghyukshin/15-executor-how-results-come-back-5978",
+      "summary": "By the time 1.4 ends, the planner has produced one PlannedStmt. Inside it is an execution tree built from Plan nodes, frozen into a form you can follow step by step, something like \"go into the primary key index on users",
       "image": "",
-      "published": "Sun, 21 Jun 2026 01:08:59 +0000",
+      "published": "Sun, 21 Jun 2026 09:11:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "React.js ~useState Antipatterns~",
-      "link": "https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9",
-      "summary": "1. Consider grouping related conditions together\n\n\nBefore\n\n\n\n\n  const [x, setX] = useState(0);\n  const [y, setY] = useState(0);\n\n  const handlePointerMove = (e) =&gt; {\n    setX(e.clientX);\n    setY(e.clientY);\n  };\n  re",
+      "title": "1.4.10 Planner Hook: When It Fires, How to Use It",
+      "link": "https://dev.to/joonghyukshin/1410-planner-hook-when-it-fires-how-to-use-it-1nec",
+      "summary": "Everything from 1.4.1 through 1.4.9 happened inside a single function, standard_planner(). Building paths, costing them, searching for a join order, estimating cardinality from statistics: all of it runs inside that one ",
       "image": "",
-      "published": "Sun, 21 Jun 2026 01:06:41 +0000",
+      "published": "Sun, 21 Jun 2026 09:10:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
