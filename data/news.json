@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T13:28:32.994378Z",
+  "updated": "2026-06-21T19:08:26.467165Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+      "image": "",
+      "published": "Sun, 21 Jun 2026 10:14:22 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
@@ -79,15 +88,6 @@
       "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
       "image": "",
       "published": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-      "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
-      "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\nComments URL: https://news.ycombinator.com/item?id=48618455\nPoints: 34\n# Comments: 21",
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=48620504\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Sun, 21 Jun 2026 12:44:13 +0000",
+      "published": "Sun, 21 Jun 2026 17:00:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "link": "https://github.com/proteanthread/bcg",
-      "summary": "Article URL: https://github.com/proteanthread/bcg\nComments URL: https://news.ycombinator.com/item?id=48618226\nPoints: 8\n# Comments: 2",
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "summary": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers\nComments URL: https://news.ycombinator.com/item?id=48620462\nPoints: 65\n# Comments: 23",
       "image": "",
-      "published": "Sun, 21 Jun 2026 12:11:29 +0000",
+      "published": "Sun, 21 Jun 2026 16:56:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Foreign-Born Entrepreneurs Drive America's Unicorn Boom",
-      "link": "https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/",
-      "summary": "Article URL: https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/\nComments URL: https://news.ycombinator.com/item?id=48617991\nPoints: 10\n# Comments: 3",
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "link": "https://brandur.org/minimum-viable-unit",
+      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 47\n# Comments: 16",
       "image": "",
-      "published": "Sun, 21 Jun 2026 11:38:09 +0000",
+      "published": "Sun, 21 Jun 2026 16:41:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "link": "https://www.beyondallreason.info",
-      "summary": "Article URL: https://www.beyondallreason.info\nComments URL: https://news.ycombinator.com/item?id=48617990\nPoints: 45\n# Comments: 17",
+      "title": "The early hiring funnel is now breaking on both ends",
+      "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "summary": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it\nComments URL: https://news.ycombinator.com/item?id=48620142\nPoints: 60\n# Comments: 89",
       "image": "",
-      "published": "Sun, 21 Jun 2026 11:38:01 +0000",
+      "published": "Sun, 21 Jun 2026 16:14:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The case against geometric algebra (2024)",
-      "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "summary": "Article URL: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html\nComments URL: https://news.ycombinator.com/item?id=48617782\nPoints: 46\n# Comments: 15",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 256\n# Comments: 173",
       "image": "",
-      "published": "Sun, 21 Jun 2026 11:06:55 +0000",
+      "published": "Sun, 21 Jun 2026 16:08:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "15 AI Stories Later, Some Honest Words",
-      "link": "https://dev.to/xulingfeng/15-ai-stories-later-some-honest-words-o9j",
-      "summary": "May 29 I wrote my first AI trainwreck story. June 18 I finished #15.\n\nPeople keep asking if this was some kind of \"writing experiment\" — it wasn't. I'm not that poetic.\n\nThe truth is, nobody was reading what I wrote befo",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 13:21:56 +0000",
+      "title": "Wiring AI Code Review into a Bitbucket + Jira Workflow",
+      "link": "https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8",
+      "summary": "Hello Devs 👋\n\nIf your team uses Bitbucket + Jira, your workflow probably looks something like this:\n\n\nPick a Jira ticket\nCreate a branch\nPush code\nOpen a pull request\nGet reviews\nMerge and close the ticket\n\n\nPretty strai",
+      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1204850%2F1873cf6a-e8a7-4d43-9af8-296ac0506b3a.jpg",
+      "published": "Sun, 21 Jun 2026 19:02:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Напиши мне ИИ: новичок который хочет быстро найти обходные пути",
-      "link": "https://dev.to/paullknya/napishi-mnie-ii-novichok-kotoryi-khochiet-bystro-naiti-obkhodnyie-puti-43gl",
-      "summary": "Недавно ко мне обратился новичок, который хочет быстро заработать 3.5 миллиона за то, что я напишу ему ИИ. Всего-то! \n\nОн обещал мне какие-то золотые горы за мой труд? Он хочет чтобы я написал с нуля ему ИИ? Надеюсь вы п",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 13:14:42 +0000",
+      "title": "SOLSTICE, A shadow capture game in C",
+      "link": "https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn",
+      "summary": "What I Built\n\n\nA two-player terminal strategy game written in C. No libraries, no graphical engin, just ANSI colors and printf.\n\nTwo players place stones on a 9×9 grid. Each stone casts a shadow away from the sun. The sh",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Sun, 21 Jun 2026 19:01:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🌈 The ultimate polymorphism: PureScript as a universal language",
-      "link": "https://dev.to/0x1/the-ultimate-polymorphism-purescript-as-a-universal-language-5gdi",
-      "summary": "Just as PureScript has expanded into the backend after having long been confined to the frontend (at least in people's minds), it is now spreading to all areas of programming. It’s a polymorphic language that can target ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feybcgjakr8wj1krjw1pk.gif",
-      "published": "Sun, 21 Jun 2026 13:12:49 +0000",
+      "title": "Racing a Next.js API route: coupon abuse with Prisma and SQLite",
+      "link": "https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma",
+      "summary": "OopsSec Store validates a coupon and increments its counter in two separate database calls. Send enough concurrent requests and several slip through the check before any of them completes the increment.\n\n\nThe OopsSec Sto",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs5tl7c76x9bdhzy6f36o.png",
+      "published": "Sun, 21 Jun 2026 19:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "# Vector Search and RAG: A Primer",
-      "link": "https://dev.to/ksankar/-vector-search-and-rag-a-primer-1kjb",
-      "summary": "A short learning path from a weekend project: I indexed my personal markdown notes (~800 chunks), tried a few local embedding models, stored the same vectors in four different backends, and wired up simple RAG. Not a pro",
+      "title": "Adding a coach directory to a plans-only platform",
+      "link": "https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8",
+      "summary": "The product started as a way to follow structured plans. The obvious next step people kept asking for was simpler than I expected: just let me talk to a real coach.\n\nSo I built a browsable, filterable directory of coache",
       "image": "",
-      "published": "Sun, 21 Jun 2026 13:09:05 +0000",
+      "published": "Sun, 21 Jun 2026 18:59:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Copy-Pasting Regex You Don't Understand: 5 Patterns Explained",
-      "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/stop-copy-pasting-regex-you-dont-understand-5-patterns-explained-335a",
-      "summary": "Stop Copy-Pasting Regex You Don't Understand: 5 Patterns Explained\n\n\nEvery developer has done it: you Google \"regex for email,\" copy the first Stack Overflow answer, paste it into your code, and cross your fingers that i",
+      "title": "Turing’s Light: Escape the Enigma – June Solstice Game Jam Submission",
+      "link": "https://dev.to/shaheer_rustam_a8273edddd/turings-light-escape-the-enigma-june-solstice-game-jam-submission-1m3f",
+      "summary": "🎮 The Game\n\n\nTuring’s Light: Escape the Enigma is an AI‑powered puzzle game where you wake in a dark room and rely on ECHO, a ghostly AI echo of Alan Turing, to fire beams of light into the void.\n\n\n\nLive Demo: https://tu",
       "image": "",
-      "published": "Sun, 21 Jun 2026 13:05:23 +0000",
+      "published": "Sun, 21 Jun 2026 18:54:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
