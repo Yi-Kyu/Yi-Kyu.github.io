@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:08:26.467165Z",
+  "updated": "2026-06-22T02:14:40.586795Z",
   "articles": [
     {
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
-      "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\nComments URL: https://news.ycombinator.com/item?id=48620504\nPoints: 0\n# Comments: 0",
+      "title": "You're probably using Agent Skills wrong",
+      "link": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "summary": "Article URL: https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/\nComments URL: https://news.ycombinator.com/item?id=48624327\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Sun, 21 Jun 2026 17:00:28 +0000",
+      "published": "Mon, 22 Jun 2026 01:02:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-      "link": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "summary": "Article URL: https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers\nComments URL: https://news.ycombinator.com/item?id=48620462\nPoints: 65\n# Comments: 23",
+      "title": "The Doom Justifies the Valuation",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html\nComments URL: https://news.ycombinator.com/item?id=48624195\nPoints: 58\n# Comments: 41",
       "image": "",
-      "published": "Sun, 21 Jun 2026 16:56:18 +0000",
+      "published": "Mon, 22 Jun 2026 00:45:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "link": "https://brandur.org/minimum-viable-unit",
-      "summary": "Article URL: https://brandur.org/minimum-viable-unit\nComments URL: https://news.ycombinator.com/item?id=48620342\nPoints: 47\n# Comments: 16",
+      "title": "1983 Northern Telecom Commodore Phone",
+      "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+      "summary": "Article URL: https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\nComments URL: https://news.ycombinator.com/item?id=48624114\nPoints: 18\n# Comments: 2",
       "image": "",
-      "published": "Sun, 21 Jun 2026 16:41:21 +0000",
+      "published": "Mon, 22 Jun 2026 00:34:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The early hiring funnel is now breaking on both ends",
-      "link": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "summary": "Article URL: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it\nComments URL: https://news.ycombinator.com/item?id=48620142\nPoints: 60\n# Comments: 89",
+      "title": "Petition against Meta's employee training data collection for ML models",
+      "link": "https://mcipetition.com/",
+      "summary": "Article URL: https://mcipetition.com/\nComments URL: https://news.ycombinator.com/item?id=48623721\nPoints: 36\n# Comments: 29",
       "image": "",
-      "published": "Sun, 21 Jun 2026 16:14:54 +0000",
+      "published": "Sun, 21 Jun 2026 23:34:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "summary": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 256\n# Comments: 173",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\nComments URL: https://news.ycombinator.com/item?id=48623434\nPoints: 22\n# Comments: 2",
       "image": "",
-      "published": "Sun, 21 Jun 2026 16:08:23 +0000",
+      "published": "Sun, 21 Jun 2026 22:55:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Wiring AI Code Review into a Bitbucket + Jira Workflow",
-      "link": "https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8",
-      "summary": "Hello Devs 👋\n\nIf your team uses Bitbucket + Jira, your workflow probably looks something like this:\n\n\nPick a Jira ticket\nCreate a branch\nPush code\nOpen a pull request\nGet reviews\nMerge and close the ticket\n\n\nPretty strai",
-      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1204850%2F1873cf6a-e8a7-4d43-9af8-296ac0506b3a.jpg",
-      "published": "Sun, 21 Jun 2026 19:02:11 +0000",
+      "title": "Hermes Agent Codebase Packing Tool Usage Guide (repomix-rs High-Performance Edition)",
+      "link": "https://dev.to/sopaco/hermes-agent-codebase-packing-tool-usage-guide-repomix-rs-high-performance-edition-3hko",
+      "summary": "This is the official recommended usage guide for repomix-rs — repomix-rs is a high-performance Rust rewriting of the original Repomix (TypeScript), fully compatible with the original usage pattern, and Faster, Safer, and",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 01:59:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SOLSTICE, A shadow capture game in C",
-      "link": "https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn",
-      "summary": "What I Built\n\n\nA two-player terminal strategy game written in C. No libraries, no graphical engin, just ANSI colors and printf.\n\nTwo players place stones on a 9×9 grid. Each stone casts a shadow away from the sun. The sh",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sun, 21 Jun 2026 19:01:33 +0000",
+      "title": "How to Ship Your First App Using Vibe Coding in a Weekend",
+      "link": "https://dev.to/jakub_inithouse/how-to-ship-your-first-app-using-vibe-coding-in-a-weekend-2n0p",
+      "summary": "You describe what you want in plain English. The AI writes the code. You ship by Sunday.\n\nThat is the pitch behind vibe coding, and after shipping a growing portfolio of products this way at Inithouse, a studio running p",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 01:55:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Racing a Next.js API route: coupon abuse with Prisma and SQLite",
-      "link": "https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma",
-      "summary": "OopsSec Store validates a coupon and increments its counter in two separate database calls. Send enough concurrent requests and several slip through the check before any of them completes the increment.\n\n\nThe OopsSec Sto",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs5tl7c76x9bdhzy6f36o.png",
-      "published": "Sun, 21 Jun 2026 19:00:00 +0000",
+      "title": "Your Agent Checked Everything. It Was Still Wrong.",
+      "link": "https://dev.to/antonio_zhu_e726fd856cd86/your-agent-checked-everything-it-was-still-wrong-18kd",
+      "summary": "I have been running a multi-agent development workflow for months now — one model writes the design, another generates the code, a third reviews the implementation, and I approve the result. It works well most of the tim",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 01:51:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Adding a coach directory to a plans-only platform",
-      "link": "https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8",
-      "summary": "The product started as a way to follow structured plans. The obvious next step people kept asking for was simpler than I expected: just let me talk to a real coach.\n\nSo I built a browsable, filterable directory of coache",
+      "title": "Why I Built my Own Suite of Android Tools for macOS in Rust",
+      "link": "https://dev.to/hiyoyok/why-i-built-my-own-suite-of-android-tools-for-macos-in-rust-cc7",
+      "summary": "All tests run on an 8-year-old MacBook Air (Intel). Every tool in my suite has to earn its place on this machine—if it can't run lean here, it doesn't ship.\n\nDeveloping for Android on macOS should be seamless, but the re",
       "image": "",
-      "published": "Sun, 21 Jun 2026 18:59:57 +0000",
+      "published": "Mon, 22 Jun 2026 01:47:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Turing’s Light: Escape the Enigma – June Solstice Game Jam Submission",
-      "link": "https://dev.to/shaheer_rustam_a8273edddd/turings-light-escape-the-enigma-june-solstice-game-jam-submission-1m3f",
-      "summary": "🎮 The Game\n\n\nTuring’s Light: Escape the Enigma is an AI‑powered puzzle game where you wake in a dark room and rely on ECHO, a ghostly AI echo of Alan Turing, to fire beams of light into the void.\n\n\n\nLive Demo: https://tu",
+      "title": "The 5 Cost Traps That Will Quietly Bleed Your AI API Gateway Dry (And How to Fix Them)",
+      "link": "https://dev.to/ai-gateway-veteran/the-5-cost-traps-that-will-quietly-bleed-your-ai-api-gateway-dry-and-how-to-fix-them-326j",
+      "summary": "In my last post, we talked about key cache invalidation — the silent production killer that turns your gateway into a 502 factory. Today I want to talk about something equally dangerous but far more insidious: cost traps",
       "image": "",
-      "published": "Sun, 21 Jun 2026 18:54:54 +0000",
+      "published": "Mon, 22 Jun 2026 01:47:21 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "A First Look at Scroll-Triggered Animations",
-      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Siren Song of ariaNotify()",
-      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of ariaNotify() originally handwrit",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Prop For That",
-      "link": "https://css-tricks.com/prop-for-that/",
-      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Why Isn’t My 3D View Transition Working?",
-      "link": "https://css-tricks.com/why-isnt-my-3d-view-transition-working/",
-      "summary": "Why isn't my 3D view transition working?! Sunkanmi tackles this frustration and offers an elegant fix for it.\n\nWhy Isn&#8217;t My 3D View Transition Working? originally handwritten and published with love on CSS-Tricks. ",
-      "image": "",
-      "published": "Fri, 12 Jun 2026 15:09:00 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
