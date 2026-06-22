@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-22T16:21:00.707772Z",
+  "updated": "2026-06-22T20:27:25.814999Z",
   "articles": [
+    {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attackers compromised the ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg",
+      "published": "Mon, 22 Jun 2026 23:30:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial int",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png",
+      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
       "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security &amp; Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using lega",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg",
-      "published": "Mon, 22 Jun 2026 17:28:00 +0530",
-      "source": "The Hacker News",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "summary": "It’s Monday again.\n\nThis week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much co",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif",
-      "published": "Mon, 22 Jun 2026 16:25:10 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 13:41:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a ma",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 13:28:57 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
       "image": "",
       "published": "Sun, 21 Jun 2026 10:14:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "image": "",
-      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion gr",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Git is forever. I'm building Oak anyways",
-      "link": "https://oak.space/blog",
-      "summary": "Article URL: https://oak.space/blog\nComments URL: https://news.ycombinator.com/item?id=48631726\nPoints: 16\n# Comments: 7",
+      "title": "Jobs and Software Is Fucked",
+      "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+      "summary": "Article URL: https://urflow.bearblog.dev/jobs-and-software-is-fucked/\nComments URL: https://news.ycombinator.com/item?id=48635112\nPoints: 57\n# Comments: 23",
       "image": "",
-      "published": "Mon, 22 Jun 2026 15:37:48 +0000",
+      "published": "Mon, 22 Jun 2026 19:47:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
-      "link": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-      "summary": "Article URL: https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0\nComments URL: https://news.ycombinator.com/item?id=48631058\nPoints: 44\n# Comments: 17",
+      "title": "SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
+      "link": "https://finance.yahoo.com/quote/SPCX/",
+      "summary": "Article URL: https://finance.yahoo.com/quote/SPCX/\nComments URL: https://news.ycombinator.com/item?id=48634931\nPoints: 33\n# Comments: 9",
       "image": "",
-      "published": "Mon, 22 Jun 2026 14:55:51 +0000",
+      "published": "Mon, 22 Jun 2026 19:33:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
-      "link": "https://github.com/0xroylee/ponytrail",
-      "summary": "Article URL: https://github.com/0xroylee/ponytrail\nComments URL: https://news.ycombinator.com/item?id=48631043\nPoints: 20\n# Comments: 8",
+      "title": "Japanese symbols that speak without words",
+      "link": "https://arun.is/blog/japan-symbols/",
+      "summary": "Article URL: https://arun.is/blog/japan-symbols/\nComments URL: https://news.ycombinator.com/item?id=48634803\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Mon, 22 Jun 2026 14:54:59 +0000",
+      "published": "Mon, 22 Jun 2026 19:22:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-      "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "summary": "Article URL: https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/\nComments URL: https://news.ycombinator.com/item?id=48630535\nPoints: 98\n# Comments: 75",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "summary": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\nComments URL: https://news.ycombinator.com/item?id=48634787\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Mon, 22 Jun 2026 14:22:46 +0000",
+      "published": "Mon, 22 Jun 2026 19:21:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia Halos",
-      "link": "https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/",
-      "summary": "Article URL: https://www.nvidia.com/en-us/ai-trust-center/halos/autonomous-vehicles/\nComments URL: https://news.ycombinator.com/item?id=48630220\nPoints: 53\n# Comments: 28",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "link": "https://github.com/dorukkumkumoglu/optocamzero",
+      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero\nComments URL: https://news.ycombinator.com/item?id=48634778\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Mon, 22 Jun 2026 13:57:49 +0000",
+      "published": "Mon, 22 Jun 2026 19:19:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SaaS agentic onboarding vs dev tool agentic onboarding",
-      "link": "https://dev.to/marie_gouilliard_748217d5/saas-agentic-onboarding-vs-dev-tool-agentic-onboarding-3kc7",
-      "summary": "While we believe the agentic onboarding for every SaaS tools needs to become a personalized conversation - I am realizing the onboarding experience for dev tools is soooo different.\n\nI came up in the pre-AI era where bui",
+      "title": "用 p5.js 做出會回應滑鼠的日式粒子背景，讓你的作品頁面更有互動感",
+      "link": "https://dev.to/_0c004e5fde78250aee362/yong-p5js-zuo-chu-hui-hui-ying-hua-shu-de-ri-shi-li-zi-bei-jing-rang-ni-de-zuo-pin-ye-mian-geng-you-hu-dong-gan-44m2",
+      "summary": "讓你的作品集「活」起來：日式互動粒子背景拆解\n\n\n很多設計系同學在做作品集網頁時，最頭痛的就是「首頁太死板」。想要一點互動感，但看到程式碼就頭大。\n\n其實，要做出像 TeamLab 那種「有靈魂」的視覺效果，不需要成為工程師，你只需要掌握「粒子系統」這個簡單的邏輯。\n\n今天我想分享如何用 p5.js 做出一個具有日式美學（低飽和、流動感、留白）的互動背景。\n\n\n  \n  \n  🎨 作品拆解：視覺語言的定義\n\n\n在動手寫 code 之前，",
       "image": "",
-      "published": "Mon, 22 Jun 2026 16:14:41 +0000",
+      "published": "Mon, 22 Jun 2026 20:17:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Logs Aren't Enough: Using tcpdump to Debug Real Network Problems",
-      "link": "https://dev.to/mohhddhassan/when-logs-arent-enough-using-tcpdump-to-debug-real-network-problems-2d39",
-      "summary": "In my previous post, I wrote about a Linux routing issue that broke a deployment and caused repeated validation failures.\n\nWhat ultimately led me to the root cause wasn't a configuration change or a log entry.\n\nIt was a ",
+      "title": "From REST to gRPC to GraphQL: Why Your Next API Strategy Needs a Multi-Protocol Approach",
+      "link": "https://dev.to/vaixbhav/from-rest-to-grpc-to-graphql-why-your-next-api-strategy-needs-a-multi-protocol-approach-409d",
+      "summary": "From REST to gRPC to GraphQL: Why Your Next API Strategy Needs a Multi-Protocol Approach\n\n\nForget the notion of a single 'best' API protocol. It's a myth, perpetuated by a desire for simplicity that doesn't hold up in th",
       "image": "",
-      "published": "Mon, 22 Jun 2026 16:13:56 +0000",
+      "published": "Mon, 22 Jun 2026 20:16:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Code Refactoring Tools in 2026: A Practical Developer's Guide",
-      "link": "https://dev.to/moksh/ai-code-refactoring-tools-in-2026-a-practical-developers-guide-4lc1",
-      "summary": "AI tools promised to make developers write cleaner code faster. The data tells a different story: developers are refactoring 60% less than before AI coding tools arrived, while duplicate code blocks in AI-generated codeb",
+      "title": "Building an ERP Integration Layer for AI Agents: SAP, Oracle, NetSuite Architecture Patterns",
+      "link": "https://dev.to/dextralabs/building-an-erp-integration-layer-for-ai-agents-sap-oracle-netsuite-architecture-patterns-5103",
+      "summary": "Nobody writes about this because it's not glamorous. It's also where most enterprise AI projects actually live or die.\n\nEvery enterprise AI agent demo I've seen looks the same: clean API calls, mock data, instant respons",
       "image": "",
-      "published": "Mon, 22 Jun 2026 16:10:36 +0000",
+      "published": "Mon, 22 Jun 2026 20:16:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Starting my journey in public: fixing test reliability",
-      "link": "https://dev.to/goqa_ai_c97f712237a7383a5/starting-my-journey-in-public-fixing-test-reliability-183c",
-      "summary": "Hello everyone, \n\nI’ve spent years watching teams struggle with something that should be simple: trusting their tests.\n\nOn paper, everything looks fine.\n\nThe test suite is large. Coverage is high. CI is green.\n\nBut in re",
+      "title": "Audit AI-Generated Tests: Half of Green CI Proves Nothing",
+      "link": "https://dev.to/alex_spinov/audit-ai-generated-tests-half-of-green-ci-proves-nothing-4bmb",
+      "summary": "To audit AI-generated tests, score how many mirror the code instead of checking it. Green CI proves your tests agree with the code, not that it is correct — and when one agent writes both, they often just mirror it. mirr",
       "image": "",
-      "published": "Mon, 22 Jun 2026 16:09:59 +0000",
+      "published": "Mon, 22 Jun 2026 20:05:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Don't just find the broken import. Bypass it.",
-      "link": "https://dev.to/linb/dont-just-find-the-broken-import-bypass-it-56hf",
-      "summary": "A dependency five levels down throws, and your whole canvas goes white. CrossUI Studio's Dependency Graph still draws — zero build — points you straight at the blinking node, and then lets you inject a mock for the broke",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8trzo849e37o6yu348n4.png",
-      "published": "Mon, 22 Jun 2026 16:07:49 +0000",
+      "title": "You can't be your own second view: four AI failures from one day of operator work",
+      "link": "https://dev.to/jugeni/you-cant-be-your-own-second-view-four-ai-failures-from-one-day-of-operator-work-2e5o",
+      "summary": "In the morning, my AI partner wrote down a rule for itself: don't promote anything to live without running the check first.\n\nBy evening, it helped break that rule.\n\nNot once. Four different ways.\n\nThat's the honest refra",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 20:04:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
