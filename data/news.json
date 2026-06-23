@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T20:27:25.814999Z",
+  "updated": "2026-06-23T01:53:33.548160Z",
   "articles": [
     {
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 18:42:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 17:52:18 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, ",
+      "image": "",
+      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
       "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
       "image": "",
       "published": "Mon, 22 Jun 2026 13:41:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a ma",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 13:28:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, dom",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "image": "",
-      "published": "Sun, 21 Jun 2026 10:14:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Jobs and Software Is Fucked",
-      "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-      "summary": "Article URL: https://urflow.bearblog.dev/jobs-and-software-is-fucked/\nComments URL: https://news.ycombinator.com/item?id=48635112\nPoints: 57\n# Comments: 23",
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "link": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/\nComments URL: https://news.ycombinator.com/item?id=48638660\nPoints: 74\n# Comments: 28",
       "image": "",
-      "published": "Mon, 22 Jun 2026 19:47:52 +0000",
+      "published": "Tue, 23 Jun 2026 00:47:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SpaceX Drops 14% in One Day, Price Now Below IPO Launch",
-      "link": "https://finance.yahoo.com/quote/SPCX/",
-      "summary": "Article URL: https://finance.yahoo.com/quote/SPCX/\nComments URL: https://news.ycombinator.com/item?id=48634931\nPoints: 33\n# Comments: 9",
+      "title": "ytr: YouTube Radio for Emacs",
+      "link": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "summary": "Article URL: https://xenodium.com/ytr-youtube-radio-for-emacs\nComments URL: https://news.ycombinator.com/item?id=48636380\nPoints: 58\n# Comments: 4",
       "image": "",
-      "published": "Mon, 22 Jun 2026 19:33:55 +0000",
+      "published": "Mon, 22 Jun 2026 21:21:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Japanese symbols that speak without words",
-      "link": "https://arun.is/blog/japan-symbols/",
-      "summary": "Article URL: https://arun.is/blog/japan-symbols/\nComments URL: https://news.ycombinator.com/item?id=48634803\nPoints: 3\n# Comments: 0",
+      "title": "Runing GLM-5.2 on local hardware",
+      "link": "https://unsloth.ai/docs/models/glm-5.2",
+      "summary": "Article URL: https://unsloth.ai/docs/models/glm-5.2\nComments URL: https://news.ycombinator.com/item?id=48636377\nPoints: 178\n# Comments: 75",
       "image": "",
-      "published": "Mon, 22 Jun 2026 19:22:37 +0000",
+      "published": "Mon, 22 Jun 2026 21:21:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "link": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "summary": "Article URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes\nComments URL: https://news.ycombinator.com/item?id=48634787\nPoints: 11\n# Comments: 0",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=48636125\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Mon, 22 Jun 2026 19:21:00 +0000",
+      "published": "Mon, 22 Jun 2026 21:00:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "link": "https://github.com/dorukkumkumoglu/optocamzero",
-      "summary": "Article URL: https://github.com/dorukkumkumoglu/optocamzero\nComments URL: https://news.ycombinator.com/item?id=48634778\nPoints: 5\n# Comments: 0",
+      "title": "Job application asked for my SAT scores",
+      "link": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "summary": "Article URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/\nComments URL: https://news.ycombinator.com/item?id=48636062\nPoints: 75\n# Comments: 207",
       "image": "",
-      "published": "Mon, 22 Jun 2026 19:19:55 +0000",
+      "published": "Mon, 22 Jun 2026 20:55:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "用 p5.js 做出會回應滑鼠的日式粒子背景，讓你的作品頁面更有互動感",
-      "link": "https://dev.to/_0c004e5fde78250aee362/yong-p5js-zuo-chu-hui-hui-ying-hua-shu-de-ri-shi-li-zi-bei-jing-rang-ni-de-zuo-pin-ye-mian-geng-you-hu-dong-gan-44m2",
-      "summary": "讓你的作品集「活」起來：日式互動粒子背景拆解\n\n\n很多設計系同學在做作品集網頁時，最頭痛的就是「首頁太死板」。想要一點互動感，但看到程式碼就頭大。\n\n其實，要做出像 TeamLab 那種「有靈魂」的視覺效果，不需要成為工程師，你只需要掌握「粒子系統」這個簡單的邏輯。\n\n今天我想分享如何用 p5.js 做出一個具有日式美學（低飽和、流動感、留白）的互動背景。\n\n\n  \n  \n  🎨 作品拆解：視覺語言的定義\n\n\n在動手寫 code 之前，",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 20:17:13 +0000",
+      "title": "We security-graded 117,854 AI agent skills. Here's what we found.",
+      "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/we-security-graded-117854-ai-agent-skills-heres-what-we-found-3hhh",
+      "summary": "Only 17.7% of the catalog is popular enough to be graded, 1 in 32 graded skills is unsafe, and the risk lives in the long tail — plus a new agent-native attack surface.\n\n\n    \n        \n          \n            \n          \n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fagentskillshub.top%2Fog-image.png",
+      "published": "Tue, 23 Jun 2026 01:21:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From REST to gRPC to GraphQL: Why Your Next API Strategy Needs a Multi-Protocol Approach",
-      "link": "https://dev.to/vaixbhav/from-rest-to-grpc-to-graphql-why-your-next-api-strategy-needs-a-multi-protocol-approach-409d",
-      "summary": "From REST to gRPC to GraphQL: Why Your Next API Strategy Needs a Multi-Protocol Approach\n\n\nForget the notion of a single 'best' API protocol. It's a myth, perpetuated by a desire for simplicity that doesn't hold up in th",
+      "title": "262k tokens + agent deployment platforms level up",
+      "link": "https://dev.to/devsignal/262k-tokens-agent-deployment-platforms-level-up-4hen",
+      "summary": "This week's releases share a common thread: removing the friction that forces humans to babysit AI agents. From context windows large enough to hold an entire codebase to deployment flows that skip OAuth entirely, the in",
       "image": "",
-      "published": "Mon, 22 Jun 2026 20:16:40 +0000",
+      "published": "Tue, 23 Jun 2026 01:20:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an ERP Integration Layer for AI Agents: SAP, Oracle, NetSuite Architecture Patterns",
-      "link": "https://dev.to/dextralabs/building-an-erp-integration-layer-for-ai-agents-sap-oracle-netsuite-architecture-patterns-5103",
-      "summary": "Nobody writes about this because it's not glamorous. It's also where most enterprise AI projects actually live or die.\n\nEvery enterprise AI agent demo I've seen looks the same: clean API calls, mock data, instant respons",
+      "title": "A Tiered Playwright E2E Strategy: From PR Smoke to Production Validation",
+      "link": "https://dev.to/demi_jiang_3bfb65a7d28774/a-tiered-playwright-e2e-strategy-from-pr-smoke-to-production-validation-4o01",
+      "summary": "A field write-up on a domain/feature-driven Playwright setup — the framework\nconfiguration, the tag strategy that ties tests to a test-management system, and the\ntiered run model (smoke on every PR → nightly regression →",
       "image": "",
-      "published": "Mon, 22 Jun 2026 20:16:26 +0000",
+      "published": "Tue, 23 Jun 2026 01:19:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Audit AI-Generated Tests: Half of Green CI Proves Nothing",
-      "link": "https://dev.to/alex_spinov/audit-ai-generated-tests-half-of-green-ci-proves-nothing-4bmb",
-      "summary": "To audit AI-generated tests, score how many mirror the code instead of checking it. Green CI proves your tests agree with the code, not that it is correct — and when one agent writes both, they often just mirror it. mirr",
+      "title": "Cómo estructuré un SEO Programático ultra-liviano en React + Vite para mi SaaS de Servicio Técnico",
+      "link": "https://dev.to/repairtracks/como-estructure-un-seo-programatico-ultra-liviano-en-react-vite-para-mi-saas-de-servicio-tecnico-4d6o",
+      "summary": "¡Hola a todos! Quiero compartirles cómo abordé un reto técnico y de marketing al mismo tiempo para mi proyecto independiente: RepairTrack.\n\nDesarrollé un SaaS enfocado en digitalizar talleres de soporte técnico de celula",
       "image": "",
-      "published": "Mon, 22 Jun 2026 20:05:29 +0000",
+      "published": "Tue, 23 Jun 2026 01:18:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You can't be your own second view: four AI failures from one day of operator work",
-      "link": "https://dev.to/jugeni/you-cant-be-your-own-second-view-four-ai-failures-from-one-day-of-operator-work-2e5o",
-      "summary": "In the morning, my AI partner wrote down a rule for itself: don't promote anything to live without running the check first.\n\nBy evening, it helped break that rule.\n\nNot once. Four different ways.\n\nThat's the honest refra",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 20:04:37 +0000",
+      "title": "Stop Benchmarking AI Coding Agents on Todo Apps. Make Them Build an MMO.",
+      "link": "https://dev.to/max_polaczuk/stop-benchmarking-ai-coding-agents-on-todo-apps-make-them-build-an-mmo-4ecl",
+      "summary": "A coding agent that can scaffold a todo app is no longer interesting.\n\nGive it an MMO.\n\nAn online world is not one feature. It is a collision between real-time networking, persistent state, combat math, character progres",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Tue, 23 Jun 2026 01:17:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
