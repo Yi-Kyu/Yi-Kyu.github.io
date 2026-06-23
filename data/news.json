@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-23T08:51:56.692696Z",
+  "updated": "2026-06-23T14:12:34.272684Z",
   "articles": [
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5YrdKJuy4ZmnWf_7L2RdXqS2QWC2BHJIbGsapJLmmYy1hBXfHxE7WMk-itWDkh-oCbAr8-CZOiUTyLftdM6191lDL8Iu2ENNU_i6Wfw2qy3lKY41iCrOnaLXHIl8cWDto42eqVlnsM4OetK0ymQUnwdpRXIniZQ-o7pBIDkqOYbm7o4CMlQTYFOeQyJI/s1600/ai-weapon.jpg",
+      "published": "Tue, 23 Jun 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-decode-runner-pro (1",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg",
+      "published": "Tue, 23 Jun 2026 14:24:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
       "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial int",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
-      "source": "The Hacker News",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "summary": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [",
+      "image": "",
+      "published": "Tue, 23 Jun 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.\n\nThe bug t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg",
-      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
-      "source": "The Hacker News",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "image": "",
+      "published": "Tue, 23 Jun 2026 09:58:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert ",
+      "image": "",
+      "published": "Tue, 23 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
       "image": "",
       "published": "Mon, 22 Jun 2026 17:52:18 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, ",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 13:41:31 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The new HTTP QUERY method explained",
-      "link": "https://kreya.app/blog/new-http-query-method-explained/",
-      "summary": "Article URL: https://kreya.app/blog/new-http-query-method-explained/\nComments URL: https://news.ycombinator.com/item?id=48640974\nPoints: 48\n# Comments: 21",
+      "title": "Oracle shed about 20k roles globally in the last year",
+      "link": "https://www.bbc.com/news/articles/c4gy0x0j5deo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gy0x0j5deo\nComments URL: https://news.ycombinator.com/item?id=48643620\nPoints: 74\n# Comments: 69",
       "image": "",
-      "published": "Tue, 23 Jun 2026 06:05:37 +0000",
+      "published": "Tue, 23 Jun 2026 11:54:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-      "link": "https://github.com/imtomt/ymawky/tree/linux",
-      "summary": "This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I've previously posted about ymawky here: https://news.ycombinator.com/item?id=48080587In the past month and a half, I've made some pretty majo",
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "link": "https://github.com/baidu/Unlimited-OCR",
+      "summary": "Article URL: https://github.com/baidu/Unlimited-OCR\nComments URL: https://news.ycombinator.com/item?id=48643426\nPoints: 142\n# Comments: 37",
       "image": "",
-      "published": "Tue, 23 Jun 2026 04:28:14 +0000",
+      "published": "Tue, 23 Jun 2026 11:35:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Will It Mythos?",
-      "link": "https://swelljoe.com/post/will-it-mythos/",
-      "summary": "Article URL: https://swelljoe.com/post/will-it-mythos/\nComments URL: https://news.ycombinator.com/item?id=48640196\nPoints: 145\n# Comments: 85",
+      "title": "The Coming Loop",
+      "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/\nComments URL: https://news.ycombinator.com/item?id=48643180\nPoints: 100\n# Comments: 82",
       "image": "",
-      "published": "Tue, 23 Jun 2026 04:15:04 +0000",
+      "published": "Tue, 23 Jun 2026 11:06:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
-      "link": "https://arxiv.org/abs/2606.03748",
-      "summary": "Article URL: https://arxiv.org/abs/2606.03748\nComments URL: https://news.ycombinator.com/item?id=48639434\nPoints: 38\n# Comments: 5",
+      "title": "Apple is going to raise device prices, but when?",
+      "link": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/06/22/apple-device-prices-when\nComments URL: https://news.ycombinator.com/item?id=48643079\nPoints: 46\n# Comments: 28",
       "image": "",
-      "published": "Tue, 23 Jun 2026 02:28:00 +0000",
+      "published": "Tue, 23 Jun 2026 10:54:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "link": "https://arxiv.org/abs/2606.16140",
-      "summary": "Article URL: https://arxiv.org/abs/2606.16140\nComments URL: https://news.ycombinator.com/item?id=48639240\nPoints: 166\n# Comments: 61",
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "link": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "summary": "Article URL: https://www.stephendiehl.com/posts/bad_place_2026/\nComments URL: https://news.ycombinator.com/item?id=48642699\nPoints: 171\n# Comments: 189",
       "image": "",
-      "published": "Tue, 23 Jun 2026 02:01:25 +0000",
+      "published": "Tue, 23 Jun 2026 10:04:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "5 lessons from 5 interviews on AI agents and web scraping",
-      "link": "https://dev.to/extractdata/5-lessons-from-5-interviews-on-ai-agents-and-web-scraping-107m",
-      "summary": "Over the last few months, I’ve been interviewing people at Zyte about AI, agents, web scraping, data quality, and what actually changes when LLMs enter developer workflows.\n\nThese were not abstract “AI will change everyt",
+      "title": "MiCA Demands Machine-Readable Reporting. Your Agent Payment Stack Produces Human-Readable Logs.",
+      "link": "https://dev.to/kavinkimcreator/mica-demands-machine-readable-reporting-your-agent-payment-stack-produces-human-readable-logs-2g6h",
+      "summary": "8 days until MiCA full enforcement. One requirement that most agent payment stacks miss entirely: machine-readable reporting. Not PDFs. Not dashboard screenshots. Structured, queryable, auditable data that regulators can",
       "image": "",
-      "published": "Tue, 23 Jun 2026 08:46:14 +0000",
+      "published": "Tue, 23 Jun 2026 14:00:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Pressure-Testing My Own Explanations — A Swift Writing Exercise",
-      "link": "https://dev.to/gamya_m/pressure-testing-my-own-explanations-a-swift-writing-exercise-58j3",
-      "summary": "When you've worked with a concept long enough, there's a gap that can quietly open up between \"I know how this works\" and \"I can explain exactly why this works, including the edge cases that trip people up.\" Writing a tu",
+      "title": "How a map works, Mercator, tiles, and your GPS pin",
+      "link": "https://dev.to/iwtlp/how-a-map-works-mercator-tiles-and-your-gps-pin-3cc6",
+      "summary": "You drag a map, it loads more map. You drop a pin, it lands exactly where you tapped. This feels like one seamless thing, but underneath, every \"slippy map\", Google Maps, OpenStreetMap, the map in a thousand apps, is bui",
       "image": "",
-      "published": "Tue, 23 Jun 2026 08:44:00 +0000",
+      "published": "Tue, 23 Jun 2026 14:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Tools for SaaS User Onboarding (2026): 8 Platforms That Reduce Early Churn Before Users Drop Off",
-      "link": "https://dev.to/hellyeahai/ai-tools-for-saas-user-onboarding-2026-8-platforms-that-reduce-early-churn-before-users-drop-off-1imf",
-      "summary": "According to product onboarding and SaaS activation research compiled by Appcues and industry onboarding benchmarks, most SaaS products lose the majority of users within the first week, with estimates commonly ranging be",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0bwxhvj62esk6yk4llmg.png",
-      "published": "Tue, 23 Jun 2026 08:26:46 +0000",
+      "title": "MCP Inspector vs Postman in 2026: which one I actually use",
+      "link": "https://dev.to/aidevhub/mcp-inspector-vs-postman-in-2026-which-one-i-actually-use-3j37",
+      "summary": "MCP Inspector vs Postman in 2026: which one I actually use\n\n\n\nI use two of the three: MCP Inspector for live calls, and a small client-side validator for checking definitions before I ever start a server. Postman's MCP s",
+      "image": "",
+      "published": "Tue, 23 Jun 2026 14:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How Should an API Client Look in 2026? A Comparison of the Field",
-      "link": "https://dev.to/nikolas_dimitroulakis_d23/how-should-an-api-client-look-in-2026-a-comparison-of-the-field-3pl9",
-      "summary": "API tooling is having a rough year, and that's actually the interesting part.\n\nPostman killed free teams in March. Insomnia forced cloud sync in v8 and is still rebuilding trust. Bruno is absorbing most of the migration ",
+      "title": "Test-Driven Development in Laravel: The Red-Green-Refactor Loop",
+      "link": "https://dev.to/codecraft_diary_3d13677fb/test-driven-development-in-laravel-the-red-green-refactor-loop-12e5",
+      "summary": "We’ve all been there. You have a new feature to build. You open your IDE, create a Controller, start wiring up the logic, maybe add some validation, and then, hours later, you finally write a test to make sure it actuall",
       "image": "",
-      "published": "Tue, 23 Jun 2026 08:23:08 +0000",
+      "published": "Tue, 23 Jun 2026 14:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Voice Cloning Ethics – The 3 Lines We Must Never Cross",
-      "link": "https://dev.to/isabelle_dubuis_d858453d7/voice-cloning-ethics-the-3-lines-we-must-never-cross-1ghm",
-      "summary": "When a deep‑fake audio of a UK MP was broadcast on a live radio show on March 12, 2024, it generated 2.3 million complaints in 48 hours, forcing regulators to intervene within 72 hours. Per the EU framework, the publishe",
+      "title": "Building a P2P Chat over Tor with Rust's arti-client",
+      "link": "https://dev.to/mdenda/building-a-p2p-chat-over-tor-with-rusts-arti-client-39nf",
+      "summary": "Post 5 of 6 on Anyhide. This post is about peer discovery and session setup over Tor.\n\n\n\n\nThere's a surprising amount of work between \"I have a cryptographic protocol\" and \"two people can talk to each other.\" This post i",
       "image": "",
-      "published": "Tue, 23 Jun 2026 08:20:23 +0000",
+      "published": "Tue, 23 Jun 2026 14:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
