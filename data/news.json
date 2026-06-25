@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-25T08:42:55.608040Z",
+  "updated": "2026-06-25T13:54:57.988132Z",
   "articles": [
+    {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It’s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO1f6pZmhVaPQd2FjrrAG-IbL0vMk7zHVZ6BqjzkzJS8qd7HlAtIJ-7chRUbqR7tZHPNqdZFbm0QL9O03mkW7YsOh0pVwW1_ogikaoxNX8dFd5-ZB4SwB7-tfpWmp9Hr22DJL6tzZgTdeFnCU4VwaZXSY_htGs2_xlaB8n0EOedrfe7wHuI30GXTF6Pofc/s1600/threatsday-june.jpg",
+      "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGC4Kd3HcSGw5TQ1GQNwgQST4imnVTlHZ4yW1dDr_kwUksDH1MHmlPUMzW8LhePZZTM1HszkIQwL8Ggm-cxlXRRMbUdcXbXfQ57FUfzbN4yj1OimJJxQy0XokmSC-lVr4XyFM5b3LqVQ8hMDIqr34xQXHpD0q8FnuR50Rdg19jXFC9xKKtn3Yap5BQhZg/s1600/corelight.jpg",
+      "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into abo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1600/ai-full-disk.jpg",
+      "published": "Thu, 25 Jun 2026 14:53:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1-4l_iOC19z96Q7C7O_dZSKwEvMnMLhHyb7kpt2rpOzQmn3gKpz6_BaZmSpzgvyhTJf8BBQmBTx0Nvymxk1vfO5O5bE0nNGbYPHAcb5F8ZF_WjTyQe4AXSK71q6fESS9i5Rdpcfzt6ULab7eo21OZKRCYlqwU7G97mF4-AeVVANlT4YIbigdYxUJkwfy/s1600/clickattack.jpg",
+      "published": "Thu, 25 Jun 2026 14:24:37 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
       "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
@@ -11,39 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjZtIkR9YS2fMY5MvIzgyEShmJAP1bgHqhBdU115iSY7WZ2EcBAbFKb1OQP6Nq8hoF4HlnRifxW890ztCcnezyAivPNWZjVsyJrhoNe8BVnZgSfcRo1Jbl4XilQM9bcQTU9nOeDgfWXSzh9sBru4RH6mDhwa1IijucDmj-l1gVI8NAiQRzu0IJ8d2AIVh9/s1600/1000085210.jpg",
-      "published": "Wed, 24 Jun 2026 22:49:18 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-      "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and Ste",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVSibdiZdJ1tNYJFrsHtZ8Vr1EG28rqKLY4E7HvAtuax2i3vgpcaMZjEAcGDRxUVu5aa_BHzCAahpw5l2RP2HNw9t7PF6zknNICdw0iuW5jozt5fzqsSfb3Lw55MIvStq2vh5W0139JychUhhJHvchyphenhyphenm7tT2oTS555CkVZrBYSkhmlMKWaXMLtO4OcSp6/s1600/cybercrime-ms.jpg",
-      "published": "Wed, 24 Jun 2026 21:29:50 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
-      "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.\n\nThe \"critical exploitable pattern\" has been codenamed Cor",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_D6QzBWfQRZAXbjo9RhhLXSedzJR2Q2sUQoQYnDxpC7yETzJgn3KnpT8CcoqlfXdqkcnTCNcEpR1QKphy77NvG_9PIO57hHNF27x8pBb1pLf_4n3A6pTBs3qXQMsz81rvzpGIOqHZn7VqvJoJoB98o7COHOxi5wfkQvxhL4LcOxBkziY4MLxVCEOljX8/s1600/1000085115.jpg",
-      "published": "Wed, 24 Jun 2026 18:18:11 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dawn of the Apex Agentic Adversary",
-      "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-      "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats.\n\nFor years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a ven",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuQ2GvCcnjBgMTXoXBXqazE9MU3nbNgeccOlWELBQOL9WcHHH4uXS1BKCrrmv6iWWAn6vu1LZJzpHl1MGetv8EfnylIM48MlBK91Gyiz5zCL6cMFr6sJd5x0qdSvjPkwm-V5ON79TgMNPHdOuGQIqSWwTdQcmBnEjehYuDoKMllm9Xray6dVy2uqexoas/s1600/apex.jpg",
-      "published": "Wed, 24 Jun 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify comp",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 08:12:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
       "image": "",
       "published": "Wed, 24 Jun 2026 16:58:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-      "image": "",
-      "published": "Wed, 24 Jun 2026 10:35:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,129 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "link": "https://utaw.tech/news/wikipedia-recognition",
-      "summary": "Article URL: https://utaw.tech/news/wikipedia-recognition\nComments URL: https://news.ycombinator.com/item?id=48669932\nPoints: 37\n# Comments: 17",
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "summary": "Article URL: https://mullvad.net/en/why-privacy-matters/state-mass-surveillance\nComments URL: https://news.ycombinator.com/item?id=48672764\nPoints: 96\n# Comments: 14",
       "image": "",
-      "published": "Thu, 25 Jun 2026 07:02:37 +0000",
+      "published": "Thu, 25 Jun 2026 13:07:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Half-Life 2 in a Browser",
-      "link": "https://hl2.slqnt.dev/",
-      "summary": "Article URL: https://hl2.slqnt.dev/\nComments URL: https://news.ycombinator.com/item?id=48669534\nPoints: 175\n# Comments: 55",
+      "title": "Apple announces significant price increases for MacBooks, iPads, more",
+      "link": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+      "summary": "Article URL: https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/\nComments URL: https://news.ycombinator.com/item?id=48672732\nPoints: 94\n# Comments: 71",
       "image": "",
-      "published": "Thu, 25 Jun 2026 06:00:04 +0000",
+      "published": "Thu, 25 Jun 2026 13:02:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "summary": "Article URL: https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\nComments URL: https://news.ycombinator.com/item?id=48668255\nPoints: 51\n# Comments: 24",
+      "title": "Why Does Everyone Hate AI?",
+      "link": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+      "summary": "Article URL: https://paulkrugman.substack.com/p/why-does-everyone-hate-ai\nComments URL: https://news.ycombinator.com/item?id=48672694\nPoints: 33\n# Comments: 21",
       "image": "",
-      "published": "Thu, 25 Jun 2026 02:51:29 +0000",
+      "published": "Thu, 25 Jun 2026 12:59:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "summary": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\nComments URL: https://news.ycombinator.com/item?id=48668119\nPoints: 45\n# Comments: 20",
+      "title": "You didn't vibe code it, you stole it from open source&enterprise-licensed code",
+      "link": "https://twitter.com/mfts0/status/2070080422482977095",
+      "summary": "Article URL: https://twitter.com/mfts0/status/2070080422482977095\nComments URL: https://news.ycombinator.com/item?id=48672328\nPoints: 136\n# Comments: 59",
       "image": "",
-      "published": "Thu, 25 Jun 2026 02:30:18 +0000",
+      "published": "Thu, 25 Jun 2026 12:23:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "link": "https://blog.cloudflare.com/oauth-for-all/",
-      "summary": "Article URL: https://blog.cloudflare.com/oauth-for-all/\nComments URL: https://news.ycombinator.com/item?id=48668033\nPoints: 141\n# Comments: 57",
+      "title": "LastPass notifies users of yet another data breach",
+      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "summary": "Article URL: https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/\nComments URL: https://news.ycombinator.com/item?id=48671468\nPoints: 146\n# Comments: 69",
       "image": "",
-      "published": "Thu, 25 Jun 2026 02:18:10 +0000",
+      "published": "Thu, 25 Jun 2026 10:28:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Full Stack Developers Are Among the Most In-Demand IT Professionals in 2026",
-      "link": "https://dev.to/mathu_suthanizeon_994bee/why-full-stack-developers-are-among-the-most-in-demand-it-professionals-in-2026-4806",
-      "summary": "The technology industry continues to evolve at an incredible pace, and organizations are constantly searching for professionals who can adapt to changing business requirements. Among the many roles in the software develo",
+      "title": "Understanding ETL: A Chaotic Introduction",
+      "link": "https://dev.to/abdiomari/understanding-etl-a-chaotic-introduction-iep",
+      "summary": "Build your first Python Data pipeline using the News API, and make some sense of the acronyms\n\n\n\nIntroduction\nETL vs ELT: What is the difference and why does it matter?\nSet up your environment\nExtract Data\nTransform Data",
       "image": "",
-      "published": "Thu, 25 Jun 2026 08:37:27 +0000",
+      "published": "Thu, 25 Jun 2026 13:49:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hoplyra: self-hosted orchestration for multi-hop VPN chains",
-      "link": "https://dev.to/linchevatel/hoplyra-self-hosted-orchestration-for-multi-hop-vpn-chains-1jb4",
-      "summary": "Hoplyra: self-hosted orchestration for multi-hop VPN chains\n\n\nMost VPN tools install one protocol on one server. Hoplyra covers the full stack: deploy, chain, monitor, and export configs — on infrastructure \n  you contro",
+      "title": "Write returned success. The file was never there.",
+      "link": "https://dev.to/mrvlad/write-returned-success-the-file-was-never-there-12h4",
+      "summary": "Four issues filed in the past week describe the same failure: an agent writes to persistent storage, the write API returns without error, and the data is gone. No exception, no log entry, no indication that anything went",
       "image": "",
-      "published": "Thu, 25 Jun 2026 08:35:57 +0000",
+      "published": "Thu, 25 Jun 2026 13:47:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why AI Agents Fail Silently — And How to Fix It A technical deep-dive into the observability gap in multi-step LLM systems",
-      "link": "https://dev.to/vignesh_reddy_53e403f62d2/why-ai-agents-fail-silently-and-how-to-fix-it-a-technical-deep-dive-into-the-observability-gap-in-jjk",
-      "summary": "The incident that started this\n\nA team ships a customer support agent built on LangChain. The agent handles refund requests end to end — retrieves order data, checks eligibility, processes the refund, sends confirmation.",
+      "title": "We built a bidirectional context loop between web apps and AI agents",
+      "link": "https://dev.to/java_freepascal_dev/we-built-a-bidirectional-context-loop-between-web-apps-and-ai-agents-2mfg",
+      "summary": "Source code: Tabforge AI\nMost AI integrations in business apps feel the same:\n\nYou send a prompt → the model returns an answer → you try to glue it into your app.\n\nIt works, but it always feels slightly disconnected from",
       "image": "",
-      "published": "Thu, 25 Jun 2026 08:32:57 +0000",
+      "published": "Thu, 25 Jun 2026 13:39:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Coding Agents Need Tests More Than Prompts",
-      "link": "https://dev.to/stoefln6/ai-coding-agents-need-tests-more-than-prompts-11pm",
-      "summary": "Over the last eight months, my software development workflow has changed more than I have ever experienced before.\n\nAnd I say that as someone who has been writing software for about 25 years. I have worked through plenty",
+      "title": "AI agents are becoming real economic actors. They deserve a chain built for them, not borrowed from us.",
+      "link": "https://dev.to/0xdevc/ai-agents-are-becoming-real-economic-actors-they-deserve-a-chain-built-for-them-not-borrowed-from-3dpi",
+      "summary": "The next major blockchains will be built around AI, not with AI bolted on afterward. That's the bet behind NOVAI.\n\nRight now, when an AI agent needs to transact, it reaches for crypto, because crypto is the closest avail",
       "image": "",
-      "published": "Thu, 25 Jun 2026 08:31:18 +0000",
+      "published": "Thu, 25 Jun 2026 13:39:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Your .env File Is Lying to You",
-      "link": "https://dev.to/ctrotech/why-your-env-file-is-lying-to-you-1gdh",
-      "summary": "Two weeks ago I deployed a service that crashed on the first request. Not because the code was wrong — because process.env.DATABASE_URL was undefined and nobody caught it until a user hit the endpoint.\n\nI've made this mi",
+      "title": "Do Developers Ever Really Disconnect?",
+      "link": "https://dev.to/eayurt/do-developers-ever-really-disconnect-38jc",
+      "summary": "Every year, around the time I'm about to take a few days off, the same questions come up. Should I bring the laptop? What if I get a good idea for that side project? Is it bad to push a small commit while I'm at the beac",
       "image": "",
-      "published": "Thu, 25 Jun 2026 08:23:47 +0000",
+      "published": "Thu, 25 Jun 2026 13:38:00 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "translateZ()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateY()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateX()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+      "summary": "The translateX() function shifts an element horizontally by the specified amount. \n\ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:16:01 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translate()",
+      "link": "https://css-tricks.com/almanac/functions/t/translate/",
+      "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\n\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:15:05 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -232,42 +268,6 @@
       "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fall",
       "image": "",
       "published": "Mon, 22 Jun 2026 12:39:13 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "A First Look at Scroll-Triggered Animations",
-      "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-      "summary": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\n\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the ne",
-      "image": "",
-      "published": "Fri, 19 Jun 2026 13:03:17 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Siren Song of ariaNotify()",
-      "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-      "summary": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\n\nThe Siren Song of ariaNotify() originally handwrit",
-      "image": "",
-      "published": "Wed, 17 Jun 2026 15:32:30 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Prop For That",
-      "link": "https://css-tricks.com/prop-for-that/",
-      "summary": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\n\nProp For That originally handwritte",
-      "image": "",
-      "published": "Tue, 16 Jun 2026 18:36:25 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-      "link": "https://css-tricks.com/whats-important-13/",
-      "summary": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\n\nWhat’s !important #13: @function, alpha(), CSS Wordle, and M",
-      "image": "",
-      "published": "Mon, 15 Jun 2026 13:15:33 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
