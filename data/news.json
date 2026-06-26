@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T19:41:37.942697Z",
+  "updated": "2026-06-26T01:57:30.679703Z",
   "articles": [
     {
       "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 18:37:42 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access softwar",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 15:45:48 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
       "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [..",
@@ -61,33 +88,6 @@
       "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
       "image": "",
       "published": "Thu, 25 Jun 2026 12:23:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 11:36:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 11:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-      "summary": "Article URL: https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\nComments URL: https://news.ycombinator.com/item?id=48676256\nPoints: 0\n# Comments: 0",
+      "title": "A data race that doesn't compile",
+      "link": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+      "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 8\n# Comments: 2",
       "image": "",
-      "published": "Thu, 25 Jun 2026 17:00:00 +0000",
+      "published": "Fri, 26 Jun 2026 01:33:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "link": "https://github.com/inkeep/open-knowledge",
-      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor. Available as MacOS app or CLI. Fu",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "published": "Fri, 26 Jun 2026 01:10:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Windows 10 quietly gets one more year of support and updates",
-      "link": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-      "summary": "Article URL: https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/\nComments URL: https://news.ycombinator.com/item?id=48675369\nPoints: 148\n# Comments: 115",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "link": "https://gchandbook.org/",
+      "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 40\n# Comments: 5",
       "image": "",
-      "published": "Thu, 25 Jun 2026 15:59:54 +0000",
+      "published": "Thu, 25 Jun 2026 23:10:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "link": "https://scrollprize.org/firstscroll",
-      "summary": "Preprint: https://scrollprize.org/pdf/main.pdfhttps://github.com/ScrollPrize/villa\n\nComments URL: https://news.ycombinator.com/item?id=48675179\nPoints: 405\n# Comments: 103",
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/\nComments URL: https://news.ycombinator.com/item?id=48679934\nPoints: 124\n# Comments: 51",
       "image": "",
-      "published": "Thu, 25 Jun 2026 15:48:07 +0000",
+      "published": "Thu, 25 Jun 2026 22:16:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\nComments URL: https://news.ycombinator.com/item?id=48674967\nPoints: 129\n# Comments: 76",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 408\n# Comments: 184",
       "image": "",
-      "published": "Thu, 25 Jun 2026 15:33:37 +0000",
+      "published": "Thu, 25 Jun 2026 21:44:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Built a 131-Test Eval Harness Before Writing New Features. Here's the Silent Failure It Caught.",
-      "link": "https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb",
-      "summary": "Originally published on AIdeazz — cross-posted here with canonical link.\n\nThe agent passed every unit test and still gave a user financial advice it was explicitly instructed never to give. No exception thrown, no log li",
+      "title": "Trace-to-Training: how agent runs become learning data",
+      "link": "https://dev.to/telleroutlook/trace-to-training-how-agent-runs-become-learning-data-31c4",
+      "summary": "Trace-to-Training: how agent runs become learning data\n\n\nEvery agent run is a data point. Most frameworks throw it away.\n\nWasmAgent keeps it — evaluated by the compliance engine, ranked by outcome, exported as a typed Co",
       "image": "",
-      "published": "Thu, 25 Jun 2026 19:31:10 +0000",
+      "published": "Fri, 26 Jun 2026 01:50:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "O-AI Development Update",
-      "link": "https://dev.to/shriisoot/o-ai-development-update-5b83",
-      "summary": "I wanted to share a quick update on how O-AI is progressing.\n\nOver the past few weeks, I've been rebuilding and improving almost every part of O-AI. The goal has always been to create something that's genuinely useful—no",
+      "title": "MCP Trust Pack: a security layer for MCP tool calls",
+      "link": "https://dev.to/telleroutlook/mcp-trust-pack-a-security-layer-for-mcp-tool-calls-3c3o",
+      "summary": "MCP Trust Pack: a security layer for MCP tool calls\n\n\nMCP makes it easy for agents to call tools. Too easy.\n\nWhen your agent calls fs_write or shell_exec, something needs to answer: is this allowed? Is this state-changin",
       "image": "",
-      "published": "Thu, 25 Jun 2026 19:23:25 +0000",
+      "published": "Fri, 26 Jun 2026 01:50:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse",
-      "link": "https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0",
-      "summary": "We run Audit Vibe Coding at Inithouse, a security audit tool built specifically for AI-generated projects. After scanning hundreds of vibecoded apps, the same seven vulnerabilities show up over and over. None of them are",
+      "title": "Why your Midnight contract \"can't be found on chain\" (or: Midnight, stop playing with my emotions)",
+      "link": "https://dev.to/tminus1s/why-your-midnight-contract-cant-be-found-on-chain-or-midnight-stop-playing-with-my-emotions-18l5",
+      "summary": "I'm a self-taught learner grinding through the Midnight quests, and this week the chain and I had a little falling out. I deployed a contract, got an address back, submitted it like a proud parent at a recital, and got s",
       "image": "",
-      "published": "Thu, 25 Jun 2026 19:21:29 +0000",
+      "published": "Fri, 26 Jun 2026 01:48:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built a Premium Developer Tools Website Using Only a Local LLM (Gemma 4:12B + Ollama + VS Code)",
-      "link": "https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni",
-      "summary": "Over the past few weeks, I’ve been experimenting with local language models. Like a lot of developers, I’ve used cloud AI assistants quite a bit, but I kept asking myself one simple question:\n\n\nCan a local LLM actually h",
+      "title": "Connection architectures for WordPress maintenance tools — mapping four products on a two-axis grid",
+      "link": "https://dev.to/susumun/connection-architectures-for-wordpress-maintenance-tools-mapping-four-products-on-a-two-axis-grid-7jd",
+      "summary": "While writing the comparison pages for ManageWP, MainWP, WP Umbrella, and InfiniteWP on our LP, I tried to line up the four products under a single \"connection method\" column — and got stuck. The same ManageWP gets calle",
       "image": "",
-      "published": "Thu, 25 Jun 2026 19:19:16 +0000",
+      "published": "Fri, 26 Jun 2026 01:36:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI made coding boring and nobody wants to admit it out loud",
-      "link": "https://dev.to/adioof/ai-made-coding-boring-and-nobody-wants-to-admit-it-out-loud-pdg",
-      "summary": "There was something fulfilling that died within me when I no longer had to debug my code.\n\nI can't tell you the specific date that this feeling began to spread. But there's a growing chorus of experienced developers sayi",
+      "title": "Risks in Software Development: How to Match Your Caution to What’s Actually at Stake",
+      "link": "https://dev.to/mattwatsonkc/risks-in-software-development-how-to-match-your-caution-to-whats-actually-at-stake-3cn8",
+      "summary": "There’s one question every developer should ask before they change anything, and almost nobody is taught to ask it.\n\nWhat’s the worst thing that happens if I’m wrong here?\n\nSearch “risks in software development” and you ",
       "image": "",
-      "published": "Thu, 25 Jun 2026 19:16:37 +0000",
+      "published": "Fri, 26 Jun 2026 01:34:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
