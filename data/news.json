@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-27T13:01:22.142007Z",
+  "updated": "2026-06-27T18:58:06.598919Z",
   "articles": [
+    {
+      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging acc",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg",
+      "published": "Sat, 27 Jun 2026 22:57:11 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWN46D03nuGH8FWFxZD7Ax6T3Wvmf5bt3WrqjghU6ZJU65L6pfoPjt2fVw4-dGXfyEx8fkygfYUftIDlMpPaRcegTEH6eL58nSyiFvbbg5A0GxtFTIhwQUIj16DF-vIqiH2B6jnC7C3DebkJja3v6ayIjOF-eY5DoDL9qef319S3m4ny2lnodtc1WeE59/s1600/linux-cow.jpg",
-      "published": "Fri, 26 Jun 2026 19:27:55 +0530",
-      "source": "The Hacker News",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+      "image": "",
+      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats an",
       "image": "",
       "published": "Fri, 26 Jun 2026 13:49:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation task",
-      "image": "",
-      "published": "Fri, 26 Jun 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenRA",
-      "link": "https://www.openra.net/",
-      "summary": "Article URL: https://www.openra.net/\nComments URL: https://news.ycombinator.com/item?id=48697560\nPoints: 13\n# Comments: 4",
+      "title": "Turn your site into a place people can bump into each other",
+      "link": "https://cauenapier.com/blog/townsquare_release/",
+      "summary": "Article URL: https://cauenapier.com/blog/townsquare_release/\nComments URL: https://news.ycombinator.com/item?id=48699928\nPoints: 14\n# Comments: 6",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:10:27 +0000",
+      "published": "Sat, 27 Jun 2026 17:11:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48697504\nPoints: 0\n# Comments: 0",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "summary": "Article URL: https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\nComments URL: https://news.ycombinator.com/item?id=48699842\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:01:03 +0000",
+      "published": "Sat, 27 Jun 2026 17:00:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "If You Can't Hold It, You Don't Own It",
-      "link": "https://dervis.de/physical/",
-      "summary": "Article URL: https://dervis.de/physical/\nComments URL: https://news.ycombinator.com/item?id=48697335\nPoints: 13\n# Comments: 0",
+      "title": "Screen time can damage under-twos' development, landmark study suggests",
+      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study\nComments URL: https://news.ycombinator.com/item?id=48699778\nPoints: 19\n# Comments: 1",
       "image": "",
-      "published": "Sat, 27 Jun 2026 11:32:10 +0000",
+      "published": "Sat, 27 Jun 2026 16:51:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fintech Engineering Handbook",
-      "link": "https://w.pitula.me/fintech-engineering-handbook/",
-      "summary": "Article URL: https://w.pitula.me/fintech-engineering-handbook/\nComments URL: https://news.ycombinator.com/item?id=48696982\nPoints: 116\n# Comments: 35",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "link": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/\nComments URL: https://news.ycombinator.com/item?id=48699617\nPoints: 32\n# Comments: 13",
       "image": "",
-      "published": "Sat, 27 Jun 2026 10:28:53 +0000",
+      "published": "Sat, 27 Jun 2026 16:31:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-      "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "summary": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 450\n# Comments: 146",
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "link": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "summary": "Article URL: https://pluralistic.net/2026/06/27/zuckerstreisand-2/\nComments URL: https://news.ycombinator.com/item?id=48698684\nPoints: 390\n# Comments: 148",
       "image": "",
-      "published": "Sat, 27 Jun 2026 09:18:52 +0000",
+      "published": "Sat, 27 Jun 2026 14:38:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "UTC, GMT, and the time zone bugs that keep biting developers",
-      "link": "https://dev.to/gavinbuilds/utc-gmt-and-the-time-zone-bugs-that-keep-biting-developers-4e2n",
-      "summary": "Time zones are one of those topics that look simple until you ship something and a user in another country sees the wrong time. Here are the traps I keep seeing, and how to reason about them in 2026.\n\n\n  \n  \n  UTC is not",
+      "title": "Understanding Curly Braces: Syntax and Semantics in Code",
+      "link": "https://dev.to/paradane/understanding-curly-braces-syntax-and-semantics-in-code-24oo",
+      "summary": "In the landscape of modern programming, delimiters serve as the essential scaffolding that organizes logic and defines structure. Among these, curly braces—often referred to as braces or squiggly brackets—occupy a unique",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:49:10 +0000",
+      "published": "Sat, 27 Jun 2026 18:47:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why I Stopped Chasing Every Market",
-      "link": "https://dev.to/stinklewinks/why-i-stopped-chasing-every-market-3586",
-      "summary": "One of the biggest realizations I've had over the last year wasn't about software.\n\nIt was about focus.\n\nWhen I first started building KiwiEngine, I wanted it to power everything.\n\nBusiness software.\n\nCRMs.\n\nInventory sy",
-      "image": "",
-      "published": "Sat, 27 Jun 2026 12:46:48 +0000",
+      "title": "AI Can Generate Code Faster. The Bigger Challenge Is Reviewing It 😐",
+      "link": "https://dev.to/dev_kiran/ai-can-generate-code-faster-the-bigger-challenge-is-reviewing-it-1edf",
+      "summary": "Hello Devs 👋\n\nAI coding assistants have changed the way many teams build software. Tasks like generating components, creating tests, writing boilerplate, or handling repetitive refactors can now happen in minutes instead",
+      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1204850%2F1873cf6a-e8a7-4d43-9af8-296ac0506b3a.jpg",
+      "published": "Sat, 27 Jun 2026 18:46:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Network Fingerprinting: Analyzing Default ICMP Structures and Payload Mimicry",
-      "link": "https://dev.to/jm00nj/network-fingerprinting-analyzing-default-icmp-structures-and-payload-mimicry-4636",
-      "summary": "Research Context\n\n\n\"In advanced network observability, understanding the default behavior of various operating systems is vital for traffic profiling. This article explores the structural differences in ICMP Echo Request",
+      "title": "I open-sourced high-performance open-source Bonkfun Bundler for Solana",
+      "link": "https://dev.to/soulcrancerdev/i-open-sourced-high-performance-open-source-bonkfun-bundler-for-solana-4f53",
+      "summary": "high-performance open-source Bonkfun Bundler for Solana\n\n\nA high-performance open-source Bonkfun Bundler for Solana. It allows users to create a token + bundle up to 12 purchases in a single atomic transaction. Features ",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:46:31 +0000",
+      "published": "Sat, 27 Jun 2026 18:37:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a community platform to discover all Web-based OS projects 🖥️",
-      "link": "https://dev.to/hyggshios/i-built-a-community-platform-to-discover-all-web-based-os-projects-37n0",
-      "summary": "Hey DEV community! 👋\n\nI've been building web apps for a while, and I noticed there was \nno good place to discover and rate web-based OS projects — \nthose cool browser-based operating systems you can run without \ninstalli",
+      "title": "I Tested 5 Open-Source NotebookLM Alternatives — Here's What Actually Works",
+      "link": "https://dev.to/vigoss_luke_3604c1d0e9b4a/i-tested-5-open-source-notebooklm-alternatives-heres-what-actually-works-12bc",
+      "summary": "Google's NotebookLM is great. But handing your research notes, PDFs, and meeting transcripts to Google's cloud is a hard sell for a lot of people — especially when those documents contain client data, unpublished researc",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:38:22 +0000",
+      "published": "Sat, 27 Jun 2026 18:33:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From Informatica XML to Snowflake: Why ETL Migration Needs a Governed Delivery Workflow",
-      "link": "https://dev.to/amising6/from-informatica-xml-to-snowflake-why-etl-migration-needs-a-governed-delivery-workflow-6kn",
-      "summary": "Legacy ETL modernization is often described as a conversion exercise:\n\n\nInformatica mapping in. Snowflake SQL out.\n\n\nThat framing is incomplete.\n\nA real migration is not only about translating expressions. It is about pr",
+      "title": "I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests",
+      "link": "https://dev.to/dev_nestio_229945f10652e4/i-built-a-qr-code-generator-in-pure-vanilla-js-no-libraries-no-server-202-tests-7h",
+      "summary": "QR codes look like magic — a grid of black and white squares that encodes anything from a URL to a business card. But how do they actually work? I decided to find out the hard way: implement the full QR Code Model 2 algo",
       "image": "",
-      "published": "Sat, 27 Jun 2026 12:38:13 +0000",
+      "published": "Sat, 27 Jun 2026 18:33:16 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "translateZ()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateY()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateX()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-      "summary": "The translateX() function shifts an element horizontally by the specified amount. \n\ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:16:01 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translate()",
-      "link": "https://css-tricks.com/almanac/functions/t/translate/",
-      "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\n\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:15:05 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-      "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-      "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fall",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 12:39:13 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
