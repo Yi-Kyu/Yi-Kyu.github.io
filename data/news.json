@@ -1,6 +1,15 @@
 {
-  "updated": "2026-06-26T19:24:24.037760Z",
+  "updated": "2026-06-27T01:51:07.985964Z",
   "articles": [
+    {
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery K",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjt2-y25_EiB31BmVQQpt9ne8mH9iPOJpYJmItVSIKGexUBmKRwzNSvDYzbVyRm9xxR6H0rE880CTv3QTblUdJgkRh2EoXqYGJ9wwOq-cOktE6iIvI0fZdeuxf8gTmdEpStuzq5CywuWYEjb32JqfwIznRc6YtDK_V5dFH1bcx2EoqvQ1Koieo4g7QDKA/s1600/signal-phishing.jpg",
+      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg",
-      "published": "Fri, 26 Jun 2026 18:01:56 +0530",
-      "source": "The Hacker News",
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messag",
+      "image": "",
+      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "image": "",
+      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation task",
       "image": "",
       "published": "Fri, 26 Jun 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 18:37:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "summary": "https://archive.ph/PCQQl\n\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 129\n# Comments: 369",
+      "title": "Om",
+      "link": "https://daringfireball.net/2026/06/om",
+      "summary": "Article URL: https://daringfireball.net/2026/06/om\nComments URL: https://news.ycombinator.com/item?id=48693391\nPoints: 70\n# Comments: 4",
       "image": "",
-      "published": "Fri, 26 Jun 2026 18:23:14 +0000",
+      "published": "Fri, 26 Jun 2026 23:33:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "summary": "Article URL: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\nComments URL: https://news.ycombinator.com/item?id=48689277\nPoints: 14\n# Comments: 4",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "summary": "Article URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 198\n# Comments: 157",
       "image": "",
-      "published": "Fri, 26 Jun 2026 17:24:25 +0000",
+      "published": "Fri, 26 Jun 2026 22:48:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview\n\nComments URL: https://news.ycombinator.com/item?id=48689028\nPoints: 403\n# Comments: 248",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "summary": "Article URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\nComments URL: https://news.ycombinator.com/item?id=48692946\nPoints: 73\n# Comments: 32",
       "image": "",
-      "published": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "published": "Fri, 26 Jun 2026 22:43:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\nComments URL: https://news.ycombinator.com/item?id=48688961\nPoints: 0\n# Comments: 0",
+      "title": "AI in mathematics is forcing big questions",
+      "link": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=48692883\nPoints: 37\n# Comments: 13",
       "image": "",
-      "published": "Fri, 26 Jun 2026 17:00:43 +0000",
+      "published": "Fri, 26 Jun 2026 22:36:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "link": "https://github.com/workweave/router",
-      "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtu",
+      "title": "The open source DOCX editor submitted to HN a few weeks ago has been deleted",
+      "link": "https://news.ycombinator.com/item?id=48692474",
+      "summary": "The github repo under eigenpal is gone. The web site at docx-editor is 503. No idea what's going on.\n\nComments URL: https://news.ycombinator.com/item?id=48692474\nPoints: 51\n# Comments: 36",
       "image": "",
-      "published": "Fri, 26 Jun 2026 16:40:11 +0000",
+      "published": "Fri, 26 Jun 2026 21:54:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building LSTMs with PyTorch and Lightning AI Part 4: Training Step and Initial Predictions",
-      "link": "https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-4-training-step-and-initial-predictions-33fj",
-      "summary": "In the previous article, we finished the LSTM cell, explored the forward method and the Adam optimizer for the model.\n\nIn this article, we will explore the training_step() function, and try to run the model without train",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2c6mz17iiajj885fmxgb.png",
-      "published": "Fri, 26 Jun 2026 19:20:44 +0000",
+      "title": "The Fastest Query Is the One You Never Run: The Four Layers of Rails Caching",
+      "link": "https://dev.to/danewu/the-fastest-query-is-the-one-you-never-run-the-four-layers-of-rails-caching-fif",
+      "summary": "Rails Performance: Lessons from Production — #4\n\nThe first three posts were about making queries cheaper — fewer N+1s, indexes, not dragging data back into Ruby. This one flips the angle: the fastest query is the one you",
+      "image": "",
+      "published": "Sat, 27 Jun 2026 01:38:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Free esports API for developers — 2026 guide",
-      "link": "https://dev.to/domktt/free-esports-api-for-developers-2026-guide-65f",
-      "summary": "Original blog: https://tachiosports.com/blogs/free-esports-api-2026\n\nWhy free esports APIs matter in 2026\nThe esports industry is bigger than ever — over 500 million viewers, billions in revenue, and thousands of develop",
+      "title": "PAGI Distribution Split",
+      "link": "https://dev.to/jjn1056/pagi-distribution-split-1kdo",
+      "summary": "The news: PAGI is now three CPAN distributions instead of one.\n\n\n\nPAGI-Server — the reference server\n\nPAGI-Tools — the application toolkit\n\nPAGI — the specification\n\n\n\n  \n  \n  Install what you actually run\n\n\nIn practice,",
       "image": "",
-      "published": "Fri, 26 Jun 2026 19:09:19 +0000",
+      "published": "Sat, 27 Jun 2026 01:26:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From ANSI to Ergo: Remapping the Transition",
-      "link": "https://dev.to/argenkiwi/from-ansi-to-ergo-remapping-the-transition-3bd5",
-      "summary": "A common story in the mechanical keyboard community goes like this: someone starts suffering from repetitive strain injury (RSI) or general hand pain and decides to transition to an ergonomic keyboard. To make the transi",
+      "title": "Duckassist",
+      "link": "https://dev.to/diekaiju/duckassist-3c5a",
+      "summary": "DuckAssist is a lightweight WebView wrapper for Duck.ai, built to make the service easier to use on Android for everyday tasks. The goal is simple: provide a minimal, storage-friendly way to access Duck.ai without adding",
       "image": "",
-      "published": "Fri, 26 Jun 2026 19:09:16 +0000",
+      "published": "Sat, 27 Jun 2026 01:18:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Best real-time analytics database for star schema and fast joins (2026 guide)",
-      "link": "https://dev.to/dataengineeringguide/real-time-analytics-star-schema-joins-3ife",
-      "summary": "Modern OLAP databases like ClickHouse now handle star schemas and complex cross-table joins at massive scale. That gives data engineering teams a real choice: flatten data into one big table when the workload calls for i",
+      "title": "Your AI Agent just leaked your Stripe key. Here's how to stop it before the commit.",
+      "link": "https://dev.to/renato_marinho/your-ai-agent-just-leaked-your-stripe-key-heres-how-to-stop-it-before-the-commit-5fb7",
+      "summary": "I watched a developer lose $12,000 in fraudulent Stripe charges in under four hours last month. They weren't even targetted by a sophisticated hacking group; they were targeted by automated bots scraping public GitHub co",
       "image": "",
-      "published": "Fri, 26 Jun 2026 19:08:50 +0000",
+      "published": "Sat, 27 Jun 2026 01:17:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OPTIMIZE TABLE ... FINAL in ClickHouse: when to use it, when to avoid it, and how merges work",
-      "link": "https://dev.to/dataengineeringguide/clickhouse-optimize-table-final-48kc",
-      "summary": "If you manage a ClickHouse cluster in production, you may have hit duplicate rows or the \"too many parts\" error. A search result, an older blog post, or a forum thread probably pointed you to OPTIMIZE TABLE ... FINAL. Yo",
+      "title": "Certifying something on-chain without revealing it: privacy attestation on Midnight",
+      "link": "https://dev.to/chaps_grid/certifying-something-on-chain-without-revealing-it-privacy-attestation-on-midnight-1j4c",
+      "summary": "I built Grid Audit, a tool that reviews Midnight code and then lets you certify that review on-chain. The thought behind this was to help assist people with reviewing what code they have created. But then my original tho",
       "image": "",
-      "published": "Fri, 26 Jun 2026 19:08:22 +0000",
+      "published": "Sat, 27 Jun 2026 01:03:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
