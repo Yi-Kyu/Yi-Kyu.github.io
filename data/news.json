@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T13:06:40.880266Z",
+  "updated": "2026-06-28T18:57:29.007728Z",
   "articles": [
     {
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+      "image": "",
+      "published": "Sun, 28 Jun 2026 10:13:46 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Clean GitHub repo tricks AI coding agents into running malware",
       "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
       "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
@@ -83,101 +92,137 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats an",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Great",
       "image": "",
-      "published": "Fri, 26 Jun 2026 13:49:07 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "link": "https://github.com/openai/codex/issues/2847",
-      "summary": "Article URL: https://github.com/openai/codex/issues/2847\nComments URL: https://news.ycombinator.com/item?id=48706714\nPoints: 5\n# Comments: 2",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:27:33 +0000",
+      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "source": "Krebs on Security",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affi",
+      "image": "",
+      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+      "source": "Krebs on Security",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
+      "image": "",
+      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
+      "source": "Krebs on Security",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on T",
+      "image": "",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "source": "Krebs on Security",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Cost Yagni Was Never About – By Kent Beck",
+      "link": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+      "summary": "Article URL: https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about\nComments URL: https://news.ycombinator.com/item?id=48710082\nPoints: 6\n# Comments: 0",
+      "image": "",
+      "published": "Sun, 28 Jun 2026 18:31:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kids act would require age checks to get online",
-      "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online\nComments URL: https://news.ycombinator.com/item?id=48706560\nPoints: 11\n# Comments: 5",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\nComments URL: https://news.ycombinator.com/item?id=48709187\nPoints: 41\n# Comments: 4",
       "image": "",
-      "published": "Sun, 28 Jun 2026 11:56:16 +0000",
+      "published": "Sun, 28 Jun 2026 16:58:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "More evidence of life on Mars but still no life (2025)",
-      "link": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "summary": "Article URL: https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645\nComments URL: https://news.ycombinator.com/item?id=48706554\nPoints: 17\n# Comments: 9",
+      "title": "Show HN: DRM-Free Books",
+      "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+      "summary": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books.  Pick authors and books that are DRM-free, or download DRM-free classics t",
       "image": "",
-      "published": "Sun, 28 Jun 2026 11:55:08 +0000",
+      "published": "Sun, 28 Jun 2026 16:58:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467\nComments URL: https://news.ycombinator.com/item?id=48705910\nPoints: 35\n# Comments: 5",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus\nComments URL: https://news.ycombinator.com/item?id=48708941\nPoints: 119\n# Comments: 167",
       "image": "",
-      "published": "Sun, 28 Jun 2026 09:53:58 +0000",
+      "published": "Sun, 28 Jun 2026 16:35:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bashblog – a single bash script to create blogs",
-      "link": "https://github.com/cfenollosa/bashblog",
-      "summary": "Article URL: https://github.com/cfenollosa/bashblog\nComments URL: https://news.ycombinator.com/item?id=48704454\nPoints: 70\n# Comments: 44",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "link": "https://www.openculture.com/2020/10/daisugi.html",
+      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565\n\nComments URL: https://news.ycombinator.com/item?id=48708859\nPoints: 51\n# Comments: 18",
       "image": "",
-      "published": "Sun, 28 Jun 2026 04:48:32 +0000",
+      "published": "Sun, 28 Jun 2026 16:28:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A homemade CI/CD pipeline with GitHub Actions",
-      "link": "https://dev.to/riusmax/a-homemade-cicd-pipeline-with-github-actions-1bl5",
-      "summary": "In the previous article on hosting a Next.js app on a VPS, I'd left the deployment pipeline as a rough sketch: four lines to say \"it ships to production on its own when you push.\" That's the piece I want to open up here,",
+      "title": "How Stylish Text Generators Work: Understanding Unicode Fonts",
+      "link": "https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11",
+      "summary": "If you've ever seen usernames like 𝓙𝓸𝓱𝓷, 🅹🅾🅷🅽, or 𝕵𝖔𝖍𝖓 on Instagram, Discord, or gaming platforms, you might have wondered how they are created.\n\nMany people think these are custom fonts, but they aren't.\n\nThey're Actual",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:58:45 +0000",
+      "published": "Sun, 28 Jun 2026 18:24:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built GitPulse: A Cinematic Developer Storyteller (and why standard GitHub profiles are boring)",
-      "link": "https://dev.to/rahul_agarwal18/how-i-built-gitpulse-a-cinematic-developer-storyteller-and-why-standard-github-profiles-are-1ano",
-      "summary": "Let's be honest — standard GitHub profiles are a bit... static.\n\nAs a Full Stack Developer &amp; AI/ML Specialist, I wanted a way to showcase my contributions that actually felt alive. I didn't just want a grid of green ",
+      "title": "Why Semantic HTML is a Superpower for Your Website.",
+      "link": "https://dev.to/gladwell_wathuti/why-semantic-html-is-a-superpower-for-your-website-1hoh",
+      "summary": "Why Semantic HTML is a Superpower for Your Website\n\nAs I’ve been building my personal portfolio during the IYF Season 11 program, I realized that writing code is about more than just making things look \"right\"—it’s about",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:55:41 +0000",
+      "published": "Sun, 28 Jun 2026 18:23:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a free UAE calculator platform that runs on live government data",
-      "link": "https://dev.to/adadae/i-built-a-free-uae-calculator-platform-that-runs-on-live-government-data-573e",
-      "summary": "Living in the UAE means constantly Googling numbers: what is the visa fee now, how much zakat do I owe, what is today's fuel price, how is my gratuity calculated. The answers online are usually outdated.\n\nSo I built Adad",
+      "title": "I Taught Claude Code to Speak Kiro",
+      "link": "https://dev.to/coderhisham/i-taught-claude-code-to-speak-kiro-149i",
+      "summary": "TL;DR — Claude Code sends its requests wherever one environment variable points. Aim that at a small local translator and it runs on the Kiro plan you already pay for. Full setup below, plus the two snags worth knowing a",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:49:24 +0000",
+      "published": "Sun, 28 Jun 2026 18:22:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Quitter Vercel : héberger son app Next.js sur un VPS",
-      "link": "https://dev.to/riusmax/quitter-vercel-heberger-son-app-nextjs-sur-un-vps-1k7l",
-      "summary": "Vercel m'a longtemps convenu. Tu pousses ton code, trente secondes plus tard c'est en ligne avec un certificat valide, un CDN et des previews par branche. Pour démarrer un projet, je ne connais rien de plus confortable. ",
+      "title": "How to fix the \"Purple Potassium\" Chrome Web Store rejection (and catch it before you submit)",
+      "link": "https://dev.to/rory_1af399b9b9528d47ab36/how-to-fix-the-purple-potassium-chrome-web-store-rejection-and-catch-it-before-you-submit-414b",
+      "summary": "You submitted your extension, waited days for review, and got back a rejection\nwith a violation called \"Purple Potassium.\" Your extension looks fine to you, so\nwhat does it even mean? Here is what it is, why it happens, ",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:48:54 +0000",
+      "published": "Sun, 28 Jun 2026 18:21:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OKF for Claude Code: structured, portable memory your agent (and team) can read",
-      "link": "https://dev.to/scaccogatto/okf-for-claude-code-structured-portable-memory-your-agent-and-team-can-read-4ocn",
-      "summary": "The problem: agents forget your project every session\n\n\nIf you pair with a coding agent, you have lived this: a new session starts and the context is gone. The agent re-discovers your auth flow, re-guesses why a decision",
+      "title": "Building DevPilot AI changed the way I think about AI applications.",
+      "link": "https://dev.to/siddharth_goudgilakathi_/building-devpilot-ai-changed-the-way-i-think-about-ai-applications-389d",
+      "summary": "The biggest challenge wasn't choosing a language model or designing prompts—it was managing context over time. Once an application grows beyond isolated conversations, memory becomes just as important as reasoning. An as",
       "image": "",
-      "published": "Sun, 28 Jun 2026 12:44:50 +0000",
+      "published": "Sun, 28 Jun 2026 18:16:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
