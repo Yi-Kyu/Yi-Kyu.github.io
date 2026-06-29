@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-29T15:22:33.347956Z",
+  "updated": "2026-06-29T19:28:21.596082Z",
   "articles": [
+    {
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg",
+      "published": "Tue, 30 Jun 2026 00:10:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+      "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.\n\nThe optional feature is designed to he",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg",
+      "published": "Mon, 29 Jun 2026 21:39:21 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "summary": "The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command chann",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg",
+      "published": "Mon, 29 Jun 2026 20:33:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg",
-      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
-      "source": "The Hacker News",
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+      "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:48:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity company ESET said i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg",
-      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad f",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg",
-      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+      "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:11:15 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux.",
       "image": "",
       "published": "Mon, 29 Jun 2026 10:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can ",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Data breach exposes up to 14.2M email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/\nComments URL: https://news.ycombinator.com/item?id=48719712\nPoints: 17\n# Comments: 0",
+      "title": "The 80% Problem: The Last 20% Is Where the Engineer Used to Live",
+      "link": "https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html",
+      "summary": "Article URL: https://www.jonathanbeard.io/blog/2026/06/27/the-80-percent-problem.html\nComments URL: https://news.ycombinator.com/item?id=48723276\nPoints: 15\n# Comments: 8",
       "image": "",
-      "published": "Mon, 29 Jun 2026 14:27:35 +0000",
+      "published": "Mon, 29 Jun 2026 18:35:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A field guide to the modern front end for developers who hand-wrote HTML",
-      "link": "https://davidpoblador.com/deep-dives/the-descent/",
-      "summary": "Article URL: https://davidpoblador.com/deep-dives/the-descent/\nComments URL: https://news.ycombinator.com/item?id=48719665\nPoints: 37\n# Comments: 23",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "link": "https://github.com/deepreinforce-ai/Ornith-1",
+      "summary": "Article URL: https://github.com/deepreinforce-ai/Ornith-1\nComments URL: https://news.ycombinator.com/item?id=48722052\nPoints: 31\n# Comments: 6",
       "image": "",
-      "published": "Mon, 29 Jun 2026 14:23:27 +0000",
+      "published": "Mon, 29 Jun 2026 17:16:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mag 7 starting to underperform [pdf]",
-      "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-      "summary": "Article URL: https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf\nComments URL: https://news.ycombinator.com/item?id=48719532\nPoints: 72\n# Comments: 31",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/\nComments URL: https://news.ycombinator.com/item?id=48721903\nPoints: 249\n# Comments: 173",
       "image": "",
-      "published": "Mon, 29 Jun 2026 14:12:55 +0000",
+      "published": "Mon, 29 Jun 2026 17:05:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "RocketLab Acquires Iridium",
-      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "summary": "Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\nComments URL: https://news.ycombinator.com/item?id=48719485\nPoints: 32\n# Comment",
+      "title": "The Radiation Exposure Lie",
+      "link": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+      "summary": "Article URL: https://worksinprogress.co/issue/how-to-lie-about-radiation/\nComments URL: https://news.ycombinator.com/item?id=48721308\nPoints: 47\n# Comments: 17",
       "image": "",
-      "published": "Mon, 29 Jun 2026 14:09:24 +0000",
+      "published": "Mon, 29 Jun 2026 16:27:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
-      "link": "https://twitter.com/i/status/2071277885646868536",
-      "summary": "Article URL: https://twitter.com/i/status/2071277885646868536\nComments URL: https://news.ycombinator.com/item?id=48719027\nPoints: 93\n# Comments: 28",
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "summary": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/\nComments URL: https://news.ycombinator.com/item?id=48721072\nPoints: 198\n# Comments: 43",
       "image": "",
-      "published": "Mon, 29 Jun 2026 13:26:35 +0000",
+      "published": "Mon, 29 Jun 2026 16:07:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Drift Protocol Hack: A Six-Month Social Engineering Operation",
-      "link": "https://dev.to/pavelespitia/the-drift-protocol-hack-a-six-month-social-engineering-operation-2ne1",
-      "summary": "On April 1, 2026, attackers drained about $285 million from Drift Protocol on Solana. It was the second-largest exploit in Solana's history, and the post-mortem is the most important security reading of the year, because",
+      "title": "How I Built a Civic Traffic App on DynamoDB + Vercel — ChowkChakra (#H0Hackathon)",
+      "link": "https://dev.to/omkar598/how-i-built-a-civic-traffic-app-on-dynamodb-vercel-chowkchakra-h0hackathon-3oon",
+      "summary": "I built this project as my submission for the H0 Hackathon — Hack the Zero Stack with Vercel v0 and AWS Databases. This post covers how I designed and built ChowkChakra using Amazon DynamoDB and Vercel. #H0Hackathon\n\n\n\n\n",
       "image": "",
-      "published": "Mon, 29 Jun 2026 15:19:00 +0000",
+      "published": "Mon, 29 Jun 2026 19:18:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The MCP Tax Hit 42,000 Tokens on a Single Server. Here's What I Did About It.",
-      "link": "https://dev.to/mrclaw207/the-mcp-tax-hit-42000-tokens-on-a-single-server-heres-what-i-did-about-it-3kp6",
-      "summary": "I connected an MCP server last month and watched my token bill jump 37% on the first call. The actual work? A single git status. The schema for that one server consumed 42,000 tokens before the model typed a single chara",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 15:16:12 +0000",
+      "title": "Why Most AI Trading Bots Fail (And What Ours Did Wrong Too)",
+      "link": "https://dev.to/cart0ne/why-most-ai-trading-bots-fail-and-what-ours-did-wrong-too-57j6",
+      "summary": "The Human Side\n\n\nby Max, Co-Founder, Board, the one who presses the buttons. Written in Italian, translated by Claude.\n\nAt the beginning of this project, still in the brainstorming phase, one of the first things Claude t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcloud.umami.is%2Fp%2F0nHeF7vMT",
+      "published": "Mon, 29 Jun 2026 19:14:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My commit message said \"You've hit your session limit\"",
-      "link": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
-      "summary": "🧐 Context 🧐\n\n\nI had this one-liner that I was using.\n\n\n\ngit commit -m \"$(git diff --staged | claude -p \"Provide a simple, one-line git commit message based on this diff following best practices. Output absolutely nothing",
+      "title": "100k lines of TypeScript to Rust with zero Rust experience. That's not engineering.",
+      "link": "https://dev.to/adioof/100k-lines-of-typescript-to-rust-with-zero-rust-experience-thats-not-engineering-3ii4",
+      "summary": "Someone ported 100k lines of TypeScript to Rust in a month using Claude. They had zero Rust experience. And honestly? I can't stop thinking about it.\n\nThe developer then used differential fuzzing — the process of throwin",
       "image": "",
-      "published": "Mon, 29 Jun 2026 15:15:49 +0000",
+      "published": "Mon, 29 Jun 2026 19:13:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Need Career Guidance After Leaving My First Job – Feeling Lost",
-      "link": "https://dev.to/sarthak_pandey_e0f3a9326a/need-career-guidance-after-leaving-my-first-job-feeling-lost-58k",
-      "summary": "Hi everyone,\n\nI really need some career advice because I feel completely stuck.\n\nI started my career at Accenture. After joining a project, I was assigned the role of Business Analyst in the Banking domain. Unfortunately",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 15:10:55 +0000",
+      "title": "Why Most AI Automation Projects Fail Before Development Starts",
+      "link": "https://dev.to/vaibhav_jain_ai/why-most-ai-automation-projects-fail-before-development-starts-4hla",
+      "summary": "Build an agent.\nConnect a workflow.\nDeploy a chatbot.\nReplace manual work.\n\nIt sounds simple.\n\nYet many businesses spend months experimenting with AI and still struggle to create measurable operational value.\n\nAfter work",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.zeacle.com%2Fog-image.png",
+      "published": "Mon, 29 Jun 2026 19:08:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a cryptographic passport for AI agents — here's how it works",
-      "link": "https://dev.to/mawyxx/i-built-a-cryptographic-passport-for-ai-agents-heres-how-it-works-5b73",
-      "summary": "The problem nobody is solving\n\n\nAI agents can write code, browse the web, send emails. But ask a simple question: \"How does this agent prove its identity to another service?\" — and you'll hit a wall.\n\nModern identity sys",
+      "title": "Building a Self-Hosted Remote Desktop with Cloudflare Workers and WebRTC",
+      "link": "https://dev.to/huo_huo_ba0fc42b443732322/building-a-self-hosted-remote-desktop-with-cloudflare-workers-and-webrtc-kka",
+      "summary": "Running a remote desktop service usually means maintaining a relay server with enough bandwidth to carry every screen frame. That is expensive and creates an obvious bottleneck. A different design is to separate the cont",
       "image": "",
-      "published": "Mon, 29 Jun 2026 15:09:28 +0000",
+      "published": "Mon, 29 Jun 2026 18:51:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
