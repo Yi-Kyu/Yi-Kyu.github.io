@@ -1,6 +1,42 @@
 {
-  "updated": "2026-06-29T10:14:26.665943Z",
+  "updated": "2026-06-29T15:22:33.347956Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open.\n\nThe noise is not all noise, either. Forums are talking, res",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg",
+      "published": "Mon, 29 Jun 2026 20:11:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg",
+      "published": "Mon, 29 Jun 2026 17:27:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg",
+      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025.\n\nSlovakian cybersecurity company ESET said i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg",
+      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
       "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
@@ -11,83 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No crede",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg",
-      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.\n\n\"This attack",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg",
-      "published": "Mon, 29 Jun 2026 11:06:06 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging acc",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg",
-      "published": "Sat, 27 Jun 2026 22:57:11 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.\n\nWhile Sol is the latest fl",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1600/gpt.jpg",
-      "published": "Sat, 27 Jun 2026 17:49:37 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+      "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. ",
       "image": "",
-      "published": "Sun, 28 Jun 2026 10:13:46 -0400",
+      "published": "Mon, 29 Jun 2026 11:09:43 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
       "image": "",
-      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
+      "published": "Mon, 29 Jun 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messag",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux.",
       "image": "",
-      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
+      "published": "Mon, 29 Jun 2026 10:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
       "image": "",
-      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
+      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can ",
       "image": "",
-      "published": "Fri, 26 Jun 2026 14:04:12 -0400",
+      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "summary": "Article URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\nComments URL: https://news.ycombinator.com/item?id=48716902\nPoints: 31\n# Comments",
+      "title": "Data breach exposes up to 14.2M email logins at six ISPs",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/\nComments URL: https://news.ycombinator.com/item?id=48719712\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Mon, 29 Jun 2026 09:28:08 +0000",
+      "published": "Mon, 29 Jun 2026 14:27:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "summary": "Article URL: https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/\nComments URL: https://news.ycombinator.com/item?id=48716634\nPoints: 121\n# Comments: 5",
+      "title": "A field guide to the modern front end for developers who hand-wrote HTML",
+      "link": "https://davidpoblador.com/deep-dives/the-descent/",
+      "summary": "Article URL: https://davidpoblador.com/deep-dives/the-descent/\nComments URL: https://news.ycombinator.com/item?id=48719665\nPoints: 37\n# Comments: 23",
       "image": "",
-      "published": "Mon, 29 Jun 2026 08:58:09 +0000",
+      "published": "Mon, 29 Jun 2026 14:23:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
-      "link": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
-      "summary": "Article URL: https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw\nComments URL: https://news.ycombinator.com/item?id=48716009\nPoints: 26\n# Comments: 36",
+      "title": "Mag 7 starting to underperform [pdf]",
+      "link": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+      "summary": "Article URL: https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf\nComments URL: https://news.ycombinator.com/item?id=48719532\nPoints: 72\n# Comments: 31",
       "image": "",
-      "published": "Mon, 29 Jun 2026 07:36:08 +0000",
+      "published": "Mon, 29 Jun 2026 14:12:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "link": "https://github.com/ogulcancelik/herdr",
-      "summary": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 69\n# Comments: 37",
+      "title": "RocketLab Acquires Iridium",
+      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "summary": "Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\nComments URL: https://news.ycombinator.com/item?id=48719485\nPoints: 32\n# Comment",
       "image": "",
-      "published": "Mon, 29 Jun 2026 04:27:46 +0000",
+      "published": "Mon, 29 Jun 2026 14:09:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "summary": "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\nComments URL: https://news.ycombinator.com/item?id=48714529\nPoints: 480\n# Comments: 275",
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "link": "https://twitter.com/i/status/2071277885646868536",
+      "summary": "Article URL: https://twitter.com/i/status/2071277885646868536\nComments URL: https://news.ycombinator.com/item?id=48719027\nPoints: 93\n# Comments: 28",
       "image": "",
-      "published": "Mon, 29 Jun 2026 03:42:07 +0000",
+      "published": "Mon, 29 Jun 2026 13:26:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Electronic signature with OTP on Firebase: audit trail, PDF hash and certificate with pdf-lib",
-      "link": "https://dev.to/androve2k/electronic-signature-with-otp-on-firebase-audit-trail-pdf-hash-and-certificate-with-pdf-lib-3395",
-      "summary": "I needed to send internal documents to team members — regulations, policy updates — and collect traceable proof that each person had read and accepted them. The classic proposal: Firebase Authentication with SMS OTP, Fir",
+      "title": "The Drift Protocol Hack: A Six-Month Social Engineering Operation",
+      "link": "https://dev.to/pavelespitia/the-drift-protocol-hack-a-six-month-social-engineering-operation-2ne1",
+      "summary": "On April 1, 2026, attackers drained about $285 million from Drift Protocol on Solana. It was the second-largest exploit in Solana's history, and the post-mortem is the most important security reading of the year, because",
       "image": "",
-      "published": "Mon, 29 Jun 2026 10:06:20 +0000",
+      "published": "Mon, 29 Jun 2026 15:19:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Mobile App Security Best Practices in 2026",
-      "link": "https://dev.to/russel_dsouza_bd584a3cb2a/mobile-app-security-best-practices-in-2026-d0e",
-      "summary": "Most mobile breaches aren't sophisticated. They're a hardcoded API key, a forgotten debug flag, or a token in plaintext AsyncStorage.\nThe OWASP Mobile Top 10 (2024) is your checklist — work it every release.\n\nTokens live",
+      "title": "The MCP Tax Hit 42,000 Tokens on a Single Server. Here's What I Did About It.",
+      "link": "https://dev.to/mrclaw207/the-mcp-tax-hit-42000-tokens-on-a-single-server-heres-what-i-did-about-it-3kp6",
+      "summary": "I connected an MCP server last month and watched my token bill jump 37% on the first call. The actual work? A single git status. The schema for that one server consumed 42,000 tokens before the model typed a single chara",
       "image": "",
-      "published": "Mon, 29 Jun 2026 10:04:58 +0000",
+      "published": "Mon, 29 Jun 2026 15:16:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Top Shopify Agencies in the US for 2026 (A Developer's Honest Take)",
-      "link": "https://dev.to/krunalkanojiya/top-shopify-agencies-in-the-us-for-2026-a-developers-honest-take-35k8",
-      "summary": "I've seen good Shopify stores break because of bad agency choices.\n\nNot bad code. Not bad ideas. The agency just was not the right fit for what the brand actually needed. And when you're a developer or a CTO making that ",
+      "title": "My commit message said \"You've hit your session limit\"",
+      "link": "https://dev.to/shyamala_u/my-commit-message-said-youve-hit-your-session-limit-2abn",
+      "summary": "🧐 Context 🧐\n\n\nI had this one-liner that I was using.\n\n\n\ngit commit -m \"$(git diff --staged | claude -p \"Provide a simple, one-line git commit message based on this diff following best practices. Output absolutely nothing",
       "image": "",
-      "published": "Mon, 29 Jun 2026 10:04:16 +0000",
+      "published": "Mon, 29 Jun 2026 15:15:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We just launched UIAble!\n\nA free, open-source React component library with vibrant UI, production-ready components, and full code ownership.\n\nGithub - https://github.com/codedthemes/uiable",
-      "link": "https://dev.to/brijesh_dobariya/we-just-launched-uiable-a-free-open-source-react-component-library-with-vibrant-ui-13cp",
-      "summary": "GitHub - codedthemes/uiable: A free, open-source collection of beautifully designed UI components that you can copy, paste, customize, and make your own. · GitHub\n          \n        \n          \n            A free, open-s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fopengraph.githubassets.com%2F707f1fe82147bf5afdd8df0bbea3d4f67a378fe04e95b64b6bf5946e185b0fb5%2Fcodedthemes%2Fuiable",
-      "published": "Mon, 29 Jun 2026 10:02:57 +0000",
+      "title": "Need Career Guidance After Leaving My First Job – Feeling Lost",
+      "link": "https://dev.to/sarthak_pandey_e0f3a9326a/need-career-guidance-after-leaving-my-first-job-feeling-lost-58k",
+      "summary": "Hi everyone,\n\nI really need some career advice because I feel completely stuck.\n\nI started my career at Accenture. After joining a project, I was assigned the role of Business Analyst in the Banking domain. Unfortunately",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 15:10:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PDF Fraud Detection in Loan Origination",
-      "link": "https://dev.to/iurii_rogulia/pdf-fraud-detection-in-loan-origination-3ma8",
-      "summary": "Originally published at htpbe.tech. The version on htpbe.tech stays in sync with the latest detection algorithm — refer to it for the canonical text.\n\n\nA borrower submits a loan application through your LOS. Bank stateme",
+      "title": "I built a cryptographic passport for AI agents — here's how it works",
+      "link": "https://dev.to/mawyxx/i-built-a-cryptographic-passport-for-ai-agents-heres-how-it-works-5b73",
+      "summary": "The problem nobody is solving\n\n\nAI agents can write code, browse the web, send emails. But ask a simple question: \"How does this agent prove its identity to another service?\" — and you'll hit a wall.\n\nModern identity sys",
       "image": "",
-      "published": "Mon, 29 Jun 2026 10:00:36 +0000",
+      "published": "Mon, 29 Jun 2026 15:09:28 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things when baed on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typicall",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\n\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Thu, 25 Jun 2026 13:15:05 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-      "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-      "summary": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fall",
-      "image": "",
-      "published": "Mon, 22 Jun 2026 12:39:13 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
