@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-29T02:02:22.588484Z",
+  "updated": "2026-06-29T10:14:26.665943Z",
   "articles": [
+    {
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad f",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmbNHaJMqOcEeoUkaQeIZC_ilbUt8RpG-kyweNVY_fJ_3BQk19-pmJQXV_soXqZiHleBISNTwcYSqew2nzpc3eBEDULz52KaY1RNrJTb7u87f2oEtpJuTtmi4OL6Lc_HXP9WQcMDRco_w4U5mklzQ1QJj8ndNiBYVQRRUsevzc1P6hZe2N26_lyAhkQbsP/s1600/edge.jpg",
+      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No crede",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9yQyR_bCP0-I73R6EpwLjJtptGUvzeJD90oYzZvFZXVnM99EIvHFtIJlhZ2f4NSZkAyO7JWjJOy6Zd3lAtPz1Bbk2vmj7Ls8aMIZsFqiIVtIArSjypgJRIHJzlDN5BykKcZziAicpJiNE02Wg3Aheu5BIF1SvY3Pn09WYcdLtvWAT5giGf9mC_uY9GkG/s1600/ssh.jpg",
+      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts.\n\n\"This attack",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg",
+      "published": "Mon, 29 Jun 2026 11:06:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
       "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
@@ -16,33 +43,6 @@
       "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.\n\nWhile Sol is the latest fl",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1600/gpt.jpg",
       "published": "Sat, 27 Jun 2026 17:49:37 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "summary": "The FBI and CISA have updated&nbsp;their March warning&nbsp;about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery K",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjt2-y25_EiB31BmVQQpt9ne8mH9iPOJpYJmItVSIKGexUBmKRwzNSvDYzbVyRm9xxR6H0rE880CTv3QTblUdJgkRh2EoXqYGJ9wwOq-cOktE6iIvI0fZdeuxf8gTmdEpStuzq5CywuWYEjb32JqfwIznRc6YtDK_V5dFH1bcx2EoqvQ1Koieo4g7QDKA/s1600/signal-phishing.jpg",
-      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts.\n\nKaspersky,",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsnAZNjHSEX7UtabbKNVn68uohH8pK5LKuU2CgckZTJowWHxYmEjx9ROquO9tFsThy-3_759_ko2TQEX4Wm3PI1Y-opfzyeAzW8Tni0-gz2YMtPMln9XQRzcKq1mviZSTW7MNShxVRhbuUXBSuNGTNStlwj_NCfFsyrptpXvkLNt5CUfARwENz0IshNDma/s1600/shark.jpg",
-      "published": "Fri, 26 Jun 2026 23:47:46 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia.\n\nThe ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHsYcZgd4WIkN0k-b4_j7JxBgi0R0dzj0jSwSWVgItyIy88VoZK5z8BAiwjmYnou7YLrNuckCgQvnHXV2KYHoNS8WRZbjU1MP5HqvLKkIakvRVuJio7oZeUbi1XsgQVmJ-cDKKWeOzgGouUAzUtJrFRu8CtPQJG-eXCy7aSOx_fyCvGK2tRl12tBbPG7YC/s1600/tinyrct.jpg",
-      "published": "Fri, 26 Jun 2026 21:51:25 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-      "link": "https://www.phantafield.com/whitepaper",
-      "summary": "Article URL: https://www.phantafield.com/whitepaper\nComments URL: https://news.ycombinator.com/item?id=48713686\nPoints: 11\n# Comments: 3",
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "summary": "Article URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\nComments URL: https://news.ycombinator.com/item?id=48716902\nPoints: 31\n# Comments",
       "image": "",
-      "published": "Mon, 29 Jun 2026 01:23:38 +0000",
+      "published": "Mon, 29 Jun 2026 09:28:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Better Images of AI",
-      "link": "https://betterimagesofai.org/",
-      "summary": "Article URL: https://betterimagesofai.org/\nComments URL: https://news.ycombinator.com/item?id=48713051\nPoints: 10\n# Comments: 6",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/\nComments URL: https://news.ycombinator.com/item?id=48716634\nPoints: 121\n# Comments: 5",
       "image": "",
-      "published": "Sun, 28 Jun 2026 23:50:58 +0000",
+      "published": "Mon, 29 Jun 2026 08:58:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We need tech news sources which exclude AI",
-      "link": "https://news.ycombinator.com/item?id=48713041",
-      "summary": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories.HN is getting closer to that every day.If AI kickback deals, phony new model rat",
+      "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+      "link": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
+      "summary": "Article URL: https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw\nComments URL: https://news.ycombinator.com/item?id=48716009\nPoints: 26\n# Comments: 36",
       "image": "",
-      "published": "Sun, 28 Jun 2026 23:49:50 +0000",
+      "published": "Mon, 29 Jun 2026 07:36:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "link": "https://arxiv.org/abs/2401.07013",
-      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 49\n# Comments: 13",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "link": "https://github.com/ogulcancelik/herdr",
+      "summary": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 69\n# Comments: 37",
       "image": "",
-      "published": "Sun, 28 Jun 2026 22:32:04 +0000",
+      "published": "Mon, 29 Jun 2026 04:27:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Xonaly – Canada's Independent Search Engine",
-      "link": "https://xonaly.com/",
-      "summary": "Article URL: https://xonaly.com/\nComments URL: https://news.ycombinator.com/item?id=48712324\nPoints: 59\n# Comments: 36",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "summary": "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\nComments URL: https://news.ycombinator.com/item?id=48714529\nPoints: 480\n# Comments: 275",
       "image": "",
-      "published": "Sun, 28 Jun 2026 22:20:56 +0000",
+      "published": "Mon, 29 Jun 2026 03:42:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Open-Source Customizable Compliance",
-      "link": "https://dev.to/adog0822/open-source-customizable-r-3dg1",
-      "summary": "First of all, why care? Compliance is a messy process. As Startups scale, it can be very very costly &amp; a lot of existing tools don't give you the best bang for your buck, especially as a smaller team on AWS going thr",
+      "title": "Electronic signature with OTP on Firebase: audit trail, PDF hash and certificate with pdf-lib",
+      "link": "https://dev.to/androve2k/electronic-signature-with-otp-on-firebase-audit-trail-pdf-hash-and-certificate-with-pdf-lib-3395",
+      "summary": "I needed to send internal documents to team members — regulations, policy updates — and collect traceable proof that each person had read and accepted them. The classic proposal: Firebase Authentication with SMS OTP, Fir",
       "image": "",
-      "published": "Mon, 29 Jun 2026 01:49:21 +0000",
+      "published": "Mon, 29 Jun 2026 10:06:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "matten Introduction: A family-car tensor library for Rust",
-      "link": "https://dev.to/nabbisen/matten-introduction-a-family-car-tensor-library-for-rust-52ak",
-      "summary": "I recently published matten, a small Rust library for working with multidimensional arrays. This is the first of four short posts introducing it. This one is about why it exists.\n\n\n\n\nRust is a great language for numerica",
+      "title": "Mobile App Security Best Practices in 2026",
+      "link": "https://dev.to/russel_dsouza_bd584a3cb2a/mobile-app-security-best-practices-in-2026-d0e",
+      "summary": "Most mobile breaches aren't sophisticated. They're a hardcoded API key, a forgotten debug flag, or a token in plaintext AsyncStorage.\nThe OWASP Mobile Top 10 (2024) is your checklist — work it every release.\n\nTokens live",
       "image": "",
-      "published": "Mon, 29 Jun 2026 01:45:50 +0000",
+      "published": "Mon, 29 Jun 2026 10:04:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Connecting Data the Right Way: Modeling, Relationships, and Schema Design in Power BI",
-      "link": "https://dev.to/david_mwandairo_777f888b4/connecting-data-the-right-way-modeling-relationships-and-schema-design-in-power-bi-4602",
-      "summary": "As a data professional, one norm that I have had to accept is that raw data rarely comes in one neat package. Most of the times, it'll be scattered, messy, and it lives across different tables that naturally don't talk t",
+      "title": "Top Shopify Agencies in the US for 2026 (A Developer's Honest Take)",
+      "link": "https://dev.to/krunalkanojiya/top-shopify-agencies-in-the-us-for-2026-a-developers-honest-take-35k8",
+      "summary": "I've seen good Shopify stores break because of bad agency choices.\n\nNot bad code. Not bad ideas. The agency just was not the right fit for what the brand actually needed. And when you're a developer or a CTO making that ",
       "image": "",
-      "published": "Mon, 29 Jun 2026 01:39:51 +0000",
+      "published": "Mon, 29 Jun 2026 10:04:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Running a Whole RAG Agent Offline: LangGraph + Ollama + Embedded Qdrant (Zero API Keys)",
-      "link": "https://dev.to/javaking1129/running-a-whole-rag-agent-offline-langgraph-ollama-embedded-qdrant-zero-api-keys-2hfd",
-      "summary": "Most RAG tutorials open with \"set your OPENAI_API_KEY.\" This one doesn't need it. In Part 1 I claimed the LLM and embeddings are behind a swappable boundary — \"switch providers via config, not code.\" Part 3 is me cashing",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 01:22:31 +0000",
+      "title": "We just launched UIAble!\n\nA free, open-source React component library with vibrant UI, production-ready components, and full code ownership.\n\nGithub - https://github.com/codedthemes/uiable",
+      "link": "https://dev.to/brijesh_dobariya/we-just-launched-uiable-a-free-open-source-react-component-library-with-vibrant-ui-13cp",
+      "summary": "GitHub - codedthemes/uiable: A free, open-source collection of beautifully designed UI components that you can copy, paste, customize, and make your own. · GitHub\n          \n        \n          \n            A free, open-s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fopengraph.githubassets.com%2F707f1fe82147bf5afdd8df0bbea3d4f67a378fe04e95b64b6bf5946e185b0fb5%2Fcodedthemes%2Fuiable",
+      "published": "Mon, 29 Jun 2026 10:02:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "\"Done\" Is Not a State",
-      "link": "https://dev.to/vibeagentmaking/done-is-not-a-state-28pj",
-      "summary": "On December 16, 2024, a developer filed a bug report against Trigger.dev, the open-source background job framework. A routine nightly server restart had caused random tasks to get stuck in a \"queued\" state. The system's ",
+      "title": "PDF Fraud Detection in Loan Origination",
+      "link": "https://dev.to/iurii_rogulia/pdf-fraud-detection-in-loan-origination-3ma8",
+      "summary": "Originally published at htpbe.tech. The version on htpbe.tech stays in sync with the latest detection algorithm — refer to it for the canonical text.\n\n\nA borrower submits a loan application through your LOS. Bank stateme",
       "image": "",
-      "published": "Mon, 29 Jun 2026 01:22:06 +0000",
+      "published": "Mon, 29 Jun 2026 10:00:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
