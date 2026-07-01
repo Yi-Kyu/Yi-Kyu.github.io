@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-01T09:23:22.160915Z",
+  "updated": "2026-07-01T13:58:53.863590Z",
   "articles": [
+    {
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the cas",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg",
+      "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg",
+      "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
       "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office.\n\nNew research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEaR4unJmt3rBY1LzI0Gq_veoF7Qzi-yPQNUcoR2oNV802lQ4MZAviyeq7bBh73PLAyp1quTozDq0ki_zm_9qsJIIfAUTaG8jFTv5dpxvuDUPJZA2BU4Zo11wIVyysWeMROXv8z2XOZoPOoJPVqMEJEhCI_OE1mM5wnSCFHJ1sgjl5411fZ4srklq5Fbs/s1600/clickfix-payloads.jpg",
-      "published": "Wed, 01 Jul 2026 11:02:12 +0530",
-      "source": "The Hacker News",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "image": "",
+      "published": "Wed, 01 Jul 2026 08:30:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg",
-      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+      "image": "",
+      "published": "Wed, 01 Jul 2026 06:52:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
+      "image": "",
+      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
       "image": "",
       "published": "Tue, 30 Jun 2026 20:35:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
-      "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [..",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 17:20:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
-      "link": "https://news.ycombinator.com/item?id=48744213",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48744213\nPoints: 0\n# Comments: 0",
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "link": "https://news.ycombinator.com/item?id=48746752",
+      "summary": "Hi all, it’s Greg and Max, founders of Parsewise hereParsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.\nImagine giving Claude a bunch of ",
       "image": "",
-      "published": "Wed, 01 Jul 2026 09:18:43 +0000",
+      "published": "Wed, 01 Jul 2026 13:48:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
-      "link": "https://www.dongascience.com/en/news/30374",
-      "summary": "Article URL: https://www.dongascience.com/en/news/30374\nComments URL: https://news.ycombinator.com/item?id=48743655\nPoints: 6\n# Comments: 0",
+      "title": "Why I Stopped Arguing with People",
+      "link": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+      "summary": "Article URL: https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html\nComments URL: https://news.ycombinator.com/item?id=48746445\nPoints: 72\n# Comments: 42",
       "image": "",
-      "published": "Wed, 01 Jul 2026 08:12:40 +0000",
+      "published": "Wed, 01 Jul 2026 13:29:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "summary": "Article URL: https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/\nComments ",
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "link": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "summary": "Article URL: https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel\nComments URL: https://news.ycombinator.com/item?id=48746331\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 01 Jul 2026 07:43:22 +0000",
+      "published": "Wed, 01 Jul 2026 13:22:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "summary": "Article URL: https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/\nComments URL: https://news.ycombinator.com/item?id=48742514\nPoints: 31\n# Comments: 2",
+      "title": "Sony will no longer produce discs for PlayStation games starting in January 2028",
+      "link": "https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028",
+      "summary": "Article URL: https://www.eurogamer.net/sony-ending-playstation-discs-physical-media-january-2028\nComments URL: https://news.ycombinator.com/item?id=48745785\nPoints: 43\n# Comments: 27",
       "image": "",
-      "published": "Wed, 01 Jul 2026 05:13:22 +0000",
+      "published": "Wed, 01 Jul 2026 12:43:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The first early human eggs from stem cells",
-      "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "summary": "Article URL: https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\nComments URL: https://news.ycombinator.com/item?id=48742483\nPoints: 105\n# Comments: 60",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "summary": "Article URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/\nComments URL: https://news.ycombinator.com/item?id=48745456\nPoints: 89",
       "image": "",
-      "published": "Wed, 01 Jul 2026 05:09:30 +0000",
+      "published": "Wed, 01 Jul 2026 12:13:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sonnet 5 launches: Opus performance at lower cost",
-      "link": "https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9",
-      "summary": "This week was largely a Claude story: Sonnet 5 landed with enough benchmark muscle to make Opus feel redundant for most workloads, and GitLab's production data backs up the claims. Alongside that, GitHub Copilot quietly ",
+      "title": "Visitors get some serious puppy love",
+      "link": "https://dev.to/dailycontext/visitors-get-some-serious-puppy-love-194m",
+      "summary": "There may be robots aplenty on the AIE expo floor, but many delegates have been drawn to a more mammalian exhibit. In the expo hall, the charity Puppie Love is letting visitors get some serious petting time with its youn",
       "image": "",
-      "published": "Wed, 01 Jul 2026 09:16:33 +0000",
+      "published": "Wed, 01 Jul 2026 13:47:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code",
-      "link": "https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea",
-      "summary": "TL;DR\n\n\ncodegraph, codebase-memory-mcp, and serena all got there first, handing a coding agent code intelligence over MCP so it stops grepping. On my own open-ended questions the token bill didn't budge: the agent kept s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcaxmnqncblyic6glodrb.png",
-      "published": "Wed, 01 Jul 2026 09:14:14 +0000",
+      "title": "My First Year at DEV Recap",
+      "link": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
+      "summary": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a few challenges and prizes and spoke about how the community was so welcoming. \n\nThis was years ago. Aside from reading",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhhsq4fhhro3enxu6sduy.png",
+      "published": "Wed, 01 Jul 2026 13:46:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bikin \"Otak\" AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula",
-      "link": "https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05",
-      "summary": "Pernah kepikiran, \"Sebenarnya AI agent saya inget apa aja sih soal saya?\" Kalau iya, tulisan ini buat kamu.\n\n\n  \n  \n  Masalahnya: Memori AI Itu Kotak Hitam\n\n\nKalau kamu pakai AI agent yang punya memori jangka panjang (pe",
+      "title": "Claude Fable is back!",
+      "link": "https://dev.to/alexgetmancom/claude-fable-is-back-472j",
+      "summary": "Claude Fable is back!\n\nAnthropic has lifted restrictions on Claude Fable 5 and Mythos 5 after a decision by the US government.\n\nFable will be available to Claude users again starting today.\n\nUntil July 7, the model is in",
       "image": "",
-      "published": "Wed, 01 Jul 2026 09:12:53 +0000",
+      "published": "Wed, 01 Jul 2026 13:45:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Metrics Baseline: Prove Your Feature Works Before Scaling It",
-      "link": "https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg",
-      "summary": "An AI feature can feel impressive and still be a bad product decision. The demo is fast. The answer sounds useful. The team is excited. Then usage grows and nobody can answer the basic questions: Is it accurate enough? I",
+      "title": "Token Town",
+      "link": "https://dev.to/dailycontext/token-town-1c45",
+      "summary": "Many of the sessions from Tuesday, especially on the main stage, revolved around the idea of software factories. Coordinating agents with other agents that check even more agents' work, with humans in an overseer positio",
       "image": "",
-      "published": "Wed, 01 Jul 2026 09:11:47 +0000",
+      "published": "Wed, 01 Jul 2026 13:44:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Navigating the Shift: Why Building Faster Means We Must Think Smarter",
-      "link": "https://dev.to/vanessadoof/navigating-the-shift-why-building-faster-means-we-must-think-smarter-131f",
-      "summary": "While researching the massive wave of digital transformation rewriting the rules for startups this year, I stumbled upon an insightful podcast by the tech firm GeekyAnts. Hosted by Prem, the episode featured Sanket Sahu,",
+      "title": "You have violated the rules of our community",
+      "link": "https://dev.to/opg9680/you-have-violated-the-rules-of-our-community-2b19",
+      "summary": "A friend was in the toilet, scrolling on his phone, when a message pops up very fast: ‘You have violated the rules of our community’. Panic! He suddenly calls me. He lives in a small village, he wasn’t doing something to",
       "image": "",
-      "published": "Wed, 01 Jul 2026 09:09:09 +0000",
+      "published": "Wed, 01 Jul 2026 13:38:32 +0000",
       "source": "DEV Community",
       "category": "development"
     }
