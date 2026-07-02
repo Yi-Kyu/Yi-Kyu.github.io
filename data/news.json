@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-02T01:55:39.281539Z",
+  "updated": "2026-07-02T08:36:40.902847Z",
   "articles": [
+    {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that clai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg",
+      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of acti",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg",
+      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
       "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.\n\nThe activity has been codenamed VE",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3OuCh7SjXAd7hG_0Q0p__EmpV5MwYh0fOfMZHc1wxRHpsCN9qlonLr93NB6-iJMWJd6nv8VoMqSt9hWW34H7R7tpoGuhkn1mkEL8UgsiUIfNxh9L1Bh0Qpvt0xrX9Pqq6rw1vb-0CEC3KLAT5N7fdlgEHWnYVDyeuUHt2pD59vugSKLaC9n8-LBLoqV0Y/s1600/blogger.jpg",
-      "published": "Wed, 01 Jul 2026 22:48:50 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.\n\nIt opens with a phishing PDF disguised as ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GnjevIMTqO1nAZ7LWeRKAz2NCKGTKCC2ldSx5dsd2SShjh4pWcmddVJse4MP4QLhA_DOP1K_RajPwe8YR7rc57CqPUO0i9RDYoZQA0yRAokZt1r2hyphenhyphenccOjcFh2SgUTnyUjj-M-y7WUUXVF0rpSrcxTrjb5nPOnpnIP5YvdxzUaLXkubSTXFaj0RzxEvH/s1600/windows-trojan.jpg",
-      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
-      "source": "The Hacker News",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "image": "",
+      "published": "Thu, 02 Jul 2026 00:25:42 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-se",
       "image": "",
       "published": "Wed, 01 Jul 2026 13:32:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webina",
-      "image": "",
-      "published": "Wed, 01 Jul 2026 12:54:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "LibreCAD in the Browser",
-      "link": "https://magik.net/librecad/",
-      "summary": "Article URL: https://magik.net/librecad/\nComments URL: https://news.ycombinator.com/item?id=48755075\nPoints: 3\n# Comments: 0",
+      "title": "CursorBench 3.1",
+      "link": "https://cursor.com/evals",
+      "summary": "Article URL: https://cursor.com/evals\nComments URL: https://news.ycombinator.com/item?id=48756840\nPoints: 42\n# Comments: 28",
       "image": "",
-      "published": "Thu, 02 Jul 2026 01:00:31 +0000",
+      "published": "Thu, 02 Jul 2026 05:19:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\nComments URL: https://news.ycombinator.com/item?id=48755005\nPoints: 23\n# Comments: 1",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/\nComments URL: https://news.ycombinator.com/item?id=48756602\nPoints: 106\n# Comments: 30",
       "image": "",
-      "published": "Thu, 02 Jul 2026 00:48:01 +0000",
+      "published": "Thu, 02 Jul 2026 04:32:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-      "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "summary": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\nComments URL: https://news.ycombinator.com/item?id=48754963\nPoints: 71\n# Comments: 36",
+      "title": "A new Android malware from Google",
+      "link": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "summary": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html\nComments URL: https://news.ycombinator.com/item?id=48755965\nPoints: 266\n# Comments: 117",
       "image": "",
-      "published": "Thu, 02 Jul 2026 00:40:14 +0000",
+      "published": "Thu, 02 Jul 2026 03:00:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
-      "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "summary": "Article URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/\nComments URL: https://news.ycombinator.com/item?id=48754713\nPoints: 83\n# Comments: 76",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "link": "https://senior-swe-bench.snorkel.ai/",
+      "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 70\n# Comments: 61",
       "image": "",
-      "published": "Wed, 01 Jul 2026 23:58:48 +0000",
+      "published": "Thu, 02 Jul 2026 02:55:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The  HTML Element",
-      "link": "https://developer.chrome.com/blog/usermedia-html-element",
-      "summary": "Article URL: https://developer.chrome.com/blog/usermedia-html-element\nComments URL: https://news.ycombinator.com/item?id=48754700\nPoints: 26\n# Comments: 14",
+      "title": "Bring back crappy forums",
+      "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 225\n# Comments: 132",
       "image": "",
-      "published": "Wed, 01 Jul 2026 23:56:15 +0000",
+      "published": "Thu, 02 Jul 2026 02:30:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "[Databricks on AWS #5] Fixing Databricks BOOTSTRAP_TIMEOUT with AWS PrivateLink: Control Plane Over the Backbone, Zero New Subnets",
-      "link": "https://dev.to/javaking1129/databricks-on-aws-5-fixing-databricks-bootstraptimeout-with-aws-privatelink-control-plane-over-pm9",
-      "summary": "📚 Series: Databricks on AWS (Part 5)\n\n\nBuilding a Databricks AI Platform on AWS\nRBAC with Function-Role Groups\nCompute Governance: Pools, Policies, Clusters\nThe BOOTSTRAP_TIMEOUT Mystery\n\nFixing It with AWS PrivateLink ←",
+      "title": "Codex - a.k.a. ChatGPT's AI Agent",
+      "link": "https://dev.to/limacon23/codex-aka-chatgpts-ai-agent-2g8l",
+      "summary": "Codex is OpenAI's AI coding agent, and ChatGPT is the interface you can use to interact with it. That's the difference.  \n\nAs a software engineer, software development has gone through drastic shifts over the decades. We",
       "image": "",
-      "published": "Thu, 02 Jul 2026 01:50:20 +0000",
+      "published": "Thu, 02 Jul 2026 08:24:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Ultimate Collection of 18K+ AI Agent Skills Across 14 Frameworks",
-      "link": "https://dev.to/ansari_bilal/the-ultimate-collection-of-18k-ai-agent-skills-across-14-frameworks-fbo",
-      "summary": "The AI agent landscape is currently in its \"Wild West\" phase. Every day, a new framework emerges — Claude Code, Cursor, Cline, OpenHands, AutoGen — and with each one comes a new way to define \"skills\" or \"tools.\"\n\nThe pr",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9uo3clr1z5xe8mwvhkpt.png",
-      "published": "Thu, 02 Jul 2026 01:41:07 +0000",
+      "title": "[Boost]",
+      "link": "https://dev.to/develi_2b844545a16/-3h6c",
+      "summary": "AI Code Review in 2026: CodeRabbit vs Mesrai AI Compared\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              devtech\n            \n            \n           ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3774969%2Fb0e789a3-451f-4a25-b003-c1f5b33bb1c1.png",
+      "published": "Thu, 02 Jul 2026 08:24:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RAG vs. Agentic RAG vs. Graph RAG: Which One Actually Fits Your Use Case?",
-      "link": "https://dev.to/tienbku/rag-vs-agentic-rag-vs-graph-rag-which-one-actually-fits-your-use-case-19ho",
-      "summary": "If you’ve built anything with LLMs in the last couple of years, you’ve built a RAG pipeline. Embed the query, search a vector store, stuff the top chunks into a prompt, let the model talk. It’s the “Hello World” of groun",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fwww.bezkoder.com%2Fwp-content%2Fuploads%2Frag-vs-agentic-rag-vs-graph-rag-feature.png",
-      "published": "Thu, 02 Jul 2026 01:41:03 +0000",
+      "title": "I Built My Cinematic AI Portfolio",
+      "link": "https://dev.to/egadarshan/i-built-my-cinematic-ai-portfolio-3ofa",
+      "summary": "Hi everyone! 👋\n\nI'm Egadarshan S, a recent AI &amp; Data Science graduate from Sri Sairam Engineering College, Chennai.\n\nOver the past few years, I've worked on projects involving:\n\n\n🤖 Machine Learning\n👁️ Computer Vision",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgj4fabyycbughslsirsl.png",
+      "published": "Thu, 02 Jul 2026 08:21:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "n8n Schedule Trigger: CRON Expressions, Timezones, and Advanced Scheduling Patterns (Free Workflow JSON)",
-      "link": "https://dev.to/pirateprentice/n8n-schedule-trigger-cron-expressions-timezones-and-advanced-scheduling-patterns-free-workflow-ele",
-      "summary": "Most n8n users set up a Schedule Trigger by clicking \"Every Day\" and moving on. That works — until the workflow fires at 3 AM instead of 9 AM, or skips because of a timezone mismatch, or you need it to run every weekday ",
+      "title": "Tailwind CSS Responsive Image Optimization in Astro: Shipping Srcset, WebP, and AVIF Without Build-Time Bloat",
+      "link": "https://dev.to/uaslimcreate/tailwind-css-responsive-image-optimization-in-astro-shipping-srcset-webp-and-avif-without-1poe",
+      "summary": "Tailwind CSS Responsive Image Optimization in Astro: Shipping Srcset, WebP, and AVIF Without Build-Time Bloat\n\n\nI've shipped six production SaaS products. In five of them, images were the silent performance killer. You o",
       "image": "",
-      "published": "Thu, 02 Jul 2026 01:35:51 +0000",
+      "published": "Thu, 02 Jul 2026 08:20:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Databricks on AWS #4] The BOOTSTRAP_TIMEOUT Mystery: Tracing a Databricks Cluster from Data Plane to Control Plane (Transit Gateway + Firewall)",
-      "link": "https://dev.to/javaking1129/databricks-on-aws-4-the-bootstraptimeout-mystery-tracing-a-databricks-cluster-from-data-plane-4lem",
-      "summary": "📚 Series: Databricks on AWS (Part 4)\n\n\nBuilding a Databricks AI Platform on AWS\nRBAC with Function-Role Groups\nCompute Governance: Pools, Policies, Clusters\n\nThe BOOTSTRAP_TIMEOUT Mystery ← you are here\nFixing It with AW",
+      "title": "Open Closed Principle (OCP)",
+      "link": "https://dev.to/anashussain284/open-closed-principle-ocp-290l",
+      "summary": "The open-closed principle (OCP) states that software entities should be open for extension, but closed for modification; that is, such an entity can allow its behaviour to be extended without modifying its source code.\n\n",
       "image": "",
-      "published": "Thu, 02 Jul 2026 01:30:12 +0000",
+      "published": "Thu, 02 Jul 2026 08:16:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
