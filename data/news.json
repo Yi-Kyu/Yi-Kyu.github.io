@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-03T13:26:01.117493Z",
+  "updated": "2026-07-03T18:55:54.429681Z",
   "articles": [
+    {
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"r",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg",
+      "published": "Fri, 03 Jul 2026 21:37:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg",
+      "published": "Fri, 03 Jul 2026 19:06:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
       "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg",
-      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
-      "source": "The Hacker News",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
+      "image": "",
+      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "summary": "This week’s security news is mostly about weak spots.\n\nBrowsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg",
-      "published": "Thu, 02 Jul 2026 20:54:18 +0530",
-      "source": "The Hacker News",
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsof",
+      "image": "",
+      "published": "Fri, 03 Jul 2026 10:12:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [",
       "image": "",
       "published": "Thu, 02 Jul 2026 11:18:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 08:15:47 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "link": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "summary": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/\nComments URL: https://news.ycombinator.com/item?id=48774518\nPoints: 11\n# Comments: 0",
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+      "link": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "summary": "Article URL: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type\nComments URL: https://news.ycombinator.com/item?id=48777728\nPoints: 23\n# Comments: 12",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:01:49 +0000",
+      "published": "Fri, 03 Jul 2026 17:46:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
-      "link": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "summary": "Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit\nComments URL: https://news.ycombinator.com/item?id=48774509\nPoints: 4\n# Comments: 0",
+      "title": "International chess federation sanctions Kramnik",
+      "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+      "summary": "Article URL: https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/\nComments URL: https://news.ycombinator.com/item?id=48777266\nPoints: 43\n# Comments: 21",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:00:31 +0000",
+      "published": "Fri, 03 Jul 2026 17:04:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
-      "link": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-      "summary": "Article URL: https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html\nComments URL: https://news.ycombinator.com/item?id=48774454\nPoints: 6\n# Comments: 1",
+      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "link": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+      "summary": "Article URL: https://okaneland.com/study/ai-productivity-roi-at-work/\nComments URL: https://news.ycombinator.com/item?id=48777257\nPoints: 44\n# Comments: 32",
       "image": "",
-      "published": "Fri, 03 Jul 2026 12:54:53 +0000",
+      "published": "Fri, 03 Jul 2026 17:03:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Please Stop the AI Confidence Theater",
-      "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-      "summary": "Article URL: https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater\nComments URL: https://news.ycombinator.com/item?id=48774414\nPoints: 3\n# Comments: 0",
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "link": "https://github.com/kerlenton/mcpsnoop",
+      "summary": "Article URL: https://github.com/kerlenton/mcpsnoop\nComments URL: https://news.ycombinator.com/item?id=48777144\nPoints: 5\n# Comments: 2",
       "image": "",
-      "published": "Fri, 03 Jul 2026 12:51:17 +0000",
+      "published": "Fri, 03 Jul 2026 16:53:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Commodore 64 Basic for PostgreSQL",
-      "link": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-      "summary": "Article URL: https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html\nComments URL: https://news.ycombinator.com/item?id=48772717\nPoints: 22\n# Comments: 6",
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "link": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+      "summary": "Article URL: https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/\nComments URL: https://news.ycombinator.com/item?id=48776525\nPoints: 63\n# Comments: 3",
       "image": "",
-      "published": "Fri, 03 Jul 2026 09:08:14 +0000",
+      "published": "Fri, 03 Jul 2026 15:56:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Week 1 Reflection: What I Learned About Myself on My Cloud & DevOps Journey",
-      "link": "https://dev.to/okeke_chima_4d4acd8f61e67/week-1-reflection-what-i-learned-about-myself-on-my-cloud-devops-journey-adp",
-      "summary": "Week 1 taught me more about how I learn than about cloud infrastructure itself.\nThe biggest insight: consistent daily practice beats cramming. Small, focused sessions compound over time and I felt that difference this we",
+      "title": "Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB",
+      "link": "https://dev.to/aman179102/building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb-57al",
+      "summary": "I just released v1.0.0 of an open-source, production-ready real-time analytics pipeline built with Python. Here's what it does and why you might care.\n\n\n  \n  \n  The Problem\n\n\nEvery SaaS product needs analytics — event tr",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:17:43 +0000",
+      "published": "Fri, 03 Jul 2026 18:50:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Falta de querência: o que está faltando em muitos profissionais iniciantes de tecnologia",
-      "link": "https://dev.to/vinidev/falta-de-querencia-o-que-esta-faltando-em-muitos-profissionais-iniciantes-de-tecnologia-3flc",
-      "summary": "O maior problema de muita gente que está se formando em tecnologia não é falta de curso, linguagem ou inteligência artificial.\n\nÉ falta de querência.\n\nE não, este não é um guia de como arrumar emprego ou passar em proces",
+      "title": "Open Knowledge Format (OKF): The Markdown Standard Your AI Agents Have Been Waiting For 📚",
+      "link": "https://dev.to/suhas_mallesh/open-knowledge-format-okf-the-markdown-standard-your-ai-agents-have-been-waiting-for-3mfb",
+      "summary": "AI agents are only as smart as the context you give them. OKF is a new open specification that packages your organizational knowledge as plain markdown files so any agent can read it without custom integrations or propri",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:17:26 +0000",
+      "published": "Fri, 03 Jul 2026 18:50:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Migrating off Jira with one command: radial import --from jira",
-      "link": "https://dev.to/radial/migrating-off-jira-with-one-command-radial-import-from-jira-4565",
-      "summary": "Most Jira migration guides are about moving from one Jira to another: Server or Data Center to Cloud, run the Jira Cloud Migration Assistant, plan the maintenance window, pre-load users. That is a real project, and Atlas",
+      "title": "개발 지식 없이도 외주 앱 개발 과정을 직접 점검하는 방법",
+      "link": "https://dev.to/potenlab/gaebal-jisig-eobsido-oeju-aeb-gaebal-gwajeongeul-jigjeob-jeomgeomhaneun-bangbeob-po7",
+      "summary": "개발 역량이 없어도 외주 개발사의 진행 상황을 명확하게 파악하고 피드백을 줄 수 있다. 필요한 건 기술 지식이 아니라, 올바른 협업 구조다. 이 글은 비개발자 제품 관리자가 바로 적용할 수 있는 투명한 피드백 루프와 점검 방식을 소개한다.\n\n\n\n\n\n  \n  \n  외주 개발에서 비개발자가 소외되는 이유는 무엇인가?\n\n\n외주 개발사와 일을 시작하면 처음 며칠은 소통이 활발하다. 요구사항 정리, ",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:14:34 +0000",
+      "published": "Fri, 03 Jul 2026 18:46:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Organizational friction in development",
-      "link": "https://dev.to/monolisafont/organizational-friction-in-development-5d56",
-      "summary": "Developers work in all kinds of organizations as software development is a core skill needed in many places. Some might even argue that every business is a software business these days. For this reason, developers often ",
+      "title": "OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit",
+      "link": "https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e",
+      "summary": "OpenAI Agents SDK 0.13 → 0.17: Three Breaking Changes You Will Hit\n\n\nThe OpenAI Agents SDK moved from 0.13 to 0.17 in five weeks (April 9 – May 19, 2026). That's 19 releases, including three breaking changes. Two of them",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:14:32 +0000",
+      "published": "Fri, 03 Jul 2026 18:45:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Communication friction in development",
-      "link": "https://dev.to/monolisafont/communication-friction-in-development-4c74",
-      "summary": "Although software development, and especially coding, is stereotypically treated as lonely work, in practice it's anything but. Now that coding tasks are increasingly pushed to machines, there is more space for communica",
+      "title": "The Right Way to Pair AI With Terraform Plans",
+      "link": "https://dev.to/devopsaitoolkit/the-right-way-to-pair-ai-with-terraform-plans-3i1c",
+      "summary": "terraform plan is honest about what it's going to do. The problem is it's also verbose, repetitive, and full of cosmetic changes (like recomputed tags) mixed in with real ones (like a database instance scheduled for -/+ ",
       "image": "",
-      "published": "Fri, 03 Jul 2026 13:14:30 +0000",
+      "published": "Fri, 03 Jul 2026 18:42:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
