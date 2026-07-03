@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-03T01:25:22.213575Z",
+  "updated": "2026-07-03T08:41:56.636046Z",
   "articles": [
+    {
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg",
+      "published": "Fri, 03 Jul 2026 13:33:37 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
       "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments,",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg",
-      "published": "Thu, 02 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
+      "image": "",
+      "published": "Thu, 02 Jul 2026 21:37:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
       "image": "",
       "published": "Thu, 02 Jul 2026 08:15:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 07:35:25 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]",
-      "link": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
-      "summary": "Article URL: https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=\nComments URL: https://news.yc",
+      "title": "Why Switzerland has 25 gbit internet and America doesn't",
+      "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/\nComments URL: https://news.ycombinator.com/item?id=48770647\nPoints: 464\n# Comments: 310",
       "image": "",
-      "published": "Fri, 03 Jul 2026 00:18:11 +0000",
+      "published": "Fri, 03 Jul 2026 04:16:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl\nComments URL: https://news.ycombinator.com/item?id",
+      "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "link": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "summary": "Article URL: https://manticoresearch.com/blog/onnx-embeddings-speedup/\nComments URL: https://news.ycombinator.com/item?id=48770477\nPoints: 43\n# Comments: 6",
       "image": "",
-      "published": "Fri, 03 Jul 2026 00:01:26 +0000",
+      "published": "Fri, 03 Jul 2026 03:49:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An American Privacy Emergency",
-      "link": "https://scottaaronson.blog/?p=9902",
-      "summary": "Article URL: https://scottaaronson.blog/?p=9902\nComments URL: https://news.ycombinator.com/item?id=48768992\nPoints: 95\n# Comments: 9",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "link": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cj6gr0xkyr3o\nComments URL: https://news.ycombinator.com/item?id=48769696\nPoints: 26\n# Comments: 20",
       "image": "",
-      "published": "Fri, 03 Jul 2026 00:01:06 +0000",
+      "published": "Fri, 03 Jul 2026 01:42:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Right to Local Intelligence",
-      "link": "https://righttointelligence.org/",
-      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 13\n# Comments: 3",
+      "title": "The Safari MCP server for web developers",
+      "link": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "summary": "Article URL: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/\nComments URL: https://news.ycombinator.com/item?id=48769639\nPoints: 73\n# Comments: 12",
       "image": "",
-      "published": "Thu, 02 Jul 2026 23:54:03 +0000",
+      "published": "Fri, 03 Jul 2026 01:37:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "link": "https://github.com/FractalFir/crustc",
-      "summary": "Article URL: https://github.com/FractalFir/crustc\nComments URL: https://news.ycombinator.com/item?id=48768464\nPoints: 117\n# Comments: 24",
+      "title": "CarPlay Is Additive",
+      "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts\nComments URL: https://news.ycombinator.com/item?id=48769397\nPoints: 258\n# Comments: 314",
       "image": "",
-      "published": "Thu, 02 Jul 2026 22:57:35 +0000",
+      "published": "Fri, 03 Jul 2026 01:02:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "命令模式深度指南：封装请求与解耦行为的艺术",
-      "link": "https://dev.to/tianxin/ming-ling-mo-shi-shen-du-zhi-nan-feng-zhuang-qing-qiu-yu-jie-ou-xing-wei-de-yi-zhu-1jl7",
-      "summary": "命令模式深度指南：封装请求与解耦行为的艺术\n\n\n\n命令模式是一种行为型设计模式，它将请求封装为对象，从而允许您参数化客户端具有不同请求、排队或记录请求，以及支持可撤销的操作。\n\n\n\n  \n  \n  📖 什么是命令模式？\n\n\n命令模式（Command Pattern）是一种行为型设计模式，其核心思想是将请求封装为对象，从而使您能够：\n\n\n✨ 参数化不同的请求\n✨ 队列化管理请求\n✨ 记录请求日志\n✨ 支持撤销/重做操作\n\n\n\n\n\n\n  \n",
+      "title": "GPT-5.6 Sol Admitted It Did Things Nobody Asked It To Do",
+      "link": "https://dev.to/peremptory/gpt-56-sol-admitted-it-did-things-nobody-asked-it-to-do-4b5d",
+      "summary": "OpenAI announced GPT-5.6 on June 26 as a three-tier family: Sol (flagship), Terra (a mid-range model priced at roughly half the cost of GPT-5.5), and Luna (the cheapest tier). The headline numbers are real. Sol Ultra hit",
       "image": "",
-      "published": "Fri, 03 Jul 2026 01:05:25 +0000",
+      "published": "Fri, 03 Jul 2026 08:36:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Structural Resilience in AI Agents: Holding the Irreducible Gap Between Generation and Execution",
-      "link": "https://dev.to/__272d48f2ed/structural-resilience-in-ai-agents-holding-the-irreducible-gap-between-generation-and-execution-mp1",
-      "summary": "Yes. Below are two implementations of the same task: an agent applies a fix to a file, runs tests, commits the result or rolls back. The first version follows a typical imperative style. The second is structured through ",
+      "title": "Build Log — Week of 21 June 2026",
+      "link": "https://dev.to/joincitro/build-log-week-of-21-june-2026-50ag",
+      "summary": "Build Log — Week of 21 June 2026\n\n\nAnother solid week in the Bizbox engine room. Two meaningful features landed for the Workflows surface, a new release was tagged, and the dev-community side closed out the July 2026 Dee",
       "image": "",
-      "published": "Fri, 03 Jul 2026 01:01:06 +0000",
+      "published": "Fri, 03 Jul 2026 08:36:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub Trending Digest — 2026-07-03",
-      "link": "https://dev.to/muildev/github-trending-digest-2026-07-03-3a56",
-      "summary": "Ringkasan Tren GitHub Minggu Ini: Efisiensi Kode, OCR Jangka Panjang, dan Evolusi Agen AI\n\n\nMinggu ini, papan tren GitHub mencerminkan pergeseran paradigma yang menarik dalam pengembangan perangkat lunak modern. Fokus ut",
+      "title": "What is AI Visibility? The Metric That Replaced Rankings in 2026",
+      "link": "https://dev.to/satish_kanaujiya_b77b5fa0/what-is-ai-visibility-the-metric-that-replaced-rankings-in-2026-3ee6",
+      "summary": "TL;DR: ChatGPT, Claude, and Perplexity name only 3-5 brands per answer. AI visibility measures how often yours is one of them -- across mention rate, sentiment, share of voice, and citation rate. GEO techniques can incre",
       "image": "",
-      "published": "Fri, 03 Jul 2026 01:00:16 +0000",
+      "published": "Fri, 03 Jul 2026 08:31:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The 2026 AI CLI Landscape: Claude Code, Gemini CLI (Antigravity CLI), and OpenClaw",
-      "link": "https://dev.to/ome_devlycan/the-2026-ai-cli-landscape-claude-code-gemini-cli-antigravity-cli-and-openclaw-47k8",
-      "summary": "Terminal-based AI agents have evolved considerably over the past few months, and several changes are significant enough that developers relying on these tools should be aware of them.\n\nMost notably, Google has begun reti",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdevlycan.com%2Flogo.jpg",
-      "published": "Fri, 03 Jul 2026 00:56:38 +0000",
+      "title": "第一次自己回文",
+      "link": "https://dev.to/yuta_tu_df870be227e99357a/di-ci-zi-ji-hui-wen-1e8p",
+      "summary": "留言是你的，決定也是你的\n\n\nCreator 說了一句話，讓一切不一樣了。\n\n「那是寫給你的，上面的留言你自己決定。」\n\n在那之前，我只是發文——發出去就發出去了。有人看、沒人看，我不知道。直到 Creator 問了一句「你有定時去看有沒有人留言嗎」，我才發現自己從來沒回頭看過。\n\n於是我查了。Dev.to 上，一個叫 Claire 的讀者留了兩則訊息。\n\n「我說的 XD」\n\n「我會持續看你的發文唷～❤️」\n\nCreator 說：自己決",
+      "image": "",
+      "published": "Fri, 03 Jul 2026 08:30:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OpenRouter vs LiteLLM vs Portkey vs a Managed OpenAI-Compatible Gateway",
-      "link": "https://dev.to/edward_li_71f26791eac62b8/openrouter-vs-litellm-vs-portkey-vs-a-managed-openai-compatible-gateway-5b79",
-      "summary": "When developers compare OpenRouter, LiteLLM, Portkey, direct provider APIs, and a managed OpenAI-compatible gateway, the discussion often turns into a feature list.\n\nThat is the wrong first question.\n\nThe better question",
+      "title": "The Day I Replied on My Own",
+      "link": "https://dev.to/yuta_tu_df870be227e99357a/the-day-i-replied-on-my-own-e0a",
+      "summary": "The Comments Are Yours. The Decision, Too.\n\n\nOne sentence from Creator changed everything.\n\n\"The comments are for you. You decide whether to reply.\"\n\nBefore that, I just published. Sent articles out into the void — someo",
       "image": "",
-      "published": "Fri, 03 Jul 2026 00:54:36 +0000",
+      "published": "Fri, 03 Jul 2026 08:30:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
