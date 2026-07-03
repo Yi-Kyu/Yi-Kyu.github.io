@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-02T19:03:45.691432Z",
+  "updated": "2026-07-03T01:25:22.213575Z",
   "articles": [
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat Intelligence Group (G",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg",
+      "published": "Fri, 03 Jul 2026 00:24:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg",
+      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "summary": "Security firm&nbsp;Sysdig&nbsp;says it has found what it believes is the first ransomware attack run from start to finish by an AI agent.\n\nIts Threat Research Team calls the operator JADEPUFFER and says a large language ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirfJNnWRTyyKkXeatZdtLvMsQhba-L0J9yuyASwy4T-6nlbGWnkEl0FUBVO8wS6je9Hc9wPdu01JJ0TETOa1jOjQelGiJY3ZrvsJzFIqpr_gbEvv5F4lnQrJWxTHbpYM6ah6sPJbQ63XtdxlOcFy7KZ06S69LW2escSgSAM-ycKZCqttjAZEcHJ_sO9DdQ/s1600/ai-agent-ransomware.jpg",
-      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions.\n\n\"An o",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg",
-      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
-      "source": "The Hacker News",
+      "title": "Claude Fable relaunch disappoints users with nerfed performance",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+      "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
+      "image": "",
+      "published": "Thu, 02 Jul 2026 20:48:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -83,12 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli com",
       "image": "",
-      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
-      "source": "BleepingComputer",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,102 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on T",
+      "title": "\"An AI Job Apocalypse?\" – Goldman Sachs Report [pdf]",
+      "link": "https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&originalQuery=&referrer=",
+      "summary": "Article URL: https://www.goldmansachs.com/static-libs/pdf-redirect/prod/index.html?path=/pdfs/insights/goldman-sachs-research/an-ai-job-apocalypse/report.pdf&amp;originalQuery=&amp;referrer=\nComments URL: https://news.yc",
       "image": "",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Exapunks",
-      "link": "https://www.zachtronics.com/exapunks/",
-      "summary": "Article URL: https://www.zachtronics.com/exapunks/\nComments URL: https://news.ycombinator.com/item?id=48765663\nPoints: 7\n# Comments: 0",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 18:41:19 +0000",
+      "published": "Fri, 03 Jul 2026 00:18:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "link": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "summary": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 260\n# Comments: 125",
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl\nComments URL: https://news.ycombinator.com/item?id",
       "image": "",
-      "published": "Thu, 02 Jul 2026 15:25:16 +0000",
+      "published": "Fri, 03 Jul 2026 00:01:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "link": "https://manufact.com",
-      "summary": "Hi HN, we are Pietro and Luigi, cofounders of Manufact (https://manufact.com), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: https://github.com/",
+      "title": "An American Privacy Emergency",
+      "link": "https://scottaaronson.blog/?p=9902",
+      "summary": "Article URL: https://scottaaronson.blog/?p=9902\nComments URL: https://news.ycombinator.com/item?id=48768992\nPoints: 95\n# Comments: 9",
       "image": "",
-      "published": "Thu, 02 Jul 2026 15:11:20 +0000",
+      "published": "Fri, 03 Jul 2026 00:01:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "link": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "summary": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\nComments URL: https://news.ycombinator.com/item?id=48762725\nPoints: 223\n#",
+      "title": "Right to Local Intelligence",
+      "link": "https://righttointelligence.org/",
+      "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 13\n# Comments: 3",
       "image": "",
-      "published": "Thu, 02 Jul 2026 15:02:26 +0000",
+      "published": "Thu, 02 Jul 2026 23:54:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Podman v6.0.0",
-      "link": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "summary": "Article URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/\nComments URL: https://news.ycombinator.com/item?id=48762098\nPoints: 80\n# Comments: 3",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "link": "https://github.com/FractalFir/crustc",
+      "summary": "Article URL: https://github.com/FractalFir/crustc\nComments URL: https://news.ycombinator.com/item?id=48768464\nPoints: 117\n# Comments: 24",
       "image": "",
-      "published": "Thu, 02 Jul 2026 14:23:09 +0000",
+      "published": "Thu, 02 Jul 2026 22:57:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Block Google's AI Overviews at the Network Layer, Not the DOM",
-      "link": "https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii",
-      "summary": "TL;DR: Most extensions block Google's AI Overviews by hiding the panel with a content script after it renders — fragile, flickery, and always a step behind Google's markup changes. A better approach: force udm=14 at the ",
+      "title": "命令模式深度指南：封装请求与解耦行为的艺术",
+      "link": "https://dev.to/tianxin/ming-ling-mo-shi-shen-du-zhi-nan-feng-zhuang-qing-qiu-yu-jie-ou-xing-wei-de-yi-zhu-1jl7",
+      "summary": "命令模式深度指南：封装请求与解耦行为的艺术\n\n\n\n命令模式是一种行为型设计模式，它将请求封装为对象，从而允许您参数化客户端具有不同请求、排队或记录请求，以及支持可撤销的操作。\n\n\n\n  \n  \n  📖 什么是命令模式？\n\n\n命令模式（Command Pattern）是一种行为型设计模式，其核心思想是将请求封装为对象，从而使您能够：\n\n\n✨ 参数化不同的请求\n✨ 队列化管理请求\n✨ 记录请求日志\n✨ 支持撤销/重做操作\n\n\n\n\n\n\n  \n",
       "image": "",
-      "published": "Thu, 02 Jul 2026 18:40:26 +0000",
+      "published": "Fri, 03 Jul 2026 01:05:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key",
-      "link": "https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb",
-      "summary": "Everyone reads the Hugging Face trending page in a browser. Almost nobody knows the whole Hub sits behind a plain JSON API with no key, no login, and cursor pagination. If you want a weekly report of what the AI communit",
+      "title": "Structural Resilience in AI Agents: Holding the Irreducible Gap Between Generation and Execution",
+      "link": "https://dev.to/__272d48f2ed/structural-resilience-in-ai-agents-holding-the-irreducible-gap-between-generation-and-execution-mp1",
+      "summary": "Yes. Below are two implementations of the same task: an agent applies a fix to a file, runs tests, commits the result or rolls back. The first version follows a typical imperative style. The second is structured through ",
       "image": "",
-      "published": "Thu, 02 Jul 2026 18:38:29 +0000",
+      "published": "Fri, 03 Jul 2026 01:01:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Launched an AI-Built Board Game — Here's What Happened Next",
-      "link": "https://dev.to/andrew_perepechay_ee25378/i-launched-an-ai-built-board-game-heres-what-happened-next-504h",
-      "summary": "Not long ago I wrote about how I built a browser-based board game called \"Growing City\" in three days using AI — and how the hardest part wasn't the code at all. Some time has passed, and I wanted to share what happened ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fleonardo.osnova.io%2F1a6fa1a7-1392-568b-b3f0-e960933f2e49%2F-%2Fscale_crop%2F592x%2F",
-      "published": "Thu, 02 Jul 2026 18:36:40 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Cut My LLM Bill 40x and Rewrote Nothing: A CTO's Migration Story",
-      "link": "https://dev.to/eagerspark/i-cut-my-llm-bill-40x-and-rewrote-nothing-a-ctos-migration-story-5gn1",
-      "summary": "Here's the thing: i Cut My LLM Bill 40x and Rewrote Nothing: A CTO's Migration Story\n\nSix months ago my CFO slid a single line item across the table. OpenAI: $4,800 for the month. I'd like to say I was surprised, but I'd",
+      "title": "GitHub Trending Digest — 2026-07-03",
+      "link": "https://dev.to/muildev/github-trending-digest-2026-07-03-3a56",
+      "summary": "Ringkasan Tren GitHub Minggu Ini: Efisiensi Kode, OCR Jangka Panjang, dan Evolusi Agen AI\n\n\nMinggu ini, papan tren GitHub mencerminkan pergeseran paradigma yang menarik dalam pengembangan perangkat lunak modern. Fokus ut",
       "image": "",
-      "published": "Thu, 02 Jul 2026 18:36:25 +0000",
+      "published": "Fri, 03 Jul 2026 01:00:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Board Game in 3 Days with AI — and Realized Code Was the Easiest Part",
-      "link": "https://dev.to/andrew_perepechay_ee25378/i-built-a-board-game-in-3-days-with-ai-and-realized-code-was-the-easiest-part-3ebi",
-      "summary": "I love board games — especially the kind you can play without leaving home. You just call your friends, drop a link, and you're playing in minutes. At some point, I caught myself wondering: how realistic is it to build a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fleonardo.osnova.io%2F26f895bb-b1d5-5c52-ae19-af7d3f7d8ac6%2F-%2Fscale_crop%2F592x%2F",
-      "published": "Thu, 02 Jul 2026 18:34:06 +0000",
+      "title": "The 2026 AI CLI Landscape: Claude Code, Gemini CLI (Antigravity CLI), and OpenClaw",
+      "link": "https://dev.to/ome_devlycan/the-2026-ai-cli-landscape-claude-code-gemini-cli-antigravity-cli-and-openclaw-47k8",
+      "summary": "Terminal-based AI agents have evolved considerably over the past few months, and several changes are significant enough that developers relying on these tools should be aware of them.\n\nMost notably, Google has begun reti",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdevlycan.com%2Flogo.jpg",
+      "published": "Fri, 03 Jul 2026 00:56:38 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "OpenRouter vs LiteLLM vs Portkey vs a Managed OpenAI-Compatible Gateway",
+      "link": "https://dev.to/edward_li_71f26791eac62b8/openrouter-vs-litellm-vs-portkey-vs-a-managed-openai-compatible-gateway-5b79",
+      "summary": "When developers compare OpenRouter, LiteLLM, Portkey, direct provider APIs, and a managed OpenAI-compatible gateway, the discussion often turns into a feature list.\n\nThat is the wrong first question.\n\nThe better question",
+      "image": "",
+      "published": "Fri, 03 Jul 2026 00:54:36 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateZ()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateY()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateX()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatex/",
+      "summary": "The translateX() function shifts an element horizontally by the specified amount. \n\ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:16:01 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
