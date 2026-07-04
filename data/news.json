@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-04T12:52:20.758730Z",
+  "updated": "2026-07-04T18:47:53.577191Z",
   "articles": [
+    {
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg",
+      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
       "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"r",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg",
-      "published": "Fri, 03 Jul 2026 21:37:15 +0530",
-      "source": "The Hacker News",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+      "image": "",
+      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
       "image": "",
       "published": "Thu, 02 Jul 2026 20:48:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-      "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 11:18:51 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
-      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/\nComments URL: https://news.ycombinator.com/item?id=48783948\nPoints: 54\n# Comments: 17",
+      "title": "Verizon is About to Break our Watches",
+      "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "summary": "Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches\nComments URL: https://news.ycombinator.com/item?id=48787329\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Sat, 04 Jul 2026 09:08:09 +0000",
+      "published": "Sat, 04 Jul 2026 17:52:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The bottleneck might be the air in the room",
-      "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "summary": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 422\n# Comments: 250",
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "link": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "summary": "Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper\nComments URL: https://news.ycombinator.com/item?id=48787201\nPoints: 14\n# Comments: 1",
       "image": "",
-      "published": "Sat, 04 Jul 2026 06:32:28 +0000",
+      "published": "Sat, 04 Jul 2026 17:37:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Agentic coding notes from Galapagos Island",
-      "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "summary": "Article URL: https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post\nComments URL: https://news.ycombinator.com/item?id=48782671\nPoints: 119\n# Comments: 59",
+      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "link": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+      "summary": "Article URL: https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488\nComments URL: https://news.ycombinator.com/item?id=48787058\nPoints: 12\n# Comments: 5",
       "image": "",
-      "published": "Sat, 04 Jul 2026 04:37:15 +0000",
+      "published": "Sat, 04 Jul 2026 17:18:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Maybe you should learn something",
-      "link": "https://www.marginalia.nu/log/a_135_learn/",
-      "summary": "Article URL: https://www.marginalia.nu/log/a_135_learn/\nComments URL: https://news.ycombinator.com/item?id=48782435\nPoints: 161\n# Comments: 68",
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "link": "https://www.eso.org/public/news/eso2607/",
+      "summary": "Article URL: https://www.eso.org/public/news/eso2607/\nComments URL: https://news.ycombinator.com/item?id=48787042\nPoints: 37\n# Comments: 19",
       "image": "",
-      "published": "Sat, 04 Jul 2026 03:36:03 +0000",
+      "published": "Sat, 04 Jul 2026 17:17:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Synthesis is harder than analysis",
-      "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-      "summary": "Article URL: https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/\nComments URL: https://news.ycombinator.com/item?id=48782219\nPoints: 103\n# Comments: 23",
+      "title": "Plein Air",
+      "link": "https://art.joonas.wtf/",
+      "summary": "Article URL: https://art.joonas.wtf/\nComments URL: https://news.ycombinator.com/item?id=48786880\nPoints: 16\n# Comments: 2",
       "image": "",
-      "published": "Sat, 04 Jul 2026 02:45:24 +0000",
+      "published": "Sat, 04 Jul 2026 16:55:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Is MCP (Model Context Protocol) and Why Everyone Is Talking About It",
-      "link": "https://dev.to/lephuongtrung/what-is-mcp-model-context-protocol-and-why-everyone-is-talking-about-it-m70",
-      "summary": "Introduction\n\n\nArtificial Intelligence has advanced rapidly over the past few years, but Large Language Models (LLMs) still have one significant limitation—they cannot naturally interact with your applications, databases",
+      "title": "LOOM: a language that proves what AI-written code is allowed to do",
+      "link": "https://dev.to/umbraaeternaa/loom-a-language-that-proves-what-ai-written-code-is-allowed-to-do-3f0i",
+      "summary": "▶ Try it live (in your browser): https://umbraaeternaa.github.io/loom/play.html\n\nBuilt solo, in the open, from Ukraine 🇺🇦.\n\nThe problem nobody can scale their way out of\nAI now writes a large and growing share of the cod",
       "image": "",
-      "published": "Sat, 04 Jul 2026 12:46:26 +0000",
+      "published": "Sat, 04 Jul 2026 18:35:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "wa.me/username doesn't work yet — I verified it two ways",
-      "link": "https://dev.to/inside_dc_pulse/wameusername-doesnt-work-yet-i-verified-it-two-ways-20fn",
-      "summary": "wa.me/username doesn't work yet — I verified it two ways, here's what to use instead\n\n\nIf you've tried to build a \"share my WhatsApp\" link using a @username instead of a phone number, you've probably assumed wa.me/userna",
+      "title": "Your Guardrails Are a Firewall. Your Failures Are a Cascade",
+      "link": "https://dev.to/aiexplore369zoho/your-guardrails-are-a-firewall-your-failures-are-a-cascade-3j0a",
+      "summary": "TL;DR— Most production AI teams build safety layers using the content-moderation mental model: classify input, classify output, block or pass. But the incidents that actually take down AI systems in production look like ",
       "image": "",
-      "published": "Sat, 04 Jul 2026 12:36:04 +0000",
+      "published": "Sat, 04 Jul 2026 18:33:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Governance",
-      "link": "https://dev.to/claireg/governance-3414",
-      "summary": "Governance is not a set of rules layered on top of AI. It is the structural logic that determines how meaning, constraint, and legitimacy are maintained as the system accelerates. If Pillar 1 establishes the need for a s",
+      "title": "I built a neutral benchmarking layer for quantum simulators in Rust — and it revealed a silent disagreement between two backends",
+      "link": "https://dev.to/cleiton_augusto_/i-built-a-neutral-benchmarking-layer-for-quantum-simulators-in-rust-and-it-revealed-a-silent-2i59",
+      "summary": "placeholder",
       "image": "",
-      "published": "Sat, 04 Jul 2026 12:34:38 +0000",
+      "published": "Sat, 04 Jul 2026 18:26:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Data structures your CS degree kind of glossed over",
-      "link": "https://dev.to/lovestaco/data-structures-your-cs-degree-kind-of-glossed-over-29dh",
-      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it a try and share your f",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fysjga763vm4jic3o6b6c.png",
-      "published": "Sat, 04 Jul 2026 12:34:37 +0000",
+      "title": "Moving Beyond Chat: Why AI Agents and MCP Are the Next Big Shift for Developers",
+      "link": "https://dev.to/idan_dev/moving-beyond-chat-why-ai-agents-and-mcp-are-the-next-big-shift-for-developers-p7i",
+      "summary": "For the past two years, most of us integrated AI into our workflow using a \"ping-pong\" model: we write a prompt, get some code, copy-paste it, hit a bug, and paste the error back. \n\nBut in 2026, the tech stack is shiftin",
+      "image": "",
+      "published": "Sat, 04 Jul 2026 18:24:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "👾 🧚🏼‍♀️Maximizing Fable for Life Admin",
-      "link": "https://dev.to/annavi11arrea1/maximizing-fable-for-life-admin-c62",
-      "summary": "TLDR: The most powerful AI on the planet, only a few days of access. Maximize it.\n\n\n\n\n\nI'd first like to give credit where it's due: @trickell - Thank you for sharing Network Chuck's youtube video with me. The reference ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9rn97tebs0lfvnda6lp2.png",
-      "published": "Sat, 04 Jul 2026 12:31:09 +0000",
+      "title": "How I Built an AI-Powered Windows App to Automate Image SEO",
+      "link": "https://dev.to/make-with-rs/how-i-built-an-ai-powered-windows-app-to-automate-image-seo-109h",
+      "summary": "If you've ever managed a large collection of images, you've probably experienced this.\n\nEditing the images is only half the job.\n\nAfter exporting them, you still need to add:\n\nTitles\nDescriptions\nAlt text\nKeywords\nIPTC/X",
+      "image": "",
+      "published": "Sat, 04 Jul 2026 18:23:25 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateZ()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateY()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateX()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-      "summary": "The translateX() function shifts an element horizontally by the specified amount. \n\ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:16:01 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
