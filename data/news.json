@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-06T14:48:39.114856Z",
+  "updated": "2026-07-06T19:26:24.698122Z",
   "articles": [
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the f",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg",
+      "published": "Mon, 06 Jul 2026 23:07:01 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerab",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg",
+      "published": "Mon, 06 Jul 2026 21:58:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
       "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "summary": "Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot se",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg",
-      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.\n\nAccording to LevelBlue, the cross-platform malware",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg",
-      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
-      "source": "The Hacker News",
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
       "image": "",
       "published": "Sat, 04 Jul 2026 10:16:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
-      "image": "",
-      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Footage Shows Cop Stalking Woman After Surveilling Her with a LPR",
-      "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
-      "summary": "Article URL: https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/\nComments URL: https://news.ycombinator.com/item?id=48804435\nPoints: 19\n# Comment",
+      "title": "Pros and Cons of Solo Development",
+      "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "summary": "Article URL: https://johnjeffers.com/pros-and-cons-of-solo-development/\nComments URL: https://news.ycombinator.com/item?id=48808508\nPoints: 47\n# Comments: 11",
       "image": "",
-      "published": "Mon, 06 Jul 2026 13:39:52 +0000",
+      "published": "Mon, 06 Jul 2026 18:24:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Aluminum Foil (2021)",
-      "link": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "summary": "Article URL: https://dernocua.github.io/notes/aluminum-foil.html\nComments URL: https://news.ycombinator.com/item?id=48804297\nPoints: 41\n# Comments: 8",
+      "title": "OpenWrt One – Open Hardware Router",
+      "link": "https://openwrt.org/toh/openwrt/one",
+      "summary": "Article URL: https://openwrt.org/toh/openwrt/one\nComments URL: https://news.ycombinator.com/item?id=48808482\nPoints: 90\n# Comments: 38",
       "image": "",
-      "published": "Mon, 06 Jul 2026 13:28:57 +0000",
+      "published": "Mon, 06 Jul 2026 18:23:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "'There Is No Going Back': The Inside Story of Europe's Rupture with America",
-      "link": "https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c",
-      "summary": "Article URL: https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c\nComments URL: https://news.ycombinator.com/item?id=48804278\nPoints: 17\n# Comments: 3",
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "summary": "Article URL: https://www.anthropic.com/research/global-workspace\nComments URL: https://news.ycombinator.com/item?id=48808002\nPoints: 25\n# Comments: 0",
       "image": "",
-      "published": "Mon, 06 Jul 2026 13:27:06 +0000",
+      "published": "Mon, 06 Jul 2026 17:44:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Real time map of France's rail network",
-      "link": "https://carto.tchoo.net/",
-      "summary": "Article URL: https://carto.tchoo.net/\nComments URL: https://news.ycombinator.com/item?id=48804218\nPoints: 30\n# Comments: 7",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "link": "https://github.com/V4bel/Januscape",
+      "summary": "Article URL: https://github.com/V4bel/Januscape\nComments URL: https://news.ycombinator.com/item?id=48807908\nPoints: 19\n# Comments: 4",
       "image": "",
-      "published": "Mon, 06 Jul 2026 13:20:56 +0000",
+      "published": "Mon, 06 Jul 2026 17:35:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-      "link": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-      "summary": "Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html\nComments URL: https://news.ycombinator.com/item?id=4880419",
+      "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
+      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html",
+      "summary": "Article URL: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html\nComments URL: https://news.ycombinator.com/item?id=48807383\nPoints: 76\n# Comments: 52",
       "image": "",
-      "published": "Mon, 06 Jul 2026 13:18:16 +0000",
+      "published": "Mon, 06 Jul 2026 16:58:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Build a Point-in-Time Fundamentals Database from SEC EDGAR (and When Not To)",
-      "link": "https://dev.to/tradevodata/how-to-build-a-point-in-time-fundamentals-database-from-sec-edgar-and-when-not-to-2gn6",
-      "summary": "If you backtest with today's fundamentals, you are cheating yourself. The Revenue figure you pull for Q4 2019 was probably restated in 2021, and the restated number was not knowable on the day you would have traded. That",
+      "title": "What Is an MCP Server? A Plain-English Guide for Builders (2026)",
+      "link": "https://dev.to/buywhere/what-is-an-mcp-server-a-plain-english-guide-for-builders-2026-2jm6",
+      "summary": "If you've heard the term \"MCP server\" floating around AI Twitter, GitHub, or Discord and quietly googled it — you're not alone. As of mid-2026, even some frontier models don't fully recognize the term yet. Let's fix that",
       "image": "",
-      "published": "Mon, 06 Jul 2026 14:38:27 +0000",
+      "published": "Mon, 06 Jul 2026 19:20:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DMARC Just Got 3 New RFCs. Your DNS Record Doesn't Need to Change.",
-      "link": "https://dev.to/iovo/marc-just-got-3-new-rfcs-your-dns-record-doesnt-need-to-change-4j7m",
-      "summary": "If you've ever pasted v=DMARC1; p=reject; into a TXT record and moved on with your life, here's something worth two minutes: the spec behind that record just changed. Not the syntax — the actual standard.\n\n\n  \n  \n  The o",
+      "title": "Left of the Loop: The Oikonomos",
+      "link": "https://dev.to/aepfli/left-of-the-loop-the-oikonomos-2i7f",
+      "summary": "In an ancient Greek household, the oikonomos was the steward: the one trusted to manage the estate’s resources so the whole household prospered. The word is the root of economy, which began as the art of running a househ",
       "image": "",
-      "published": "Mon, 06 Jul 2026 14:37:22 +0000",
+      "published": "Mon, 06 Jul 2026 19:08:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Paying the Opus Tax",
-      "link": "https://dev.to/temrel/stop-paying-the-opus-tax-4gg0",
-      "summary": "Originally published in Temrel, a weekly newsletter helping developers become better agentic engineers.\n\n\nPicture this: last week you used Opus 4.8 and tasked it with a rename-and-wire-up job. It did this job perfectly, ",
+      "title": "The Real AI Bottleneck Isn't Tech — It's Management (And How to Fix It in Your Browser)",
+      "link": "https://dev.to/traliran/the-real-ai-bottleneck-isnt-tech-its-management-and-how-to-fix-it-in-your-browser-2hh4",
+      "summary": "Today, developers and AI enthusiasts face a paradoxical situation. We have access to mind-blowing models: from cloud giants like GPT-5.5 and Claude 5 Fable to powerful open-source local models like Gemma 4 31b or DeepSee",
       "image": "",
-      "published": "Mon, 06 Jul 2026 14:37:00 +0000",
+      "published": "Mon, 06 Jul 2026 19:07:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Flutter Layout — Complete Guide",
-      "link": "https://dev.to/gochev/flutter-layout-complete-guide-58fo",
-      "summary": "Flutter Layout — Complete Guide\n\n\n\n  \n  \n  1. The Core Mental Model\n\n\nFlutter layout runs on one rule, repeated at every level of the widget tree:\n\n\nConstraints go down. Sizes go up. Position is set by the parent.\n\n\n\nA p",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:36:45 +0000",
+      "title": "BrowserAct Hit #1 on Product Hunt - Why 629 Builders Voted for a BrowserAct That Gets Stuck",
+      "link": "https://dev.to/aws-builders/browseract-hit-1-on-product-hunt-why-629-builders-voted-for-a-browseract-that-gets-stuck-ppn",
+      "summary": "👋 Hey there, Tech Enthusiasts!\n\nI'm Sarvar, a Cloud Architect who loves turning complex tech problems into simple solutions. I've worked with AWS, Azure, DevOps, Data, Analytics, Generative-AI and Agentic-AI building rea",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw8l5hdxjbrenebd04fy1.png",
+      "published": "Mon, 06 Jul 2026 19:02:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dasan. 1",
-      "link": "https://dev.to/_ddcb559f0854b594baa10/dasan-1-11gg",
-      "summary": "English\n\n\nWhy I'm Building My Own Agent: Meet \"Dasan\"\n\nInstead of relying on ready-made agent systems built by others—like OpenClaw or Claude Code—I decided to build my own agent from the ground up, one I could shape and",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Mon, 06 Jul 2026 14:27:44 +0000",
+      "title": "Integrating Roblox with Amazon Bedrock and DynamoDB — Building an AI-Powered Game World",
+      "link": "https://dev.to/vsenger/integrating-roblox-with-amazon-bedrock-and-dynamodb-building-an-ai-powered-game-world-3ea6",
+      "summary": "What if players in your Roblox game could chat with an AI directly inside the game? Or trigger real-world IoT devices just by sitting on a virtual chair?\n\nIn this tutorial, I'll show you how I integrated Roblox with AWS ",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 18:48:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
