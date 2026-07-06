@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-06T09:47:25.992366Z",
+  "updated": "2026-07-06T14:48:39.114856Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.\n\nHome dev",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg",
+      "published": "Mon, 06 Jul 2026 18:31:14 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted o",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
+      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from comprom",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg",
+      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
       "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "summary": "Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits.\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ_WItJUaS3rk5pAYa5yOsKuUt0Yovlv1T-jIz2GBBhcmMjToCgnWuEApyWfgDwngwAPcEGke0zwo_2DKKHaN9vzzHMAnd7Z3esepEvjSM022BzOdjo0sJW2bSMlslKXVv5Fg701ozva1HDgZPJV4Qya8Xevye-eT4dB0UmIJK9CKq-_wLnEGgNYigRLzh/s1600/opera-data-leak.jpg",
-      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
-      "source": "The Hacker News",
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have tradit",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a&nbsp;new study&nbsp;from researchers at the Hong Kong University",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4ZKsU9PwSPcL_Vs2ZqYIh0ahMuSFSNcCv_Y5MiM7MRsUgeZCDa5XTSWVYQXjLg-ByFbm4cHoo-8SSeWrB7KSdYrl4A1Ioif-v8NLNA43asXEHtYjn6uad21Savnzi_1iJ0YQ44iuXECEIBbyc3l7lJ9l2pdofVvP7dM3n9Ji5OeUeuPDHX5sqBJreUUB/s1600/ai-skills.jpg",
-      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new&nbsp;case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg",
-      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
-      "source": "The Hacker News",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 09:18:37 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
       "image": "",
       "published": "Fri, 03 Jul 2026 13:50:04 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsof",
-      "image": "",
-      "published": "Fri, 03 Jul 2026 10:12:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 21:37:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "When AI Costs More Than the Engineer",
-      "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/\nComments URL: https://news.ycombinator.com/item?id=48801493\nPoints: 78\n# Comments: 67",
+      "title": "Footage Shows Cop Stalking Woman After Surveilling Her with a LPR",
+      "link": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
+      "summary": "Article URL: https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/\nComments URL: https://news.ycombinator.com/item?id=48804435\nPoints: 19\n# Comment",
       "image": "",
-      "published": "Mon, 06 Jul 2026 07:05:25 +0000",
+      "published": "Mon, 06 Jul 2026 13:39:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Generate parametric, manufacturable 3D models in seconds",
-      "link": "https://kyrall.com/",
-      "summary": "Article URL: https://kyrall.com/\nComments URL: https://news.ycombinator.com/item?id=48801488\nPoints: 24\n# Comments: 13",
+      "title": "Aluminum Foil (2021)",
+      "link": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "summary": "Article URL: https://dernocua.github.io/notes/aluminum-foil.html\nComments URL: https://news.ycombinator.com/item?id=48804297\nPoints: 41\n# Comments: 8",
       "image": "",
-      "published": "Mon, 06 Jul 2026 07:04:33 +0000",
+      "published": "Mon, 06 Jul 2026 13:28:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-      "summary": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\nComments URL: https://news.ycombinator.com/item?id=48799929\nPoints: 119\n# Comments: 78",
+      "title": "'There Is No Going Back': The Inside Story of Europe's Rupture with America",
+      "link": "https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c",
+      "summary": "Article URL: https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c\nComments URL: https://news.ycombinator.com/item?id=48804278\nPoints: 17\n# Comments: 3",
       "image": "",
-      "published": "Mon, 06 Jul 2026 02:06:49 +0000",
+      "published": "Mon, 06 Jul 2026 13:27:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Sneakerweb",
-      "link": "https://sneakerweb.org/",
-      "summary": "Article URL: https://sneakerweb.org/\nComments URL: https://news.ycombinator.com/item?id=48799781\nPoints: 58\n# Comments: 15",
+      "title": "Real time map of France's rail network",
+      "link": "https://carto.tchoo.net/",
+      "summary": "Article URL: https://carto.tchoo.net/\nComments URL: https://news.ycombinator.com/item?id=48804218\nPoints: 30\n# Comments: 7",
       "image": "",
-      "published": "Mon, 06 Jul 2026 01:35:09 +0000",
+      "published": "Mon, 06 Jul 2026 13:20:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "summary": "https://x.com/haider1/status/2073695124220006575, https://xcancel.com/haider1/status/2073695124220006575\n\nComments URL: https://news.ycombinator.com/item?id=48799614\nPoints: 283\n# Comments: 211",
+      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
+      "link": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+      "summary": "Article URL: https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html\nComments URL: https://news.ycombinator.com/item?id=4880419",
       "image": "",
-      "published": "Mon, 06 Jul 2026 01:04:03 +0000",
+      "published": "Mon, 06 Jul 2026 13:18:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "You Can't Review an Agent. You Can Review a Plan.",
-      "link": "https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp",
-      "summary": "A harness for AI-era Terraform.\n\nI'm building one. For a while now I've been developing a harness for infrastructure-as-code as a private SDK and compiler — the layer that sits between whoever proposes a change (a person",
+      "title": "How to Build a Point-in-Time Fundamentals Database from SEC EDGAR (and When Not To)",
+      "link": "https://dev.to/tradevodata/how-to-build-a-point-in-time-fundamentals-database-from-sec-edgar-and-when-not-to-2gn6",
+      "summary": "If you backtest with today's fundamentals, you are cheating yourself. The Revenue figure you pull for Q4 2019 was probably restated in 2021, and the restated number was not knowable on the day you would have traded. That",
       "image": "",
-      "published": "Mon, 06 Jul 2026 09:45:05 +0000",
+      "published": "Mon, 06 Jul 2026 14:38:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Cut Our AI API Bill by 95% — The Engineering Playbook",
-      "link": "https://dev.to/gentleforge/how-i-cut-our-ai-api-bill-by-95-the-engineering-playbook-45mc",
-      "summary": "How I Cut Our AI API Bill by 95% — The Engineering Playbook\n\nWhen our finance lead forwarded me the AWS bill for March, I almost choked on my coffee. We were a team of nine engineers shipping AI features, and somehow we'",
+      "title": "DMARC Just Got 3 New RFCs. Your DNS Record Doesn't Need to Change.",
+      "link": "https://dev.to/iovo/marc-just-got-3-new-rfcs-your-dns-record-doesnt-need-to-change-4j7m",
+      "summary": "If you've ever pasted v=DMARC1; p=reject; into a TXT record and moved on with your life, here's something worth two minutes: the spec behind that record just changed. Not the syntax — the actual standard.\n\n\n  \n  \n  The o",
       "image": "",
-      "published": "Mon, 06 Jul 2026 09:40:34 +0000",
+      "published": "Mon, 06 Jul 2026 14:37:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why the Hell Are There So Many Layers? Breaking Down the 4 Steps of C Compilation",
-      "link": "https://dev.to/joyeta_jahan_117a078efda5/why-the-hell-are-there-so-many-layers-breaking-down-the-4-steps-of-c-compilation-3235",
-      "summary": "Notes:\n\n\n\nPrototype : a line that promises to a compiler that a certain function exists somewhere in the server or harddisk or files so it doesn't throw an error. In C, it is done with copying the declaration line of a f",
+      "title": "Stop Paying the Opus Tax",
+      "link": "https://dev.to/temrel/stop-paying-the-opus-tax-4gg0",
+      "summary": "Originally published in Temrel, a weekly newsletter helping developers become better agentic engineers.\n\n\nPicture this: last week you used Opus 4.8 and tasked it with a rename-and-wire-up job. It did this job perfectly, ",
       "image": "",
-      "published": "Mon, 06 Jul 2026 09:38:02 +0000",
+      "published": "Mon, 06 Jul 2026 14:37:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fundamental Concepts of Business Applications III: Locator Definitions",
-      "link": "https://dev.to/tbebekis/fundamental-concepts-of-business-applications-iii-locator-definitions-k18",
-      "summary": "In the previous article, we argued that a Locator is neither a UI control nor a search mechanism. It is an architectural concept that resolves business references within a specific business context and transforms them in",
+      "title": "Flutter Layout — Complete Guide",
+      "link": "https://dev.to/gochev/flutter-layout-complete-guide-58fo",
+      "summary": "Flutter Layout — Complete Guide\n\n\n\n  \n  \n  1. The Core Mental Model\n\n\nFlutter layout runs on one rule, repeated at every level of the widget tree:\n\n\nConstraints go down. Sizes go up. Position is set by the parent.\n\n\n\nA p",
       "image": "",
-      "published": "Mon, 06 Jul 2026 09:37:25 +0000",
+      "published": "Mon, 06 Jul 2026 14:36:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Developers Don't Read READMEs",
-      "link": "https://dev.to/syms_mation/why-developers-dont-read-readmes-5ef",
-      "summary": "Developers are the world's most efficient skimmers.\n\nWhen someone lands on your repo, they're running a rapid mental triage:\n\n\nWhat does this do? (5 seconds)\nCan I run it? (10 seconds)\nShould I trust it? (5 seconds)\nIf t",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 09:35:00 +0000",
+      "title": "Dasan. 1",
+      "link": "https://dev.to/_ddcb559f0854b594baa10/dasan-1-11gg",
+      "summary": "English\n\n\nWhy I'm Building My Own Agent: Meet \"Dasan\"\n\nInstead of relying on ready-made agent systems built by others—like OpenClaw or Claude Code—I decided to build my own agent from the ground up, one I could shape and",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Mon, 06 Jul 2026 14:27:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
