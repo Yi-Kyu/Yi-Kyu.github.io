@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-06T19:26:24.698122Z",
+  "updated": "2026-07-07T01:43:27.275980Z",
   "articles": [
+    {
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Isr",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg",
+      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
       "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from comprom",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg",
-      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
-      "source": "The Hacker News",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
       "image": "",
       "published": "Mon, 06 Jul 2026 09:18:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Flipper Zero firmware development continues with community help",
-      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "summary": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
-      "image": "",
-      "published": "Sun, 05 Jul 2026 10:14:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
-      "image": "",
-      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Pros and Cons of Solo Development",
-      "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-      "summary": "Article URL: https://johnjeffers.com/pros-and-cons-of-solo-development/\nComments URL: https://news.ycombinator.com/item?id=48808508\nPoints: 47\n# Comments: 11",
+      "title": "LLMs Are Not a Default Execution Engine",
+      "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
+      "summary": "Article URL: https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt\nComments URL: https://news.ycombinator.com/item?id=48812489\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Mon, 06 Jul 2026 18:24:34 +0000",
+      "published": "Tue, 07 Jul 2026 01:06:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "link": "https://openwrt.org/toh/openwrt/one",
-      "summary": "Article URL: https://openwrt.org/toh/openwrt/one\nComments URL: https://news.ycombinator.com/item?id=48808482\nPoints: 90\n# Comments: 38",
+      "title": "I created a free tool that pairs your Nasic and past performance to win contract",
+      "link": "https://www.fedfinder.net/",
+      "summary": "Article URL: https://www.fedfinder.net/\nComments URL: https://news.ycombinator.com/item?id=48812450\nPoints: 4\n# Comments: 2",
       "image": "",
-      "published": "Mon, 06 Jul 2026 18:23:12 +0000",
+      "published": "Tue, 07 Jul 2026 01:00:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A global workspace in language models",
-      "link": "https://www.anthropic.com/research/global-workspace",
-      "summary": "Article URL: https://www.anthropic.com/research/global-workspace\nComments URL: https://news.ycombinator.com/item?id=48808002\nPoints: 25\n# Comments: 0",
+      "title": "Strata – An app that talks me out of dying outdoors",
+      "link": "https://strata.highloop.co/",
+      "summary": "Article URL: https://strata.highloop.co/\nComments URL: https://news.ycombinator.com/item?id=48812282\nPoints: 5\n# Comments: 12",
       "image": "",
-      "published": "Mon, 06 Jul 2026 17:44:08 +0000",
+      "published": "Tue, 07 Jul 2026 00:32:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-      "link": "https://github.com/V4bel/Januscape",
-      "summary": "Article URL: https://github.com/V4bel/Januscape\nComments URL: https://news.ycombinator.com/item?id=48807908\nPoints: 19\n# Comments: 4",
+      "title": "How to sequence your own DNA at home",
+      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 40\n# Comments: 14",
       "image": "",
-      "published": "Mon, 06 Jul 2026 17:35:03 +0000",
+      "published": "Tue, 07 Jul 2026 00:14:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Supreme Court Just Lit a Fuse Under Flock's License Plate Camera Empire",
-      "link": "https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html",
-      "summary": "Article URL: https://www.yahoo.com/news/politics/articles/supreme-court-just-lit-fuse-130900307.html\nComments URL: https://news.ycombinator.com/item?id=48807383\nPoints: 76\n# Comments: 52",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Mon, 06 Jul 2026 16:58:51 +0000",
+      "published": "Mon, 06 Jul 2026 23:59:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Is an MCP Server? A Plain-English Guide for Builders (2026)",
-      "link": "https://dev.to/buywhere/what-is-an-mcp-server-a-plain-english-guide-for-builders-2026-2jm6",
-      "summary": "If you've heard the term \"MCP server\" floating around AI Twitter, GitHub, or Discord and quietly googled it — you're not alone. As of mid-2026, even some frontier models don't fully recognize the term yet. Let's fix that",
+      "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
+      "link": "https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m",
+      "summary": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint → Mailchimp API v3\n\n\nA client wanted a newsletter popup on their WooCommerce/Divi site to hand out a lead-magnet PDF and grow their Mailchimp aud",
       "image": "",
-      "published": "Mon, 06 Jul 2026 19:20:43 +0000",
+      "published": "Tue, 07 Jul 2026 01:27:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Left of the Loop: The Oikonomos",
-      "link": "https://dev.to/aepfli/left-of-the-loop-the-oikonomos-2i7f",
-      "summary": "In an ancient Greek household, the oikonomos was the steward: the one trusted to manage the estate’s resources so the whole household prospered. The word is the root of economy, which began as the art of running a househ",
+      "title": "ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?",
+      "link": "https://dev.to/gophernment/phaasaaopraekrmmingthii-syntax-ngaay-thamaih-ai-hlnnylng-cchringhruue-5al9",
+      "summary": "ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?\n\n\n\n\"เขียน Go แล้ว Copilot แม่นกว่าเขียน Java\" — เคยได้ยินไหม?\nหรือ \"Python มันง่าย AI เลยเก่ง\" — จริงหรือแค่ confirmation bias?\n\n\nคำถามนี้ดูเผิน ๆ เหมือน opini",
       "image": "",
-      "published": "Mon, 06 Jul 2026 19:08:47 +0000",
+      "published": "Tue, 07 Jul 2026 01:25:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Real AI Bottleneck Isn't Tech — It's Management (And How to Fix It in Your Browser)",
-      "link": "https://dev.to/traliran/the-real-ai-bottleneck-isnt-tech-its-management-and-how-to-fix-it-in-your-browser-2hh4",
-      "summary": "Today, developers and AI enthusiasts face a paradoxical situation. We have access to mind-blowing models: from cloud giants like GPT-5.5 and Claude 5 Fable to powerful open-source local models like Gemma 4 31b or DeepSee",
+      "title": "Getting Started, Starting Documented",
+      "link": "https://dev.to/mbendjeddou1/getting-started-starting-documented-2i1h",
+      "summary": "I have just joined and I found this place so compelling that I feel pushed to write my first post and share my humble experience.\n\nI have also been inspired by two good DEV articles with the same title: \"I Wish I Had Sta",
       "image": "",
-      "published": "Mon, 06 Jul 2026 19:07:03 +0000",
+      "published": "Tue, 07 Jul 2026 01:21:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "BrowserAct Hit #1 on Product Hunt - Why 629 Builders Voted for a BrowserAct That Gets Stuck",
-      "link": "https://dev.to/aws-builders/browseract-hit-1-on-product-hunt-why-629-builders-voted-for-a-browseract-that-gets-stuck-ppn",
-      "summary": "👋 Hey there, Tech Enthusiasts!\n\nI'm Sarvar, a Cloud Architect who loves turning complex tech problems into simple solutions. I've worked with AWS, Azure, DevOps, Data, Analytics, Generative-AI and Agentic-AI building rea",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw8l5hdxjbrenebd04fy1.png",
-      "published": "Mon, 06 Jul 2026 19:02:18 +0000",
+      "title": "Four short papers on making AI-assisted work re-checkable",
+      "link": "https://dev.to/zaindanaharper/four-short-papers-on-making-ai-assisted-work-re-checkable-48do",
+      "summary": "I have released four short papers on one idea: making AI-assisted work re-checkable.\n\n\n\nEMET — a byte-level integrity witness whose verdict {MATCH, DRIFT, UNVERIFIABLE} cannot, by construction, express \"trusted.\" Four in",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 01:12:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Integrating Roblox with Amazon Bedrock and DynamoDB — Building an AI-Powered Game World",
-      "link": "https://dev.to/vsenger/integrating-roblox-with-amazon-bedrock-and-dynamodb-building-an-ai-powered-game-world-3ea6",
-      "summary": "What if players in your Roblox game could chat with an AI directly inside the game? Or trigger real-world IoT devices just by sitting on a virtual chair?\n\nIn this tutorial, I'll show you how I integrated Roblox with AWS ",
+      "title": "𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗵𝗮𝗽𝘁𝗲𝗿 𝟯: 𝗪𝗵𝘆 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗻𝗴 𝗔𝗜 𝗜𝘀 𝗛𝗮𝗿𝗱𝗲𝗿 𝗧𝗵𝗮𝗻 𝗜𝘁 𝗟𝗼𝗼𝗸𝘀",
+      "link": "https://dev.to/yoditdevn8n/--12e4",
+      "summary": "One of the biggest takeaways from Chapter 3 of AI Engineering was realizing that building an AI model is only part of the challenge. Figuring out 𝗵𝗼𝘄 𝘁𝗼 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲 𝗶𝘁 𝗳𝗮𝗶𝗿𝗹𝘆 𝗮𝗻𝗱 𝗮𝗰𝗰𝘂𝗿𝗮𝘁𝗲𝗹𝘆 can be just as difficult.\n\nWith t",
       "image": "",
-      "published": "Mon, 06 Jul 2026 18:48:38 +0000",
+      "published": "Tue, 07 Jul 2026 00:54:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
