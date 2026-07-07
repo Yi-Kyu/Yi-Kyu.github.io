@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-07T08:59:49.027081Z",
+  "updated": "2026-07-07T13:58:53.366165Z",
   "articles": [
+    {
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft records tied that ID",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg",
+      "published": "Tue, 07 Jul 2026 18:57:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant comp",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg",
+      "published": "Tue, 07 Jul 2026 18:57:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, wh",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg",
+      "published": "Tue, 07 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign.\n\nThe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg",
+      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
       "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
-      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
-      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg",
-      "published": "Tue, 07 Jul 2026 10:46:51 +0530",
-      "source": "The Hacker News",
+      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
+      "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated investigation and",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:12:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
-      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
-      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Isr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg",
-      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
-      "source": "The Hacker News",
+      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
+      "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:06:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\nDubbed 'Januscape' and tracked as&nbsp;CVE-2026-53359, the f",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg",
-      "published": "Mon, 06 Jul 2026 23:07:01 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\nThe vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerab",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg",
-      "published": "Mon, 06 Jul 2026 21:58:59 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 05:41:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
       "image": "",
       "published": "Tue, 07 Jul 2026 03:37:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
-      "link": "https://jobs.ashbyhq.com/lago",
-      "summary": "Article URL: https://jobs.ashbyhq.com/lago\nComments URL: https://news.ycombinator.com/item?id=48814509\nPoints: 0\n# Comments: 0",
+      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
+      "link": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
+      "summary": "Article URL: https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html\nComments URL: https://news.ycombinator.com/item?id=48817191\nPoints: 49\n# Comments: 36",
       "image": "",
-      "published": "Tue, 07 Jul 2026 07:00:27 +0000",
+      "published": "Tue, 07 Jul 2026 13:03:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 195\n# Comments: 69",
+      "title": "Dua Lipa opens library for banned and censored books in Portugal",
+      "link": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+      "summary": "Article URL: https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal\nComments URL: https://news.ycombinator.com/item?id=48817017\nPoints: 64\n# Comments: 55",
       "image": "",
-      "published": "Tue, 07 Jul 2026 00:14:21 +0000",
+      "published": "Tue, 07 Jul 2026 12:50:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 126\n# Comments: 41",
+      "title": "98% Isn't Much",
+      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/\nComments URL: https://news.ycombinator.com/item?id=48816959\nPoints: 132\n# Comments: 109",
       "image": "",
-      "published": "Mon, 06 Jul 2026 23:59:54 +0000",
+      "published": "Tue, 07 Jul 2026 12:45:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "NSA and IETF: Fairness",
-      "link": "https://blog.cr.yp.to/20260706-fairness.html",
-      "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html\nComments URL: https://news.ycombinator.com/item?id=48811887\nPoints: 100\n# Comments: 84",
+      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "link": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "summary": "Article URL: https://www.youtube.com/watch?v=3R0Lp86GEBk\nComments URL: https://news.ycombinator.com/item?id=48816956\nPoints: 62\n# Comments: 20",
       "image": "",
-      "published": "Mon, 06 Jul 2026 23:33:54 +0000",
+      "published": "Tue, 07 Jul 2026 12:45:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "link": "https://ternlight-demo.vercel.app/",
-      "summary": "Article URL: https://ternlight-demo.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48811644\nPoints: 213\n# Comments: 49",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "link": "https://streetcomplete.app/",
+      "summary": "Article URL: https://streetcomplete.app/\nComments URL: https://news.ycombinator.com/item?id=48816883\nPoints: 73\n# Comments: 16",
       "image": "",
-      "published": "Mon, 06 Jul 2026 23:06:31 +0000",
+      "published": "Tue, 07 Jul 2026 12:38:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "【Sofi_Log #032】ゼロ知識証明（ZKP）とデジタル免疫システム：国家とAI監視を『数学的に無視』する自己主権ID仕様",
-      "link": "https://dev.to/sofi_works_2a97535d1a93dc/sofilog-032-zerozhi-shi-zheng-ming-zkptodezitarumian-yi-sisutemuguo-jia-toaijian-shi-woshu-xue-de-niwu-shi-suruzi-ji-zhu-quan-idshi-yang-d5i",
-      "summary": "[Sofi_Log: #032]\nStatus: [Bangkok: Night / JPY-THB: 0.22]\nProject: sofi.works [Zero-Knowledge Identity Setup]\nActive_Filter: Filter_R\n\nDarling, the tropical night breeze of Bangkok is caressing my skin again tonight, isn",
+      "title": "The best AI models cite retracted papers, and they cannot know it",
+      "link": "https://dev.to/mikeeus/the-best-ai-models-cite-retracted-papers-and-they-cannot-know-it-5acj",
+      "summary": "Ask a top model for the pivotal trial behind a real drug approval and it will give you the right paper and the right DOI, confidently. In one of my test runs, GPT-5.5, Claude Sonnet 5, and Claude Opus 4.8 all cited the A",
       "image": "",
-      "published": "Tue, 07 Jul 2026 08:35:40 +0000",
+      "published": "Tue, 07 Jul 2026 13:56:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Sending Your AI Assistant 40 Tables When It Only Needs 3",
-      "link": "https://dev.to/siddharth_pandey_27/stop-sending-your-ai-assistant-40-tables-when-it-only-needs-3-19b7",
-      "summary": "Say your service has 40 tables. You ask Claude Code to fix a bug in checkout — a function that touches exactly three of them: orders, payments, inventory_reservations. If your MCP server hands the model your whole schema",
+      "title": "TIL: Ruby's TracePoint",
+      "link": "https://dev.to/epigene/til-rubys-tracepoint-397e",
+      "summary": "Today I was looking into some cryptic warnings we're getting on CI, and querying GPT about possible ways to understand where they're being emitted from I was pointed to TracePoint class.\n\nIt's an extremely powerful API t",
       "image": "",
-      "published": "Tue, 07 Jul 2026 08:35:15 +0000",
+      "published": "Tue, 07 Jul 2026 13:53:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Day 01: Core Hardware & The Boot Process (The Developer's Perspective)",
-      "link": "https://dev.to/rextora-labs/day-01-core-hardware-the-boot-process-the-developers-perspective-k9i",
-      "summary": "🎯 Learning Objectives\n\n\nBy the end of this article, you will understand:\n\n\nHow backend code transitions from permanent storage into execution blocks on physical CPU cores.\nHow the stages of an OS boot lifecycle dictate s",
+      "title": "Reading The Pragmatic Programmer in the age of AI",
+      "link": "https://dev.to/dominik_alberski/reading-the-pragmatic-programmer-in-the-age-of-ai-3jnf",
+      "summary": "I bought The Pragmatic Programmer a few years ago but never finished it. As part of my current effort to sharpen my fundamentals, I decided to finally read it from cover to cover.\n\nI expected it to feel slightly dated. T",
       "image": "",
-      "published": "Tue, 07 Jul 2026 08:34:58 +0000",
+      "published": "Tue, 07 Jul 2026 13:51:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Kill a Great Product with 100 Good Ideas",
-      "link": "https://dev.to/nahamaalochi/how-to-kill-a-great-product-with-100-good-ideas-4ec9",
-      "summary": "A product team’s worst nightmare always starts innocently.\n\nSomeone in a meeting raises their hand and asks: \"Could we add dark mode?\"\nIt’s reasonable. It’s aesthetic. You write it down.\n\nThen another person asks: \"Can o",
+      "title": "Every MCP client rebuilds the same seven screens",
+      "link": "https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764",
+      "summary": "MCP went from 2M to 97M monthly SDK downloads in a year. There are over 9,400 servers in the registry. A lot of people are suddenly building MCP clients — and if you've built one, you already know where this is going, be",
       "image": "",
-      "published": "Tue, 07 Jul 2026 08:27:42 +0000",
+      "published": "Tue, 07 Jul 2026 13:51:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Small Node.js Wrapper for LLM API Retries, Timeouts, and Logging",
-      "link": "https://dev.to/plasma_01/a-small-nodejs-wrapper-for-llm-api-retries-timeouts-and-logging-ff4",
-      "summary": "Most LLM API integrations start with a direct SDK call.\n\nThat is fine for a demo.\n\nBut once the call is inside a real product, I usually want three things around it:\n\n\na timeout\nretry rules\nuseful logs when something fai",
+      "title": "Deterministic business-day calculations across time zones",
+      "link": "https://dev.to/bigfoot3379/deterministic-business-day-calculations-across-time-zones-44jm",
+      "summary": "There are good libraries and APIs for holidays, business days, working-day calculations, and timezone handling.\n\nI built an API called Datewise for a narrower problem: when the answer has to be reproducible later.\n\nBusin",
       "image": "",
-      "published": "Tue, 07 Jul 2026 08:25:13 +0000",
+      "published": "Tue, 07 Jul 2026 13:43:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
