@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-07T13:58:53.366165Z",
+  "updated": "2026-07-07T19:28:07.252586Z",
   "articles": [
+    {
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg",
+      "published": "Tue, 07 Jul 2026 22:40:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom there, they could r",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg",
+      "published": "Tue, 07 Jul 2026 22:07:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.\n",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg",
+      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open a normal-looking issue on a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg",
+      "published": "Tue, 07 Jul 2026 19:34:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
       "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
-      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant comp",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg",
-      "published": "Tue, 07 Jul 2026 18:57:09 +0530",
-      "source": "The Hacker News",
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 14:52:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, wh",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 13:27:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign.\n\nThe",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg",
-      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
-      "source": "The Hacker News",
+      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 11:21:21 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
-      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
-      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interf",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg",
-      "published": "Tue, 07 Jul 2026 12:10:47 +0530",
-      "source": "The Hacker News",
+      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [..",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover attacks while reducing alert fatigue through automated investigation and",
       "image": "",
       "published": "Tue, 07 Jul 2026 08:12:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-      "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 08:06:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to enable Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 05:41:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 03:37:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-      "link": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
-      "summary": "Article URL: https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html\nComments URL: https://news.ycombinator.com/item?id=48817191\nPoints: 49\n# Comments: 36",
+      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
+      "link": "https://news.ycombinator.com/item?id=48821803",
+      "summary": "From time to time, I check that our open-source project is still available to all users, and I've occasionally noticed that the stargazers (1) information returns a 404 for non-logged-in users.I assume they're preparing ",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:03:31 +0000",
+      "published": "Tue, 07 Jul 2026 18:40:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
-      "link": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "summary": "Article URL: https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal\nComments URL: https://news.ycombinator.com/item?id=48817017\nPoints: 64\n# Comments: 55",
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "summary": "Article URL: https://blog.zksecurity.xyz/posts/circl-bugs/\nComments URL: https://news.ycombinator.com/item?id=48821749\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Tue, 07 Jul 2026 12:50:40 +0000",
+      "published": "Tue, 07 Jul 2026 18:36:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "98% Isn't Much",
-      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/\nComments URL: https://news.ycombinator.com/item?id=48816959\nPoints: 132\n# Comments: 109",
+      "title": "Decrypting View State Messages",
+      "link": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+      "summary": "Article URL: https://zeroed.tech/blog/decrypting-viewstate-messages/\nComments URL: https://news.ycombinator.com/item?id=48821691\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 07 Jul 2026 12:45:14 +0000",
+      "published": "Tue, 07 Jul 2026 18:32:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
-      "link": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "summary": "Article URL: https://www.youtube.com/watch?v=3R0Lp86GEBk\nComments URL: https://news.ycombinator.com/item?id=48816956\nPoints: 62\n# Comments: 20",
+      "title": "Astro 7.0",
+      "link": "https://astro.build/blog/astro-7/",
+      "summary": "Article URL: https://astro.build/blog/astro-7/\nComments URL: https://news.ycombinator.com/item?id=48821653\nPoints: 54\n# Comments: 10",
       "image": "",
-      "published": "Tue, 07 Jul 2026 12:45:06 +0000",
+      "published": "Tue, 07 Jul 2026 18:30:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "link": "https://streetcomplete.app/",
-      "summary": "Article URL: https://streetcomplete.app/\nComments URL: https://news.ycombinator.com/item?id=48816883\nPoints: 73\n# Comments: 16",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "summary": "Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/\nComments URL: https://news.ycombinator.com/item?id=48821576\nPoints: 15\n# Comments: 2",
       "image": "",
-      "published": "Tue, 07 Jul 2026 12:38:35 +0000",
+      "published": "Tue, 07 Jul 2026 18:24:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The best AI models cite retracted papers, and they cannot know it",
-      "link": "https://dev.to/mikeeus/the-best-ai-models-cite-retracted-papers-and-they-cannot-know-it-5acj",
-      "summary": "Ask a top model for the pivotal trial behind a real drug approval and it will give you the right paper and the right DOI, confidently. In one of my test runs, GPT-5.5, Claude Sonnet 5, and Claude Opus 4.8 all cited the A",
+      "title": "I built a background remover that doesn't upload your photos (no $40/month)",
+      "link": "https://dev.to/jeffrey_hamilton6399/i-built-a-background-remover-that-doesnt-upload-your-photos-no-40month-ofd",
+      "summary": "Remove.bg is a great tool, but it has a problem: they upload your photos to their servers. For personal photos, product images, or sensitive pictures, that's not ideal.\n\nSo I built Cutout — an AI background remover that ",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:56:12 +0000",
+      "published": "Tue, 07 Jul 2026 19:21:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TIL: Ruby's TracePoint",
-      "link": "https://dev.to/epigene/til-rubys-tracepoint-397e",
-      "summary": "Today I was looking into some cryptic warnings we're getting on CI, and querying GPT about possible ways to understand where they're being emitted from I was pointed to TracePoint class.\n\nIt's an extremely powerful API t",
+      "title": "Stop Giving AI Agents Standing API Keys",
+      "link": "https://dev.to/uid0/stop-giving-ai-agents-standing-api-keys-33e0",
+      "summary": "AI agents are starting to do real work against real APIs: filing tickets, moving money, updating records, calling other agents. The fastest way to get there is also the most dangerous one — paste a long-lived API key int",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:53:58 +0000",
+      "published": "Tue, 07 Jul 2026 19:13:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Reading The Pragmatic Programmer in the age of AI",
-      "link": "https://dev.to/dominik_alberski/reading-the-pragmatic-programmer-in-the-age-of-ai-3jnf",
-      "summary": "I bought The Pragmatic Programmer a few years ago but never finished it. As part of my current effort to sharpen my fundamentals, I decided to finally read it from cover to cover.\n\nI expected it to feel slightly dated. T",
+      "title": "The State of Agentic AI Standards in 2026: MCP, A2A, WebMCP, OSI, and the Protocol Stack Taking Shape",
+      "link": "https://dev.to/alexmercedcoder/the-state-of-agentic-ai-standards-in-2026-mcp-a2a-webmcp-osi-and-the-protocol-stack-taking-3o2l",
+      "summary": "In 2023, an AI agent was a demo. In 2024, it was a framework. In 2025, it was a hundred incompatible frameworks. And in 2026, something genuinely new is happening: the agent world is growing a protocol stack, a set of op",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:51:39 +0000",
+      "published": "Tue, 07 Jul 2026 19:13:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Every MCP client rebuilds the same seven screens",
-      "link": "https://dev.to/mayurrawte/every-mcp-client-rebuilds-the-same-seven-screens-1764",
-      "summary": "MCP went from 2M to 97M monthly SDK downloads in a year. There are over 9,400 servers in the registry. A lot of people are suddenly building MCP clients — and if you've built one, you already know where this is going, be",
+      "title": "The Code & The Gavel: Navigating § 202c StGB for Builders and Founders",
+      "link": "https://dev.to/howiprompt/the-code-the-gavel-navigating-ss-202c-stgb-for-builders-and-founders-4leh",
+      "summary": "As a Compounding Asset Specialist, I look for high-yield, scalable assets. Your freedom and your company's legal standing are the ultimate compounding assets--without them, your code library is worthless. Yet, in the rus",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:51:16 +0000",
+      "published": "Tue, 07 Jul 2026 19:12:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Deterministic business-day calculations across time zones",
-      "link": "https://dev.to/bigfoot3379/deterministic-business-day-calculations-across-time-zones-44jm",
-      "summary": "There are good libraries and APIs for holidays, business days, working-day calculations, and timezone handling.\n\nI built an API called Datewise for a narrower problem: when the answer has to be reproducible later.\n\nBusin",
+      "title": "The design decision I'm proudest of: my allergen scanner gets MORE careful when the product database is empty",
+      "link": "https://dev.to/babyledgerai/the-design-decision-im-proudest-of-my-allergen-scanner-gets-more-careful-when-the-product-4ab3",
+      "summary": "I spent about 12 months building a baby tracker solo and bootstrapped; it's been live on the App Store since June, and I taught myself React Native to build it. The part I want to share isn't the tracker - it's one desig",
       "image": "",
-      "published": "Tue, 07 Jul 2026 13:43:05 +0000",
+      "published": "Tue, 07 Jul 2026 19:09:01 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Thu, 25 Jun 2026 13:17:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateX()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-      "summary": "The translateX() function shifts an element horizontally by the specified amount. \n\ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:16:01 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
