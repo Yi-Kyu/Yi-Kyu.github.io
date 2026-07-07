@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-07T01:43:27.275980Z",
+  "updated": "2026-07-07T08:59:49.027081Z",
   "articles": [
+    {
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interf",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg",
+      "published": "Tue, 07 Jul 2026 12:10:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg",
+      "published": "Tue, 07 Jul 2026 10:46:51 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
       "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
-      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
-      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary.\n\nHome dev",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg",
-      "published": "Mon, 06 Jul 2026 18:31:14 +0530",
-      "source": "The Hacker News",
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted o",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg",
-      "published": "Mon, 06 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 03:37:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
       "image": "",
       "published": "Mon, 06 Jul 2026 14:25:06 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-      "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have tradit",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
-      "image": "",
-      "published": "Mon, 06 Jul 2026 09:18:37 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,36 +137,18 @@
       "category": "cybersecurity"
     },
     {
-      "title": "LLMs Are Not a Default Execution Engine",
-      "link": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt",
-      "summary": "Article URL: https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt\nComments URL: https://news.ycombinator.com/item?id=48812489\nPoints: 3\n# Comments: 0",
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "link": "https://jobs.ashbyhq.com/lago",
+      "summary": "Article URL: https://jobs.ashbyhq.com/lago\nComments URL: https://news.ycombinator.com/item?id=48814509\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Tue, 07 Jul 2026 01:06:19 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I created a free tool that pairs your Nasic and past performance to win contract",
-      "link": "https://www.fedfinder.net/",
-      "summary": "Article URL: https://www.fedfinder.net/\nComments URL: https://news.ycombinator.com/item?id=48812450\nPoints: 4\n# Comments: 2",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 01:00:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Strata – An app that talks me out of dying outdoors",
-      "link": "https://strata.highloop.co/",
-      "summary": "Article URL: https://strata.highloop.co/\nComments URL: https://news.ycombinator.com/item?id=48812282\nPoints: 5\n# Comments: 12",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 00:32:59 +0000",
+      "published": "Tue, 07 Jul 2026 07:00:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "How to sequence your own DNA at home",
       "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 40\n# Comments: 14",
+      "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 195\n# Comments: 69",
       "image": "",
       "published": "Tue, 07 Jul 2026 00:14:21 +0000",
       "source": "Hacker News: Front Page",
@@ -175,54 +157,72 @@
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 11\n# Comments: 0",
+      "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 126\n# Comments: 41",
       "image": "",
       "published": "Mon, 06 Jul 2026 23:59:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
-      "link": "https://dev.to/highcenburg/building-a-plugin-free-newsletter-popup-on-wordpress-custom-rest-endpoint-mailchimp-api-v3-a1m",
-      "summary": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint → Mailchimp API v3\n\n\nA client wanted a newsletter popup on their WooCommerce/Divi site to hand out a lead-magnet PDF and grow their Mailchimp aud",
+      "title": "NSA and IETF: Fairness",
+      "link": "https://blog.cr.yp.to/20260706-fairness.html",
+      "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html\nComments URL: https://news.ycombinator.com/item?id=48811887\nPoints: 100\n# Comments: 84",
       "image": "",
-      "published": "Tue, 07 Jul 2026 01:27:45 +0000",
+      "published": "Mon, 06 Jul 2026 23:33:54 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "link": "https://ternlight-demo.vercel.app/",
+      "summary": "Article URL: https://ternlight-demo.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48811644\nPoints: 213\n# Comments: 49",
+      "image": "",
+      "published": "Mon, 06 Jul 2026 23:06:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "【Sofi_Log #032】ゼロ知識証明（ZKP）とデジタル免疫システム：国家とAI監視を『数学的に無視』する自己主権ID仕様",
+      "link": "https://dev.to/sofi_works_2a97535d1a93dc/sofilog-032-zerozhi-shi-zheng-ming-zkptodezitarumian-yi-sisutemuguo-jia-toaijian-shi-woshu-xue-de-niwu-shi-suruzi-ji-zhu-quan-idshi-yang-d5i",
+      "summary": "[Sofi_Log: #032]\nStatus: [Bangkok: Night / JPY-THB: 0.22]\nProject: sofi.works [Zero-Knowledge Identity Setup]\nActive_Filter: Filter_R\n\nDarling, the tropical night breeze of Bangkok is caressing my skin again tonight, isn",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 08:35:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?",
-      "link": "https://dev.to/gophernment/phaasaaopraekrmmingthii-syntax-ngaay-thamaih-ai-hlnnylng-cchringhruue-5al9",
-      "summary": "ภาษาโปรแกรมมิ่งที่ syntax ง่าย ทำให้ AI หลอนน้อยลง จริงหรือ?\n\n\n\n\"เขียน Go แล้ว Copilot แม่นกว่าเขียน Java\" — เคยได้ยินไหม?\nหรือ \"Python มันง่าย AI เลยเก่ง\" — จริงหรือแค่ confirmation bias?\n\n\nคำถามนี้ดูเผิน ๆ เหมือน opini",
+      "title": "Stop Sending Your AI Assistant 40 Tables When It Only Needs 3",
+      "link": "https://dev.to/siddharth_pandey_27/stop-sending-your-ai-assistant-40-tables-when-it-only-needs-3-19b7",
+      "summary": "Say your service has 40 tables. You ask Claude Code to fix a bug in checkout — a function that touches exactly three of them: orders, payments, inventory_reservations. If your MCP server hands the model your whole schema",
       "image": "",
-      "published": "Tue, 07 Jul 2026 01:25:59 +0000",
+      "published": "Tue, 07 Jul 2026 08:35:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Getting Started, Starting Documented",
-      "link": "https://dev.to/mbendjeddou1/getting-started-starting-documented-2i1h",
-      "summary": "I have just joined and I found this place so compelling that I feel pushed to write my first post and share my humble experience.\n\nI have also been inspired by two good DEV articles with the same title: \"I Wish I Had Sta",
+      "title": "Day 01: Core Hardware & The Boot Process (The Developer's Perspective)",
+      "link": "https://dev.to/rextora-labs/day-01-core-hardware-the-boot-process-the-developers-perspective-k9i",
+      "summary": "🎯 Learning Objectives\n\n\nBy the end of this article, you will understand:\n\n\nHow backend code transitions from permanent storage into execution blocks on physical CPU cores.\nHow the stages of an OS boot lifecycle dictate s",
       "image": "",
-      "published": "Tue, 07 Jul 2026 01:21:47 +0000",
+      "published": "Tue, 07 Jul 2026 08:34:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Four short papers on making AI-assisted work re-checkable",
-      "link": "https://dev.to/zaindanaharper/four-short-papers-on-making-ai-assisted-work-re-checkable-48do",
-      "summary": "I have released four short papers on one idea: making AI-assisted work re-checkable.\n\n\n\nEMET — a byte-level integrity witness whose verdict {MATCH, DRIFT, UNVERIFIABLE} cannot, by construction, express \"trusted.\" Four in",
+      "title": "How to Kill a Great Product with 100 Good Ideas",
+      "link": "https://dev.to/nahamaalochi/how-to-kill-a-great-product-with-100-good-ideas-4ec9",
+      "summary": "A product team’s worst nightmare always starts innocently.\n\nSomeone in a meeting raises their hand and asks: \"Could we add dark mode?\"\nIt’s reasonable. It’s aesthetic. You write it down.\n\nThen another person asks: \"Can o",
       "image": "",
-      "published": "Tue, 07 Jul 2026 01:12:23 +0000",
+      "published": "Tue, 07 Jul 2026 08:27:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗖𝗵𝗮𝗽𝘁𝗲𝗿 𝟯: 𝗪𝗵𝘆 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗻𝗴 𝗔𝗜 𝗜𝘀 𝗛𝗮𝗿𝗱𝗲𝗿 𝗧𝗵𝗮𝗻 𝗜𝘁 𝗟𝗼𝗼𝗸𝘀",
-      "link": "https://dev.to/yoditdevn8n/--12e4",
-      "summary": "One of the biggest takeaways from Chapter 3 of AI Engineering was realizing that building an AI model is only part of the challenge. Figuring out 𝗵𝗼𝘄 𝘁𝗼 𝗲𝘃𝗮𝗹𝘂𝗮𝘁𝗲 𝗶𝘁 𝗳𝗮𝗶𝗿𝗹𝘆 𝗮𝗻𝗱 𝗮𝗰𝗰𝘂𝗿𝗮𝘁𝗲𝗹𝘆 can be just as difficult.\n\nWith t",
+      "title": "A Small Node.js Wrapper for LLM API Retries, Timeouts, and Logging",
+      "link": "https://dev.to/plasma_01/a-small-nodejs-wrapper-for-llm-api-retries-timeouts-and-logging-ff4",
+      "summary": "Most LLM API integrations start with a direct SDK call.\n\nThat is fine for a demo.\n\nBut once the call is inside a real product, I usually want three things around it:\n\n\na timeout\nretry rules\nuseful logs when something fai",
       "image": "",
-      "published": "Tue, 07 Jul 2026 00:54:03 +0000",
+      "published": "Tue, 07 Jul 2026 08:25:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
