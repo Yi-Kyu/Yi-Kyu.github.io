@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-08T01:17:04.473313Z",
+  "updated": "2026-07-08T08:01:57.143660Z",
   "articles": [
+    {
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "summary": "Researchers at&nbsp;Nebula Security&nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&nbsp;root&nbsp;control of a machine that has not been patched.\n\nT",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif",
+      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg",
+      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown.\n\nThe attacker needs only to open a normal-looking issue on a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj35Nf4KvfpGfbhGpq7fhtkXFhxKtTqAEFF5dX23th60tiUCMEYsuOXfiH-kIq1PRUWrRBMo92M6SCtE8chA882l0wCOO2gs1skw-h_sOqfA9jOcED6IYr2RVWkVzKohekZdvzOTZ9QpPnGDtOtJI9jYjWlPiAgvc1dG4Yuy-J02v8GA9rkweGIF000-lA/s1600/githubs.jpg",
-      "published": "Tue, 07 Jul 2026 19:34:50 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft records tied that ID",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg",
-      "published": "Tue, 07 Jul 2026 18:57:20 +0530",
-      "source": "The Hacker News",
+      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Fri",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 03:16:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
       "image": "",
       "published": "Tue, 07 Jul 2026 11:21:21 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [..",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "An interactive explorer for Benford's Law across real datasets",
-      "link": "https://vatsalbakshi.com/blog/benfords-law/",
-      "summary": "Article URL: https://vatsalbakshi.com/blog/benfords-law/\nComments URL: https://news.ycombinator.com/item?id=48825816\nPoints: 3\n# Comments: 0",
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 86\n# Comments: 27",
       "image": "",
-      "published": "Wed, 08 Jul 2026 00:18:39 +0000",
+      "published": "Wed, 08 Jul 2026 05:25:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-      "link": "https://github.com/tiliondev/fortress",
-      "summary": "Article URL: https://github.com/tiliondev/fortress\nComments URL: https://news.ycombinator.com/item?id=48825745\nPoints: 10\n# Comments: 2",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "link": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299\nComments URL: https://news.ycombinator.com/item?id=48827402\nPoints: 157\n# Comments: 90",
       "image": "",
-      "published": "Wed, 08 Jul 2026 00:08:21 +0000",
+      "published": "Wed, 08 Jul 2026 04:12:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Honey, We Bought an AI Story",
-      "link": "https://www.bona-books.com/news/we-bought-an-ai-story",
-      "summary": "Article URL: https://www.bona-books.com/news/we-bought-an-ai-story\nComments URL: https://news.ycombinator.com/item?id=48825694\nPoints: 8\n# Comments: 2",
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "summary": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/\nComments URL: https://news.ycombinator.com/item?id=48827325\nPoints: 155\n# Comments: 83",
       "image": "",
-      "published": "Wed, 08 Jul 2026 00:01:18 +0000",
+      "published": "Wed, 08 Jul 2026 03:59:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures",
-      "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "summary": "Article URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/\nComments URL: https://news.ycombinator.com/item?id=48825664\nPoints: 6\n# Comment",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "link": "https://www.digipres.org/the-floppy-guide/",
+      "summary": "Article URL: https://www.digipres.org/the-floppy-guide/\nComments URL: https://news.ycombinator.com/item?id=48827092\nPoints: 55\n# Comments: 11",
       "image": "",
-      "published": "Tue, 07 Jul 2026 23:57:29 +0000",
+      "published": "Wed, 08 Jul 2026 03:22:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "link": "https://www.gao.gov/products/gao-26-108193",
-      "summary": "Article URL: https://www.gao.gov/products/gao-26-108193\nComments URL: https://news.ycombinator.com/item?id=48824826\nPoints: 69\n# Comments: 22",
+      "title": "LineageOS Statistics",
+      "link": "https://stats.lineageos.org",
+      "summary": "Article URL: https://stats.lineageos.org\nComments URL: https://news.ycombinator.com/item?id=48826329\nPoints: 61\n# Comments: 32",
       "image": "",
-      "published": "Tue, 07 Jul 2026 22:23:58 +0000",
+      "published": "Wed, 08 Jul 2026 01:27:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "分布式系统一致性：CAP理论与工程实践深度指南",
-      "link": "https://dev.to/tianxin/fen-bu-shi-xi-tong-zhi-xing-capli-lun-yu-gong-cheng-shi-jian-shen-du-zhi-nan-1bl8",
-      "summary": "分布式系统一致性：CAP理论与工程实践深度指南\n\n\n\n在分布式系统设计中，没有银弹。理解CAP理论，是做出正确架构决策的第一步。\n\n\n\n\n\n\n  \n  \n  什么是分布式系统一致性？\n\n\n在分布式系统中，一致性是指多个副本数据保持同步的状态。当我们在分布式环境中读写数据时，如何保证数据的一致性是核心挑战之一。\n\n\n\n\n\n  \n  \n  CAP理论：分布式系统的基石\n\n\nCAP理论是分布式系统设计的基石，由Eric Brewer在2000",
+      "title": "The bug wasn't in my AI agent",
+      "link": "https://dev.to/mayank609/the-bug-wasnt-in-my-ai-agent-4mi",
+      "summary": "It was in the way I was debugging it.\n\nI spent hours trying to figure out why an agent kept choosing the wrong tool.\n\nSo I did what most of us would do.\n\nI checked the prompt.\n\nThe final response.\n\nThe retrieved context.",
       "image": "",
-      "published": "Wed, 08 Jul 2026 01:05:19 +0000",
+      "published": "Wed, 08 Jul 2026 07:53:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "JetBrains Releases Mellum2: 12B Parameter Mixture-of-Experts Architecture Developer-Focused Model",
-      "link": "https://dev.to/judy_miranttie/jetbrains-releases-mellum2-12b-parameter-mixture-of-experts-architecture-developer-focused-model-59ki",
-      "summary": "This article is a deep-dive from JudyAI Lab — an AI engineering playbook series with 100+ published guides, 5,000+ weekly readers across 60+ countries, focused on the practical side of running AI agents, trading systems,",
+      "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
+      "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
+      "summary": "Halfway through Google Summer of Code 2026 🤦🏻‍♂️ Time flies when you are deeply immersed in AST parsers, metadata extraction, and architectural decisions.\n\nAs we're in the GSoC Midterm of redesigning Webpack’s documentat",
       "image": "",
-      "published": "Wed, 08 Jul 2026 01:00:07 +0000",
+      "published": "Wed, 08 Jul 2026 07:48:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agentic farm advisory assistant built with Gemma 4 + Google AI Studio",
-      "link": "https://dev.to/shieldstring/agentic-farm-advisory-assistant-built-with-gemma-4-google-ai-studio-14ca",
-      "summary": "We will walk through a complete, working project: an agentic farm advisory assistant built with Gemma 4 through Google AI Studio's Gemini API. It diagnoses crop issues from photos, checks weather-based planting windows, ",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 01:00:00 +0000",
+      "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+      "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
+      "summary": "Everything worked. I'd wired up useOptimistic on a task list, the checkbox flipped the instant you clicked it, no spinner, no half-second lag, exactly the feeling I was going for. I demoed it to myself a dozen times and ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5rimzq7q866kvgphp6f.png",
+      "published": "Wed, 08 Jul 2026 07:43:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Incident AI That Engineers Actually Trust",
-      "link": "https://dev.to/karthikreddy_n/building-incident-ai-that-engineers-actually-trust-2obf",
-      "summary": "The most important lesson we learned is this: you need to build strong foundations of system context before you can trust any automated reasoning or analysis. If your system lacks basic visibility—like topology, deploy t",
+      "title": "🚀React Router Setup Using createBrowserRouter (v6+ Pattern)",
+      "link": "https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1",
+      "summary": "If you're still using BrowserRouter with Routes, it's time to move to the modern React Router pattern using createBrowserRouter.\n\nThis approach makes your application more scalable and prepares your project for advanced ",
       "image": "",
-      "published": "Wed, 08 Jul 2026 00:59:24 +0000",
+      "published": "Wed, 08 Jul 2026 07:38:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs",
-      "link": "https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-45ml",
-      "summary": "I've lost count of how many AI side projects I started and abandoned. The pattern was always the same: a spark of excitement, two weeks of frantic coding, then the slow fade into yet another half-finished repo collecting",
+      "title": "Title",
+      "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-1ee",
+      "summary": "Title\n\n\nvLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare \nImage generated via Midjourney by author\n\nBut tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. ",
       "image": "",
-      "published": "Wed, 08 Jul 2026 00:55:30 +0000",
+      "published": "Wed, 08 Jul 2026 07:36:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
