@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-08T08:01:57.143660Z",
+  "updated": "2026-07-08T13:20:37.296583Z",
   "articles": [
+    {
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifE8OSGx2cVUZ1jiVnMC-LHyladj2cJ1FWw2-t0wDJEK4Icxrhk_bFReZr8jCiNkmpamFxdBGLpgruMJh1g7c687TCf4R76GG8xJEzB9kzPLTXo18DUZkT9_T5LHeikWsoEDeBm-gapabqgRUl2sAyhaPeYOWIs7Re0-jr2CMoKVn5AzlXdU1W6oWIy6mv/s1600/git-hash.jpg",
+      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for def",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a&nbsp;",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3sdn3FMdKySUzvuf2007OIkov1V6r7gOe6npkdpODZqGK0avIBUu4fc4XVYsccnBD3ij71TroVDezuYTjSmXj6le7luxRFK-S1q3itvZHcIwPaY2NzDYjEUH-hnBbOBa_GZSq7-Es2DG4v-6vlbqeZWvYohveEleH8n8eWD6GxafIJIvanFGzsLarQY/s1600/copilot-prompts.jpg",
+      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
+      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.\n\nAccording to findings from Cisco",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg",
+      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
       "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg",
-      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
-      "source": "The Hacker News",
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 08:00:00 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdqPEGRKkKA7pjGNpR8hijHzJLPvyPD1g1C8bTt91eLUOFdu6Jw99i8LFybvHG9SP3syQ8shdXpC6EhinlQoB9aTgBMtejiCWAzVhhTi0o3nCTKZeKNnwDY0J_Lbf9LGN-KIQIoJ7-GW2op-JUcBg64uz5Actwh7TsFEstwNx9fXnLj4SODskUpnX9TPE/s1600/android-trojan-telegram.jpg",
-      "published": "Tue, 07 Jul 2026 22:40:15 +0530",
-      "source": "The Hacker News",
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project.\n\nFrom there, they could r",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9i8xIVWZcplpj-QuKnJKGAJjGi0Xq-q2R_luyy-HYXWkpsAPTYASmVbm2w2DoNOQkA81fyu0OQsbflhLykcYQpv66UDBeRxU1v5-xq7kQDQMS0cmvsCFmZI36jfyGxh6xrroU4hNhH_8_nOyXV_WG07om2t4riI-HP4wzE3HJr2KJ3-sUnKxbTNhV84k/s1600/google-chatbots.jpg",
-      "published": "Tue, 07 Jul 2026 22:07:33 +0530",
-      "source": "The Hacker News",
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC.\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__v7vicSomxW52wnr8HsJgQKf0vg3kdjUicmIUCMCDexaBZ68pLZzXKVSJxNEeBuBuEzueOldcd5GhtGQI-8eMqd9j0QWMqGScmbZpqBS9RFkXxXSfOZYhBSGqD8BBDfVUEn4RN86sKhgkl9xkJtYMl-7a2zsIU6LCC5j_U2BkupJGr3JqP9_GZCHfHtl/s1600/ms-device-code.jpg",
-      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
-      "source": "The Hacker News",
+      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+      "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -56,39 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
       "image": "",
-      "published": "Tue, 07 Jul 2026 18:06:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 14:52:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 13:27:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 11:21:21 -0400",
-      "source": "BleepingComputer",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly thre",
+      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+      "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/\nComments URL: https://news.ycombinator.com/item?id=48830565\nPoints: 77\n# Comments: 31",
       "image": "",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
+      "published": "Wed, 08 Jul 2026 11:30:56 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "List of European organizations that have banned personal messaging apps at work",
+      "link": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
+      "summary": "Article URL: https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work\nComments URL: https://news.ycombinator.com/item?id=48830371\nPoints: 30\n# Comments: 31",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 11:03:34 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\nComments URL: https://news.ycombinator.com/item?id=48829312\nPoints: 540\n# C",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 08:46:06 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "link": "https://github.com/dekart-xyz/geosql",
+      "summary": "Article URL: https://github.com/dekart-xyz/geosql\nComments URL: https://news.ycombinator.com/item?id=48829242\nPoints: 51\n# Comments: 6",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 08:37:26 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
       "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 86\n# Comments: 27",
+      "summary": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 304\n# Comments: 118",
       "image": "",
       "published": "Wed, 08 Jul 2026 05:25:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "link": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "summary": "Article URL: https://twitter.com/OpenAI/status/2074704958419792299\nComments URL: https://news.ycombinator.com/item?id=48827402\nPoints: 157\n# Comments: 90",
+      "title": "# Introducing MDConvertHub: Free Browser-Based Markdown Tools for Developers",
+      "link": "https://dev.to/mdconverthub/-introducing-mdconverthub-free-browser-based-markdown-tools-for-developers-g5m",
+      "summary": "Introducing MDConvertHub: Free Browser-Based Markdown Tools for Developers\n\n\nMarkdown has become the standard for writing README files, project documentation, technical blogs, and developer notes. Whether you're contribu",
       "image": "",
-      "published": "Wed, 08 Jul 2026 04:12:13 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "summary": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/\nComments URL: https://news.ycombinator.com/item?id=48827325\nPoints: 155\n# Comments: 83",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 03:59:35 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "link": "https://www.digipres.org/the-floppy-guide/",
-      "summary": "Article URL: https://www.digipres.org/the-floppy-guide/\nComments URL: https://news.ycombinator.com/item?id=48827092\nPoints: 55\n# Comments: 11",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 03:22:31 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "LineageOS Statistics",
-      "link": "https://stats.lineageos.org",
-      "summary": "Article URL: https://stats.lineageos.org\nComments URL: https://news.ycombinator.com/item?id=48826329\nPoints: 61\n# Comments: 32",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 01:27:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The bug wasn't in my AI agent",
-      "link": "https://dev.to/mayank609/the-bug-wasnt-in-my-ai-agent-4mi",
-      "summary": "It was in the way I was debugging it.\n\nI spent hours trying to figure out why an agent kept choosing the wrong tool.\n\nSo I did what most of us would do.\n\nI checked the prompt.\n\nThe final response.\n\nThe retrieved context.",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 07:53:06 +0000",
+      "published": "Wed, 08 Jul 2026 13:18:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-      "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-      "summary": "Halfway through Google Summer of Code 2026 🤦🏻‍♂️ Time flies when you are deeply immersed in AST parsers, metadata extraction, and architectural decisions.\n\nAs we're in the GSoC Midterm of redesigning Webpack’s documentat",
+      "title": "Why Your Vercel App is Failing to Load on Mobile Networks (And How to Fix It)",
+      "link": "https://dev.to/rabboni_kabongo_4e8e91383/why-your-vercel-app-is-failing-to-load-on-mobile-networks-and-how-to-fix-it-50me",
+      "summary": "As developers, we love the seamless deployment experience of Vercel. You push to GitHub, and your app is live. But recently, I ran into a maddening network issue that made me question my own code, my security headers, an",
       "image": "",
-      "published": "Wed, 08 Jul 2026 07:48:18 +0000",
+      "published": "Wed, 08 Jul 2026 13:16:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
-      "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
-      "summary": "Everything worked. I'd wired up useOptimistic on a task list, the checkbox flipped the instant you clicked it, no spinner, no half-second lag, exactly the feeling I was going for. I demoed it to myself a dozen times and ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx5rimzq7q866kvgphp6f.png",
-      "published": "Wed, 08 Jul 2026 07:43:35 +0000",
+      "title": "NVIDIA Ising: The AI Models That Could Unlock Quantum Computing in 2026",
+      "link": "https://dev.to/akaranjkar08/nvidia-ising-the-ai-models-that-could-unlock-quantum-computing-in-2026-dc1",
+      "summary": "Today, April 14, 2026, NVIDIA did something no one has done before: it launched AI models specifically designed to fix quantum computing's fundamental unsolved scaling problems. NVIDIA Ising is a family of open-source AI",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 13:16:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🚀React Router Setup Using createBrowserRouter (v6+ Pattern)",
-      "link": "https://dev.to/codeek/react-router-setup-using-createbrowserrouter-v6-pattern-fk1",
-      "summary": "If you're still using BrowserRouter with Routes, it's time to move to the modern React Router pattern using createBrowserRouter.\n\nThis approach makes your application more scalable and prepares your project for advanced ",
+      "title": "MiniMax M2.7: Open-Source AI That Rewrote Its Own Training Code",
+      "link": "https://dev.to/akaranjkar08/minimax-m27-open-source-ai-that-rewrote-its-own-training-code-535j",
+      "summary": "The most interesting model released in April 2026 didn't come from OpenAI, Anthropic, or Google. MiniMax, the Chinese AI lab best known for multimodal models and video generation, open-sourced M2.7 on April 12 — a 230-bi",
       "image": "",
-      "published": "Wed, 08 Jul 2026 07:38:09 +0000",
+      "published": "Wed, 08 Jul 2026 13:15:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Title",
-      "link": "https://dev.to/enadoc2_temp_cc4da1a52236/title-1ee",
-      "summary": "Title\n\n\nvLLM PagedAttention KV Cache Corruption: Woke Up to This Nightmare \nImage generated via Midjourney by author\n\nBut tbh I dont even know where to start. So like I was on call and at 8am my phone starts blowing up. ",
+      "title": "Building Production AI Systems(Part 2)",
+      "link": "https://dev.to/franklyn_nmesoma/building-production-ai-systemspart-2-224c",
+      "summary": "Integrating OpenRouter into a Real Application\n\n\nThis is Part 2 of a five-part series on building production-ready AI applications.\n\nIn the previous article, I talked about why I stopped juggling multiple AI SDKs and set",
       "image": "",
-      "published": "Wed, 08 Jul 2026 07:36:16 +0000",
+      "published": "Wed, 08 Jul 2026 13:15:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
