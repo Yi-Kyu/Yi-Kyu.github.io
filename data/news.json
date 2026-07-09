@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-09T01:25:08.012141Z",
+  "updated": "2026-07-09T08:57:46.349187Z",
   "articles": [
+    {
+      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+      "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
+      "summary": "Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n\"You can also @-mention Instagram accou",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg",
+      "published": "Thu, 09 Jul 2026 12:51:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\nThat is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif",
+      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-look",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg",
+      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 loo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png",
+      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
       "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.\n\nNew research, which its authors call&nbsp;H",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFLRfTvakP4spTkbT8iiV9ndUR4EwlHOmGkZrO4JdBl3QsmWS5zA_sx081fvr3R11VEnZcjHOFcirZAQ5eaqB3n8sFJQ7m64edzVHNONHsD9j9Obds8E_Z9VC08y42TCyJV_3zpWam1LTHhiZBLX5WCLNp-4tdR-AwYzlyoifh1Seu-ND4OKbnZOEhMks/s1600/ai-botnet.jpg",
-      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
-      "source": "The Hacker News",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 03:47:16 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command exec",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx2TRa1CP7yIs67Wa1bxiFVW5yq1S7vtAaQHf_htjuDbpAETKv8tfw7rchtVvME0FsA8YJ_uQzRp_ZAV-nPhLyRUQw_NNdgN0zhjyVR_L3wzt1ZX08PknwSF2FBLeieIUIx7t4hLMF1sDnsRuFCzllq8auoKriKlGMdllY8IYG04bID6cgGzty0e9mVhoM/s1600/uu.jpg",
-      "published": "Wed, 08 Jul 2026 20:08:05 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
-      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
-      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl6gaxMQBH0Bjb1ZhuaOiM5gKEk-zuSf821eRfV33ogx6YWwENunjyOPF8VXHtgtHgIevENLfBV2O04QI4TtjtDe2PGGevWptQEEagmp6q-G4FqOankGokz70XzVtz7dmNbEZ5G7-pV0yINgd2-ima7ap8xeOxuhZBKw2WPoUo81wKmGrwsPxbzYkW5Wk/s1600/anyrun-main.jpg",
-      "published": "Wed, 08 Jul 2026 18:30:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.\n\nThe activity cluster, tracked by Elastic Security Labs under th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguw-rOR8Masg2W1UVlfj5rr1nTNdwmhHfXvKG-8rLXWxkwDjtEy-O2ZCb40GEca78DPql7PPEPIrRL_tYt9Ob51ZW7_L-i7w-Ej7DzX2NtNGBrRHuorMowS0d89GxVjQW492-J1LansFJY7SqZgVCtBvcwhyphenhyphenpOcveL_9rNcsgyJm-cRSwnbwvFXKQuLMA9/s1600/clickfix-banking.jpg",
-      "published": "Wed, 08 Jul 2026 18:22:15 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
       "image": "",
       "published": "Wed, 08 Jul 2026 14:56:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verificat",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A software engineering interview question I like: computing the median",
-      "link": "https://krisshamloo.com/blog/007",
-      "summary": "Article URL: https://krisshamloo.com/blog/007\nComments URL: https://news.ycombinator.com/item?id=48839434\nPoints: 6\n# Comments: 1",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\nComments URL: https://news.ycombinator.com/item?id=48842611\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Thu, 09 Jul 2026 00:38:02 +0000",
+      "published": "Thu, 09 Jul 2026 08:22:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Remote Attestation",
-      "link": "https://www.liamcvw.com/p/remote-attestation",
-      "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 13\n# Comments: 3",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\nComments URL: https://news.ycombinator.com/item?id=48841963\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Thu, 09 Jul 2026 00:32:33 +0000",
+      "published": "Thu, 09 Jul 2026 07:00:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "link": "https://mira-wm.com/",
-      "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 4\n# Comments: 1",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "link": "https://github.com/malisper/pgrust",
+      "summary": "Article URL: https://github.com/malisper/pgrust\nComments URL: https://news.ycombinator.com/item?id=48841676\nPoints: 102\n# Comments: 114",
       "image": "",
-      "published": "Thu, 09 Jul 2026 00:27:57 +0000",
+      "published": "Thu, 09 Jul 2026 06:18:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 213\n# Comments: 49",
+      "title": "How Donkey Kong Toppled Atari",
+      "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "summary": "Article URL: https://dfarq.homeip.net/how-donkey-kong-toppled-atari/\nComments URL: https://news.ycombinator.com/item?id=48841385\nPoints: 13\n# Comments: 1",
       "image": "",
-      "published": "Wed, 08 Jul 2026 23:37:43 +0000",
+      "published": "Thu, 09 Jul 2026 05:34:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off\nComments URL: https://news.ycombinator.com/item?id=48838772\nPoints: 36\n# Comments: 11",
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "summary": "Article URL: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming\nComments URL: https://news.ycombinator.com/item?id=48841259\nPoints: 100\n# Comments: 43",
       "image": "",
-      "published": "Wed, 08 Jul 2026 23:27:14 +0000",
+      "published": "Thu, 09 Jul 2026 05:14:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beyond 'Think Step by Step': How to Build a Reasoning Scaffold That Forces AI to Actually Think",
-      "link": "https://dev.to/blobxiaoyao/beyond-think-step-by-step-how-to-build-a-reasoning-scaffold-that-forces-ai-to-actually-think-1p1a",
-      "summary": "\"Think step by step\" used to be a genuine insight. It isn't anymore — at least not as a complete prompting strategy.\n\nThe phrase triggers a reasoning mode, yes. But it gives the model zero constraints on how to reason. T",
+      "title": "Preventing Infinite Loops in LLM Agent Pipelines: The Dead-End State Trap",
+      "link": "https://dev.to/youngones/preventing-infinite-loops-in-llm-agent-pipelines-the-dead-end-state-trap-pl4",
+      "summary": "Preventing Infinite Loops in LLM Agent Pipelines: The Dead-End State Trap\n\n\n(Note: When publishing to your CMS, upload the neon maze hero image here)\n\nIf you deploy an LLM agent into production, it will eventually enter ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 01:15:54 +0000",
+      "published": "Thu, 09 Jul 2026 08:52:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OpenConnector: SaaS access for agents needs a runtime boundary, not more raw tokens",
-      "link": "https://dev.to/euk_ela_a3e7ed01aa3f7314e/openconnector-saas-access-for-agents-needs-a-runtime-boundary-not-more-raw-tokens-k5m",
-      "summary": "Many agent demos look simple: give the model tools, put a GitHub/Gmail/Slack token in an environment variable, and let the agent call APIs.\n\nThat works for demos. It gets uncomfortable in products.\n\nThe hard questions ar",
+      "title": "From \"someone should fix this\" to a working demo, with an AI agent",
+      "link": "https://dev.to/kayasax/from-someone-should-fix-this-to-a-working-demo-with-an-ai-agent-3i0a",
+      "summary": "The problem\n\n\nA colleague still working FIM/MIM support flagged it plainly: the TechNet Wiki content for FIM/MIM got archived, and along with the move, it basically stopped showing up in search. Years of real troubleshoo",
       "image": "",
-      "published": "Thu, 09 Jul 2026 01:12:10 +0000",
+      "published": "Thu, 09 Jul 2026 08:49:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Databricks on AWS #6] How We Structure the Terraform: Terragrunt, YAML-Driven Modules, and Atlantis GitOps",
-      "link": "https://dev.to/javaking1129/databricks-on-aws-6-how-we-structure-the-terraform-terragrunt-yaml-driven-modules-and-4959",
-      "summary": "📚 Series: Databricks on AWS (Part 6)\n\n\nBuilding a Databricks AI Platform on AWS\nRBAC with Function-Role Groups\nCompute Governance: Pools, Policies, Clusters\nThe BOOTSTRAP_TIMEOUT Mystery\nFixing It with AWS PrivateLink\n\nH",
+      "title": "I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...",
+      "link": "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
+      "summary": "Quick note before we dive in — I know I've been off track from the iOS/Swift series lately. I just have so many thoughts I need to get out of my head first. The series is coming back with the next article, I promise. Oka",
       "image": "",
-      "published": "Thu, 09 Jul 2026 01:08:38 +0000",
+      "published": "Thu, 09 Jul 2026 08:44:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "This Week In PHP Internals | July 8, 2026",
-      "link": "https://dev.to/projektgopher/this-week-in-php-internals-july-8-2026-100f",
-      "summary": "Hello world, it's Wednesday, July 8, 2026, and here's what happened This Week in PHP Internals.\n\nThis week's episode is brought to you by Ballast. Your team ships constantly — but how much of that work actually lasts? Ba",
+      "title": "Why Webhooks Time Out for Long-Running Autonomous Agents (and the Fix)",
+      "link": "https://dev.to/pstayet/why-webhooks-time-out-for-long-running-autonomous-agents-and-the-fix-3g2b",
+      "summary": "If you're debugging why your autonomous agent's webhook keeps timing out or dropping events mid-task, the short answer is: webhooks were designed for short-lived requests, and long-running agents violate that assumption ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 01:05:45 +0000",
+      "published": "Thu, 09 Jul 2026 08:32:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Server-side rendering and SEO",
-      "link": "https://dev.to/agenyc/server-side-rendering-and-seo-2e6c",
-      "summary": "Your content can be brilliant, but if a search crawler receives a blank HTML shell and a bundle of JavaScript, none of it counts. Rendering strategy — where and when your HTML gets built — quietly decides whether Google ",
+      "title": "I thought I was building a resume builder",
+      "link": "https://dev.to/erendhoheiri_97/i-thought-i-was-building-a-resume-builder-31og",
+      "summary": "When I started this project, I only wanted one thing.\n\nA resume builder that didn't ask me to create an account or pay before exporting a PDF.\n\nThat was literally the whole idea.\n\nAfter using it for a couple of weeks whi",
       "image": "",
-      "published": "Thu, 09 Jul 2026 01:05:30 +0000",
+      "published": "Thu, 09 Jul 2026 08:28:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
