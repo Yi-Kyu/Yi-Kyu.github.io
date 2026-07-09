@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T18:59:58.294870Z",
+  "updated": "2026-07-09T01:25:08.012141Z",
   "articles": [
     {
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+      "image": "",
+      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
       "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
@@ -70,24 +88,6 @@
       "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verificat",
       "image": "",
       "published": "Wed, 08 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DuckDuckGo browser now blocks YouTube video ads",
-      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
-      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 08:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Grok 4.5",
-      "link": "https://x.ai/news/grok-4-5",
-      "summary": "Article URL: https://x.ai/news/grok-4-5\nComments URL: https://news.ycombinator.com/item?id=48835111\nPoints: 148\n# Comments: 91",
+      "title": "A software engineering interview question I like: computing the median",
+      "link": "https://krisshamloo.com/blog/007",
+      "summary": "Article URL: https://krisshamloo.com/blog/007\nComments URL: https://news.ycombinator.com/item?id=48839434\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Wed, 08 Jul 2026 18:00:32 +0000",
+      "published": "Thu, 09 Jul 2026 00:38:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "link": "https://microsoft.github.io/flint-chart/#/",
-      "summary": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts are often of low qua",
+      "title": "Remote Attestation",
+      "link": "https://www.liamcvw.com/p/remote-attestation",
+      "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 13\n# Comments: 3",
       "image": "",
-      "published": "Wed, 08 Jul 2026 17:46:12 +0000",
+      "published": "Thu, 09 Jul 2026 00:32:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "link": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-      "summary": "Article URL: https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1783340582\nComments URL: https://news.ycombinator.com/item?id=48834919\nPoints: 41\n# Comments: 13",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "link": "https://mira-wm.com/",
+      "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Wed, 08 Jul 2026 17:45:26 +0000",
+      "published": "Thu, 09 Jul 2026 00:27:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "link": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "summary": "Article URL: https://e360.yale.edu/features/cassandra-rauert-interview\nComments URL: https://news.ycombinator.com/item?id=48834898\nPoints: 47\n# Comments: 4",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 213\n# Comments: 49",
       "image": "",
-      "published": "Wed, 08 Jul 2026 17:43:37 +0000",
+      "published": "Wed, 08 Jul 2026 23:37:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT‑Live",
-      "link": "https://openai.com/index/introducing-gpt-live/",
-      "summary": "Article URL: https://openai.com/index/introducing-gpt-live/\nComments URL: https://news.ycombinator.com/item?id=48834405\nPoints: 330\n# Comments: 238",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "link": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off\nComments URL: https://news.ycombinator.com/item?id=48838772\nPoints: 36\n# Comments: 11",
       "image": "",
-      "published": "Wed, 08 Jul 2026 17:03:19 +0000",
+      "published": "Wed, 08 Jul 2026 23:27:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Epoch Duel: Cyberpunk LLM Alignment Battle",
-      "link": "https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j",
-      "summary": "Have you ever wondered how AI engineers fine-tune and align large language models? Under the hood, they run Supervised Fine-Tuning (SFT), optimize parameters using direct preference gradients (DPO), filter out low-qualit",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Wed, 08 Jul 2026 18:57:56 +0000",
+      "title": "Beyond 'Think Step by Step': How to Build a Reasoning Scaffold That Forces AI to Actually Think",
+      "link": "https://dev.to/blobxiaoyao/beyond-think-step-by-step-how-to-build-a-reasoning-scaffold-that-forces-ai-to-actually-think-1p1a",
+      "summary": "\"Think step by step\" used to be a genuine insight. It isn't anymore — at least not as a complete prompting strategy.\n\nThe phrase triggers a reasoning mode, yes. But it gives the model zero constraints on how to reason. T",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 01:15:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Git tells you what changed. Causari tells you why.",
-      "link": "https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo",
-      "summary": "AI coding agents are becoming good enough to touch real codebases.\n\nThey can refactor files, write tests, change architecture, move logic around, and sometimes modify more code in ten minutes than a human would in an aft",
+      "title": "OpenConnector: SaaS access for agents needs a runtime boundary, not more raw tokens",
+      "link": "https://dev.to/euk_ela_a3e7ed01aa3f7314e/openconnector-saas-access-for-agents-needs-a-runtime-boundary-not-more-raw-tokens-k5m",
+      "summary": "Many agent demos look simple: give the model tools, put a GitHub/Gmail/Slack token in an environment variable, and let the agent call APIs.\n\nThat works for demos. It gets uncomfortable in products.\n\nThe hard questions ar",
       "image": "",
-      "published": "Wed, 08 Jul 2026 18:56:48 +0000",
+      "published": "Thu, 09 Jul 2026 01:12:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built on-device workout rep counting in Flutter — here's what actually worked",
-      "link": "https://dev.to/y_taka_1d8059437251d47bcc/i-built-on-device-workout-rep-counting-in-flutter-heres-what-actually-worked-18ei",
-      "summary": "I'm building TrainWiz, a Flutter app that turns real exercise into a pet-raising game: you do squats or push-ups, your phone counts the reps, and a little creature levels up and evolves. The core technical problem sounds",
+      "title": "[Databricks on AWS #6] How We Structure the Terraform: Terragrunt, YAML-Driven Modules, and Atlantis GitOps",
+      "link": "https://dev.to/javaking1129/databricks-on-aws-6-how-we-structure-the-terraform-terragrunt-yaml-driven-modules-and-4959",
+      "summary": "📚 Series: Databricks on AWS (Part 6)\n\n\nBuilding a Databricks AI Platform on AWS\nRBAC with Function-Role Groups\nCompute Governance: Pools, Policies, Clusters\nThe BOOTSTRAP_TIMEOUT Mystery\nFixing It with AWS PrivateLink\n\nH",
       "image": "",
-      "published": "Wed, 08 Jul 2026 18:49:31 +0000",
+      "published": "Thu, 09 Jul 2026 01:08:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "You Don't Need an LLM to Route Agent Context: Regex Beats Classifiers by 45 Points",
-      "link": "https://dev.to/jgravelle/you-dont-need-an-llm-to-route-agent-context-regex-beats-classifiers-by-45-points-1hb6",
-      "summary": "LLM agents burn a ridiculous number of tokens on redundancy: opening the same files again and again, trying a patch, failing, then wandering back through the repo like they’ve never seen it before.\n\nA July 2026 paper, Co",
+      "title": "This Week In PHP Internals | July 8, 2026",
+      "link": "https://dev.to/projektgopher/this-week-in-php-internals-july-8-2026-100f",
+      "summary": "Hello world, it's Wednesday, July 8, 2026, and here's what happened This Week in PHP Internals.\n\nThis week's episode is brought to you by Ballast. Your team ships constantly — but how much of that work actually lasts? Ba",
       "image": "",
-      "published": "Wed, 08 Jul 2026 18:35:19 +0000",
+      "published": "Thu, 09 Jul 2026 01:05:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Mounting a Mac's SMB share from Linux without gutting the Mac's security",
-      "link": "https://dev.to/tmlr/mounting-a-macs-smb-share-from-linux-without-gutting-the-macs-security-4ih5",
-      "summary": "Lost an evening to this, so you don't have to.\n\nThe fix everyone hands you is a single checkbox that quietly downgrades how your Mac stores its password. The clean alternative — Kerberos, the exact thing your iPhone alre",
+      "title": "Server-side rendering and SEO",
+      "link": "https://dev.to/agenyc/server-side-rendering-and-seo-2e6c",
+      "summary": "Your content can be brilliant, but if a search crawler receives a blank HTML shell and a bundle of JavaScript, none of it counts. Rendering strategy — where and when your HTML gets built — quietly decides whether Google ",
       "image": "",
-      "published": "Wed, 08 Jul 2026 18:32:09 +0000",
+      "published": "Thu, 09 Jul 2026 01:05:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
