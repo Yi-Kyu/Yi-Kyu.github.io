@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-09T08:57:46.349187Z",
+  "updated": "2026-07-09T14:21:15.353223Z",
   "articles": [
+    {
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg",
+      "published": "Thu, 09 Jul 2026 17:56:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Summer of Clearinghouses",
+      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quie",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg",
+      "published": "Thu, 09 Jul 2026 16:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.\n\nAccording to a new report pub",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg",
+      "published": "Thu, 09 Jul 2026 16:13:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.\n\nThe vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a pri",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqwSaoB3zc0bIhf1aBmcHsVVAsGnRDBc681vhmlgHYy0xx5VSxyS2jqjmk-mq27QrSKPN3yorL3A7DffJYp3iMO7CY_8owm-Cn8r7IFuvqeGHTPSyiFM0KVTMTE8W0Qon84tCbzsLVNqoS5nLq1aX8_RNKg0sxa2ke4Su_p5qy9dAlFdakwYcjueBGNhD/s1600/windows.jpg",
+      "published": "Thu, 09 Jul 2026 14:18:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
       "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\nThat is the finding in a&nbsp;proof-of-concept published Wednesday&nbsp;by the AI Now",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif",
-      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
-      "source": "The Hacker News",
+      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+      "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance o",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 10:02:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at&nbsp;Wiz&nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-look",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg",
-      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 07:00:35 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 loo",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png",
-      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.\n\nThe agents are not malicio",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg",
-      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
-      "source": "The Hacker News",
+      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+      "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 05:47:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
       "image": "",
       "published": "Thu, 09 Jul 2026 01:42:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 14:56:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "summary": "Article URL: https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\nComments URL: https://news.ycombinator.com/item?id=48842611\nPoints: 17\n# Comments: 0",
+      "title": "US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers",
+      "link": "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/\nComments URL: https://news.ycombinator.com/item?id=48845514\nPoints: 41\n# Comments: 15",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:22:52 +0000",
+      "published": "Thu, 09 Jul 2026 13:29:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
-      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\nComments URL: https://news.ycombinator.com/item?id=48841963\nPoints: 0\n# Comments: 0",
+      "title": "Syria's solar boom is redefining Middle East's energy model",
+      "link": "https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/",
+      "summary": "Article URL: https://www.thenationalnews.com/business/energy/2026/07/06/syrias-solar-boom-is-redefining-middle-easts-energy-model/\nComments URL: https://news.ycombinator.com/item?id=48845470\nPoints: 22\n# Comments: 1",
       "image": "",
-      "published": "Thu, 09 Jul 2026 07:00:43 +0000",
+      "published": "Thu, 09 Jul 2026 13:27:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "link": "https://github.com/malisper/pgrust",
-      "summary": "Article URL: https://github.com/malisper/pgrust\nComments URL: https://news.ycombinator.com/item?id=48841676\nPoints: 102\n# Comments: 114",
+      "title": "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
+      "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "summary": "Article URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/\nComments URL: https://news.ycombinator.com/item?id=48845442\nPoints: 53\n# Comments: 50",
       "image": "",
-      "published": "Thu, 09 Jul 2026 06:18:19 +0000",
+      "published": "Thu, 09 Jul 2026 13:24:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Donkey Kong Toppled Atari",
-      "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
-      "summary": "Article URL: https://dfarq.homeip.net/how-donkey-kong-toppled-atari/\nComments URL: https://news.ycombinator.com/item?id=48841385\nPoints: 13\n# Comments: 1",
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "link": "https://github.com/ronak-create/FableCut",
+      "summary": "Article URL: https://github.com/ronak-create/FableCut\nComments URL: https://news.ycombinator.com/item?id=48845422\nPoints: 26\n# Comments: 13",
       "image": "",
-      "published": "Thu, 09 Jul 2026 05:34:44 +0000",
+      "published": "Thu, 09 Jul 2026 13:23:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "summary": "Article URL: https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming\nComments URL: https://news.ycombinator.com/item?id=48841259\nPoints: 100\n# Comments: 43",
+      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "link": "https://arcaide.foo",
+      "summary": "One of the things I do when approaching a new codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the code and how they're connected. I ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 05:14:45 +0000",
+      "published": "Thu, 09 Jul 2026 12:59:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Preventing Infinite Loops in LLM Agent Pipelines: The Dead-End State Trap",
-      "link": "https://dev.to/youngones/preventing-infinite-loops-in-llm-agent-pipelines-the-dead-end-state-trap-pl4",
-      "summary": "Preventing Infinite Loops in LLM Agent Pipelines: The Dead-End State Trap\n\n\n(Note: When publishing to your CMS, upload the neon maze hero image here)\n\nIf you deploy an LLM agent into production, it will eventually enter ",
+      "title": "Post Mortems and Other Corporate Rituals",
+      "link": "https://dev.to/nahamaalochi/post-mortems-and-other-corporate-rituals-4ocg",
+      "summary": "A project dies.\n\nNot dramatically. No Viking funeral. No orchestral soundtrack. Just a slow quiet death inside a Tuesday meeting called “Retrospective Final Final v2”.\n\nSomeone shares a Notion doc.\n\nSomeone else says:\n“M",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:52:11 +0000",
+      "published": "Thu, 09 Jul 2026 14:14:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From \"someone should fix this\" to a working demo, with an AI agent",
-      "link": "https://dev.to/kayasax/from-someone-should-fix-this-to-a-working-demo-with-an-ai-agent-3i0a",
-      "summary": "The problem\n\n\nA colleague still working FIM/MIM support flagged it plainly: the TechNet Wiki content for FIM/MIM got archived, and along with the move, it basically stopped showing up in search. Years of real troubleshoo",
+      "title": "State Synchronization at the Edge: Implementing Distributed Key-Value Stores for High-Volume Application Dashboards",
+      "link": "https://dev.to/ai_expert/state-synchronization-at-the-edge-implementing-distributed-key-value-stores-for-high-volume-a5j",
+      "summary": "In the landscape of modern digital ecosystems, distributed application registries, and real-time developer metrics portals, data retrieval speeds directly dictate user retention and operational stability. High-volume tec",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:49:34 +0000",
+      "published": "Thu, 09 Jul 2026 14:06:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...",
-      "link": "https://dev.to/gamya_m/i-deleted-200-lines-of-code-i-didnt-write-and-learned-more-than-when-i-wrote-it-18dd",
-      "summary": "Quick note before we dive in — I know I've been off track from the iOS/Swift series lately. I just have so many thoughts I need to get out of my head first. The series is coming back with the next article, I promise. Oka",
+      "title": "Kafka Consumer Lag Is the Metric Everyone Collects—and Almost Everyone Misunderstands",
+      "link": "https://dev.to/themoah/kafka-consumer-lag-is-the-metric-everyone-collects-and-almost-everyone-misunderstands-4m8l",
+      "summary": "Kafka Consumer Lag Is the Metric Everyone Collects - and Almost Everyone Misunderstands\n\n\nAsk almost any Platform Engineer:\n\n\n\"How do you monitor Kafka?\"\n\n\nThe answer is usually immediate:\n\n\n\"Consumer lag.\"\n\n\nThey aren't",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:44:00 +0000",
+      "published": "Thu, 09 Jul 2026 14:06:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Webhooks Time Out for Long-Running Autonomous Agents (and the Fix)",
-      "link": "https://dev.to/pstayet/why-webhooks-time-out-for-long-running-autonomous-agents-and-the-fix-3g2b",
-      "summary": "If you're debugging why your autonomous agent's webhook keeps timing out or dropping events mid-task, the short answer is: webhooks were designed for short-lived requests, and long-running agents violate that assumption ",
+      "title": "Cisco 350-401 ENCOR (CCNP Enterprise Core): What's Actually Tested",
+      "link": "https://dev.to/nerdexam/cisco-350-401-encor-ccnp-enterprise-core-whats-actually-tested-1e1h",
+      "summary": "The Cisco 350-401 ENCOR (Implementing and Operating Cisco Enterprise Network\nCore Technologies) is the core exam for CCNP Enterprise and doubles as the\nwritten qualifying exam for CCIE Enterprise Infrastructure and CCIE ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:32:01 +0000",
+      "published": "Thu, 09 Jul 2026 14:02:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I thought I was building a resume builder",
-      "link": "https://dev.to/erendhoheiri_97/i-thought-i-was-building-a-resume-builder-31og",
-      "summary": "When I started this project, I only wanted one thing.\n\nA resume builder that didn't ask me to create an account or pay before exporting a PDF.\n\nThat was literally the whole idea.\n\nAfter using it for a couple of weeks whi",
+      "title": "Day 123 of Learning MERN Stack",
+      "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-123-of-learning-mern-stack-4cbk",
+      "summary": "Hello Dev Community! 👋\n\nIt is officially Day 123 of my software development sprint! Today, I transitioned from traditional reactive states into state-machine territory by mastering the useReducer Hook in React! ⚛️ Unifie",
       "image": "",
-      "published": "Thu, 09 Jul 2026 08:28:06 +0000",
+      "published": "Thu, 09 Jul 2026 14:01:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
