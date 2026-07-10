@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:15:33.339503Z",
+  "updated": "2026-07-10T01:21:59.912245Z",
   "articles": [
     {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
+      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
+      "summary": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 18:14:13 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases.",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 16:10:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [.",
@@ -70,24 +88,6 @@
       "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
       "image": "",
       "published": "Thu, 09 Jul 2026 10:39:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-      "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance o",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 07:00:35 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Show HN: I built a free app for New Yorkers to save money on groceries",
+      "link": "https://sbnyc.app/",
+      "summary": "I built this because I see that grocery savings are achievable in NYC. People usually just go to the store they're used to going to, and it's rarely worth the effort of combing through card cashback, weekly coupons, CPG ",
+      "image": "",
+      "published": "Fri, 10 Jul 2026 00:17:36 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Why American ambulance rides are so expensive",
+      "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 76\n# Comments: 107",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 22:15:56 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "summary": "Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical ch",
+      "image": "",
+      "published": "Thu, 09 Jul 2026 20:51:06 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "GLM 5.2 is nearly as accurate as a human book keeper",
       "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 11\n# Comments: 3",
+      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 179\n# Comments: 111",
       "image": "",
       "published": "Thu, 09 Jul 2026 18:29:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Start a Ruby Meetup",
-      "link": "https://guides.rubyevents.org/meetups/",
-      "summary": "Article URL: https://guides.rubyevents.org/meetups/\nComments URL: https://news.ycombinator.com/item?id=48850372\nPoints: 6\n# Comments: 0",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\nComments URL: https://news.ycombinator.com/item?id=48849292\nPoints: 104\n# Comments: 37",
       "image": "",
-      "published": "Thu, 09 Jul 2026 18:27:06 +0000",
+      "published": "Thu, 09 Jul 2026 17:17:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How should group chats work in decentralized systems?",
-      "link": "https://marindedic.com/groups/",
-      "summary": "Article URL: https://marindedic.com/groups/\nComments URL: https://news.ycombinator.com/item?id=48849258\nPoints: 24\n# Comments: 8",
+      "title": "Cost-Effective Observability: The 80/20 Stack for Startups",
+      "link": "https://dev.to/samson_tanimawo/cost-effective-observability-the-8020-stack-for-startups-3pkc",
+      "summary": "You Don't Need Datadog (Yet)\n\n\nI see startups spending $5,000/month on Datadog with 8 engineers. That's $625 per engineer per month for monitoring. At that stage, you need that money for product development.\n\nHere's the ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 17:15:47 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "GPT-5.6",
-      "link": "https://openai.com/index/gpt-5-6/",
-      "summary": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdfhttps://developers.openai.com/api/docs/guides/latest-model\n\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 571\n# Comments: 384",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 17:04:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "ChatGPT Work",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "summary": "Article URL: https://openai.com/index/chatgpt-for-your-most-ambitious-work/\nComments URL: https://news.ycombinator.com/item?id=48849059\nPoints: 196\n# Comments: 72",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 17:03:53 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I Was Tired of Fighting Google Docs to Make a PDF Look Professional",
-      "link": "https://dev.to/paperquire_e3fdb510bbe49c/i-was-tired-of-fighting-google-docs-to-make-a-pdf-look-professional-ihb",
-      "summary": "The report that broke me\n\n\nEvery Friday, I write a project status report. It has a table, some bullet points, a diagram, and a cover page. Pretty standard.\n\nThe writing takes 15 minutes. The formatting takes 30.\n\nI'd pas",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 19:05:22 +0000",
+      "published": "Fri, 10 Jul 2026 00:51:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The 10-Minute Document: A Complete Markdown-to-PDF Workflow",
-      "link": "https://dev.to/paperquire_e3fdb510bbe49c/the-10-minute-document-a-complete-markdown-to-pdf-workflow-16g1",
-      "summary": "People ask us what a \"real\" PaperQuire workflow looks like. Not the marketing version — the actual, honest, here's-what-I-do-on-a-Tuesday version.\n\nSo here it is. Start to finish, blank file to client-ready PDF, timed.\n\n",
+      "title": "I'm Building Claude Basecamp — an Open-Source OS for Everything Claude Code (and I Need Help)",
+      "link": "https://dev.to/graybird13/im-building-claude-basecamp-an-open-source-os-for-everything-claude-code-and-i-need-help-2ejc",
+      "summary": "Quick confession: this started as \"let me stop babysitting my tests and just make them stay green,\" and it turned into something a lot bigger. I want to be upfront about where I'm actually trying to take it.\n\nI built Cla",
       "image": "",
-      "published": "Thu, 09 Jul 2026 19:05:10 +0000",
+      "published": "Fri, 10 Jul 2026 00:49:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Didit Copilot: shipping an AI agent that lives inside the app",
-      "link": "https://dev.to/aralroca/didit-copilot-shipping-an-ai-agent-that-lives-inside-the-app-51b2",
-      "summary": "A few months ago I wrote that AI agents shouldn't control your apps; they should be the app. That post was the thesis. This one is the proof.\n\nWe just shipped Didit Copilot: an AI agent embedded in the Didit Business Con",
+      "title": "Pure ReAct is expensive and fragile. Sparsi lowers costs and increases reliability.",
+      "link": "https://dev.to/npolarski/pure-react-is-expensive-and-fragile-sparsi-lowers-costs-and-increases-reliability-ke5",
+      "summary": "If you’ve built AI applications in production recently, you’ve probably hit the \"Agent Wall.\"\n\nYou build a ReAct agent, give it 10 granular tools (search, extract, route, format), a massive system prompt, and tell it to ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 19:05:08 +0000",
+      "published": "Fri, 10 Jul 2026 00:45:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "EKS node autoscaling with Karpenter: just-in-time capacity without node groups",
-      "link": "https://dev.to/bwlkr/eks-node-autoscaling-with-karpenter-just-in-time-capacity-without-node-groups-pap",
-      "summary": "Most people arrive at Karpenter after a slow build-up of small frustrations rather than one dramatic outage. Managed node groups start out simple, and then one day you notice you are spending real time deciding which gro",
+      "title": "Schola Interlingua: Free Software for Learning Interlingua IALA",
+      "link": "https://dev.to/ianblas/schola-interlingua-free-software-for-learning-interlingua-iala-286n",
+      "summary": "Schola Interlingua: Free Software for Learning Interlingua IALA\n\n\nSchola Interlingua is a free, open-source platform for learning Interlingua IALA.\n\n\n  \n  \n  A practical place to learn\n\n\nThe platform is designed around a",
       "image": "",
-      "published": "Thu, 09 Jul 2026 19:01:51 +0000",
+      "published": "Fri, 10 Jul 2026 00:44:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Don't pay for servers for your MVP: 3 free platforms (Frontend, Backend, and DB)",
-      "link": "https://dev.to/nestorgonate/dont-pay-for-servers-for-your-mvp-3-free-platforms-frontend-backend-and-db-1i6o",
-      "summary": "Hey dev! If you are thinking about validating a business idea, launching a side project, or building your first MVP, you don't need to spend a single dollar on initial infrastructure.\n\nToday, I want to share 3 free platf",
+      "title": "I’m Building an AI Social Growth Agent That Works While You Sleep",
+      "link": "https://dev.to/calebrhodes/im-building-an-ai-social-growth-agent-that-works-while-you-sleep-54p4",
+      "summary": "Growing a product on social media sounds simple:\n\n\nCreate useful content.\nPost consistently.\nEngage with the right people.\nStudy the results.\nRepeat.\n\n\nIn reality, each step becomes a separate job.\n\nYou have to research ",
       "image": "",
-      "published": "Thu, 09 Jul 2026 19:01:49 +0000",
+      "published": "Fri, 10 Jul 2026 00:42:24 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateZ()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateY()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
