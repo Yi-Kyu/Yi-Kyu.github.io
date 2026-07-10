@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:21:59.912245Z",
+  "updated": "2026-07-10T08:53:51.691350Z",
   "articles": [
     {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "image": "",
+      "published": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
       "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
       "summary": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
@@ -79,15 +88,6 @@
       "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
       "image": "",
       "published": "Thu, 09 Jul 2026 13:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 10:39:51 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,18 +137,36 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: I built a free app for New Yorkers to save money on groceries",
-      "link": "https://sbnyc.app/",
-      "summary": "I built this because I see that grocery savings are achievable in NYC. People usually just go to the store they're used to going to, and it's rarely worth the effort of combing through card cashback, weekly coupons, CPG ",
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "link": "https://nevo-project.epfl.ch/",
+      "summary": "Article URL: https://nevo-project.epfl.ch/\nComments URL: https://news.ycombinator.com/item?id=48856904\nPoints: 19\n# Comments: 16",
       "image": "",
-      "published": "Fri, 10 Jul 2026 00:17:36 +0000",
+      "published": "Fri, 10 Jul 2026 07:39:11 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Browser Fingerprinting – How websites track you across internet –without cookies",
+      "link": "https://mysysinfo.com/blog/what-is-browser-fingerprinting",
+      "summary": "Article URL: https://mysysinfo.com/blog/what-is-browser-fingerprinting\nComments URL: https://news.ycombinator.com/item?id=48856685\nPoints: 10\n# Comments: 1",
+      "image": "",
+      "published": "Fri, 10 Jul 2026 07:07:50 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Build your own vulnerability harness",
+      "link": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "summary": "Article URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/\nComments URL: https://news.ycombinator.com/item?id=48854681\nPoints: 43\n# Comments: 18",
+      "image": "",
+      "published": "Fri, 10 Jul 2026 01:28:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Why American ambulance rides are so expensive",
       "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
-      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 76\n# Comments: 107",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are\nComments URL: https://news.ycombinator.com/item?id=48853091\nPoints: 194\n# Comments: 254",
       "image": "",
       "published": "Thu, 09 Jul 2026 22:15:56 +0000",
       "source": "Hacker News: Front Page",
@@ -164,66 +182,93 @@
       "category": "development"
     },
     {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "link": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "summary": "Article URL: https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark\nComments URL: https://news.ycombinator.com/item?id=48850414\nPoints: 179\n# Comments: 111",
+      "title": "Jiroit Geometri ve Kritik-Altı Fizik: 3D Baskılı Mikroreaktör Nasıl Doğrulanır?",
+      "link": "https://dev.to/tolgatascimuhendislik/jiroit-geometri-ve-kritik-alti-fizik-3d-baskili-mikroreaktor-nasil-dogrulanir-4ban",
+      "summary": "Masada duran metalik görünümlü bir küreyi nükleer enerji tartışmasının merkezine yerleştiren şey, yalnızca 3D yazıcıdan çıkmış olması değil. Asıl ilginç nokta; geometri, malzeme, nötron fiziği ve üretim doğrulamasının ay",
       "image": "",
-      "published": "Thu, 09 Jul 2026 18:29:41 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\nComments URL: https://news.ycombinator.com/item?id=48849292\nPoints: 104\n# Comments: 37",
-      "image": "",
-      "published": "Thu, 09 Jul 2026 17:17:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Cost-Effective Observability: The 80/20 Stack for Startups",
-      "link": "https://dev.to/samson_tanimawo/cost-effective-observability-the-8020-stack-for-startups-3pkc",
-      "summary": "You Don't Need Datadog (Yet)\n\n\nI see startups spending $5,000/month on Datadog with 8 engineers. That's $625 per engineer per month for monitoring. At that stage, you need that money for product development.\n\nHere's the ",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 00:51:07 +0000",
+      "published": "Fri, 10 Jul 2026 08:42:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I'm Building Claude Basecamp — an Open-Source OS for Everything Claude Code (and I Need Help)",
-      "link": "https://dev.to/graybird13/im-building-claude-basecamp-an-open-source-os-for-everything-claude-code-and-i-need-help-2ejc",
-      "summary": "Quick confession: this started as \"let me stop babysitting my tests and just make them stay green,\" and it turned into something a lot bigger. I want to be upfront about where I'm actually trying to take it.\n\nI built Cla",
+      "title": "How do you know which features your users actually use? Curious how teams handle this",
+      "link": "https://dev.to/adebayo_abdulmuiz_12bbfc/how-do-you-know-which-features-your-users-actually-use-curious-how-teams-handle-this-ka4",
+      "summary": "I'm exploring this problem and talking to as many founders and PMs as I can. Do you have a system for tracking feature usage or is it mostly gut feel and assumptions? Genuinely curious — no wrong answers.",
       "image": "",
-      "published": "Fri, 10 Jul 2026 00:49:58 +0000",
+      "published": "Fri, 10 Jul 2026 08:39:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Pure ReAct is expensive and fragile. Sparsi lowers costs and increases reliability.",
-      "link": "https://dev.to/npolarski/pure-react-is-expensive-and-fragile-sparsi-lowers-costs-and-increases-reliability-ke5",
-      "summary": "If you’ve built AI applications in production recently, you’ve probably hit the \"Agent Wall.\"\n\nYou build a ReAct agent, give it 10 granular tools (search, extract, route, format), a massive system prompt, and tell it to ",
+      "title": "Decoupling & Securing Web App Storage: Building a Zero-Trust S3 Perimeter with Terraform",
+      "link": "https://dev.to/shane_law/decoupling-securing-web-app-storage-building-a-zero-trust-s3-perimeter-with-terraform-3m4g",
+      "summary": "When hosting a scalable, multi-AZ 3-tier web application (like WordPress), storing media files locally on the EC2 instances is an architectural dead end. The moment your auto-scaler destroys an instance, your user upload",
       "image": "",
-      "published": "Fri, 10 Jul 2026 00:45:10 +0000",
+      "published": "Fri, 10 Jul 2026 08:31:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Schola Interlingua: Free Software for Learning Interlingua IALA",
-      "link": "https://dev.to/ianblas/schola-interlingua-free-software-for-learning-interlingua-iala-286n",
-      "summary": "Schola Interlingua: Free Software for Learning Interlingua IALA\n\n\nSchola Interlingua is a free, open-source platform for learning Interlingua IALA.\n\n\n  \n  \n  A practical place to learn\n\n\nThe platform is designed around a",
+      "title": "Multi-Tenant Stripe Connect Payments in a Go SaaS Platform",
+      "link": "https://dev.to/northbeamtech/multi-tenant-stripe-connect-payments-in-a-go-saas-platform-3jc",
+      "summary": "The problem\n\n\nWe build Verify365, a white-label SaaS platform used by several law firms, each under its own brand. Every partner firm needs payments to land directly in their own Stripe account — not a shared platform ac",
       "image": "",
-      "published": "Fri, 10 Jul 2026 00:44:40 +0000",
+      "published": "Fri, 10 Jul 2026 08:30:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I’m Building an AI Social Growth Agent That Works While You Sleep",
-      "link": "https://dev.to/calebrhodes/im-building-an-ai-social-growth-agent-that-works-while-you-sleep-54p4",
-      "summary": "Growing a product on social media sounds simple:\n\n\nCreate useful content.\nPost consistently.\nEngage with the right people.\nStudy the results.\nRepeat.\n\n\nIn reality, each step becomes a separate job.\n\nYou have to research ",
+      "title": "My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could",
+      "link": "https://dev.to/muhammadqasimdev/my-first-large-scale-nextjs-project-taught-me-more-than-any-tutorial-ever-could-1hp4",
+      "summary": "Lessons from building more than 40 responsive pages for a production application with an international development team.\n\nWhen I first started learning React and Next.js, I thought becoming a better frontend developer wa",
       "image": "",
-      "published": "Fri, 10 Jul 2026 00:42:24 +0000",
+      "published": "Fri, 10 Jul 2026 08:29:34 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateZ()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateY()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
