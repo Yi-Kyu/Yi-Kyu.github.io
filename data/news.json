@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T12:44:04.392424Z",
+  "updated": "2026-07-11T18:39:43.533153Z",
   "articles": [
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "image": "",
+      "published": "Sat, 11 Jul 2026 10:18:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
       "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, th",
@@ -79,15 +88,6 @@
       "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
       "image": "",
       "published": "Fri, 10 Jul 2026 12:37:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-prem",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 12:26:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
-      "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves\nComments URL: https://news.ycombinator.com/item?id=48870258\nPoints: 67\n# Comments: 53",
+      "title": "How to Hide from Killer Drones",
+      "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones\nComments URL: https://news.ycombinator.com/item?id=48874357\nPoints: 3\n# Comments: 2",
       "image": "",
-      "published": "Sat, 11 Jul 2026 09:16:10 +0000",
+      "published": "Sat, 11 Jul 2026 18:22:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 130\n# Comments: 45",
+      "title": "AI 2040 and the Cult of Intelligence",
+      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html\nComments URL: https://news.ycombinator.com/item?id=48874200\nPoints: 26\n# Comments: 2",
       "image": "",
-      "published": "Sat, 11 Jul 2026 05:19:41 +0000",
+      "published": "Sat, 11 Jul 2026 18:04:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 290\n# Comments: 113",
+      "title": "Who manages the agents?",
+      "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "summary": "Article URL: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/\nComments URL: https://news.ycombinator.com/item?id=48874182\nPoints: 12\n# Comments: 3",
       "image": "",
-      "published": "Fri, 10 Jul 2026 22:30:44 +0000",
+      "published": "Sat, 11 Jul 2026 18:02:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Moss (YC F25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "summary": "Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk\nComments URL: https://news.ycombinator.com/item?id=48865332\nPoints: 0\n# Comments: 0",
+      "title": "Prefer Strict Tables in SQLite",
+      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "summary": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/\nComments URL: https://news.ycombinator.com/item?id=48873940\nPoints: 16\n# Comments: 1",
       "image": "",
-      "published": "Fri, 10 Jul 2026 21:11:18 +0000",
+      "published": "Sat, 11 Jul 2026 17:33:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 1183\n# Comments: 616",
+      "title": "BLISS",
+      "link": "https://en.wikipedia.org/wiki/BLISS",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/BLISS\nComments URL: https://news.ycombinator.com/item?id=48873910\nPoints: 12\n# Comments: 1",
       "image": "",
-      "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+      "published": "Sat, 11 Jul 2026 17:30:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A RabbitMQ Upgrade Exposed the Reliability Assumptions Hidden in Our Messaging System",
-      "link": "https://dev.to/daemonicc/a-rabbitmq-upgrade-exposed-the-reliability-assumptions-hidden-in-our-messaging-system-3c77",
-      "summary": "The RabbitMQ upgrade looked like a straightforward infrastructure task: move from RabbitMQ 3.X to 4.X, provision the new broker, review the client setup, confirm queues still declare correctly, restart consumers, watch t",
+      "title": "The Key That Unlocks Everything: Prototype Pollution in JavaScript",
+      "link": "https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o",
+      "summary": "Imagine a hotel where every room key is cut from a master template. When a guest checks in, the front desk hands them a key that opens only their room. Simple enough. Now imagine a guest who, during check-in, sneaks a ti",
       "image": "",
-      "published": "Sat, 11 Jul 2026 12:40:11 +0000",
+      "published": "Sat, 11 Jul 2026 18:26:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Integrating Lambda Durable Functions into a Step Functions Workflow",
-      "link": "https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o",
-      "summary": "At re:Invent 2025, AWS announced Lambda Durable Functions. The feature introduces a checkpoint/replay mechanism that allows Lambda executions to run for up to one year, automatically recovering from interruptions by repl",
+      "title": "PassionQA: Turning My Passion for Software Quality into AI-Powered Test Intelligence",
+      "link": "https://dev.to/dhanashri_ugalmugale_6528/passionqa-turning-my-passion-for-software-quality-into-ai-powered-test-intelligence-lpo",
+      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nAs a QA engineer, I spend a lot of time reading requirements,\nquestioning unclear business rules, and thinking about what could break b",
       "image": "",
-      "published": "Sat, 11 Jul 2026 12:40:02 +0000",
+      "published": "Sat, 11 Jul 2026 18:20:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GDPR retention and erasure for an agent mailbox",
-      "link": "https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh",
-      "summary": "Most \"AI email\" demos never think about deletion. The agent reads, replies, files things away, and the inbox just grows. That's fine in a demo. It is a problem the first time a real person emails your agent, because the ",
+      "title": "The 8-Week AWS Solutions Architect Associate Study Plan I Actually Used (No Fluff)",
+      "link": "https://dev.to/certsrise/the-8-week-aws-solutions-architect-associate-study-plan-i-actually-used-no-fluff-58pe",
+      "summary": "The 8-Week AWS SAA-C03 Study Plan I Used to Score 812 While Working Full-Time\n\n\nEvery AWS Solutions Architect Associate study plan on the internet seems to recommend the same three things:\n\n\nWatch a video course\nTake thr",
       "image": "",
-      "published": "Sat, 11 Jul 2026 12:27:47 +0000",
+      "published": "Sat, 11 Jul 2026 18:10:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Keep your agent's mail out of spam traps",
-      "link": "https://dev.to/mqasimca/keep-your-agents-mail-out-of-spam-traps-13d4",
-      "summary": "Spam traps are the failure mode nobody puts in the demo. A bounce is loud — you get a 5.x.x back, your code logs it, you move on. A complaint at least gives you a webhook. A spam trap gives you nothing. The message gets ",
-      "image": "",
-      "published": "Sat, 11 Jul 2026 12:27:32 +0000",
+      "title": "THE STAND: Keep the Chant Alive!",
+      "link": "https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb",
+      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nTHE STAND is a short Three.js rhythm game about collective passion. You play the capo of a fictional supporters' section during a night",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png",
+      "published": "Sat, 11 Jul 2026 18:07:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Every Sports App Resets Your Streak Eventually. Mine Can't. 🔒⚡",
-      "link": "https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-58l5",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nLoyalty Ledger — a fan loyalty tracker where your check-in streak, badges, and history live on Solana instead of some app's database.\n\n",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7ugb6l1ytoe80rxw574f.png",
-      "published": "Sat, 11 Jul 2026 12:26:41 +0000",
+      "title": "Bidwatch - Search Live Ebay Auctions Ending Soon",
+      "link": "https://dev.to/hacksore/bidwatch-search-live-ebay-auctions-ending-soon-1393",
+      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nI use ebay.com a lot as a passionate card collector to find auctions. It's super difficult to use their filters on both the web and mob",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8d4zlkftdsvp8irjseb.png",
+      "published": "Sat, 11 Jul 2026 18:04:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
