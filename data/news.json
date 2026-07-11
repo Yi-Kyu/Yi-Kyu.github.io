@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T07:27:44.544381Z",
+  "updated": "2026-07-11T12:44:04.392424Z",
   "articles": [
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, th",
+      "image": "",
+      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New U-Boot flaws could enable stealthy firmware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
       "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise securi",
@@ -79,15 +88,6 @@
       "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-prem",
       "image": "",
       "published": "Fri, 10 Jul 2026 12:26:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 11:48:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,18 +137,18 @@
       "category": "cybersecurity"
     },
     {
-      "title": "What's the best way to do authentication in modern applications",
-      "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
-      "summary": "Article URL: https://neciudan.dev/most-secure-way-to-store-auth-token\nComments URL: https://news.ycombinator.com/item?id=48869243\nPoints: 3\n# Comments: 0",
+      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
+      "link": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves\nComments URL: https://news.ycombinator.com/item?id=48870258\nPoints: 67\n# Comments: 53",
       "image": "",
-      "published": "Sat, 11 Jul 2026 06:09:33 +0000",
+      "published": "Sat, 11 Jul 2026 09:16:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Vintage Beauty of Soviet Control Rooms",
+      "title": "The vintage beauty of Soviet control rooms (2018)",
       "link": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 18\n# Comments: 3",
+      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 130\n# Comments: 45",
       "image": "",
       "published": "Sat, 11 Jul 2026 05:19:41 +0000",
       "source": "Hacker News: Front Page",
@@ -157,7 +157,7 @@
     {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
       "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 195\n# Comments: 66",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 290\n# Comments: 113",
       "image": "",
       "published": "Fri, 10 Jul 2026 22:30:44 +0000",
       "source": "Hacker News: Front Page",
@@ -175,54 +175,54 @@
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 908\n# Comments: 453",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 1183\n# Comments: 616",
       "image": "",
       "published": "Fri, 10 Jul 2026 20:47:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS",
-      "link": "https://dev.to/diadal/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-job",
-      "summary": "Serverless and edge runtimes are great until your app needs a normal TCP database connection.\n\nZedGi works with:\n\n\n\nTypeScript / JavaScript SDK: Cloudflare Workers, Vercel Edge, Deno, Bun, Node.js, AWS Lambda, and any ru",
+      "title": "A RabbitMQ Upgrade Exposed the Reliability Assumptions Hidden in Our Messaging System",
+      "link": "https://dev.to/daemonicc/a-rabbitmq-upgrade-exposed-the-reliability-assumptions-hidden-in-our-messaging-system-3c77",
+      "summary": "The RabbitMQ upgrade looked like a straightforward infrastructure task: move from RabbitMQ 3.X to 4.X, provision the new broker, review the client setup, confirm queues still declare correctly, restart consumers, watch t",
       "image": "",
-      "published": "Sat, 11 Jul 2026 07:22:07 +0000",
+      "published": "Sat, 11 Jul 2026 12:40:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Accessibility Audit That Slapped Me Awake",
-      "link": "https://dev.to/richardlemon/the-accessibility-audit-that-slapped-me-awake-2e1o",
-      "summary": "The setup: I thought I was \"pretty good\" at a11y\n\nI shipped a client site earlier this year that I was genuinely proud of. Fast, clean, nice motion, sensible structure. I had aria labels sprinkled in. Focus states visibl",
+      "title": "Integrating Lambda Durable Functions into a Step Functions Workflow",
+      "link": "https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o",
+      "summary": "At re:Invent 2025, AWS announced Lambda Durable Functions. The feature introduces a checkpoint/replay mechanism that allows Lambda executions to run for up to one year, automatically recovering from interruptions by repl",
       "image": "",
-      "published": "Sat, 11 Jul 2026 07:16:17 +0000",
+      "published": "Sat, 11 Jul 2026 12:40:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why I Still Test In Safari First (And The Bugs It Catches Early)",
-      "link": "https://dev.to/richardlemon/why-i-still-test-in-safari-first-and-the-bugs-it-catches-early-58oh",
-      "summary": "Yes, I Still Open Safari First\n\nI build and test new frontend work in Safari first. On purpose. Repeatedly. Sober.\n\nI know that sounds backwards. Everyone else ships for Chrome, patches for Firefox, then grudgingly opens",
+      "title": "GDPR retention and erasure for an agent mailbox",
+      "link": "https://dev.to/mqasimca/gdpr-retention-and-erasure-for-an-agent-mailbox-1ejh",
+      "summary": "Most \"AI email\" demos never think about deletion. The agent reads, replies, files things away, and the inbox just grows. That's fine in a demo. It is a problem the first time a real person emails your agent, because the ",
       "image": "",
-      "published": "Sat, 11 Jul 2026 07:14:58 +0000",
+      "published": "Sat, 11 Jul 2026 12:27:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lazy Loading Images Almost Tanked My Core Web Vitals",
-      "link": "https://dev.to/richardlemon/lazy-loading-images-almost-tanked-my-core-web-vitals-4n4p",
-      "summary": "Lazy loading that made everything slower\n\nI had a week where my Core Web Vitals looked like a slow-motion car crash.\n\nNew layout. New images. New lazy loading strategy I felt pretty smart about. Lighthouse loved it local",
+      "title": "Keep your agent's mail out of spam traps",
+      "link": "https://dev.to/mqasimca/keep-your-agents-mail-out-of-spam-traps-13d4",
+      "summary": "Spam traps are the failure mode nobody puts in the demo. A bounce is loud — you get a 5.x.x back, your code logs it, you move on. A complaint at least gives you a webhook. A spam trap gives you nothing. The message gets ",
       "image": "",
-      "published": "Sat, 11 Jul 2026 07:14:39 +0000",
+      "published": "Sat, 11 Jul 2026 12:27:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Docker Mac Studio Setup That Finally Stopped Breaking",
-      "link": "https://dev.to/richardlemon/the-docker-mac-studio-setup-that-finally-stopped-breaking-4cli",
-      "summary": "Docker on Mac Studio used to be a recurring nightmare\n\nI love my Mac Studio. I hated Docker on it for a long time.\n\nRandom build failures. Containers chewing 30 GB of RAM. Volume performance going from “fine” to “did my ",
-      "image": "",
-      "published": "Sat, 11 Jul 2026 07:14:09 +0000",
+      "title": "Every Sports App Resets Your Streak Eventually. Mine Can't. 🔒⚡",
+      "link": "https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-58l5",
+      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nLoyalty Ledger — a fan loyalty tracker where your check-in streak, badges, and history live on Solana instead of some app's database.\n\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7ugb6l1ytoe80rxw574f.png",
+      "published": "Sat, 11 Jul 2026 12:26:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
