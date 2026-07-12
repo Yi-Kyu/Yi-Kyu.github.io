@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-11T18:39:43.533153Z",
+  "updated": "2026-07-12T01:17:39.820957Z",
   "articles": [
+    {
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg",
+      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Februa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg",
+      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
@@ -25,24 +43,6 @@
       "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phras",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg",
       "published": "Fri, 10 Jul 2026 21:59:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif",
-      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.\n\nN",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg",
-      "published": "Fri, 10 Jul 2026 20:21:49 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How to Hide from Killer Drones",
-      "link": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones\nComments URL: https://news.ycombinator.com/item?id=48874357\nPoints: 3\n# Comments: 2",
+      "title": "Firefox 12.58% for Desktop Browser Market Share in North America June 2026",
+      "link": "https://gs.statcounter.com/browser-market-share/desktop/north-america",
+      "summary": "Article URL: https://gs.statcounter.com/browser-market-share/desktop/north-america\nComments URL: https://news.ycombinator.com/item?id=48877349\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:22:02 +0000",
+      "published": "Sun, 12 Jul 2026 01:05:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI 2040 and the Cult of Intelligence",
-      "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html\nComments URL: https://news.ycombinator.com/item?id=48874200\nPoints: 26\n# Comments: 2",
+      "title": "A dock that wakes up reliably",
+      "link": "https://fabiensanglard.net/tb4/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/tb4/index.html\nComments URL: https://news.ycombinator.com/item?id=48877269\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:04:01 +0000",
+      "published": "Sun, 12 Jul 2026 00:48:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Who manages the agents?",
-      "link": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "summary": "Article URL: https://www.off-policy.com/dont-go-quietly-into-the-ai-night/\nComments URL: https://news.ycombinator.com/item?id=48874182\nPoints: 12\n# Comments: 3",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/\nComments URL: https://news.ycombinator.com/item?id=48876741\nPoints: 47\n# Comments: 24",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:02:33 +0000",
+      "published": "Sat, 11 Jul 2026 23:15:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Prefer Strict Tables in SQLite",
-      "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "summary": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/\nComments URL: https://news.ycombinator.com/item?id=48873940\nPoints: 16\n# Comments: 1",
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "link": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html\nComments URL: https://news.ycombinator.com/item?id=48876593\nPoints: 97\n# Comments: 49",
       "image": "",
-      "published": "Sat, 11 Jul 2026 17:33:55 +0000",
+      "published": "Sat, 11 Jul 2026 22:49:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "BLISS",
-      "link": "https://en.wikipedia.org/wiki/BLISS",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/BLISS\nComments URL: https://news.ycombinator.com/item?id=48873910\nPoints: 12\n# Comments: 1",
+      "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+      "link": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+      "summary": "Article URL: https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/\nComments URL: https://news.ycombinator.com/item?id=48876578\nPoints",
       "image": "",
-      "published": "Sat, 11 Jul 2026 17:30:01 +0000",
+      "published": "Sat, 11 Jul 2026 22:48:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Key That Unlocks Everything: Prototype Pollution in JavaScript",
-      "link": "https://dev.to/khuepm/the-key-that-unlocks-everything-prototype-pollution-in-javascript-307o",
-      "summary": "Imagine a hotel where every room key is cut from a master template. When a guest checks in, the front desk hands them a key that opens only their room. Simple enough. Now imagine a guest who, during check-in, sneaks a ti",
+      "title": "Debug tools on application",
+      "link": "https://dev.to/karleeov/debug-tools-on-application-3hba",
+      "summary": "Stop Guessing: How to Capture Exact User Actions for Painless Debugging\n\n\nWe’ve all received that bug report. The one that simply says: \"It’s broken\" or \"I clicked the thing, and the system crashed.\"\n\nAs a developer or I",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:26:13 +0000",
+      "published": "Sun, 12 Jul 2026 01:12:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PassionQA: Turning My Passion for Software Quality into AI-Powered Test Intelligence",
-      "link": "https://dev.to/dhanashri_ugalmugale_6528/passionqa-turning-my-passion-for-software-quality-into-ai-powered-test-intelligence-lpo",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nAs a QA engineer, I spend a lot of time reading requirements,\nquestioning unclear business rules, and thinking about what could break b",
+      "title": "Claude Artifacts: Code Isolation, Version Iteration, and Diagrams with Mermaid",
+      "link": "https://dev.to/gabipdeutner/claude-artifacts-code-isolation-version-iteration-and-diagrams-with-mermaid-3i4i",
+      "summary": "Hello, devs! 😎\n\nHave you ever used Artifacts in Claude?\n\nAn Artifact is a dedicated window right next to the chat where Claude renders \"substantial\" content (such as code, HTML, Markdown, SVG, Mermaid diagrams, React com",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:20:32 +0000",
+      "published": "Sun, 12 Jul 2026 00:59:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The 8-Week AWS Solutions Architect Associate Study Plan I Actually Used (No Fluff)",
-      "link": "https://dev.to/certsrise/the-8-week-aws-solutions-architect-associate-study-plan-i-actually-used-no-fluff-58pe",
-      "summary": "The 8-Week AWS SAA-C03 Study Plan I Used to Score 812 While Working Full-Time\n\n\nEvery AWS Solutions Architect Associate study plan on the internet seems to recommend the same three things:\n\n\nWatch a video course\nTake thr",
+      "title": "Docker Networking, Demystified: Bridge, Host, and Container DNS",
+      "link": "https://dev.to/jjoyneriv/docker-networking-demystified-bridge-host-and-container-dns-5fac",
+      "summary": "Most people meet Docker networking the same way I did: two containers that should be able to talk to each other, and one of them stubbornly refusing to connect. You did nothing wrong on the application side, the code wor",
       "image": "",
-      "published": "Sat, 11 Jul 2026 18:10:28 +0000",
+      "published": "Sun, 12 Jul 2026 00:58:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "THE STAND: Keep the Chant Alive!",
-      "link": "https://dev.to/asynchronope/the-stand-keep-the-chant-alive-25hb",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nTHE STAND is a short Three.js rhythm game about collective passion. You play the capo of a fictional supporters' section during a night",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo6dp3lidvmpmweyje4pc.png",
-      "published": "Sat, 11 Jul 2026 18:07:47 +0000",
+      "title": "Understanding How AI Agents Work?",
+      "link": "https://dev.to/hksoldev/understanding-how-ai-agents-work-18lj",
+      "summary": "What is an AI Agent?\n\nThe AI agent is a tool that helps the user to get the answer/info directly what he is seeking.\n\nIf we just talk in the context of coding only before the AI come coding is like a open book exam where",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 00:58:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bidwatch - Search Live Ebay Auctions Ending Soon",
-      "link": "https://dev.to/hacksore/bidwatch-search-live-ebay-auctions-ending-soon-1393",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nI use ebay.com a lot as a passionate card collector to find auctions. It's super difficult to use their filters on both the web and mob",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fq8d4zlkftdsvp8irjseb.png",
-      "published": "Sat, 11 Jul 2026 18:04:21 +0000",
+      "title": "TrulyFreeOCR – a Java OCR pipeline in a single fat JAR, zero native deps required",
+      "link": "https://dev.to/mark_front_d509d304a2f460/trulyfreeocr-a-java-ocr-pipeline-in-a-single-fat-jar-zero-native-deps-required-27k2",
+      "summary": "Introduction\n\n\nI'm the author of TrulyFreeOCR, an open-source OCR pipeline that turns scanned PDFs into searchable, highly-compressed PDFs. Everything is Apache 2.0 / MIT / BSD — no GPL, no AGPL, no proprietary model wei",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 00:45:42 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateZ()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateY()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
