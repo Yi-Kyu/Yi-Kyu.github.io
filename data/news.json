@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T12:45:01.087065Z",
+  "updated": "2026-07-12T18:43:22.859986Z",
   "articles": [
     {
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
       "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
@@ -79,15 +88,6 @@
       "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
       "image": "",
       "published": "Fri, 10 Jul 2026 13:46:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police suspects Dutch hackers were involved in Odido breach",
-      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 12:37:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Yt-Dlp Sequence Diagrams",
-      "link": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-      "summary": "Article URL: https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video\nComments URL: https://news.ycombinator.com/item?id=48880384\nPoints: 10\n# Comments: 0",
+      "title": "Claude Code May–July 2026 weekly limits promotion",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\nComments URL: https://news.ycombinator.com/item?id=48883064\nPoints: 34\n# Comments: 34",
       "image": "",
-      "published": "Sun, 12 Jul 2026 11:49:38 +0000",
+      "published": "Sun, 12 Jul 2026 18:01:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "link": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
-      "summary": "Article URL: https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html\nComments URL: https://news.ycombinator.com/item?id=4",
+      "title": "Against Usefulness",
+      "link": "https://www.motivenotes.ai/p/against-usefulness",
+      "summary": "Article URL: https://www.motivenotes.ai/p/against-usefulness\nComments URL: https://news.ycombinator.com/item?id=48882956\nPoints: 15\n# Comments: 1",
       "image": "",
-      "published": "Sun, 12 Jul 2026 11:18:32 +0000",
+      "published": "Sun, 12 Jul 2026 17:47:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/\nComments URL: https://news.ycombinator.com/item?id=48880170\nPoints: 62\n# Comments: 9",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "link": "https://www.larp.website/",
+      "summary": "Article URL: https://www.larp.website/\nComments URL: https://news.ycombinator.com/item?id=48882569\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Sun, 12 Jul 2026 11:09:42 +0000",
+      "published": "Sun, 12 Jul 2026 16:56:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france\nComments URL: https://news.ycombinator.com/item?id=48879950\nPoints: 28\n# Comments: 17",
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "link": "https://github.com/hasenj/go-shirei/",
+      "summary": "Article URL: https://github.com/hasenj/go-shirei/\nComments URL: https://news.ycombinator.com/item?id=48882562\nPoints: 34\n# Comments: 18",
       "image": "",
-      "published": "Sun, 12 Jul 2026 10:23:25 +0000",
+      "published": "Sun, 12 Jul 2026 16:55:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "link": "https://dakra.github.io/ghostel/",
-      "summary": "Article URL: https://dakra.github.io/ghostel/\nComments URL: https://news.ycombinator.com/item?id=48879504\nPoints: 45\n# Comments: 0",
+      "title": "Automation Without Understanding",
+      "link": "https://arxiv.org/abs/2607.06377",
+      "summary": "Article URL: https://arxiv.org/abs/2607.06377\nComments URL: https://news.ycombinator.com/item?id=48882554\nPoints: 25\n# Comments: 9",
       "image": "",
-      "published": "Sun, 12 Jul 2026 08:52:59 +0000",
+      "published": "Sun, 12 Jul 2026 16:54:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Built a Graveyard for My Dead Side Projects - With AI Eulogies & a 3D Cemetery",
-      "link": "https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nEvery developer has a graveyard of side projects — started with fire, abandoned quietly on a Tuesday. They deserved better than an empt",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqbwas5bvcius26lawwg3.jpg",
-      "published": "Sun, 12 Jul 2026 12:23:59 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "🧩 Runtime Snapshots #19 - We Opened the Format.",
-      "link": "https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-19-we-opened-the-format-4759",
-      "summary": "Most things that ship under \"browser MCP\" are the same thing wearing different names: an autonomous agent with a do-anything tool, pointed at your browser, told to figure it out. The pitch is capability. The unspoken cos",
+      "title": "Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k",
+      "link": "https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7",
+      "summary": "A new side-by-side measurement shows Claude Code ships roughly 33,000 tokens of system prompt, tool schemas, and scaffolding before your prompt even arrives — about 4.7x the ~7,000 tokens OpenCode sends on the same setup",
       "image": "",
-      "published": "Sun, 12 Jul 2026 12:22:14 +0000",
+      "published": "Sun, 12 Jul 2026 18:39:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What eight years of freelancing taught me about pricing",
-      "link": "https://dev.to/stevensnell/what-eight-years-of-freelancing-taught-me-about-pricing-5oi",
-      "summary": "The first time a client said yes to a quote without hesitating, I felt sick.\n\nThis was early on. I'd sent over a rate for a batch of articles, my palms were actually sweaty over the email, and the reply came back in unde",
+      "title": "I scanned 15 public Lovable apps. 40% load their database in the browser.",
+      "link": "https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p",
+      "summary": "No hacking — a passive scan only looks at what your browser already downloads when it opens a page. Here's what I found:\n\n\n6 of 15 load their Supabase database directly client-side. The public API key sits in the page so",
       "image": "",
-      "published": "Sun, 12 Jul 2026 12:21:35 +0000",
+      "published": "Sun, 12 Jul 2026 18:24:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Heirloom AI - Preserve family memory",
-      "link": "https://dev.to/guo_x_36a154b5e3620014fc8/heirloom-ai-preserve-family-memory-46m3",
-      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nHeirloom AI preserves family recipes &amp; skills using Gemini multimodal AI. Upload handwritten cards, cooking photos, voice recording",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sun, 12 Jul 2026 12:17:37 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "DORA Metrics Measure Delivery Health. What Measures Security Posture Health?",
-      "link": "https://dev.to/bala_paranj_059d338e44e7e/dora-metrics-measure-delivery-health-what-measures-security-posture-health-34c7",
-      "summary": "✓ Human-authored analysis; AI used for formatting and proofreading.\n\n\nDelivery teams have DORA. Four metrics — deployment frequency, lead time for changes, mean time to restore, change failure rate that predict whether a",
+      "title": "The Developer's Guide to Picking the Right Coding LLM at Scale",
+      "link": "https://dev.to/gentleforge/the-developers-guide-to-picking-the-right-coding-llm-at-scale-14dl",
+      "summary": "The Developer's Guide to Picking the Right Coding LLM at Scale\n\nSix months ago, I was staring at our monthly AI bill — $14,000 and climbing fast. We were using the \"premium\" model for everything, including trivial code c",
       "image": "",
-      "published": "Sun, 12 Jul 2026 12:17:36 +0000",
+      "published": "Sun, 12 Jul 2026 18:21:30 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Power BI DAX Essential Functions — Explained with Examples",
+      "link": "https://dev.to/ericmwaimiri/power-bi-dax-essential-functions-explained-with-examples-kif",
+      "summary": "If you’ve ever struggled with CALCULATE() or wondered why SUMX() behaves differently from SUM(), this guide is for you.\nDAX (Data Analysis Expressions) is the language that powers Power BI, Analysis Services, and Power P",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 18:20:08 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Feels Great To be part of this project, its a awesome experince to build this project and completed it on time",
+      "link": "https://dev.to/dronzer2code/feels-great-to-be-part-of-this-project-its-a-awesome-experince-to-build-this-project-and-completed-4kl6",
+      "summary": "We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Sou",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1076361%2F0aa8630b-3826-4103-9ca3-7436013bf933.jpg",
+      "published": "Sun, 12 Jul 2026 18:18:31 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateZ()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateY()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
