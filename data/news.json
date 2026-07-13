@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T18:43:22.859986Z",
+  "updated": "2026-07-13T01:18:39.160876Z",
   "articles": [
     {
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+      "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 20:44:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+      "image": "",
+      "published": "Sun, 12 Jul 2026 15:39:12 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
       "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
       "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
@@ -70,24 +88,6 @@
       "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, th",
       "image": "",
       "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise securi",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 17:59:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
-      "image": "",
-      "published": "Fri, 10 Jul 2026 13:46:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Claude Code May–July 2026 weekly limits promotion",
-      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
-      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion\nComments URL: https://news.ycombinator.com/item?id=48883064\nPoints: 34\n# Comments: 34",
+      "title": "MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)",
+      "link": "https://maxghenis.com/mackenzie-scott-qaly/",
+      "summary": "Article URL: https://maxghenis.com/mackenzie-scott-qaly/\nComments URL: https://news.ycombinator.com/item?id=48886311\nPoints: 16\n# Comments: 3",
       "image": "",
-      "published": "Sun, 12 Jul 2026 18:01:29 +0000",
+      "published": "Mon, 13 Jul 2026 00:18:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Against Usefulness",
-      "link": "https://www.motivenotes.ai/p/against-usefulness",
-      "summary": "Article URL: https://www.motivenotes.ai/p/against-usefulness\nComments URL: https://news.ycombinator.com/item?id=48882956\nPoints: 15\n# Comments: 1",
+      "title": "Billion Dollar PDFs",
+      "link": "https://billiondollarpdf.com/",
+      "summary": "Article URL: https://billiondollarpdf.com/\nComments URL: https://news.ycombinator.com/item?id=48886065\nPoints: 43\n# Comments: 13",
       "image": "",
-      "published": "Sun, 12 Jul 2026 17:47:07 +0000",
+      "published": "Sun, 12 Jul 2026 23:45:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "link": "https://www.larp.website/",
-      "summary": "Article URL: https://www.larp.website/\nComments URL: https://news.ycombinator.com/item?id=48882569\nPoints: 8\n# Comments: 0",
+      "title": "Circular Obstacle Pathfinding (2017)",
+      "link": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+      "summary": "Article URL: https://redblobgames.github.io/circular-obstacle-pathfinding/\nComments URL: https://news.ycombinator.com/item?id=48886040\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sun, 12 Jul 2026 16:56:41 +0000",
+      "published": "Sun, 12 Jul 2026 23:42:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "link": "https://github.com/hasenj/go-shirei/",
-      "summary": "Article URL: https://github.com/hasenj/go-shirei/\nComments URL: https://news.ycombinator.com/item?id=48882562\nPoints: 34\n# Comments: 18",
+      "title": "Designing and assembling my first PCB",
+      "link": "https://vilkeliskis.com/b/2026/0711.html",
+      "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html\nComments URL: https://news.ycombinator.com/item?id=48885728\nPoints: 32\n# Comments: 4",
       "image": "",
-      "published": "Sun, 12 Jul 2026 16:55:42 +0000",
+      "published": "Sun, 12 Jul 2026 22:56:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Automation Without Understanding",
-      "link": "https://arxiv.org/abs/2607.06377",
-      "summary": "Article URL: https://arxiv.org/abs/2607.06377\nComments URL: https://news.ycombinator.com/item?id=48882554\nPoints: 25\n# Comments: 9",
+      "title": "Architecture Description Languages [pdf]",
+      "link": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf\nComments URL: https://news.ycombinator.com/item?id=48885708\nPoints: 14\n# Comments: 1",
       "image": "",
-      "published": "Sun, 12 Jul 2026 16:54:47 +0000",
+      "published": "Sun, 12 Jul 2026 22:54:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k",
-      "link": "https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7",
-      "summary": "A new side-by-side measurement shows Claude Code ships roughly 33,000 tokens of system prompt, tool schemas, and scaffolding before your prompt even arrives — about 4.7x the ~7,000 tokens OpenCode sends on the same setup",
+      "title": "Claude Code Skills Guide: How to Automate Your Development Workflow",
+      "link": "https://dev.to/jamongx/claude-code-skills-guide-how-to-automate-your-development-workflow-39ni",
+      "summary": "Claude Code is a terminal-based coding agent that can automate the repetitive parts of your development workflow, not just generate code.\n\nThis article isn't about installation or basic usage. It's written for developers",
       "image": "",
-      "published": "Sun, 12 Jul 2026 18:39:12 +0000",
+      "published": "Mon, 13 Jul 2026 01:14:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I scanned 15 public Lovable apps. 40% load their database in the browser.",
-      "link": "https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p",
-      "summary": "No hacking — a passive scan only looks at what your browser already downloads when it opens a page. Here's what I found:\n\n\n6 of 15 load their Supabase database directly client-side. The public API key sits in the page so",
+      "title": "Lakehouse Table Formats in 2026: Iceberg, Delta Lake, Hudi, Paimon, and DuckLake, How They Work, Where They Stand, and Where They're Going",
+      "link": "https://dev.to/alexmercedcoder/lakehouse-table-formats-in-2026-iceberg-delta-lake-hudi-paimon-and-ducklake-how-they-work-p1k",
+      "summary": "The table format war is over, and the table formats are not. Both halves of that sentence are true, both matter, and the tension between them is exactly why this article needs to exist.\n\nThe war ended in the sense that t",
       "image": "",
-      "published": "Sun, 12 Jul 2026 18:24:01 +0000",
+      "published": "Mon, 13 Jul 2026 01:12:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Developer's Guide to Picking the Right Coding LLM at Scale",
-      "link": "https://dev.to/gentleforge/the-developers-guide-to-picking-the-right-coding-llm-at-scale-14dl",
-      "summary": "The Developer's Guide to Picking the Right Coding LLM at Scale\n\nSix months ago, I was staring at our monthly AI bill — $14,000 and climbing fast. We were using the \"premium\" model for everything, including trivial code c",
-      "image": "",
-      "published": "Sun, 12 Jul 2026 18:21:30 +0000",
+      "title": "OpenWhen - For Intentional Lovers",
+      "link": "https://dev.to/catheryn/openwhen-for-intentional-lovers-56g8",
+      "summary": "This is a submission for Weekend Challenge: Passion Edition\n\n\n  \n  \n  What I Built\n\n\nOpenWhen is a love letter app for intentional lovers. I built it around a simple belief: passion does not just live in grand gestures o",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Mon, 13 Jul 2026 01:04:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Power BI DAX Essential Functions — Explained with Examples",
-      "link": "https://dev.to/ericmwaimiri/power-bi-dax-essential-functions-explained-with-examples-kif",
-      "summary": "If you’ve ever struggled with CALCULATE() or wondered why SUMX() behaves differently from SUM(), this guide is for you.\nDAX (Data Analysis Expressions) is the language that powers Power BI, Analysis Services, and Power P",
+      "title": "How to Search Google from Claude Code with an MCP Server",
+      "link": "https://dev.to/germey/how-to-search-google-from-claude-code-with-an-mcp-server-3n0i",
+      "summary": "You are deep in a terminal session, debugging a server issue, and the one thing you need is a current search result without breaking your flow.\n\nThat is the small but useful problem this guide solves: wiring Claude Code ",
       "image": "",
-      "published": "Sun, 12 Jul 2026 18:20:08 +0000",
+      "published": "Mon, 13 Jul 2026 01:03:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Feels Great To be part of this project, its a awesome experince to build this project and completed it on time",
-      "link": "https://dev.to/dronzer2code/feels-great-to-be-part-of-this-project-its-a-awesome-experince-to-build-this-project-and-completed-4kl6",
-      "summary": "We Taught a Snowflake Warehouse to Judge World Cup Conviction and Write the Verdict Back to Solana\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Sou",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1076361%2F0aa8630b-3826-4103-9ca3-7436013bf933.jpg",
-      "published": "Sun, 12 Jul 2026 18:18:31 +0000",
+      "title": "Modelagem ER (Entidade Relacionamento)",
+      "link": "https://dev.to/yuripeixinho/modelagem-er-entidade-relacionamento-326",
+      "summary": "Introdução\n\n\nAntes de criar uma única tabela, um banco de dados bem projetado começa no papel. A&nbsp;Modelagem ER&nbsp;é a técnica usada para representar visualmente a estrutura de um domínio — quais coisas existem, qua",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 00:53:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
