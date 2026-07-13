@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-13T08:38:48.957643Z",
+  "updated": "2026-07-13T13:53:04.477577Z",
   "articles": [
+    {
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1600/ms-device-code1.jpg",
+      "published": "Mon, 13 Jul 2026 18:33:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.\n\nEach read gets pinn",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElxdOUOnt8DZ-78o4IBYmmieJL3gm-RPGxQYpkPhzk8o-kMG_bWAGAHjVzPbVEGnkPmhF80RlbaRmvtgVLfABQSKApl6fsQ2RkhkWuZsxF9WR-HnsthEl_bfg4A6w_hMThqQoWAFimIXGTSZ0QLA6DSHprkHQTTp3WNwy-QmyaosOcs3ksJxy5lztSoc/s1600/meta-facebook.jpg",
+      "published": "Mon, 13 Jul 2026 17:24:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV-KJeaayQ7Le5oAYYddL3LmP0k3zaJOoLo9puHLF8y_fVAoBUcJba3ZyyCfJWdvvMBQTt__x0v8iggR1HfDgXOO1b5CD1xZUVr03ZnoO_1moKSeA9iNhOsPoLZMJXG9IwPJYO1NYYPNsWrBqmlx2FHM7tKF5pxRcLXLqSNtnLGP80Q4MxK5vGeB74tug/s1600/slow.jpg",
+      "published": "Mon, 13 Jul 2026 17:07:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.\n\n\"The script looked for the Domain Controller (DC) and ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43TJKqVkJoN7Q3donw2FnXp1IrJEr6vvDteFOBCSR-PptAc8fMXXCq07kvKWoDacCHo6gi5-eUoX9mIBHggv-KXsoH31yBi0-_MZBjxYbiYNlhvAu8V_xhjuKHgnQj43x5S2pORBIGONxE_yLZdZOnDCmcjMegQjhwZtHDThg_4nlhZqwSizsMRCfZFQW/s1600/ps-ai.jpg",
+      "published": "Mon, 13 Jul 2026 16:32:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
       "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
-      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, fo",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FM8eXCuapKSUef3nzFlgzqlX4a5mJChM9YqCdHOi6QybQ8AM1xbM9NNTyAjS3iyz7iAX6vC8QVHl5zFlAgNyBIgm5FHgFkEGzOg5l3ZXNXI8ILA2GIGKtvYDuy-qpXmfeMHYxheps3XuPCtgedFa9vcimwad9kBjpbF0SEhhxpZoWsWybn0zcgNtppI/s1600/cisa-joomla.jpg",
-      "published": "Mon, 13 Jul 2026 11:06:02 +0530",
-      "source": "The Hacker News",
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "The jscrambler npm package was compromised, and simply installing its&nbsp;8.14.0&nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&nbsp;preinstall&nbsp;hook th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg",
-      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
-      "source": "The Hacker News",
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 07:19:05 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between Februa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg",
-      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\nThe vulnerability has been described as a case of ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg",
-      "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-      "source": "The Hacker News",
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure ",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 05:32:23 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
       "image": "",
       "published": "Sun, 12 Jul 2026 15:39:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "image": "",
-      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "image": "",
-      "published": "Sat, 11 Jul 2026 10:18:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, th",
-      "image": "",
-      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Quadrupling code performance with a \"useless\" if",
-      "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-      "summary": "Article URL: https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/\nComments URL: https://news.ycombinator.com/item?id=48889148\nPoints: 19\n# Comments: 2",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/a_green_being/status/2076598897779020159\nComments URL: https://news.ycombinator.com/item?id=48892512\nPoints: 10\n# Comments: 2",
       "image": "",
-      "published": "Mon, 13 Jul 2026 07:37:06 +0000",
+      "published": "Mon, 13 Jul 2026 13:39:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Backtrack-Free Cursive",
-      "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "summary": "Article URL: https://mmapped.blog/posts/52-backtrack-free-cursive\nComments URL: https://news.ycombinator.com/item?id=48888518\nPoints: 47\n# Comments: 10",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "link": "https://twitter.com/i/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/i/status/2076598897779020159\nComments URL: https://news.ycombinator.com/item?id=48892468\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Mon, 13 Jul 2026 06:08:12 +0000",
+      "published": "Mon, 13 Jul 2026 13:35:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sam Neill has died",
-      "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "summary": "Article URL: https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78\nComments URL: https://news.ycombinator.com/item?id=48888468\nPoints: 83\n# Comments: 9",
+      "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+      "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+      "summary": "Article URL: https://www.wired.com/story/sfpd-drone-video-leak-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48891463\nPoints: 55\n# Comments: 57",
       "image": "",
-      "published": "Mon, 13 Jul 2026 06:02:11 +0000",
+      "published": "Mon, 13 Jul 2026 12:09:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "link": "https://github.com/schlae/BeavisUltrasound",
-      "summary": "Article URL: https://github.com/schlae/BeavisUltrasound\nComments URL: https://news.ycombinator.com/item?id=48888193\nPoints: 52\n# Comments: 17",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "link": "https://github.com/floodtide/dom-docx",
+      "summary": "Article URL: https://github.com/floodtide/dom-docx\nComments URL: https://news.ycombinator.com/item?id=48891267\nPoints: 35\n# Comments: 14",
       "image": "",
-      "published": "Mon, 13 Jul 2026 05:15:14 +0000",
+      "published": "Mon, 13 Jul 2026 11:51:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Count Binface",
-      "link": "https://countbinface.com",
-      "summary": "Article URL: https://countbinface.com\nComments URL: https://news.ycombinator.com/item?id=48887753\nPoints: 258\n# Comments: 149",
+      "title": "An Infuriating Goodbye to Photoshop",
+      "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+      "summary": "Article URL: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop\nComments URL: https://news.ycombinator.com/item?id=48891200\nPoints: 98\n# Comments: 50",
       "image": "",
-      "published": "Mon, 13 Jul 2026 04:00:54 +0000",
+      "published": "Mon, 13 Jul 2026 11:46:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Android Battery Draining After Update' 7 Fixes That Work",
-      "link": "https://dev.to/youngones/android-battery-draining-after-update-7-fixes-that-work-5hci",
-      "summary": "Design, Tradeoffs, and Limitations\n\n\nTL;DR – The guide’s design targets cache and sync‑related wake‑locks proven to suppress sleep states (EV‑000008), accepting short‑term latency for long‑term power gains and limiting s",
+      "title": "Access vs Refresh Tokens: I Was Missing Two Ideas",
+      "link": "https://dev.to/abdullahsaad5/access-vs-refresh-tokens-i-was-missing-two-ideas-2c55",
+      "summary": "Years ago I was building a login API, and a colleague looked at what I was returning and asked why I only had one token. He said the newer APIs hand back two, an access token and a refresh token. Mine returned one. So I ",
       "image": "",
-      "published": "Mon, 13 Jul 2026 08:37:22 +0000",
+      "published": "Mon, 13 Jul 2026 13:46:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Demonstrating Backup System Reliability: Evidence-Based Restore Testing for Stakeholder Confidence",
-      "link": "https://dev.to/elenbit/demonstrating-backup-system-reliability-evidence-based-restore-testing-for-stakeholder-confidence-47pi",
-      "summary": "Introduction: The Backup Paradox\n\n\nBackup systems are critical to IT infrastructure, yet their true value lies not in their existence but in their demonstrable restore capabilities. This distinction creates a paradox: wh",
+      "title": "We measured trust on ERC-8004 — and the naive average crowns the wrong agent",
+      "link": "https://dev.to/hanjoon_choe_bdd8d1f719c1/we-measured-trust-on-erc-8004-and-the-naive-average-crowns-the-wrong-agent-18gb",
+      "summary": "ERC-8004 (\"Trustless Agents\") gives AI agents on-chain identity, reputation, and validation registries, now deployed across twenty-plus EVM chains. The registries store raw feedback — who rated whom, and how — and delibe",
       "image": "",
-      "published": "Mon, 13 Jul 2026 08:37:15 +0000",
+      "published": "Mon, 13 Jul 2026 13:45:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What broke in the modern web stack this week (issue 2)",
-      "link": "https://dev.to/stacktraceweekly/what-broke-in-the-modern-web-stack-this-week-issue-2-114k",
-      "summary": "517 changes shipped across 30 tracked developer tools this week. 3 were critical. Here is what actually needs your attention.\n\n\n  \n  \n  Vercel AI SDK @ai-sdk/openai-compatible@2.0.58\n\n\nFixed a security vulnerability wher",
+      "title": "How to Build a Project Management App Like Trello in 2026",
+      "link": "https://dev.to/hugo_rus_630dd942fcf7cc62/how-to-build-a-project-management-app-like-trello-in-2026-3bip",
+      "summary": "Trello's whole data model is three nested objects: boards → lists → cards. Everything else decorates that skeleton.\nThe 2026 stack: React Native + Expo, gesture-handler + reanimated for drag, FlashList for perf, Supabase",
       "image": "",
-      "published": "Mon, 13 Jul 2026 08:37:02 +0000",
+      "published": "Mon, 13 Jul 2026 13:40:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI in Higher Education: Protecting Student Data Privacy",
-      "link": "https://dev.to/youngones/ai-in-higher-education-protecting-student-data-privacy-19pg",
-      "summary": "Design Tradeoffs and Limitations\n\n\n\n  \n  \n  Technical Design Tradeoffs\n\n\nRegex-Based Anonymization vs. ML-Powered Entity Recognition\n\n\n\nApproach Taken: EV-000005 demonstrates that regex-based pattern matching successfull",
+      "title": "I built an open-source MCP server so AI agents can read the web - even sites that block bots",
+      "link": "https://dev.to/proxybrad/i-built-an-open-source-mcp-server-so-ai-agents-can-read-the-web-even-sites-that-block-bots-1oo",
+      "summary": "If you've tried to give an LLM agent web access, you've hit this wall: point it at the real web and a plain fetch breaks two ways.\n\n\n\nJavaScript sites return an empty &lt;div id=\"root\"&gt; shell — the model gets nothing.",
       "image": "",
-      "published": "Mon, 13 Jul 2026 08:36:32 +0000",
+      "published": "Mon, 13 Jul 2026 13:40:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Supervisor: wait out Claude Code usage limits, then auto-resume",
-      "link": "https://dev.to/onamsharma/claude-supervisor-wait-out-claude-code-usage-limits-then-auto-resume-4olf",
-      "summary": "If you use Claude Code for long, agentic tasks,\nyou know the moment: you're mid-refactor, the agent is cooking, and then — usage\nlimit. It stops. You come back an hour or two later, the reset has passed, and\nyou manually",
+      "title": "Our Rust file watcher ate 23.6 GB of RAM, and our ignore rules never had a chance",
+      "link": "https://dev.to/jacksonxly/our-rust-file-watcher-ate-236-gb-of-ram-and-our-ignore-rules-never-had-a-chance-49pn",
+      "summary": "We build a local-first indexer for macOS. It watches the user's home folder so that when a file changes, we reindex just that file. Watching one project directory is a solved problem. Watching a real human's $HOME is a d",
       "image": "",
-      "published": "Mon, 13 Jul 2026 08:35:53 +0000",
+      "published": "Mon, 13 Jul 2026 13:40:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
