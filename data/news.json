@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:06:54.593804Z",
+  "updated": "2026-07-14T01:08:26.696851Z",
   "articles": [
     {
       "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Japan's largest taxi operator shuts systems after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
+      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 16:18:59 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
+      "image": "",
+      "published": "Mon, 13 Jul 2026 15:44:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New CrashStealer malware poses as Apple crash reporting tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
       "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
@@ -70,24 +88,6 @@
       "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
       "image": "",
       "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
-      "image": "",
-      "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-      "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
-      "image": "",
-      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "link": "https://playcode.io/blog/real-price-of-frontier-models",
-      "summary": "Article URL: https://playcode.io/blog/real-price-of-frontier-models\nComments URL: https://news.ycombinator.com/item?id=48896800\nPoints: 7\n# Comments: 1",
+      "title": "What did SFFA vs. Harvard reveal about admissions?",
+      "link": "https://sorting-machine.pages.dev/",
+      "summary": "Article URL: https://sorting-machine.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=48900796\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:32:27 +0000",
+      "published": "Tue, 14 Jul 2026 00:26:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-      "link": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "summary": "Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/\nComments URL: https://news.ycombinator.com/item?id=48896665\nPoints: 13\n# Comments: 2",
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers\nComments URL: https://news.ycombinator.com/item?id=48900432\nPoints: 24\n# Comments: 28",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:22:16 +0000",
+      "published": "Mon, 13 Jul 2026 23:39:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
-      "link": "https://cakehonolulu.github.io/linux-on-32x/",
-      "summary": "Article URL: https://cakehonolulu.github.io/linux-on-32x/\nComments URL: https://news.ycombinator.com/item?id=48896600\nPoints: 6\n# Comments: 1",
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "link": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "summary": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo/Team/Org and Personal level.However, the more we spoke",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:18:25 +0000",
+      "published": "Mon, 13 Jul 2026 23:26:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "link": "https://github.com/morganwilliscloud/billai-bass",
-      "summary": "Article URL: https://github.com/morganwilliscloud/billai-bass\nComments URL: https://news.ycombinator.com/item?id=48896599\nPoints: 4\n# Comments: 2",
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "link": "https://www.contextvault.dev/",
+      "summary": "Hi HN,I'm Kevin. I built ContextVault because I kept running into the same problem with AI tools.Every project accumulated prompts, coding conventions, architectural decisions, examples, and other pieces of context that ",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:18:23 +0000",
+      "published": "Mon, 13 Jul 2026 23:22:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Super Dario",
-      "link": "https://superdario.pawb.de",
-      "summary": "Article URL: https://superdario.pawb.de\nComments URL: https://news.ycombinator.com/item?id=48896286\nPoints: 111\n# Comments: 24",
+      "title": "The AI Whale Fall and Open Source",
+      "link": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "summary": "Article URL: https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/\nComments URL: https://news.ycombinator.com/item?id=48900231\nPoints: 5\n# Comments: 1",
       "image": "",
-      "published": "Mon, 13 Jul 2026 17:53:52 +0000",
+      "published": "Mon, 13 Jul 2026 23:16:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Let Me Show You Which AI Model Actually Writes the Best Code",
-      "link": "https://dev.to/gentlenode/let-me-show-you-which-ai-model-actually-writes-the-best-code-3epa",
-      "summary": "Let Me Show You Which AI Model Actually Writes the Best Code\n\nI've been obsessed with AI coding assistants lately. Like, embarrassingly obsessed. I keep finding excuses to throw real-world problems at different models ju",
+      "title": "AudioTrust: reconciliar C2PA y watermark AudioSeal en audio sintético",
+      "link": "https://dev.to/magopredator/audiotrust-reconciliar-c2pa-y-watermark-audioseal-en-audio-sintetico-1n8f",
+      "summary": "AudioTrust: reconciliar C2PA y watermark AudioSeal en audio sintético\n\n\n\nUn verificador local que lee las dos marcas de confianza de un audio generado por IA (procedencia C2PA + watermark AudioSeal) y emite un veredicto ",
       "image": "",
-      "published": "Mon, 13 Jul 2026 19:00:44 +0000",
+      "published": "Tue, 14 Jul 2026 00:49:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Serving Agent Traffic Without Breaking Your Origin",
-      "link": "https://dev.to/abdalsalaam_halawa_bdca77/serving-agent-traffic-without-breaking-your-origin-fhf",
-      "summary": "You keep an origin healthy while staying open to AI agents by caching the cheap, near-static surfaces agents read most and reserving your compute for the offer data that has to be fresh, not by blocking the agents that w",
+      "title": "Why Your Prompts Fail (And How to Fix Them)",
+      "link": "https://dev.to/blobxiaoyao/why-your-prompts-fail-and-how-to-fix-them-1fb6",
+      "summary": "Here is a reliable test: find a prompt that isn't working. Read it carefully. Now ask yourself — at which specific sentence did the model get permission to do what it did wrong?\n\nYou will almost always find it. A hedged ",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:59:35 +0000",
+      "published": "Tue, 14 Jul 2026 00:49:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a VS Code extension that reads your code aloud and narrates git diffs with AI",
-      "link": "https://dev.to/abhishek_sharma_a9792aee8/i-built-a-vs-code-extension-that-reads-your-code-aloud-and-narrates-git-diffs-with-ai-2e0h",
-      "summary": "I do a lot of doc-heavy and review-heavy work, and I kept losing time re-reading dense markdown and PRs instead of just listening to them. \"Just use a screen reader\" doesn't really work for code — it reads asterisks and ",
+      "title": "A variable I'd refactored into one function — and kept referencing from another. Python's lazy evaluation hid it, and an AST test finally caught it",
+      "link": "https://dev.to/susumun/a-variable-id-refactored-into-one-function-and-kept-referencing-from-another-pythons-lazy-4kli",
+      "summary": "One day the browser automation flow started failing right after plugin updates with NameError: name 'plugin_form_selectors' is not defined in the post-update \"residual check\" step.\n\nThe refactor that introduced this had ",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:55:48 +0000",
+      "published": "Tue, 14 Jul 2026 00:44:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "They Asked for My AI Rules. But I Could Not Just Hand Them Over.",
-      "link": "https://dev.to/jeelvankhede/they-asked-for-my-ai-rules-but-i-could-not-just-hand-them-over-3lhb",
-      "summary": "A team lead announces that the team will start using AI-assisted development. Everyone nods. Nobody asks what that actually means on Monday morning.\n\nSome times ago I was in that position. A project I was working on need",
+      "title": "SilentShare — A Browser-Based Peer-to-Peer File Sharing App",
+      "link": "https://dev.to/meheer_khan/silentshare-a-browser-based-peer-to-peer-file-sharing-app-3lhg",
+      "summary": "Have you ever been in a computer lab, classroom, or office where you needed to quickly send a file between your phone and laptop?\n\nI run into this problem all the time.\n\nSometimes there's no USB cable, no pendrive, Bluet",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:53:06 +0000",
+      "published": "Tue, 14 Jul 2026 00:40:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hyperscalers Are Building the Digital World Like It’s 2015 — And It Shows",
-      "link": "https://dev.to/claireg/hyperscalers-are-building-the-digital-world-like-its-2015-and-it-shows-5318",
-      "summary": "I didn’t set out to diagnose hyperscalers. I wasn’t doing a grand industry analysis. I wasn’t mapping global architecture. I wasn’t trying to understand cloud strategy.\n\nI was just trying to use a popular software provid",
+      "title": "Automating an app with no DOM: driving Flutter/canvas editors with coordinates only",
+      "link": "https://dev.to/mxhlix/automating-an-app-with-no-dom-driving-fluttercanvas-editors-with-coordinates-only-5eci",
+      "summary": "In my last post I said that for normal HTML pages, element-based automation (find / read_page) beats coordinates every time. This post is about the apps where that advice is useless.\n\nFlutter Web apps. Canvas-rendered ed",
       "image": "",
-      "published": "Mon, 13 Jul 2026 18:50:36 +0000",
+      "published": "Tue, 14 Jul 2026 00:35:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
