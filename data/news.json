@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-14T18:55:56.149963Z",
+  "updated": "2026-07-15T01:05:55.285542Z",
   "articles": [
+    {
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;c",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg",
+      "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question is CVE-2026-447",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg",
+      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this and ClaudeBleed need a ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg",
+      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
       "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgVI5ZeWhnWkl-lXmJYMLjAOXmxw21Y3sgxeF9rrOS_JqjQ7k_yyV_2KU_ELhmsm3nA3qNV0farc_31WCAhPPZRq7iIrYm90R_24lvc1f68Gv-yZPsM3bwDiUuCaCBAzq-S8ymLrrD7dx349vEjlR0eID2LXm5SO3Ocq1sG8sWkhAEG9RWX07avTOu3dW/s1600/shim.gif",
-      "published": "Tue, 14 Jul 2026 18:16:18 +0530",
-      "source": "The Hacker News",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [",
+      "image": "",
+      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-      "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way these wallets talk ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg",
-      "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-      "source": "The Hacker News",
+      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+      "image": "",
+      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: sca",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkjrecx65rZWCn-e7KyG-ScNo2HupwMwFl9-XIOcdW1Pls-d0g80WyhkIHPCHTszjYDoUBtmpV_ystgF4Lc6z_noxysLX2xs11QU1jNALxkVa8gW6_QkevNLJkr8mCqupKYHRZSv518HoHlmwpnaYV-qMVyciXNsoMQAS8RrH1rLT2BsLS2t3u52Lrf8/s1600/pentera-main.jpg",
-      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+      "image": "",
+      "published": "Tue, 14 Jul 2026 15:15:17 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -65,30 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-",
       "image": "",
-      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 11:31:52 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,102 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. Thi",
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "link": "https://vpd.ca/",
+      "summary": "Article URL: https://vpd.ca/\nComments URL: https://news.ycombinator.com/item?id=48914644\nPoints: 6\n# Comments: 4",
       "image": "",
-      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "link": "https://prismml.com/news/bonsai-27b",
-      "summary": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 42\n# Comments: 8",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 17:50:48 +0000",
+      "published": "Wed, 15 Jul 2026 00:15:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "link": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security\nComments URL: https://news.ycombinator.com/item?id=48909820\nPoints: 0\n# Comments: 0",
+      "title": "Casio FX-870P Emulator",
+      "link": "https://github.com/urbancamo/fx870p-emulator",
+      "summary": "Article URL: https://github.com/urbancamo/fx870p-emulator\nComments URL: https://news.ycombinator.com/item?id=48913910\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Tue, 14 Jul 2026 17:00:17 +0000",
+      "published": "Tue, 14 Jul 2026 22:47:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Tower Keeps Rising",
-      "link": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/\nComments URL: https://news.ycombinator.com/item?id=48909785\nPoints: 110\n# Comments: 38",
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "link": "https://www.benjamin-bai.com/projects/lemario",
+      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario\nComments URL: https://news.ycombinator.com/item?id=48913763\nPoints: 31\n# Comments: 3",
       "image": "",
-      "published": "Tue, 14 Jul 2026 16:57:54 +0000",
+      "published": "Tue, 14 Jul 2026 22:30:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "link": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "summary": "Article URL: https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html\nComments URL: https://news.ycombinator.com/item?id=48909768\nPoints: 208\n# Comments: 168",
+      "title": "Probably check on your smart appliances",
+      "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/check-your-smart-tv/\nComments URL: https://news.ycombinator.com/item?id=48913457\nPoints: 11\n# Comments: 1",
       "image": "",
-      "published": "Tue, 14 Jul 2026 16:56:48 +0000",
+      "published": "Tue, 14 Jul 2026 22:00:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "link": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "summary": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/\nComments URL: https://news.ycombinator.com/item?id=48909424\nPoints: 207\n# Comments: 110",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "link": "https://www.bis.org/publ/bisbull120.pdf",
+      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf\nComments URL: https://news.ycombinator.com/item?id=48913443\nPoints: 73\n# Comments: 24",
       "image": "",
-      "published": "Tue, 14 Jul 2026 16:36:06 +0000",
+      "published": "Tue, 14 Jul 2026 21:58:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Union‑Find Fellowship: Finding Your Tribe in Code",
-      "link": "https://dev.to/timevolt/the-union-find-fellowship-finding-your-tribe-in-code-583d",
-      "summary": "The Quest Begins (The \"Why\")\n\n\nI still remember the first time I stared at a LeetCode problem that asked me to count the number of islands in a grid. My initial instinct? Run a BFS/DFS from every unvisited land cell, mar",
+      "title": "Designing a Three Reviewer Consensus Platform for Digital Harm Reporting",
+      "link": "https://dev.to/kevincoto/designing-a-three-reviewer-consensus-platform-for-digital-harm-reporting-573o",
+      "summary": "The Problem\n\n\nReal411 is a South African platform where citizens report digital harms: misinformation, incitement, hate speech, and harassment. When someone submits a complaint, it needs to be reviewed by multiple people",
       "image": "",
-      "published": "Tue, 14 Jul 2026 18:48:28 +0000",
+      "published": "Wed, 15 Jul 2026 00:50:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Votre Agent IA est crédule : Pourquoi le \"Prompt Engineering\" ne vous protègera pas en production",
-      "link": "https://dev.to/quentin_merle/votre-agent-ia-est-credule-pourquoi-le-prompt-engineering-ne-vous-protegera-pas-en-production-2kcp",
-      "summary": "La semaine dernière, nous avons vu comment réduire vos coûts d'API en routant les tâches simples vers des modèles locaux. Mais une fois votre IA en production, un autre mur se dresse : la sécurité.\n\nL'industrie tech trav",
+      "title": "Building a Real Time Sports Scoring Engine with WebSockets and DynamoDB Streams",
+      "link": "https://dev.to/kevincoto/building-a-real-time-sports-scoring-engine-with-websockets-and-dynamodb-streams-5c96",
+      "summary": "The Problem\n\n\nSports scoring sounds simple. One team scores a point, the number goes up, everyone sees it. But when you build it as a web application that needs to work on courtside tablets, spectator phones, and wall mo",
       "image": "",
-      "published": "Tue, 14 Jul 2026 18:46:25 +0000",
+      "published": "Wed, 15 Jul 2026 00:49:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RocheDB v0.5.0: Data Locality for RAG and LLM Retrieval",
-      "link": "https://dev.to/puffball1567/rochedb-v050-data-locality-for-rag-and-llm-retrieval-5hed",
-      "summary": "RocheDB v0.5.0 has been released.\n\nRelease:\ngithub.com/puffball1567/rochedb/releases/tag/v0.5.0\n\nRocheDB is an open-source NoSQL document and vector store written in Nim.\n\nThe project is built around one idea:\n\n\nData loc",
+      "title": "st – The missing unified installer and runner for Smalltalk",
+      "link": "https://dev.to/hernanfmd/st-the-missing-unified-installer-and-runner-for-smalltalk-53ho",
+      "summary": "Smalltalk has excellent live environments, but managing the different VMs, images, and installers for Pharo, Cuis, Squeak, Glamorous Toolkit, GNU Smalltalk, etc. is painful.\n\nI made st — a lightweight shell-based CLI tha",
       "image": "",
-      "published": "Tue, 14 Jul 2026 18:44:35 +0000",
+      "published": "Wed, 15 Jul 2026 00:45:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Cohesion Series and IVP — Five Papers Published",
-      "link": "https://dev.to/yannick555/the-cohesion-series-and-ivp-five-papers-published-40b",
-      "summary": "The cohesion paper series is now published in full — five papers that build a chain from the concept of cohesion to the Independent Variation Principle (IVP).\n\nThe chain:\n\n\nOn the Nature of Cohesion — defines cohesion as",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 18:38:07 +0000",
+      "title": "Stratagems #14: Leo Found an AI Leak. He Wasn't the First to Find It.",
+      "link": "https://dev.to/xulingfeng/stratagems-14-leo-found-an-ai-leak-he-wasnt-the-first-to-find-it-jd6",
+      "summary": "Take the opportunity to pilfer a goat.\n— The 36 Stratagems, Take the Opportunity to Pilfer a Goat\n\n\n\n\n\nPreviously on this series:\n#5: Leo Walked Into a Burning House. He Walked Out With a Client. — At 1 AM, Leo received ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
+      "published": "Wed, 15 Jul 2026 00:40:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "About that 'your 997 says rejected but not why' problem...",
-      "link": "https://dev.to/jgravelle/about-that-your-997-says-rejected-but-not-why-problem-1ab3",
-      "summary": "Somebody on Reddit posted about 997s that just say AK5*R*5 — one or more segments in error — no AK3, no AK4.\n\nPreach.\n\nThat's the problem this free doohickey* is for: rejectdecoder.com\n\n*If you'd prefer a \"gizmo\", I can ",
+      "title": "Seven things to check before a WordPress major upgrade — before \"patch what breaks after\" becomes a disaster",
+      "link": "https://dev.to/susumun/seven-things-to-check-before-a-wordpress-major-upgrade-before-patch-what-breaks-after-becomes-a-32f7",
+      "summary": "WordPress major version upgrades (5.x → 6.x, and eventually 6.x → 7.x) are a different animal from minor releases. Minor releases (like 6.4.1 → 6.4.2) are mostly bug fixes with low compatibility risk. Majors land API dep",
       "image": "",
-      "published": "Tue, 14 Jul 2026 18:35:52 +0000",
+      "published": "Wed, 15 Jul 2026 00:37:22 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateZ()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
+      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "translateY()",
+      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
+      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+      "image": "",
+      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
