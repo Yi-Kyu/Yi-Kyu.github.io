@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-15T01:05:55.285542Z",
+  "updated": "2026-07-15T07:44:29.910488Z",
   "articles": [
+    {
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.\n\nThe vulner",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg",
+      "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
       "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
@@ -34,15 +43,6 @@
       "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates a reus",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg",
       "published": "Tue, 14 Jul 2026 22:22:37 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg",
-      "published": "Tue, 14 Jul 2026 19:18:07 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "link": "https://vpd.ca/",
-      "summary": "Article URL: https://vpd.ca/\nComments URL: https://news.ycombinator.com/item?id=48914644\nPoints: 6\n# Comments: 4",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "link": "https://www.ayush.digital/blog/the-memory-heist",
+      "summary": "Article URL: https://www.ayush.digital/blog/the-memory-heist\nComments URL: https://news.ycombinator.com/item?id=48916975\nPoints: 74\n# Comments: 27",
       "image": "",
-      "published": "Wed, 15 Jul 2026 00:15:53 +0000",
+      "published": "Wed, 15 Jul 2026 06:28:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Casio FX-870P Emulator",
-      "link": "https://github.com/urbancamo/fx870p-emulator",
-      "summary": "Article URL: https://github.com/urbancamo/fx870p-emulator\nComments URL: https://news.ycombinator.com/item?id=48913910\nPoints: 12\n# Comments: 2",
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "summary": "Article URL: https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/\nComments URL: https://news.ycombinator.com/item?id=48916805\nPoints: 18\n# Comments: 2",
       "image": "",
-      "published": "Tue, 14 Jul 2026 22:47:58 +0000",
+      "published": "Wed, 15 Jul 2026 06:02:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "link": "https://www.benjamin-bai.com/projects/lemario",
-      "summary": "Article URL: https://www.benjamin-bai.com/projects/lemario\nComments URL: https://news.ycombinator.com/item?id=48913763\nPoints: 31\n# Comments: 3",
+      "title": "Jurassic Park computers in excruciating detail",
+      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html\nComments URL: https://news.ycombinator.com/item?id=48915709\nPoints: 319\n# Comments: 74",
       "image": "",
-      "published": "Tue, 14 Jul 2026 22:30:47 +0000",
+      "published": "Wed, 15 Jul 2026 02:57:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Probably check on your smart appliances",
-      "link": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "summary": "Article URL: https://xeiaso.net/notes/2026/check-your-smart-tv/\nComments URL: https://news.ycombinator.com/item?id=48913457\nPoints: 11\n# Comments: 1",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "link": "https://tailscale.com/security-bulletins",
+      "summary": "Article URL: https://tailscale.com/security-bulletins\nComments URL: https://news.ycombinator.com/item?id=48915004\nPoints: 128\n# Comments: 55",
       "image": "",
-      "published": "Tue, 14 Jul 2026 22:00:41 +0000",
+      "published": "Wed, 15 Jul 2026 01:08:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "link": "https://www.bis.org/publ/bisbull120.pdf",
-      "summary": "Article URL: https://www.bis.org/publ/bisbull120.pdf\nComments URL: https://news.ycombinator.com/item?id=48913443\nPoints: 73\n# Comments: 24",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "link": "https://www.starfleetmath.com/",
+      "summary": "Article URL: https://www.starfleetmath.com/\nComments URL: https://news.ycombinator.com/item?id=48914646\nPoints: 117\n# Comments: 51",
       "image": "",
-      "published": "Tue, 14 Jul 2026 21:58:36 +0000",
+      "published": "Wed, 15 Jul 2026 00:15:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Designing a Three Reviewer Consensus Platform for Digital Harm Reporting",
-      "link": "https://dev.to/kevincoto/designing-a-three-reviewer-consensus-platform-for-digital-harm-reporting-573o",
-      "summary": "The Problem\n\n\nReal411 is a South African platform where citizens report digital harms: misinformation, incitement, hate speech, and harassment. When someone submits a complaint, it needs to be reviewed by multiple people",
+      "title": "RxJS in Angular — Chapter 10 (Final) | Real-World Patterns, Best Practices & Everything That Actually Matters",
+      "link": "https://dev.to/jps27cse/rxjs-in-angular-chapter-10-final-real-world-patterns-best-practices-everything-that-mid",
+      "summary": "👋 Welcome to the Final Chapter!\n\n\nYou've made it. 🎉\n\nOver the past 9 chapters, you've learned Observables, subscribe, pipe, map, filter, tap, switchMap, mergeMap, concatMap, Subject, BehaviorSubject, error handling, comb",
       "image": "",
-      "published": "Wed, 15 Jul 2026 00:50:41 +0000",
+      "published": "Wed, 15 Jul 2026 07:38:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Real Time Sports Scoring Engine with WebSockets and DynamoDB Streams",
-      "link": "https://dev.to/kevincoto/building-a-real-time-sports-scoring-engine-with-websockets-and-dynamodb-streams-5c96",
-      "summary": "The Problem\n\n\nSports scoring sounds simple. One team scores a point, the number goes up, everyone sees it. But when you build it as a web application that needs to work on courtside tablets, spectator phones, and wall mo",
+      "title": "RAG vs Fine-tuning",
+      "link": "https://dev.to/vahid_aghajani_60ce9dbec9/rag-vs-fine-tuning-2m64",
+      "summary": "📺 Prefer to watch? 90-second YouTube Short · 💬 Telegram\n\n\nOriginally published on software-engineer-blog.com.\n\nThe single most expensive misconception in applied AI right now is that fine-tuning teaches a model your docu",
       "image": "",
-      "published": "Wed, 15 Jul 2026 00:49:11 +0000",
+      "published": "Wed, 15 Jul 2026 07:35:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "st – The missing unified installer and runner for Smalltalk",
-      "link": "https://dev.to/hernanfmd/st-the-missing-unified-installer-and-runner-for-smalltalk-53ho",
-      "summary": "Smalltalk has excellent live environments, but managing the different VMs, images, and installers for Pharo, Cuis, Squeak, Glamorous Toolkit, GNU Smalltalk, etc. is painful.\n\nI made st — a lightweight shell-based CLI tha",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 00:45:09 +0000",
+      "title": "How I Stopped an AI Agent from Freezing with Two Lines of Code",
+      "link": "https://dev.to/aniruddhaadak/how-i-stopped-an-ai-agent-from-freezing-with-two-lines-of-code-1f1k",
+      "summary": "Have you ever asked someone a question and they just stared at you blankly. It is awkward for humans, but for software, it can cause a complete crash.\n\nI recently contributed a bug fix to the Hermes Agent project. It is ",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Wed, 15 Jul 2026 07:35:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stratagems #14: Leo Found an AI Leak. He Wasn't the First to Find It.",
-      "link": "https://dev.to/xulingfeng/stratagems-14-leo-found-an-ai-leak-he-wasnt-the-first-to-find-it-jd6",
-      "summary": "Take the opportunity to pilfer a goat.\n— The 36 Stratagems, Take the Opportunity to Pilfer a Goat\n\n\n\n\n\nPreviously on this series:\n#5: Leo Walked Into a Burning House. He Walked Out With a Client. — At 1 AM, Leo received ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
-      "published": "Wed, 15 Jul 2026 00:40:43 +0000",
+      "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+      "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+      "summary": "When I started learning React, I thought useEffect was the solution to almost everything. To derive state, to fetch data, to synchronize props or calculate a value, the answer for all this was useEffect.\nAfter working on",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 07:26:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Seven things to check before a WordPress major upgrade — before \"patch what breaks after\" becomes a disaster",
-      "link": "https://dev.to/susumun/seven-things-to-check-before-a-wordpress-major-upgrade-before-patch-what-breaks-after-becomes-a-32f7",
-      "summary": "WordPress major version upgrades (5.x → 6.x, and eventually 6.x → 7.x) are a different animal from minor releases. Minor releases (like 6.4.1 → 6.4.2) are mostly bug fixes with low compatibility risk. Majors land API dep",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 00:37:22 +0000",
+      "title": "Топ 5 ИИ сказали, что мой смарт-контракт идеален. Я заставил их работать вместе и они нашли 4 бага",
+      "link": "https://dev.to/vladislavshter/top-5-ii-skazali-chto-moi-smart-kontrakt-idiealien-ia-zastavil-ikh-rabotat-vmiestie-i-oni-nashli-4-bagha-4h4h",
+      "summary": "Для надежного аудита смарт-контрактов Web3 и устранения слепых зон одиночных нейросетей применяется локальный многоагентный консилиум ИИ — система Egregor. При тестировании контрактов банка SovereignBankWeb3 одиночные мо",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn1h6en4n2xz801rhuuwg.png",
+      "published": "Wed, 15 Jul 2026 07:22:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
@@ -236,7 +236,7 @@
       "category": "development"
     },
     {
-      "title": "What’s !important #14: Gap Decorations, random(),  field sizing, and More",
+      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
       "link": "https://css-tricks.com/whats-important-14/",
       "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
       "image": "",
