@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-15T13:01:19.361450Z",
+  "updated": "2026-07-15T18:49:07.135300Z",
   "articles": [
+    {
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language m",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKa1OIdUu8LgLPgZkc9qbOTzhARf1dEJa_fzyVt7vvSzidHy3Lrb-2R4hs2ryt9b4Aq3zOnJRtWVuQ8KHKUZ5x9Iv6Q0vGTVMPxNMLTdGaNsquyrL18QXk8TcMP2nEwFHE1snKt2aG6rEmyVMwRp7Fk4G_x_sXjk_4AmYWsH2JCvOe2Adut2PZbLVc4YI/s1600/tuxbot.jpg",
+      "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.\n\nOn an infected PC, the request comes f",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz558IbCLKi1RAJRcX_tLnJrGR3xjXSXfBJHnREqKc0aTs9Ie67rKN6xRHDV4g6JNByEH5Vr-x-14HOK8dSKj_B6HFn303OMiFrpr2wHf9PNUONqlUPn8IdMzr9QoZB9uWq14ElryYTydVAUXNeCARv-cN7KMmmwfb9FpMw_NCDIk8faF6QlSboXey08/s1600/seed.jpg",
+      "published": "Wed, 15 Jul 2026 21:00:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15718, an invalid pointer in the JavaSc",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg",
+      "published": "Wed, 15 Jul 2026 18:48:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
       "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.\n\nThis on-demand webinar reveals how this Approv",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKYTg22vVssJ3SSHZzP0PtS8d5g8oCH2fU2IkXoBoIPOR4-XblNQ7Hg6S-qkO6bIB9JLC3yI4QdpQ4iNWsQsu9QnMpNbHdHzwHhRyX0zr-Vklk2DaCe3UlOd8M53pp5Uu_mfds265f_MsrF_RaQ-lnPEc3b5UoIVsTIV-On5qJ9DqMpk05AsKM3FhlgtXV/s1600/ref.jpg",
-      "published": "Wed, 15 Jul 2026 16:36:57 +0530",
-      "source": "The Hacker News",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s1600/git.png",
-      "published": "Wed, 15 Jul 2026 16:25:22 +0530",
-      "source": "The Hacker News",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 11:37:27 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\nThe affected packages are ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXEluWW9TuNGlzu9wVHSDBzAeUuoRS9Om8kX9yzH-HwCjggh-N5ycLyuJ82oY3MP4Uvf9yF_PqwKhcZepDBEH_pOb3td4dPRuuGSWi5XndfpeuqiMipzKIq0Vofc-hOBGj4nWxmXbjMS7RvHkZCUSHloOpsS6m7jpwwFX-2KUkYwrQdt-ClrGXpt2C9TxC/s1600/async-npm.jpg",
-      "published": "Wed, 15 Jul 2026 14:46:13 +0530",
-      "source": "The Hacker News",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a prev",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
       "image": "",
       "published": "Wed, 15 Jul 2026 04:26:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US charges alleged operators of Russian bulletproof hosting service",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-      "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwi",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 03:45:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "link": "https://jiga.io/about-us/",
-      "summary": "Article URL: https://jiga.io/about-us/\nComments URL: https://news.ycombinator.com/item?id=48919510\nPoints: 0\n# Comments: 0",
+      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "link": "https://thinkingmachines.ai/inkling/",
+      "summary": "Article URL: https://thinkingmachines.ai/inkling/\nComments URL: https://news.ycombinator.com/item?id=48924929\nPoints: 11\n# Comments: 1",
       "image": "",
-      "published": "Wed, 15 Jul 2026 12:00:23 +0000",
+      "published": "Wed, 15 Jul 2026 18:14:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Make people pay to get into your inbox",
-      "link": "https://www.captchainbox.com",
-      "summary": "Article URL: https://www.captchainbox.com\nComments URL: https://news.ycombinator.com/item?id=48919489\nPoints: 28\n# Comments: 39",
+      "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
+      "link": "https://github.com/jbunke/painterly",
+      "summary": "Painterly is an application that \"paints\" input images stroke by stroke to produce digital paintings. GenAI is not used in any part of the production pipeline.There is a free demo available under Releases on the GitHub r",
       "image": "",
-      "published": "Wed, 15 Jul 2026 11:58:54 +0000",
+      "published": "Wed, 15 Jul 2026 17:01:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "summary": "Article URL: https://academic.oup.com/sleep/article/47/1/zsad253/7280269\nComments URL: https://news.ycombinator.com/item?id=48919363\nPoints: 115\n# Comments: 48",
+      "title": "Artie (YC S23) Is Hiring Software Engineers",
+      "link": "https://jobs.ashbyhq.com/artie",
+      "summary": "Article URL: https://jobs.ashbyhq.com/artie\nComments URL: https://news.ycombinator.com/item?id=48923833\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 15 Jul 2026 11:46:06 +0000",
+      "published": "Wed, 15 Jul 2026 17:01:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Filmgrab: Films A-Z",
-      "link": "https://film-grab.com/movies-a-z/",
-      "summary": "Article URL: https://film-grab.com/movies-a-z/\nComments URL: https://news.ycombinator.com/item?id=48919265\nPoints: 5\n# Comments: 2",
+      "title": "A General Goal-Conditioned Minecraft Model",
+      "link": "https://pantograph.com/journal/pan-1",
+      "summary": "Article URL: https://pantograph.com/journal/pan-1\nComments URL: https://news.ycombinator.com/item?id=48923412\nPoints: 21\n# Comments: 9",
       "image": "",
-      "published": "Wed, 15 Jul 2026 11:34:20 +0000",
+      "published": "Wed, 15 Jul 2026 16:35:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Prioritize mental health, and why communication is so important",
-      "link": "https://ramones.dev/posts/mental-health/",
-      "summary": "Article URL: https://ramones.dev/posts/mental-health/\nComments URL: https://news.ycombinator.com/item?id=48919198\nPoints: 36\n# Comments: 5",
+      "title": "Collection of Digital Clock Designs",
+      "link": "https://clocks.dev",
+      "summary": "Article URL: https://clocks.dev\nComments URL: https://news.ycombinator.com/item?id=48923380\nPoints: 45\n# Comments: 12",
       "image": "",
-      "published": "Wed, 15 Jul 2026 11:27:35 +0000",
+      "published": "Wed, 15 Jul 2026 16:33:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From A10 to M60: An Architect's Journey into Azure GPU VM Sizing for Kubernetes Inference Workloads",
-      "link": "https://dev.to/archcode01/from-a10-to-m60-an-architects-journey-into-azure-gpu-vm-sizing-for-kubernetes-inference-workloads-4hjj",
-      "summary": "How an unexpected regional constraint forced us to deeply understand Azure GPU VM families, naming conventions, and workload fit.\n\n\n  \n  \n  Introduction\n\n\nAs architects, we often assume that infrastructure decisions are ",
+      "title": "find command finds things",
+      "link": "https://dev.to/echen4628/find-command-finds-things-506",
+      "summary": "Recently I learned: find is a useful command to find files in your directories.\n\n\n\nfind folder1 folder2 folder3\n\n\n\n\n\n\nThis dumps every file and directory under those folders.\n\nIt also supports flags such as -name \"*.txt\"",
       "image": "",
-      "published": "Wed, 15 Jul 2026 12:45:45 +0000",
+      "published": "Wed, 15 Jul 2026 18:47:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Almost Hand-Wrote a FHIR Schema. Then I Found Out I Didn't Have To.",
-      "link": "https://dev.to/deep-27/i-almost-hand-wrote-a-fhir-schema-then-i-found-out-i-didnt-have-to-30p9",
-      "summary": "A hospital-network client wanted our system to output patient data in actual FHIR format - the standard interoperability format healthcare systems use to talk to each other - instead of whatever shape we felt like invent",
+      "title": "Built an autonomous dependency upgrader using Loop Engineering and LangGraph",
+      "link": "https://dev.to/sagar_sr_65f558d4eef3b46b/built-an-autonomous-dependency-upgrader-using-loop-engineering-and-langgraph-22a3",
+      "summary": "You have a project with 20 dependencies. Half of them are outdated. Running ncu -u or pip install --upgrade upgrades all of them at once — and when something breaks, you have no idea which package caused it.\n\nSo you don'",
       "image": "",
-      "published": "Wed, 15 Jul 2026 12:45:39 +0000",
+      "published": "Wed, 15 Jul 2026 18:44:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TIL: identify. Check it out! man identify",
-      "link": "https://dev.to/highcenburg/til-identify-check-it-out-man-identify-5cn0",
-      "summary": "",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 12:40:56 +0000",
+      "title": "✅ Beats 99.44% | O(N) Manacher's Algorithm with Mirror Boundary Optimization",
+      "link": "https://dev.to/dipadityadas/beats-9944-on-manachers-algorithm-with-mirror-boundary-optimization-3lec",
+      "summary": "Intuition\n\n\nManacher's Algorithm leverages the symmetry of palindromes to avoid redundant comparisons. Instead of treating odd- and even-length palindromes separately, the input string is transformed by inserting a speci",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99f6ltoj25ivf3sp9zyr.png",
+      "published": "Wed, 15 Jul 2026 18:36:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bypassing AMM Slippage: How Typelex Uses On-Chain Atomic Swaps for MEV-Proof OTC Trading",
-      "link": "https://dev.to/typelex/bypassing-amm-slippage-how-typelex-uses-on-chain-atomic-swaps-for-mev-proof-otc-trading-1759",
-      "summary": "If you’ve ever built or interacted with DeFi protocols, you know the mathematical limitations of Constant Product Market Makers ($x \\times y = k$). While AMMs are great for retail liquidity, executing a large transaction",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 12:39:04 +0000",
+      "title": "A diagram is data, not a drawing",
+      "link": "https://dev.to/msteja/a-diagram-is-data-not-a-drawing-4ej6",
+      "summary": "I gave one model the same 44-node architecture twice.\n\nThe first time I asked for raw SVG — place every box, route every edge, hand me the coordinates. The second time I asked it to describe the same system as typed JSON",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfokttr32xkd52qq9ujs.png",
+      "published": "Wed, 15 Jul 2026 18:35:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My MCP Server Only Talks to APIs I Trust. That Doesn't Mean the Data Coming Back Is Trustworthy.",
-      "link": "https://dev.to/enjoy_kumawat/my-mcp-server-only-talks-to-apis-i-trust-that-doesnt-mean-the-data-coming-back-is-trustworthy-1m0e",
-      "summary": "I built a small MCP server a while back — developer-presence, seven tools wrapping the GitHub REST API and the DEV.to API so an agent can check my repo stats, list my articles, or draft a new post without me leaving the ",
+      "title": "pinto: A Git-Native Scrum Backlog and Kanban Board for Your Terminal",
+      "link": "https://dev.to/moriturus/pinto-a-git-native-scrum-backlog-and-kanban-board-for-your-terminal-509",
+      "summary": "pinto lets teams manage Scrum backlogs as plain text.\n\nEvery backlog change can be inspected with git diff, carried across a branch, merged, and reviewed in a pull request—just like source code. The backlog follows the s",
       "image": "",
-      "published": "Wed, 15 Jul 2026 12:36:21 +0000",
+      "published": "Wed, 15 Jul 2026 18:35:18 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new ",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateY()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-      "summary": "The translateY() function shifts an element vertically by the specified amount. \n\ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:17:56 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
