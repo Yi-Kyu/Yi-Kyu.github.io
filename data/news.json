@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T18:49:07.135300Z",
+  "updated": "2026-07-16T01:14:26.437010Z",
   "articles": [
     {
       "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Dutch police bust investment fraud ring stealing over €100 million",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
+      "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 17:55:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
       "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
       "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
@@ -70,24 +88,6 @@
       "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a prev",
       "image": "",
       "published": "Wed, 15 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 04:26:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-      "link": "https://thinkingmachines.ai/inkling/",
-      "summary": "Article URL: https://thinkingmachines.ai/inkling/\nComments URL: https://news.ycombinator.com/item?id=48924929\nPoints: 11\n# Comments: 1",
+      "title": "Show HN: One More Letter",
+      "link": "https://playonemoreletter.com/",
+      "summary": "Article URL: https://playonemoreletter.com/\nComments URL: https://news.ycombinator.com/item?id=48928402\nPoints: 20\n# Comments: 15",
       "image": "",
-      "published": "Wed, 15 Jul 2026 18:14:23 +0000",
+      "published": "Wed, 15 Jul 2026 23:10:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
-      "link": "https://github.com/jbunke/painterly",
-      "summary": "Painterly is an application that \"paints\" input images stroke by stroke to produce digital paintings. GenAI is not used in any part of the production pipeline.There is a free demo available under Releases on the GitHub r",
+      "title": "Nul Characters in Strings in SQLite",
+      "link": "https://sqlite.org/nulinstr.html",
+      "summary": "Article URL: https://sqlite.org/nulinstr.html\nComments URL: https://news.ycombinator.com/item?id=48928343\nPoints: 25\n# Comments: 2",
       "image": "",
-      "published": "Wed, 15 Jul 2026 17:01:34 +0000",
+      "published": "Wed, 15 Jul 2026 23:03:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Artie (YC S23) Is Hiring Software Engineers",
-      "link": "https://jobs.ashbyhq.com/artie",
-      "summary": "Article URL: https://jobs.ashbyhq.com/artie\nComments URL: https://news.ycombinator.com/item?id=48923833\nPoints: 0\n# Comments: 0",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "summary": "Article URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\nComments URL: https://news.ycombinator.com/item?id=48928313\nPoints: 30\n# Comments: 7",
       "image": "",
-      "published": "Wed, 15 Jul 2026 17:01:02 +0000",
+      "published": "Wed, 15 Jul 2026 23:00:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A General Goal-Conditioned Minecraft Model",
-      "link": "https://pantograph.com/journal/pan-1",
-      "summary": "Article URL: https://pantograph.com/journal/pan-1\nComments URL: https://news.ycombinator.com/item?id=48923412\nPoints: 21\n# Comments: 9",
+      "title": "The Anti-Mac User Interface (1996)",
+      "link": "https://www.nngroup.com/articles/anti-mac-interface/",
+      "summary": "Article URL: https://www.nngroup.com/articles/anti-mac-interface/\nComments URL: https://news.ycombinator.com/item?id=48928234\nPoints: 42\n# Comments: 12",
       "image": "",
-      "published": "Wed, 15 Jul 2026 16:35:09 +0000",
+      "published": "Wed, 15 Jul 2026 22:52:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Collection of Digital Clock Designs",
-      "link": "https://clocks.dev",
-      "summary": "Article URL: https://clocks.dev\nComments URL: https://news.ycombinator.com/item?id=48923380\nPoints: 45\n# Comments: 12",
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "Article URL: https://mort.coffee/home/sqlite-editions/\nComments URL: https://news.ycombinator.com/item?id=48928135\nPoints: 97\n# Comments: 35",
       "image": "",
-      "published": "Wed, 15 Jul 2026 16:33:15 +0000",
+      "published": "Wed, 15 Jul 2026 22:42:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "find command finds things",
-      "link": "https://dev.to/echen4628/find-command-finds-things-506",
-      "summary": "Recently I learned: find is a useful command to find files in your directories.\n\n\n\nfind folder1 folder2 folder3\n\n\n\n\n\n\nThis dumps every file and directory under those folders.\n\nIt also supports flags such as -name \"*.txt\"",
+      "title": "Update — Electron Linux Message Box Fix Merged Downstream, Upstream Review Still Pending",
+      "link": "https://dev.to/scarab-systems/update-electron-linux-message-box-fix-merged-downstream-upstream-review-still-pending-j2o",
+      "summary": "The Electron Linux message-box repair from Field Test #042 has now been merged into a downstream package, while the original upstream Electron pull request remains open.\n\nThe downstream update upgraded Electron to versio",
       "image": "",
-      "published": "Wed, 15 Jul 2026 18:47:13 +0000",
+      "published": "Thu, 16 Jul 2026 01:00:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Built an autonomous dependency upgrader using Loop Engineering and LangGraph",
-      "link": "https://dev.to/sagar_sr_65f558d4eef3b46b/built-an-autonomous-dependency-upgrader-using-loop-engineering-and-langgraph-22a3",
-      "summary": "You have a project with 20 dependencies. Half of them are outdated. Running ncu -u or pip install --upgrade upgrades all of them at once — and when something breaks, you have no idea which package caused it.\n\nSo you don'",
+      "title": "Why You Cant Just Call a Bank API: Open Banking Authentication Explained for Developers",
+      "link": "https://dev.to/johnfrandsen/why-you-cant-just-call-a-bank-api-open-banking-authentication-explained-for-developers-5e9a",
+      "summary": "If you've ever tried to hit a bank's API directly and hit a wall of certificates, registration forms, and regulatory compliance documents — you're not alone. Open banking APIs promise programmatic access to financial dat",
       "image": "",
-      "published": "Wed, 15 Jul 2026 18:44:51 +0000",
+      "published": "Thu, 16 Jul 2026 00:52:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "✅ Beats 99.44% | O(N) Manacher's Algorithm with Mirror Boundary Optimization",
-      "link": "https://dev.to/dipadityadas/beats-9944-on-manachers-algorithm-with-mirror-boundary-optimization-3lec",
-      "summary": "Intuition\n\n\nManacher's Algorithm leverages the symmetry of palindromes to avoid redundant comparisons. Instead of treating odd- and even-length palindromes separately, the input string is transformed by inserting a speci",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F99f6ltoj25ivf3sp9zyr.png",
-      "published": "Wed, 15 Jul 2026 18:36:13 +0000",
+      "title": "This Week In PHP Internals | July 15, 2026",
+      "link": "https://dev.to/projektgopher/this-week-in-php-internals-july-15-2026-4nhb",
+      "summary": "Hello world, it's Wednesday, July 15, 2026, and here's what happened This Week in PHP Internals.\n\nThis week's episode is brought to you by Tideways. Something in production is slow — and you can't see where. Tideways tak",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 00:50:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A diagram is data, not a drawing",
-      "link": "https://dev.to/msteja/a-diagram-is-data-not-a-drawing-4ej6",
-      "summary": "I gave one model the same 44-node architecture twice.\n\nThe first time I asked for raw SVG — place every box, route every edge, hand me the coordinates. The second time I asked it to describe the same system as typed JSON",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvfokttr32xkd52qq9ujs.png",
-      "published": "Wed, 15 Jul 2026 18:35:34 +0000",
+      "title": "I built 8 security layers for an MCP marketplace. Here's what each one actually catches.",
+      "link": "https://dev.to/edison_flores_6d2cd381b13/i-built-8-security-layers-for-an-mcp-marketplace-heres-what-each-one-actually-catches-49fc",
+      "summary": "After a real trojan slipped through my MCP marketplace last week (Trojan:Win64/Lazy.PGPK!MTB hidden in a nested zip), I went deep on defense-in-depth. The result is 8 layers running in production at marketnow.site.\n\nHere",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 00:48:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "pinto: A Git-Native Scrum Backlog and Kanban Board for Your Terminal",
-      "link": "https://dev.to/moriturus/pinto-a-git-native-scrum-backlog-and-kanban-board-for-your-terminal-509",
-      "summary": "pinto lets teams manage Scrum backlogs as plain text.\n\nEvery backlog change can be inspected with git diff, carried across a branch, merged, and reviewed in a pull request—just like source code. The backlog follows the s",
+      "title": "Codex encrypted its sub-agent prompts. Gate the spawn plan.",
+      "link": "https://dev.to/alex_spinov/codex-encrypted-its-sub-agent-prompts-gate-the-spawn-plan-47j7",
+      "summary": "Pre-dispatch authorization for AI sub-agents means checking a child spawn's grant envelope (its role, tools, path scope and token budget) against the parent's policy in the last plaintext moment before handoff, not by re",
       "image": "",
-      "published": "Wed, 15 Jul 2026 18:35:18 +0000",
+      "published": "Thu, 16 Jul 2026 00:48:38 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Similar to last time, What’s !important #15 is pretty stacked — read all about boundary-aware CSS, making grid lanes accessible, creating time-based web designs, fixing full-bleed CSS, improving customizable select, new ",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "translateZ()",
-      "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-      "summary": "The translateZ() function moves an element closer to or farther from the user. \n\ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 25 Jun 2026 13:18:56 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
