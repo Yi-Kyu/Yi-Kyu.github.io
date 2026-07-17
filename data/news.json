@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-17T01:18:11.017321Z",
+  "updated": "2026-07-17T07:47:30.920495Z",
   "articles": [
+    {
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Feder",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg",
+      "published": "Fri, 17 Jul 2026 12:12:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg",
-      "published": "Thu, 16 Jul 2026 18:03:42 +0530",
-      "source": "The Hacker News",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
       "image": "",
       "published": "Thu, 16 Jul 2026 15:09:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-      "link": "https://github.com/Robbyant/lingbot-map",
-      "summary": "Article URL: https://github.com/Robbyant/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=48941908\nPoints: 3\n# Comments: 0",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "summary": "Article URL: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\nComments URL: https://news.ycombinator.com/item?id=48943745\nPoints: 42\n# Comments: 12",
       "image": "",
-      "published": "Fri, 17 Jul 2026 00:07:49 +0000",
+      "published": "Fri, 17 Jul 2026 05:51:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My car’s OTA update broke Android Auto",
-      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\nComments URL: https://news.ycombinator.com/item?id=48941129\nPoints: 112\n# Comments: 127",
+      "title": "Pebble Mega Update – July 2026",
+      "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "summary": "Article URL: https://repebble.com/blog/pebble-mega-update-july-2026\nComments URL: https://news.ycombinator.com/item?id=48943174\nPoints: 71\n# Comments: 6",
       "image": "",
-      "published": "Thu, 16 Jul 2026 22:29:44 +0000",
+      "published": "Fri, 17 Jul 2026 03:53:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
-      "link": "https://mojibake.zaerl.com/",
-      "summary": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/\nComments URL: https://news.",
       "image": "",
-      "published": "Thu, 16 Jul 2026 22:29:21 +0000",
+      "published": "Fri, 17 Jul 2026 03:48:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Little Book of Reinforcement Learning",
-      "link": "https://github.com/alxndrTL/little-book-rl/",
-      "summary": "Article URL: https://github.com/alxndrTL/little-book-rl/\nComments URL: https://news.ycombinator.com/item?id=48941104\nPoints: 45\n# Comments: 6",
+      "title": "UIUC AI Teaching Assistant",
+      "link": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "summary": "Article URL: https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc\nComments URL: https://news.ycombinator.com/item?id=48942721\nPoints: 15\n# Comments: 0",
       "image": "",
-      "published": "Thu, 16 Jul 2026 22:27:22 +0000",
+      "published": "Fri, 17 Jul 2026 02:23:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "link": "https://hellorecon.com/blog/cve-2026-25089",
-      "summary": "Article URL: https://hellorecon.com/blog/cve-2026-25089\nComments URL: https://news.ycombinator.com/item?id=48940895\nPoints: 16\n# Comments: 0",
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "summary": "Article URL: https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/\nComments URL: https://news.ycombinator.com/item?id=48942454\nPoints: 112\n# Comments: 81",
       "image": "",
-      "published": "Thu, 16 Jul 2026 22:07:30 +0000",
+      "published": "Fri, 17 Jul 2026 01:36:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stratagems #16: Mark Left a Hole in His AI Audit. Lena Counted Every Layer.",
-      "link": "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
-      "summary": "When the enemy occupies favorable terrain, don't attack head-on. Let them think they're safe, let their guard drop — then strike the moment they relax.\n\n— The 36 Stratagems, In Order to Capture, One Must Let Loose\n\n\n\n\n\nP",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
-      "published": "Fri, 17 Jul 2026 01:09:52 +0000",
+      "title": "ATLOCK v4 vs. Typical Third-Party Security Software: What You're Actually Trading Off",
+      "link": "https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7",
+      "summary": "🔒 ATLOCK v4 vs. Typical Third-Party Security Suites\n\nTL;DR — Most \"security suites\" ask you to trust a company with your data, pay a subscription, and run background services you can't fully see into. ATLOCK is a single ",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 07:38:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LangChain4j and Spring AI: The Plumbing to make your Java Apps talk to LLMs",
-      "link": "https://dev.to/shayesta/langchain4j-and-spring-ai-the-plumbing-to-make-your-java-apps-talk-to-llms-1ip8",
-      "summary": "If you've heard about LangChain and assumed it was a Python thing, that's fair. It mostly was.\n\nLangChain became popular because building with an LLM turns out to involve a lot of repetitive plumbing. You need to manage ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F384148%2F6b3ec9ff-c989-41a5-b7ba-5232cf3faf3a.jpg",
-      "published": "Fri, 17 Jul 2026 00:58:31 +0000",
+      "title": "Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI",
+      "link": "https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg",
+      "summary": "When we talk about the power of Generative AI, we often focus entirely on the backend models. We talk about parameters, tokens, context windows, and hosting servers. But for millions of local shopkeepers and micro-mercha",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuf0pf0cotvprnb9p9kph.png",
+      "published": "Fri, 17 Jul 2026 07:31:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How QA Testers Are Actually Using AI in 2026 (Prompts Included)",
-      "link": "https://dev.to/aleksandr_singer_e51bc835/how-qa-testers-are-actually-using-ai-in-2026-prompts-included-5568",
-      "summary": "How QA Testers Are Actually Using AI in 2026 (Prompts Included)\n\n\nEvery few months a new wave of \"AI will replace testers\" takes shows up in my feed, followed by an equal and opposite wave of \"AI can't understand testing",
+      "title": "The Hardest Part of AI Isn't Prompt Engineering. It's Data Governance.",
+      "link": "https://dev.to/prabhanshu_pandey_21e9290/8-the-hardest-part-of-ai-isnt-prompt-engineering-its-data-governance-1269",
+      "summary": "A year ago, the conversation around enterprise AI was simple: build a chatbot, connect an LLM, and demonstrate how quickly it could answer questions. Today, the conversation has changed. It's no longer just about what AI",
       "image": "",
-      "published": "Fri, 17 Jul 2026 00:55:09 +0000",
+      "published": "Fri, 17 Jul 2026 07:30:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Good AI Code Reviewer Knows When to Stay Quiet",
-      "link": "https://dev.to/scanaislop/a-good-ai-code-reviewer-knows-when-to-stay-quiet-2h84",
-      "summary": "A developer added an AI reviewer to a small Node and React project expecting an easy win.\n\nAt first, the comments looked useful. Then the reviewer started repeating style complaints, commenting on code that had already c",
+      "title": "From http.ServeMux to Dependency Injection in Go: A Beginner-Friendly Guide",
+      "link": "https://dev.to/harshmangalam/from-httpservemux-to-dependency-injection-in-go-a-beginner-friendly-guide-3kc3",
+      "summary": "When I first saw code like this, it felt as if too many things were happening in one line:\n\n\n\nmux.Handle(\"GET /health\", health.NewHandler(healthService))\n\n\n\n\n\n\nWhat is a mux? Why are we giving it a handler? How does the ",
       "image": "",
-      "published": "Fri, 17 Jul 2026 00:43:07 +0000",
+      "published": "Fri, 17 Jul 2026 07:29:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop Sending Your Snores to the Cloud: Build a Privacy-First Sleep Guardian with Whisper-tiny and TCN on Raspberry Pi",
-      "link": "https://dev.to/beck_moulton/stop-sending-your-snores-to-the-cloud-build-a-privacy-first-sleep-guardian-with-whisper-tiny-and-24do",
-      "summary": "Let’s be honest: no one wants their private nighttime \"soundtrack\" (a.k.a. snoring or heavy breathing) being uploaded to a corporate server for \"analysis.\" Yet, monitoring sleep health is crucial, especially for detectin",
+      "title": "How I Solved the Biggest Pain Point in Google Play App Publishing with AppBanana.io",
+      "link": "https://dev.to/vkr9t/how-i-solved-the-biggest-pain-point-in-google-play-app-publishing-with-appbananaio-2bg6",
+      "summary": "If you've tried publishing a new Android app recently, you've probably run into Google's 12 testers requirement and 14-day Google Play Closed Testing process. For many developers, getting Google Play Store approval has b",
       "image": "",
-      "published": "Fri, 17 Jul 2026 00:40:00 +0000",
+      "published": "Fri, 17 Jul 2026 07:28:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
