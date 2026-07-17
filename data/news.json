@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-17T12:54:34.254066Z",
+  "updated": "2026-07-17T18:46:33.443245Z",
   "articles": [
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.\n\nA Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, O",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg",
+      "published": "Fri, 17 Jul 2026 22:42:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\nExpel, which shared technical details of the event, described the threat actor a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg",
+      "published": "Fri, 17 Jul 2026 22:09:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg",
+      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
       "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.\n\nHis wife, Maria Yurova, told REN TV t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMuThPnDJrVLJe0_WqKVz_AE9vh2H5NFoGoYlcbqF99J6sjNeWxhrrAEZKsctTKWp4TaEQKQcsdejihH7wBzgS0eaiwJ9bp04rAo2H2d2C-aydo2wrPvhAQgRsP351HM-l0P3JBoHQkwwQPqKOSIaYLKQ4Dpb_F54BjqErS5AUa5Q9RAZttEZmK0Yvqwk/s1600/REvil-hacker.jpg",
-      "published": "Fri, 17 Jul 2026 16:23:31 +0530",
-      "source": "The Hacker News",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png",
-      "published": "Fri, 17 Jul 2026 14:26:39 +0530",
-      "source": "The Hacker News",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 10:55:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg",
-      "published": "Fri, 17 Jul 2026 14:16:45 +0530",
-      "source": "The Hacker News",
+      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles,",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
       "image": "",
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 04:13:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166\nComments URL: https://news.ycombinator.com/item?id=48946303\nPoints: 17\n# Comments: 7",
+      "title": "Learning a few things about running SQLite",
+      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "summary": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\nComments URL: https://news.ycombinator.com/item?id=48950122\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Fri, 17 Jul 2026 12:02:39 +0000",
+      "published": "Fri, 17 Jul 2026 17:45:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "summary": "Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423\nComments URL: https://news.ycombinator.com/item?id=48946010\nPoints: 165\n# Comments: 74",
+      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "link": "https://sofar.belfortlabs.cloud/",
+      "summary": "Article URL: https://sofar.belfortlabs.cloud/\nComments URL: https://news.ycombinator.com/item?id=48949240\nPoints: 6\n# Comments: 2",
       "image": "",
-      "published": "Fri, 17 Jul 2026 11:30:00 +0000",
+      "published": "Fri, 17 Jul 2026 16:29:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "link": "https://news.ycombinator.com/item?id=48945681",
-      "summary": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't even used AWS actively",
+      "title": "Designing emoji for the way we communicate today",
+      "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/\nComments URL: https://news.ycombinator.com/item?id=48949184\nPoints: 14\n# Comments: 10",
       "image": "",
-      "published": "Fri, 17 Jul 2026 10:45:21 +0000",
+      "published": "Fri, 17 Jul 2026 16:24:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Owe My Life to the Commodore 64",
-      "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
-      "summary": "Article URL: https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64\nComments URL: https://news.ycombinator.com/item?id=48945260\nPoints: 45\n# Comments: 29",
+      "title": "Show HN: Explore the Workspaces of Modern Creators",
+      "link": "https://workspaces.xyz/",
+      "summary": "Article URL: https://workspaces.xyz/\nComments URL: https://news.ycombinator.com/item?id=48948693\nPoints: 33\n# Comments: 26",
       "image": "",
-      "published": "Fri, 17 Jul 2026 09:44:25 +0000",
+      "published": "Fri, 17 Jul 2026 15:41:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pushinka",
-      "link": "https://en.wikipedia.org/wiki/Pushinka",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Pushinka\nComments URL: https://news.ycombinator.com/item?id=48944333\nPoints: 21\n# Comments: 6",
+      "title": "Frame – the first Linux Assembly X server",
+      "link": "https://isene.org/2026/07/Frame.html",
+      "summary": "Article URL: https://isene.org/2026/07/Frame.html\nComments URL: https://news.ycombinator.com/item?id=48948597\nPoints: 49\n# Comments: 26",
       "image": "",
-      "published": "Fri, 17 Jul 2026 07:29:55 +0000",
+      "published": "Fri, 17 Jul 2026 15:31:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pressure-testing Ota on lead-quorum: native Python truth, repo-local fulfillment, and runtime bind projection",
-      "link": "https://dev.to/otaready/pressure-testing-ota-on-lead-quorum-native-python-truth-repo-local-fulfillment-and-runtime-bind-4345",
-      "summary": "Overview\n\n\nlead-quorum was a strong pilot repo because it was small enough to reason about and real enough to fail honestly.\n\nIt has:\n\n\nrepo-local Python environment ownership\npinned dependency installation\nenv bootstrap",
+      "title": "Memory-Safe Media Preflight in Mobile Browsers",
+      "link": "https://dev.to/gathmo/memory-safe-media-preflight-in-mobile-browsers-204c",
+      "summary": "Client-side media preflight can improve an upload experience, but it can also crash the page before the network request begins. A twelve-megapixel JPEG may be only four megabytes on disk and tens of megabytes after decod",
       "image": "",
-      "published": "Fri, 17 Jul 2026 12:51:03 +0000",
+      "published": "Fri, 17 Jul 2026 18:41:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Getting Started with Modbus RTU on ESP32",
-      "link": "https://dev.to/norvi_controllers/getting-started-with-modbus-rtu-on-esp32-4259",
-      "summary": "Modbus RTU over RS-485 is the serial workhorse of industrial field wiring — the variant you'll meet when connecting an ESP32 directly to an energy meter, PLC, VFD, or temperature transmitter over a wired bus. This tutori",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 12:50:31 +0000",
+      "title": "The Robotics Tech Tree: the structured map I wish I had from LED to Physical AI",
+      "link": "https://dev.to/iuliaferoli/the-robotics-tech-tree-the-structured-map-i-wish-i-had-from-led-to-physical-ai-37af",
+      "summary": "I was tired of buzzword-heavy AI projects and marginally impactful demos. Surely we can do something more inspiring with these LLMs than build another chatbot?\nFor me, the answer is physical AI: the moment all those brea",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnhbwtqgi9nra5opmrnqr.png",
+      "published": "Fri, 17 Jul 2026 18:39:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Do you access a server with username and password? It's a combination padlock facing the street",
-      "link": "https://dev.to/murilo_negrao_59aada6e774/do-you-access-a-server-with-username-and-password-its-a-combination-padlock-facing-the-street-cn3",
-      "summary": "✍️ This post was written with two hands. The story — the first part — is Murilo's, lived and told by the person who was there. The technical manual, at the end, was written with AI. The split is intentional and marked in",
+      "title": "Resumable Browser Uploads for Crowded Event Networks",
+      "link": "https://dev.to/gathmo/resumable-browser-uploads-for-crowded-event-networks-40el",
+      "summary": "Event uploads fail differently from normal office uploads. A wedding guest may move between venue Wi-Fi and mobile data, lock the phone while a video is transferring, or close the browser as soon as the progress bar reac",
       "image": "",
-      "published": "Fri, 17 Jul 2026 12:50:07 +0000",
+      "published": "Fri, 17 Jul 2026 18:35:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Terminal Velocity: Audits of the Present and Future",
-      "link": "https://dev.to/cristiano_gabrieli_83f5f1/terminal-velocity-audits-of-the-present-and-future-1f1",
-      "summary": "Introduction\nA Continuation of Shadow SCADA\n\nTerminal Velocity begins where Shadow SCADA left off — at the edge where digital audits meet the physical world. In the previous article, we explored how hidden infrastructure",
+      "title": "React Native Interview Handbook — Part 7 of 9: Coding Interview Practice",
+      "link": "https://dev.to/amitkumar13/react-native-interview-handbook-bonus-75-coding-interview-questions-3nk4",
+      "summary": "This is Part 7 of 9, a bonus practice article containing 75 coding interview questions drawn from the React Native Interview Handbook. It covers the implementation tasks commonly used in JavaScript and React Native round",
       "image": "",
-      "published": "Fri, 17 Jul 2026 12:47:14 +0000",
+      "published": "Fri, 17 Jul 2026 18:27:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Connecting AWS Account with Cypress Automation: A Simple STS Connection Test",
-      "link": "https://dev.to/cypress/connecting-aws-account-with-cypress-automation-a-simple-sts-connection-test-aea",
-      "summary": "When building Cypress automation that interacts with AWS services, the first step is verifying that your test framework can successfully authenticate and communicate with your AWS account.\n\nIn this article, you'll learn ",
+      "title": "React Native Interview Handbook — Part 6 of 9: Output-Based JavaScript Practice",
+      "link": "https://dev.to/amitkumar13/react-native-interview-handbook-bonus-111-output-based-javascript-questions-58kc",
+      "summary": "This is Part 6 of 9, a bonus practice article containing 191 output-based JavaScript interview questions. It includes 111 questions drawn from the React Native Interview Handbook plus 80 additional questions on the JavaS",
       "image": "",
-      "published": "Fri, 17 Jul 2026 12:42:14 +0000",
+      "published": "Fri, 17 Jul 2026 18:26:41 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
