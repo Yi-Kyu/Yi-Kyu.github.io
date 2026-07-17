@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T18:50:47.431703Z",
+  "updated": "2026-07-17T01:18:11.017321Z",
   "articles": [
     {
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected servic",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 15:26:07 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+      "image": "",
+      "published": "Thu, 16 Jul 2026 15:09:35 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
       "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the",
       "image": "",
       "published": "Thu, 16 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 09:47:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 08:31:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 07:59:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "SPCX is now Wall Street's most shorted new stock",
-      "link": "https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/",
-      "summary": "Article URL: https://invezz.com/news/2026/07/16/the-worlds-most-valuable-ipo-spcx-is-now-wall-streets-most-shorted-new-stock/\nComments URL: https://news.ycombinator.com/item?id=48938001\nPoints: 29\n# Comments: 21",
+      "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "Article URL: https://github.com/Robbyant/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=48941908\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Thu, 16 Jul 2026 18:03:56 +0000",
+      "published": "Fri, 17 Jul 2026 00:07:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "42% of adults rely on their parents for financial support",
-      "link": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html\nComments URL: https://news.ycombinator.com/item?id=4893",
+      "title": "My car’s OTA update broke Android Auto",
+      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/\nComments URL: https://news.ycombinator.com/item?id=48941129\nPoints: 112\n# Comments: 127",
       "image": "",
-      "published": "Thu, 16 Jul 2026 17:11:58 +0000",
+      "published": "Thu, 16 Jul 2026 22:29:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Adaptional (YC S25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "summary": "Article URL: https://www.ycombinator.com/companies/adaptional/jobs\nComments URL: https://news.ycombinator.com/item?id=48937125\nPoints: 0\n# Comments: 0",
+      "title": "Show HN: Mojibake – a low-level Unicode library written in C",
+      "link": "https://mojibake.zaerl.com/",
+      "summary": "I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such",
       "image": "",
-      "published": "Thu, 16 Jul 2026 17:00:55 +0000",
+      "published": "Thu, 16 Jul 2026 22:29:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-      "link": "https://news.ycombinator.com/item?id=48937020",
-      "summary": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https://www.traceforce.ai/). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all devices (laptops, sandboxes, virtu",
+      "title": "The Little Book of Reinforcement Learning",
+      "link": "https://github.com/alxndrTL/little-book-rl/",
+      "summary": "Article URL: https://github.com/alxndrTL/little-book-rl/\nComments URL: https://news.ycombinator.com/item?id=48941104\nPoints: 45\n# Comments: 6",
       "image": "",
-      "published": "Thu, 16 Jul 2026 16:52:16 +0000",
+      "published": "Thu, 16 Jul 2026 22:27:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Someone Used AI to Write an Unauthorized Biography of Me",
-      "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html\nComments URL: https://news.ycombinator.com/item?id=48937007\nPoints: 28\n# Comments: 39",
+      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
+      "link": "https://hellorecon.com/blog/cve-2026-25089",
+      "summary": "Article URL: https://hellorecon.com/blog/cve-2026-25089\nComments URL: https://news.ycombinator.com/item?id=48940895\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Thu, 16 Jul 2026 16:51:20 +0000",
+      "published": "Thu, 16 Jul 2026 22:07:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built a job board that scores how 'real' each listing is (A–F)",
-      "link": "https://dev.to/mohessaid/i-built-a-job-board-that-scores-how-real-each-listing-is-a-f-50gi",
-      "summary": "Most remote job listings are ghosts — already filled, never opened, or posted just to farm résumés. As a developer, that annoyed me enough to solve it with code instead of complaining about it on X.\n\nSo I built Remoty.wo",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 18:35:27 +0000",
+      "title": "Stratagems #16: Mark Left a Hole in His AI Audit. Lena Counted Every Layer.",
+      "link": "https://dev.to/xulingfeng/stratagems-16-mark-left-a-hole-in-his-ai-audit-lena-counted-every-layer-2l7p",
+      "summary": "When the enemy occupies favorable terrain, don't attack head-on. Let them think they're safe, let their guard drop — then strike the moment they relax.\n\n— The 36 Stratagems, In Order to Capture, One Must Let Loose\n\n\n\n\n\nP",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
+      "published": "Fri, 17 Jul 2026 01:09:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Left of the Loop: The Metron",
-      "link": "https://dev.to/aepfli/left-of-the-loop-the-metron-1j6d",
-      "summary": "Metron was the Greek word for a measure: the standard you judge a thing against. It gives us metric, and metronome. Pick the wrong metron and everything you count against it comes out wrong, no matter how carefully you c",
-      "image": "",
-      "published": "Thu, 16 Jul 2026 18:34:56 +0000",
+      "title": "LangChain4j and Spring AI: The Plumbing to make your Java Apps talk to LLMs",
+      "link": "https://dev.to/shayesta/langchain4j-and-spring-ai-the-plumbing-to-make-your-java-apps-talk-to-llms-1ip8",
+      "summary": "If you've heard about LangChain and assumed it was a Python thing, that's fair. It mostly was.\n\nLangChain became popular because building with an LLM turns out to involve a lot of repetitive plumbing. You need to manage ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F384148%2F6b3ec9ff-c989-41a5-b7ba-5232cf3faf3a.jpg",
+      "published": "Fri, 17 Jul 2026 00:58:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a native macOS database GUI because I was fed up with TablePlus limits",
-      "link": "https://dev.to/mattnoyemwndigital/i-built-a-native-macos-database-gui-because-i-was-fed-up-with-tableplus-limits-4o1a",
-      "summary": "I've been using TablePlus for years. It's good — but the connection limits \non older licences drove me mad, and most alternatives are either Electron \napps or haven't been updated since 2019.\n\nSo I built my own.\n\n\n  \n  \n",
+      "title": "How QA Testers Are Actually Using AI in 2026 (Prompts Included)",
+      "link": "https://dev.to/aleksandr_singer_e51bc835/how-qa-testers-are-actually-using-ai-in-2026-prompts-included-5568",
+      "summary": "How QA Testers Are Actually Using AI in 2026 (Prompts Included)\n\n\nEvery few months a new wave of \"AI will replace testers\" takes shows up in my feed, followed by an equal and opposite wave of \"AI can't understand testing",
       "image": "",
-      "published": "Thu, 16 Jul 2026 18:34:01 +0000",
+      "published": "Fri, 17 Jul 2026 00:55:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Commit Cron: A Simple Daily Commit Bot with GitHub Actions",
-      "link": "https://dev.to/jheytim/commit-cron-a-simple-daily-commit-bot-with-github-actions-3i0b",
-      "summary": "I built Commit Cron, a small GitHub Actions experiment that creates one automated commit every day.\n\nThe project updates a text file with the latest execution time, commits the change using the github-actions[bot] accoun",
+      "title": "A Good AI Code Reviewer Knows When to Stay Quiet",
+      "link": "https://dev.to/scanaislop/a-good-ai-code-reviewer-knows-when-to-stay-quiet-2h84",
+      "summary": "A developer added an AI reviewer to a small Node and React project expecting an easy win.\n\nAt first, the comments looked useful. Then the reviewer started repeating style complaints, commenting on code that had already c",
       "image": "",
-      "published": "Thu, 16 Jul 2026 18:30:48 +0000",
+      "published": "Fri, 17 Jul 2026 00:43:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I rewrote my AI-agent tool from Bash to Python. That was the easy doubt.",
-      "link": "https://dev.to/structuralb/i-rewrote-my-ai-agent-tool-from-bash-to-python-that-was-the-easy-doubt-4n9n",
-      "summary": "There are, conservatively, nine thousand tools for running AI agents across your projects. This is number nine thousand and one. I know. Stay a second anyway.\n\nEighteen years of backend work, most of it PHP, most of it t",
+      "title": "Stop Sending Your Snores to the Cloud: Build a Privacy-First Sleep Guardian with Whisper-tiny and TCN on Raspberry Pi",
+      "link": "https://dev.to/beck_moulton/stop-sending-your-snores-to-the-cloud-build-a-privacy-first-sleep-guardian-with-whisper-tiny-and-24do",
+      "summary": "Let’s be honest: no one wants their private nighttime \"soundtrack\" (a.k.a. snoring or heavy breathing) being uploaded to a corporate server for \"analysis.\" Yet, monitoring sleep health is crucial, especially for detectin",
       "image": "",
-      "published": "Thu, 16 Jul 2026 18:27:14 +0000",
+      "published": "Fri, 17 Jul 2026 00:40:00 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
