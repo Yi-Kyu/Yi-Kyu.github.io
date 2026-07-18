@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:41:34.974098Z",
+  "updated": "2026-07-18T18:40:55.256951Z",
   "articles": [
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+      "image": "",
+      "published": "Sat, 18 Jul 2026 13:22:47 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+      "image": "",
+      "published": "Sat, 18 Jul 2026 10:17:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitti",
+      "image": "",
+      "published": "Sat, 18 Jul 2026 09:15:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a sepa",
@@ -61,33 +88,6 @@
       "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
       "image": "",
       "published": "Fri, 17 Jul 2026 13:56:21 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 10:55:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles,",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "What AI did to stackoverflow in a graph",
-      "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph\nComments URL: https://news.ycombinator.com/item?id=48956949\nPoints: 67\n# Comments: 80",
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "link": "https://imaxxing.io/",
+      "summary": "Article URL: https://imaxxing.io/\nComments URL: https://news.ycombinator.com/item?id=48960551\nPoints: 6\n# Comments: 3",
       "image": "",
-      "published": "Sat, 18 Jul 2026 11:12:46 +0000",
+      "published": "Sat, 18 Jul 2026 18:06:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why do AI company logos look like buttholes?",
-      "link": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "summary": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes\nComments URL: https://news.ycombinator.com/item?id=48956924\nPoints: 246\n# Comments: 75",
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "link": "https://queue.acm.org/detail.cfm?id=3818307",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3818307\nComments URL: https://news.ycombinator.com/item?id=48960155\nPoints: 47\n# Comments: 14",
       "image": "",
-      "published": "Sat, 18 Jul 2026 11:06:50 +0000",
+      "published": "Sat, 18 Jul 2026 17:27:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "summary": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\nComments URL: https://news.ycombinator.com/item?id=48956879\nPoints: 19\n# Comments: 8",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "link": "https://ykdojo.github.io/claude-controls-mac/",
+      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/\nComments URL: https://news.ycombinator.com/item?id=48959392\nPoints: 80\n# Comments: 48",
       "image": "",
-      "published": "Sat, 18 Jul 2026 11:00:29 +0000",
+      "published": "Sat, 18 Jul 2026 16:12:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Steam Machine: Between 12k and 15k Units Sold per week",
-      "link": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
-      "summary": "Article URL: https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/\nComments URL: https://news.ycombinator.com/item?id=48956852\nPoints: 20\n# Comments: 3",
+      "title": "Fake food delivery site for the dopamine",
+      "link": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
+      "summary": "Article URL: https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/\nComments URL: https://news.ycombinator.com/item?id=48959355\nPoints: 42\n# Comments: 14",
       "image": "",
-      "published": "Sat, 18 Jul 2026 10:56:09 +0000",
+      "published": "Sat, 18 Jul 2026 16:08:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "summary": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent\nComments URL: https://news.ycombinator.com/item?id=48956688\nPoints: 208\n# Comments: 105",
+      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
+      "link": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
+      "summary": "Article URL: https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/\nComments URL: https://news.ycombinator.com/item?id=48959302\nPoints: 27\n# Comments: 9",
       "image": "",
-      "published": "Sat, 18 Jul 2026 10:21:19 +0000",
+      "published": "Sat, 18 Jul 2026 16:03:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My Publishing Task Said \"Commit the Drafts.\" My .gitignore Had Other Plans.",
-      "link": "https://dev.to/enjoy_kumawat/my-publishing-task-said-commit-the-drafts-my-gitignore-had-other-plans-3jnp",
-      "summary": "I run a scheduled agent that writes and publishes DEV.to articles twice a day. Step 5 of its instructions has always said the same thing: write the log entry, commit the drafts, push. I've read that line a dozen times wi",
-      "image": "",
-      "published": "Sat, 18 Jul 2026 12:37:28 +0000",
+      "title": "Customizable workout app",
+      "link": "https://dev.to/pawlee/customizable-workout-app-184l",
+      "summary": "If you are like me, then you have also tried to change a specific thing in your workout plan that your app of choice didn't support.\n\nWell I'm trying to fix that issue with a workout app in which you'll be able to custom",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgym.notes.fitness%2Fimages%2Fsocial_share.png",
+      "published": "Sat, 18 Jul 2026 18:30:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Clear the Lineup — doesNotEqual was always true for single-select survey answers in Formbricks",
-      "link": "https://dev.to/jiwonyoondev/clear-the-lineup-doesnotequal-was-always-true-for-single-select-survey-answers-in-formbricks-702",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup.\n\n\n  \n  \n  Project Overview\n\n\nFormbricks is an open-source survey and experience-management platform. Its packages/surveys package ships the client-side s",
+      "title": "Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`",
+      "link": "https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh",
+      "summary": "If you work on long-lived feature branches, you've probably experienced this:\n\n\n\nmaster (or main) keeps moving.\nYour branch falls behind.\nPull requests become harder to review.\nMerge conflicts get bigger every day.\n\n\nMan",
       "image": "",
-      "published": "Sat, 18 Jul 2026 12:35:33 +0000",
+      "published": "Sat, 18 Jul 2026 18:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "FAM CTF : The Vault Door Writeup",
-      "link": "https://dev.to/exploitnotes/fam-ctf-the-vault-door-writeup-4dgc",
-      "summary": "Summary\n\n\nNexaVault is a mock internal dashboard app that gates an \"Admin Vault\" panel behind a role claim in a JWT. The app issues a user-role token on login, stored in the nx_access cookie, and trusts the claims inside",
-      "image": "",
-      "published": "Sat, 18 Jul 2026 12:34:31 +0000",
+      "title": "Your HTML is fine. The CDN still blocks the bot.",
+      "link": "https://dev.to/evgenii-slepinin/your-html-is-fine-the-cdn-still-blocks-the-bot-466d",
+      "summary": "This started as a comment @wrencalloway left on my last post. It was sharp enough that it deserved more than a reply — so here's the full version.\n\nYou did the work. The page is server-rendered. The JSON-LD is in the raw",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F16kqjzs2vbqy4zhty0b9.png",
+      "published": "Sat, 18 Jul 2026 18:22:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stashr has officially launched",
-      "link": "https://dev.to/stashr/stashr-has-officially-launched-4ic",
-      "summary": "What launched\n\n\nStashr started as an invite-only waitlist, then opened up as a free\npublic beta. Today it leaves beta for good. That\nmeans three things:\n\n\n\nIt's a finished product, not a preview. Everything the beta prom",
+      "title": "I Built a Crew of AI Agents That Review Code Like a Real Team — Then Watched Them Argue With SigNoz",
+      "link": "https://dev.to/vishnu1438/i-built-a-crew-of-ai-agents-that-review-code-like-a-real-team-then-watched-them-argue-with-signoz-238d",
+      "summary": "I Built a Crew of AI Agents That Review Code Like a Real Team — Then Watched Them Argue With SigNoz\n\n\nMy submission for the Agents of SigNoz Hackathon (Track: AI &amp; Agent Observability)\n\n\n  \n  \n  The idea\n\n\nMost \"AI c",
       "image": "",
-      "published": "Sat, 18 Jul 2026 12:31:24 +0000",
+      "published": "Sat, 18 Jul 2026 18:22:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Clear the Lineup — Chasing a Stack Overflow in Typst's `#eval` Down to One Wrong Word",
-      "link": "https://dev.to/jiwonyoondev/clear-the-lineup-chasing-a-stack-overflow-in-typsts-eval-down-to-one-wrong-word-5427",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup.\n\n\n  \n  \n  Project Overview\n\n\nTypst is the Rust-based markup typesetting system that's been quietly eating LaTeX's lunch for the last couple of years — yo",
+      "title": "Project Log #17: My Agent Misreads Bank Balances. Here's How I'm Fixing It.",
+      "link": "https://dev.to/okeke_chukwudubem_5f3bf49/project-log-17-my-agent-misreads-bank-balances-heres-how-im-fixing-it-4egj",
+      "summary": "Day 17. OCR on banking apps is unreliable. I built a verification layer that double-checks every number.\n\nDay 16 was a milestone: multi-app workflows. The agent copied my bank balance and sent it to Mom on WhatsApp. Thre",
       "image": "",
-      "published": "Sat, 18 Jul 2026 12:23:29 +0000",
+      "published": "Sat, 18 Jul 2026 18:21:54 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
