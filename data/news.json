@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-17T18:46:33.443245Z",
+  "updated": "2026-07-18T01:10:15.194521Z",
   "articles": [
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.\n\nEvery 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRULLT1q8L6AtUB7jgKywi_KSF8VGKkOF9yC3Snt81K1aD2XSEV1jgfIe331rXUWGqhmAyFgr1USssr4_CQmuE7HLAn0ShaQ0pHY_yvNYMjQdHtpV8i-vlk2ickhJSJDSN3amGox_DMR5hemMlrgXIk8kHoHlYKZncjpiV3ibF77ax1Yn0fEjxtgxy7tY/s1600/wordpress-core.jpg",
+      "published": "Sat, 18 Jul 2026 02:50:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n\nOpenSSL shipped the",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg",
+      "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package campaign, codenamed Vite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg",
+      "published": "Sat, 18 Jul 2026 00:24:51 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
       "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ8fzXjkeMlk_f1TKWczz8e4GHbNGTRPmaXHDPi86v4Ep0BqvGpKpOtpP_mtnHihu7kbII2nMxqQnQbjAhQkv6lkemsoIlzzS925QJKqkU5tgFHTxtSuRBllSUeZ3gpkJa51TAcggrQanY873B173p_hA-ow4sgftGDp4UgD3Torp7KswNuBp93-YOre5/s1600/northkorean-hacker.jpg",
-      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the displ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUt3BtyXt68oBeDmMvhp3Sg9c8WNu5xCMYsjqNGGg1A84ykQQ3qpk3Kfsq-msZGxHxtu-gZjML5fDvgV7CoakS6D-_-h2oWAd4m8b4dIS9p1C_003gGvCmg1SDwE7HYc64tdglQW5JWq6XYfssJibuxnxwtd7pu7fbvvkzDIPqdBOQwguwPKAXC2zVOU/s1600/google-android.jpg",
-      "published": "Fri, 17 Jul 2026 17:14:41 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAyl6VLjAoHLEWzLPM62KM5v2ZmVOpPaZ8aA6Vxg2Ujn9iFLG02jpev-qcB_S3eTwxQAHb7Sf3BJQAc8xs_o3-7UcgQy5N1-4EqnuBXZ31GKauhespgW1G0Fgg7CzaLWk-cOJx8Bm6lQFPZROumwK-URHjQvJsyYhxjiEHHeia-vCh3rqeNYo3p2L-fI/s1600/military.jpg",
-      "published": "Fri, 17 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a sepa",
+      "image": "",
+      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
       "image": "",
       "published": "Fri, 17 Jul 2026 07:05:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 05:10:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Learning a few things about running SQLite",
-      "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "summary": "Article URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\nComments URL: https://news.ycombinator.com/item?id=48950122\nPoints: 4\n# Comments: 0",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "summary": "Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\nComments URL: https://news.ycombinator.com/item?id=48953406\nPoints: 22\n# Comments: 1",
       "image": "",
-      "published": "Fri, 17 Jul 2026 17:45:41 +0000",
+      "published": "Fri, 17 Jul 2026 23:26:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-      "link": "https://sofar.belfortlabs.cloud/",
-      "summary": "Article URL: https://sofar.belfortlabs.cloud/\nComments URL: https://news.ycombinator.com/item?id=48949240\nPoints: 6\n# Comments: 2",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "summary": "Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and\nComments URL: https://news.ycombinator.com/item?id=48952939\n",
       "image": "",
-      "published": "Fri, 17 Jul 2026 16:29:52 +0000",
+      "published": "Fri, 17 Jul 2026 22:35:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Designing emoji for the way we communicate today",
-      "link": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-      "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/\nComments URL: https://news.ycombinator.com/item?id=48949184\nPoints: 14\n# Comments: 10",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\nComments URL: https://news.ycombinator.com/item?id=48952880\nPoints: 219\n# Com",
       "image": "",
-      "published": "Fri, 17 Jul 2026 16:24:13 +0000",
+      "published": "Fri, 17 Jul 2026 22:26:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Explore the Workspaces of Modern Creators",
-      "link": "https://workspaces.xyz/",
-      "summary": "Article URL: https://workspaces.xyz/\nComments URL: https://news.ycombinator.com/item?id=48948693\nPoints: 33\n# Comments: 26",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "summary": "Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md\nComments URL: https://news.ycombinator.com/item?id=48952565\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Fri, 17 Jul 2026 15:41:05 +0000",
+      "published": "Fri, 17 Jul 2026 21:42:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Frame – the first Linux Assembly X server",
-      "link": "https://isene.org/2026/07/Frame.html",
-      "summary": "Article URL: https://isene.org/2026/07/Frame.html\nComments URL: https://news.ycombinator.com/item?id=48948597\nPoints: 49\n# Comments: 26",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html\nComments URL: https://news.ycombinator.com/item?id=48952439\nPoints: 107\n# Comments: 62",
       "image": "",
-      "published": "Fri, 17 Jul 2026 15:31:22 +0000",
+      "published": "Fri, 17 Jul 2026 21:22:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Memory-Safe Media Preflight in Mobile Browsers",
-      "link": "https://dev.to/gathmo/memory-safe-media-preflight-in-mobile-browsers-204c",
-      "summary": "Client-side media preflight can improve an upload experience, but it can also crash the page before the network request begins. A twelve-megapixel JPEG may be only four megabytes on disk and tens of megabytes after decod",
+      "title": "Giving an AI assistant read-only access to Microsoft Loop — without breaking permissions",
+      "link": "https://dev.to/denizv/giving-an-ai-assistant-read-only-access-to-microsoft-loop-without-breaking-permissions-3adc",
+      "summary": "Giving an AI assistant read-only access to Microsoft Loop — without breaking permissions\n\n\nI wanted my AI assistant to read my team's Microsoft Loop pages — summarize a\nworkspace, pull the latest OKRs into a draft, answe",
       "image": "",
-      "published": "Fri, 17 Jul 2026 18:41:30 +0000",
+      "published": "Sat, 18 Jul 2026 01:03:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Robotics Tech Tree: the structured map I wish I had from LED to Physical AI",
-      "link": "https://dev.to/iuliaferoli/the-robotics-tech-tree-the-structured-map-i-wish-i-had-from-led-to-physical-ai-37af",
-      "summary": "I was tired of buzzword-heavy AI projects and marginally impactful demos. Surely we can do something more inspiring with these LLMs than build another chatbot?\nFor me, the answer is physical AI: the moment all those brea",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnhbwtqgi9nra5opmrnqr.png",
-      "published": "Fri, 17 Jul 2026 18:39:11 +0000",
+      "title": "How to Add Async Text-to-Speech to an App with the Fish TTS API",
+      "link": "https://dev.to/germey/how-to-add-async-text-to-speech-to-an-app-with-the-fish-tts-api-5fg2",
+      "summary": "Long text-to-speech jobs are easy to prototype, but they can become awkward in production when your app has to hold a request open while audio is being generated.\n\n\n  \n  \n  What you can do\n\n\nThe Fish TTS endpoint on Ace ",
+      "image": "",
+      "published": "Sat, 18 Jul 2026 01:03:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Resumable Browser Uploads for Crowded Event Networks",
-      "link": "https://dev.to/gathmo/resumable-browser-uploads-for-crowded-event-networks-40el",
-      "summary": "Event uploads fail differently from normal office uploads. A wedding guest may move between venue Wi-Fi and mobile data, lock the phone while a video is transferring, or close the browser as soon as the progress bar reac",
+      "title": "Swarming Claude Code and Codex in Parallel: Running Multiple Agents at Once with tmux and Git Worktrees",
+      "link": "https://dev.to/bokuwalily/swarming-claude-code-and-codex-in-parallel-running-multiple-agents-at-once-with-tmux-and-git-1fej",
+      "summary": "In my previous post about a cost budget advisor, I built a mechanism that checks how much quota is left before it runs anything. This time I want to take that idea one step further: instead of cycling a single Codex thro",
       "image": "",
-      "published": "Fri, 17 Jul 2026 18:35:04 +0000",
+      "published": "Sat, 18 Jul 2026 01:00:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "React Native Interview Handbook — Part 7 of 9: Coding Interview Practice",
-      "link": "https://dev.to/amitkumar13/react-native-interview-handbook-bonus-75-coding-interview-questions-3nk4",
-      "summary": "This is Part 7 of 9, a bonus practice article containing 75 coding interview questions drawn from the React Native Interview Handbook. It covers the implementation tasks commonly used in JavaScript and React Native round",
+      "title": "The Start of My RAGgedy Journey",
+      "link": "https://dev.to/jgwesterfield/the-start-of-my-raggedy-journey-1glj",
+      "summary": "Big Howdy,\n\nI'm so tired of hearing all the hype about AI. \n\nDon't get me wrong, I think AI is pretty cool and I use it all the time for various tasks throughout the day, but I hate AI marketing.\n\nWhat do I mean by that?",
       "image": "",
-      "published": "Fri, 17 Jul 2026 18:27:01 +0000",
+      "published": "Sat, 18 Jul 2026 00:59:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "React Native Interview Handbook — Part 6 of 9: Output-Based JavaScript Practice",
-      "link": "https://dev.to/amitkumar13/react-native-interview-handbook-bonus-111-output-based-javascript-questions-58kc",
-      "summary": "This is Part 6 of 9, a bonus practice article containing 191 output-based JavaScript interview questions. It includes 111 questions drawn from the React Native Interview Handbook plus 80 additional questions on the JavaS",
+      "title": "A question about AI I've been carrying for a while",
+      "link": "https://dev.to/aileenvl/a-question-about-ai-ive-been-carrying-for-a-while-4c52",
+      "summary": "I remember being at an advisory board of big tech in 2023,  close to the starting point of code generation with LLMs.\n\nLike everyone else, I was amazed. People were copying and pasting generated code, experimenting with ",
       "image": "",
-      "published": "Fri, 17 Jul 2026 18:26:41 +0000",
+      "published": "Sat, 18 Jul 2026 00:55:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
