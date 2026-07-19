@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T07:52:25.960988Z",
+  "updated": "2026-07-19T12:42:57.551425Z",
   "articles": [
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "summary": "Article URL: https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\nComments URL: https://news.ycombinator.com/item?id=48965161\nPoints: 13\n# Comments: 0",
+      "title": "The death and rebirth of my home server",
+      "link": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "summary": "Article URL: https://sgt.hootr.club/blog/home-server-rebirth/\nComments URL: https://news.ycombinator.com/item?id=48966769\nPoints: 14\n# Comments: 4",
       "image": "",
-      "published": "Sun, 19 Jul 2026 05:07:08 +0000",
+      "published": "Sun, 19 Jul 2026 10:44:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built a browser-based P2P file transfer tool using WebRTC",
-      "link": "https://airdows.com/",
-      "summary": "Article URL: https://airdows.com/\nComments URL: https://news.ycombinator.com/item?id=48964424\nPoints: 16\n# Comments: 11",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\nComments URL: https://news.ycombinator.com/item?id=48966713\nPoints: 34\n# Comments: 18",
       "image": "",
-      "published": "Sun, 19 Jul 2026 02:17:03 +0000",
+      "published": "Sun, 19 Jul 2026 10:34:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Deepsec",
-      "link": "https://github.com/vercel-labs/deepsec",
-      "summary": "Article URL: https://github.com/vercel-labs/deepsec\nComments URL: https://news.ycombinator.com/item?id=48964215\nPoints: 20\n# Comments: 0",
+      "title": "Save GPT-5.5",
+      "link": "https://save-gpt-5-5.fyi/",
+      "summary": "Article URL: https://save-gpt-5-5.fyi/\nComments URL: https://news.ycombinator.com/item?id=48966665\nPoints: 6\n# Comments: 5",
       "image": "",
-      "published": "Sun, 19 Jul 2026 01:33:32 +0000",
+      "published": "Sun, 19 Jul 2026 10:23:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "summary": "Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\nComments URL: https://news.ycombinator.com/item?id=48964185\nPoints: 171\n# Comments: 63",
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\nComments URL: https://news.ycombinator.com/item?id=48966569\nPoints: 109\n# Comments: 126",
       "image": "",
-      "published": "Sun, 19 Jul 2026 01:29:19 +0000",
+      "published": "Sun, 19 Jul 2026 10:03:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Better and Cheaper Than IPTV",
-      "link": "https://github.com/stupside/castor",
-      "summary": "Article URL: https://github.com/stupside/castor\nComments URL: https://news.ycombinator.com/item?id=48964015\nPoints: 154\n# Comments: 38",
+      "title": "Qwen 3.8 Max Preview",
+      "link": "https://www.qwencloud.com/pricing/token-plan",
+      "summary": "Article URL: https://www.qwencloud.com/pricing/token-plan\nComments URL: https://news.ycombinator.com/item?id=48966190\nPoints: 110\n# Comments: 53",
       "image": "",
-      "published": "Sun, 19 Jul 2026 00:59:55 +0000",
+      "published": "Sun, 19 Jul 2026 08:57:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both",
-      "link": "https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf",
-      "summary": "Constrained decoding and post-hoc validation solve different problems.\n\nConstrained decoding is generation-time control:\n\n\nfewer malformed payloads\nless wrapper text\nbetter adherence to schema/tool shape\n\n\nPost-hoc valid",
+      "title": "What Happens When an Ordinary Girl Decides to Document Her Journey to Becoming a Java Full Stack Developer?",
+      "link": "https://dev.to/codebykumudha/what-happens-when-an-ordinary-girl-decides-to-document-her-journey-to-becoming-a-java-full-stack-48dh",
+      "summary": "Do you have 2 minutes? Let's find out together.\n\nBefore you continue, one small note...\n\nThis first article isn't about Java, SQL, or coding tutorials.\n\nToday is simply about introducing myself, sharing why I decided to ",
       "image": "",
-      "published": "Sun, 19 Jul 2026 07:42:34 +0000",
+      "published": "Sun, 19 Jul 2026 12:24:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your n8n Workflow Passed Schema Validation—and Updated the Wrong Customer",
-      "link": "https://dev.to/moonshot_1341/your-n8n-workflow-passed-schema-validation-and-updated-the-wrong-customer-1570",
-      "summary": "A workflow can finish successfully, pass a JSON schema, and still update the wrong customer.\n\nThe value is present. The type is correct. The meaning is wrong because it came from the wrong source path.\n\n\n  \n  \n  The fail",
+      "title": "How I Built a RAG Chatbot Into My Portfolio with LangGraph, PGVector & MCP",
+      "link": "https://dev.to/arshhimself/how-i-built-a-rag-chatbot-into-my-portfolio-with-langgraph-pgvector-mcp-5fgc",
+      "summary": "Most portfolios have a boring \"About Me\" paragraph. I replaced mine with something you can talk to — an AI terminal that answers questions about me, pulls my live GitHub activity, and remembers the conversation. You can ",
       "image": "",
-      "published": "Sun, 19 Jul 2026 07:38:13 +0000",
+      "published": "Sun, 19 Jul 2026 12:24:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PyGo: A Deep Learning Framework Where Go Calls Python Calls C++",
-      "link": "https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo",
-      "summary": "[Project] PyGo – embedding CPython inside a Go process to build a deep learning framework\n\nI've been working on something a bit unusual: a deep learning framework where Go is the top-level API, Python handles autograd an",
+      "title": "The Off Switch: Mammals May Have Been Hiding the Power to Regrow Themselves All Along",
+      "link": "https://dev.to/siva_sivakumar_2026/the-off-switch-mammals-may-have-been-hiding-the-power-to-regrow-themselves-all-along-945",
+      "summary": "A salamander can lose a leg and grow a new one. Cut a zebrafish's fin and it simply builds another. Mammals, us included, got the consolation prize: a scar. For a century, biologists assumed that somewhere on the evoluti",
       "image": "",
-      "published": "Sun, 19 Jul 2026 07:35:56 +0000",
+      "published": "Sun, 19 Jul 2026 12:20:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building and Deploying a Role-Based Django PWA: From Starter Template to Production",
-      "link": "https://dev.to/ian_otieno_f614db0e641912/building-and-deploying-a-role-based-django-pwa-from-starter-template-to-production-513o",
-      "summary": "I recently built a full volunteer-opportunity board on top of a Django starter template — complete with role-based accounts, image uploads, a Progressive Web App layer, and a real production deployment. This post walks t",
+      "title": "Syncthing File Sync for Self-Hosted Knowledge Systems",
+      "link": "https://dev.to/rosgluk/syncthing-file-sync-for-self-hosted-knowledge-systems-44e7",
+      "summary": "Syncthing keeps files synchronized across devices you control, making it one of the most practical tools for a self-hosted knowledge infrastructure that avoids cloud lock-in.\n\nUnlike cloud storage platforms, Syncthing us",
       "image": "",
-      "published": "Sun, 19 Jul 2026 07:26:21 +0000",
+      "published": "Sun, 19 Jul 2026 12:19:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Deep Learning Framework from Scratch in C++ and CUDA (And Beat PyTorch's Speed Multiple Run)",
-      "link": "https://dev.to/aarav_aggarwal/i-built-a-deep-learning-framework-from-scratch-in-c-and-cuda-and-beat-pytorchs-speed-multiple-1eh3",
-      "summary": "If you work in AI today, you are almost certainly using PyTorch or TensorFlow. They are incredible tools, but they are also massive black boxes. \n\nAs an AI developer, I realized that relying solely on these frameworks me",
+      "title": "Building AI Agents for Social Media with TypeScript and Hono.js",
+      "link": "https://dev.to/mayu2008/building-ai-agents-for-social-media-with-typescript-and-honojs-4lgp",
+      "summary": "Everyone's talking about AI agents right now, but most tutorials stop at \"call an LLM in a loop.\" If you actually want an agent that runs unattended — fetches data, thinks about it, writes content, and publishes it — you",
       "image": "",
-      "published": "Sun, 19 Jul 2026 07:24:15 +0000",
+      "published": "Sun, 19 Jul 2026 12:07:20 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
