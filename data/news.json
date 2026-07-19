@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T18:40:55.256951Z",
+  "updated": "2026-07-19T01:15:12.186832Z",
   "articles": [
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "image": "",
+      "published": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
       "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
@@ -79,15 +88,6 @@
       "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a sepa",
       "image": "",
       "published": "Fri, 17 Jul 2026 16:45:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
-      "image": "",
-      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "link": "https://imaxxing.io/",
-      "summary": "Article URL: https://imaxxing.io/\nComments URL: https://news.ycombinator.com/item?id=48960551\nPoints: 6\n# Comments: 3",
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/07/260717033213.htm\nComments URL: https://news.ycombinator.com/item?id=48963484\nPoints: 17\n# Comments: 2",
       "image": "",
-      "published": "Sat, 18 Jul 2026 18:06:23 +0000",
+      "published": "Sat, 18 Jul 2026 23:27:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "link": "https://queue.acm.org/detail.cfm?id=3818307",
-      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3818307\nComments URL: https://news.ycombinator.com/item?id=48960155\nPoints: 47\n# Comments: 14",
+      "title": "Codex Resets",
+      "link": "https://codex-resets.com/",
+      "summary": "Article URL: https://codex-resets.com/\nComments URL: https://news.ycombinator.com/item?id=48963465\nPoints: 70\n# Comments: 58",
       "image": "",
-      "published": "Sat, 18 Jul 2026 17:27:24 +0000",
+      "published": "Sat, 18 Jul 2026 23:24:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "link": "https://ykdojo.github.io/claude-controls-mac/",
-      "summary": "Article URL: https://ykdojo.github.io/claude-controls-mac/\nComments URL: https://news.ycombinator.com/item?id=48959392\nPoints: 80\n# Comments: 48",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "summary": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\nComments URL: https://news.ycombinator.com/item?id=48962983\nPoints: 161\n# Comments: 71",
       "image": "",
-      "published": "Sat, 18 Jul 2026 16:12:08 +0000",
+      "published": "Sat, 18 Jul 2026 22:13:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fake food delivery site for the dopamine",
-      "link": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
-      "summary": "Article URL: https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/\nComments URL: https://news.ycombinator.com/item?id=48959355\nPoints: 42\n# Comments: 14",
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "link": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "summary": "Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf\nComments URL: https://news.ycombinator.com/item?id=48962944\nPoints: 25\n# Comments: 4",
       "image": "",
-      "published": "Sat, 18 Jul 2026 16:08:38 +0000",
+      "published": "Sat, 18 Jul 2026 22:09:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
-      "link": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
-      "summary": "Article URL: https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/\nComments URL: https://news.ycombinator.com/item?id=48959302\nPoints: 27\n# Comments: 9",
+      "title": "Judge a book by its first pages",
+      "link": "https://uncovered.ink",
+      "summary": "Article URL: https://uncovered.ink\nComments URL: https://news.ycombinator.com/item?id=48962893\nPoints: 38\n# Comments: 30",
       "image": "",
-      "published": "Sat, 18 Jul 2026 16:03:09 +0000",
+      "published": "Sat, 18 Jul 2026 22:02:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Customizable workout app",
-      "link": "https://dev.to/pawlee/customizable-workout-app-184l",
-      "summary": "If you are like me, then you have also tried to change a specific thing in your workout plan that your app of choice didn't support.\n\nWell I'm trying to fix that issue with a workout app in which you'll be able to custom",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgym.notes.fitness%2Fimages%2Fsocial_share.png",
-      "published": "Sat, 18 Jul 2026 18:30:29 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`",
-      "link": "https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh",
-      "summary": "If you work on long-lived feature branches, you've probably experienced this:\n\n\n\nmaster (or main) keeps moving.\nYour branch falls behind.\nPull requests become harder to review.\nMerge conflicts get bigger every day.\n\n\nMan",
+      "title": "Give your AI agent its own inbox so it can sign itself up",
+      "link": "https://dev.to/mqasimca/give-your-ai-agent-its-own-inbox-so-it-can-sign-itself-up-588j",
+      "summary": "Most \"AI email\" demos point a model at a human's mailbox over OAuth. You connect your Gmail, the agent reads your threads, drafts replies, maybe sends one. That's fine when the agent is acting on your behalf — a copilot ",
       "image": "",
-      "published": "Sat, 18 Jul 2026 18:30:00 +0000",
+      "published": "Sun, 19 Jul 2026 01:07:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your HTML is fine. The CDN still blocks the bot.",
-      "link": "https://dev.to/evgenii-slepinin/your-html-is-fine-the-cdn-still-blocks-the-bot-466d",
-      "summary": "This started as a comment @wrencalloway left on my last post. It was sharp enough that it deserved more than a reply — so here's the full version.\n\nYou did the work. The page is server-rendered. The JSON-LD is in the raw",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F16kqjzs2vbqy4zhty0b9.png",
-      "published": "Sat, 18 Jul 2026 18:22:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Built a Crew of AI Agents That Review Code Like a Real Team — Then Watched Them Argue With SigNoz",
-      "link": "https://dev.to/vishnu1438/i-built-a-crew-of-ai-agents-that-review-code-like-a-real-team-then-watched-them-argue-with-signoz-238d",
-      "summary": "I Built a Crew of AI Agents That Review Code Like a Real Team — Then Watched Them Argue With SigNoz\n\n\nMy submission for the Agents of SigNoz Hackathon (Track: AI &amp; Agent Observability)\n\n\n  \n  \n  The idea\n\n\nMost \"AI c",
+      "title": "Send auth and transactional email from a replyable mailbox",
+      "link": "https://dev.to/mqasimca/send-auth-and-transactional-email-from-a-replyable-mailbox-8oi",
+      "summary": "Most transactional email setups end at \"send.\" You wire up SendGrid or Postmark, point your auth flow at it, and your magic links, OTPs, receipts, and \"is this you?\" alerts go out the door from no-reply@yourcompany.com. ",
       "image": "",
-      "published": "Sat, 18 Jul 2026 18:22:46 +0000",
+      "published": "Sun, 19 Jul 2026 01:07:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Project Log #17: My Agent Misreads Bank Balances. Here's How I'm Fixing It.",
-      "link": "https://dev.to/okeke_chukwudubem_5f3bf49/project-log-17-my-agent-misreads-bank-balances-heres-how-im-fixing-it-4egj",
-      "summary": "Day 17. OCR on banking apps is unreliable. I built a verification layer that double-checks every number.\n\nDay 16 was a milestone: multi-app workflows. The agent copied my bank balance and sent it to Mom on WhatsApp. Thre",
+      "title": "Why I finally ditched VS Code for Cursor (and why you should too)",
+      "link": "https://dev.to/oviawe_nosa_78bf57cb51e41/why-i-finally-ditched-vs-code-for-cursor-and-why-you-should-too-5485",
+      "summary": "For years, VS Code was the obvious default. It was fast, extensible, familiar, and good enough for almost every kind of development work. I used it the way many engineers do: a polished editor, a handful of plugins, a te",
       "image": "",
-      "published": "Sat, 18 Jul 2026 18:21:54 +0000",
+      "published": "Sun, 19 Jul 2026 01:05:26 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "One Missed Test Case Cost Me 8 Hours — How I Built a Zero-Regression Memory Test Suite with Pytest + Docker",
+      "link": "https://dev.to/_eb7f2a654e97a60ae9f96e/one-missed-test-case-cost-me-8-hours-how-i-built-a-zero-regression-memory-test-suite-with-pytest-23o8",
+      "summary": "I got woken up by an alert call at 2 a.m. – the production chatbot had suddenly developed “amnesia.” It was completely unable to recall order information we had just discussed that morning. I scrambled to investigate and",
+      "image": "",
+      "published": "Sun, 19 Jul 2026 01:05:26 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How to Add Real-Time Google Search to Cursor with an MCP Server",
+      "link": "https://dev.to/germey/how-to-add-real-time-google-search-to-cursor-with-an-mcp-server-113o",
+      "summary": "When you are deep in a coding session, the most expensive part of “just checking something” is often not the search itself — it is leaving the editor, opening a browser, scanning results, and then rebuilding context in y",
+      "image": "",
+      "published": "Sun, 19 Jul 2026 01:04:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
+      "link": "https://css-tricks.com/whats-important-14/",
+      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
+      "image": "",
+      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "The Shifting Line Between CSS States and JavaScript Events",
+      "link": "https://css-tricks.com/css-states-and-javascript-events/",
+      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
+      "image": "",
+      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
