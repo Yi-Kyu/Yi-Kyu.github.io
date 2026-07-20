@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-20T13:40:41.777413Z",
+  "updated": "2026-07-20T19:19:02.857464Z",
   "articles": [
+    {
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg",
+      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg",
+      "published": "Mon, 20 Jul 2026 20:03:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
+      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed systems, weak checks, o",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg",
+      "published": "Mon, 20 Jul 2026 19:02:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
       "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Ini",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg",
-      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-      "source": "The Hacker News",
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+      "image": "",
+      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe findings come from an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg",
-      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg",
-      "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-      "source": "The Hacker News",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how t",
+      "image": "",
+      "published": "Mon, 20 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
       "image": "",
       "published": "Mon, 20 Jul 2026 06:06:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 05:29:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-      "image": "",
-      "published": "Sun, 19 Jul 2026 10:23:46 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Stop Using OpenCode",
-      "link": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "summary": "Article URL: https://wren.wtf/shower-thoughts/stop-using-opencode/\nComments URL: https://news.ycombinator.com/item?id=48978112\nPoints: 34\n# Comments: 15",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "link": "https://blaizzy.github.io/nativ/",
+      "summary": "Article URL: https://blaizzy.github.io/nativ/\nComments URL: https://news.ycombinator.com/item?id=48982681\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Mon, 20 Jul 2026 12:45:55 +0000",
+      "published": "Mon, 20 Jul 2026 18:16:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "summary": "Article URL: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/\nComments URL: https://news.ycombinator.com/item?id=48977711\nPoints: 111\n# Comments: 63",
+      "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement",
+      "link": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+      "summary": "Article URL: https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/\nComments URL: https://news.ycombinator.com/item?id=48982583\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Mon, 20 Jul 2026 12:14:08 +0000",
+      "published": "Mon, 20 Jul 2026 18:10:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Airport Simulator",
-      "link": "https://airport.apunen.com/",
-      "summary": "Article URL: https://airport.apunen.com/\nComments URL: https://news.ycombinator.com/item?id=48976846\nPoints: 165\n# Comments: 41",
+      "title": "The drivers behind software delivery inefficiency",
+      "link": "https://dl.acm.org/doi/10.1145/3800646.3800650",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3800646.3800650\nComments URL: https://news.ycombinator.com/item?id=48982578\nPoints: 12\n# Comments: 1",
       "image": "",
-      "published": "Mon, 20 Jul 2026 10:30:40 +0000",
+      "published": "Mon, 20 Jul 2026 18:10:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Airbus Takes Flight from AWS",
-      "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-      "summary": "Article URL: https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\nComments URL: https://news.ycombinator.com/item?id=48976682\nPoints: 144\n# Comments: 103",
+      "title": "That post never existed. Stop listening to that thing",
+      "link": "https://rachelbythebay.com/w/2026/05/05/404/",
+      "summary": "Article URL: https://rachelbythebay.com/w/2026/05/05/404/\nComments URL: https://news.ycombinator.com/item?id=48982374\nPoints: 60\n# Comments: 36",
       "image": "",
-      "published": "Mon, 20 Jul 2026 10:12:22 +0000",
+      "published": "Mon, 20 Jul 2026 17:57:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "summary": "Article URL: https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\nComments URL: https://news.ycombinator.com/item?id=48975665\nPoints: 247\n# Comments: 130",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "link": "https://hypr.land/news/update55/",
+      "summary": "Article URL: https://hypr.land/news/update55/\nComments URL: https://news.ycombinator.com/item?id=48982011\nPoints: 55\n# Comments: 33",
       "image": "",
-      "published": "Mon, 20 Jul 2026 08:13:36 +0000",
+      "published": "Mon, 20 Jul 2026 17:31:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Skill Review: A New Artifact for a New Workflow",
-      "link": "https://dev.to/diyaburman/the-skill-review-a-new-artifact-for-a-new-workflow-2m4d",
-      "summary": "Preface\n\n\nI want to be upfront about something before we get into it. None of the frameworks in this article is mine. The ideas here come from two people who have been thinking about this stuff way harder and longer than",
+      "title": "MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows",
+      "link": "https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj",
+      "summary": "MathWorks just shipped what every applied-AI engineer has been quietly asking for: an open-source bridge that lets an AI agent sit down at a live MATLAB session, write code, run it, read the error, and try again — instea",
       "image": "",
-      "published": "Mon, 20 Jul 2026 13:30:00 +0000",
+      "published": "Mon, 20 Jul 2026 19:08:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AWS S3 Deep Dive — Objects, Encryption, Bucket Policies & Everything In Between",
-      "link": "https://dev.to/tejas_shinkar/aws-s3-deep-dive-objects-encryption-bucket-policies-everything-in-between-3k8k",
-      "summary": "Part of my AWS learning journey — transitioning from Systems Engineer to Cloud/DevOps. This session goes deep into S3 — the most widely used AWS service and a guaranteed topic in every AWS certification and DevOps interv",
+      "title": "Killing N+1 Queries: From Per-Row Lookups to Flat, Batched Reads",
+      "link": "https://dev.to/daniel_akudbilla_999ccff6/killing-n1-queries-from-per-row-lookups-to-flat-batched-reads-32f7",
+      "summary": "You ship a read endpoint. It lists some things, say devices or orders or invoices, and for each row it pulls in a bit of related data. With five rows in the demo it's instant. Six months and a few thousand rows later, th",
       "image": "",
-      "published": "Mon, 20 Jul 2026 13:27:36 +0000",
+      "published": "Mon, 20 Jul 2026 19:06:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My Roadmap for Becoming a Better Developer in 2026",
-      "link": "https://dev.to/jerrysharon/my-roadmap-for-becoming-a-better-developer-in-2026-49ff",
-      "summary": "Becoming a better developer isn't about learning everything—it's about learning the right things consistently.\n\n\nWhen I started learning software development, I quickly realized there are countless languages, frameworks,",
+      "title": "MCP Explained for Beginners: The Easiest Way to Understand Model Context Protocol",
+      "link": "https://dev.to/darshanraval/mcp-explained-for-beginners-the-easiest-way-to-understand-model-context-protocol-512h",
+      "summary": "MCP Explained for Beginners: The Easiest Way to Understand Model Context Protocol\n\n\n\n\"Think of MCP as USB-C for AI.\"\n\n\nThat's the simplest explanation I've found.\n\nWhen I first heard about Model Context Protocol (MCP), I",
       "image": "",
-      "published": "Mon, 20 Jul 2026 13:26:41 +0000",
+      "published": "Mon, 20 Jul 2026 19:04:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Left of the Loop: The Boule",
-      "link": "https://dev.to/aepfli/left-of-the-loop-the-boule-783",
-      "summary": "The Boule was a council of five hundred, fifty chosen from each of ten tribes. It didn’t replace the Assembly. It prepared what the Assembly would decide, and carried the city’s business in the space between full gatheri",
+      "title": "One Brain, Two Wallets: Two Claude Code Accounts on One Machine",
+      "link": "https://dev.to/daksh-gargas/one-brain-two-wallets-two-claude-code-accounts-on-one-machine-5ejb",
+      "summary": "I hit my Claude Code usage limit mid-week. I have a second subscription, but switching accounts the naive way — /logout, /login, repeat — is miserable, and it turns out \"switching accounts\" in Claude Code silently means ",
       "image": "",
-      "published": "Mon, 20 Jul 2026 13:23:09 +0000",
+      "published": "Mon, 20 Jul 2026 18:56:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Part 2: Angular Bundle Size Is Only One Part of Performance",
-      "link": "https://dev.to/alejandrodeveloper/part-2-angular-bundle-size-is-only-one-part-of-performance-2dd",
-      "summary": "Part 2 of the Angular in Production series\nOne of the first things people usually check when an Angular application feels slow is the bundle size. That makes sense. If the browser has to download several megabytes of Jav",
+      "title": "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics",
+      "link": "https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-2m43",
+      "summary": "Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics\n\n\nHow we replaced \"looks good to me\" with automated evaluation catching 92% of hallucinations before deployment\n\n\n\n\n\n  \n  \n  The Problem: Why \"Vib",
       "image": "",
-      "published": "Mon, 20 Jul 2026 13:20:53 +0000",
+      "published": "Mon, 20 Jul 2026 18:55:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
