@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-19T18:43:36.835535Z",
+  "updated": "2026-07-20T01:18:32.387927Z",
   "articles": [
+    {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg",
+      "published": "Mon, 20 Jul 2026 02:12:49 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
       "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
@@ -34,15 +43,6 @@
       "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.\n\nOpenSSL shipped the",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk66eU1Srifu4Rdpf7MZDjg3GdNMtQK6ZW-F283kxhZ7Z0W_8nWNJynZiQ7n0ov9OLNm315P4942h3-unMI0WZ1-LH8tdQ6sv2o6q0TxKT-bVKewzkQULKKXSJOee_oANuI3YquoDgSPHsPeXEdQcFRoy8czRQimH_f0sNHJ55-5LA153sQgUPkpBBEVE/s1600/openssl.jpg",
       "published": "Sat, 18 Jul 2026 01:50:53 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\nThe malicious package campaign, codenamed Vite",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg",
-      "published": "Sat, 18 Jul 2026 00:24:51 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Less Is More: Why Audio on SoundCloud Looks Different",
-      "link": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
-      "summary": "Article URL: https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/\nComments URL: https://news.ycombinator.com/item?id=48970372\nPoints: 4\n# Comments: 1",
+      "title": "DeKalb deputy charged with Flock camera misuse; more Georgia officers fired",
+      "link": "https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/",
+      "summary": "Article URL: https://www.ajc.com/news/2026/07/3-more-georgia-police-officers-fired-over-alleged-flock-camera-misuse/\nComments URL: https://news.ycombinator.com/item?id=48973123\nPoints: 15\n# Comments: 8",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:10:12 +0000",
+      "published": "Mon, 20 Jul 2026 00:41:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Neither GCC nor Clang are compliant with standard C++",
-      "link": "https://sebsite.pw/w/20260708-badstdcxx.html",
-      "summary": "Article URL: https://sebsite.pw/w/20260708-badstdcxx.html\nComments URL: https://news.ycombinator.com/item?id=48970039\nPoints: 12\n# Comments: 0",
+      "title": "Ask HN: What are your favorite blogs not about AI?",
+      "link": "https://news.ycombinator.com/item?id=48972858",
+      "summary": "Many of my favorite bloggers have stopped writing (or have drastically shifted topics). What are your favorite blogs?I miss the 2009 era of blogging about personal projects or super niche factoids.\n\nComments URL: https:/",
       "image": "",
-      "published": "Sun, 19 Jul 2026 17:32:41 +0000",
+      "published": "Sun, 19 Jul 2026 23:58:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "HMD Touch 4G",
-      "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "summary": "Article URL: https://www.hmd.com/en_int/hmd-touch-4g\nComments URL: https://news.ycombinator.com/item?id=48969983\nPoints: 22\n# Comments: 24",
+      "title": "We want Texans to know their rights",
+      "link": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id=48972062\nPoints: 115\n# Comments: 36",
       "image": "",
-      "published": "Sun, 19 Jul 2026 17:25:03 +0000",
+      "published": "Sun, 19 Jul 2026 22:03:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Last MPEG-4 Visual Patent Has Expired",
-      "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-      "summary": "Article URL: https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired\nComments URL: https://news.ycombinator.com/item?id=48969635\nPoints: 37\n# Comments: 10",
+      "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+      "link": "https://github.com/Pedroshakoor/grok-build-ios",
+      "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Sun, 19 Jul 2026 16:45:17 +0000",
+      "published": "Sun, 19 Jul 2026 21:51:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
-      "link": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-      "summary": "Article URL: https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes\nComments URL: https://news.ycombinator.com/item?id=48969582\nPoints: 43\n# Comments: 13",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer\nComments URL: https://news.ycombinator.com/item?id=48971938\nPoints: 31\n# Comments: 2",
       "image": "",
-      "published": "Sun, 19 Jul 2026 16:38:36 +0000",
+      "published": "Sun, 19 Jul 2026 21:42:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Learning Software Engineering in the Era of AI",
-      "link": "https://dev.to/fadialatia/learning-software-engineering-in-the-era-of-ai-1iif",
-      "summary": "Learning software engineering in the past was a straight forward process, you learn the programming language, you build projects in your portfolio, apply to companies, get a job and life goes on.\n\nDoing that in the curre",
+      "title": "The Day I Realized \"It Ran Successfully\" Means Nothing in Databricks Production",
+      "link": "https://dev.to/dcmerritt/the-day-i-realized-it-ran-successfully-means-nothing-in-databricks-production-59cm",
+      "summary": "Here's a scenario that plays out at every company that has ever adopted Databricks:\n\nA senior engineer ships a new pipeline to production. It's a MERGE job — reads from a silver Delta table, applies some business logic, ",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:36:08 +0000",
+      "published": "Mon, 20 Jul 2026 01:12:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Small Terminal Command Helper with an LLM",
-      "link": "https://dev.to/eduardj_67dc3f850/building-a-small-terminal-command-helper-with-an-llm-2bdm",
-      "summary": "I regularly lose time to terminal muscle memory.\n\nI work across Windows and Unix-like shells, so I will remember the right command in the wrong environment, transpose a Git subcommand, or use a valid binary with an inval",
+      "title": "What 38 months of commits did to LangChain's architecture — measured",
+      "link": "https://dev.to/codequal/what-38-months-of-commits-did-to-langchains-architecture-measured-2827",
+      "summary": "For most of its history, LangChain shipped a new release roughly every 30 minutes. By the end of the window I analyzed, releases were coming once every six days, and a CI build that historically took about 10 seconds was",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:27:16 +0000",
+      "published": "Mon, 20 Jul 2026 01:09:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI is increasingly presented as the solution. But can a nondeterministic system ever be the optimal solution?",
-      "link": "https://dev.to/downtherabbithole/ai-is-increasingly-presented-as-the-solution-but-can-a-nondeterministic-system-ever-be-the-optimal-3gf1",
-      "summary": "",
+      "title": "Controlling Codex via JSON-RPC with Codex App Server",
+      "link": "https://dev.to/version1/controlling-codex-via-json-rpc-with-codex-app-server-1moc",
+      "summary": "Have you heard of Codex App Server?\n\nInstead of interacting with Codex through the CLI, Codex App Server lets you control a Codex agent over JSON-RPC.\n\nIn other words, you can build your own GUI, TUI, task queue, or orch",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:27:14 +0000",
+      "published": "Mon, 20 Jul 2026 01:07:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The BFF Pattern: Your API Token Has No Business in the Browser",
-      "link": "https://dev.to/lepresk/the-bff-pattern-your-api-token-has-no-business-in-the-browser-40mj",
-      "summary": "You've got a Next.js app on one domain and your API on another. The login works, the dashboard fills up, everything looks fine. Then one day you open the Network tab and there it is: your access token, in plain text, in ",
+      "title": "How to Add Generate and Edit Image Workflows with the Nano Banana Images API",
+      "link": "https://dev.to/germey/how-to-add-generate-and-edit-image-workflows-with-the-nano-banana-images-api-42dc",
+      "summary": "A lot of image features start simple: generate one picture from a prompt, or edit an existing image from a product page. The hard part is turning that into a backend workflow that is predictable enough for an app.\n\nThis ",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:24:40 +0000",
+      "published": "Mon, 20 Jul 2026 01:07:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dev Tool Pricing Changes — July 2026",
-      "link": "https://dev.to/mehdi_alaoui/dev-tool-pricing-changes-july-2026-3c91",
-      "summary": "This report analyzes pricing shifts across 35 developer tools tracked over a seven-week period from 2026-W19 to 2026-W29. We have identified 37 total pricing changes during this window, providing a clear snapshot of how ",
+      "title": "AI Sleep Coach: Build a Multi-Agent System to Master Your Circadian Rhythm with CrewAI",
+      "link": "https://dev.to/beck_moulton/ai-sleep-coach-build-a-multi-agent-system-to-master-your-circadian-rhythm-with-crewai-1g2n",
+      "summary": "In the era of \"hustle culture,\" our most valuable asset—sleep—is often the first thing we sacrifice. But what if you could automate your recovery? Today, we are building an AI Sleep Coach, a sophisticated Multi-Agent Sys",
       "image": "",
-      "published": "Sun, 19 Jul 2026 18:22:41 +0000",
+      "published": "Mon, 20 Jul 2026 00:55:00 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
