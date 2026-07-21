@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-21T01:15:42.893558Z",
+  "updated": "2026-07-21T08:01:23.781645Z",
   "articles": [
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotted deploying ENCFORGE",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg",
+      "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it's observing in-the-w",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg",
+      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
       "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
@@ -25,24 +43,6 @@
       "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg",
       "published": "Mon, 20 Jul 2026 20:03:43 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.\n\nThe paths were often simple: exposed systems, weak checks, o",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg",
-      "published": "Mon, 20 Jul 2026 19:02:26 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg",
-      "published": "Mon, 20 Jul 2026 17:43:39 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "summary": "Article URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/\nComments URL: https://news.ycombinator.com/item?id=48984270\nPoints: 50\n# Comments: 46",
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "summary": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 8\n# Comments: 6",
       "image": "",
-      "published": "Mon, 20 Jul 2026 20:12:19 +0000",
+      "published": "Tue, 21 Jul 2026 06:29:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "link": "https://vincentwoo.com/3d/grace_cathedral/",
-      "summary": "Article URL: https://vincentwoo.com/3d/grace_cathedral/\nComments URL: https://news.ycombinator.com/item?id=48984254\nPoints: 66\n# Comments: 13",
+      "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+      "link": "https://exsitu.app/map",
+      "summary": "Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american instit",
       "image": "",
-      "published": "Mon, 20 Jul 2026 20:10:44 +0000",
+      "published": "Tue, 21 Jul 2026 04:48:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "summary": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\nComments URL: https://news.ycombinator.com/item?id=48984231\nPoints: 51\n# Comments: 5",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding\nComments URL: https://news.ycombinator.com/item?id=48987863\nPoints: 224\n# Comments: 101",
       "image": "",
-      "published": "Mon, 20 Jul 2026 20:08:45 +0000",
+      "published": "Tue, 21 Jul 2026 03:56:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Human mathematicians are being outcounterexampled",
-      "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "summary": "Article URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\nComments URL: https://news.ycombinator.com/item?id=48983382\nPoints: 191\n# Comments: 71",
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "link": "https://www.armaangomes.com/blogs/doom/",
+      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 49\n# Comments: 9",
       "image": "",
-      "published": "Mon, 20 Jul 2026 19:03:37 +0000",
+      "published": "Tue, 21 Jul 2026 03:54:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "link": "https://blaizzy.github.io/nativ/",
-      "summary": "Article URL: https://blaizzy.github.io/nativ/\nComments URL: https://news.ycombinator.com/item?id=48982681\nPoints: 166\n# Comments: 69",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 28\n# Comments: 21",
       "image": "",
-      "published": "Mon, 20 Jul 2026 18:16:08 +0000",
+      "published": "Tue, 21 Jul 2026 03:52:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Every AWS project starts with copy-pasting last repo's Terraform. I built a generator instead.",
-      "link": "https://dev.to/framz/every-aws-project-starts-with-copy-pasting-last-repos-terraform-i-built-a-generator-instead-2fpg",
-      "summary": "Be honest about how your last AWS project's infrastructure started. You copied the Terraform from the previous repo, deleted the bits that threw errors, and moved on. Six months later nobody remembers why half of it is s",
+      "title": "Signing webhook payloads in Laravel - and the mistake that breaks it silently",
+      "link": "https://dev.to/boris-stiner/signing-webhook-payloads-in-laravel-and-the-mistake-that-breaks-it-silently-3o82",
+      "summary": "Hi, I'm Boris a PHP developer whose deepest experience is TYPO3, with Laravel and Filament being a newer, growing focus. A lot of that work across both has been building admin tooling and integrations that quietly need t",
       "image": "",
-      "published": "Tue, 21 Jul 2026 01:05:33 +0000",
+      "published": "Tue, 21 Jul 2026 07:56:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MCP Session Architecture: Scale Agent Integrations Without Sticky Servers",
-      "link": "https://dev.to/jackm-singularity/mcp-session-architecture-scale-agent-integrations-without-sticky-servers-flk",
-      "summary": "AI agents rarely fail because the demo was bad. They fail when the same workflow must run for many users, across many tools, behind real load balancers, with logs, retries, auth, and cost limits. That is where a small MC",
+      "title": "Why Self-Healing AI Scrapers Still Break on Login-Walled, JS-Heavy Targets.",
+      "link": "https://dev.to/promptcloud_services/why-self-healing-ai-scrapers-still-break-on-login-walled-js-heavy-targets-45a0",
+      "summary": "Self-healing AI scrapers sound like the obvious next step in web data collection. Instead of manually updating selectors every time a website changes, the scraper can inspect the page, understand the new structure, adjus",
       "image": "",
-      "published": "Tue, 21 Jul 2026 01:04:14 +0000",
+      "published": "Tue, 21 Jul 2026 07:53:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I added MCP servers to Claude Code. Here's what they cost in tokens.",
-      "link": "https://dev.to/wartzarbee/i-added-mcp-servers-to-claude-code-heres-what-they-cost-in-tokens-2can",
-      "summary": "Everyone talks about MCP servers as a way to extend Claude Code. Fewer people talk about what they cost.\n\nEvery MCP tool you register injects a tool-definition block into your context window on every single turn. That's ",
+      "title": "No-code at scale: Why the real engineering challenge is the treadmill, not the editor.",
+      "link": "https://dev.to/goodbarber/no-code-at-scale-why-the-real-engineering-challenge-is-the-treadmill-not-the-editor-275o",
+      "summary": "\"No-code\" sounds effortless. Configure your app in a browser, hit publish, done. And that is exactly how it should feel, for one app, seen from the outside. Keeping thousands of no-code apps alive and published, for year",
       "image": "",
-      "published": "Tue, 21 Jul 2026 01:02:24 +0000",
+      "published": "Tue, 21 Jul 2026 07:52:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From text-JSON parsing to Claude tool use in JobSearch",
-      "link": "https://dev.to/mk023/from-text-json-parsing-to-claude-tool-use-in-jobsearch-3cjg",
-      "summary": "My job-search tool had five functions whose only purpose was fixing JSON that Claude had just written. _clean_json_text, _fix_unescaped_newlines, _fix_single_quotes, _strip_markdown_wrapper, _extract_and_parse_json. Ther",
+      "title": "Can You Trust an AI to Schedule Your Heart Surgery?",
+      "link": "https://dev.to/vaiu-ai/can-you-trust-an-ai-to-schedule-your-heart-surgery-1i51",
+      "summary": "The High Stakes of the Waiting List\n\nA phone rings at the scheduling desk of a major metropolitan cardiac center. On the other end of the line is a patient who has been experiencing worsening chest pain, waiting for a co",
       "image": "",
-      "published": "Tue, 21 Jul 2026 00:55:05 +0000",
+      "published": "Tue, 21 Jul 2026 07:51:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How AI changed the way I pick frameworks, and the two places React survived",
-      "link": "https://dev.to/zacharylee/how-ai-changed-the-way-i-pick-frameworks-and-the-two-places-react-survived-3h3",
-      "summary": "That 130-file PR that shipped KeyEcho 1.0 contained a decision I never wrote about: the desktop app moved from Tauri 1 + Vue to Tauri 2 + SolidJS.\n\nThe same summer, upweb.dev moved from Nuxt 4 to SolidStart, and keyecho.",
+      "title": "5 Places Sensitive Data Leaks in a React Native App (and How to Plug Them)",
+      "link": "https://dev.to/russel_dsouza_bd584a3cb2a/5-places-sensitive-data-leaks-in-a-react-native-app-and-how-to-plug-them-3gf1",
+      "summary": "The leaks that matter usually aren't in production code — they're in the workflow around it.\nFive common ones: AsyncStorage for tokens, real user data in design mockups, multi-stage AI pipelines, logs and crash reports, ",
       "image": "",
-      "published": "Tue, 21 Jul 2026 00:51:32 +0000",
+      "published": "Tue, 21 Jul 2026 07:49:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
