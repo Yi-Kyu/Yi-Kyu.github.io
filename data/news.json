@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-21T08:01:23.781645Z",
+  "updated": "2026-07-21T13:07:29.941564Z",
   "articles": [
+    {
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running comman",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg",
+      "published": "Tue, 21 Jul 2026 17:28:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg",
+      "published": "Tue, 21 Jul 2026 17:12:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim behind Bit2Watt, descr",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg",
+      "published": "Tue, 21 Jul 2026 16:54:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.\n\nThe two security",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg",
+      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
       "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it's observing in-the-w",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg",
-      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
-      "source": "The Hacker News",
+      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+      "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 07:07:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware fa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg",
-      "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-      "source": "The Hacker News",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 06:12:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg",
-      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjho_D61rng1SKt_vyKBuuHeBlTm5uQ55-9SSSXuktMbO6iE0khzlKYA0mmaNLDVejgglz1kKnBkINCbI_KdqdH48UBw9bALf9l7ebuab84zp3aMnIHAbvm4OI62y4_QChmk-SnrUFN6AZ2bJgkvZasI4eApEFPX4M-94ZRO_MfQTjX52CaYQ-Ui2trHfs/s1600/ms365.jpg",
-      "published": "Mon, 20 Jul 2026 20:03:43 +0530",
-      "source": "The Hacker News",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
       "image": "",
       "published": "Mon, 20 Jul 2026 18:39:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-      "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 18:23:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-      "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 18:22:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "image": "",
-      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,11 +137,20 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-      "summary": "Article URL: https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\nComments URL: https://news.ycombinator.com/item?id=48988793\nPoints: 8\n# Comments: 6",
+      "title": "New US homeownership measure puts people first",
+      "link": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "summary": "Article URL: https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first\nComments URL: https://news.ycombinator.com/item?id=48991139\nPoints: 34\n# Comments: 18",
       "image": "",
-      "published": "Tue, 21 Jul 2026 06:29:22 +0000",
+      "published": "Tue, 21 Jul 2026 12:03:14 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0\nComments URL: https://news.ycombinator.com/item?id=48989701\nPoints: 241\n# Comments: 112",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 08:44:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
@@ -155,18 +164,9 @@
       "category": "development"
     },
     {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding\nComments URL: https://news.ycombinator.com/item?id=48987863\nPoints: 224\n# Comments: 101",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 03:56:03 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Running Doom on Our Custom CPU and Going Viral",
       "link": "https://www.armaangomes.com/blogs/doom/",
-      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 49\n# Comments: 9",
+      "summary": "Article URL: https://www.armaangomes.com/blogs/doom/\nComments URL: https://news.ycombinator.com/item?id=48987846\nPoints: 93\n# Comments: 20",
       "image": "",
       "published": "Tue, 21 Jul 2026 03:54:16 +0000",
       "source": "Hacker News: Front Page",
@@ -175,100 +175,55 @@
     {
       "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
       "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 28\n# Comments: 21",
+      "summary": "Article URL: https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\nComments URL: https://news.ycombinator.com/item?id=48987831\nPoints: 46\n# Comments: 36",
       "image": "",
       "published": "Tue, 21 Jul 2026 03:52:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Signing webhook payloads in Laravel - and the mistake that breaks it silently",
-      "link": "https://dev.to/boris-stiner/signing-webhook-payloads-in-laravel-and-the-mistake-that-breaks-it-silently-3o82",
-      "summary": "Hi, I'm Boris a PHP developer whose deepest experience is TYPO3, with Laravel and Filament being a newer, growing focus. A lot of that work across both has been building admin tooling and integrations that quietly need t",
+      "title": "The Watermark Is the Real Boundary Between Training and Serving",
+      "link": "https://dev.to/aiexplore369zoho/the-watermark-is-the-real-boundary-between-training-and-serving-2p5a",
+      "summary": "TL;DR — Streaming AI pipelines get evaluated on latency and throughput, but the deeper risk is time semantics: watermarks, allowed lateness, and out-of-order events silently change what a feature means between training a",
       "image": "",
-      "published": "Tue, 21 Jul 2026 07:56:13 +0000",
+      "published": "Tue, 21 Jul 2026 13:01:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Self-Healing AI Scrapers Still Break on Login-Walled, JS-Heavy Targets.",
-      "link": "https://dev.to/promptcloud_services/why-self-healing-ai-scrapers-still-break-on-login-walled-js-heavy-targets-45a0",
-      "summary": "Self-healing AI scrapers sound like the obvious next step in web data collection. Instead of manually updating selectors every time a website changes, the scraper can inspect the page, understand the new structure, adjus",
+      "title": "Por André Dias Moreira Prol — Agente de IA automatiza 80% do suporte de TI",
+      "link": "https://dev.to/andr_diasmoreiraprol_b/por-andre-dias-moreira-prol-agente-de-ia-automatiza-80-do-suporte-de-ti-13fg",
+      "summary": "Havia uma quinta-feira específica em que percebi que algo precisava mudar: minha equipe de suporte tinha respondido 47 vezes à mesma pergunta sobre reset de senha antes do meio-dia. Naquele momento, entendi que estávamos",
       "image": "",
-      "published": "Tue, 21 Jul 2026 07:53:44 +0000",
+      "published": "Tue, 21 Jul 2026 13:01:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "No-code at scale: Why the real engineering challenge is the treadmill, not the editor.",
-      "link": "https://dev.to/goodbarber/no-code-at-scale-why-the-real-engineering-challenge-is-the-treadmill-not-the-editor-275o",
-      "summary": "\"No-code\" sounds effortless. Configure your app in a browser, hit publish, done. And that is exactly how it should feel, for one app, seen from the outside. Keeping thousands of no-code apps alive and published, for year",
+      "title": "Agentic Loops in Marketing: Lessons From Microsoft's C++ Demo",
+      "link": "https://dev.to/tran_tienvan_e45fc26d655/agentic-loops-in-marketing-lessons-from-microsofts-c-demo-5fm5",
+      "summary": "On July 21, 2026, Microsoft’s C++ team demonstrated agentic loops on real engineering projects with an unusually crisp judge: builds and tests.\nThat makes the demo useful to marketers—but only if we resist pretending Mic",
       "image": "",
-      "published": "Tue, 21 Jul 2026 07:52:11 +0000",
+      "published": "Tue, 21 Jul 2026 13:00:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Can You Trust an AI to Schedule Your Heart Surgery?",
-      "link": "https://dev.to/vaiu-ai/can-you-trust-an-ai-to-schedule-your-heart-surgery-1i51",
-      "summary": "The High Stakes of the Waiting List\n\nA phone rings at the scheduling desk of a major metropolitan cardiac center. On the other end of the line is a patient who has been experiencing worsening chest pain, waiting for a co",
+      "title": "How to Use Bun 1.3.14's Built‑in Image API",
+      "link": "https://dev.to/frank_signorini/how-to-use-bun-1314s-built-in-image-api-4j2h",
+      "summary": "I was scrolling through the Bun blog this morning and saw the announcement for Bun v1.3.14. For a developer who spends a lot of time juggling Node, Deno, and now Bun for server‑side JavaScript, every new release is a cha",
       "image": "",
-      "published": "Tue, 21 Jul 2026 07:51:15 +0000",
+      "published": "Tue, 21 Jul 2026 13:00:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "5 Places Sensitive Data Leaks in a React Native App (and How to Plug Them)",
-      "link": "https://dev.to/russel_dsouza_bd584a3cb2a/5-places-sensitive-data-leaks-in-a-react-native-app-and-how-to-plug-them-3gf1",
-      "summary": "The leaks that matter usually aren't in production code — they're in the workflow around it.\nFive common ones: AsyncStorage for tokens, real user data in design mockups, multi-stage AI pipelines, logs and crash reports, ",
+      "title": "Gumroad shows you nothing about revenue. We reverse-engineer it to 15-25%.",
+      "link": "https://dev.to/insightraider/gumroad-shows-you-nothing-about-revenue-we-reverse-engineer-it-to-15-25-128g",
+      "summary": "📊 Originally published on InsightRaider, a data platform tracking digital product revenue across Gumroad, Systeme.io and Whop.\n\n\nFour models, ±15-25% accuracy, zero public revenue data to start from. Gumroad, Systeme.io,",
       "image": "",
-      "published": "Tue, 21 Jul 2026 07:49:01 +0000",
+      "published": "Tue, 21 Jul 2026 13:00:03 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Shifting Line Between CSS States and JavaScript Events",
-      "link": "https://css-tricks.com/css-states-and-javascript-events/",
-      "summary": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically li",
-      "image": "",
-      "published": "Mon, 29 Jun 2026 13:03:32 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
