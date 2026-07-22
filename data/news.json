@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-22T01:14:44.743779Z",
+  "updated": "2026-07-22T08:02:16.162100Z",
   "articles": [
+    {
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the ma",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg",
+      "published": "Wed, 22 Jul 2026 12:08:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digita",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg",
+      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.\n\nThe flaw",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg",
+      "published": "Wed, 22 Jul 2026 10:27:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
+      "published": "Wed, 22 Jul 2026 09:48:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.\n\nIntezer, in res",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfMUQ_pVP5as41uM_4cR8oRUsCwuXPMLLG63jNd5Djqso9kJyQZLiZgQrMQzykhRaX8BQCydIMPokGoITYY30kc3dH-8iy4Bd-ux36RoIjyNYXtKwb1F1fPdP00hoHD-9Q9s5CGD30w58s5wfyzBGOQvnIxM8JlHkig881HSQQuu4Hk6GBiDJicUYE8o/s1600/AWS-Kiro.jpg",
-      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-      "source": "The Hacker News",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "image": "",
+      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEEErOjlKug3DfeSGwzEbvNrUSCkzDF0o7uAnDNHFuE5MWaTlnB8sSfYJ4VsQaG39Kv_-L50Zc5GOJrpLYvW_2i8TFFI1xAWMRnFa-M6smZrswwGgnUMmEe-F-FB5Hw3OQWxVdSfPAKCFidVnQODRBSDT9WbF4dZmfrOsvvvhHmIAnroCkyFmmhlc_YQyC/s1600/gemini-cyber-flash.jpg",
-      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.\n\nThe vulnerability in question is CVE-2026-50522 (CVSS score: 9.8),",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiY-8bLYm125By8D7AuLG0iHjE5hB2_ysYdB1WkSc0wxB_virPrL19JZ0Ow8Nzsu0DkoTWboikIsKEyDs9393o1yaFJ0LZMFy64Hzk4XGzOqnpjJMgptlxVsHnmDm6twDSVhCkT1HFTFVmDW2zvlmz3qvQP9vftatDZFCw_GvauRT_2yEF-REvZlXyb_I/s1600/sharepoint.jpg",
-      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.\n\nArctic Wolf Labs said it ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP1HNhUk3hMm0HOAQBAVExGT5-PQfrxeAtKrKRpG_eaXz5qEtVKiuH4-nOVMVdbtZ5XVzfk-hM-eFwpS0IAZNpGkp2DmE4wiNauEA3GT-t1UtLNGjtyVuDRPezJSyj4jEw8zeNgoPnyloZe_6K_vM1-nfYYoehFdoWRgVzVnmJUF3wwfamG0BgDdN1BvMJ/s1600/ransomware-attack.jpg",
-      "published": "Tue, 21 Jul 2026 19:34:57 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "image": "",
+      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
       "image": "",
       "published": "Tue, 21 Jul 2026 16:06:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 14:50:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 12:41:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "link": "https://fireworks.ai/blog/kimik3-fable",
-      "summary": "Article URL: https://fireworks.ai/blog/kimik3-fable\nComments URL: https://news.ycombinator.com/item?id=48999291\nPoints: 245\n# Comments: 128",
+      "title": "Show HN: ReadKinetic – a free, local-first speed reader for your own books",
+      "link": "https://www.readkinetic.com/app/",
+      "summary": "Article URL: https://www.readkinetic.com/app/\nComments URL: https://news.ycombinator.com/item?id=49002344\nPoints: 30\n# Comments: 14",
       "image": "",
-      "published": "Tue, 21 Jul 2026 22:35:24 +0000",
+      "published": "Wed, 22 Jul 2026 05:49:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
-      "link": "https://www.getcomputable.com/",
-      "summary": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leas",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "link": "https://openaim.pramit.gg/",
+      "summary": "I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and diffic",
       "image": "",
-      "published": "Tue, 21 Jul 2026 21:48:19 +0000",
+      "published": "Wed, 22 Jul 2026 05:39:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-      "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "summary": "Article URL: https://ai.google.dev/gemini-api/docs/latest-model\nComments URL: https://news.ycombinator.com/item?id=48998606\nPoints: 30\n# Comments: 7",
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "link": "https://github.com/chrislgarry/Apollo-11",
+      "summary": "Article URL: https://github.com/chrislgarry/Apollo-11\nComments URL: https://news.ycombinator.com/item?id=49002166\nPoints: 45\n# Comments: 10",
       "image": "",
-      "published": "Tue, 21 Jul 2026 21:27:54 +0000",
+      "published": "Wed, 22 Jul 2026 05:18:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "summary": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 90\n# Comments: 34",
+      "title": "Late.sh – a command-line Clubhouse for computer people",
+      "link": "https://late.sh/",
+      "summary": "Article URL: https://late.sh/\nComments URL: https://news.ycombinator.com/item?id=49001127\nPoints: 114\n# Comments: 42",
       "image": "",
-      "published": "Tue, 21 Jul 2026 21:13:20 +0000",
+      "published": "Wed, 22 Jul 2026 02:32:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\nComments URL: https://news.ycombinator.com/item?id=48998362\nPoints: 143\n# Comments: 45",
+      "title": "LG to ban residential proxies from smart TV apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\nComments URL: https://news.ycombinator.com/item?id=49000864\nPoints: 235\n# Comments: 201",
       "image": "",
-      "published": "Tue, 21 Jul 2026 21:09:25 +0000",
+      "published": "Wed, 22 Jul 2026 01:52:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Challenges of working on two languages at the same time,ft Go and JS",
-      "link": "https://dev.to/odalov/challenges-of-working-on-two-languages-at-the-same-timeft-go-and-js-1fhn",
-      "summary": "Nobody tells you this part: when you're learning two languages at once, the hardest bugs aren't logic bugs. They're the moments where your fingers type the wrong language's syntax faster than your brain can stop them.\n\nI",
+      "title": "Comparing AI Agents Python Library Options for Production",
+      "link": "https://dev.to/ayush_kumar_085a0f2c54e3f/comparing-ai-agents-python-library-options-for-production-g53",
+      "summary": "Quick answer\n\n\nIf you need a Python library to build an AI agent that can run in production, start with LangChain for flexibility, CrewAI for team-style orchestration, or LlamaIndex if your focus is on data-centric retri",
       "image": "",
-      "published": "Wed, 22 Jul 2026 01:07:13 +0000",
+      "published": "Wed, 22 Jul 2026 07:51:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Three site-list UX improvements: instant completion feedback, error highlighting, and auto-deselect",
-      "link": "https://dev.to/susumun/three-site-list-ux-improvements-instant-completion-feedback-error-highlighting-and-auto-deselect-35o",
-      "summary": "The site-list visualization work has run across several posts: the blue pulse and green completion border, the marker-based running-site detection, and the three-state visual hierarchy. v1.6.8 added three more UX improve",
+      "title": "Teaching an AI to read a relational database — including Oracle APEX",
+      "link": "https://dev.to/java_freepascal_dev/teaching-an-ai-to-read-a-relational-database-including-oracle-apex-4c5p",
+      "summary": "A few months back I started building a  tool to solve a problem that kept\nannoying me: when you want an AI assistant to help with an old database, you end  up as a human clipboard — copying schema, pasting stored procedu",
       "image": "",
-      "published": "Wed, 22 Jul 2026 01:06:06 +0000",
+      "published": "Wed, 22 Jul 2026 07:49:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Cold-Start Problem for Agent Evals: What to Gate on Day One With Zero Labeled Data",
-      "link": "https://dev.to/saurav_bhattacharya/the-cold-start-problem-for-agent-evals-what-to-gate-on-day-one-with-zero-labeled-data-4ck2",
-      "summary": "You just shipped an agent. It works in the demo. Now someone asks the reasonable question: \"How do we know it keeps working?\" And you reach for evals — and hit a wall. You have no labeled dataset. No golden outputs. No h",
+      "title": "My OpenCode Database Was Mostly Empty Space",
+      "link": "https://dev.to/antonio_zhu_e726fd856cd86/my-opencode-database-was-mostly-empty-space-1c49",
+      "summary": "OpenCode keeps a lot of useful history.\n\nThat is one of the reasons I like it. A coding-agent session is not just a chat transcript. It is a record of what I asked, what the agent did, which tools ran, what failed, what ",
       "image": "",
-      "published": "Wed, 22 Jul 2026 01:02:08 +0000",
+      "published": "Wed, 22 Jul 2026 07:47:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Running PostgreSQL with Docker",
-      "link": "https://dev.to/odalov/running-postgresql-with-docker-14m2",
-      "summary": "Installing Postgres directly on your machine works, but it gets messy fast once you're juggling multiple projects that each want different versions, extensions, or seed data. Docker sidesteps all of that you get a clean,",
+      "title": "Building an AI Runtime Operating System for Commodity Hardware (UGR)",
+      "link": "https://dev.to/sumeet_ingenuity/building-an-ai-runtime-operating-system-for-commodity-hardware-ugr-4co4",
+      "summary": "Building an AI Runtime Operating System for Commodity Hardware\n\n\nFor the last few months I've been working on something that started as a simple question:\n\n\nWhy do we still treat AI inference as \"load an entire model int",
       "image": "",
-      "published": "Wed, 22 Jul 2026 00:54:32 +0000",
+      "published": "Wed, 22 Jul 2026 07:46:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SQL: Sub Queries",
-      "link": "https://dev.to/yuripeixinho/sql-sub-queries-18c",
-      "summary": "Introdução\n\n\nUma&nbsp;subquery&nbsp;é uma consulta SQL aninhada dentro de outra. Assim como uma função pode chamar outra função, um&nbsp;SELECT&nbsp;pode conter outro&nbsp;SELECT&nbsp;— e o resultado do interno é usado p",
+      "title": "Why Your Browser Can't Use Multicast (And What Would Have to Change)",
+      "link": "https://dev.to/rakshyak/why-your-browser-cant-use-multicast-and-what-would-have-to-change-18pk",
+      "summary": "How Web Browsing Works Today\n\n\n\n\n\nBrowser ----HTTP/HTTPS----&gt; Web Server\n        (Unicast)\n\n\n\n\n\n\nEvery browser opens its own dedicated TCP connection to the server. If a million people load the same page, the server h",
       "image": "",
-      "published": "Wed, 22 Jul 2026 00:47:16 +0000",
+      "published": "Wed, 22 Jul 2026 07:46:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
