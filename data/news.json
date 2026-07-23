@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-22T18:51:57.453696Z",
+  "updated": "2026-07-23T01:21:25.847290Z",
   "articles": [
+    {
+      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
+      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
+      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_hf7CZEiSANTI34m9Js55tSVk79YZVYvTHW2LwHyOCuvdK-9KWDu3R3eKJDlYJucrv7cUuf7ogDSakCE53IJ56483ktg8xGepMnB6NUGokxPqDsXEuIRXV3R_-d32GgrNI19Y-TrxvVAR3bnOlfgvcDVZYBGs-j5p-VouykZ517zpJ5kUOhtIf6R2sL3/s1600/github-bugbounty.jpg",
+      "published": "Thu, 23 Jul 2026 00:07:42 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
       "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's productio",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg",
-      "published": "Wed, 22 Jul 2026 17:00:02 +0530",
-      "source": "The Hacker News",
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "image": "",
+      "published": "Wed, 22 Jul 2026 17:43:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Aff",
+      "image": "",
+      "published": "Wed, 22 Jul 2026 16:06:54 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, netwo",
       "image": "",
       "published": "Wed, 22 Jul 2026 10:15:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-      "image": "",
-      "published": "Wed, 22 Jul 2026 09:22:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. ",
-      "image": "",
-      "published": "Wed, 22 Jul 2026 07:43:28 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "summary": "Article URL: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\nComments URL: https://news.ycombinator.com/item?id=49010345\nPoints: 172\n# Comments: 71",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "link": "https://arxiv.org/abs/2607.18250",
+      "summary": "Article URL: https://arxiv.org/abs/2607.18250\nComments URL: https://news.ycombinator.com/item?id=49014537\nPoints: 16\n# Comments: 11",
       "image": "",
-      "published": "Wed, 22 Jul 2026 17:30:40 +0000",
+      "published": "Wed, 22 Jul 2026 22:49:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "link": "https://github.com/marcelroed/gigatoken/",
-      "summary": "Article URL: https://github.com/marcelroed/gigatoken/\nComments URL: https://news.ycombinator.com/item?id=49010167\nPoints: 92\n# Comments: 16",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 74\n# Comments: 15",
       "image": "",
-      "published": "Wed, 22 Jul 2026 17:20:38 +0000",
+      "published": "Wed, 22 Jul 2026 21:55:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "summary": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html\nComments URL: https://news.ycombinator.com/item?id=49010129\nPoints: 29\n# Comments: 5",
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "link": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/\nComments URL: https://news.ycombinator.com/item?id=49013995\nPoints: 30\n# Comments: 7",
       "image": "",
-      "published": "Wed, 22 Jul 2026 17:17:54 +0000",
+      "published": "Wed, 22 Jul 2026 21:54:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Web swing through midtown NYC",
-      "link": "https://www.swingnyc.com/",
-      "summary": "Article URL: https://www.swingnyc.com/\nComments URL: https://news.ycombinator.com/item?id=49009324\nPoints: 30\n# Comments: 13",
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "link": "https://claytondorge.com/patterns-list",
+      "summary": "Article URL: https://claytondorge.com/patterns-list\nComments URL: https://news.ycombinator.com/item?id=49013924\nPoints: 14\n# Comments: 2",
       "image": "",
-      "published": "Wed, 22 Jul 2026 16:25:08 +0000",
+      "published": "Wed, 22 Jul 2026 21:48:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "link": "https://unlayer.com",
-      "summary": "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (https://unlayer.com/). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. U",
+      "title": "Malleable Computing, Emacs, and You",
+      "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "summary": "Article URL: http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\nComments URL: https://news.ycombinator.com/item?id=49013538\nPoints: 67\n# Comments: 14",
       "image": "",
-      "published": "Wed, 22 Jul 2026 16:02:03 +0000",
+      "published": "Wed, 22 Jul 2026 21:15:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Built a CLI to Use Free Web-Based AI Chatbots for Real Development Work — No API Keys, No Extensions",
-      "link": "https://dev.to/arpanvgm/i-built-a-cli-to-use-free-web-based-ai-chatbots-for-real-development-work-no-api-keys-no-jlf",
-      "summary": "I wanted to use web-based AI chatbots — Claude, Gemini, ChatGPT, Qwen — for actual development work, not just Q&amp;A. The free tiers are generous, and I didn't want to be locked into a single coding agent or pay for API",
+      "title": "Stop Grinding, Start Predicting: Building a Burnout Early Warning System with Transformers and Prophet 🚀",
+      "link": "https://dev.to/wellallytech/stop-grinding-start-predicting-building-a-burnout-early-warning-system-with-transformers-and-12pp",
+      "summary": "We’ve all been there. You hit the gym, crush a session, and feel like a superhero—only to wake up the next day feeling like you’ve been hit by a freight train. In the world of high-performance athletics and high-stress c",
       "image": "",
-      "published": "Wed, 22 Jul 2026 18:42:09 +0000",
+      "published": "Thu, 23 Jul 2026 01:10:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "workflows: a host-agnostic Rust engine for agentic workflows (open source)",
-      "link": "https://dev.to/neocortexdev/workflows-a-host-agnostic-rust-engine-for-agentic-workflows-open-source-4ede",
-      "summary": "Workflows is a Rust library crate (not a hosted service; the crate name on crates.io/GitHub is tinyflows) that models an automation as a WorkflowGraph: a directed graph of typed nodes and edges. You build or generate tha",
+      "title": "Building a Browser-Based Tiled Poster PDF Generator",
+      "link": "https://dev.to/gaven/building-a-browser-based-tiled-poster-pdf-generator-426g",
+      "summary": "A tiled poster generator looks simple from the outside: load an image, choose a paper size, and download a PDF. The implementation becomes more interesting when the entire pipeline has to run in the browser, preserve phy",
       "image": "",
-      "published": "Wed, 22 Jul 2026 18:35:48 +0000",
+      "published": "Thu, 23 Jul 2026 01:05:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Multi-provider LLM resilience in Python without provider-specific code",
-      "link": "https://dev.to/inozem/multi-provider-llm-resilience-in-python-without-provider-specific-code-2b80",
-      "summary": "OpenAI, Anthropic, and Google expose different APIs, message formats, tool-calling conventions, error types, and response structures.\n\nThat difference is manageable while an application uses only one provider. It becomes",
+      "title": "NocoBase and the mystery of the shifted timestamps: MySQL vs PostgreSQL, measured",
+      "link": "https://dev.to/stale_orbit/nocobase-and-the-mystery-of-the-shifted-timestamps-mysql-vs-postgresql-measured-4o4h",
+      "summary": "There's a class of bug reports that keeps coming back in the NocoBase community, especially in the Chinese-language forum: \"all my times are off by 8 hours\" or \"dates show up as the day before.\" China is UTC+8, so the sh",
       "image": "",
-      "published": "Wed, 22 Jul 2026 18:31:32 +0000",
+      "published": "Thu, 23 Jul 2026 00:50:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built SwiftNotch: a productivity dashboard for the MacBook notch",
-      "link": "https://dev.to/bhamaengine08/i-built-swiftnotch-a-productivity-dashboard-for-the-macbook-notch-3mj0",
-      "summary": "The notch on a MacBook is strange real estate.\n\nIt is always there. It sits at the top of the screen, close to the menu bar, close to system controls, close to whatever you are doing. But most of the time it is treated l",
+      "title": "4 ways canvas text rendering breaks in multilingual apps (that en/ja testing will never catch)",
+      "link": "https://dev.to/mxhlix/4-ways-canvas-text-rendering-breaks-in-multilingual-apps-that-enja-testing-will-never-catch-409n",
+      "summary": "I run a large fleet of \"preview it, then download it as PNG\" web tools — name tags, certificate generators, price cards, badges — in five languages: Japanese, English, Spanish, French, Portuguese.\n\nCanvas 2D text renderi",
       "image": "",
-      "published": "Wed, 22 Jul 2026 18:24:42 +0000",
+      "published": "Thu, 23 Jul 2026 00:47:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cybersecurity Beginner's Dilemma: Navigating Specialized Areas and Next Steps for Focused Learning",
-      "link": "https://dev.to/kserude/cybersecurity-beginners-dilemma-navigating-specialized-areas-and-next-steps-for-focused-learning-j15",
-      "summary": "Introduction: Strategic Entry into Cybersecurity\n\n\nThe cybersecurity domain operates as a dynamically evolving ecosystem, characterized by the rapid emergence of specialized disciplines that outpace the ability of newcom",
+      "title": "Asked for an AI Assistant and Accidentally Got Middle Management.",
+      "link": "https://dev.to/srsandrade/asked-for-an-ai-assistant-and-accidentally-got-middle-management-253n",
+      "summary": "\"Someone opened a Miro board.\"\n\n\nThat's how I knew we were in trouble.\n\nNot because I dislike diagrams.\n\nI like diagrams.\n\nI dislike what usually happens after someone opens a Miro board.\n\nBoxes appear.\n\nThen arrows.\n\nTh",
       "image": "",
-      "published": "Wed, 22 Jul 2026 18:23:51 +0000",
+      "published": "Thu, 23 Jul 2026 00:42:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
