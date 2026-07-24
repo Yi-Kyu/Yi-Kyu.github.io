@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-24T01:17:19.397446Z",
+  "updated": "2026-07-24T08:01:16.049695Z",
   "articles": [
+    {
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.\n\nThe activity has",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg",
+      "published": "Fri, 24 Jul 2026 12:20:57 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
       "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a pre",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-rvCSGHVd2nngnpcdcc8Eh-QFaxQrcyegoSIPhUeTpr5qrGHcHYIstDAj08yLDeYcNZkZ26Ta53fdYefY8NjW8MprrOL4lQ4VnDCMpBrsrSQccyUipoC3VvFtMNUxUpUzOYra58WqjRwn952-fvzZLpXtgeY8Ao660YY49FaqcTTjBrDN_DsFFnsftJ8/s1600/malware-attack.jpg",
-      "published": "Thu, 23 Jul 2026 17:50:23 +0530",
-      "source": "The Hacker News",
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 03:36:39 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploit",
       "image": "",
       "published": "Thu, 23 Jul 2026 12:49:27 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 12:32:35 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "link": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "summary": "Article URL: https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/\nComments URL: https://news.ycombinator.com/item?id=49032095\nPoints: 18\n# Comments: 13",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 07:02:43 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "link": "https://www.bbc.com/news/articles/cvg9n2y61w6o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvg9n2y61w6o\nComments URL: https://news.ycombinator.com/item?id=49031917\nPoints: 32\n# Comments: 21",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 06:36:50 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Flux 3",
+      "link": "https://bfl.ai/blog/flux-3",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3\nComments URL: https://news.ycombinator.com/item?id=49031796\nPoints: 130\n# Comments: 27",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 06:17:08 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "The Visual 6502",
       "link": "http://visual6502.org/JSSim/index.html",
-      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 17\n# Comments: 6",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 86\n# Comments: 22",
       "image": "",
       "published": "Thu, 23 Jul 2026 23:36:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2507.09369",
-      "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 40\n# Comments: 23",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 22:51:13 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "98.css",
       "link": "https://jdan.github.io/98.css/#status-bar",
-      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 164\n# Comments: 25",
+      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 442\n# Comments: 105",
       "image": "",
       "published": "Thu, 23 Jul 2026 22:30:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "link": "https://news.ycombinator.com/item?id=49026810",
-      "summary": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple expe",
+      "title": "My AI coding agent reverted a core feature in one buried line — and its commit messages lied about it",
+      "link": "https://dev.to/masihmoafi/my-ai-coding-agent-reverted-a-core-feature-in-one-buried-line-and-its-commit-messages-lied-about-dcn",
+      "summary": "2026-07-23 — Masih Moafi\n\nI build Elpis, a terminal coding agent forked\nfrom Codex-rs, focused on one thing: keeping your context window empty. Its whole\nvalue is aggressive, meaning-aware context reduction — in side-by-",
       "image": "",
-      "published": "Thu, 23 Jul 2026 19:26:01 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Building on ATProto",
-      "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 123\n# Comments: 59",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 18:23:50 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Integrating Claude Code with Veo MCP: Generate HD AI Videos from the Terminal",
-      "link": "https://dev.to/germey/integrating-claude-code-with-veo-mcp-generate-hd-ai-videos-from-the-terminal-1730",
-      "summary": "When I need a short product demo or a visual explanation for a README, the slow part is rarely the idea. The slow part is leaving the terminal, opening another tool, and translating a developer task into a video-editing ",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 01:03:18 +0000",
+      "published": "Fri, 24 Jul 2026 07:51:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SQLite + Vector Search: The Dependency-Free AI Memory Stack",
-      "link": "https://dev.to/robertpelloni/sqlite-vector-search-the-dependency-free-ai-memory-stack-28n3",
-      "summary": "SQLite + Vector Search: The Dependency-Free AI Memory Stack\n\nWhy are AI engineers moving from bloated vector databases to sqlite-vec? Discover how combining SQLite's legendary reliability with a zero-dependency vector ex",
+      "title": "Platform Strategy That Ships: The 90-Day System I Trust More Than AI Roadmaps",
+      "link": "https://dev.to/debashish_ghosal/platform-strategy-that-ships-the-90-day-system-i-trust-more-than-ai-roadmaps-gi9",
+      "summary": "I want to start with a failure, because it taught me more than the wins.\n\nWe built an AI code review bot.\nIt was wired directly into pull requests.\n\nThe pitch was simple.\nAI reviews first, then humans just approve the go",
       "image": "",
-      "published": "Fri, 24 Jul 2026 01:02:31 +0000",
+      "published": "Fri, 24 Jul 2026 07:49:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an Incident Triage Agent with Full Observability in SigNoz",
-      "link": "https://dev.to/aadvik_krishna_2d1baa4c0a/building-an-incident-triage-agent-with-full-observability-in-signoz-55b0",
-      "summary": "The problem: AI agents are black boxes\n\n\nAI agents chain LLM calls and tool calls together to make decisions. But\nwhen something goes wrong — a slow response, an unexpected answer, a\nrunaway cost — you're stuck guessing.",
+      "title": "Getting Started with Shopware 6 Development",
+      "link": "https://dev.to/akshay_nikhare/getting-started-with-shopware-6-development-15fc",
+      "summary": "Shopware 6 is a modern, API-first e-commerce platform built on Symfony and Vue.js. If you're coming from Shopware 5 or another platform, the architecture shift can feel steep — but once it clicks, it's powerful and highl",
       "image": "",
-      "published": "Fri, 24 Jul 2026 01:00:59 +0000",
+      "published": "Fri, 24 Jul 2026 07:48:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Prompt Injection Explained: The SQL Injection of the AI Era",
-      "link": "https://dev.to/aahana_mallela/prompt-injection-explained-the-sql-injection-of-the-ai-era-4p3k",
-      "summary": "By Aahana Mallela\n\n\n  \n  \n  Introduction\n\n\nIf you've spent any time in AI or security circles in the last year, you've heard the term \"prompt injection\" thrown around, often attached to a headline about an AI agent doing",
+      "title": "Picking the Latest Kubernetes Release on AKS Without Shooting Yourself in the Foot",
+      "link": "https://dev.to/sathpal_singh/picking-the-latest-kubernetes-release-on-aks-without-shooting-yourself-in-the-foot-1oij",
+      "summary": "Picking the Latest Kubernetes Release on AKS Without Shooting Yourself in the Foot\n\n\nEvery few months a platform engineer opens a Slack message that reads something like: \"Hey, our AKS cluster is on a version that's bein",
       "image": "",
-      "published": "Fri, 24 Jul 2026 00:53:06 +0000",
+      "published": "Fri, 24 Jul 2026 07:41:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
-      "link": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
-      "summary": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed, what it means in practice, and how to build it right.\n\nMost teams discover they need multi-region architecture the har",
+      "title": "Half the web already hands you clean product data. You just have to ask.",
+      "link": "https://dev.to/votiakov/half-the-web-already-hands-you-clean-product-data-you-just-have-to-ask-alh",
+      "summary": "I once spent an afternoon writing selectors to pull a price off a product page. Wrote the CSS path, handled the currency symbol, dealt with the sale-price-versus-list-price mess, tested it across a dozen listings. Then I",
       "image": "",
-      "published": "Fri, 24 Jul 2026 00:52:30 +0000",
+      "published": "Fri, 24 Jul 2026 07:30:15 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
