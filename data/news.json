@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T18:54:37.821127Z",
+  "updated": "2026-07-24T01:17:19.397446Z",
   "articles": [
     {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 17:20:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 16:14:35 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 15:48:30 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
       "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploit",
@@ -61,33 +88,6 @@
       "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
       "image": "",
       "published": "Thu, 23 Jul 2026 12:32:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 11:34:43 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how org",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "EU fines Google $1 billion for search, app store antitrust violations",
-      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-      "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 08:33:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-      "link": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-      "summary": "Article URL: https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/\nComments URL: https://news.ycombinator.com/item?id=49026059\nPoints: 5\n# Comments: 0",
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 17\n# Comments: 6",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:29:22 +0000",
+      "published": "Thu, 23 Jul 2026 23:36:42 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2507.09369",
+      "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 40\n# Comments: 23",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 22:51:13 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "98.css",
+      "link": "https://jdan.github.io/98.css/#status-bar",
+      "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 164\n# Comments: 25",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 22:30:29 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "link": "https://news.ycombinator.com/item?id=49026810",
+      "summary": "I’ve been building Echo (https://echo.tracerml.ai/), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.It started with a simple expe",
+      "image": "",
+      "published": "Thu, 23 Jul 2026 19:26:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Building on ATProto",
       "link": "https://lukekanies.com/writing/building-on-atproto/",
-      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 21\n# Comments: 1",
+      "summary": "Article URL: https://lukekanies.com/writing/building-on-atproto/\nComments URL: https://news.ycombinator.com/item?id=49025984\nPoints: 123\n# Comments: 59",
       "image": "",
       "published": "Thu, 23 Jul 2026 18:23:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A solid-state “atomic channel” for separating rare earth elements",
-      "link": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "summary": "Article URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements\nComments URL: https://news.ycombinator.com/item?id=49025831\nPoints: 6\n# Comments: 0",
+      "title": "Integrating Claude Code with Veo MCP: Generate HD AI Videos from the Terminal",
+      "link": "https://dev.to/germey/integrating-claude-code-with-veo-mcp-generate-hd-ai-videos-from-the-terminal-1730",
+      "summary": "When I need a short product demo or a visual explanation for a README, the slow part is rarely the idea. The slow part is leaving the terminal, opening another tool, and translating a developer task into a video-editing ",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:13:03 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Geekbench 7",
-      "link": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-      "summary": "Article URL: https://www.geekbench.com/blog/2026/07/geekbench-7/\nComments URL: https://news.ycombinator.com/item?id=49025812\nPoints: 11\n# Comments: 5",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 18:11:46 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Claude-thermos – keeps your Claude session warm for you",
-      "link": "https://github.com/izeigerman/claude-thermos",
-      "summary": "Article URL: https://github.com/izeigerman/claude-thermos\nComments URL: https://news.ycombinator.com/item?id=49024882\nPoints: 16\n# Comments: 15",
-      "image": "",
-      "published": "Thu, 23 Jul 2026 17:06:22 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Preview and edit material-kit-react without a build step",
-      "link": "https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9",
-      "summary": "~7 min read · Tutorial\n\n\n\n\nI look at a lot of MUI admin templates. material-kit-react from the minimals people is one I keep going back to. Clean, typed, and the folder structure makes sense. Repo: minimal-ui-kit/materia",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fblog.crossui.com%2Fimages%2Fpreview-edit-tpl-without-build-0.png",
-      "published": "Thu, 23 Jul 2026 18:52:02 +0000",
+      "published": "Fri, 24 Jul 2026 01:03:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I replaced if statements with a Dictionary delegate in C#",
-      "link": "https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma",
-      "summary": "Let's say you need to implement a feature that returns a different package based on the user-provided coupon code.\n\nSo you start with a model:\n\n\n\npublic record Package\n{\n    public int Id { get; set; }\n    public string ",
+      "title": "SQLite + Vector Search: The Dependency-Free AI Memory Stack",
+      "link": "https://dev.to/robertpelloni/sqlite-vector-search-the-dependency-free-ai-memory-stack-28n3",
+      "summary": "SQLite + Vector Search: The Dependency-Free AI Memory Stack\n\nWhy are AI engineers moving from bloated vector databases to sqlite-vec? Discover how combining SQLite's legendary reliability with a zero-dependency vector ex",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:30:33 +0000",
+      "published": "Fri, 24 Jul 2026 01:02:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a browser-based pixel-art & animation editor with Vue, Laravel and AI",
-      "link": "https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58",
-      "summary": "I'm a solo dev, and for the past few months I've been building Pixanima — a pixel-art and animation editor that runs entirely in the browser, with an optional AI assistant baked in. It just launched, and I wanted to shar",
+      "title": "Building an Incident Triage Agent with Full Observability in SigNoz",
+      "link": "https://dev.to/aadvik_krishna_2d1baa4c0a/building-an-incident-triage-agent-with-full-observability-in-signoz-55b0",
+      "summary": "The problem: AI agents are black boxes\n\n\nAI agents chain LLM calls and tool calls together to make decisions. But\nwhen something goes wrong — a slow response, an unexpected answer, a\nrunaway cost — you're stuck guessing.",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:30:22 +0000",
+      "published": "Fri, 24 Jul 2026 01:00:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "There was no independent, measured view of AI-API latency by region — so I built one",
-      "link": "https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce",
-      "summary": "If you build anything on top of hosted AI APIs, latency isn't a detail you get to ignore — it's a feature. A sluggish time-to-first-token is the difference between an assistant that feels alive and one that feels broken.",
+      "title": "Prompt Injection Explained: The SQL Injection of the AI Era",
+      "link": "https://dev.to/aahana_mallela/prompt-injection-explained-the-sql-injection-of-the-ai-era-4p3k",
+      "summary": "By Aahana Mallela\n\n\n  \n  \n  Introduction\n\n\nIf you've spent any time in AI or security circles in the last year, you've heard the term \"prompt injection\" thrown around, often attached to a headline about an AI agent doing",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:19:48 +0000",
+      "published": "Fri, 24 Jul 2026 00:53:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We Don’t Have a Software Engineering Problem. We Have a Platform Engineering Problem.",
-      "link": "https://dev.to/sagar_jha_9602020718acbde/we-dont-have-a-software-engineering-problem-we-have-a-platform-engineering-problem-1bm1",
-      "summary": "Last month I set out to build a new product, and after a full week I had shipped exactly zero features.\n\nNot because I was slow. Not because the work was hard. Because before anyone could write a single line of business ",
+      "title": "Zero to Multi-Region: High Availability Serverless with Cloud Run and Cross-Region Failover & Failback",
+      "link": "https://dev.to/gdg/zero-to-multi-region-high-availability-serverless-with-cloud-run-and-cross-region-failover--dcc",
+      "summary": "Google just made multi-region Cloud Run significantly easier. Here is the full picture; what changed, what it means in practice, and how to build it right.\n\nMost teams discover they need multi-region architecture the har",
       "image": "",
-      "published": "Thu, 23 Jul 2026 18:11:27 +0000",
+      "published": "Fri, 24 Jul 2026 00:52:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
