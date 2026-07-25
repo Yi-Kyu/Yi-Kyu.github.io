@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T12:52:39.521346Z",
+  "updated": "2026-07-25T18:44:17.341059Z",
   "articles": [
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif",
+      "published": "Sat, 25 Jul 2026 18:22:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg",
-      "published": "Fri, 24 Jul 2026 20:42:35 +0530",
-      "source": "The Hacker News",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
       "image": "",
       "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 13:50:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [..",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 11:41:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=49046858\nPoints: 0\n# Comments: 0",
+      "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
+      "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+      "summary": "Article URL: https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/\nComments URL: https://news.ycombinator.com/item?id=49050152\nPoints: 19\n# Comments: 1",
       "image": "",
-      "published": "Sat, 25 Jul 2026 12:00:04 +0000",
+      "published": "Sat, 25 Jul 2026 18:18:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MouthPad: A Tongue-Controlled Touchpad",
-      "link": "https://www.augmental.tech/",
-      "summary": "Article URL: https://www.augmental.tech/\nComments URL: https://news.ycombinator.com/item?id=49045446\nPoints: 27\n# Comments: 8",
+      "title": "Rauno's Field Notes #2",
+      "link": "https://rauno.me/notes/2",
+      "summary": "Article URL: https://rauno.me/notes/2\nComments URL: https://news.ycombinator.com/item?id=49049066\nPoints: 14\n# Comments: 1",
       "image": "",
-      "published": "Sat, 25 Jul 2026 07:51:19 +0000",
+      "published": "Sat, 25 Jul 2026 16:39:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\nComments URL: https://news.ycombinator.com/item?id=49045159\nPoints: 373\n# Comments: 170",
+      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+      "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+      "summary": "Article URL: https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/\nComments URL: https://news.ycombinator.com/item?id=49048819\nPoints: 75\n# Comments: 61",
       "image": "",
-      "published": "Sat, 25 Jul 2026 06:57:14 +0000",
+      "published": "Sat, 25 Jul 2026 16:09:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ARC-AGI Leaderboard",
-      "link": "https://arcprize.org/leaderboard",
-      "summary": "Article URL: https://arcprize.org/leaderboard\nComments URL: https://news.ycombinator.com/item?id=49045040\nPoints: 113\n# Comments: 86",
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+      "summary": "Article URL: https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\nComments URL: https://news.ycombinator.com/item?id=49048689\nPoints: 27\n# Comments: 5",
       "image": "",
-      "published": "Sat, 25 Jul 2026 06:31:40 +0000",
+      "published": "Sat, 25 Jul 2026 15:55:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Extinct Media Museum Tokyo",
-      "link": "https://extinct-media-museum.blog.jp/otemachi/",
-      "summary": "Article URL: https://extinct-media-museum.blog.jp/otemachi/\nComments URL: https://news.ycombinator.com/item?id=49044874\nPoints: 58\n# Comments: 9",
+      "title": "The Dark Night of Mathematics",
+      "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+      "summary": "Article URL: https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics\nComments URL: https://news.ycombinator.com/item?id=49048681\nPoints: 64\n# Comments: 45",
       "image": "",
-      "published": "Sat, 25 Jul 2026 05:51:27 +0000",
+      "published": "Sat, 25 Jul 2026 15:54:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Como crear Roles de Usuarios RBAC Plano PHP MySQL",
-      "link": "https://dev.to/evilnapsis/como-crear-roles-de-usuarios-rbac-plano-php-mysql-p0h",
-      "summary": "Guía crear Roles de Usuario usando RBAC Plano con PHP MySQL\nAgustin RamosJul 24, 2026PHP Stuffs\nEl control de acceso basado en roles (RBAC) es utilizado en la mayoría de los sistemas para definir qué puede hacer cada usu",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 12:49:51 +0000",
+      "title": "Creating my own shell for unix",
+      "link": "https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7",
+      "summary": "Building Astra: A Modern Shell in Rust\n\n\nI've been working on a personal project called Astra, an interactive shell written in Rust.\n\nThe goal isn't to replace every existing shell overnight. Instead, I'm building a clea",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Sat, 25 Jul 2026 18:35:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Swagger docs from your existing TypeScript types — no framework required",
-      "link": "https://dev.to/seyves_02123877c1b6b0f3a7/swagger-docs-from-your-existing-typescript-types-no-framework-required-1215",
-      "summary": "The problem\n\n\nRecently I was looking for an npm package to generate OpenAPI (Swagger) documentation for my existing TypeScript project. My biggest requirement was TypeScript type-to-schema conversion: I already have all ",
+      "title": "Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS",
+      "link": "https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893",
+      "summary": "A foundation model is not a mind.\n\nA model invocation is not an individual. A session is not a biography. A first-person response is not evidence of consciousness. And adding tools to a language model does not automatica",
       "image": "",
-      "published": "Sat, 25 Jul 2026 12:45:24 +0000",
+      "published": "Sat, 25 Jul 2026 18:28:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built 50 Browser Games Without React. Here's Why.",
-      "link": "https://dev.to/ravindrachitla/i-built-50-browser-games-without-react-heres-why-5ace",
-      "summary": "When I started building GamesMom, my goal wasn't to create another gaming website. I wanted to build a collection of browser games and educational games that children could play instantly without downloads, sign-ups, or ",
+      "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
+      "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
+      "summary": "How multiple open browser tabs can accidentally DDOS your auth server, and how to fix it with the Web Locks API.\n\nPicture this: You’ve just shipped a state-of-the-art Axios response interceptor. You implemented a mutex l",
       "image": "",
-      "published": "Sat, 25 Jul 2026 12:35:38 +0000",
+      "published": "Sat, 25 Jul 2026 18:21:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "minikube with the Docker Driver on Ubuntu: A Practical Local Cluster",
-      "link": "https://dev.to/jjoyneriv/minikube-with-the-docker-driver-on-ubuntu-a-practical-local-cluster-4fn9",
-      "summary": "minikube is the other \"Kubernetes in Docker\" option on Ubuntu, and with --driver=docker it runs the cluster inside a Docker container just like kind — but ships with addons (ingress, metrics-server, dashboard, a built-in",
+      "title": "How I Built Triage: Turning SigNoz into a Blue Team SOC (And the Deployment Nightmares I Survived)",
+      "link": "https://dev.to/codewithmehru/how-i-built-triage-turning-signoz-into-a-blue-team-soc-and-the-deployment-nightmares-i-survived-pni",
+      "summary": "Most people use OpenTelemetry and SigNoz to watch their CPU usage, find memory leaks, or figure out why their API is taking 400ms instead of 200ms. But for the Agents of SigNoz Hackathon (Track 3: Observe Anything Weird)",
       "image": "",
-      "published": "Sat, 25 Jul 2026 12:34:10 +0000",
+      "published": "Sat, 25 Jul 2026 18:18:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Best AI Model for Unreal Engine in 2026? Kimi K3 vs Claude Opus 5 vs Qwen3.8",
-      "link": "https://dev.to/lewisywliu/best-ai-model-for-unreal-engine-in-2026-kimi-k3-vs-claude-opus-5-vs-qwen38-5025",
-      "summary": "Evidence checked on July 25, 2026. This comparison separates vendor claims, general coding evidence, and native Unreal Engine delivery. Those are not the same thing.\n\nKimi K3, Claude Opus 5, and Qwen3.8-Max-Preview all a",
+      "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
+      "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
+      "summary": "SellAI 🚀\n\n\nHi DEV Community!\n\nOver the past few weeks I've been building SellAI — an AI-powered platform that helps businesses manage sales, customers and analytics from one dashboard.\n\n\n  \n  \n  Main Features\n\n\n\n🤖 AI Ass",
       "image": "",
-      "published": "Sat, 25 Jul 2026 12:26:14 +0000",
+      "published": "Sat, 25 Jul 2026 18:18:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
