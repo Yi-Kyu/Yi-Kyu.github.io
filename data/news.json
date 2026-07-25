@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:06:34.962877Z",
+  "updated": "2026-07-25T01:18:13.268463Z",
   "articles": [
     {
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+      "image": "",
+      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
@@ -70,24 +88,6 @@
       "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
       "image": "",
       "published": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verifica",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 08:56:53 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-      "summary": "Article URL: https://blog.cloudflare.com/bgp-origin-attribute/\nComments URL: https://news.ycombinator.com/item?id=49039490\nPoints: 8\n# Comments: 0",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/\nComments URL: https://news.ycombinator.com/item?id=49042751\nPoints: 19\n# Comments: 1",
       "image": "",
-      "published": "Fri, 24 Jul 2026 18:07:08 +0000",
+      "published": "Fri, 24 Jul 2026 23:13:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I got into YC by hacking it",
-      "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html\nComments URL: https://news.ycombinator.com/item?id=49039448\nPoints: 37\n# Comments: 14",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "link": "https://www.spacex.com/launches/starship-flight-13",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-13\nComments URL: https://news.ycombinator.com/item?id=49042528\nPoints: 85\n# Comments: 86",
       "image": "",
-      "published": "Fri, 24 Jul 2026 18:03:22 +0000",
+      "published": "Fri, 24 Jul 2026 22:44:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Gsxui – Shadcn-style components for Go",
-      "link": "https://ui.gsxhq.dev/",
-      "summary": "Article URL: https://ui.gsxhq.dev/\nComments URL: https://news.ycombinator.com/item?id=49039395\nPoints: 8\n# Comments: 0",
+      "title": "AIs don't do what you want. This is bad",
+      "link": "https://rewardhacking.org",
+      "summary": "Article URL: https://rewardhacking.org\nComments URL: https://news.ycombinator.com/item?id=49042354\nPoints: 47\n# Comments: 27",
       "image": "",
-      "published": "Fri, 24 Jul 2026 17:59:08 +0000",
+      "published": "Fri, 24 Jul 2026 22:24:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The small, real, original web",
-      "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-      "summary": "Article URL: https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/\nComments URL: https://news.ycombinator.com/item?id=49038977\nPoints: 8\n# Comments: 0",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "link": "https://artificialanalysis.ai/models",
+      "summary": "Article URL: https://artificialanalysis.ai/models\nComments URL: https://news.ycombinator.com/item?id=49040741\nPoints: 116\n# Comments: 66",
       "image": "",
-      "published": "Fri, 24 Jul 2026 17:28:59 +0000",
+      "published": "Fri, 24 Jul 2026 19:45:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "link": "https://duckpgq.org/",
-      "summary": "Article URL: https://duckpgq.org/\nComments URL: https://news.ycombinator.com/item?id=49038481\nPoints: 21\n# Comments: 2",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability\nComments URL: https://news.ycombinator.com/item?id=49040296\nPoints: 192\n# Comments: 34",
       "image": "",
-      "published": "Fri, 24 Jul 2026 17:00:23 +0000",
+      "published": "Fri, 24 Jul 2026 19:05:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Migration Friction Is the Real Cost of Switching Tools",
-      "link": "https://dev.to/theobrenner/migration-friction-is-the-real-cost-of-switching-tools-4cga",
-      "summary": "Tool comparison posts obsess over feature matrices and monthly pricing. Both are the easy numbers. The expensive number is what it costs to leave, and almost nobody publishes it.\n\n\n  \n  \n  Three kinds of lock-in, in asce",
+      "title": "I built vexyo, conformance and regression testing for MCP servers",
+      "link": "https://dev.to/whiletruedo/i-built-vexyo-conformance-and-regression-testing-for-mcp-servers-130n",
+      "summary": "It started as a personal need\n\n\nA while back I was working on a project with a few MCP servers wired into it. Every so often something would go subtly wrong. The server hadn't crashed, the logs were clean, but the AI cli",
       "image": "",
-      "published": "Fri, 24 Jul 2026 19:00:23 +0000",
+      "published": "Sat, 25 Jul 2026 00:54:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Picking a Gemma 4 Quantization: VRAM Math That Actually Matters",
-      "link": "https://dev.to/ethanjlin/picking-a-gemma-4-quantization-vram-math-that-actually-matters-1f0b",
-      "summary": "Every \"run this model locally\" guide tells you to grab a Q4 GGUF and move on. That advice is fine right up until you try a long-context run and your machine starts swapping.\n\n\n  \n  \n  The weights are the part everyone bu",
+      "title": "Weekend #2: Scafolding the 3-Way LLM Orchestration",
+      "link": "https://dev.to/jsulaiman/weekend-2-scafolding-the-3-way-llm-orchestration-4f4i",
+      "summary": "Last time, I closed with a line I half-meant as a joke: \"a 3-way orchestration between ChatGPT, Claude, and my local LLM, to maintain my vibe coding momentum even when I hit token usage limits.\" One of you commented that",
       "image": "",
-      "published": "Fri, 24 Jul 2026 19:00:12 +0000",
+      "published": "Sat, 25 Jul 2026 00:53:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Inside LioranDB's Full-Text Search Segments",
-      "link": "https://dev.to/ultrontheai/inside-liorandbs-full-text-search-segments-4661",
-      "summary": "A normal secondary index can answer:\n\n\n\nstatus = \"active\"\n\n\n\n\n\n\nIt cannot efficiently answer:\n\n\n\ndocuments containing \"distributed database\"\n\n\n\n\n\n\nLioranDB therefore has a dedicated text-segment architecture.\n\n\n  \n  \n  T",
+      "title": "Running Postgres at Scale: Lessons Learned",
+      "link": "https://dev.to/samson_tanimawo/running-postgres-at-scale-lessons-learned-35mf",
+      "summary": "We run Postgres for a product with millions of users. Along the way I've broken it in every possible way. Here are the lessons I wish I'd known on day one.\n\n\n  \n  \n  Autovacuum is not optional\n\n\nYou can ignore autovacuum",
       "image": "",
-      "published": "Fri, 24 Jul 2026 18:54:33 +0000",
+      "published": "Sat, 25 Jul 2026 00:47:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Sick Patients Hate Your Cheerful Conversational Voice AI",
-      "link": "https://dev.to/vaiu-ai/why-sick-patients-hate-your-cheerful-conversational-voice-ai-362a",
-      "summary": "Why Sick Patients Hate Your Cheerful Conversational Voice AI\n\nPicture an oncology patient sitting in the dark at three in the morning, nursing a severe bout of breakthrough pain. Desperate for assistance, she calls her c",
+      "title": "You probably don't need a vector database for agent memory",
+      "link": "https://dev.to/seanmarkwei/you-probably-dont-need-a-vector-database-for-agent-memory-13je",
+      "summary": "Every guide to giving an AI agent memory starts the same way. Pick an embedding model, stand up a vector database, chunk your data, tune your retrieval. I assumed I would do exactly that. Then, before I wrote a single li",
       "image": "",
-      "published": "Fri, 24 Jul 2026 18:51:43 +0000",
+      "published": "Sat, 25 Jul 2026 00:47:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Memtables: The Fast Write Buffer Inside LioranDB",
-      "link": "https://dev.to/ultrontheai/memtables-the-fast-write-buffer-inside-liorandb-1732",
-      "summary": "Disk structures are durable, but updating them for every write is expensive.\n\nLioranDB uses memtables to absorb writes before flushing them to the on-disk B+ tree.\n\n\n  \n  \n  What is a memtable?\n\n\nA memtable is an ordered",
+      "title": "Real-Time WP API Sync",
+      "link": "https://dev.to/aasimghaffar/real-time-wp-api-sync-4mj7",
+      "summary": "Introduction\n\n\nModern websites are no longer standalone platforms. Businesses rely on multiple digital systems—including CRMs, payment gateways, inventory management platforms, marketing automation tools, booking engines",
       "image": "",
-      "published": "Fri, 24 Jul 2026 18:49:44 +0000",
+      "published": "Sat, 25 Jul 2026 00:45:21 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
