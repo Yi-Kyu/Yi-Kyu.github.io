@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-25T07:47:04.480409Z",
+  "updated": "2026-07-25T12:52:39.521346Z",
   "articles": [
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has n",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif",
+      "published": "Sat, 25 Jul 2026 15:44:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised la",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg",
+      "published": "Sat, 25 Jul 2026 15:44:21 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg",
+      "published": "Sat, 25 Jul 2026 15:44:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg",
+      "published": "Sat, 25 Jul 2026 15:23:41 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
       "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
@@ -11,39 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.\n\nThey codenamed th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg",
-      "published": "Fri, 24 Jul 2026 19:45:21 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial in",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg",
-      "published": "Fri, 24 Jul 2026 17:23:55 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.\n\nXBOW's testing got the same res",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg",
-      "published": "Fri, 24 Jul 2026 17:15:17 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we eve",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg",
-      "published": "Fri, 24 Jul 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [..",
       "image": "",
       "published": "Fri, 24 Jul 2026 11:41:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 10:04:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,9 +137,27 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "summary": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\nComments URL: https://news.ycombinator.com/item?id=49046858\nPoints: 0\n# Comments: 0",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 12:00:04 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "link": "https://www.augmental.tech/",
+      "summary": "Article URL: https://www.augmental.tech/\nComments URL: https://news.ycombinator.com/item?id=49045446\nPoints: 27\n# Comments: 8",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 07:51:19 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Android May Soon Restrict On-Device ADB",
       "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\nComments URL: https://news.ycombinator.com/item?id=49045159\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\nComments URL: https://news.ycombinator.com/item?id=49045159\nPoints: 373\n# Comments: 170",
       "image": "",
       "published": "Sat, 25 Jul 2026 06:57:14 +0000",
       "source": "Hacker News: Front Page",
@@ -148,7 +166,7 @@
     {
       "title": "ARC-AGI Leaderboard",
       "link": "https://arcprize.org/leaderboard",
-      "summary": "Article URL: https://arcprize.org/leaderboard\nComments URL: https://news.ycombinator.com/item?id=49045040\nPoints: 32\n# Comments: 15",
+      "summary": "Article URL: https://arcprize.org/leaderboard\nComments URL: https://news.ycombinator.com/item?id=49045040\nPoints: 113\n# Comments: 86",
       "image": "",
       "published": "Sat, 25 Jul 2026 06:31:40 +0000",
       "source": "Hacker News: Front Page",
@@ -157,72 +175,54 @@
     {
       "title": "Extinct Media Museum Tokyo",
       "link": "https://extinct-media-museum.blog.jp/otemachi/",
-      "summary": "Article URL: https://extinct-media-museum.blog.jp/otemachi/\nComments URL: https://news.ycombinator.com/item?id=49044874\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://extinct-media-museum.blog.jp/otemachi/\nComments URL: https://news.ycombinator.com/item?id=49044874\nPoints: 58\n# Comments: 9",
       "image": "",
       "published": "Sat, 25 Jul 2026 05:51:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\nComments URL: https://news.ycombinator.com/item?id=49044492\nPoints: 37\n# Comments: 10",
+      "title": "Como crear Roles de Usuarios RBAC Plano PHP MySQL",
+      "link": "https://dev.to/evilnapsis/como-crear-roles-de-usuarios-rbac-plano-php-mysql-p0h",
+      "summary": "Guía crear Roles de Usuario usando RBAC Plano con PHP MySQL\nAgustin RamosJul 24, 2026PHP Stuffs\nEl control de acceso basado en roles (RBAC) es utilizado en la mayoría de los sistemas para definir qué puede hacer cada usu",
       "image": "",
-      "published": "Sat, 25 Jul 2026 04:20:21 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\nComments URL: https://news.ycombinator.com/item?id=49044074\nPoints: 189\n# Comments: 77",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 02:54:36 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit",
-      "link": "https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3",
-      "summary": "TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit\n\n\n\nThis article was written with the assistance of AI, under human supervision and review.\n\n\nMost TypeScript codebases ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm3f83fvn4llugkas4sph.png",
-      "published": "Sat, 25 Jul 2026 07:37:03 +0000",
+      "published": "Sat, 25 Jul 2026 12:49:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint",
-      "link": "https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9",
-      "summary": "As cryptographic research accelerates, the looming threat of cryptanalytically relevant quantum computers (CRQCs) poses a severe risk to traditional public-key cryptography. Standard algorithms like RSA and Elliptic-Curv",
+      "title": "Swagger docs from your existing TypeScript types — no framework required",
+      "link": "https://dev.to/seyves_02123877c1b6b0f3a7/swagger-docs-from-your-existing-typescript-types-no-framework-required-1215",
+      "summary": "The problem\n\n\nRecently I was looking for an npm package to generate OpenAPI (Swagger) documentation for my existing TypeScript project. My biggest requirement was TypeScript type-to-schema conversion: I already have all ",
       "image": "",
-      "published": "Sat, 25 Jul 2026 07:29:51 +0000",
+      "published": "Sat, 25 Jul 2026 12:45:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Point-in-Time Recovery Without the Enterprise Price Tag",
-      "link": "https://dev.to/coldstorage/point-in-time-recovery-without-the-enterprise-price-tag-obm",
-      "summary": "description: A deep dive into HuskHoard's open-source PITR engine — how the catalog tracks version history and byte offsets across physical media, and how you roll back a single file without touching the rest of the volu",
+      "title": "I Built 50 Browser Games Without React. Here's Why.",
+      "link": "https://dev.to/ravindrachitla/i-built-50-browser-games-without-react-heres-why-5ace",
+      "summary": "When I started building GamesMom, my goal wasn't to create another gaming website. I wanted to build a collection of browser games and educational games that children could play instantly without downloads, sign-ups, or ",
       "image": "",
-      "published": "Sat, 25 Jul 2026 07:28:28 +0000",
+      "published": "Sat, 25 Jul 2026 12:35:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Part 4 - Tightly Encapsulated Class in Java",
-      "link": "https://dev.to/rajeshbhola1/part-4-tightly-encapsulated-class-in-java-5f1f",
-      "summary": "After learning Data Hiding, Abstraction, and Encapsulation, let's explore a concept that frequently appears in Java interviews and certification exams: Tightly Encapsulated Class.\n\nAt first glance, you might think a tigh",
+      "title": "minikube with the Docker Driver on Ubuntu: A Practical Local Cluster",
+      "link": "https://dev.to/jjoyneriv/minikube-with-the-docker-driver-on-ubuntu-a-practical-local-cluster-4fn9",
+      "summary": "minikube is the other \"Kubernetes in Docker\" option on Ubuntu, and with --driver=docker it runs the cluster inside a Docker container just like kind — but ships with addons (ingress, metrics-server, dashboard, a built-in",
       "image": "",
-      "published": "Sat, 25 Jul 2026 07:15:09 +0000",
+      "published": "Sat, 25 Jul 2026 12:34:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion",
-      "link": "https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30",
-      "summary": "🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion\n\nA comprehensive update on infrastructure, security, and the path to production.\n🚀 What's New?\n\nThe MyZubster ecosystem has undergone a major i",
+      "title": "Best AI Model for Unreal Engine in 2026? Kimi K3 vs Claude Opus 5 vs Qwen3.8",
+      "link": "https://dev.to/lewisywliu/best-ai-model-for-unreal-engine-in-2026-kimi-k3-vs-claude-opus-5-vs-qwen38-5025",
+      "summary": "Evidence checked on July 25, 2026. This comparison separates vendor claims, general coding evidence, and native Unreal Engine delivery. Those are not the same thing.\n\nKimi K3, Claude Opus 5, and Qwen3.8-Max-Preview all a",
       "image": "",
-      "published": "Sat, 25 Jul 2026 07:07:25 +0000",
+      "published": "Sat, 25 Jul 2026 12:26:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
