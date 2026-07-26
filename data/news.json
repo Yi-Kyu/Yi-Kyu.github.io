@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-25T18:44:17.341059Z",
+  "updated": "2026-07-26T01:21:17.920855Z",
   "articles": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg",
+      "published": "Sun, 26 Jul 2026 00:18:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
       "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg",
-      "published": "Sat, 25 Jul 2026 15:23:41 +0530",
-      "source": "The Hacker News",
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
+      "image": "",
+      "published": "Sat, 25 Jul 2026 18:37:47 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
       "image": "",
       "published": "Fri, 24 Jul 2026 15:55:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Tile's Security Is So Bad It's a Feature for Stalkers",
-      "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-      "summary": "Article URL: https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/\nComments URL: https://news.ycombinator.com/item?id=49050152\nPoints: 19\n# Comments: 1",
+      "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+      "link": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+      "summary": "Article URL: https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/\nComments URL: https://news.ycombinator.com/item?id=49053255\nPoints: 19\n# Comments: 4",
       "image": "",
-      "published": "Sat, 25 Jul 2026 18:18:42 +0000",
+      "published": "Sun, 26 Jul 2026 00:19:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rauno's Field Notes #2",
-      "link": "https://rauno.me/notes/2",
-      "summary": "Article URL: https://rauno.me/notes/2\nComments URL: https://news.ycombinator.com/item?id=49049066\nPoints: 14\n# Comments: 1",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translat",
       "image": "",
-      "published": "Sat, 25 Jul 2026 16:39:55 +0000",
+      "published": "Sat, 25 Jul 2026 23:32:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-      "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-      "summary": "Article URL: https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/\nComments URL: https://news.ycombinator.com/item?id=49048819\nPoints: 75\n# Comments: 61",
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\nComments URL: https://news.ycombinator.com/item?id=49052628\nPoints: 31\n# Comments: 16",
       "image": "",
-      "published": "Sat, 25 Jul 2026 16:09:58 +0000",
+      "published": "Sat, 25 Jul 2026 22:57:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "summary": "Article URL: https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/\nComments URL: https://news.ycombinator.com/item?id=49048689\nPoints: 27\n# Comments: 5",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/\nComments URL: https://news.ycombinator.com/item?id=49052564\nPoints: 16\n# Comments: 6",
       "image": "",
-      "published": "Sat, 25 Jul 2026 15:55:27 +0000",
+      "published": "Sat, 25 Jul 2026 22:50:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Dark Night of Mathematics",
-      "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-      "summary": "Article URL: https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics\nComments URL: https://news.ycombinator.com/item?id=49048681\nPoints: 64\n# Comments: 45",
+      "title": "Kimi K3 built a Windows XP in browser",
+      "link": "https://windows-xp.kimi.site/",
+      "summary": "Article URL: https://windows-xp.kimi.site/\nComments URL: https://news.ycombinator.com/item?id=49052074\nPoints: 51\n# Comments: 30",
       "image": "",
-      "published": "Sat, 25 Jul 2026 15:54:59 +0000",
+      "published": "Sat, 25 Jul 2026 22:03:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Creating my own shell for unix",
-      "link": "https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7",
-      "summary": "Building Astra: A Modern Shell in Rust\n\n\nI've been working on a personal project called Astra, an interactive shell written in Rust.\n\nThe goal isn't to replace every existing shell overnight. Instead, I'm building a clea",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sat, 25 Jul 2026 18:35:54 +0000",
+      "title": "The Spanish Empire of Abstraction strikes back 🇪🇸",
+      "link": "https://dev.to/yosoyignicion/the-spanish-empire-of-abstraction-strikes-back-2gpn",
+      "summary": "Halò a charaid! 😄\n\nThe Spanish did NOT go home. We stayed, refactored the whole thing, and now the French border patrol is asking us for immigration advice.\n\nTurns out this puzzle isn't about Java or C++ or even Py/TS. I",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 01:08:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS",
-      "link": "https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893",
-      "summary": "A foundation model is not a mind.\n\nA model invocation is not an individual. A session is not a biography. A first-person response is not evidence of consciousness. And adding tools to a language model does not automatica",
+      "title": "The Art of Writing a Good Post-Mortem",
+      "link": "https://dev.to/samson_tanimawo/the-art-of-writing-a-good-post-mortem-2887",
+      "summary": "A good post-mortem is a piece of technical writing. It should be readable by someone who wasn't there, convey the timeline clearly, and suggest concrete changes.\n\nMost are none of these things. They're a wall of Slack sc",
       "image": "",
-      "published": "Sat, 25 Jul 2026 18:28:40 +0000",
+      "published": "Sun, 26 Jul 2026 01:05:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-      "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-      "summary": "How multiple open browser tabs can accidentally DDOS your auth server, and how to fix it with the Web Locks API.\n\nPicture this: You’ve just shipped a state-of-the-art Axios response interceptor. You implemented a mutex l",
+      "title": "HTB Orion — CraftCMS RCE, a Reverse Shell That Wouldn't Connect, and a Telnetd Auth Bypass",
+      "link": "https://dev.to/pyhacksecgp/htb-orion-craftcms-rce-a-reverse-shell-that-wouldnt-connect-and-a-telnetd-auth-bypass-4nj2",
+      "summary": "HTB Orion — Writeup\n\n\nOrion is rated \"Very Easy\" on Hack The Box, but the path to root turned into a genuinely useful debugging exercise — less about the exploit chain itself and more about what happens when your tooling",
       "image": "",
-      "published": "Sat, 25 Jul 2026 18:21:53 +0000",
+      "published": "Sun, 26 Jul 2026 01:05:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built Triage: Turning SigNoz into a Blue Team SOC (And the Deployment Nightmares I Survived)",
-      "link": "https://dev.to/codewithmehru/how-i-built-triage-turning-signoz-into-a-blue-team-soc-and-the-deployment-nightmares-i-survived-pni",
-      "summary": "Most people use OpenTelemetry and SigNoz to watch their CPU usage, find memory leaks, or figure out why their API is taking 400ms instead of 200ms. But for the Agents of SigNoz Hackathon (Track 3: Observe Anything Weird)",
+      "title": "Blocking Bots with Amazon CloudFront Functions, Final Part: What to Log and How to Detect Them",
+      "link": "https://dev.to/aws-builders/blocking-bots-with-amazon-cloudfront-functions-final-part-what-to-log-and-how-to-detect-them-dli",
+      "summary": "In the previous article, I built an application detects → edge blocks feedback loop. However, I did not cover the most important part: how the application should actually detect malicious behavior.\n\nWithout that piece, m",
       "image": "",
-      "published": "Sat, 25 Jul 2026 18:18:22 +0000",
+      "published": "Sun, 26 Jul 2026 01:01:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-      "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-      "summary": "SellAI 🚀\n\n\nHi DEV Community!\n\nOver the past few weeks I've been building SellAI — an AI-powered platform that helps businesses manage sales, customers and analytics from one dashboard.\n\n\n  \n  \n  Main Features\n\n\n\n🤖 AI Ass",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 18:18:09 +0000",
+      "title": "[Boost]",
+      "link": "https://dev.to/smoren/-2e0m",
+      "summary": "Building explicit data-flow graphs in TypeScript: Introducing Transferum\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Smoren\n            \n         ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1028893%2F308f0f70-a14f-465b-a78e-c8f8f7944031.png",
+      "published": "Sun, 26 Jul 2026 01:00:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
