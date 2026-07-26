@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T12:49:28.364990Z",
+  "updated": "2026-07-26T18:48:50.285001Z",
   "articles": [
     {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
       "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
@@ -79,15 +88,6 @@
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
       "image": "",
       "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "image": "",
-      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "link": "https://english.mapn.ro/",
-      "summary": "Article URL: https://english.mapn.ro/\nComments URL: https://news.ycombinator.com/item?id=49057248\nPoints: 15\n# Comments: 0",
+      "title": "The Strongest El Niño Ever",
+      "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "summary": "Article URL: https://www.theclimatebrink.com/p/the-strongest-el-nino-ever\nComments URL: https://news.ycombinator.com/item?id=49060978\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 26 Jul 2026 12:00:42 +0000",
+      "published": "Sun, 26 Jul 2026 18:35:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An OpenAI model left notes about how to evade containment; we need more details",
-      "link": "https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we",
-      "summary": "Article URL: https://www.lesswrong.com/posts/jMEAG5c5HiDfdAGpa/an-openai-model-left-notes-about-how-to-evade-containment-we\nComments URL: https://news.ycombinator.com/item?id=49056808\nPoints: 15\n# Comments: 9",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "summary": "Article URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time\nComments URL: https://news.ycombinator.com/item?id=49060495\nPoints: 19\n# Comments: 10",
       "image": "",
-      "published": "Sun, 26 Jul 2026 11:00:54 +0000",
+      "published": "Sun, 26 Jul 2026 17:49:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
-      "link": "https://code.claude.com/docs/en/data-usage",
-      "summary": "Article URL: https://code.claude.com/docs/en/data-usage\nComments URL: https://news.ycombinator.com/item?id=49056689\nPoints: 3\n# Comments: 0",
+      "title": "How to Write English Prose",
+      "link": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose\nComments URL: https://news.ycombinator.com/item?id=49060295\nPoints: 11\n# Comments: 3",
       "image": "",
-      "published": "Sun, 26 Jul 2026 10:42:00 +0000",
+      "published": "Sun, 26 Jul 2026 17:29:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-      "link": "https://comuniq.xyz/post?t=1439",
-      "summary": "Article URL: https://comuniq.xyz/post?t=1439\nComments URL: https://news.ycombinator.com/item?id=49056424\nPoints: 33\n# Comments: 23",
+      "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+      "link": "https://github.com/MicSm/boffin",
+      "summary": "Staff-engineer layer for AI coding agents: routes per-edit architectural constraints for AI coding agents\n\nComments URL: https://news.ycombinator.com/item?id=49060279\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Sun, 26 Jul 2026 09:58:11 +0000",
+      "published": "Sun, 26 Jul 2026 17:28:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Systemd Linger",
-      "link": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-      "summary": "Article URL: https://etbe.coker.com.au/2026/07/24/systemd-linger/\nComments URL: https://news.ycombinator.com/item?id=49056351\nPoints: 19\n# Comments: 8",
+      "title": "Calling all open source maintainers working with Ruby",
+      "link": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
+      "summary": "Article URL: https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553\nComments URL: https://news.ycombinator.com/item?id=49060277\nPoints: 7\n# Comments: 4",
       "image": "",
-      "published": "Sun, 26 Jul 2026 09:43:13 +0000",
+      "published": "Sun, 26 Jul 2026 17:28:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "🛠️ How to Run a Privacy-First, Browser-Based Stream Downloader (FlowPick) — A Hands-On Tutorial",
-      "link": "https://dev.to/flowpick/how-to-run-a-privacy-first-browser-based-stream-downloader-flowpick-a-hands-on-tutorial-ljd",
-      "summary": "Hey folks 👋\n\nIf you've ever wanted to save a video lecture, a livestream replay, or a podcast episode for offline listening, you've probably run into the usual options: sketchy \"online video parser\" websites that ask you",
+      "title": "How Much of Your CI Pipeline Is Just Cucumber Scenarios You're Too Afraid to Delete",
+      "link": "https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h",
+      "summary": "The CI job just hit 28 minutes. Again.\n\nYou pull up the duration report expecting to blame a bloated integration test or a slow environment spin‑up. Instead the longest stage stares back at you: a collection of Cucumber ",
       "image": "",
-      "published": "Sun, 26 Jul 2026 12:34:56 +0000",
+      "published": "Sun, 26 Jul 2026 18:39:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We Audited Our Claude Code Setup Against Anthropic's Own Context-Engineering Rules — Here's What We Found",
-      "link": "https://dev.to/pponali/we-audited-our-claude-code-setup-against-anthropics-own-context-engineering-rules-heres-what-we-3mme",
-      "summary": "The question that started this\n\n\nWe run Claude Code against a fairly large, fairly automated repository — a farming-assistance platform with a Node.js backend, a Flutter app, a React dashboard, an in-progress Spring Boot",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgzpm248oh1i3t1lyle6p.png",
-      "published": "Sun, 26 Jul 2026 12:32:46 +0000",
+      "title": "3 Portfolio Mistakes Hiring Managers Spot Instantly",
+      "link": "https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma",
+      "summary": "The manager opens your portfolio.\n\nYour resume says you have five years of automation experience. The README lists Selenium, Playwright, Appium, Jenkins, Docker, Kubernetes. He scrolls. There is no code. The browser tab ",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 18:39:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Don't Wait. Fork It.",
-      "link": "https://dev.to/arjunagiarehman/dont-wait-fork-it-5dcj",
-      "summary": "Nobody has ever asked you to upstream your dotfiles.\n\nFor thirty years that was the deal with every tool we touched: if you didn't like it, you changed it, and the change lived with you. Then the tools started writing th",
+      "title": "The Manual Tester Who Can Write a SQL Join Will Always Beat the SDET Who Can't",
+      "link": "https://dev.to/qawalah/the-manual-tester-who-can-write-a-sql-join-will-always-beat-the-sdet-who-cant-4h5p",
+      "summary": "Most people think the SDET title means you are automatically more valuable than a manual tester.\n\nThe SDET writes Playwright scripts. The SDET configures CI pipelines. The SDET talks about page objects and retry strategi",
       "image": "",
-      "published": "Sun, 26 Jul 2026 12:26:35 +0000",
+      "published": "Sun, 26 Jul 2026 18:39:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built 185 free browser tools that never upload your files",
-      "link": "https://dev.to/apurba_kumar_29e325530643/i-built-185-free-browser-tools-that-never-upload-your-files-3hic",
-      "summary": "Why browser-based?\n\n\nEvery other \"online tool\" site uploads your PDFs and images to their server for processing. That means:\n\n\nYour sensitive documents sit on someone else's machine\nProcessing speed depends on their serv",
+      "title": "SigNoz Hackathon",
+      "link": "https://dev.to/aswa2212/signoz-hackathon-nld",
+      "summary": "I built an AI agent system that automatically switches to a backup AI model if the main one fails. I connected every step to SigNoz so I could track requests, monitor performance, and detect failures. I also built a diag",
       "image": "",
-      "published": "Sun, 26 Jul 2026 12:23:05 +0000",
+      "published": "Sun, 26 Jul 2026 18:35:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "6 design choices that got developers to actually adopt our free public REST API",
-      "link": "https://dev.to/ishwar_sirvi_f1e4f59759a0/6-design-choices-that-got-developers-to-actually-adopt-our-free-public-rest-api-32n4",
-      "summary": "Publishing an open dataset on GitHub is easy. Getting developers to use it is a different problem. Here is what I learned shipping ReceiptEdit's 2026 US sales tax dataset as a free REST API.\n\n\n  \n  \n  1. No auth. No sign",
+      "title": "How to Build and Debug MCP Servers for Claude Desktop in 5 Seconds 🔨",
+      "link": "https://dev.to/vladislav_todorese_8c5890/how-to-build-and-debug-mcp-servers-for-claude-desktop-in-5-seconds-3c4n",
+      "summary": "How to Build and Debug MCP Servers for Claude Desktop in 5 Seconds 🔨\n\n\nModel Context Protocol (MCP) by Anthropic is rapidly becoming the open standard for connecting LLMs like Claude Desktop, Cursor, and Windsurf to loca",
       "image": "",
-      "published": "Sun, 26 Jul 2026 12:20:53 +0000",
+      "published": "Sun, 26 Jul 2026 18:32:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
