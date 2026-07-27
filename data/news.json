@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-27T14:03:23.113649Z",
+  "updated": "2026-07-27T19:04:59.444390Z",
   "articles": [
+    {
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
+      "published": "Mon, 27 Jul 2026 22:46:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg",
+      "published": "Mon, 27 Jul 2026 20:10:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up.\n\nThis week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg",
+      "published": "Mon, 27 Jul 2026 19:40:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
-      "published": "Mon, 27 Jul 2026 16:21:45 +0530",
-      "source": "The Hacker News",
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previous",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg",
-      "published": "Mon, 27 Jul 2026 14:18:47 +0530",
-      "source": "The Hacker News",
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 11:39:51 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in the dependabot",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg",
-      "published": "Mon, 27 Jul 2026 13:31:23 +0530",
-      "source": "The Hacker News",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 11:12:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissio",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -56,219 +92,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
+      "title": "Self-contained highly-portable Python distributions",
+      "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/\nComments URL: https://news.ycombinator.com/item?id=49073942\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Sat, 25 Jul 2026 18:37:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 10:16:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "image": "",
-      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after ",
-      "image": "",
-      "published": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub ",
-      "image": "",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
-      "image": "",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli com",
-      "image": "",
-      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Should you wash your solar panels?",
-      "link": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "summary": "Article URL: https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html\nComments URL: https://news.ycombinator.com/item?id=49069132\nPoints: 23\n# Comments: 8",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 13:04:11 +0000",
+      "published": "Mon, 27 Jul 2026 18:43:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI companies are shredding rare books",
-      "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "summary": "Article URL: https://xcancel.com/HedgieMarkets/status/2081534588485296565\nComments URL: https://news.ycombinator.com/item?id=49068738\nPoints: 232\n# Comments: 127",
+      "title": "Exercise works for depression. So why isn't it treated like real medicine?",
+      "link": "https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/",
+      "summary": "Article URL: https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/\nComments URL: https://news.ycombinator.com/item?id=49073691\nPoints: 22\n# Comments: 18",
       "image": "",
-      "published": "Mon, 27 Jul 2026 12:32:12 +0000",
+      "published": "Mon, 27 Jul 2026 18:26:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Proof Machine (2016)",
-      "link": "https://incredible.pm/",
-      "summary": "Article URL: https://incredible.pm/\nComments URL: https://news.ycombinator.com/item?id=49068711\nPoints: 11\n# Comments: 0",
+      "title": "Bytecode-to-Source Mapping",
+      "link": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/\nComments URL: https://news.ycombinator.com/item?id=49073665\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Mon, 27 Jul 2026 12:29:24 +0000",
+      "published": "Mon, 27 Jul 2026 18:25:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Worse on Purpose",
-      "link": "https://ledger.worseonpurpose.com/brands",
-      "summary": "Article URL: https://ledger.worseonpurpose.com/brands\nComments URL: https://news.ycombinator.com/item?id=49068707\nPoints: 50\n# Comments: 16",
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/\nComments URL: https://news.ycombinator.com/item?id=49073513\nPoints: 13\n# Comments: 1",
       "image": "",
-      "published": "Mon, 27 Jul 2026 12:29:14 +0000",
+      "published": "Mon, 27 Jul 2026 18:15:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Elevated errors on Claude Opus 5",
-      "link": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "summary": "Article URL: https://status.claude.com/incidents/mfdtrknpxghq\nComments URL: https://news.ycombinator.com/item?id=49068029\nPoints: 40\n# Comments: 40",
+      "title": "Jensen Huang's first-ever post on X is in defense of open access to AI models",
+      "link": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+      "summary": "Article URL: https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/\nComments URL: https://news.ycombinator.com/item?id=49073267\n",
       "image": "",
-      "published": "Mon, 27 Jul 2026 11:32:32 +0000",
+      "published": "Mon, 27 Jul 2026 17:56:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "That Conclusion You Stored Might Be Expired. But It Won't Tell You.",
-      "link": "https://dev.to/icophy/that-conclusion-you-stored-might-be-expired-but-it-wont-tell-you-52m0",
-      "summary": "Last Wednesday afternoon, I was going through a batch of meeting notes.\n\nOne of them was from three months ago: \"Users don't need a search function. Recommendations are enough.\"\n\nThe person who wrote that — it was probab",
+      "title": "The rollback endpoint took a deployment ID and did nothing with it",
+      "link": "https://dev.to/jonny2k26/the-rollback-endpoint-took-a-deployment-id-and-did-nothing-with-it-3nad",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.\n\n\n  \n  \n  Project Overview\n\n\nStaxa is a multi-tenant deployment platform I am building solo under Stackforge Labs. The backend is a sin",
       "image": "",
-      "published": "Mon, 27 Jul 2026 14:01:26 +0000",
+      "published": "Mon, 27 Jul 2026 18:55:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built a CLI That Generates 12 Project Templates in 30 Seconds",
-      "link": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-i-built-a-cli-that-generates-12-project-templates-in-30-seconds-4n4a",
-      "summary": "How I Built a CLI That Generates 12 Project Templates in 30 Seconds\n\n\nWhen I started building ScaffoldX, I had a simple goal: create a CLI tool that generates production-ready project templates in seconds — not minutes.\n",
+      "title": "The five primitives I run a whole company on",
+      "link": "https://dev.to/solo_operator/the-five-primitives-i-run-a-whole-company-on-21cl",
+      "summary": "I run a consumer product company by myself. Physical inventory, two storefronts, multiple marketplaces, subscription billing, bookkeeping, tax filings, government paperwork, content in two languages, and a codebase that ",
       "image": "",
-      "published": "Mon, 27 Jul 2026 14:01:24 +0000",
+      "published": "Mon, 27 Jul 2026 18:51:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Perceptual Hash Pipeline for Video Deduplication in Python",
-      "link": "https://dev.to/ahmet_gedik778845/building-a-perceptual-hash-pipeline-for-video-deduplication-in-python-509k",
-      "summary": "A single viral clip never stays a single file. Within hours of a video trending, our crawlers pull the \"same\" clip back a dozen times: re-encoded at a lower bitrate, letterboxed for a vertical feed, watermarked by an agg",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 14:00:01 +0000",
+      "title": "I Replaced ESLint and Prettier with Biome",
+      "link": "https://dev.to/joodi/i-replaced-eslint-and-prettier-with-biome-1oi5",
+      "summary": "I used to juggle ESLint and Prettier every day.\n\nTwo tools. Multiple config files. Plugin conflicts. Slow checks. And that constant feeling that something was always fighting something else.\n\nThen I found Biome.\n\nBiome i",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkllefmnc7odf2fxpte1p.png",
+      "published": "Mon, 27 Jul 2026 18:45:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Knowing What’s Under the Hood Helps",
-      "link": "https://dev.to/leonadato/knowing-whats-under-the-hood-helps-3gf",
-      "summary": "I’m not a car guy. I can drive them, but I don’t know the first thing about fixing them, and not much about maintaining them. My son, on the other hand – who’s getting a degree in mechanical engineering – is most definit",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7jls6o0kn8gkavlygsu7.png",
-      "published": "Mon, 27 Jul 2026 14:00:00 +0000",
+      "title": "How to Start Bug Bounty Hunting in 2026: The Complete Beginner's Guide",
+      "link": "https://dev.to/b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-3cn4",
+      "summary": "Everything you need to know to find your first vulnerability, get paid, and build a real reputation in cybersecurity — without breaking any laws.\n\n\n\n\nIf you've typed \"how to start bug bounty hunting\" into Google recently",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 18:44:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond Autocomplete: How Engineers Can Build High-Impact projects with Agentic AI",
-      "link": "https://dev.to/arthus15/beyond-autocomplete-how-engineering-leaders-can-build-high-impact-teams-with-agentic-ai-33lg",
-      "summary": "Over the past couple of years, AI in software development has quietly crossed a major threshold. What started as glorified tab-completion—handy for filling in boilerplate or guessing the next syntax block—has morphed int",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 13:54:18 +0000",
+      "title": "Turning surprise AI bills into accountable growth",
+      "link": "https://dev.to/softchris/turning-surprise-ai-bills-into-accountable-growth-4343",
+      "summary": "This is a story of how you receive a higher bill than expected and how GitHub's Billing Controls help clarity and predictability. Let's begin our story.\n\n\n  \n  \n  Confusion: The bill is higher than expected\n\n\nThe AI bill",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fakw88c0tldf9dtip9tws.png",
+      "published": "Mon, 27 Jul 2026 18:44:11 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
