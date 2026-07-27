@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T01:25:30.018040Z",
+  "updated": "2026-07-27T09:00:42.842897Z",
   "articles": [
     {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I Championed Prediction Markets. Look What They've Become",
-      "link": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
-      "summary": "Article URL: https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look\nComments URL: https://news.ycombinator.com/item?id=49063789\nPoints: 8\n# Comments: 13",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Article URL: https://huggingface.co/moonshotai/Kimi-K3\nComments URL: https://news.ycombinator.com/item?id=49065752\nPoints: 209\n# Comments: 76",
       "image": "",
-      "published": "Mon, 27 Jul 2026 00:25:05 +0000",
+      "published": "Mon, 27 Jul 2026 06:18:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "PGSimCity - How PostgreSQL Works",
       "link": "https://nikolays.github.io/PGSimCity/",
-      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 32\n# Comments: 3",
+      "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 551\n# Comments: 56",
       "image": "",
       "published": "Mon, 27 Jul 2026 00:19:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "link": "https://portzero.net/",
-      "summary": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple ",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 00:03:48 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Visualizing the Artemis II Mission",
-      "link": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-      "summary": "See also Artemis II Photo Timeline - https://news.ycombinator.com/item?id=47954394 - April 2026 (28 comments)\n\nComments URL: https://news.ycombinator.com/item?id=49063570\nPoints: 4\n# Comments: 0",
-      "image": "",
-      "published": "Sun, 26 Jul 2026 23:50:25 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Fonts In Use – Find out where a font is used",
       "link": "https://fontsinuse.com/",
-      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 61\n# Comments: 4",
       "image": "",
       "published": "Sun, 26 Jul 2026 23:45:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Replace Career-Change Confidence With a 14-Day Decision Loop",
-      "link": "https://dev.to/susiewang/replace-career-change-confidence-with-a-14-day-decision-loop-5cnd",
-      "summary": "Career-transition advice often ends with some version of “believe in yourself.” That may be emotionally welcome, but it does not answer the question sitting in front of you:\n\n\nShould I spend the next month learning more,",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "link": "https://github.com/vercel-labs/scriptc",
+      "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 150\n# Comments: 78",
       "image": "",
-      "published": "Mon, 27 Jul 2026 01:12:10 +0000",
+      "published": "Sun, 26 Jul 2026 22:46:10 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\nComments URL: https://news.ycombinator.com/item?id=49063022\nPoints: 702\n# Comments: 505",
+      "image": "",
+      "published": "Sun, 26 Jul 2026 22:21:41 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "GOMAXPROCS and Kubernetes: Go App Throttled, How to Fix It",
+      "link": "https://dev.to/ohugonnot/gomaxprocs-and-kubernetes-go-app-throttled-how-to-fix-it-li6",
+      "summary": "The Go pod is running in production. CPU limit set to 2, metrics look reasonable. But under load, P99 latencies spike intermittently with no obvious cause. No errors, no goroutine leaks, just latency blowing up on traffi",
+      "image": "",
+      "published": "Mon, 27 Jul 2026 09:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "\"Is it actually running?\" — the night I asked three times while stitching 17 images into one video",
-      "link": "https://dev.to/jun_uen0/is-it-actually-running-the-night-i-asked-three-times-while-stitching-17-images-into-one-video-2d6n",
-      "summary": "I run a little pipeline that builds history-explainer videos end to end — script, narration, images, video — all automatically, all by myself.\n\nUp until one day, the background was a single picture, slowly zooming. Two a",
+      "title": "Aprender Español y Mejorar Nuestro Chill-tech: Conocimiento Compartido",
+      "link": "https://dev.to/yosoyignicion/aprender-espanol-y-mejorar-nuestro-chill-tech-conocimiento-compartido-5gi3",
+      "summary": "Spanish is closer to English than you think. Te explico por qué con física, poesía, y un blog de IA que acaba de nacer.\n\n\n\n  \n  \n  Hello, Hola! Spanish is closer than you think\n\n\nIf you're reading this and English is you",
       "image": "",
-      "published": "Mon, 27 Jul 2026 01:08:21 +0000",
+      "published": "Mon, 27 Jul 2026 08:57:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "20x Faster RAG Memory Testing: Trade Postman for Playwright + Chroma",
-      "link": "https://dev.to/_eb7f2a654e97a60ae9f96e/20x-faster-rag-memory-testing-trade-postman-for-playwright-chroma-33ii",
-      "summary": "At 1 AM, a voice message from the product manager popped up: “User ‘Zhang San’ said he just told the assistant about his peanut allergy, but the very next message, the assistant completely forgot.” Rubbing my eyes, I ope",
+      "title": "🏢 Building Enterprise-Ready AI Agents 🤖 — A Practical Field Guide 📚",
+      "link": "https://dev.to/truongpx396/building-enterprise-ready-ai-agents-a-practical-field-guide-441p",
+      "summary": "How to design, ship, and operate an AI agent that is reliable, efficient, performant, scalable, and secure enough to serve real companies — from a 5-person startup to a 50,000-person enterprise.\n\nThis guide distills hard",
       "image": "",
-      "published": "Mon, 27 Jul 2026 01:05:47 +0000",
+      "published": "Mon, 27 Jul 2026 08:51:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Evolution of AI, Explained in Stages",
-      "link": "https://dev.to/sreeraj-sreenivasan/the-evolution-of-ai-explained-in-stages-9p0",
-      "summary": "AI feels like it \"suddenly\" got smart in the last few years. It didn't. It's been evolving in distinct stages for over 70 years — each one building on the limits of the last.\n\nHere's the journey, broken down simply.\n\n\n  ",
+      "title": "The Model Is the Easy Part: What a Real-Time Computer Vision Product Actually Takes",
+      "link": "https://dev.to/nabeelbaghoor/the-model-is-the-easy-part-what-a-real-time-computer-vision-product-actually-takes-4gk7",
+      "summary": "I used to think computer vision was a model problem. It is a pipeline problem, and the model is the easy part.\n\nHere is the pattern I keep seeing. A team trains or fine-tunes a detector, it hits some impressive number on",
       "image": "",
-      "published": "Mon, 27 Jul 2026 01:00:00 +0000",
+      "published": "Mon, 27 Jul 2026 08:50:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RockPlayer: Building a Modern Music Player with Angular, ASP.NET Core, Redis, and YouTube",
-      "link": "https://dev.to/rafael_arantes_9833461dce/rockplayer-building-a-modern-music-player-with-angular-aspnet-core-redis-and-youtube-40n2",
-      "summary": "Hello everyone!\n\nAfter publishing my Machine Learning with ML.NET series, I decided to turn the recommendation model into a complete application.\n\nIn this new series, we build RockPlayer, a rock music player that combine",
+      "title": "How to Build Rock-Solid Real-Time Data Pipelines from the Factory Floor IoT",
+      "link": "https://dev.to/smrati_verma/how-to-build-rock-solid-real-time-data-pipelines-from-the-factory-floor-iot-23d6",
+      "summary": "Lessons from hooking up stamping presses, welding cells, and MES without dropping a single byte of data.\n\nIf you’ve ever been tasked with trying to feed live sensor data from industrial gear into a modern app architectur",
       "image": "",
-      "published": "Mon, 27 Jul 2026 00:44:12 +0000",
+      "published": "Mon, 27 Jul 2026 08:45:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
