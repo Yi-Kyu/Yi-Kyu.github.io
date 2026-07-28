@@ -1,6 +1,24 @@
 {
-  "updated": "2026-07-28T01:13:08.093325Z",
+  "updated": "2026-07-28T08:08:20.416567Z",
   "articles": [
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.\n\nThe company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg",
+      "published": "Tue, 28 Jul 2026 11:37:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg",
+      "published": "Tue, 28 Jul 2026 10:13:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
       "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
@@ -25,24 +43,6 @@
       "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg",
       "published": "Mon, 27 Jul 2026 20:10:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up.\n\nThis week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZShQJv7u2hWKu_7xOJWw1-8rjxg7jwXoaFDJqqKPTzPa2-u608uDu_uxZ4fn2DmullQ7Kkx6YUIbjK0cKuZNxaQuirr5icArrmvx70FFuvnWkrxulAHi-_chuqNvTCWtBGyS7qkCnGh28qubTDmQC_YCmj8Q77Y_bp7McFTJlAv9oT5KqPRUGxlVoXli8/s1600/recap-thn.jpg",
-      "published": "Mon, 27 Jul 2026 19:40:54 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw whil",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
-      "published": "Mon, 27 Jul 2026 18:35:15 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "link": "https://arxiv.org/abs/2607.05283",
-      "summary": "Article URL: https://arxiv.org/abs/2607.05283\nComments URL: https://news.ycombinator.com/item?id=49077209\nPoints: 8\n# Comments: 3",
+      "title": "7.1 Earthquake in Japan",
+      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Mon, 27 Jul 2026 23:46:15 +0000",
+      "published": "Tue, 28 Jul 2026 07:44:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "link": "https://www.dowe.dev",
-      "summary": "Article URL: https://www.dowe.dev\nComments URL: https://news.ycombinator.com/item?id=49076975\nPoints: 18\n# Comments: 20",
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "link": "https://arsastronomica.com/",
+      "summary": "Article URL: https://arsastronomica.com/\nComments URL: https://news.ycombinator.com/item?id=49079727\nPoints: 43\n# Comments: 7",
       "image": "",
-      "published": "Mon, 27 Jul 2026 23:26:05 +0000",
+      "published": "Tue, 28 Jul 2026 05:25:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-      "summary": "Article URL: https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349\nComments URL: https://news.ycombinator.com/item?id=49076923\nPoints: 120\n# Comm",
+      "title": "Neutrino-1 8B",
+      "link": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "summary": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/\nComments URL: https://news.ycombinator.com/item?id=49079490\nPoints: 58\n# Comments: 11",
       "image": "",
-      "published": "Mon, 27 Jul 2026 23:21:37 +0000",
+      "published": "Tue, 28 Jul 2026 04:49:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "link": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "summary": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "title": "PyTorch: A Reference Language",
+      "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "summary": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/\nComments URL: https://news.ycombinator.com/item?id=49079454\nPoints: 23\n# Comments: 2",
       "image": "",
-      "published": "Mon, 27 Jul 2026 23:19:19 +0000",
+      "published": "Tue, 28 Jul 2026 04:46:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DConf 2026 in London",
-      "link": "https://dconf.org/2026/index.html",
-      "summary": "Article URL: https://dconf.org/2026/index.html\nComments URL: https://news.ycombinator.com/item?id=49076840\nPoints: 38\n# Comments: 9",
+      "title": "Why do we think we understand the world more than we actually do?",
+      "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "summary": "Article URL: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth\nComments URL: https://news.ycombinator.com/item?id=49079175\nPoints: 59\n# Comments: 43",
       "image": "",
-      "published": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "published": "Tue, 28 Jul 2026 04:00:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "[Advanced Rust] 1.12. Lifetimes (Advanced) Pt.2 - Lifetime Variance, Covariance, Invariance, Contravariance",
-      "link": "https://dev.to/someb1oody/advanced-rust-112-lifetimes-advanced-pt2-lifetime-variance-covariance-invariance-1lkc",
-      "summary": "1.12.1. Lifetime Variance\n\n\nVariance is a concept in Rust’s type system. It describes how generic parameters — especially lifetime parameters — relate to one another in the type hierarchy.\n\nWe can think of it simply as v",
+      "title": "Automating Weekly Product Research With Claude and MCP",
+      "link": "https://dev.to/tomi431/automating-weekly-product-research-with-claude-and-mcp-2plo",
+      "summary": "Automating Weekly Product Research With Claude and MCP\n\n\nEvery Monday you open 4 tools, run the same queries, compile the same spreadsheet. You have been doing this for years. What if your AI did it for you in 30 seconds",
       "image": "",
-      "published": "Tue, 28 Jul 2026 00:30:07 +0000",
+      "published": "Tue, 28 Jul 2026 08:01:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Advanced Rust] 1.11. Lifetimes (Advanced) Pt.1 - Review, Borrow Checker, Generic Lifetimes",
-      "link": "https://dev.to/someb1oody/advanced-rust-111-lifetimes-advanced-pt1-review-borrow-checker-generic-lifetimes-2o6c",
-      "summary": "1.11.1. Review\n\n\nIn the beginner tutorial, we mentioned that every reference in Rust has a lifetime. A lifetime is the scope in which the reference remains valid, and in most cases it is implicit and inferred by the comp",
+      "title": "Python Packaging: How to Publish Your First pip Package",
+      "link": "https://dev.to/qingluan/python-packaging-how-to-publish-your-first-pip-package-3791",
+      "summary": "Python Packaging: How to Publish Your First pip Package\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\nMaking Your ",
       "image": "",
-      "published": "Tue, 28 Jul 2026 00:28:57 +0000",
+      "published": "Tue, 28 Jul 2026 08:00:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dysphoria: A 200k-Device Botnet Using Blockchain Name Resolution and Infected Device Relays",
-      "link": "https://dev.to/anoymask/dysphoria-a-200k-device-botnet-using-blockchain-name-resolution-and-infected-device-relays-2188",
-      "summary": "Dysphoria: A 200k-Device Botnet Using Blockchain Name Resolution and Infected Device Relays\n\n\n\n  \n  \n  1. Basic Information\n\n\n\n\nArticle Title: New Dysphoria DDoS botnet spreads to 200k devices worldwide\n\nPublisher: Bleep",
+      "title": "Build a Content Scheduler for Social Media",
+      "link": "https://dev.to/qingluan/build-a-content-scheduler-for-social-media-4a3i",
+      "summary": "Build a Content Scheduler for Social Media\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\nImagine waking u",
       "image": "",
-      "published": "Tue, 28 Jul 2026 00:27:01 +0000",
+      "published": "Tue, 28 Jul 2026 08:00:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Public Wi‑Fi DNS Poisoning: Hijacking Microsoft 365 Sessions of Business Travelers",
-      "link": "https://dev.to/anoymask/public-wi-fi-dns-poisoning-hijacking-microsoft-365-sessions-of-business-travelers-1g5n",
-      "summary": "Public Wi‑Fi DNS Poisoning: Hijacking Microsoft 365 Sessions of Business Travelers\n\n\n\n  \n  \n  1. Basic Information\n\n\n\n\nArticle Title: Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials\n\nSource: SecurityWe",
+      "title": "Why Legacy Rewrites Need a Judge, Not a Better Prompt",
+      "link": "https://dev.to/gyu07/why-legacy-rewrites-need-a-judge-not-a-better-prompt-50ea",
+      "summary": "Lately I keep getting asked about legacy replacements.\n\nIt's become one of the more common conversations I have, and the framing is almost always the same: AI can rewrite this now, can't it? The demand is clearly rising,",
       "image": "",
-      "published": "Tue, 28 Jul 2026 00:26:50 +0000",
+      "published": "Tue, 28 Jul 2026 07:59:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "FortiOS CVE-2025-68686: Bypass of Symlink Persistence Mitigation for Already Compromised Devices",
-      "link": "https://dev.to/anoymask/fortios-cve-2025-68686-bypass-of-symlink-persistence-mitigation-for-already-compromised-devices-3534",
-      "summary": "FortiOS CVE-2025-68686: Bypass of Symlink Persistence Mitigation for Already Compromised Devices\n\n\n\n  \n  \n  1. Basic Information\n\n\n\n\nArticle Name: CISA Adds Two Known Exploited Vulnerabilities to Catalog\n\nSource: CISA\n\nP",
+      "title": "Data Contracts: Ending the \"Someone Changed a Field Upstream\" Outage",
+      "link": "https://dev.to/vaibhav7387/data-contracts-ending-the-someone-changed-a-field-upstream-outage-4a09",
+      "summary": "Every data team has lived this outage. A dashboard breaks — or worse, doesn't break, and just starts showing subtly wrong numbers. Days later you trace it to an upstream team who renamed a column, changed a unit, or star",
       "image": "",
-      "published": "Tue, 28 Jul 2026 00:26:41 +0000",
+      "published": "Tue, 28 Jul 2026 07:57:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
