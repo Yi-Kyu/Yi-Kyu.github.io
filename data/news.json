@@ -1,8 +1,35 @@
 {
-  "updated": "2026-07-28T08:08:20.416567Z",
+  "updated": "2026-07-28T13:23:17.083206Z",
   "articles": [
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the M",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg",
+      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\nThe vulnerability, ass",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg",
+      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg",
+      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.\n\nThe company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.\n\nThe 37-member group ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg",
-      "published": "Mon, 27 Jul 2026 23:40:05 +0530",
-      "source": "The Hacker News",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "image": "",
+      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIg3DnKkxpBnQZhAB8v4Wb9FDnDuh3ifKpBMF3kFhNr7_lYOk3S4CgvBoOxFD65FlCjRpoaoBNyH8zo8NtOhjTtTWriXHawlL9mndT3fd_7zlhUBU4mhjU4AvvYNzgV-PGsd52Ng0wnaDRAJMkRQtW4kUuMKlcrP0B71xxywX6cTICeHmMAjswmKhQJKo/s1600/blockchain-botnet.jpg",
-      "published": "Mon, 27 Jul 2026 22:46:28 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy6sn1o691sSAfGgdjo_965YlKkz8ky30drnmHXJz3Y5wO6grXeyoDFvZGYeU-TS4IbxJUtrpqOy_Z2ropf7JAd-KpV6yYgQFo8YUREleUm2A39nchCOv8ydf5ZvOjpSHmDP_W1uJm_HvWK936xBi4xu_3VrHkiDB0MwX6qTdwjXHREYmSBIA0IzyqbVA/s1600/vBulletin.jpg",
-      "published": "Mon, 27 Jul 2026 20:10:00 +0530",
-      "source": "The Hacker News",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "image": "",
+      "published": "Tue, 28 Jul 2026 05:10:03 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
       "image": "",
       "published": "Mon, 27 Jul 2026 17:08:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 17:00:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
-      "image": "",
-      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "7.1 Earthquake in Japan",
-      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 6\n# Comments: 0",
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "summary": "Article URL: https://github.com/ctrlb-hq/ctrlb-decompose\nComments URL: https://news.ycombinator.com/item?id=49083336\nPoints: 14\n# Comments: 0",
       "image": "",
-      "published": "Tue, 28 Jul 2026 07:44:24 +0000",
+      "published": "Tue, 28 Jul 2026 13:13:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "link": "https://arsastronomica.com/",
-      "summary": "Article URL: https://arsastronomica.com/\nComments URL: https://news.ycombinator.com/item?id=49079727\nPoints: 43\n# Comments: 7",
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "summary": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/\nComments URL: https://news.ycombinator.com/item?id=49083314\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Tue, 28 Jul 2026 05:25:34 +0000",
+      "published": "Tue, 28 Jul 2026 13:12:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Neutrino-1 8B",
-      "link": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "summary": "Article URL: https://www.fermionresearch.com/models/neutrino-8b/\nComments URL: https://news.ycombinator.com/item?id=49079490\nPoints: 58\n# Comments: 11",
+      "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+      "link": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+      "summary": "Article URL: https://github.com/BraveAnn011/ai-halo-valuation-bias\nComments URL: https://news.ycombinator.com/item?id=49083244\nPoints: 10\n# Comments: 3",
       "image": "",
-      "published": "Tue, 28 Jul 2026 04:49:54 +0000",
+      "published": "Tue, 28 Jul 2026 13:07:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PyTorch: A Reference Language",
-      "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "summary": "Article URL: https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/\nComments URL: https://news.ycombinator.com/item?id=49079454\nPoints: 23\n# Comments: 2",
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins dow",
       "image": "",
-      "published": "Tue, 28 Jul 2026 04:46:00 +0000",
+      "published": "Tue, 28 Jul 2026 13:07:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why do we think we understand the world more than we actually do?",
-      "link": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-      "summary": "Article URL: https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth\nComments URL: https://news.ycombinator.com/item?id=49079175\nPoints: 59\n# Comments: 43",
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "summary": "Article URL: https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski\nComments URL: https://news.ycombinator.com/item?id=49083132\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Tue, 28 Jul 2026 04:00:41 +0000",
+      "published": "Tue, 28 Jul 2026 13:00:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Automating Weekly Product Research With Claude and MCP",
-      "link": "https://dev.to/tomi431/automating-weekly-product-research-with-claude-and-mcp-2plo",
-      "summary": "Automating Weekly Product Research With Claude and MCP\n\n\nEvery Monday you open 4 tools, run the same queries, compile the same spreadsheet. You have been doing this for years. What if your AI did it for you in 30 seconds",
+      "title": "Retry Storms in C#: Exponential Backoff and Jitter with HttpClient",
+      "link": "https://dev.to/amtocbot/retry-storms-in-c-exponential-backoff-and-jitter-with-httpclient-lah",
+      "summary": "The database blipped for four seconds. The incident lasted forty minutes.\n\nNothing in the timeline explains the gap except the retry code your own clients are running.\n\n\n  \n  \n  The junior version\n\n\n\n\n\nwhile (true)\n{\n   ",
       "image": "",
-      "published": "Tue, 28 Jul 2026 08:01:41 +0000",
+      "published": "Tue, 28 Jul 2026 13:20:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Python Packaging: How to Publish Your First pip Package",
-      "link": "https://dev.to/qingluan/python-packaging-how-to-publish-your-first-pip-package-3791",
-      "summary": "Python Packaging: How to Publish Your First pip Package\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\ntags: python, packaging, opensource, tutorial\n\n\n\n\nMaking Your ",
+      "title": "TRIEL: a specification language where compliance rules compile into cryptographic artifacts",
+      "link": "https://dev.to/triel-lang/triel-a-specification-language-where-compliance-rules-compile-into-cryptographic-artifacts-182a",
+      "summary": "Software specifications and their implementations tend to drift apart over time. A specification is written once; the implementation is built, maintained, and modified separately — and the two slowly diverge. This gap is",
       "image": "",
-      "published": "Tue, 28 Jul 2026 08:00:12 +0000",
+      "published": "Tue, 28 Jul 2026 13:11:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build a Content Scheduler for Social Media",
-      "link": "https://dev.to/qingluan/build-a-content-scheduler-for-social-media-4a3i",
-      "summary": "Build a Content Scheduler for Social Media\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\ntags: python, socialmedia, automation, marketing\n\n\n\n\nImagine waking u",
+      "title": "Manage Scopes of Work: a /sow Skill for Claude Code",
+      "link": "https://dev.to/gbti-network/manage-scopes-of-work-a-sow-skill-for-claude-code-33ke",
+      "summary": "By Hudson Atwell, GBTI Network Member. Originally published on gbti.network.\n\nClaude Code loads any markdown file at .claude/skills/&lt;name&gt;/SKILL.md as a reusable slash command (a \"skill\"). This one gives your agent",
       "image": "",
-      "published": "Tue, 28 Jul 2026 08:00:07 +0000",
+      "published": "Tue, 28 Jul 2026 13:10:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Legacy Rewrites Need a Judge, Not a Better Prompt",
-      "link": "https://dev.to/gyu07/why-legacy-rewrites-need-a-judge-not-a-better-prompt-50ea",
-      "summary": "Lately I keep getting asked about legacy replacements.\n\nIt's become one of the more common conversations I have, and the framing is almost always the same: AI can rewrite this now, can't it? The demand is clearly rising,",
+      "title": "Disposable macOS Sandboxes for AI Agents: Test Safely, Every Time",
+      "link": "https://dev.to/aniketmaurya/disposable-macos-sandboxes-for-ai-agents-test-safely-every-time-3och",
+      "summary": "Have you ever wanted to try out a new app, or open a file you weren't fully sure about, but felt nervous doing it on your main computer? What if it's broken, or worse, causes a mess you have to clean up? That's exactly t",
       "image": "",
-      "published": "Tue, 28 Jul 2026 07:59:03 +0000",
+      "published": "Tue, 28 Jul 2026 13:10:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Data Contracts: Ending the \"Someone Changed a Field Upstream\" Outage",
-      "link": "https://dev.to/vaibhav7387/data-contracts-ending-the-someone-changed-a-field-upstream-outage-4a09",
-      "summary": "Every data team has lived this outage. A dashboard breaks — or worse, doesn't break, and just starts showing subtly wrong numbers. Days later you trace it to an upstream team who renamed a column, changed a unit, or star",
+      "title": "I Added `--retries 2` to Our Pipeline. It Took Me Eight Months to Understand What I'd Done.",
+      "link": "https://dev.to/henry_messiahtmt_099ca84/i-added-retries-2-to-our-pipeline-it-took-me-eight-months-to-understand-what-id-done-1983",
+      "summary": "It was a Tuesday, and I remember the commit message because it was four words long.\n\nci: reduce nightly noise\n\nThat was it. One line changed in the config. Retries from zero to two. I pushed it before lunch and the night",
       "image": "",
-      "published": "Tue, 28 Jul 2026 07:57:02 +0000",
+      "published": "Tue, 28 Jul 2026 13:03:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
