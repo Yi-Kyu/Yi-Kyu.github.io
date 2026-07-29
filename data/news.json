@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-28T19:00:29.360847Z",
+  "updated": "2026-07-29T01:16:00.963470Z",
   "articles": [
+    {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.\n\nThe HAWK attack exploits a previously unused sym",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg",
+      "published": "Wed, 29 Jul 2026 00:29:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
       "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the M",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Whbx97t7xBrrpM26fYSbwg29hdKR8zskNLIwlrWC0Jd3Rrf4INhiCTI3WMw8NzmJ1iETQlt-CKdUxBzL2hef4pgQBOoI1rrrtRbU96hJRUXtTGy5dT40mP2B1AshyphenhyphenM4mc1K1-IISWwY6PSPyGXNBHplHM8kuxX9e5Di6RmMybyO2Q7Guu__CK8jOOkja/s1600/proxy.jpg",
-      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
-      "source": "The Hacker News",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "image": "",
+      "published": "Tue, 28 Jul 2026 17:17:39 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [",
+      "image": "",
+      "published": "Tue, 28 Jul 2026 16:37:06 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure mod",
       "image": "",
       "published": "Tue, 28 Jul 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-      "image": "",
-      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "image": "",
-      "published": "Tue, 28 Jul 2026 05:10:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Deflock Casa Grande",
-      "link": "https://deflockcg.com/",
-      "summary": "Article URL: https://deflockcg.com/\nComments URL: https://news.ycombinator.com/item?id=49088148\nPoints: 5\n# Comments: 0",
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\nComments URL: https://news.ycombinator.com/item?id=49091895\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:41:48 +0000",
+      "published": "Wed, 29 Jul 2026 00:32:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "link": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/2026-07-28/\nComments URL: https://news.ycombinator.com/item?id=49088058\nPoints: 11\n# Comments: 6",
+      "title": "The Difference Between a Button and a Link",
+      "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/\nComments URL: https://news.ycombinator.com/item?id=49091738\nPoints: 15\n# Comments: 3",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:35:11 +0000",
+      "published": "Wed, 29 Jul 2026 00:12:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses\nComments URL: https://news.ycombinator.com/item?id=49087091\nPoints: 67\n# Comments: 26",
+      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "link": "https://www.hubble.md/",
+      "summary": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "published": "Wed, 29 Jul 2026 00:11:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Scientific computing in the age of agentic AI",
-      "link": "https://openai.com/index/scientific-computing-agentic-ai/",
-      "summary": "Article URL: https://openai.com/index/scientific-computing-agentic-ai/\nComments URL: https://news.ycombinator.com/item?id=49086987\nPoints: 23\n# Comments: 6",
+      "title": "ReFrame – The EPaper Camera",
+      "link": "https://reframe.camera/",
+      "summary": "Article URL: https://reframe.camera/\nComments URL: https://news.ycombinator.com/item?id=49091379\nPoints: 11\n# Comments: 3",
       "image": "",
-      "published": "Tue, 28 Jul 2026 17:13:15 +0000",
+      "published": "Tue, 28 Jul 2026 23:27:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "link": "https://sbcl.org/all-news.html?2.6.7",
-      "summary": "Article URL: https://sbcl.org/all-news.html?2.6.7\nComments URL: https://news.ycombinator.com/item?id=49086971\nPoints: 76\n# Comments: 14",
+      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
+      "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\nComments URL: https://news.ycombinator.com/item?id=49090867\nPoints: 108\n# Comments: 58",
       "image": "",
-      "published": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "published": "Tue, 28 Jul 2026 22:31:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Foreman 101: agentic coding as Kubernetes resources",
-      "link": "https://dev.to/defilan/foreman-101-agentic-coding-as-kubernetes-resources-4k33",
-      "summary": "Foreman is an agentic coder that runs as Kubernetes resources. You describe work as a Workload, it decomposes into tasks, agents running on your nodes pick them up, and a branch comes out the other end with something det",
+      "title": "My eval said a perfect MCP server was broken. It was the eval that was lying.",
+      "link": "https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm",
+      "summary": "Originally published at tengli.dev\n\nWhen I added an LLM-powered eval to mcpgrade, the first real run produced a result that looked like a scoop: context7 — a server with a perfect static score — failed tool selection 62%",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:55:51 +0000",
+      "published": "Wed, 29 Jul 2026 00:43:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an MCP Server on 31 Million Rows of Financial Data",
-      "link": "https://dev.to/crichter/building-an-mcp-server-on-31-million-rows-of-financial-data-1p8f",
-      "summary": "This is the architecture of Shibui Finance, an MCP server that gives Claude direct SQL access to 64 years of US stock market data. About 10,000 symbols, 31 million daily price records, quarterly financials back to 1990, ",
+      "title": "Traceroute devlog #1",
+      "link": "https://dev.to/thkim5937/numberlink-devlog-1-mp5",
+      "summary": "Didn't write a single line of code today. Spent the whole day buried in the PRD and TRD instead, and by the end of it I realized this was somehow the most exhausting day so far anyway.\n\n　　The pitch is simple enough: conn",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:54:46 +0000",
+      "published": "Wed, 29 Jul 2026 00:40:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "link": "https://dev.to/aws-builders/can-google-adk-talk-to-amazon-bedrock-agentcore-runtime-a-cross-cloud-a2a-benchmark-53cp",
-      "summary": "This article provides a step-by-step guide to building and testing a cross-cloud currency agent. A coordinator built with Strands Agents and hosted on Amazon Bedrock AgentCore Runtime (in AWS us-east-1) discovers and del",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxlewy0z4ofgnv7idr3nq.png",
-      "published": "Tue, 28 Jul 2026 18:52:04 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Agent Memory & Context Engineering",
-      "link": "https://dev.to/techtrails/agent-memory-context-engineering-1mb5",
-      "summary": "How agents remember - and why deciding what to forget is the real skill\n\nAn agent that starts every step with a blank mind cannot really pursue a goal. It would reintroduce itself to you on every message, forget what it ",
+      "title": "I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments",
+      "link": "https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1",
+      "summary": "Automated offense has one embarrassing failure mode: it lies to you about winning.\n\nPoint a tool at a target, and the naive success check is a substring match — see uid=0(root) in the response, call it a shell. But a ser",
       "image": "",
-      "published": "Tue, 28 Jul 2026 18:41:11 +0000",
+      "published": "Wed, 29 Jul 2026 00:38:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Agents Are Not Magic. They Are Just Good Feedback Loops",
-      "link": "https://dev.to/rijultp/ai-agents-are-not-magic-they-are-just-good-feedback-loops-lhm",
-      "summary": "Hello, I'm Rijul. I'm building git-lrc, a micro AI code reviewer that runs on every commit. It's free and source-available on GitHub. Star git-lrc to help more developers discover the project. Do give it a try and share ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl1ur6wx8rjcp8xvp2ac4.png",
-      "published": "Tue, 28 Jul 2026 18:35:54 +0000",
+      "title": "Learning to Learn: The Biggest Lesson I've Gained at Zone01 Kisumu",
+      "link": "https://dev.to/paowuor/learning-to-learn-the-biggest-lesson-ive-gained-at-zone01-kisumu-26j0",
+      "summary": "Learning to Learn: The Biggest Lesson I've Gained at Zone01 Kisumu\n\n\nWhen most people think about learning software engineering, they picture classrooms, lectures, and hours of note-taking.\n\nThat wasn't my experience.\n\nM",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 00:36:24 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Happy Monoversary!",
+      "link": "https://dev.to/lexnwimue/happy-monoversary-4ij",
+      "summary": "Dang! Its been a whole year. Doesn't even feel like it. About a year ago I was employed at Techinnover Analytics Ltd, where I had several firsts - but I refuse to mention them here. I was managing software that issued ti",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 00:35:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
