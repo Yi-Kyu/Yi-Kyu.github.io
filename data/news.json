@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-29T01:16:00.963470Z",
+  "updated": "2026-07-29T08:12:55.502413Z",
   "articles": [
+    {
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificate",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg",
+      "published": "Wed, 29 Jul 2026 12:37:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg",
+      "published": "Wed, 29 Jul 2026 12:15:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\nThe list of affected packages is as follow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
+      "published": "Wed, 29 Jul 2026 09:50:57 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
       "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
@@ -16,33 +43,6 @@
       "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.\n\nIf that happens, Tengu's other persistence mechanisms get another ",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg",
       "published": "Tue, 28 Jul 2026 20:31:33 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg",
-      "published": "Tue, 28 Jul 2026 20:11:36 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.\n\nArtifactory is JFrog's software repository manager. Op",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVRTEATuhKwW2BlflaNjqHVV9mJlq6m3_rFzsUHv3RXATsLWdyJvG-XoWDftscxMF9r_-551JELumQMj7Jhp_iY-GTj79r3RxYKEEJkPo8B7Zd5SuiBnPRWjM1MBygMvV0Za1ZLItcoSjsCY4gDwbV-ZOkXLEzi2vohrqrlYSJL4Ut0GmmDvhEhiGti1U/s1600/openai-0day.jpg",
-      "published": "Tue, 28 Jul 2026 19:03:47 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.\n\nThe critical issue, tracked as CVE-2026-53921 and rated",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg",
-      "published": "Tue, 28 Jul 2026 18:26:14 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-      "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-      "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\nComments URL: https://news.ycombinator.com/item?id=49091895\nPoints: 4\n# Comments: 0",
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "summary": "Article URL: https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes\nComments URL: https://news.ycombinator.com/item?id=49093569\nPoints: 122\n# Comments: 32",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:32:08 +0000",
+      "published": "Wed, 29 Jul 2026 04:58:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Difference Between a Button and a Link",
-      "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/\nComments URL: https://news.ycombinator.com/item?id=49091738\nPoints: 15\n# Comments: 3",
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html\nComments URL: https://news.ycombinator.com/item?id=49093435\nPoints: 34\n# Comments: 7",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:12:14 +0000",
+      "published": "Wed, 29 Jul 2026 04:30:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hubbele: Open-source notetaking app for you and your agents",
-      "link": "https://www.hubble.md/",
-      "summary": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 16\n# Comments: 0",
+      "title": "User Interfaces of the Demo Scene",
+      "link": "https://www.datagubbe.se/scenegui/",
+      "summary": "Article URL: https://www.datagubbe.se/scenegui/\nComments URL: https://news.ycombinator.com/item?id=49093434\nPoints: 116\n# Comments: 15",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:11:23 +0000",
+      "published": "Wed, 29 Jul 2026 04:30:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ReFrame – The EPaper Camera",
-      "link": "https://reframe.camera/",
-      "summary": "Article URL: https://reframe.camera/\nComments URL: https://news.ycombinator.com/item?id=49091379\nPoints: 11\n# Comments: 3",
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "link": "https://transformer-transformer.github.io/",
+      "summary": "Article URL: https://transformer-transformer.github.io/\nComments URL: https://news.ycombinator.com/item?id=49093232\nPoints: 44\n# Comments: 1",
       "image": "",
-      "published": "Tue, 28 Jul 2026 23:27:09 +0000",
+      "published": "Wed, 29 Jul 2026 03:52:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
-      "link": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-      "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn\nComments URL: https://news.ycombinator.com/item?id=49090867\nPoints: 108\n# Comments: 58",
+      "title": "Hooray for the Sockets Interface",
+      "link": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "summary": "Article URL: https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/\nComments URL: https://news.ycombinator.com/item?id=49092754\nPoints: 25\n# Comments: 16",
       "image": "",
-      "published": "Tue, 28 Jul 2026 22:31:14 +0000",
+      "published": "Wed, 29 Jul 2026 02:25:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My eval said a perfect MCP server was broken. It was the eval that was lying.",
-      "link": "https://dev.to/tengbyte/my-eval-said-a-perfect-mcp-server-was-broken-it-was-the-eval-that-was-lying-4fbm",
-      "summary": "Originally published at tengli.dev\n\nWhen I added an LLM-powered eval to mcpgrade, the first real run produced a result that looked like a scoop: context7 — a server with a perfect static score — failed tool selection 62%",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 00:43:20 +0000",
+      "title": "Stratagems #20: Alex Felt the AI Collector Slow Down. He Knew Someone Else Had Made a Move.",
+      "link": "https://dev.to/xulingfeng/stratagems-20-alex-felt-the-ai-collector-slow-down-he-knew-someone-else-had-made-a-move-16f3",
+      "summary": "Stratagems #20: Alex Felt the AI Collector Slow Down. He Knew Someone Else Had Made a Move.\n\n\n\nDon't fight in clear water — stir it first. Don't strike when they're watching — strike when they're looking somewhere else.\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
+      "published": "Wed, 29 Jul 2026 08:04:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Traceroute devlog #1",
-      "link": "https://dev.to/thkim5937/numberlink-devlog-1-mp5",
-      "summary": "Didn't write a single line of code today. Spent the whole day buried in the PRD and TRD instead, and by the end of it I realized this was somehow the most exhausting day so far anyway.\n\n　　The pitch is simple enough: conn",
+      "title": "Free All-in-One TikTok Downloader (Looking for Feedback)",
+      "link": "https://dev.to/aksoonesec/free-all-in-one-tiktok-downloader-looking-for-feedback-53n9",
+      "summary": "Hey All! \nI wanted to share a tool I've been building called \nDdTik , a free web app for downloading TikTok \ncontent without watermarks, built with Next.js.\n\n\n  \n  \n  What it does\n\n\n\n\nVideo downloader : save TikTok video",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:40:58 +0000",
+      "published": "Wed, 29 Jul 2026 08:02:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Security Tool That Proves Its Own Exploits — Then Got a Better Threat Model in the Comments",
-      "link": "https://dev.to/xenocoregiger31/i-built-a-security-tool-that-proves-its-own-exploits-then-got-a-better-threat-model-in-the-42e1",
-      "summary": "Automated offense has one embarrassing failure mode: it lies to you about winning.\n\nPoint a tool at a target, and the naive success check is a substring match — see uid=0(root) in the response, call it a shell. But a ser",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 00:38:21 +0000",
+      "title": "The entire Claude Code skills top 10 belongs to three authors. Anthropic holds one slot.",
+      "link": "https://dev.to/skillselion/the-entire-claude-code-skills-top-10-belongs-to-three-authors-anthropic-holds-one-slot-27jc",
+      "summary": "Pull the all-time install leaderboard for Claude Code skills today and count the authors. The ten most-installed skills come from exactly three names: Matt Pocock has five, Vercel Labs has four, and Anthropic, the compan",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdexwyze1de7qql56a6i6.png",
+      "published": "Wed, 29 Jul 2026 08:00:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Learning to Learn: The Biggest Lesson I've Gained at Zone01 Kisumu",
-      "link": "https://dev.to/paowuor/learning-to-learn-the-biggest-lesson-ive-gained-at-zone01-kisumu-26j0",
-      "summary": "Learning to Learn: The Biggest Lesson I've Gained at Zone01 Kisumu\n\n\nWhen most people think about learning software engineering, they picture classrooms, lectures, and hours of note-taking.\n\nThat wasn't my experience.\n\nM",
+      "title": "Your Toolchain Checks Grammar, Not Facts",
+      "link": "https://dev.to/henry_dan_81513dd35a2f540/your-toolchain-checks-grammar-not-facts-37ba",
+      "summary": "I went looking for one wrong email address and found six wrong domains.\n\nThey had been in production for months, across six different server functions. Nothing had ever complained, because there was nothing in the stack ",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:36:24 +0000",
+      "published": "Wed, 29 Jul 2026 08:00:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Happy Monoversary!",
-      "link": "https://dev.to/lexnwimue/happy-monoversary-4ij",
-      "summary": "Dang! Its been a whole year. Doesn't even feel like it. About a year ago I was employed at Techinnover Analytics Ltd, where I had several firsts - but I refuse to mention them here. I was managing software that issued ti",
+      "title": "API Pagination Patterns: Offset vs Cursor vs Keyset",
+      "link": "https://dev.to/stackhorizon/api-pagination-patterns-offset-vs-cursor-vs-keyset-30gl",
+      "summary": "Why Pagination Matters\n\n\nIf you've ever built an API endpoint that returns a list, you've probably faced the question: what happens when the list has 10,000 items? Returning them all at once is a recipe for slow response",
       "image": "",
-      "published": "Wed, 29 Jul 2026 00:35:20 +0000",
+      "published": "Wed, 29 Jul 2026 08:00:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
