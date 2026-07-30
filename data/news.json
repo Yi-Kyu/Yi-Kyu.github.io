@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T18:45:39.815213Z",
+  "updated": "2026-07-30T01:08:44.542084Z",
   "articles": [
     {
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [..",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 19:44:07 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on i",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 17:39:29 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerab",
+      "image": "",
+      "published": "Wed, 29 Jul 2026 17:35:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
       "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
@@ -61,33 +88,6 @@
       "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security",
       "image": "",
       "published": "Wed, 29 Jul 2026 12:04:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 10:55:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the found",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 09:56:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "PgDog (YC P25) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\nComments URL: https://news.ycombinator.com/item?id=49100056\nPoints: 0\n# Comments: 0",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "link": "https://github.com/funador/claude-code-merge-queue",
+      "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and",
       "image": "",
-      "published": "Wed, 29 Jul 2026 17:01:10 +0000",
+      "published": "Thu, 30 Jul 2026 00:20:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-      "link": "https://cheapfoodmap.com/",
-      "summary": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.It's inspried by 거지맵 (",
+      "title": "The Productivity Mirage",
+      "link": "https://frantic.im/mirage/",
+      "summary": "Article URL: https://frantic.im/mirage/\nComments URL: https://news.ycombinator.com/item?id=49104335\nPoints: 26\n# Comments: 1",
       "image": "",
-      "published": "Wed, 29 Jul 2026 16:59:52 +0000",
+      "published": "Wed, 29 Jul 2026 23:18:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "link": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\nComments URL: https://news.ycombinator.com/item?id=49099804\nPoints: 33\n# Comments: 10",
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "link": "https://archive.org/details/mancomputerbyjoh0000john",
+      "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john\nComments URL: https://news.ycombinator.com/item?id=49104140\nPoints: 16\n# Comments: 4",
       "image": "",
-      "published": "Wed, 29 Jul 2026 16:42:20 +0000",
+      "published": "Wed, 29 Jul 2026 22:53:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice\nComments URL: https://news.ycombinator.com/item?id=49099715\nPoints: 87\n# Comments: 36",
+      "title": "LLM Honeypot",
+      "link": "https://llm2human.pages.dev/",
+      "summary": "Article URL: https://llm2human.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49104117\nPoints: 24\n# Comments: 12",
       "image": "",
-      "published": "Wed, 29 Jul 2026 16:36:59 +0000",
+      "published": "Wed, 29 Jul 2026 22:51:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "link": "https://kedge.dev/",
-      "summary": "I'm building Kedge, a globally distributed platform for stateful serverless apps. Here's how you make a simple static site: `echo '# Hello world!' | ssh kedge.dev`I helped build Fly.io for 4 years and shared enthusiasm f",
+      "title": "GitHub is the wrong shape for this new world",
+      "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+      "summary": "Article URL: https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world\nComments URL: https://news.ycombinator.com/item?id=49103910\nPoints: 35\n# Comments: 21",
       "image": "",
-      "published": "Wed, 29 Jul 2026 16:15:57 +0000",
+      "published": "Wed, 29 Jul 2026 22:27:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Block AI Crawlers: The 15 Bots That Matter",
-      "link": "https://dev.to/techpotions/block-ai-crawlers-the-15-bots-that-matter-3nb4",
-      "summary": "Most lists that claim to help you block AI crawlers are copy-pasted and dangerously wrong about the two tokens that actually matter. Sorting them properly is not an abstract taxonomy exercise. It is the single decision t",
+      "title": "Your Scraper Works Locally but Returns 403 on a Server. Here's Why.",
+      "link": "https://dev.to/tonywangca/your-scraper-works-locally-but-returns-403-on-a-server-heres-why-4ehe",
+      "summary": "Key takeaways\n\n\nA request is judged on many layers at once — IP reputation, TLS fingerprint, HTTP/2 shape, headers, and how the browser is driven — and failing any one is enough for a 403. Your laptop passes because ever",
       "image": "",
-      "published": "Wed, 29 Jul 2026 18:34:25 +0000",
+      "published": "Thu, 30 Jul 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Internet & Networking Explained, The Foundation Every DevOps Engineer Should Know.",
-      "link": "https://dev.to/promzy/internet-networking-explained-the-foundation-every-devops-engineer-should-know-b51",
-      "summary": "When you open a website, send a message, or watch a YouTube video, many technologies work together in the background. As a beginner in DevOps, understanding these basic networking concepts will help you understand how ap",
+      "title": "What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs",
+      "link": "https://dev.to/rulestack/what-actually-belongs-in-claudemd-and-what-to-move-to-skills-hooks-or-docs-34id",
+      "summary": "Your CLAUDE.md only grows. Every incident adds a rule, every preference becomes a paragraph, and six months in you have a file that reads like a wiki — and an agent that follows maybe half of it.\n\nThe uncomfortable mecha",
       "image": "",
-      "published": "Wed, 29 Jul 2026 18:34:24 +0000",
+      "published": "Thu, 30 Jul 2026 00:51:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Next.js Sitemap Not Updating? Here's the Real Fix",
-      "link": "https://dev.to/techpotions/nextjs-sitemap-not-updating-heres-the-real-fix-2257",
-      "summary": "Next.js Sitemap Not Updating? Here's the Real Fix\n\nIf your Next.js sitemap is not updating after you publish new content, you're dealing with a cache-coherence bug that almost nobody writes up. It has an exact symptom, a",
+      "title": "Everything Wrong With Zenovay, In Order",
+      "link": "https://dev.to/rashar/everything-wrong-with-zenovay-in-order-4n0c",
+      "summary": "Zenovay is a complete fraud. Here's every piece of it.\n\nThe founding story doesn't add up. The About page claims the platform launched in 2023. The domain zenovay.com wasn't registered until 2025-07-28.\n\nThe team doesn't",
       "image": "",
-      "published": "Wed, 29 Jul 2026 18:34:14 +0000",
+      "published": "Thu, 30 Jul 2026 00:51:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Lateral Isolation Tax: Preventing Direct Communication Between Peer Services",
-      "link": "https://dev.to/vijayagopal_s/the-lateral-isolation-tax-preventing-direct-communication-between-peer-services-1l5c",
-      "summary": "I put together a project to document an architectural discipline I call \"Lateral Isolation\". The core idea is simple: preventing direct communication between peer services by requiring all interactions to pass through a ",
+      "title": "GPTBot is hammering your API. Block it, or charge it?",
+      "link": "https://dev.to/gibrancorbin11hub/gptbot-is-hammering-your-api-block-it-or-charge-it-16mp",
+      "summary": "Check your logs for last month. Filter user-agents for GPTBot, ClaudeBot, PerplexityBot, Google-Extended, bingbot. For most SaaS apps and content APIs in 2026 that's now a real percentage of total requests — traffic you ",
       "image": "",
-      "published": "Wed, 29 Jul 2026 18:32:07 +0000",
+      "published": "Thu, 30 Jul 2026 00:49:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Worms in Word: How Document-Borne Threats Self-Propagate",
-      "link": "https://dev.to/onsen/ai-worms-in-word-how-document-borne-threats-self-propagate-5gc7",
-      "summary": "AI Worms in Word: How Document-Borne Threats Self-Propagate\n\n\nMeta Description: Document-borne AI worms can self-propagate through Copilot for Word, creating a new attack surface. Learn how these threats work and how to ",
+      "title": "The one seam, shown: Inline up close",
+      "link": "https://dev.to/ernestohs/the-one-seam-shown-inline-up-close-12np",
+      "summary": "In post 10 I closed the composition-versus-coherence question with one paragraph: I\nkept strict object-scoping, reserved an Inline operator for later, and rejected\nautomatic reach-down. That was true, and it was too fast",
       "image": "",
-      "published": "Wed, 29 Jul 2026 18:30:28 +0000",
+      "published": "Thu, 30 Jul 2026 00:47:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
