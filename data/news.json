@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-30T01:08:44.542084Z",
+  "updated": "2026-07-30T08:00:40.564404Z",
   "articles": [
+    {
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg",
+      "published": "Thu, 30 Jul 2026 13:10:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg",
+      "published": "Thu, 30 Jul 2026 12:58:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg",
+      "published": "Thu, 30 Jul 2026 11:35:17 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg",
+      "published": "Thu, 30 Jul 2026 10:38:39 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
       "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
       "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\nTracked as CVE-2026-6606",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg",
       "published": "Wed, 29 Jul 2026 23:40:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg",
-      "published": "Wed, 29 Jul 2026 21:09:30 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three criti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
-      "published": "Wed, 29 Jul 2026 21:01:15 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Pl",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg",
-      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nin",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg",
-      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,6 +137,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "link": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "summary": "Article URL: https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\nComments URL: https://news.ycombinator.com/item?id=49105642\nPoints: 69\n# Comments: 72",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 02:55:21 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "link": "https://noelo.org/blog/kuna-release/",
+      "summary": "Article URL: https://noelo.org/blog/kuna-release/\nComments URL: https://news.ycombinator.com/item?id=49105563\nPoints: 26\n# Comments: 7",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 02:41:16 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Logic for Programmers",
+      "link": "https://logicforprogrammers.com/",
+      "summary": "Article URL: https://logicforprogrammers.com/\nComments URL: https://news.ycombinator.com/item?id=49104937\nPoints: 90\n# Comments: 7",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 00:51:39 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Show HN: A local merge queue for parallel Claude Code agents",
       "link": "https://github.com/funador/claude-code-merge-queue",
       "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and",
@@ -148,127 +175,55 @@
     {
       "title": "The Productivity Mirage",
       "link": "https://frantic.im/mirage/",
-      "summary": "Article URL: https://frantic.im/mirage/\nComments URL: https://news.ycombinator.com/item?id=49104335\nPoints: 26\n# Comments: 1",
+      "summary": "Article URL: https://frantic.im/mirage/\nComments URL: https://news.ycombinator.com/item?id=49104335\nPoints: 196\n# Comments: 66",
       "image": "",
       "published": "Wed, 29 Jul 2026 23:18:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "link": "https://archive.org/details/mancomputerbyjoh0000john",
-      "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john\nComments URL: https://news.ycombinator.com/item?id=49104140\nPoints: 16\n# Comments: 4",
+      "title": "Local-First Is Not Offline: How to Test Phone-to-Computer File Access",
+      "link": "https://dev.to/lynavo/local-first-is-not-offline-how-to-test-phone-to-computer-file-access-33pe",
+      "summary": "A file-access feature can look successful in a demo and still fail in the exact situation that matters. The phone may be authorized but the computer is asleep. Both devices may show the same Wi-Fi name while the network ",
       "image": "",
-      "published": "Wed, 29 Jul 2026 22:53:44 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "LLM Honeypot",
-      "link": "https://llm2human.pages.dev/",
-      "summary": "Article URL: https://llm2human.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49104117\nPoints: 24\n# Comments: 12",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 22:51:03 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "GitHub is the wrong shape for this new world",
-      "link": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
-      "summary": "Article URL: https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world\nComments URL: https://news.ycombinator.com/item?id=49103910\nPoints: 35\n# Comments: 21",
-      "image": "",
-      "published": "Wed, 29 Jul 2026 22:27:09 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Your Scraper Works Locally but Returns 403 on a Server. Here's Why.",
-      "link": "https://dev.to/tonywangca/your-scraper-works-locally-but-returns-403-on-a-server-heres-why-4ehe",
-      "summary": "Key takeaways\n\n\nA request is judged on many layers at once — IP reputation, TLS fingerprint, HTTP/2 shape, headers, and how the browser is driven — and failing any one is enough for a 403. Your laptop passes because ever",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 01:00:00 +0000",
+      "published": "Thu, 30 Jul 2026 07:56:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What actually belongs in CLAUDE.md — and what to move to skills, hooks, or docs",
-      "link": "https://dev.to/rulestack/what-actually-belongs-in-claudemd-and-what-to-move-to-skills-hooks-or-docs-34id",
-      "summary": "Your CLAUDE.md only grows. Every incident adds a rule, every preference becomes a paragraph, and six months in you have a file that reads like a wiki — and an agent that follows maybe half of it.\n\nThe uncomfortable mecha",
+      "title": "Your chatbot is a second door onto your content",
+      "link": "https://dev.to/goodbarber/your-chatbot-is-a-second-door-onto-your-content-535h",
+      "summary": "Building a RAG chatbot has become a well-marked exercise: split the content into chunks, compute embeddings, search by similarity, hand the relevant passages to a model, generate the answer. It's an increasingly well-doc",
       "image": "",
-      "published": "Thu, 30 Jul 2026 00:51:10 +0000",
+      "published": "Thu, 30 Jul 2026 07:53:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Everything Wrong With Zenovay, In Order",
-      "link": "https://dev.to/rashar/everything-wrong-with-zenovay-in-order-4n0c",
-      "summary": "Zenovay is a complete fraud. Here's every piece of it.\n\nThe founding story doesn't add up. The About page claims the platform launched in 2023. The domain zenovay.com wasn't registered until 2025-07-28.\n\nThe team doesn't",
+      "title": "☕ How Did Zomato Know I Was Awake? The Science Behind a Simple Notification",
+      "link": "https://dev.to/codewthharsh/how-did-zomato-know-i-was-awake-the-science-behind-a-simple-notification-49ck",
+      "summary": "💡 What started as a funny notification turned into an interesting lesson about AI, personalization, and human behavior.\n\nThis morning, at exactly 9:08 AM, my phone buzzed. 📱\nI glanced at the screen and saw a notification",
       "image": "",
-      "published": "Thu, 30 Jul 2026 00:51:10 +0000",
+      "published": "Thu, 30 Jul 2026 07:52:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GPTBot is hammering your API. Block it, or charge it?",
-      "link": "https://dev.to/gibrancorbin11hub/gptbot-is-hammering-your-api-block-it-or-charge-it-16mp",
-      "summary": "Check your logs for last month. Filter user-agents for GPTBot, ClaudeBot, PerplexityBot, Google-Extended, bingbot. For most SaaS apps and content APIs in 2026 that's now a real percentage of total requests — traffic you ",
+      "title": "I Scored 62 SaaS Tools on Billing Dark Patterns: Here's What the Complaint Data Reveals",
+      "link": "https://dev.to/pratap_h/i-scored-62-saas-tools-on-billing-dark-patterns-heres-what-the-complaint-data-reveals-5p5",
+      "summary": "A few months ago I started building a Chrome extension to detect SaaS billing emails. As part of that, I needed to map the cancellation flows and billing practices of every tool I planned to support.\n\nI want to be upfron",
       "image": "",
-      "published": "Thu, 30 Jul 2026 00:49:03 +0000",
+      "published": "Thu, 30 Jul 2026 07:47:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The one seam, shown: Inline up close",
-      "link": "https://dev.to/ernestohs/the-one-seam-shown-inline-up-close-12np",
-      "summary": "In post 10 I closed the composition-versus-coherence question with one paragraph: I\nkept strict object-scoping, reserved an Inline operator for later, and rejected\nautomatic reach-down. That was true, and it was too fast",
+      "title": "I Built a Free Invoice Generator for Freelancers — Here's What Shipping Solo Taught Me",
+      "link": "https://dev.to/xiaojia7788/i-built-a-free-invoice-generator-for-freelancers-heres-what-shipping-solo-taught-me-34g6",
+      "summary": "Like a lot of freelancers, I got frustrated with the same two bad options for sending invoices: hand-formatting them in Word, or signing up for a full accounting suite just to export a PDF.\n\nSo I built InvoiceFormly (htt",
       "image": "",
-      "published": "Thu, 30 Jul 2026 00:47:19 +0000",
+      "published": "Thu, 30 Jul 2026 07:46:45 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
