@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-30T19:04:03.198158Z",
+  "updated": "2026-07-31T01:21:38.373089Z",
   "articles": [
+    {
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to delive",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg",
+      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security softwa",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
-      "published": "Thu, 30 Jul 2026 16:03:15 +0530",
-      "source": "The Hacker News",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of thr",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 20:57:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 18:28:30 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+      "image": "",
+      "published": "Thu, 30 Jul 2026 18:01:31 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or",
       "image": "",
       "published": "Thu, 30 Jul 2026 14:00:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent release",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-      "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 11:56:33 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "summary": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\nComments URL: https://news.ycombinator.com/item?id=49113929\nPoints: 14\n",
+      "title": "The AI Aesthetic",
+      "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/ai-aesthetic/\nComments URL: https://news.ycombinator.com/item?id=49117099\nPoints: 58\n# Comments: 32",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:40:52 +0000",
+      "published": "Thu, 30 Jul 2026 23:22:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Postgres Queues Actually Scale",
-      "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-      "summary": "Article URL: https://www.dbos.dev/blog/making-postgres-queues-scale\nComments URL: https://news.ycombinator.com/item?id=49113913\nPoints: 12\n# Comments: 1",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "summary": "Article URL: https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\nComments URL: https://news.ycombinator.com/item?id=49116922\nPoints: 77\n# Comments: 68",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:39:32 +0000",
+      "published": "Thu, 30 Jul 2026 23:00:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "So you want to use plants to reduce CO₂",
-      "link": "https://dynomight.net/plants/",
-      "summary": "Article URL: https://dynomight.net/plants/\nComments URL: https://news.ycombinator.com/item?id=49113801\nPoints: 8\n# Comments: 0",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "summary": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=49116721\nPoints: 61\n# Comments: 23",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:31:02 +0000",
+      "published": "Thu, 30 Jul 2026 22:33:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-      "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-      "summary": "Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway\nComments URL: https://news.ycombinator.com/item?id=49113543\nPoints: 4\n# Comments: 0",
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "link": "https://rune.build/blog/rune-1-1-release",
+      "summary": "Article URL: https://rune.build/blog/rune-1-1-release\nComments URL: https://news.ycombinator.com/item?id=49116272\nPoints: 40\n# Comments: 12",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:08:48 +0000",
+      "published": "Thu, 30 Jul 2026 21:47:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
-      "link": "https://tally.jiegou.ai/",
-      "summary": "Article URL: https://tally.jiegou.ai/\nComments URL: https://news.ycombinator.com/item?id=49113381\nPoints: 4\n# Comments: 0",
+      "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+      "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+      "summary": "Article URL: https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\nComments URL: https://news.ycombinator.com/item?id=49116074\nPoints: 19\n# Comments: 6",
       "image": "",
-      "published": "Thu, 30 Jul 2026 17:55:54 +0000",
+      "published": "Thu, 30 Jul 2026 21:31:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MOKSHA Devlog: Why My Game Worked on Itch.io but Died on GitHub Clone (The .gitignore Trap) 🤡",
-      "link": "https://dev.to/weirdcodesofficial/moksha-devlog-why-my-game-worked-on-itchio-but-died-on-github-clone-the-gitignore-trap-hel",
-      "summary": "Hey DEV Community! 👋\nI am currently building MOKSHA, an HTML5 Canvas game deeply rooted in Vedic philosophy. The game involves managing your Karma, avoiding Maya (Illusions), and achieving spiritual liberation.\nIronicall",
+      "title": "Why I Validate Angular Compatibility Using the Published npm Package (Not the Source Code)",
+      "link": "https://dev.to/ismailzahir/why-i-validate-angular-compatibility-using-the-published-npm-package-not-the-source-code-808",
+      "summary": "I just published a new article on a lesson I learned while maintaining my open-source Angular library.\n\nI used to validate compatibility against my workspace and dist/, but eventually realized that wasn't what developers",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:59:00 +0000",
+      "published": "Fri, 31 Jul 2026 00:52:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why AI Agents Lose Their Memory And How MemoFS Solves It",
-      "link": "https://dev.to/codingsimba/why-ai-agents-lose-their-memory-and-how-memofs-solves-it-5h0o",
-      "summary": "Whether you are using off-the-shelf AI coding tools like Claude Code and Cursor or building custom autonomous AI agents with TypeScript and LLM APIs, you hit the exact same fundamental wall: AI agent amnesia.\n\nAs an agen",
+      "title": "How I Automated Ubuntu Server Hardening with One Script",
+      "link": "https://dev.to/tesddev/how-i-automated-ubuntu-server-hardening-with-one-script-209a",
+      "summary": "Securing and Automating a Cloud Server\n\n\nThe first time I spun up a cloud server, I thought the hard part was over. It wasn't. The server was open to the world: root login enabled, port 22 broadcasting itself to every sc",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:50:09 +0000",
+      "published": "Fri, 31 Jul 2026 00:51:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Sign the message, not the tunnel: Introducing N-AALP for AI agents",
-      "link": "https://dev.to/shawnsammartano/sign-the-message-not-the-tunnel-introducing-n-aalp-for-ai-agents-5egm",
-      "summary": "Agent security today is inherited from the connection. N-AALP makes the message itself carry identity, authorization, approval and audit, verifiable offline, on any transport.\n\nYour agent just deleted a production table.",
+      "title": "PIVOT Explained — From Paper to Working Code in 10 Minutes",
+      "link": "https://dev.to/cofldus/pivot-explained-from-paper-to-working-code-in-10-minutes-5a4j",
+      "summary": "You enabled sparse attention. Your model still chokes at 128K tokens. The indexer is why — and PIVOT fixes it without touching your weights.\n\n\n  \n  \n  TL;DR\n\n\n\nSparse attention's indexer scores all L tokens per query → s",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:44:52 +0000",
+      "published": "Fri, 31 Jul 2026 00:50:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Accept International Payments as an African Developer or Business",
-      "link": "https://dev.to/afriex/how-to-accept-international-payments-as-an-african-developer-or-business-33eh",
-      "summary": "If you're an African developer, SaaS founder, freelancer, or online business, one of the biggest challenges isn't finding customers. It's getting paid by them.\n\nMost articles about African payment APIs focus on moving mo",
+      "title": "The $26 Billion Leak: Why Frameworks Are Making Your Codebase Rot (and How Hexagonal Isolation Fixes It)",
+      "link": "https://dev.to/malvinjay/the-26-billion-leak-why-frameworks-are-making-your-codebase-rot-and-how-hexagonal-isolation-ian",
+      "summary": "According to a 2024 vFunction survey, over 50% of companies watch more than a quarter of their entire IT budget vanish into technical debt.\n\nThis isn't happening because developers are bad at writing code. It's happening",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:44:40 +0000",
+      "published": "Fri, 31 Jul 2026 00:48:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google Photos Video Remix Brings Gemini Omni Video Styles to Eligible Subscribers",
-      "link": "https://dev.to/alifar/google-photos-video-remix-brings-gemini-omni-video-styles-to-eligible-subscribers-4l6a",
-      "summary": "Google Photos has launched Video Remix, an AI-powered editing feature that applies stylized templates to users' existing video clips. Powered by Gemini Omni, the tool is designed to turn a video into a more cinematic or ",
+      "title": "When a Successful Payment Still Couldn't Schedule a Zoom Meeting",
+      "link": "https://dev.to/malvinjay/when-a-successful-payment-still-couldnt-schedule-a-zoom-meeting-12fa",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.\n\nA payment webhook sounds simple until a successful payment doesn't actually result in the service the customer paid for.\n\nThat was one of",
       "image": "",
-      "published": "Thu, 30 Jul 2026 18:40:30 +0000",
+      "published": "Fri, 31 Jul 2026 00:38:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
