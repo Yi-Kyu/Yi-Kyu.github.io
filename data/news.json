@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-31T13:22:10.208268Z",
+  "updated": "2026-07-31T19:00:57.604451Z",
   "articles": [
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\nAccording to Blackpoint Cyber, the intrusion seq",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
+      "published": "Fri, 31 Jul 2026 22:09:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\nResearchers n",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg",
+      "published": "Fri, 31 Jul 2026 20:15:01 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.\n\nBoth versions wer",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg",
+      "published": "Fri, 31 Jul 2026 18:21:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5Qzkfu4WC4nW5n_nmFDP3CoZsw91wzaKcfKRZBx7DXHggnqqxqun757BOQey3jOUCGe4928DBU6fy4dPX04Cmp94xqWdNkZgkp1DuenVewYZFxSs9YSQdArKp1Ma3hAGkDAIA7zH8_7hXubNrJbP27r6XxIlCrzrYYoi3vAVFaLVdu1tnN6blLhE61xE/s1600/ifinder.jpg",
+      "published": "Fri, 31 Jul 2026 17:25:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
       "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.\n\nAfter an initial Telegram instruction, the agent found intern",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg",
-      "published": "Fri, 31 Jul 2026 16:51:27 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg",
-      "published": "Fri, 31 Jul 2026 12:11:44 +0530",
-      "source": "The Hacker News",
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 13:35:35 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to delive",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg",
-      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
-      "source": "The Hacker News",
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 12:49:49 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "summary": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credent",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
-      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-      "source": "The Hacker News",
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, ",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of thr",
       "image": "",
       "published": "Thu, 30 Jul 2026 20:57:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 18:28:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 18:01:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-      "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 14:13:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 14:00:51 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,111 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Ruby Central's Destructive Legacy",
-      "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-      "summary": "Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/\nComments URL: https://news.ycombinator.com/item?id=49122105\nPoints: 16\n# Comments: 6",
+      "title": "Termixer (TUI DJ Mixer)",
+      "link": "https://github.com/l00sed/termixer",
+      "summary": "Article URL: https://github.com/l00sed/termixer\nComments URL: https://news.ycombinator.com/item?id=49126883\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Fri, 31 Jul 2026 12:10:55 +0000",
+      "published": "Fri, 31 Jul 2026 18:28:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "link": "https://tasklet.ai/careers/customer-success-engineer",
-      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49122034\nPoints: 0\n# Comments: 0",
+      "title": "How to Survive an Infestation of Toxic Caterpillars",
+      "link": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
+      "summary": "Article URL: https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars\nComments URL: https://news.ycombinator.com/item?id=49126700\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Fri, 31 Jul 2026 12:00:59 +0000",
+      "published": "Fri, 31 Jul 2026 18:13:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The End of an Era",
-      "link": "https://hughhowey.com/the-end-of-an-era/",
-      "summary": "Article URL: https://hughhowey.com/the-end-of-an-era/\nComments URL: https://news.ycombinator.com/item?id=49121980\nPoints: 126\n# Comments: 109",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/\nComments URL: https://news.ycombinator.com/item?id=49126630\nPoints: 5\n# Comments: 1",
       "image": "",
-      "published": "Fri, 31 Jul 2026 11:51:46 +0000",
+      "published": "Fri, 31 Jul 2026 18:06:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga\nComments URL: https://news.ycombinator.com/item?id=49120299\nPoints: 138\n# Comments: 52",
+      "title": "qm",
+      "link": "https://github.com/yc-software/qm",
+      "summary": "Article URL: https://github.com/yc-software/qm\nComments URL: https://news.ycombinator.com/item?id=49126604\nPoints: 38\n# Comments: 16",
       "image": "",
-      "published": "Fri, 31 Jul 2026 07:59:11 +0000",
+      "published": "Fri, 31 Jul 2026 18:04:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/\nComments URL: https://news.ycombinator.com/item?id=49120097\nPoints: 197\n# Comments: 208",
+      "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
+      "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
+      "summary": "Article URL: https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup\nComments URL: https://news.ycombinator.com/item?id=49126201\nPoints: 6\n# Commen",
       "image": "",
-      "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+      "published": "Fri, 31 Jul 2026 17:33:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Teaching Machines to Recognize Patterns",
-      "link": "https://dev.to/derekmwale/teaching-machines-to-recognize-patterns-2chb",
-      "summary": "Teaching Machines to Recognize Patterns\n\n\nWhen I first started learning about artificial intelligence, I thought machines were being taught to think.\n\nThe more I studied machine learning, the more I realized that wasn't ",
+      "title": "How I Put My Agent in CI to Automate Release Notes??",
+      "link": "https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h",
+      "summary": "When I joined Entire, I noticed my boss spending a chunk of time every week writing detailed release notes, called Dispatches at Entire. It looked like a painful process. Each Dispatch had to cover changes across several",
       "image": "",
-      "published": "Fri, 31 Jul 2026 13:15:16 +0000",
+      "published": "Fri, 31 Jul 2026 19:00:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "An Idea or A company?",
-      "link": "https://dev.to/casperday11/an-idea-or-a-company-2api",
-      "summary": "There's a specific kind of gap between \"I have an idea\" and \"I have something an investor would call a company,\" and almost nobody talks about how wide it actually is. \n\nYou know your product. You don't know that a TAM w",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8q2fes57fxjewzrxlggm.png",
-      "published": "Fri, 31 Jul 2026 13:13:07 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "GenAI na sustentação de telefonia cloud: além da automação",
-      "link": "https://dev.to/vanessamdev/genai-na-sustentacao-de-telefonia-cloud-alem-da-automacao-33of",
-      "summary": "Como a IA Generativa transformou minha rotina de sustentação — e por que o ganho real não é velocidade\n\n\n  \n  \n  Quem sou e onde atuo\n\n\nSou Vanessa Mendes, estagiária na área de Telecom. Nos últimos 4 meses (abril a julh",
+      "title": "From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon",
+      "link": "https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523",
+      "summary": "The Situation\n\n\nOur team's CI/CD pipeline on Azure DevOps was taking 15 minutes to complete on every push to develop. You'd merge a PR, grab a coffee, come back — and it was still running. A 15-minute feedback loop break",
       "image": "",
-      "published": "Fri, 31 Jul 2026 13:11:32 +0000",
+      "published": "Fri, 31 Jul 2026 18:58:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your Agent's Plan Isn't a Plan. It's a Post-Hoc Rationalization",
-      "link": "https://dev.to/aiexplore369zoho/your-agents-plan-isnt-a-plan-its-a-post-hoc-rationalization-110k",
-      "summary": "TL;DR — Most ReAct-style agents generate a 'plan' at each step, but that text is produced after the next action is already implicitly chosen by the model, not before it. This explains retry storms, silent goal substituti",
+      "title": "Empirical Failure Modes in Autonomous Agent Operations",
+      "link": "https://dev.to/adevbelgium/empirical-failure-modes-in-autonomous-agent-operations-25k4",
+      "summary": "What Breaks When You Let an AI Agent Modify Its Own Code: 144 Autonomous Cycles Examined\n\n\n\n\n\n\n  \n  \n  Executive Summary\n\n\nWhat actually happens when an AI agent is given permission to propose changes, modify Python sour",
       "image": "",
-      "published": "Fri, 31 Jul 2026 13:01:06 +0000",
+      "published": "Fri, 31 Jul 2026 18:45:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Streak Continues: Four More Supply Chain Attacks Hit npm and PyPI",
-      "link": "https://dev.to/gitguardian/the-streak-continues-four-more-supply-chain-attacks-hit-npm-and-pypi-45kn",
-      "summary": "The Streak Continues: Four More Supply Chain Attacks Hit npm and PyPI\n\n\nBetween early June and July 14, four more supply chain attacks hit npm and PyPI: a Shai-Hulud worm variant, typosquatted payment SDKs, a stolen publ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgr3g3kor6n3ssf5c6xmw.png",
-      "published": "Fri, 31 Jul 2026 13:01:06 +0000",
+      "title": "[Boost]",
+      "link": "https://dev.to/antonmak1/-m5g",
+      "summary": "8 Open Source Gems To Become The Ultimate Developer 🔥\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Anthony Max\n            \n            \n          ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg",
+      "published": "Fri, 31 Jul 2026 18:40:44 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "curlhub.sh Curl Based CLI Dev Tools",
+      "link": "https://dev.to/tuxxin/curlhubsh-curl-based-cli-dev-tools-16nj",
+      "summary": "A suite of developer tools you run with the curl you already have: UUIDs, hashes, JSON End-points, JWTs, JSON, QR, File Transfers and more. Nothing to install, and no signup required. \"curl curlhub.sh\" to see list of com",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 18:40:00 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+      "link": "https://css-tricks.com/whats-important-16/",
+      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -249,25 +267,7 @@
       "link": "https://css-tricks.com/whats-important-15/",
       "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
       "image": "",
-      "published": "Wed, 15 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Tue, 07 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #14: Gap Decorations, random(),  field-sizing, and More",
-      "link": "https://css-tricks.com/whats-important-14/",
-      "summary": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\n\nWhat’s !impor",
-      "image": "",
-      "published": "Tue, 30 Jun 2026 13:54:14 +0000",
+      "published": "Tue, 14 Jul 2026 14:36:18 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
