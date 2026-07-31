@@ -1,6 +1,33 @@
 {
-  "updated": "2026-07-31T08:25:23.317330Z",
+  "updated": "2026-07-31T13:22:10.208268Z",
   "articles": [
+    {
+      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.\n\nDesigned for input-con",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg",
+      "published": "Fri, 31 Jul 2026 16:54:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.\n\nAfter an initial Telegram instruction, the agent found intern",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dGysHIR6yJWx6hMxq6lAct7fi4YTury_WDkrcenDv-psd-fU7I8K3RbM6Blox_5OE3MQojew5bnPamtI_DPzdBX6fOk295hhQh6rBkA2f9a1sN7t7ZbSyU-kWdLoIb7XnseOHKPmLOGRb9wRRvmV0scVZ4rhMtxSmqOLZmZIUjtg_IHT4FBg5gzeX50/s1600/deepseek-telegram.jpg",
+      "published": "Fri, 31 Jul 2026 16:51:27 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg",
+      "published": "Fri, 31 Jul 2026 12:11:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
       "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
@@ -16,33 +43,6 @@
       "summary": "A lot of security still comes down to trusting the wrong screen.\n\nThis week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credent",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg",
       "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.\n\nWiz, whi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg",
-      "published": "Thu, 30 Jul 2026 19:04:09 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-      "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
-      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after re",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg",
-      "published": "Thu, 30 Jul 2026 17:24:49 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Network Has Become the Control Plane for AI Security",
-      "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg",
-      "published": "Thu, 30 Jul 2026 17:02:46 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DeepSeek-V4-Flash Update",
-      "link": "https://api-docs.deepseek.com/updates/",
-      "summary": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 147\n# Comments: 46",
+      "title": "Ruby Central's Destructive Legacy",
+      "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+      "summary": "Article URL: https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/\nComments URL: https://news.ycombinator.com/item?id=49122105\nPoints: 16\n# Comments: 6",
       "image": "",
-      "published": "Fri, 31 Jul 2026 06:08:36 +0000",
+      "published": "Fri, 31 Jul 2026 12:10:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-      "link": "https://github.com/mokshablr/gander",
-      "summary": "Hi HN,I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.I have always been uneasy about opening files people send me. On A",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "link": "https://tasklet.ai/careers/customer-success-engineer",
+      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49122034\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Fri, 31 Jul 2026 05:45:13 +0000",
+      "published": "Fri, 31 Jul 2026 12:00:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "link": "https://marbleos.com/demo",
-      "summary": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, in",
+      "title": "The End of an Era",
+      "link": "https://hughhowey.com/the-end-of-an-era/",
+      "summary": "Article URL: https://hughhowey.com/the-end-of-an-era/\nComments URL: https://news.ycombinator.com/item?id=49121980\nPoints: 126\n# Comments: 109",
       "image": "",
-      "published": "Fri, 31 Jul 2026 05:17:29 +0000",
+      "published": "Fri, 31 Jul 2026 11:51:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "link": "https://github.com/openjdk/jdk/pull/31120",
-      "summary": "Article URL: https://github.com/openjdk/jdk/pull/31120\nComments URL: https://news.ycombinator.com/item?id=49119063\nPoints: 76\n# Comments: 21",
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-flash-ga\nComments URL: https://news.ycombinator.com/item?id=49120299\nPoints: 138\n# Comments: 52",
       "image": "",
-      "published": "Fri, 31 Jul 2026 04:38:19 +0000",
+      "published": "Fri, 31 Jul 2026 07:59:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The session you cannot take with you",
-      "link": "https://earendil.com/posts/session-portability/",
-      "summary": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 237\n# Comments: 47",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "summary": "Article URL: https://blog.google/security/chrome-stronger-with-every-update/\nComments URL: https://news.ycombinator.com/item?id=49120097\nPoints: 197\n# Comments: 208",
       "image": "",
-      "published": "Fri, 31 Jul 2026 03:47:59 +0000",
+      "published": "Fri, 31 Jul 2026 07:29:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Migrating a Next.js app from node:sqlite to Cloudflare D1",
-      "link": "https://dev.to/hirodeath/migrating-a-nextjs-app-from-nodesqlite-to-cloudflare-d1-225i",
-      "summary": "This is an English translation of my original Japanese article on Zenn.\n\n\nI had a small Next.js app that ran locally with Node.js and a SQLite file. When I decided to deploy it to Cloudflare Workers so I could use it awa",
+      "title": "Teaching Machines to Recognize Patterns",
+      "link": "https://dev.to/derekmwale/teaching-machines-to-recognize-patterns-2chb",
+      "summary": "Teaching Machines to Recognize Patterns\n\n\nWhen I first started learning about artificial intelligence, I thought machines were being taught to think.\n\nThe more I studied machine learning, the more I realized that wasn't ",
       "image": "",
-      "published": "Fri, 31 Jul 2026 08:11:19 +0000",
+      "published": "Fri, 31 Jul 2026 13:15:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your AI Coding Agent Is LYING When It Says \"Done\"",
-      "link": "https://dev.to/gemyago/your-ai-coding-agent-is-lying-when-it-says-done-2a85",
-      "summary": "TL;DR\n\n\nWhen an AI agent changes few files, runs few tests, and says \"Done\", is it really done? Not always. Things may still break in unexpected places.\n\nI prefer to define a strict definition of \"Done\", which I call the",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 08:10:07 +0000",
+      "title": "An Idea or A company?",
+      "link": "https://dev.to/casperday11/an-idea-or-a-company-2api",
+      "summary": "There's a specific kind of gap between \"I have an idea\" and \"I have something an investor would call a company,\" and almost nobody talks about how wide it actually is. \n\nYou know your product. You don't know that a TAM w",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8q2fes57fxjewzrxlggm.png",
+      "published": "Fri, 31 Jul 2026 13:13:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Spring AI: Bringing Generative AI into Spring Boot Applications",
-      "link": "https://dev.to/abhay_srivastava_22/spring-ai-bringing-generative-ai-into-spring-boot-applications-2ah3",
-      "summary": "Artificial Intelligence has moved from being something handled by specialized data-science teams to becoming a feature that application developers can integrate directly into everyday software.\n\nFor Java developers, this",
+      "title": "GenAI na sustentação de telefonia cloud: além da automação",
+      "link": "https://dev.to/vanessamdev/genai-na-sustentacao-de-telefonia-cloud-alem-da-automacao-33of",
+      "summary": "Como a IA Generativa transformou minha rotina de sustentação — e por que o ganho real não é velocidade\n\n\n  \n  \n  Quem sou e onde atuo\n\n\nSou Vanessa Mendes, estagiária na área de Telecom. Nos últimos 4 meses (abril a julh",
       "image": "",
-      "published": "Fri, 31 Jul 2026 08:04:37 +0000",
+      "published": "Fri, 31 Jul 2026 13:11:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Traceroute devlog #2",
-      "link": "https://dev.to/thkim5937/traceroute-devlog-2-11kc",
-      "summary": "Mid-week I ran into something that made me stop and take stock: was I building on a foundation I already knew was cracked?\n\nMost of the click-based path drawing was done by then — starting a path, extending it in a direc",
+      "title": "Your Agent's Plan Isn't a Plan. It's a Post-Hoc Rationalization",
+      "link": "https://dev.to/aiexplore369zoho/your-agents-plan-isnt-a-plan-its-a-post-hoc-rationalization-110k",
+      "summary": "TL;DR — Most ReAct-style agents generate a 'plan' at each step, but that text is produced after the next action is already implicitly chosen by the model, not before it. This explains retry storms, silent goal substituti",
       "image": "",
-      "published": "Fri, 31 Jul 2026 08:02:36 +0000",
+      "published": "Fri, 31 Jul 2026 13:01:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🚀 Building an AI Automation System for MyZubster",
-      "link": "https://dev.to/danielioni/building-an-ai-automation-system-for-myzubster-4k2",
-      "summary": "🚀 Building an AI Automation System for MyZubster\nIntroduction\n\nMyZubster is an open-source ecosystem for plant mapping, privacy-first payments with Monero, and human-centered AI. In this post, I'll share how I built an A",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 08:01:30 +0000",
+      "title": "The Streak Continues: Four More Supply Chain Attacks Hit npm and PyPI",
+      "link": "https://dev.to/gitguardian/the-streak-continues-four-more-supply-chain-attacks-hit-npm-and-pypi-45kn",
+      "summary": "The Streak Continues: Four More Supply Chain Attacks Hit npm and PyPI\n\n\nBetween early June and July 14, four more supply chain attacks hit npm and PyPI: a Shai-Hulud worm variant, typosquatted payment SDKs, a stolen publ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgr3g3kor6n3ssf5c6xmw.png",
+      "published": "Fri, 31 Jul 2026 13:01:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
