@@ -1,6 +1,15 @@
 {
-  "updated": "2026-07-31T19:00:57.604451Z",
+  "updated": "2026-08-01T01:22:48.283096Z",
   "articles": [
+    {
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg",
+      "published": "Sat, 01 Aug 2026 00:22:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.\n\nDesigned for input-con",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJN4Z-p-XmpB_1nwgfCMj2JvWAmGP4avhjI3pBYb11kgANQy4wQf2DQ4VGJEXom4eZCFoqVozP4aJPPtpGufYrEe5E9xkebmctud6KO7NZEfNCiT14ln7CmZA1bB3m6HYNdiUnShVsIpr03SYa7jlZWnbml9R1HbqECSbnUH0DTqyETz1fpiNIqhExw/s1600/push-main.jpg",
-      "published": "Fri, 31 Jul 2026 16:54:59 +0530",
-      "source": "The Hacker News",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 18:16:42 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 17:38:08 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controll",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 17:09:25 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
       "image": "",
       "published": "Fri, 31 Jul 2026 13:35:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 12:49:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, ",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of thr",
-      "image": "",
-      "published": "Thu, 30 Jul 2026 20:57:25 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Termixer (TUI DJ Mixer)",
-      "link": "https://github.com/l00sed/termixer",
-      "summary": "Article URL: https://github.com/l00sed/termixer\nComments URL: https://news.ycombinator.com/item?id=49126883\nPoints: 8\n# Comments: 1",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\nComments URL: https://news.ycombinator.com/item?id=49128462\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:28:08 +0000",
+      "published": "Fri, 31 Jul 2026 21:00:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Survive an Infestation of Toxic Caterpillars",
-      "link": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
-      "summary": "Article URL: https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars\nComments URL: https://news.ycombinator.com/item?id=49126700\nPoints: 4\n# Comments: 0",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "link": "https://arxiv.org/abs/2607.28233",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28233\nComments URL: https://news.ycombinator.com/item?id=49128323\nPoints: 29\n# Comments: 17",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:13:09 +0000",
+      "published": "Fri, 31 Jul 2026 20:44:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "link": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/\nComments URL: https://news.ycombinator.com/item?id=49126630\nPoints: 5\n# Comments: 1",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "summary": "https://github.com/jwlaboratory/bite-the-bullet\n\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 25\n# Comments: 2",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:06:39 +0000",
+      "published": "Fri, 31 Jul 2026 19:55:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "qm",
-      "link": "https://github.com/yc-software/qm",
-      "summary": "Article URL: https://github.com/yc-software/qm\nComments URL: https://news.ycombinator.com/item?id=49126604\nPoints: 38\n# Comments: 16",
+      "title": "Nano Banana 2 removed from Google Earth",
+      "link": "https://www.digitaldigging.org/p/nano-banana-2-removed-from-google",
+      "summary": "Article URL: https://www.digitaldigging.org/p/nano-banana-2-removed-from-google\nComments URL: https://news.ycombinator.com/item?id=49127573\nPoints: 23\n# Comments: 9",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:04:58 +0000",
+      "published": "Fri, 31 Jul 2026 19:30:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-      "link": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
-      "summary": "Article URL: https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup\nComments URL: https://news.ycombinator.com/item?id=49126201\nPoints: 6\n# Commen",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "link": "https://tailscale.com/blog/hugging-face-intrusion",
+      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 435\n# Comments: 166",
       "image": "",
-      "published": "Fri, 31 Jul 2026 17:33:32 +0000",
+      "published": "Fri, 31 Jul 2026 19:03:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I Put My Agent in CI to Automate Release Notes??",
-      "link": "https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h",
-      "summary": "When I joined Entire, I noticed my boss spending a chunk of time every week writing detailed release notes, called Dispatches at Entire. It looked like a painful process. Each Dispatch had to cover changes across several",
+      "title": "Scraping Sites That Block Bots: Cloudflare, DataDome & PerimeterX",
+      "link": "https://dev.to/tonywangca/scraping-sites-that-block-bots-cloudflare-datadome-perimeterx-4hlm",
+      "summary": "For most of the web, scraping is a solved problem: fetch the URL, parse the HTML, done. The interesting sites — the ones with prices, listings, reviews, and inventory worth collecting — are exactly the ones that don't le",
       "image": "",
-      "published": "Fri, 31 Jul 2026 19:00:39 +0000",
+      "published": "Sat, 01 Aug 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon",
-      "link": "https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523",
-      "summary": "The Situation\n\n\nOur team's CI/CD pipeline on Azure DevOps was taking 15 minutes to complete on every push to develop. You'd merge a PR, grab a coffee, come back — and it was still running. A 15-minute feedback loop break",
+      "title": "I run 5 Claude Code CLIs from one control plane. Here's the plumbing.",
+      "link": "https://dev.to/ran_levi/i-run-5-claude-code-clis-from-one-control-plane-heres-the-plumbing-g9m",
+      "summary": "Claude Code is great at being one agent in one terminal on one repo. The trouble starts at\nagent number three. I had five projects going, five terminal windows, and every morning I'd\nsit down and spend ten minutes just w",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:58:41 +0000",
+      "published": "Sat, 01 Aug 2026 00:58:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Empirical Failure Modes in Autonomous Agent Operations",
-      "link": "https://dev.to/adevbelgium/empirical-failure-modes-in-autonomous-agent-operations-25k4",
-      "summary": "What Breaks When You Let an AI Agent Modify Its Own Code: 144 Autonomous Cycles Examined\n\n\n\n\n\n\n  \n  \n  Executive Summary\n\n\nWhat actually happens when an AI agent is given permission to propose changes, modify Python sour",
+      "title": "HTML for Beginners: Building Your First Web Page",
+      "link": "https://dev.to/amirdeen/html-for-beginners-building-your-first-web-page-5fpd",
+      "summary": "HTML for Beginners: Building Your First Web Page\n\nIf you’ve ever wondered how websites are created, HTML is the perfect place to start. HTML (HyperText Markup Language) is the standard language used to structure web page",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:45:23 +0000",
+      "published": "Sat, 01 Aug 2026 00:54:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Boost]",
-      "link": "https://dev.to/antonmak1/-m5g",
-      "summary": "8 Open Source Gems To Become The Ultimate Developer 🔥\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Anthony Max\n            \n            \n          ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg",
-      "published": "Fri, 31 Jul 2026 18:40:44 +0000",
+      "title": "The moment the dashboard stopped telling the truth",
+      "link": "https://dev.to/debashish_ghosal/the-moment-the-dashboard-stopped-telling-the-truth-57hn",
+      "summary": "I watched my team get faster after we adopted AI-assisted coding, and honestly — I felt good about it. More tickets closed. Shorter cycle times. PR volume up. I remember thinking: this is what leverage looks like.\n\nThat ",
+      "image": "",
+      "published": "Sat, 01 Aug 2026 00:50:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "curlhub.sh Curl Based CLI Dev Tools",
-      "link": "https://dev.to/tuxxin/curlhubsh-curl-based-cli-dev-tools-16nj",
-      "summary": "A suite of developer tools you run with the curl you already have: UUIDs, hashes, JSON End-points, JWTs, JSON, QR, File Transfers and more. Nothing to install, and no signup required. \"curl curlhub.sh\" to see list of com",
+      "title": "Food, & Beyond",
+      "link": "https://dev.to/zenieverse/food-beyond-1d5l",
+      "summary": "Inspiration\n\n\nAnemia:  a common blood condition where your body lacks enough healthy red blood cells or hemoglobin to carry vital oxygen to your tissues, leading to fatigue, weakness, and pale skin is what I myself have ",
       "image": "",
-      "published": "Fri, 31 Jul 2026 18:40:00 +0000",
+      "published": "Sat, 01 Aug 2026 00:49:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
