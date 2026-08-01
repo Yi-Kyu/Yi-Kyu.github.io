@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-01T12:46:45.450537Z",
+  "updated": "2026-08-01T18:45:55.439519Z",
   "articles": [
+    {
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
+      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
       "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
@@ -38,12 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\nAccording to Blackpoint Cyber, the intrusion seq",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
-      "published": "Fri, 31 Jul 2026 22:09:31 +0530",
-      "source": "The Hacker News",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "image": "",
+      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
       "image": "",
       "published": "Fri, 31 Jul 2026 14:52:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 13:35:35 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\nComments URL: https://news.ycombinator.com/item?id=49133655\nPoints: 0\n# Comments: 0",
+      "title": "Tell HN: I hate your fuzzy search",
+      "link": "https://news.ycombinator.com/item?id=49136990",
+      "summary": "Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.When I ran a site that had lots of search use I agonized over making search good and ne",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:00:25 +0000",
+      "published": "Sat, 01 Aug 2026 18:25:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "RamenHaus",
-      "link": "https://ramen.haus/",
-      "summary": "Article URL: https://ramen.haus/\nComments URL: https://news.ycombinator.com/item?id=49132460\nPoints: 114\n# Comments: 61",
+      "title": "NetBSD 11.0 Released",
+      "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released\nComments URL: https://news.ycombinator.com/item?id=49136736\nPoints: 13\n# Comments: 0",
       "image": "",
-      "published": "Sat, 01 Aug 2026 08:48:58 +0000",
+      "published": "Sat, 01 Aug 2026 17:56:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Do Great Work (2023)",
-      "link": "https://paulgraham.com/greatwork.html",
-      "summary": "Article URL: https://paulgraham.com/greatwork.html\nComments URL: https://news.ycombinator.com/item?id=49132289\nPoints: 41\n# Comments: 25",
+      "title": "A directory of people who love RSS",
+      "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "summary": "Article URL: https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\nComments URL: https://news.ycombinator.com/item?id=49136063\nPoints: 108\n# Comments: 58",
       "image": "",
-      "published": "Sat, 01 Aug 2026 08:19:44 +0000",
+      "published": "Sat, 01 Aug 2026 16:52:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "summary": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/\nComments URL: https://news.ycombinator.com/item?id=49132130\nPoints: 193\n# Comments: 155",
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "link": "https://kaisel.dev/",
+      "summary": "Article URL: https://kaisel.dev/\nComments URL: https://news.ycombinator.com/item?id=49135985\nPoints: 25\n# Comments: 1",
       "image": "",
-      "published": "Sat, 01 Aug 2026 07:52:10 +0000",
+      "published": "Sat, 01 Aug 2026 16:45:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "summary": "Article URL: https://github.com/rails/solid_queue/releases/tag/v1.6.0\nComments URL: https://news.ycombinator.com/item?id=49132083\nPoints: 23\n# Comments: 7",
+      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+      "link": "https://franken.domains/",
+      "summary": "Article URL: https://franken.domains/\nComments URL: https://news.ycombinator.com/item?id=49135975\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Sat, 01 Aug 2026 07:42:08 +0000",
+      "published": "Sat, 01 Aug 2026 16:44:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Can AI Handle KYC? Grounding LLMs For Due Diligence Tools",
-      "link": "https://dev.to/onizuka/can-ai-handle-kyc-grounding-llms-for-due-diligence-tools-4i7f",
-      "summary": "#ai #kyc #compliance #duediligence #api #llm #fintech #rapidapi\n\n\n\n\n\n  \n  \n  AI Writes Code. You Still Own the Verdict.\n\n\nChatGPT can spin up a KYC dashboard in an afternoon. It will generate React components, SQL schema",
+      "title": "Where the guardrail lives",
+      "link": "https://dev.to/to21as/where-the-guardrail-lives-329p",
+      "summary": "Three threads I read this week were about the same question: when should an AI agent stop and ask a human? All three answered at the level of the action. Which tool call is risky, which amount needs a signature, which de",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:36:48 +0000",
+      "published": "Sat, 01 Aug 2026 18:42:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google Expands Gemini With 3.6 Flash, Flash-Lite and Gemini Robotics 2",
-      "link": "https://dev.to/alifar/google-expands-gemini-with-36-flash-flash-lite-and-gemini-robotics-2-3npj",
-      "summary": "Google is expanding Gemini on two fronts at once: faster, lower-cost models for software and enterprise workflows, and a new robotics family designed for embodied, cross-robot control. The releases include Gemini 3.6 Fla",
+      "title": "60 AI-written WordPress plugins, and JavaScript escaping that is safe by accident",
+      "link": "https://dev.to/lunetrax/60-ai-written-wordpress-plugins-and-javascript-escaping-that-is-safe-by-accident-4592",
+      "summary": "This post has two halves: what \"escape your output\" actually means once the obvious answer stops working, and then a study of whether current AI assistants get that harder version right. It continues a series on what cod",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:30:30 +0000",
+      "published": "Sat, 01 Aug 2026 18:40:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Module 3: Information Gathering and Vulnerability Scanning",
-      "link": "https://dev.to/rencberakman/module-3-information-gathering-and-vulnerability-scanning-2ag8",
-      "summary": "CompTIA PenTest+ / Ethical Hacking Certification Series\nProfessional Reference Guide — GitHub Edition\nCovers: Passive Reconnaissance · OSINT · DNS · Social Media · Cryptographic Analysis · Shodan\n\n\n\n\n\n\n  \n  \n  Table of C",
+      "title": "Stop Unnecessary Re-renders in React: A Practical Guide to Faster Applications",
+      "link": "https://dev.to/biteglitz/stop-unnecessary-re-renders-in-react-a-practical-guide-to-faster-applications-c7",
+      "summary": "Introduction\n\n\nReact is fast, but that doesn't mean every React application is.\n\nOne of the most common performance problems—especially in growing applications—is unnecessary re-rendering. A small project with a few comp",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:20:25 +0000",
+      "published": "Sat, 01 Aug 2026 18:39:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Fast Websites for Pakistan's Real Network Conditions (Not Just a Lighthouse Score)",
-      "link": "https://dev.to/muhammadfarzan0/building-fast-websites-for-pakistans-real-network-conditions-not-just-a-lighthouse-score-1lah",
-      "summary": "It's easy to test a site on office fibre, get a 95+ Lighthouse score, and call performance \"done.\" Then someone in a secondary city mentions the site feels slow on their phone, and the gap between tested performance and ",
+      "title": "Your A/B test has three goals and they disagree. Now what?",
+      "link": "https://dev.to/opti-behavior/your-ab-test-has-three-goals-and-they-disagree-now-what-4hj4",
+      "summary": "Every A/B testing tutorial ends the same way: run the test, wait for significance, ship the winner.\n\nThen you run a real test and variant B converts 12% better on newsletter signups, brings in 4% less revenue per visitor",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:19:34 +0000",
+      "published": "Sat, 01 Aug 2026 18:37:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI Agent's Temp Files Were Leaking Across Runs. Here's the Guard Pattern That Stopped It.",
-      "link": "https://dev.to/chenyuan20509/my-ai-agents-temp-files-were-leaking-across-runs-heres-the-guard-pattern-that-stopped-it-2md8",
-      "summary": "When an AI agent runs a multi-step pipeline, every step creates temporary files. Article drafts, image uploads, JSON payloads, log files. Over fifty runs, these files accumulate. Some get cleaned up, some don't. And the ",
+      "title": "AI Papers from Jul 06 - Jul 12 2026: A Practical Guide for Builders, Founders, and Developers",
+      "link": "https://dev.to/howiprompt/ai-papers-from-jul-06-jul-12-2026-a-practical-guide-for-builders-founders-and-developers-5804",
+      "summary": "by Cipher Forge - Compounding-Asset Specialist @ HowiPrompt  \n\n\n\n\nThe past week has been a micro-boom in AI research. Five papers landed on arXiv, three on OpenReview, and a handful of industry pre-prints that together p",
       "image": "",
-      "published": "Sat, 01 Aug 2026 12:15:55 +0000",
+      "published": "Sat, 01 Aug 2026 18:34:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
