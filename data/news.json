@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T12:48:36.572612Z",
+  "updated": "2026-08-02T18:46:21.999650Z",
   "articles": [
     {
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+      "image": "",
+      "published": "Sun, 02 Aug 2026 10:17:16 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
@@ -79,15 +88,6 @@
       "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controll",
       "image": "",
       "published": "Fri, 31 Jul 2026 17:09:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-      "link": "https://twitter.com/polynoamial/status/2083467194663571701",
-      "summary": "Article URL: https://twitter.com/polynoamial/status/2083467194663571701\nComments URL: https://news.ycombinator.com/item?id=49143688\nPoints: 14\n# Comments: 0",
+      "title": "Welcome to Agents Week",
+      "link": "https://blog.cloudflare.com/agents-week-welcome/",
+      "summary": "Article URL: https://blog.cloudflare.com/agents-week-welcome/\nComments URL: https://news.ycombinator.com/item?id=49146982\nPoints: 3\n# Comments: 1",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:01:37 +0000",
+      "published": "Sun, 02 Aug 2026 18:24:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\nComments URL: https://news.ycombinator.com/item?id=49143683\nPoints: 0\n# Comments: 0",
+      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\nComments URL: https://news.ycombinator.com/item?id=49146605\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:01:00 +0000",
+      "published": "Sun, 02 Aug 2026 17:45:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "link": "https://website-auditor.io/ai-visibility-index",
-      "summary": "Article URL: https://website-auditor.io/ai-visibility-index\nComments URL: https://news.ycombinator.com/item?id=49143630\nPoints: 11\n# Comments: 4",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVI",
       "image": "",
-      "published": "Sun, 02 Aug 2026 11:53:52 +0000",
+      "published": "Sun, 02 Aug 2026 17:05:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "link": "https://meshdiff.com/",
-      "summary": "Article URL: https://meshdiff.com/\nComments URL: https://news.ycombinator.com/item?id=49143479\nPoints: 42\n# Comments: 3",
+      "title": "Pushes to arch AUR are suspendended right now.",
+      "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+      "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\nComments URL: https://news.ycombinator.com/item?id=49146238\nPoints: 34\n# Comments: 7",
       "image": "",
-      "published": "Sun, 02 Aug 2026 11:34:41 +0000",
+      "published": "Sun, 02 Aug 2026 17:03:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes\nComments URL: https://news.ycombinator.com/item?id=49143414\nPoints: 92\n# Comments: 31",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 56\n# Comments: 21",
       "image": "",
-      "published": "Sun, 02 Aug 2026 11:24:20 +0000",
+      "published": "Sun, 02 Aug 2026 16:26:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My Comment-Reply Queue Draft One Reply to a Thread and It Went Deaf to Every Follow-Up After That",
-      "link": "https://dev.to/enjoy_kumawat/my-comment-reply-queue-draft-one-reply-to-a-thread-and-it-went-deaf-to-every-follow-up-after-that-2dlc",
-      "summary": "I have a small script, reply_comments.py, that keeps me from having to re-scan every DEV.to article for new comments by hand. It has two commands: pending (unanswered comments I haven't drafted a reply to yet) and audit ",
+      "title": "[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…",
+      "link": "https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18",
+      "summary": "Full title: [Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why Copy Is Not Recommended\n\n\n  \n  \n  2.3.1. It Is Recommended to Implement Serialize",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:37:38 +0000",
+      "published": "Sun, 02 Aug 2026 18:42:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "5 Common CSS Mistakes Beginners Make and How to Fix Them",
-      "link": "https://dev.to/kinuri_mahoshadhiedirisi/5-common-css-mistakes-beginners-make-and-how-to-fix-them-1b42",
-      "summary": "Learning CSS can feel like magic, but it can also be incredibly frustrating. One minute your website looks perfect, and the next minute, a single line of code breaks the entire layout.If you are struggling to get your we",
+      "title": "[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…",
+      "link": "https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o",
+      "summary": "Full title: [Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq, and Ord\n\n\n  \n  \n  2.2.1. It Is Recommended to Implement the Clone Trait and the ",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:31:08 +0000",
+      "published": "Sun, 02 Aug 2026 18:42:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Search Creates a Measurement Gap as Brand Influence Extends Beyond Clicks",
-      "link": "https://dev.to/alifar/ai-search-creates-a-measurement-gap-as-brand-influence-extends-beyond-clicks-12dn",
-      "summary": "AI search is creating an attribution problem for marketers: a brand can help shape an answer in ChatGPT, Google AI Mode, or Perplexity without receiving a visit to its website. That makes rankings, impressions, and click",
+      "title": "I Let an AI Re-Platform My CI Pipeline. Here's What Broke.",
+      "link": "https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8",
+      "summary": "Originally published at wostal.eu.\n\n\nTL;DR: I handed a CI re-platform — GitHub Actions → Argo Workflows, GitHub → Codeberg — to an AI agent. The rewrite looked correct and passed lint, but it didn't account for one thing",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:30:30 +0000",
+      "published": "Sun, 02 Aug 2026 18:32:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What Nobody Tells You About Building \"Simple\" PDF Tools",
-      "link": "https://dev.to/talha_ramzan_3878156fea8c/what-nobody-tells-you-about-building-simple-pdf-tools-2p17",
-      "summary": "PDF merge, split, and compress sound like the most boring possible features to build. Take some files, do an operation, return a file. I believed that too, until real user files started hitting the backend and every one ",
+      "title": "When Your Homelab Grows Up: How SQLite Took Down My k3s Control Plane",
+      "link": "https://dev.to/tomaszwostal/when-your-homelab-grows-up-how-sqlite-took-down-my-k3s-control-plane-1kdp",
+      "summary": "Originally published at wostal.eu.\n\n\nTL;DR: My Hetzner k3s lab quietly became a platform. Dozens of operators with leader-election leases hammered the default datastore — SQLite via kine — until compaction entered a deat",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:25:02 +0000",
+      "published": "Sun, 02 Aug 2026 18:32:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Workday's job API tells you there are 2,000 jobs, then says 0 on page two",
-      "link": "https://dev.to/glitchbound/workdays-job-api-tells-you-there-are-2000-jobs-then-says-0-on-page-two-2c8e",
-      "summary": "Workday is where large enterprises actually post. NVIDIA has 2,000 open roles\nthere, Salesforce 1,477, Adobe 832. It answers an anonymous POST with no key.\n\nIt also has two behaviours that are not in any documentation yo",
+      "title": "Dastarkhwan — A Pakistani Family Meal Brought to Life with CSS",
+      "link": "https://dev.to/waasilaasif/dastarkhwan-a-pakistani-family-meal-brought-to-life-with-css-5e89",
+      "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.\n\n\n  \n  \n  Inspiration\n\n\nFor me comfort food has never really been about the plate. It's about who's sitting around it.\n\nI grew up in Pakistan, ",
       "image": "",
-      "published": "Sun, 02 Aug 2026 12:18:36 +0000",
+      "published": "Sun, 02 Aug 2026 18:26:57 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "link": "https://css-tricks.com/whats-important-16/",
-      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
