@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-03T01:21:10.090843Z",
+  "updated": "2026-08-03T08:53:45.427683Z",
   "articles": [
+    {
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's July 31 security bulleti",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
+      "published": "Mon, 03 Aug 2026 13:35:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomplete. CVE-2026-18577 affec",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
+      "published": "Mon, 03 Aug 2026 12:11:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
+      "published": "Mon, 03 Aug 2026 12:10:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
       "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
@@ -16,33 +43,6 @@
       "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, rem",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
       "published": "Sat, 01 Aug 2026 14:33:07 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.\n\nThe vulnera",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
-      "published": "Sat, 01 Aug 2026 12:42:42 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
-      "published": "Sat, 01 Aug 2026 11:59:05 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg",
-      "published": "Sat, 01 Aug 2026 00:22:04 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "link": "https://github.com/johnsonjh/cpm386",
-      "summary": "Article URL: https://github.com/johnsonjh/cpm386\nComments URL: https://news.ycombinator.com/item?id=49149898\nPoints: 3\n# Comments: 0",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "summary": "Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\nComments URL: https://news.ycombinator.com/item?id=49152023\nPoints: 39\n# Comments: 12",
       "image": "",
-      "published": "Mon, 03 Aug 2026 00:38:10 +0000",
+      "published": "Mon, 03 Aug 2026 06:42:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "summary": "Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\nComments URL: https://news.ycombinator.com/item?id=49149746\nPoints: 13\n# Comments: 5",
+      "title": "Don't be a meat proxy",
+      "link": "https://gruhn.me/blog/2026-08-03/",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-03/\nComments URL: https://news.ycombinator.com/item?id=49151933\nPoints: 353\n# Comments: 154",
       "image": "",
-      "published": "Mon, 03 Aug 2026 00:12:16 +0000",
+      "published": "Mon, 03 Aug 2026 06:28:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
-      "link": "https://github.com/pg83/shitty",
-      "summary": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 76\n# Comments: 42",
+      "title": "More German than many Germans",
+      "link": "https://mertbulan.com/more-german-than-many-germans/",
+      "summary": "Article URL: https://mertbulan.com/more-german-than-many-germans/\nComments URL: https://news.ycombinator.com/item?id=49151734\nPoints: 189\n# Comments: 78",
       "image": "",
-      "published": "Sun, 02 Aug 2026 23:05:41 +0000",
+      "published": "Mon, 03 Aug 2026 06:00:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Computational Theory of Mind (2015)",
-      "link": "https://plato.stanford.edu/entries/computational-mind/",
-      "summary": "Article URL: https://plato.stanford.edu/entries/computational-mind/\nComments URL: https://news.ycombinator.com/item?id=49149125\nPoints: 24\n# Comments: 8",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "link": "https://arxiv.org/abs/2607.28271",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 55\n# Comments: 42",
       "image": "",
-      "published": "Sun, 02 Aug 2026 22:35:35 +0000",
+      "published": "Mon, 03 Aug 2026 03:06:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
-      "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item?id=49148987\nPoints: 75\n# Comments: 26",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "link": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 509\n# Comments: 235",
       "image": "",
-      "published": "Sun, 02 Aug 2026 22:16:34 +0000",
+      "published": "Mon, 03 Aug 2026 02:16:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
-      "link": "https://dev.to/remojansen/please-stop-calling-it-developer-experience-27ec",
-      "summary": "\"Technical debt\" might be one of the most successful terms ever coined in software engineering.\n\nNot because it solved the problem. Technical debt is still everywhere. But it fundamentally changed the conversation. Befor",
+      "title": "# We Added MCP to PromptOT: Manage Production Prompts from Claude, Cursor, and Codex",
+      "link": "https://dev.to/promptot/-we-added-mcp-to-promptot-manage-production-prompts-from-claude-cursor-and-codex-134d",
+      "summary": "Developers increasingly use Claude, Cursor and Codex to write, review and improve application code.\n\nBut when those applications depend on production LLM prompts, there is usually a disconnect.\n\nYour AI coding assistant ",
       "image": "",
-      "published": "Mon, 03 Aug 2026 01:10:16 +0000",
+      "published": "Mon, 03 Aug 2026 08:46:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bidirectional Sync Between Radar Chart Vertex Dragging and Sliders",
-      "link": "https://dev.to/orca_forge/bidirectional-sync-between-radar-chart-vertex-dragging-and-sliders-48ll",
-      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  Introduction to Interactive Radar Charts\n\n\nIn a UI for adjusting multi-dimensional parameters, radar charts (also known as spider graphs) are very ",
+      "title": "Devs... Building in Public Is Dead!?",
+      "link": "https://dev.to/trewaters/devs-building-in-public-is-dead-4dnh",
+      "summary": "Where Does That Leave Us? Developers, Authority, and Sharing in the Age of AI\n\n\nIn 2014, if you were an ambitious developer trying to make a name for yourself, you built in the open. You wrote code publicly, you blogged ",
       "image": "",
-      "published": "Mon, 03 Aug 2026 01:05:50 +0000",
+      "published": "Mon, 03 Aug 2026 08:44:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Migrating an Expo app from Japanese to multi-language support in stages",
-      "link": "https://dev.to/hirodeath/migrating-an-expo-app-from-japanese-to-multi-language-support-in-stages-130l",
-      "summary": "This article is an English translation of the original Japanese article.\n\nI migrated an Expo app from Japanese only to Japanese, English, and Simplified Chinese. Instead of translating everything at once, I divided the w",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 01:04:27 +0000",
+      "title": "How to set Content Security Policy with a Meta Tag?",
+      "link": "https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm",
+      "summary": "When developers start implementing a Content Security Policy (CSP), they usually configure it through HTTP response headers.\n\nBut then a common question comes up:\n\n👉 Can I define CSP using a &lt;meta&gt; tag instead?\n\nTh",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7hlfz848ut2d9ly8i8q.png",
+      "published": "Mon, 03 Aug 2026 08:41:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A 7am Report on My Short-Term Rental",
-      "link": "https://dev.to/syuja/a-7am-report-on-my-short-term-rental-27n",
-      "summary": "This is what 7am looks like:\n\n\n\nWho's in which room, when they check out, how much battery the front door lock has left, and that two knowledge base topics are duplicated. All of it already sits in the software I use to ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fse353ri4j4t0hx3s5n3f.png",
-      "published": "Mon, 03 Aug 2026 01:01:00 +0000",
+      "title": "Refactoring OpenTelemetry Metrics: from God Class to Per-Subsystem Modules",
+      "link": "https://dev.to/xinyangwuethz/refactoring-opentelemetry-metrics-from-god-class-to-per-subsystem-modules-180e",
+      "summary": "The constraint that shapes everything\n\n\nA refactor that recently landed in a codebase I work in replaced our metrics god class with per-subsystem modules. The design was a colleague's work, not mine. But studying the cha",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 08:37:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft",
-      "link": "https://dev.to/anoymask/coldcard-predictable-rng-from-seed-recovery-to-about-886m-bitcoin-theft-21e0",
-      "summary": "COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft\n\n\n\n  \n  \n  1. Basic Information\n\n\n\n\nArticle Title: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft\n\nSource: BleepingComputer\n",
+      "title": "Multi-Tenant AI Chat: From Hardcoded Config to BYOK in 4 Steps",
+      "link": "https://dev.to/marc_kumiko/multi-tenant-ai-chat-from-hardcoded-config-to-byok-in-4-steps-51aa",
+      "summary": "Two tenants, two AI providers, two prompts. Sounds simple, and on day one it is. That's the trap. It stays simple right up until customer number two sends their first \"quick question,\" and eighteen months later you're ru",
       "image": "",
-      "published": "Mon, 03 Aug 2026 00:56:58 +0000",
+      "published": "Mon, 03 Aug 2026 08:35:50 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+      "link": "https://css-tricks.com/whats-important-16/",
+      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "writing-mode",
+      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
+      "link": "https://css-tricks.com/whats-important-15/",
+      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
+      "image": "",
+      "published": "Tue, 14 Jul 2026 14:36:18 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
