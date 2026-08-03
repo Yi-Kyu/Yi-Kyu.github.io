@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-03T08:53:45.427683Z",
+  "updated": "2026-08-03T14:07:20.856930Z",
   "articles": [
+    {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.\n\nAI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg",
+      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it id",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
+      "published": "Mon, 03 Aug 2026 16:19:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addre",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
+      "published": "Mon, 03 Aug 2026 14:43:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
       "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
@@ -16,33 +43,6 @@
       "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomplete. CVE-2026-18577 affec",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
       "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
-      "published": "Mon, 03 Aug 2026 12:10:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg",
-      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.\n\nAdform detected the incident on July 27, 2026, rem",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-el4ovGAmKfllRfhupL0SzdEoZKlouDb1_YmhCOl3owxN1ks0Do-WphuD77rka_3ukbqvPxSmFYMdBKBirYyw0DJpvSxVP5riGBR_vd7wKwnpgZfNm0RFEDLTzsvzzQB7qGtawMvpccd700dfNM2zZeFTy9cyHf4oFyHSASKRU3gmxbMgTJRtDFsSNs/s1600/adform.jpg",
-      "published": "Sat, 01 Aug 2026 14:33:07 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "summary": "Article URL: https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\nComments URL: https://news.ycombinator.com/item?id=49152023\nPoints: 39\n# Comments: 12",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "summary": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\nComments URL: https://news.ycombinator.com/item?id=49155629\nPoints: 28\n# Comments: 3",
       "image": "",
-      "published": "Mon, 03 Aug 2026 06:42:00 +0000",
+      "published": "Mon, 03 Aug 2026 13:34:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Don't be a meat proxy",
-      "link": "https://gruhn.me/blog/2026-08-03/",
-      "summary": "Article URL: https://gruhn.me/blog/2026-08-03/\nComments URL: https://news.ycombinator.com/item?id=49151933\nPoints: 353\n# Comments: 154",
+      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+      "link": "https://dmarcguard.io/blog/spf-record-syntax/",
+      "summary": "Article URL: https://dmarcguard.io/blog/spf-record-syntax/\nComments URL: https://news.ycombinator.com/item?id=49155626\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Mon, 03 Aug 2026 06:28:01 +0000",
+      "published": "Mon, 03 Aug 2026 13:34:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "More German than many Germans",
-      "link": "https://mertbulan.com/more-german-than-many-germans/",
-      "summary": "Article URL: https://mertbulan.com/more-german-than-many-germans/\nComments URL: https://news.ycombinator.com/item?id=49151734\nPoints: 189\n# Comments: 78",
+      "title": "30 years of CPUs at Tom's Hardware – looking back on three decades of processors",
+      "link": "https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2\nComments URL: https://news.ycombinator.co",
       "image": "",
-      "published": "Mon, 03 Aug 2026 06:00:14 +0000",
+      "published": "Mon, 03 Aug 2026 13:26:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
-      "link": "https://arxiv.org/abs/2607.28271",
-      "summary": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 55\n# Comments: 42",
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 303\n# Comments: 91",
       "image": "",
-      "published": "Mon, 03 Aug 2026 03:06:12 +0000",
+      "published": "Mon, 03 Aug 2026 11:28:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "link": "https://qwen.ai/blog?id=qwen3.8",
-      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 509\n# Comments: 235",
+      "title": "9front \"This Was Supposed to Be Fun\" Released",
+      "link": "https://9front.org/releases/2026/08/02/0/",
+      "summary": "Article URL: https://9front.org/releases/2026/08/02/0/\nComments URL: https://news.ycombinator.com/item?id=49154249\nPoints: 48\n# Comments: 15",
       "image": "",
-      "published": "Mon, 03 Aug 2026 02:16:09 +0000",
+      "published": "Mon, 03 Aug 2026 11:17:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "# We Added MCP to PromptOT: Manage Production Prompts from Claude, Cursor, and Codex",
-      "link": "https://dev.to/promptot/-we-added-mcp-to-promptot-manage-production-prompts-from-claude-cursor-and-codex-134d",
-      "summary": "Developers increasingly use Claude, Cursor and Codex to write, review and improve application code.\n\nBut when those applications depend on production LLM prompts, there is usually a disconnect.\n\nYour AI coding assistant ",
+      "title": "Hardware, IoT and Player Technology - Sensors on the Pitch",
+      "link": "https://dev.to/opango_timmy14/hardware-iot-and-player-technology-sensors-on-the-pitch-1pp9",
+      "summary": "In post 5 we explored how computer vision and AI are starting to understand the game from the outside. Today we go inside the kit itself. Modern rugby players are becoming walking sensor platforms. GPS units, smart mouth",
       "image": "",
-      "published": "Mon, 03 Aug 2026 08:46:34 +0000",
+      "published": "Mon, 03 Aug 2026 13:56:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Devs... Building in Public Is Dead!?",
-      "link": "https://dev.to/trewaters/devs-building-in-public-is-dead-4dnh",
-      "summary": "Where Does That Leave Us? Developers, Authority, and Sharing in the Age of AI\n\n\nIn 2014, if you were an ambitious developer trying to make a name for yourself, you built in the open. You wrote code publicly, you blogged ",
+      "title": "My billing worked. My expiry dates didn't. Here's why.",
+      "link": "https://dev.to/shaojie/my-billing-worked-my-expiry-dates-didnt-heres-why-1308",
+      "summary": "I paid $2.99 to my own product this week. That's how I found out my subscriptions had no expiry date.\n\nQuick context: my extension has a Pro tier. No login servers, no license keys — you pay through Stripe, and a tiny Cl",
       "image": "",
-      "published": "Mon, 03 Aug 2026 08:44:23 +0000",
+      "published": "Mon, 03 Aug 2026 13:53:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to set Content Security Policy with a Meta Tag?",
-      "link": "https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm",
-      "summary": "When developers start implementing a Content Security Policy (CSP), they usually configure it through HTTP response headers.\n\nBut then a common question comes up:\n\n👉 Can I define CSP using a &lt;meta&gt; tag instead?\n\nTh",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7hlfz848ut2d9ly8i8q.png",
-      "published": "Mon, 03 Aug 2026 08:41:49 +0000",
+      "title": "Parsing Pinterest URLs Safely in JavaScript (Without Network Requests)",
+      "link": "https://dev.to/jiankn/parsing-pinterest-urls-safely-in-javascript-without-network-requests-464b",
+      "summary": "Pinterest URLs look simple until an application has to accept them from users.\n\nA Pin can arrive on a country-specific domain, contain tracking parameters, or use a short pin.it URL. A loose check such as hostname.includ",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 13:37:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Refactoring OpenTelemetry Metrics: from God Class to Per-Subsystem Modules",
-      "link": "https://dev.to/xinyangwuethz/refactoring-opentelemetry-metrics-from-god-class-to-per-subsystem-modules-180e",
-      "summary": "The constraint that shapes everything\n\n\nA refactor that recently landed in a codebase I work in replaced our metrics god class with per-subsystem modules. The design was a colleague's work, not mine. But studying the cha",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 08:37:41 +0000",
+      "title": "Repaint vs Reflow: A Simple Explanation",
+      "link": "https://dev.to/ale3oula/repaint-vs-reflow-a-simple-explanation-1m4j",
+      "summary": "What's happening when a website loads?\n\n\nWhen you visit a website, your browser reads the code, it creates the DOM, it reads the CSS, it builds the CSSOM, figures out where everything should go, and then draws it on your",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ootps4zi0hw0qtskjlb.png",
+      "published": "Mon, 03 Aug 2026 13:34:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Multi-Tenant AI Chat: From Hardcoded Config to BYOK in 4 Steps",
-      "link": "https://dev.to/marc_kumiko/multi-tenant-ai-chat-from-hardcoded-config-to-byok-in-4-steps-51aa",
-      "summary": "Two tenants, two AI providers, two prompts. Sounds simple, and on day one it is. That's the trap. It stays simple right up until customer number two sends their first \"quick question,\" and eighteen months later you're ru",
+      "title": "The Memory Wall",
+      "link": "https://dev.to/diyaburman/the-memory-wall-25g7",
+      "summary": "Preface\n\n\nI want to be upfront about something before we get into it. None of the frameworks in this article is mine. The ideas here come from two people who have been thinking about this stuff way harder and longer than",
       "image": "",
-      "published": "Mon, 03 Aug 2026 08:35:50 +0000",
+      "published": "Mon, 03 Aug 2026 13:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
