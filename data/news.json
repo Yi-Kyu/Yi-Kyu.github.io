@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:46:21.999650Z",
+  "updated": "2026-08-03T01:21:10.090843Z",
   "articles": [
     {
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "image": "",
+      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "image": "",
+      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
@@ -70,24 +88,6 @@
       "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
       "image": "",
       "published": "Fri, 31 Jul 2026 18:16:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controll",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 17:09:25 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Welcome to Agents Week",
-      "link": "https://blog.cloudflare.com/agents-week-welcome/",
-      "summary": "Article URL: https://blog.cloudflare.com/agents-week-welcome/\nComments URL: https://news.ycombinator.com/item?id=49146982\nPoints: 3\n# Comments: 1",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "link": "https://github.com/johnsonjh/cpm386",
+      "summary": "Article URL: https://github.com/johnsonjh/cpm386\nComments URL: https://news.ycombinator.com/item?id=49149898\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 02 Aug 2026 18:24:30 +0000",
+      "published": "Mon, 03 Aug 2026 00:38:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "summary": "Article URL: https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\nComments URL: https://news.ycombinator.com/item?id=49146605\nPoints: 4\n# Comments: 0",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "summary": "Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\nComments URL: https://news.ycombinator.com/item?id=49149746\nPoints: 13\n# Comments: 5",
       "image": "",
-      "published": "Sun, 02 Aug 2026 17:45:51 +0000",
+      "published": "Mon, 03 Aug 2026 00:12:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "link": "https://github.com/graham33/nixos-dgx-spark",
-      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.This works on the NVI",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "link": "https://github.com/pg83/shitty",
+      "summary": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 76\n# Comments: 42",
       "image": "",
-      "published": "Sun, 02 Aug 2026 17:05:54 +0000",
+      "published": "Sun, 02 Aug 2026 23:05:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pushes to arch AUR are suspendended right now.",
-      "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-      "summary": "Article URL: https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\nComments URL: https://news.ycombinator.com/item?id=49146238\nPoints: 34\n# Comments: 7",
+      "title": "The Computational Theory of Mind (2015)",
+      "link": "https://plato.stanford.edu/entries/computational-mind/",
+      "summary": "Article URL: https://plato.stanford.edu/entries/computational-mind/\nComments URL: https://news.ycombinator.com/item?id=49149125\nPoints: 24\n# Comments: 8",
       "image": "",
-      "published": "Sun, 02 Aug 2026 17:03:02 +0000",
+      "published": "Sun, 02 Aug 2026 22:35:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "link": "https://github.com/wie-project/kakehashi",
-      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 56\n# Comments: 21",
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/\nComments URL: https://news.ycombinator.com/item?id=49148987\nPoints: 75\n# Comments: 26",
       "image": "",
-      "published": "Sun, 02 Aug 2026 16:26:40 +0000",
+      "published": "Sun, 02 Aug 2026 22:16:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…",
-      "link": "https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18",
-      "summary": "Full title: [Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why Copy Is Not Recommended\n\n\n  \n  \n  2.3.1. It Is Recommended to Implement Serialize",
+      "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
+      "link": "https://dev.to/remojansen/please-stop-calling-it-developer-experience-27ec",
+      "summary": "\"Technical debt\" might be one of the most successful terms ever coined in software engineering.\n\nNot because it solved the problem. Technical debt is still everywhere. But it fundamentally changed the conversation. Befor",
       "image": "",
-      "published": "Sun, 02 Aug 2026 18:42:24 +0000",
+      "published": "Mon, 03 Aug 2026 01:10:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…",
-      "link": "https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o",
-      "summary": "Full title: [Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq, and Ord\n\n\n  \n  \n  2.2.1. It Is Recommended to Implement the Clone Trait and the ",
+      "title": "Bidirectional Sync Between Radar Chart Vertex Dragging and Sliders",
+      "link": "https://dev.to/orca_forge/bidirectional-sync-between-radar-chart-vertex-dragging-and-sliders-48ll",
+      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  Introduction to Interactive Radar Charts\n\n\nIn a UI for adjusting multi-dimensional parameters, radar charts (also known as spider graphs) are very ",
       "image": "",
-      "published": "Sun, 02 Aug 2026 18:42:07 +0000",
+      "published": "Mon, 03 Aug 2026 01:05:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Let an AI Re-Platform My CI Pipeline. Here's What Broke.",
-      "link": "https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8",
-      "summary": "Originally published at wostal.eu.\n\n\nTL;DR: I handed a CI re-platform — GitHub Actions → Argo Workflows, GitHub → Codeberg — to an AI agent. The rewrite looked correct and passed lint, but it didn't account for one thing",
+      "title": "Migrating an Expo app from Japanese to multi-language support in stages",
+      "link": "https://dev.to/hirodeath/migrating-an-expo-app-from-japanese-to-multi-language-support-in-stages-130l",
+      "summary": "This article is an English translation of the original Japanese article.\n\nI migrated an Expo app from Japanese only to Japanese, English, and Simplified Chinese. Instead of translating everything at once, I divided the w",
       "image": "",
-      "published": "Sun, 02 Aug 2026 18:32:45 +0000",
+      "published": "Mon, 03 Aug 2026 01:04:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When Your Homelab Grows Up: How SQLite Took Down My k3s Control Plane",
-      "link": "https://dev.to/tomaszwostal/when-your-homelab-grows-up-how-sqlite-took-down-my-k3s-control-plane-1kdp",
-      "summary": "Originally published at wostal.eu.\n\n\nTL;DR: My Hetzner k3s lab quietly became a platform. Dozens of operators with leader-election leases hammered the default datastore — SQLite via kine — until compaction entered a deat",
-      "image": "",
-      "published": "Sun, 02 Aug 2026 18:32:01 +0000",
+      "title": "A 7am Report on My Short-Term Rental",
+      "link": "https://dev.to/syuja/a-7am-report-on-my-short-term-rental-27n",
+      "summary": "This is what 7am looks like:\n\n\n\nWho's in which room, when they check out, how much battery the front door lock has left, and that two knowledge base topics are duplicated. All of it already sits in the software I use to ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fse353ri4j4t0hx3s5n3f.png",
+      "published": "Mon, 03 Aug 2026 01:01:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dastarkhwan — A Pakistani Family Meal Brought to Life with CSS",
-      "link": "https://dev.to/waasilaasif/dastarkhwan-a-pakistani-family-meal-brought-to-life-with-css-5e89",
-      "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.\n\n\n  \n  \n  Inspiration\n\n\nFor me comfort food has never really been about the plate. It's about who's sitting around it.\n\nI grew up in Pakistan, ",
+      "title": "COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft",
+      "link": "https://dev.to/anoymask/coldcard-predictable-rng-from-seed-recovery-to-about-886m-bitcoin-theft-21e0",
+      "summary": "COLDCARD Predictable RNG: From Seed Recovery to About $8.86M Bitcoin Theft\n\n\n\n  \n  \n  1. Basic Information\n\n\n\n\nArticle Title: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft\n\nSource: BleepingComputer\n",
       "image": "",
-      "published": "Sun, 02 Aug 2026 18:26:57 +0000",
+      "published": "Mon, 03 Aug 2026 00:56:58 +0000",
       "source": "DEV Community",
       "category": "development"
     }
