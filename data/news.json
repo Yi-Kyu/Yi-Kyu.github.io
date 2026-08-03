@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-03T14:07:20.856930Z",
+  "updated": "2026-08-03T19:13:15.697146Z",
   "articles": [
+    {
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
+      "published": "Tue, 04 Aug 2026 00:13:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUnit 42 detailed three atta",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
+      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
+      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg",
+      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
       "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\nAttack surface management platform Censys said it id",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg",
-      "published": "Mon, 03 Aug 2026 16:19:06 +0530",
-      "source": "The Hacker News",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\nThe data included names, organisations and work email addre",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
-      "published": "Mon, 03 Aug 2026 14:43:56 +0530",
-      "source": "The Hacker News",
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\nThe vendor's July 31 security bulleti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
-      "published": "Mon, 03 Aug 2026 13:35:30 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.\n\nIts first fix was incomplete. CVE-2026-18577 affec",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
-      "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-      "source": "The Hacker News",
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales cha",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
       "image": "",
       "published": "Sun, 02 Aug 2026 17:14:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-      "image": "",
-      "published": "Sun, 02 Aug 2026 10:17:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "image": "",
-      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 18:16:42 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "link": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "summary": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui\nComments URL: https://news.ycombinator.com/item?id=49155629\nPoints: 28\n# Comments: 3",
+      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+      "link": "https://blog.cloudflare.com/billable-usage-api/",
+      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 15\n# Comments: 2",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:34:43 +0000",
+      "published": "Mon, 03 Aug 2026 17:18:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-      "link": "https://dmarcguard.io/blog/spf-record-syntax/",
-      "summary": "Article URL: https://dmarcguard.io/blog/spf-record-syntax/\nComments URL: https://news.ycombinator.com/item?id=49155626\nPoints: 3\n# Comments: 0",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/\nComments URL: https://news.ycombinator.com/item?id=49158581\nPoints: 17\n# Comments: 1",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:34:25 +0000",
+      "published": "Mon, 03 Aug 2026 17:08:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "30 years of CPUs at Tom's Hardware – looking back on three decades of processors",
-      "link": "https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/cpus/30-years-of-cpus-at-toms-hardware-looking-back-on-three-decades-of-processors-from-the-pentium-ii-to-ryzen-9-9950x3d2\nComments URL: https://news.ycombinator.co",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "summary": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\nComments URL: https://news.ycombinator.c",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:26:06 +0000",
+      "published": "Mon, 03 Aug 2026 17:02:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "summary": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 303\n# Comments: 91",
+      "title": "Use Task Runners for Common Coding Tasks",
+      "link": "https://hamvocke.com/blog/task-runners/",
+      "summary": "Article URL: https://hamvocke.com/blog/task-runners/\nComments URL: https://news.ycombinator.com/item?id=49158287\nPoints: 22\n# Comments: 5",
       "image": "",
-      "published": "Mon, 03 Aug 2026 11:28:54 +0000",
+      "published": "Mon, 03 Aug 2026 16:51:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "9front \"This Was Supposed to Be Fun\" Released",
-      "link": "https://9front.org/releases/2026/08/02/0/",
-      "summary": "Article URL: https://9front.org/releases/2026/08/02/0/\nComments URL: https://news.ycombinator.com/item?id=49154249\nPoints: 48\n# Comments: 15",
+      "title": "SearXNG in Rust",
+      "link": "https://github.com/MikeLuu99/searxng-rust",
+      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 25\n# Comments: 10",
       "image": "",
-      "published": "Mon, 03 Aug 2026 11:17:56 +0000",
+      "published": "Mon, 03 Aug 2026 16:41:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hardware, IoT and Player Technology - Sensors on the Pitch",
-      "link": "https://dev.to/opango_timmy14/hardware-iot-and-player-technology-sensors-on-the-pitch-1pp9",
-      "summary": "In post 5 we explored how computer vision and AI are starting to understand the game from the outside. Today we go inside the kit itself. Modern rugby players are becoming walking sensor platforms. GPS units, smart mouth",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 13:56:57 +0000",
+      "title": "Your Secrets Need a VDP, Not Just a Bug Bounty",
+      "link": "https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei",
+      "summary": "Your Secrets Need a VDP, Not Just a Bug Bounty\n\n\nBug bounty programs are valuable -- until they replace disclosure policies. Learn how unreasonable PoC demands or scope exclusions create security blind spots when it come",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvqep6ytpg5av5pwnhufa.png",
+      "published": "Mon, 03 Aug 2026 18:57:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My billing worked. My expiry dates didn't. Here's why.",
-      "link": "https://dev.to/shaojie/my-billing-worked-my-expiry-dates-didnt-heres-why-1308",
-      "summary": "I paid $2.99 to my own product this week. That's how I found out my subscriptions had no expiry date.\n\nQuick context: my extension has a Pro tier. No login servers, no license keys — you pay through Stripe, and a tiny Cl",
+      "title": "How I built a 2-agent code review loop for local Ollama workflows",
+      "link": "https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2",
+      "summary": "When running code reviews with local LLMs, a single model can either hallucinate non-existent bugs or generate generic advice you end up ignoring.\n\nTo make local AI code review more useful, I built a closed Reviewer vs. ",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:53:47 +0000",
+      "published": "Mon, 03 Aug 2026 18:54:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Parsing Pinterest URLs Safely in JavaScript (Without Network Requests)",
-      "link": "https://dev.to/jiankn/parsing-pinterest-urls-safely-in-javascript-without-network-requests-464b",
-      "summary": "Pinterest URLs look simple until an application has to accept them from users.\n\nA Pin can arrive on a country-specific domain, contain tracking parameters, or use a short pin.it URL. A loose check such as hostname.includ",
+      "title": "Every Way to Export LinkedIn and Sales Navigator Data (and When Each One Actually Works)",
+      "link": "https://dev.to/mastrosgeppettos/every-way-to-export-linkedin-and-sales-navigator-data-and-when-each-one-actually-works-35dp",
+      "summary": "A few months back I was running Sales Navigator searches for a client project — filtering down to \"VP Sales, fintech, based in Italy or Spain\" type lists — and the results were genuinely good. 60, 80 leads that actually ",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:37:02 +0000",
+      "published": "Mon, 03 Aug 2026 18:47:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Repaint vs Reflow: A Simple Explanation",
-      "link": "https://dev.to/ale3oula/repaint-vs-reflow-a-simple-explanation-1m4j",
-      "summary": "What's happening when a website loads?\n\n\nWhen you visit a website, your browser reads the code, it creates the DOM, it reads the CSS, it builds the CSSOM, figures out where everything should go, and then draws it on your",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3ootps4zi0hw0qtskjlb.png",
-      "published": "Mon, 03 Aug 2026 13:34:46 +0000",
+      "title": "7 Production Issues Every Spring Boot Developer Should Learn Before Becoming Senior",
+      "link": "https://dev.to/vinod_erramsetty_191b3e05/7-production-issues-every-spring-boot-developer-should-learn-before-becoming-senior-1nk5",
+      "summary": "After working on enterprise applications and distributed microservices, I have realized that the biggest challenges rarely come from writing business logic. They come from handling production traffic, failures, concurren",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 18:43:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Memory Wall",
-      "link": "https://dev.to/diyaburman/the-memory-wall-25g7",
-      "summary": "Preface\n\n\nI want to be upfront about something before we get into it. None of the frameworks in this article is mine. The ideas here come from two people who have been thinking about this stuff way harder and longer than",
+      "title": "Sellar un archivo para que nadie pueda discutir que no lo tocaste",
+      "link": "https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788",
+      "summary": "Una discusión sobre un archivo digital casi nunca se pierde por lo que el archivo\ndice. Se pierde una pregunta antes:\n\n\n¿Cómo sabemos que ese es el archivo que usted recibió, y no el que editó anoche?\n\n\nSi la respuesta e",
       "image": "",
-      "published": "Mon, 03 Aug 2026 13:30:00 +0000",
+      "published": "Mon, 03 Aug 2026 18:35:31 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "link": "https://css-tricks.com/whats-important-16/",
-      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed CSS, and More",
-      "link": "https://css-tricks.com/whats-important-15/",
-      "summary": "Read all about boundary-aware CSS, accessible grid lanes, time-based web designs, full-bleed, the customizable select, and new web platform features.\n\nWhat’s !important #15: Boundary-aware CSS, Time-based CSS, Full-bleed",
-      "image": "",
-      "published": "Tue, 14 Jul 2026 14:36:18 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
