@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-04T13:29:14.516096Z",
+  "updated": "2026-08-04T19:14:01.545623Z",
   "articles": [
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg",
+      "published": "Tue, 04 Aug 2026 22:57:39 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.\n\nSafeDep verified 353 poisoned v",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg",
+      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
+      "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
       "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
-      "published": "Tue, 04 Aug 2026 16:06:27 +0530",
-      "source": "The Hacker News",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
-      "published": "Tue, 04 Aug 2026 14:33:23 +0530",
-      "source": "The Hacker News",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active e",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png",
-      "published": "Tue, 04 Aug 2026 12:30:13 +0530",
-      "source": "The Hacker News",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardr",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
       "image": "",
       "published": "Mon, 03 Aug 2026 20:17:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 19:58:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
-      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
-      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote ac",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 16:01:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 15:25:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "summary": "Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\nComments URL: https://news.ycombinator.com/item?id=49167448\nPoints: 92\n# Comments: 106",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "link": "https://edotenv.com/",
+      "summary": "We are Rui and Michael and we’re building EdotEnv (https://edotenv.com): self-improving RL environments from Quant Trading workflows.With all the benchmaxxing around, evals saturate and become meaningless for model compa",
       "image": "",
-      "published": "Tue, 04 Aug 2026 12:01:02 +0000",
+      "published": "Tue, 04 Aug 2026 18:36:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Roame (YC S23) Is Hiring Lead Engineer",
-      "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\nComments URL: https://news.ycombinator.com/item?id=49167444\nPoints: 0\n# Comments: 0",
+      "title": "Web security is too hard",
+      "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+      "summary": "Article URL: https://textslashplain.com/2026/08/04/security-is-hard-yall/\nComments URL: https://news.ycombinator.com/item?id=49172834\nPoints: 72\n# Comments: 15",
       "image": "",
-      "published": "Tue, 04 Aug 2026 12:00:51 +0000",
+      "published": "Tue, 04 Aug 2026 18:29:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Buckminster Fuller: everything I know",
-      "link": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "summary": "Article URL: https://www.bfi.org/about-fuller/everything-i-know/\nComments URL: https://news.ycombinator.com/item?id=49167147\nPoints: 27\n# Comments: 11",
+      "title": "Blackmail Fail (2013)",
+      "link": "https://gwern.net/blackmail",
+      "summary": "Article URL: https://gwern.net/blackmail\nComments URL: https://news.ycombinator.com/item?id=49172597\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Tue, 04 Aug 2026 11:33:32 +0000",
+      "published": "Tue, 04 Aug 2026 18:11:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/\nComments URL: https://news.ycombinator.com/item?id=49167113\nPoints: 268\n# Comments: 150",
+      "title": "Why some people mow a lawn better than others",
+      "link": "https://pudding.cool/2026/06/mow/",
+      "summary": "Article URL: https://pudding.cool/2026/06/mow/\nComments URL: https://news.ycombinator.com/item?id=49172550\nPoints: 31\n# Comments: 12",
       "image": "",
-      "published": "Tue, 04 Aug 2026 11:30:17 +0000",
+      "published": "Tue, 04 Aug 2026 18:06:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-      "link": "https://github.com/MakazhanAlpamys/Soup",
-      "summary": "Article URL: https://github.com/MakazhanAlpamys/Soup\nComments URL: https://news.ycombinator.com/item?id=49166984\nPoints: 27\n# Comments: 3",
+      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
+      "link": "https://github.com/agentrust-io/cmcp",
+      "summary": "Article URL: https://github.com/agentrust-io/cmcp\nComments URL: https://news.ycombinator.com/item?id=49172545\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Tue, 04 Aug 2026 11:17:57 +0000",
+      "published": "Tue, 04 Aug 2026 18:06:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Vibe Coding vs. Spec Coding: How Kiro is changing the way we build AI-Powered Software",
-      "link": "https://dev.to/aws-builders/vibe-coding-vs-spec-coding-how-kiro-is-changing-the-way-we-build-ai-powered-software-1950",
-      "summary": "Artificial Intelligence has fundamentally changed how we build software.\n\nToday, it's possible to generate an entire REST API, a React dashboard, or even a complete SaaS application simply by chatting with an AI assistan",
+      "title": "Identifying the Processor of a Bare-Metal Binary (Strategy 2): Testing LLMs",
+      "link": "https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n",
+      "summary": "Industrializing the disassembly of an undocumented processor from a raw binary is a complex challenge that can be broken down into 4 main phases:\n\n\nVerify that the binary does not belong to an already known processor.\nVe",
       "image": "",
-      "published": "Tue, 04 Aug 2026 13:19:58 +0000",
+      "published": "Tue, 04 Aug 2026 19:01:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How AI Agents Work: The Plan-Act-Observe Loop, Explained Step by Step",
-      "link": "https://dev.to/dineshgowtham/how-ai-agents-work-the-plan-act-observe-loop-explained-step-by-step-2a9k",
-      "summary": "Imagine having a personal coding assistant that not only writes code for you but also debugs and optimizes it. This is now a reality with AI agents. But have you ever wondered how they actually work? In this post, we wil",
+      "title": "Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers",
+      "link": "https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n",
+      "summary": "Google's Gemini Notebook rollout has expanded across subscriber and account groups, but Google's published information describes a staged, multi-phase release, not a confirmed global completion for every Google AI Pro su",
       "image": "",
-      "published": "Tue, 04 Aug 2026 13:15:38 +0000",
+      "published": "Tue, 04 Aug 2026 18:50:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zwischen Silizium und Ethik: Eine Kartierung der künstlichen Existenz",
-      "link": "https://dev.to/uhltak/zwischen-silizium-und-ethik-eine-kartierung-der-kunstlichen-existenz-5o2",
-      "summary": "Einleitung: Das Ende der einfachen Analogien\n\nDie öffentliche Debatte über Künstliche Intelligenz schwankt meist zwischen zwei extremen Polen: Auf der einen Seite die Faszination für das Unbekannte, auf der anderen die p",
+      "title": "Decoupling Physical Control and Reasoning: DeepMind's Gemini Robotics 2 Architecture",
+      "link": "https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh",
+      "summary": "Why Decouple Reasoning from Motor Control\n\n\nGeneral-purpose robots have to pull off two very different jobs at once. They need to read a cluttered, full-room visual scene, hold a multi-minute plan in memory, and converse",
       "image": "",
-      "published": "Tue, 04 Aug 2026 13:15:08 +0000",
+      "published": "Tue, 04 Aug 2026 18:42:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The UPDATE That Never Finishes and What to Run Instead",
-      "link": "https://dev.to/nicolas_vbgh/the-update-that-never-finishes-and-what-to-run-instead-3k5i",
-      "summary": "It's the most boring migration there is. Add a column, backfill it, done. Instant on your laptop. Instant against the test suite's two hundred rows. Green checkmarks everywhere. You ship it with the confidence of someone",
+      "title": "Shelly in Home Assistant: Local Switching & Energy Metering",
+      "link": "https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg",
+      "summary": "I didn't put Shelly Plus 1PM and 2PM behind my wall switches for the app or the cloud. I put them there because each one quietly does two jobs at once: it switches a circuit locally, and it measures exactly what that cir",
       "image": "",
-      "published": "Tue, 04 Aug 2026 13:15:00 +0000",
+      "published": "Tue, 04 Aug 2026 18:42:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Apple wins the AI race they're not even in.",
-      "link": "https://dev.to/jon_at_backboardio/apple-wins-the-ai-race-theyre-not-even-in-2m29",
-      "summary": "Apple is going to win the AI race.\n\nNot because of a model. LLMs are not the alpha.\n\nHere's what nobody is pricing in.\n\nLease a $2,999 MacBook Pro. $58 a month for 36 months. Then you owe $911 to own it or you hand it ba",
+      "title": "Why LLMs Still Struggle With Tabular Prediction",
+      "link": "https://dev.to/prabhakar_chaudhary_7afe4/why-llms-still-struggle-with-tabular-prediction-24i",
+      "summary": "Most business prediction problems do not arrive as prose. They arrive as rows: account attributes, transactions, sensor readings, test results, and a target column. For this kind of data, gradient-boosted trees and other",
       "image": "",
-      "published": "Tue, 04 Aug 2026 13:12:42 +0000",
+      "published": "Tue, 04 Aug 2026 18:41:59 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Gap Decorations Are Now Available, Here’s What’s New",
+      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+      "link": "https://css-tricks.com/whats-important-16/",
+      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "writing-mode",
+      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
