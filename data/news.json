@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-04T08:11:38.435424Z",
+  "updated": "2026-08-04T13:29:14.516096Z",
   "articles": [
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophist",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
+      "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
+      "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg",
+      "published": "Tue, 04 Aug 2026 16:06:27 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg",
+      "published": "Tue, 04 Aug 2026 14:33:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
       "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active e",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png",
       "published": "Tue, 04 Aug 2026 12:30:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb0HLXOvc5Gir8E_IXoYIRMQG7CsNL7gJEkPytfRRQ67OWrIoyrGAX78K0Ca0VJ7hhpyru2Vck7ntHKLyBLhGezuyOD_znWoB88KhAdEWu8MyhVbiEia2GfbRVeDPhaCEAHfhY637LqeIyso03edEkOGL3p0c3O6_Nn7oJ6rNmyve-6_pqziBCokfiKoKI/s1600/npm-git.jpg",
-      "published": "Tue, 04 Aug 2026 00:13:53 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.\n\nUnit 42 detailed three atta",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
-      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\nIn a report published over the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
-      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg",
-      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\nComments URL: https://news.ycombinator.com/item?id=49165170\nPoints: 0\n# Comments: 0",
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "link": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "summary": "Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\nComments URL: https://news.ycombinator.com/item?id=49167448\nPoints: 92\n# Comments: 106",
       "image": "",
-      "published": "Tue, 04 Aug 2026 07:01:26 +0000",
+      "published": "Tue, 04 Aug 2026 12:01:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple is getting this wrong",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "summary": "Article URL: https://openai.com/index/apple-is-getting-this-wrong/\nComments URL: https://news.ycombinator.com/item?id=49164649\nPoints: 151\n# Comments: 140",
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "link": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\nComments URL: https://news.ycombinator.com/item?id=49167444\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Tue, 04 Aug 2026 05:32:13 +0000",
+      "published": "Tue, 04 Aug 2026 12:00:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why did we wait so long for the bicycle? (2019)",
-      "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-      "summary": "Article URL: https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\nComments URL: https://news.ycombinator.com/item?id=49162787\nPoints: 36\n# Comments: 28",
+      "title": "Buckminster Fuller: everything I know",
+      "link": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "summary": "Article URL: https://www.bfi.org/about-fuller/everything-i-know/\nComments URL: https://news.ycombinator.com/item?id=49167147\nPoints: 27\n# Comments: 11",
       "image": "",
-      "published": "Mon, 03 Aug 2026 23:44:19 +0000",
+      "published": "Tue, 04 Aug 2026 11:33:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 137\n# Comments: 53",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "summary": "Article URL: https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/\nComments URL: https://news.ycombinator.com/item?id=49167113\nPoints: 268\n# Comments: 150",
       "image": "",
-      "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+      "published": "Tue, 04 Aug 2026 11:30:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 97\n# Comments: 52",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "link": "https://github.com/MakazhanAlpamys/Soup",
+      "summary": "Article URL: https://github.com/MakazhanAlpamys/Soup\nComments URL: https://news.ycombinator.com/item?id=49166984\nPoints: 27\n# Comments: 3",
       "image": "",
-      "published": "Mon, 03 Aug 2026 22:04:49 +0000",
+      "published": "Tue, 04 Aug 2026 11:17:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Free 5-Minute Background Check on Any UK Company (Companies House)",
-      "link": "https://dev.to/jdpg23/a-free-5-minute-background-check-on-any-uk-company-companies-house-3c98",
-      "summary": "Before you sign a contract, extend payment terms, or onboard a supplier in the UK, there is a free background check you can run in about a minute. Everything you need is on the public Companies House register. Most small",
+      "title": "Vibe Coding vs. Spec Coding: How Kiro is changing the way we build AI-Powered Software",
+      "link": "https://dev.to/aws-builders/vibe-coding-vs-spec-coding-how-kiro-is-changing-the-way-we-build-ai-powered-software-1950",
+      "summary": "Artificial Intelligence has fundamentally changed how we build software.\n\nToday, it's possible to generate an entire REST API, a React dashboard, or even a complete SaaS application simply by chatting with an AI assistan",
       "image": "",
-      "published": "Tue, 04 Aug 2026 08:00:33 +0000",
+      "published": "Tue, 04 Aug 2026 13:19:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How To Evaluate An AI Agent",
-      "link": "https://dev.to/joxiahdev/how-to-evaluate-an-ai-agent-1oel",
-      "summary": "In classical test-driven development, we deal with deterministic outcomes. We write assertions against values and types we already know in advance — assert result == expected, and we move on.\n\nAI agents don't play by tho",
+      "title": "How AI Agents Work: The Plan-Act-Observe Loop, Explained Step by Step",
+      "link": "https://dev.to/dineshgowtham/how-ai-agents-work-the-plan-act-observe-loop-explained-step-by-step-2a9k",
+      "summary": "Imagine having a personal coding assistant that not only writes code for you but also debugs and optimizes it. This is now a reality with AI agents. But have you ever wondered how they actually work? In this post, we wil",
       "image": "",
-      "published": "Tue, 04 Aug 2026 08:00:00 +0000",
+      "published": "Tue, 04 Aug 2026 13:15:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Web Table Accessibility Guide: ARIA, Keyboard Nav, and Screen Readers",
-      "link": "https://dev.to/olayiwola_akinnagbe/web-table-accessibility-guide-aria-keyboard-nav-and-screen-readers-1jo0",
-      "summary": "Accessible tables are one of the most commonly missed areas of web\naccessibility. A table without proper semantic markup is a grid of\ncells with no relationship structure. A screen reader reads it as\na sequence of values",
+      "title": "Zwischen Silizium und Ethik: Eine Kartierung der künstlichen Existenz",
+      "link": "https://dev.to/uhltak/zwischen-silizium-und-ethik-eine-kartierung-der-kunstlichen-existenz-5o2",
+      "summary": "Einleitung: Das Ende der einfachen Analogien\n\nDie öffentliche Debatte über Künstliche Intelligenz schwankt meist zwischen zwei extremen Polen: Auf der einen Seite die Faszination für das Unbekannte, auf der anderen die p",
       "image": "",
-      "published": "Tue, 04 Aug 2026 08:00:00 +0000",
+      "published": "Tue, 04 Aug 2026 13:15:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ระบบ Multi-Agent AI: การทำงานร่วมกันของ AI หลายตัวในสไตล์ทีมวิศวกร",
-      "link": "https://dev.to/11_thanyathonr1ack__b2/rabb-multi-agent-ai-kaarthamngaanrwmkankhng-ai-hlaaytawainsaitlthiimwiswkr-1lm0",
-      "summary": "ปัญญาประดิษฐ์ในปัจจุบันไม่ได้ถูกจำกัดอยู่แค่การเป็นผู้ช่วยตอบคำถามอีกต่อไป หนึ่งในแนวโน้มที่กำลังเปลี่ยนโฉมหน้าวงการเทคโนโลยีคือแนวคิดของ Multi-Agent System หรือระบบที่ AI หลายตัวทำงานประสานกันเพื่อบรรลุเป้าหมายที่ซับซ้อ",
+      "title": "The UPDATE That Never Finishes and What to Run Instead",
+      "link": "https://dev.to/nicolas_vbgh/the-update-that-never-finishes-and-what-to-run-instead-3k5i",
+      "summary": "It's the most boring migration there is. Add a column, backfill it, done. Instant on your laptop. Instant against the test suite's two hundred rows. Green checkmarks everywhere. You ship it with the confidence of someone",
       "image": "",
-      "published": "Tue, 04 Aug 2026 07:58:33 +0000",
+      "published": "Tue, 04 Aug 2026 13:15:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Which MongoDB Client Handles Large Collections Best: VisuaLeaf vs Compass vs Studio 3T",
-      "link": "https://dev.to/visualeaf/which-mongodb-client-handles-large-collections-best-visualeaf-vs-compass-vs-studio-3t-1jam",
-      "summary": "A MongoDB client can feel fast with a few hundred documents and become frustrating as soon as the result grows.\n\nThe database is not always the problem. MongoDB may finish the query while the desktop client is still fetc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuaranufuy6h5x7sazkjw.png",
-      "published": "Tue, 04 Aug 2026 07:56:19 +0000",
+      "title": "Apple wins the AI race they're not even in.",
+      "link": "https://dev.to/jon_at_backboardio/apple-wins-the-ai-race-theyre-not-even-in-2m29",
+      "summary": "Apple is going to win the AI race.\n\nNot because of a model. LLMs are not the alpha.\n\nHere's what nobody is pricing in.\n\nLease a $2,999 MacBook Pro. $58 a month for 36 months. Then you owe $911 to own it or you hand it ba",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 13:12:42 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Gap Decorations Are Now Available, Here’s What’s New",
-      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "link": "https://css-tricks.com/whats-important-16/",
-      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
