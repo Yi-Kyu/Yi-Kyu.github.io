@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:13:15.697146Z",
+  "updated": "2026-08-04T01:13:05.383894Z",
   "articles": [
     {
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 19:58:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote ac",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 16:01:22 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 15:25:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
       "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
       "image": "",
       "published": "Mon, 03 Aug 2026 13:00:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales cha",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-      "image": "",
-      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "image": "",
-      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-      "link": "https://blog.cloudflare.com/billable-usage-api/",
-      "summary": "Article URL: https://blog.cloudflare.com/billable-usage-api/\nComments URL: https://news.ycombinator.com/item?id=49158714\nPoints: 15\n# Comments: 2",
+      "title": "Native Apps Should Be Avoided Whenever Possible",
+      "link": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+      "summary": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/\nComments URL: https://news.ycombinator.com/item?id=49163158\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Mon, 03 Aug 2026 17:18:06 +0000",
+      "published": "Tue, 04 Aug 2026 00:46:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "summary": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/\nComments URL: https://news.ycombinator.com/item?id=49158581\nPoints: 17\n# Comments: 1",
+      "title": "There Will Come Soft Rains [pdf]",
+      "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\nComments URL: https://news.ycombinator.com/item?id=49162653\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Mon, 03 Aug 2026 17:08:46 +0000",
+      "published": "Mon, 03 Aug 2026 23:24:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "summary": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\nComments URL: https://news.ycombinator.c",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "summary": "Article URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\nComments URL: https://news.ycombinator.com/item?id=49162086\nPoints: 47\n# Comments: 17",
       "image": "",
-      "published": "Mon, 03 Aug 2026 17:02:10 +0000",
+      "published": "Mon, 03 Aug 2026 22:04:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Use Task Runners for Common Coding Tasks",
-      "link": "https://hamvocke.com/blog/task-runners/",
-      "summary": "Article URL: https://hamvocke.com/blog/task-runners/\nComments URL: https://news.ycombinator.com/item?id=49158287\nPoints: 22\n# Comments: 5",
+      "title": "ZX Spectrum System Tour: Text Mode",
+      "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\nComments URL: https://news.ycombinator.com/item?id=49161801\nPoints: 16\n# Comments: 0",
       "image": "",
-      "published": "Mon, 03 Aug 2026 16:51:51 +0000",
+      "published": "Mon, 03 Aug 2026 21:39:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SearXNG in Rust",
-      "link": "https://github.com/MikeLuu99/searxng-rust",
-      "summary": "Article URL: https://github.com/MikeLuu99/searxng-rust\nComments URL: https://news.ycombinator.com/item?id=49158141\nPoints: 25\n# Comments: 10",
+      "title": "LLMs reward expertise",
+      "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 377\n# Comments: 172",
       "image": "",
-      "published": "Mon, 03 Aug 2026 16:41:40 +0000",
+      "published": "Mon, 03 Aug 2026 21:13:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Your Secrets Need a VDP, Not Just a Bug Bounty",
-      "link": "https://dev.to/gitguardian/your-secrets-need-a-vdp-not-just-a-bug-bounty-17ei",
-      "summary": "Your Secrets Need a VDP, Not Just a Bug Bounty\n\n\nBug bounty programs are valuable -- until they replace disclosure policies. Learn how unreasonable PoC demands or scope exclusions create security blind spots when it come",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvqep6ytpg5av5pwnhufa.png",
-      "published": "Mon, 03 Aug 2026 18:57:04 +0000",
+      "title": "Handling Notification Taps in expo-notifications: Launch vs. Runtime",
+      "link": "https://dev.to/hirodeath/handling-notification-taps-in-expo-notifications-launch-vs-runtime-1egf",
+      "summary": "This article is an English translation of the original Japanese article.\n\nWhen a user taps a push notification, the entry point differs depending on whether the app is running. If you only use one listener with Expo Rout",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 01:03:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I built a 2-agent code review loop for local Ollama workflows",
-      "link": "https://dev.to/haichi_ops_861a9ec315b1e7/how-i-built-a-2-agent-code-review-loop-for-local-ollama-workflows-le2",
-      "summary": "When running code reviews with local LLMs, a single model can either hallucinate non-existent bugs or generate generic advice you end up ignoring.\n\nTo make local AI code review more useful, I built a closed Reviewer vs. ",
+      "title": "Google vs Bing vs Brave: Do Results Match?",
+      "link": "https://dev.to/tonywangca/google-vs-bing-vs-brave-do-results-match-3ob6",
+      "summary": "Key takeaways\n\n\nThree engines, three internets: across the searches where all three answered, Google, Bing, and Brave agreed on the #1 result only 29% of the time, and Google and Bing shared just 3 of the top 10 on avera",
       "image": "",
-      "published": "Mon, 03 Aug 2026 18:54:15 +0000",
+      "published": "Tue, 04 Aug 2026 01:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Every Way to Export LinkedIn and Sales Navigator Data (and When Each One Actually Works)",
-      "link": "https://dev.to/mastrosgeppettos/every-way-to-export-linkedin-and-sales-navigator-data-and-when-each-one-actually-works-35dp",
-      "summary": "A few months back I was running Sales Navigator searches for a client project — filtering down to \"VP Sales, fintech, based in Italy or Spain\" type lists — and the results were genuinely good. 60, 80 leads that actually ",
+      "title": "Riverpod's two build() signatures bit my Flutter code generator",
+      "link": "https://dev.to/a_g_561564a18b1c6b42fb441/riverpods-two-build-signatures-bit-my-flutter-code-generator-3hif",
+      "summary": "Source: https://github.com/carlosge492/app-generation-microservice (MIT)\n\nBuilding a pipeline that generates Flutter apps from a spec, with an automated repair loop for whatever flutter analyze catches. The bug that actu",
       "image": "",
-      "published": "Mon, 03 Aug 2026 18:47:49 +0000",
+      "published": "Tue, 04 Aug 2026 00:55:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "7 Production Issues Every Spring Boot Developer Should Learn Before Becoming Senior",
-      "link": "https://dev.to/vinod_erramsetty_191b3e05/7-production-issues-every-spring-boot-developer-should-learn-before-becoming-senior-1nk5",
-      "summary": "After working on enterprise applications and distributed microservices, I have realized that the biggest challenges rarely come from writing business logic. They come from handling production traffic, failures, concurren",
+      "title": "When \"select all\" checkboxes don't actually select anything — verifying after `check()`, not just trusting it",
+      "link": "https://dev.to/susumun/when-select-all-checkboxes-dont-actually-select-anything-verifying-after-check-not-just-3nnc",
+      "summary": "WordPress's plugin and theme update screens both have a \"select all\" checkbox. Calling check() on it with Playwright succeeds — no error, no exception. But look at the individual checkboxes afterward, and sometimes none ",
       "image": "",
-      "published": "Mon, 03 Aug 2026 18:43:52 +0000",
+      "published": "Tue, 04 Aug 2026 00:53:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Sellar un archivo para que nadie pueda discutir que no lo tocaste",
-      "link": "https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788",
-      "summary": "Una discusión sobre un archivo digital casi nunca se pierde por lo que el archivo\ndice. Se pierde una pregunta antes:\n\n\n¿Cómo sabemos que ese es el archivo que usted recibió, y no el que editó anoche?\n\n\nSi la respuesta e",
+      "title": "Prevent Feature Flag Retry Duplicate Writes in Rollout Toggle Endpoints",
+      "link": "https://dev.to/dawnli2026/prevent-feature-flag-retry-duplicate-writes-in-rollout-toggle-endpoints-1gk0",
+      "summary": "Use a durable idempotency receipt when feature flag retries can reach a rollout toggle endpoint, otherwise reach for a read-only flag evaluation that cannot create duplicate writes. Short answer: the backend must bind on",
       "image": "",
-      "published": "Mon, 03 Aug 2026 18:35:31 +0000",
+      "published": "Tue, 04 Aug 2026 00:52:45 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Gap Decorations Are Now Available, Here’s What’s New",
+      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+      "link": "https://css-tricks.com/whats-important-16/",
+      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "writing-mode",
+      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "pointer-events",
+      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
+      "image": "",
+      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
