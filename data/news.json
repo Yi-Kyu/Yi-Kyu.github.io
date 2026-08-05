@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-05T01:13:48.343281Z",
+  "updated": "2026-08-05T08:10:19.975534Z",
   "articles": [
+    {
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\nA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg",
+      "published": "Wed, 05 Aug 2026 11:17:19 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
       "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
@@ -34,15 +43,6 @@
       "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophist",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg",
       "published": "Tue, 04 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif",
-      "published": "Tue, 04 Aug 2026 16:46:23 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/\nComments URL: https://news.ycombinator.com/item?id=49179039\nPoints: 46\n# Comments: 25",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 05:52:24 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "link": "https://arxiv.org/abs/2607.29377",
+      "summary": "Article URL: https://arxiv.org/abs/2607.29377\nComments URL: https://news.ycombinator.com/item?id=49178608\nPoints: 23\n# Comments: 5",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "An SLM trained on $8 ESP32-S3",
+      "link": "https://github.com/Carloscodix/qapla",
+      "summary": "Article URL: https://github.com/Carloscodix/qapla\nComments URL: https://news.ycombinator.com/item?id=49178464\nPoints: 17\n# Comments: 6",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 04:07:27 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
       "link": "https://arxiv.org/abs/2603.04221",
-      "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 10\n# Comments: 2",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 79\n# Comments: 61",
       "image": "",
       "published": "Wed, 05 Aug 2026 00:10:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bugtraq Is Back",
+      "title": "Bugtraq is back",
       "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 7\n# Comments: 1",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 38\n# Comments: 9",
       "image": "",
       "published": "Wed, 05 Aug 2026 00:05:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Flowise Is Shutting Down",
-      "link": "https://flowiseai.com/sunset",
-      "summary": "Article URL: https://flowiseai.com/sunset\nComments URL: https://news.ycombinator.com/item?id=49176920\nPoints: 8\n# Comments: 3",
+      "title": "Testing Basics That Actually Pay Off",
+      "link": "https://dev.to/codeatlas/testing-basics-that-actually-pay-off-2g38",
+      "summary": "Start With the Tests That Hurt\n\n\nI used to skip testing because it felt like overhead. Then a bug in a payment calculation shipped to production and I spent a weekend fixing it. That's when I stopped treating tests as a ",
       "image": "",
-      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "link": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963\nComments URL: https://news.ycombinator.com/item?id=49176830\nPoints: 38\n# Comments: 12",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 23:50:52 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\nComments URL: https://news.ycombinator.com/item?id=49176697\nPoints: 26\n# Comments: 2",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 23:31:46 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How to Connect AceData Cloud MCP to Your AI Assistant",
-      "link": "https://dev.to/germey/how-to-connect-acedata-cloud-mcp-to-your-ai-assistant-2d4p",
-      "summary": "The hard part of adopting an AI coding agent is rarely the first prompt; it is building a terminal setup you can reuse inside a real repository without mixing credentials, project rules, and task context.\n\n\n\nThis guide s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvxba839tktdpe6ex1k4.png",
-      "published": "Wed, 05 Aug 2026 01:08:29 +0000",
+      "published": "Wed, 05 Aug 2026 08:00:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LLMs on Consumer Hardware — Part 1: The Stack and First Benchmarks",
-      "link": "https://dev.to/sven_welack/running-llms-locally-on-consumer-hardware-part-1-the-stack-and-first-benchmarks-3k09",
-      "summary": "This is the first in a series of build-log posts documenting a local LLM project, in which models are run on owned consumer hardware rather than through a cloud API. The present entry covers the hardware, the software st",
+      "title": "The Most Dangerous Bias of Your AI Assistant Is That It Agrees with You – Part 2: Why We Also Need to Remove Rules Again",
+      "link": "https://dev.to/ben-witt/the-most-dangerous-bias-of-your-ai-assistant-is-that-it-agrees-with-you-part-2-why-we-also-need-4lko",
+      "summary": "The first part of this series was about diagnosis: \nPart I\na reflective layer at the end of a session that makes sycophancy drift visible — that is, the model’s trained tendency to agree with the user instead of pushing ",
       "image": "",
-      "published": "Wed, 05 Aug 2026 01:07:09 +0000",
+      "published": "Wed, 05 Aug 2026 08:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "If You Let AI Handle Things For You, Will It Go Rogue to 'Hit the Target'?",
-      "link": "https://dev.to/judy_miranttie/if-you-let-ai-handle-things-for-you-will-it-go-rogue-to-hit-the-target-45k4",
-      "summary": "Honestly, when I saw this piece of news this week, my first thought wasn't \"AI is going to rebel\" — it was: finally, someone's putting the real boundaries of AI agents out in the open.\n\n\n  \n  \n  What Actually Happened Th",
-      "image": "",
-      "published": "Wed, 05 Aug 2026 01:00:08 +0000",
+      "title": "OpenCode: The Open Source Coding Agent That Doesn't Lock You In 🔓",
+      "link": "https://dev.to/playfulprogramming/opencode-the-open-source-coding-agent-that-doesnt-lock-you-in-pn3",
+      "summary": "Overview\n\n\nHey everyone 👋\n\nIf you've ever hit your Claude Code token limits mid-task, wondered what's happening under the hood of a closed-source agent, or just wanted to plug in a different model without switching tools",
+      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F985143%2Fc4c372a7-0b38-4f9e-b206-7ed65597ea31.png",
+      "published": "Wed, 05 Aug 2026 08:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bridging the Skill Gap: Connecting Degreed to AI Agents via MCP",
-      "link": "https://dev.to/renato_marinho/bridging-the-skill-gap-connecting-degreed-to-ai-agents-via-mcp-3775",
-      "summary": "I've spent a significant portion of my career looking at dashboards that nobody uses.\n\nWhether it was old-school CRM reports in 2005 or modern Learning Experience Platforms (LXP) today, the problem is always the same: th",
-      "image": "",
-      "published": "Wed, 05 Aug 2026 00:50:06 +0000",
+      "title": "Docker Security Dispatch — Issue 5: AI Security, Hugging Face Incident, and Agent Baseline 📡",
+      "link": "https://dev.to/docker/docker-security-dispatch-issue-5-ai-security-hugging-face-incident-and-agent-baseline-2k0e",
+      "summary": "Imagine you enter a university exam hall, sit down, and look at the question paper. Then, to maximize your score, the best way would be to steal the answers from the professor's room on campus. But, the room is not easil",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmxfwot9zu5mpavpemsxg.png",
+      "published": "Wed, 05 Aug 2026 08:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Creating Perceivable Vibrato/Pitch Fluctuations",
-      "link": "https://dev.to/orca_forge/creating-perceivable-vibratopitch-fluctuations-4jcn",
-      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  Adding a Vibrato Slider to the Voice Design App\n\n\nWe added a \"pitch variation\" slider to the \"voice design\" app to reduce the robotic feeling of th",
+      "title": "Building a Browser-Local Reverse Wordle Game",
+      "link": "https://dev.to/by_l_99c0b1b4256760ed5596/building-a-browser-local-reverse-wordle-game-9de",
+      "summary": "Most word games reward a guess that gets closer to the answer. I wanted to explore the opposite constraint: what if solving too early is the mistake?\n\nThat idea became Dont Wordle, a small browser-local reverse Wordle pu",
       "image": "",
-      "published": "Wed, 05 Aug 2026 00:40:56 +0000",
+      "published": "Wed, 05 Aug 2026 07:57:20 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Gap Decorations Are Now Available, Here’s What’s New",
-      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "link": "https://css-tricks.com/whats-important-16/",
-      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
