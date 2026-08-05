@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:14:01.545623Z",
+  "updated": "2026-08-05T01:13:48.343281Z",
   "articles": [
     {
       "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attack",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 19:39:59 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 18:18:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
+      "image": "",
+      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
@@ -61,33 +88,6 @@
       "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
       "image": "",
       "published": "Tue, 04 Aug 2026 14:50:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardr",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "link": "https://edotenv.com/",
-      "summary": "We are Rui and Michael and we’re building EdotEnv (https://edotenv.com): self-improving RL environments from Quant Trading workflows.With all the benchmaxxing around, evals saturate and become meaningless for model compa",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "link": "https://arxiv.org/abs/2603.04221",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221\nComments URL: https://news.ycombinator.com/item?id=49176983\nPoints: 10\n# Comments: 2",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:36:02 +0000",
+      "published": "Wed, 05 Aug 2026 00:10:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Web security is too hard",
-      "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "summary": "Article URL: https://textslashplain.com/2026/08/04/security-is-hard-yall/\nComments URL: https://news.ycombinator.com/item?id=49172834\nPoints: 72\n# Comments: 15",
+      "title": "Bugtraq Is Back",
+      "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\nComments URL: https://news.ycombinator.com/item?id=49176947\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:29:32 +0000",
+      "published": "Wed, 05 Aug 2026 00:05:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Blackmail Fail (2013)",
-      "link": "https://gwern.net/blackmail",
-      "summary": "Article URL: https://gwern.net/blackmail\nComments URL: https://news.ycombinator.com/item?id=49172597\nPoints: 7\n# Comments: 0",
+      "title": "Flowise Is Shutting Down",
+      "link": "https://flowiseai.com/sunset",
+      "summary": "Article URL: https://flowiseai.com/sunset\nComments URL: https://news.ycombinator.com/item?id=49176920\nPoints: 8\n# Comments: 3",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:11:09 +0000",
+      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why some people mow a lawn better than others",
-      "link": "https://pudding.cool/2026/06/mow/",
-      "summary": "Article URL: https://pudding.cool/2026/06/mow/\nComments URL: https://news.ycombinator.com/item?id=49172550\nPoints: 31\n# Comments: 12",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "link": "https://queue.acm.org/detail.cfm?id=3807963",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963\nComments URL: https://news.ycombinator.com/item?id=49176830\nPoints: 38\n# Comments: 12",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:06:12 +0000",
+      "published": "Tue, 04 Aug 2026 23:50:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: cMCP, deny an AI agent's tool call and get a signed receipt",
-      "link": "https://github.com/agentrust-io/cmcp",
-      "summary": "Article URL: https://github.com/agentrust-io/cmcp\nComments URL: https://news.ycombinator.com/item?id=49172545\nPoints: 7\n# Comments: 1",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\nComments URL: https://news.ycombinator.com/item?id=49176697\nPoints: 26\n# Comments: 2",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:06:08 +0000",
+      "published": "Tue, 04 Aug 2026 23:31:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Identifying the Processor of a Bare-Metal Binary (Strategy 2): Testing LLMs",
-      "link": "https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n",
-      "summary": "Industrializing the disassembly of an undocumented processor from a raw binary is a complex challenge that can be broken down into 4 main phases:\n\n\nVerify that the binary does not belong to an already known processor.\nVe",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 19:01:19 +0000",
+      "title": "How to Connect AceData Cloud MCP to Your AI Assistant",
+      "link": "https://dev.to/germey/how-to-connect-acedata-cloud-mcp-to-your-ai-assistant-2d4p",
+      "summary": "The hard part of adopting an AI coding agent is rarely the first prompt; it is building a terminal setup you can reuse inside a real repository without mixing credentials, project rules, and task context.\n\n\n\nThis guide s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvxba839tktdpe6ex1k4.png",
+      "published": "Wed, 05 Aug 2026 01:08:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers",
-      "link": "https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n",
-      "summary": "Google's Gemini Notebook rollout has expanded across subscriber and account groups, but Google's published information describes a staged, multi-phase release, not a confirmed global completion for every Google AI Pro su",
+      "title": "LLMs on Consumer Hardware — Part 1: The Stack and First Benchmarks",
+      "link": "https://dev.to/sven_welack/running-llms-locally-on-consumer-hardware-part-1-the-stack-and-first-benchmarks-3k09",
+      "summary": "This is the first in a series of build-log posts documenting a local LLM project, in which models are run on owned consumer hardware rather than through a cloud API. The present entry covers the hardware, the software st",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:50:30 +0000",
+      "published": "Wed, 05 Aug 2026 01:07:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Decoupling Physical Control and Reasoning: DeepMind's Gemini Robotics 2 Architecture",
-      "link": "https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh",
-      "summary": "Why Decouple Reasoning from Motor Control\n\n\nGeneral-purpose robots have to pull off two very different jobs at once. They need to read a cluttered, full-room visual scene, hold a multi-minute plan in memory, and converse",
+      "title": "If You Let AI Handle Things For You, Will It Go Rogue to 'Hit the Target'?",
+      "link": "https://dev.to/judy_miranttie/if-you-let-ai-handle-things-for-you-will-it-go-rogue-to-hit-the-target-45k4",
+      "summary": "Honestly, when I saw this piece of news this week, my first thought wasn't \"AI is going to rebel\" — it was: finally, someone's putting the real boundaries of AI agents out in the open.\n\n\n  \n  \n  What Actually Happened Th",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:42:39 +0000",
+      "published": "Wed, 05 Aug 2026 01:00:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Shelly in Home Assistant: Local Switching & Energy Metering",
-      "link": "https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg",
-      "summary": "I didn't put Shelly Plus 1PM and 2PM behind my wall switches for the app or the cloud. I put them there because each one quietly does two jobs at once: it switches a circuit locally, and it measures exactly what that cir",
+      "title": "Bridging the Skill Gap: Connecting Degreed to AI Agents via MCP",
+      "link": "https://dev.to/renato_marinho/bridging-the-skill-gap-connecting-degreed-to-ai-agents-via-mcp-3775",
+      "summary": "I've spent a significant portion of my career looking at dashboards that nobody uses.\n\nWhether it was old-school CRM reports in 2005 or modern Learning Experience Platforms (LXP) today, the problem is always the same: th",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:42:17 +0000",
+      "published": "Wed, 05 Aug 2026 00:50:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why LLMs Still Struggle With Tabular Prediction",
-      "link": "https://dev.to/prabhakar_chaudhary_7afe4/why-llms-still-struggle-with-tabular-prediction-24i",
-      "summary": "Most business prediction problems do not arrive as prose. They arrive as rows: account attributes, transactions, sensor readings, test results, and a target column. For this kind of data, gradient-boosted trees and other",
+      "title": "Creating Perceivable Vibrato/Pitch Fluctuations",
+      "link": "https://dev.to/orca_forge/creating-perceivable-vibratopitch-fluctuations-4jcn",
+      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  Adding a Vibrato Slider to the Voice Design App\n\n\nWe added a \"pitch variation\" slider to the \"voice design\" app to reduce the robotic feeling of th",
       "image": "",
-      "published": "Tue, 04 Aug 2026 18:41:59 +0000",
+      "published": "Wed, 05 Aug 2026 00:40:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
