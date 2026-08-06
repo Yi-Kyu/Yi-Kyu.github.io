@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:07:23.704443Z",
+  "updated": "2026-08-06T01:11:18.161881Z",
   "articles": [
     {
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 19:00:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "image": "",
+      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "COLDCARD security audit phishing attack installs remote access tool",
       "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
       "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...",
@@ -61,33 +88,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
       "image": "",
       "published": "Wed, 05 Aug 2026 11:51:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "image": "",
-      "published": "Wed, 05 Aug 2026 10:59:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How AI-powered phishing killed blocklists for good",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more ",
-      "image": "",
-      "published": "Wed, 05 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attack",
-      "image": "",
-      "published": "Tue, 04 Aug 2026 19:39:59 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Zed DeltaDB",
-      "link": "https://zed.dev/deltadb",
-      "summary": "Article URL: https://zed.dev/deltadb\nComments URL: https://news.ycombinator.com/item?id=49187256\nPoints: 5\n# Comments: 0",
+      "title": "The title cards in Blade Runner are amazing",
+      "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/\nComments URL: https://news.ycombinator.com/item?id=49189287\nPoints: 125\n# Comments: 49",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+      "published": "Wed, 05 Aug 2026 21:29:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "link": "https://blog.fogus.me/llm/born-against.html",
-      "summary": "Article URL: https://blog.fogus.me/llm/born-against.html\nComments URL: https://news.ycombinator.com/item?id=49187061\nPoints: 18\n# Comments: 2",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "Article URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\nComments URL: https://news.ycombinator.com/item?id=49189234\nPoints: 78\n# Comments: 9",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:37:49 +0000",
+      "published": "Wed, 05 Aug 2026 21:24:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show\nComments URL: https://news.ycombinator.com/item?id=49186766\nPoints: 18\n# Comments: 3",
+      "title": "I'll be stepping back from leading product for X",
+      "link": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "summary": "https://xcancel.com/nikitabier/status/2085105586966827343/\n\nComments URL: https://news.ycombinator.com/item?id=49189113\nPoints: 50\n# Comments: 64",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:19:10 +0000",
+      "published": "Wed, 05 Aug 2026 21:15:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "Article URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency\nComments URL: https://news.ycombinator.com/item?id=49186762\nPoints: 18\n# Comments: 1",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "link": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent\nComments URL: https://news.ycombinator.com/item?id=49189075\nPoints: 90\n# Comments: 17",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:18:56 +0000",
+      "published": "Wed, 05 Aug 2026 21:11:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence",
-      "link": "https://arxiv.org/abs/2510.01395",
-      "summary": "Article URL: https://arxiv.org/abs/2510.01395\nComments URL: https://news.ycombinator.com/item?id=49186720\nPoints: 7\n# Comments: 1",
+      "title": "I'm switching my phone from Android to Linux",
+      "link": "https://runarcn.no/android-to-linux/",
+      "summary": "Article URL: https://runarcn.no/android-to-linux/\nComments URL: https://news.ycombinator.com/item?id=49188022\nPoints: 195\n# Comments: 161",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:17:03 +0000",
+      "published": "Wed, 05 Aug 2026 19:50:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching",
-      "link": "https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938",
-      "summary": "You've built a chatbot. Every turn, you re-send the whole conversation — the 8,000-token system prompt, the uploaded PDF, the 15 messages of history — just so the model can answer \"and what about Mars?\"\nThe model re-read",
+      "title": "Building Fluentic Style: CSS Rule Order Should Not Feel Like Astrology",
+      "link": "https://dev.to/omnidev/building-fluentic-style-css-rule-order-should-not-feel-like-astrology-chk",
+      "summary": "This is part of my Building Fluentic Style series, where I’m writing down the design decisions, tradeoffs, and small surprises from building Fluentic Style.\n\n\nAtomic CSS gives you a nice primitive:\n\n\n\none CSS property/va",
       "image": "",
-      "published": "Wed, 05 Aug 2026 19:03:27 +0000",
+      "published": "Thu, 06 Aug 2026 01:01:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GPT vs Gemini vs Claude vs DeepSeek: The Complete 2026 Model Comparison for Indian Builders",
-      "link": "https://dev.to/shaktitiwari/gpt-vs-gemini-vs-claude-vs-deepseek-the-complete-2026-model-comparison-for-indian-builders-blg",
-      "summary": "GPT vs Gemini vs Claude vs DeepSeek: The Complete 2026 Model Comparison for Indian Builders\n\n\nDOYR | Not financial/legal/tax advice. For educational purposes only.\n\n\n\n\nThere are now too many AI models.\n\nGPT-4, GPT-4o, GP",
+      "title": "External Polymorphism",
+      "link": "https://dev.to/matthew_faithfull/external-polymorphism-43f4",
+      "summary": "External Polymorphism - Ways of getting the same extensibility and composability of types you get with 'normal' inheritance based polymorphism but without virtual functions or thunks and their associated costs. Without c",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:59:36 +0000",
+      "published": "Thu, 06 Aug 2026 01:01:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Implement agent discovery in 10 minutes",
-      "link": "https://dev.to/virentanti/implement-agent-discovery-in-10-minutes-2cc3",
-      "summary": "Implement agent discovery in 10 minutes\n\n\nBy the end of this page you will have served a valid ADS manifest, validated it\nagainst the normative schema, and made one capability callable from an LLM\ntool-calling API. Ten m",
+      "title": "Your AI agent can pay for anything now. That's the problem.",
+      "link": "https://dev.to/trustboost/your-ai-agent-can-pay-for-anything-now-thats-the-problem-4i23",
+      "summary": "The one-second decision no one is helping your agent make\n\nHere's a scenario that is no longer hypothetical. Your autonomous agent is working through a task. It hits a paid API — an HTTP 402 Payment Required with a price",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:59:01 +0000",
+      "published": "Thu, 06 Aug 2026 00:52:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I measured what a single Cmd+V costs your AI agent's context window",
-      "link": "https://dev.to/dms2323/i-measured-what-a-single-cmdv-costs-your-ai-agents-context-window-39nj",
-      "summary": "Short version: I measured what a single paste costs an AI agent. A 2,348-line source file is 40,324 tokens, one fifth of a 200,000 token window, gone in one keystroke. The path to that same file is 19 tokens. Four pastes",
+      "title": "Identifying Speakers by Voice Quality Alone — Labeling Unknown Audio Sources",
+      "link": "https://dev.to/orca_forge/identifying-speakers-by-voice-quality-alone-labeling-unknown-audio-sources-3hbi",
+      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\nWhen you are growing an audio dataset, you will inevitably run into the \"Who's voice is this again?\" problem. The anchors (target speakers for voice convers",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:58:23 +0000",
+      "published": "Thu, 06 Aug 2026 00:50:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Developers Should Care About Token Usage",
-      "link": "https://dev.to/aniket_nigam_4b2ac48cb46a/why-developers-should-care-about-token-usage-40mk",
-      "summary": "Artificial intelligence has become an essential part of modern software development. Developers use tools like ChatGPT, Claude, and Gemini to write code, debug applications, generate documentation, and automate repetitiv",
+      "title": "Criando Blocos Gutenberg Nativos com React (e como usar IA para acelerar o processo)",
+      "link": "https://dev.to/carlosorioli/criando-blocos-gutenberg-nativos-com-react-e-como-usar-ia-para-acelerar-o-processo-4h24",
+      "summary": "Este tutorial mostra como criar um bloco Gutenberg nativo — sem depender do ACF — usando React puro, do zero até o build final. Na segunda parte, explico como usar um agente de IA com skills (arquivos de conhecimento reu",
       "image": "",
-      "published": "Wed, 05 Aug 2026 18:57:12 +0000",
+      "published": "Thu, 06 Aug 2026 00:49:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
