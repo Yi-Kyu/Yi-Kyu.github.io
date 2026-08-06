@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-06T13:25:54.889129Z",
+  "updated": "2026-08-06T22:36:31.799998Z",
   "articles": [
+    {
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtua",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif",
+      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\nThe security issues affect Cisco Cata",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
+      "published": "Thu, 06 Aug 2026 22:43:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.\n\nMIT CSAIL",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg",
+      "published": "Thu, 06 Aug 2026 21:47:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\nThis week runs on cheap leverage: exposed servers, r",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg",
+      "published": "Thu, 06 Aug 2026 20:54:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
       "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
@@ -11,84 +47,57 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.\n\nIntroduced in the JavaScript cryptography library 12 years ago, the function supplied weak",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLyOOoRbj7XXsr5asbHmKbRetYhjWcAZap4b6VUBQ3ENWpeB46A78vztXFJGUDMDHNskXyUMH6yu9Quv-WLut657FS4Dk4-SICypcAVTLuI7fYUxC7Y4qEUI6A8NMIS-GZ8KkzjRULoNZAPD1TIamWyp-T5vgrjMDQKMD0lmR6pZU8P4VeOwWEo7KxWA/s1600/CRYPTOJS.jpg",
-      "published": "Thu, 06 Aug 2026 17:19:48 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\nIntroduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi53VbynsVNPTCihg9qrqybX7Yu90yM3Tm7KlJnJCHz2_MOUQPyJys1uK6H5QkVqxGekck8qe-pA55tcy19IDYQ4_ndOKasvoaFiPJCI_NJClfHv6G14Ga5P_FPr0zyNijjRMBM-GBlt-XYRqCGAcrZxm9ETsAAu4kPh829ZKABQonHDlx2GuWG9-B-V383/s1600/apple-relay.jpg",
-      "published": "Thu, 06 Aug 2026 17:03:08 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
-      "published": "Thu, 06 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
-      "published": "Thu, 06 Aug 2026 14:49:23 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
       "image": "",
-      "published": "Wed, 05 Aug 2026 19:00:50 -0400",
+      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. ",
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
       "image": "",
-      "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
       "image": "",
-      "published": "Wed, 05 Aug 2026 15:55:25 -0400",
+      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...",
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that ",
       "image": "",
-      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
+      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+      "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI",
       "image": "",
-      "published": "Wed, 05 Aug 2026 11:51:33 -0400",
+      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
       "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 17:00:56 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,102 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures inc",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 16\n# Comments: 3",
       "image": "",
-      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "summary": "Article URL: https://scalex.dev/blog/ai-agent-permissions-stats/\nComments URL: https://news.ycombinator.com/item?id=49195468\nPoints: 7\n# Comments: 1",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 11:58:07 +0000",
+      "published": "Thu, 06 Aug 2026 21:52:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mario Meets Pareto",
-      "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "summary": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto\nComments URL: https://news.ycombinator.com/item?id=49195231\nPoints: 100\n# Comments: 15",
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "summary": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.\n\nComm",
       "image": "",
-      "published": "Thu, 06 Aug 2026 11:24:53 +0000",
+      "published": "Thu, 06 Aug 2026 21:49:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-      "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-      "summary": "Article URL: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426\nComments URL: https://news.ycombinator.com/item?id=49193173\nPoints: 110\n# Comments: 51",
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "link": "https://www.aleksagordic.com/blog/vllm",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Thu, 06 Aug 2026 06:24:42 +0000",
+      "published": "Thu, 06 Aug 2026 21:30:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Crime Pays but Botany Doesn't",
-      "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "summary": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list\nComments URL: https://news.ycombinator.com/item?id=49192566\nPoints: 349\n# Comments: 118",
+      "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm\nComments URL: https://news.ycombinator.com/item?id=49202716\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Thu, 06 Aug 2026 04:46:35 +0000",
+      "published": "Thu, 06 Aug 2026 21:18:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "summary": "Article URL: https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\nComments URL: https://news.ycombinator.com/item?id=49191624\nPoints: 273\n# Comments: 334",
+      "title": "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
+      "link": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
+      "summary": "Article URL: https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades\nComments URL: https://news.ycombinator.com/item?id=49202321\nPoints: 64\n# Comments: 3",
       "image": "",
-      "published": "Thu, 06 Aug 2026 02:15:14 +0000",
+      "published": "Thu, 06 Aug 2026 20:48:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Can an Interpreted Language Really Do Multithreading?",
-      "link": "https://dev.to/dev-jin/can-an-interpreted-language-really-do-multithreading-2mg6",
-      "summary": "Can an Interpreted Language Really Do Multithreading?\n\n\n\n  \n  \n  Python, the GIL, and the myths that surround it\n\n\n\n  \n  \n  The Setup: It works, but it's \"fake\"?\n\n\nI built an async worker. Its job was to pull data from a",
+      "title": "Punk: a MVC framework",
+      "link": "https://dev.to/lnation/punk-a-mvc-framework-b23",
+      "summary": "Every web framework does a certain amount of thinking on every request. It\nlooks at the path and decides which route matched. It works out which chain of\nbefore filters are applied. It resolves 'Web::Book#view' into an a",
       "image": "",
-      "published": "Thu, 06 Aug 2026 13:18:18 +0000",
+      "published": "Thu, 06 Aug 2026 22:22:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Embedding Virtual Cards via Partner API: A Dev's Guide (2026)",
-      "link": "https://dev.to/waldenpay/embedding-virtual-cards-via-partner-api-a-devs-guide-2026-pld",
-      "summary": "**Embedding Virtual Cards via Partner API: The Build-vs-Buy Question Every Backend Team Faces\n\n\n**\nEvery fintech roadmap eventually hits the same fork in the road: build a card program from scratch, or embed a partner's ",
+      "title": "Three of my own checks passed this week while the thing they checked was broken",
+      "link": "https://dev.to/blueticks/three-of-my-own-checks-passed-this-week-while-the-thing-they-checked-was-broken-44lf",
+      "summary": "I write small verification scripts for almost everything I do, because I work alone and I forget\nthings. In one week, three of them returned a clean result while the thing underneath was wrong. None\nof the three had a bu",
       "image": "",
-      "published": "Thu, 06 Aug 2026 13:07:57 +0000",
+      "published": "Thu, 06 Aug 2026 22:16:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Light API Integration Proxy in Django (Why & How)",
-      "link": "https://dev.to/greve_malick_6bf326604dee/building-a-light-api-integration-proxy-in-django-why-how-4495",
-      "summary": "Why another API tool?\n\n\nAs I built more complex applications, I noticed a pattern: every API has its own auth, rules, and formats. Setting up a full API Gateway like Kong felt like overkill for my needs.\n\nI wanted a sing",
+      "title": "Human Oversight of AI Agents Failed 33% of the Time in Testing",
+      "link": "https://dev.to/basavaraj_sh_1ea7d95f0f2e/human-oversight-of-ai-agents-failed-33-of-the-time-in-testing-45",
+      "summary": "When AI agents ask for permission to act, how often do humans actually catch the dangerous ones? A study on AI agent command approval accuracy across 40,000 simulated runs found the answer is: not nearly enough.\n\n\n  \n  \n",
       "image": "",
-      "published": "Thu, 06 Aug 2026 13:06:55 +0000",
+      "published": "Thu, 06 Aug 2026 22:11:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AWS S3 basics every dev should know",
-      "link": "https://dev.to/cloudfrontier/aws-s3-basics-every-dev-should-know-1lfh",
-      "summary": "Why S3 matters\n\n\nAmazon S3 is the object storage service that powers a huge part of the internet. If you build anything that stores files, serves static assets, or handles uploads, you'll likely touch S3. It's simple in ",
+      "title": "The Query That Ate 75% of Our Database CPU: A MySQL Full-Text Post-Mortem",
+      "link": "https://dev.to/mahmut_gndzalp_c736ac4b/the-query-that-ate-75-of-our-database-cpu-a-mysql-full-text-post-mortem-4ob0",
+      "summary": "A news platform I maintain started serving pages in six seconds. Load average sat at 16 on a 12-core box for hours. Nothing had been deployed. Traffic was up, but not 10x up.\n\nThe cause turned out to be a single SELECT t",
       "image": "",
-      "published": "Thu, 06 Aug 2026 13:05:15 +0000",
+      "published": "Thu, 06 Aug 2026 22:11:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "spec-sonar: The Complete Design Record (Part 2) — Fable's Review, a Real-World Conflict, and the Two-Repo Decision",
-      "link": "https://dev.to/dexterlung/spec-sonar-the-complete-design-record-part-2-fables-review-a-real-world-conflict-and-the-4ied",
-      "summary": "Part 1 ended where I handed 13 review questions to Fable 5. This part records what happened over the next 24 hours — the review results, 25 files shipped, and the plot twist I never saw coming.\n\n\nRead on: Back to Part 1 ",
+      "title": "Articles do not get indexed in the order you publish them. I published the opposite",
+      "link": "https://dev.to/blueticks/articles-do-not-get-indexed-in-the-order-you-publish-them-i-published-the-opposite-1hfg",
+      "summary": "Earlier this month I published a short piece here arguing that my articles were being indexed in strict order of age, oldest first, with a delay of one to two days. I had five data points, they lined up perfectly, and I ",
       "image": "",
-      "published": "Thu, 06 Aug 2026 13:05:14 +0000",
+      "published": "Thu, 06 Aug 2026 22:10:23 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "2026 State of CSS, Devs Surveys",
+      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
       "image": "",
       "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "pointer-events",
-      "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
-      "summary": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should tre",
-      "image": "",
-      "published": "Wed, 15 Jul 2026 19:57:51 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
