@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T01:55:10.834257Z",
+  "updated": "2026-08-07T06:55:14.058379Z",
   "articles": [
     {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939\nComments URL: https://news.ycombinator.com/item?id=49206130\nPoints: 35\n# Comments: 6",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://new",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
       "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 46\n# Comments: 20",
+      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 165\n# Comments: 106",
       "image": "",
       "published": "Fri, 07 Aug 2026 00:06:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "link": "https://zenodo.org/records/21359923",
-      "summary": "Author here.Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique ",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 22:50:09 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 80\n# Comments: 14",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 134\n# Comments: 21",
       "image": "",
       "published": "Thu, 06 Aug 2026 21:52:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-      "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-      "summary": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.\n\nComm",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 21:49:07 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "link": "https://www.aleksagordic.com/blog/vllm",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 56\n# Comments: 2",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 90\n# Comments: 5",
       "image": "",
       "published": "Thu, 06 Aug 2026 21:30:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Compilation Is Not Assurance: What Agentic Rust Needs After the First Green Build",
-      "link": "https://dev.to/wernerk_au/compilation-is-not-assurance-what-agentic-rust-needs-after-the-first-green-build-3ipk",
-      "summary": "AI-assisted coding looks fastest when we stop the clock too early.\n\nA model can scaffold a crate, implement a trait, generate tests, and reach a green cargo check before a human engineer has finished tracing the existing",
+      "title": "Using JooqTemplate implement UserService Demo",
+      "link": "https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a",
+      "summary": "No need annotation,No need check null, No need inherit,No need scan,Based on JOOQ\n\n\n  \n  \n  1.Quer User Paramater\n\n\n\n\n\npublic class UserParam {\n    String name;\n    LocalDate beginBirthday;\n    LocalDate endBirthday;\n   ",
       "image": "",
-      "published": "Fri, 07 Aug 2026 01:50:39 +0000",
+      "published": "Fri, 07 Aug 2026 06:44:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your text-to-SQL model isn't as wrong as your benchmark says. The gold SQL is.",
-      "link": "https://dev.to/omer_hochman/your-text-to-sql-model-isnt-as-wrong-as-your-benchmark-says-the-gold-sql-is-p16",
-      "summary": "Originally published at nlqdb.com/blog\n\nYou run BIRD-dev, read an execution accuracy of 0.512, and the instinct is immediate: start writing planner directives to close the gap. We had the same instinct. Before acting on ",
+      "title": "Why Plumeria?",
+      "link": "https://dev.to/refirst11/my-article-40o4",
+      "summary": "\"CSS Modules are fine after all.\"\n\n\nIf you build web interfaces for a living, you have probably said this. After wrestling with runtime CSS-in-JS configuration, chasing specificity bugs across dynamic boundaries, or watc",
       "image": "",
-      "published": "Fri, 07 Aug 2026 01:23:04 +0000",
+      "published": "Fri, 07 Aug 2026 06:33:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cloudflare just put WebMCP at the edge — what it does, and what's still on you",
-      "link": "https://dev.to/r0bertini/cloudflare-just-put-webmcp-at-the-edge-what-it-does-and-whats-still-on-you-2pgm",
-      "summary": "Last week, in the middle of its \"Agents Week,\" Cloudflare shipped something that would have sounded like science fiction a year ago: a single dashboard toggle that makes any site on its network usable by browser AI agent",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 01:16:27 +0000",
+      "title": "TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for `const` Objects",
+      "link": "https://dev.to/jsmanifest/typescript-enums-are-still-controversial-in-2026-here-is-when-to-use-them-and-when-to-reach-for-4fee",
+      "summary": "TypeScript Enums Are Still Controversial in 2026: Here Is When to Use Them and When to Reach for const Objects\n\n\n\nThis article was written with the assistance of AI, under human supervision and review.\n\n\nMost TypeScript ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs6t1a0ezhejxe2ac6dzn.png",
+      "published": "Fri, 07 Aug 2026 06:25:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built an AI Minecraft Thumbnail Maker for YouTube Creators",
-      "link": "https://dev.to/edwardartist/i-built-an-ai-minecraft-thumbnail-maker-for-youtube-creators-1lca",
-      "summary": "Creating a Minecraft video is already a lot of work, and thumbnails can easily become another slow step. A good thumbnail needs a clear story, a strong focal point, readable text, and the right Minecraft feel — especiall",
+      "title": "Tapo H100: Cellar Humidity Monitoring in Home Assistant",
+      "link": "https://dev.to/cloudapp_dev/tapo-h100-cellar-humidity-monitoring-in-home-assistant-i39",
+      "summary": "Cellars sweat. On a warm humid day the air you let in is warmer than the cold concrete, and the moment it touches a cold surface it gives up its water. That's condensation, and over enough summers it's how a basement gro",
       "image": "",
-      "published": "Fri, 07 Aug 2026 01:13:07 +0000",
+      "published": "Fri, 07 Aug 2026 06:21:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Practical Guide to Running Codex CLI with a Custom Responses Provider",
-      "link": "https://dev.to/germey/a-practical-guide-to-running-codex-cli-with-a-custom-responses-provider-n1o",
-      "summary": "If you like agentic coding in the terminal, the useful question is not “which chat UI should I open?” It is: can my coding agent read this project, run commands, and use the model provider I configure without breaking my",
+      "title": "« J'ai fini le tuto Node, et là je suis bloqué » — le mur dont personne ne parle",
+      "link": "https://dev.to/_notbu7ch/-jai-fini-le-tuto-node-et-la-je-suis-bloque-le-mur-dont-personne-ne-parle-3go4",
+      "summary": "Tu as fini le tuto.\n\nLe vrai, le gros, celui de douze heures. Tu as tout suivi, tout tapé, tout fait tourner. À la fin, l'application marchait. Tu t'es senti capable. Tu t'es dit : « ça y est, je sais faire une API ».\n\nE",
       "image": "",
-      "published": "Fri, 07 Aug 2026 01:08:50 +0000",
+      "published": "Fri, 07 Aug 2026 06:20:00 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "2026 State of CSS, Devs Surveys",
+      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Gap Decorations Are Now Available, Here’s What’s New",
+      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Get Ready For the Powerful CSS border-shape Property!",
+      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+      "link": "https://css-tricks.com/whats-important-16/",
+      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
+      "image": "",
+      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "writing-mode",
+      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
+      "image": "",
+      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
