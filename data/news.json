@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-07T12:33:18.058390Z",
+  "updated": "2026-08-07T18:34:22.253574Z",
   "articles": [
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
+      "published": "Fri, 07 Aug 2026 18:26:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Growing Up The Hard Way",
       "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
-      "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-      "source": "The Hacker News",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 09:34:40 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "image": "",
       "published": "Thu, 06 Aug 2026 18:37:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Gargantuan Lie That Is Collapsing the Climate",
-      "link": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
-      "summary": "Article URL: https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization\nComments URL: https://news.ycombinator.com/item?id=49208686\nPoints: 88\n# Comments: 50",
+      "title": "DeepSeek V4 Flash 0731",
+      "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 41\n# Comments: 24",
       "image": "",
-      "published": "Fri, 07 Aug 2026 11:19:15 +0000",
+      "published": "Fri, 07 Aug 2026 17:56:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o\nComments URL: https://news.ycombinator.com/item?id=49208314\nPoints: 285\n# Comments: 250",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 92\n#",
       "image": "",
-      "published": "Fri, 07 Aug 2026 10:28:55 +0000",
+      "published": "Fri, 07 Aug 2026 17:36:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-      "link": "https://github.com/schroedinger-Hat/certo",
-      "summary": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentia",
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "link": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "summary": "Article URL: https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics\nComments URL: https://news.ycombinator.com/item?id=49213097\nPoi",
       "image": "",
-      "published": "Fri, 07 Aug 2026 09:10:30 +0000",
+      "published": "Fri, 07 Aug 2026 16:44:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Generative \"AI\": The Guitar Hero of Creativity",
-      "link": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-      "summary": "Article URL: https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/\nComments URL: https://news.ycombinator.com/item?id=49207770\nPoints: 17\n# Comments: 7",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "Article URL: https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\nComments URL: https://news.ycombinator.com/item?id=49213029\nPoints: 77\n# Comments: 66",
       "image": "",
-      "published": "Fri, 07 Aug 2026 09:07:36 +0000",
+      "published": "Fri, 07 Aug 2026 16:39:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-      "summary": "Article URL: https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\nComments URL: https://new",
+      "title": "This Mine Predicts Major Wars. It's Opening Again",
+      "link": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/\nComments URL: https://news.ycombinator.com/item?id=49212698\nPoints: 35\n# Comments: 8",
       "image": "",
-      "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+      "published": "Fri, 07 Aug 2026 16:14:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Kept Retrying a Local Model Into the Right Shape. Turns Out I Didn't Have To Retry At All.",
-      "link": "https://dev.to/naitik_kapatel_f96f1fb424/i-kept-retrying-a-local-model-into-the-right-shape-turns-out-i-didnt-have-to-retry-at-all-44d9",
-      "summary": "The constraint on this one wasn't the AI part, it was the client: nothing leaves the device. No API calls, no cloud model, full stop, because the documents being classified weren't allowed off the machine they landed on.",
+      "title": "Dos formas en que un backtest te miente (y cómo evitarlas)",
+      "link": "https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63",
+      "summary": "Pruebas una estrategia, o un modelo, sobre datos históricos. El backtest da un número bonito. Y luego, en real, no aparece. Casi siempre es una de estas dos ilusiones — y las dos se descartan con muy poco código.\n\nEmpaqu",
       "image": "",
-      "published": "Fri, 07 Aug 2026 12:28:55 +0000",
+      "published": "Fri, 07 Aug 2026 18:23:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Queried 50 Company Profiles — Here's What I Learned About AMD",
-      "link": "https://dev.to/onizuka/i-queried-50-company-profiles-heres-what-i-learned-about-amd-21oe",
-      "summary": "webdev, #ai, #api, #discuss\n\n\nAMD just spent $390 million in stock to buy Taalas, a 35-person startup that etches AI models directly into silicon. The press release called it a \"strategic move to accelerate inference per",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 12:27:57 +0000",
+      "title": "ratatop: the process table, and the parentheses that ruin everything",
+      "link": "https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn",
+      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it a try and share your f",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8yofzmsj87psuuzsmbc7.png",
+      "published": "Fri, 07 Aug 2026 18:21:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Ed25519 vs ECDSA: Why the Nonce Decides Everything",
-      "link": "https://dev.to/havenmessenger/ed25519-vs-ecdsa-why-the-nonce-decides-everything-4260",
-      "summary": "ECDSA and Ed25519 both sign data with elliptic curves, and both produce a 64-byte signature that verifies in a fraction of a millisecond. The difference between them is almost invisible on paper: ECDSA needs a fresh secr",
+      "title": "DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX",
+      "link": "https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0",
+      "summary": "After months of development, I'm excited to share DBNavigator, a cross-platform database IDE that I've been building from scratch using Java and JavaFX.\n\n✨ Current Features\n✅ PostgreSQL support\n✅ MySQL support\n✅ Modern D",
       "image": "",
-      "published": "Fri, 07 Aug 2026 12:18:56 +0000",
+      "published": "Fri, 07 Aug 2026 17:58:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Filtering, and Pagination in Next.js 15 The Pattern I Actually Use",
-      "link": "https://dev.to/anas_sheikh_2/filtering-and-pagination-in-nextjs-15-the-pattern-i-actually-use-57jk",
-      "summary": "Every dashboard eventually needs the same three things. A search box, a few filters, and pagination once the list gets long. The version I used to build kept all of that in useState, which meant losing your filters the m",
+      "title": "The SVG Color Cascade Nobody Explains (fill, stroke, currentColor, and why img src breaks it)",
+      "link": "https://dev.to/usman_basheers/the-svg-color-cascade-nobody-explains-fill-stroke-currentcolor-and-why-img-src-breaks-it-4a",
+      "summary": "Change an SVG's color by editing fill and stroke, either as attributes or through CSS. Simple in theory. In practice there are three places a color can be declared in the same file, they follow the normal CSS cascade, an",
       "image": "",
-      "published": "Fri, 07 Aug 2026 12:16:51 +0000",
+      "published": "Fri, 07 Aug 2026 17:53:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CSS Art: Comfort Food - a Hot Milk Design",
-      "link": "https://dev.to/muluken_/css-art-comfort-food-a-hot-milk-design-5em6",
-      "summary": "This is a submission for Frontend Challenge - Comfort Food Edition, CSS Art.\n\n\n  \n  \n  Inspiration\n\n\nA cup of hot milk and a slice of cake represent simple moments at home — relaxing after a long day, sharing memories wi",
+      "title": "The SVG Path Data Format, Explained (M, L, C, Q, A, Z)",
+      "link": "https://dev.to/usman_basheers/the-svg-path-data-format-explained-m-l-c-q-a-z-52k1",
+      "summary": "If you've opened a &lt;path d=\"...\"&gt; string and had no idea what you were looking at, here's the short version: it's a tiny drawing language. A pen moves around a coordinate space, and each letter in the string is an ",
       "image": "",
-      "published": "Fri, 07 Aug 2026 12:16:15 +0000",
+      "published": "Fri, 07 Aug 2026 17:53:56 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Using and Styling the Dialog Element",
+      "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+      "summary": "There's a lot of nuance to the &#60;dialog&#62; element, a seemingly little piece of web architecture. I've got some notes from digging into it.\n\nUsing and Styling the Dialog Element originally handwritten and published ",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 14:06:43 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
       "image": "",
       "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
