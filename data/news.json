@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T22:36:31.799998Z",
+  "updated": "2026-08-07T01:55:10.834257Z",
   "articles": [
     {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 18:48:22 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
       "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
       "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
@@ -70,24 +88,6 @@
       "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
       "image": "",
       "published": "Thu, 06 Aug 2026 14:03:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that ",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,9 +137,27 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "summary": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 46\n# Comments: 20",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "link": "https://zenodo.org/records/21359923",
+      "summary": "Author here.Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique ",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 22:50:09 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 16\n# Comments: 3",
+      "summary": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\nComments URL: https://news.ycombinator.com/item?id=49203105\nPoints: 80\n# Comments: 14",
       "image": "",
       "published": "Thu, 06 Aug 2026 21:52:16 +0000",
       "source": "Hacker News: Front Page",
@@ -157,118 +175,55 @@
     {
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "link": "https://www.aleksagordic.com/blog/vllm",
-      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 17\n# Comments: 0",
+      "summary": "Article URL: https://www.aleksagordic.com/blog/vllm\nComments URL: https://news.ycombinator.com/item?id=49202852\nPoints: 56\n# Comments: 2",
       "image": "",
       "published": "Thu, 06 Aug 2026 21:30:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm\nComments URL: https://news.ycombinator.com/item?id=49202716\nPoints: 17\n# Comments: 0",
+      "title": "Compilation Is Not Assurance: What Agentic Rust Needs After the First Green Build",
+      "link": "https://dev.to/wernerk_au/compilation-is-not-assurance-what-agentic-rust-needs-after-the-first-green-build-3ipk",
+      "summary": "AI-assisted coding looks fastest when we stop the clock too early.\n\nA model can scaffold a crate, implement a trait, generate tests, and reach a green cargo check before a human engineer has finished tracing the existing",
       "image": "",
-      "published": "Thu, 06 Aug 2026 21:18:32 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
-      "link": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
-      "summary": "Article URL: https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades\nComments URL: https://news.ycombinator.com/item?id=49202321\nPoints: 64\n# Comments: 3",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 20:48:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Punk: a MVC framework",
-      "link": "https://dev.to/lnation/punk-a-mvc-framework-b23",
-      "summary": "Every web framework does a certain amount of thinking on every request. It\nlooks at the path and decides which route matched. It works out which chain of\nbefore filters are applied. It resolves 'Web::Book#view' into an a",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 22:22:14 +0000",
+      "published": "Fri, 07 Aug 2026 01:50:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Three of my own checks passed this week while the thing they checked was broken",
-      "link": "https://dev.to/blueticks/three-of-my-own-checks-passed-this-week-while-the-thing-they-checked-was-broken-44lf",
-      "summary": "I write small verification scripts for almost everything I do, because I work alone and I forget\nthings. In one week, three of them returned a clean result while the thing underneath was wrong. None\nof the three had a bu",
+      "title": "Your text-to-SQL model isn't as wrong as your benchmark says. The gold SQL is.",
+      "link": "https://dev.to/omer_hochman/your-text-to-sql-model-isnt-as-wrong-as-your-benchmark-says-the-gold-sql-is-p16",
+      "summary": "Originally published at nlqdb.com/blog\n\nYou run BIRD-dev, read an execution accuracy of 0.512, and the instinct is immediate: start writing planner directives to close the gap. We had the same instinct. Before acting on ",
       "image": "",
-      "published": "Thu, 06 Aug 2026 22:16:41 +0000",
+      "published": "Fri, 07 Aug 2026 01:23:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Human Oversight of AI Agents Failed 33% of the Time in Testing",
-      "link": "https://dev.to/basavaraj_sh_1ea7d95f0f2e/human-oversight-of-ai-agents-failed-33-of-the-time-in-testing-45",
-      "summary": "When AI agents ask for permission to act, how often do humans actually catch the dangerous ones? A study on AI agent command approval accuracy across 40,000 simulated runs found the answer is: not nearly enough.\n\n\n  \n  \n",
+      "title": "Cloudflare just put WebMCP at the edge — what it does, and what's still on you",
+      "link": "https://dev.to/r0bertini/cloudflare-just-put-webmcp-at-the-edge-what-it-does-and-whats-still-on-you-2pgm",
+      "summary": "Last week, in the middle of its \"Agents Week,\" Cloudflare shipped something that would have sounded like science fiction a year ago: a single dashboard toggle that makes any site on its network usable by browser AI agent",
       "image": "",
-      "published": "Thu, 06 Aug 2026 22:11:45 +0000",
+      "published": "Fri, 07 Aug 2026 01:16:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Query That Ate 75% of Our Database CPU: A MySQL Full-Text Post-Mortem",
-      "link": "https://dev.to/mahmut_gndzalp_c736ac4b/the-query-that-ate-75-of-our-database-cpu-a-mysql-full-text-post-mortem-4ob0",
-      "summary": "A news platform I maintain started serving pages in six seconds. Load average sat at 16 on a 12-core box for hours. Nothing had been deployed. Traffic was up, but not 10x up.\n\nThe cause turned out to be a single SELECT t",
+      "title": "I Built an AI Minecraft Thumbnail Maker for YouTube Creators",
+      "link": "https://dev.to/edwardartist/i-built-an-ai-minecraft-thumbnail-maker-for-youtube-creators-1lca",
+      "summary": "Creating a Minecraft video is already a lot of work, and thumbnails can easily become another slow step. A good thumbnail needs a clear story, a strong focal point, readable text, and the right Minecraft feel — especiall",
       "image": "",
-      "published": "Thu, 06 Aug 2026 22:11:21 +0000",
+      "published": "Fri, 07 Aug 2026 01:13:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Articles do not get indexed in the order you publish them. I published the opposite",
-      "link": "https://dev.to/blueticks/articles-do-not-get-indexed-in-the-order-you-publish-them-i-published-the-opposite-1hfg",
-      "summary": "Earlier this month I published a short piece here arguing that my articles were being indexed in strict order of age, oldest first, with a delay of one to two days. I had five data points, they lined up perfectly, and I ",
+      "title": "A Practical Guide to Running Codex CLI with a Custom Responses Provider",
+      "link": "https://dev.to/germey/a-practical-guide-to-running-codex-cli-with-a-custom-responses-provider-n1o",
+      "summary": "If you like agentic coding in the terminal, the useful question is not “which chat UI should I open?” It is: can my coding agent read this project, run commands, and use the model provider I configure without breaking my",
       "image": "",
-      "published": "Thu, 06 Aug 2026 22:10:23 +0000",
+      "published": "Fri, 07 Aug 2026 01:08:50 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "2026 State of CSS, Devs Surveys",
-      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Gap Decorations Are Now Available, Here’s What’s New",
-      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Get Ready For the Powerful CSS border-shape Property!",
-      "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-      "summary": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\n\nGet Ready For the Powerful CSS border-shape Pr",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 15:14:00 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
-      "link": "https://css-tricks.com/whats-important-16/",
-      "summary": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\n\nWhat’s !important #16: sibling-index() Animations, Use",
-      "image": "",
-      "published": "Fri, 31 Jul 2026 14:06:21 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "writing-mode",
-      "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
-      "summary": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in lan",
-      "image": "",
-      "published": "Tue, 21 Jul 2026 09:39:10 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
