@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T00:37:51.690161Z",
+  "updated": "2026-08-08T06:27:38.390243Z",
   "articles": [
     {
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
@@ -137,9 +137,36 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "summary": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\nComments URL: https://news.ycombinator.com/item?id=49218707\nPoints: 40\n# Comments: 15",
+      "image": "",
+      "published": "Sat, 08 Aug 2026 03:41:56 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\nComments URL: https://news.ycombinator.com/item?id=49218179\nPoints: 1",
+      "image": "",
+      "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\nComments URL: https://news.ycombinator.com/item?id=49217993\nPoints: 242\n# Comments: 103",
+      "image": "",
+      "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "link": "https://genesisopenmodels.anl.gov/",
-      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 31\n# Comments: 11",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/\nComments URL: https://news.ycombinator.com/item?id=49216946\nPoints: 188\n# Comments: 63",
       "image": "",
       "published": "Fri, 07 Aug 2026 22:24:27 +0000",
       "source": "Hacker News: Front Page",
@@ -155,74 +182,47 @@
       "category": "development"
     },
     {
-      "title": "App Store Rejection of the Week: Dark Hours",
-      "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\nComments URL: https://news.ycombinator.com/item?id=49214863\nPoints: 267\n# Comments: 156",
+      "title": "Building a Leak-Safe gRPC Frame Decoder on Reactor Netty",
+      "link": "https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7",
+      "summary": "This is the second article in my grpc-reactor series. The first article explains why I chose to build the runtime directly on Reactor Netty and where its compatibility boundary sits. This article moves one layer down int",
       "image": "",
-      "published": "Fri, 07 Aug 2026 18:59:08 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "link": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/repsych\nComments URL: https://news.ycombinator.com/item?id=49214775\nPoints: 42\n# Comments: 2",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 18:51:45 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "link": "https://ancientlibrary.net/",
-      "summary": "Article URL: https://ancientlibrary.net/\nComments URL: https://news.ycombinator.com/item?id=49214770\nPoints: 131\n# Comments: 47",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 18:51:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Multi-Turn Prompts for Gathering Information",
-      "link": "https://dev.to/multigrid/multi-turn-prompts-for-gathering-information-1h0b",
-      "summary": "A collection conversation has one hard requirement — know when it is finished — and one hard failure — feeling like a form read aloud. Both are solved in the same place: a slot state your code owns, sent into every turn,",
-      "image": "",
-      "published": "Sat, 08 Aug 2026 00:32:34 +0000",
+      "published": "Sat, 08 Aug 2026 06:09:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What Interpretability Research Is Trying to Do",
-      "link": "https://dev.to/multigrid/what-interpretability-research-is-trying-to-do-4dji",
-      "summary": "“Interpretability” names three research programmes that share a word and almost nothing else. One wants to reverse-engineer the computation into an algorithm. One wants to know what information a representation carries. ",
+      "title": "I built a pricing API for LLMs — then realized the real users might not be human",
+      "link": "https://dev.to/adrasmussen/i-built-a-pricing-api-for-llms-then-realized-the-real-users-might-not-be-human-4b8j",
+      "summary": "Klikk her: LLM Price Watch started as a simple problem: comparing per-token pricing across Claude, GPT, Gemini, DeepSeek, and Grok meant opening five pricing pages and doing the math by hand every time a new model droppe",
       "image": "",
-      "published": "Sat, 08 Aug 2026 00:32:30 +0000",
+      "published": "Sat, 08 Aug 2026 06:02:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Interpretability for Debugging, Not Just Research",
-      "link": "https://dev.to/multigrid/interpretability-for-debugging-not-just-research-4li8",
-      "summary": "Almost every production LLM bug is diagnosed from inputs, outputs and logs. Interpretability earns its keep in a narrow set of cases, and knowing which ones is worth more than knowing the techniques. This page is that li",
+      "title": "Your firewall is your AI policy — I probed 18 major sites to read it",
+      "link": "https://dev.to/abouchard11/your-firewall-is-your-ai-policy-i-probed-18-major-sites-to-read-it-5552",
+      "summary": "Everyone's arguing about AI search visibility. Almost nobody is measuring the boring part: whether AI crawlers can fetch your pages at all.\n\nSo I built a small open-source tool — geo-crawl-audit — that probes any site wi",
       "image": "",
-      "published": "Sat, 08 Aug 2026 00:31:56 +0000",
+      "published": "Sat, 08 Aug 2026 06:01:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building an Internal Model Gateway",
-      "link": "https://dev.to/multigrid/building-an-internal-model-gateway-1ghg",
-      "summary": "A model gateway is a service every model call in an organisation goes through, so that authentication, routing, quota, failover, logging and key custody happen once instead of in forty codebases. It is a straightforward ",
+      "title": "Docker for Beginners: Images, Containers, Ports, and Volumes Explained",
+      "link": "https://dev.to/chetancodelrca/docker-for-beginners-images-containers-ports-and-volumes-explained-ee6",
+      "summary": "Docker for Beginners: Images, Containers, Ports, and Volumes Explained\n\n\nIf you've ever followed a programming tutorial and seen something like:\n\n\n\ndocker run ...\n\n\n\n\n\n\nyou've probably wondered:\n\n\nWhat exactly is Docker ",
       "image": "",
-      "published": "Sat, 08 Aug 2026 00:31:52 +0000",
+      "published": "Sat, 08 Aug 2026 06:00:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Writing an Internal AI Policy People Follow",
-      "link": "https://dev.to/multigrid/writing-an-internal-ai-policy-people-follow-199j",
-      "summary": "Nearly every internal AI policy fails in the same way: it is correct, comprehensive, and impossible to apply at the moment somebody is standing in front of a text box with a document in their clipboard. Followability is ",
+      "title": "Building an offline-first travel app in .NET MAUI (on-device OCR, currency & maps, no backend)",
+      "link": "https://dev.to/horizonsoftware/building-an-offline-first-travel-app-in-net-maui-on-device-ocr-currency-maps-no-backend-ecd",
+      "summary": "A build note from Horizon Software, a one-person Android studio. WanderWallet is a travel budget app, and the whole thing runs on the phone: no account, no backend, no cloud. Here's how the parts that look like they need",
       "image": "",
-      "published": "Sat, 08 Aug 2026 00:31:18 +0000",
+      "published": "Sat, 08 Aug 2026 05:59:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
