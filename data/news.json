@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-10T07:01:41.529040Z",
+  "updated": "2026-08-10T12:36:38.843248Z",
   "articles": [
+    {
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer.\n\nThe name",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg",
+      "published": "Mon, 10 Aug 2026 13:08:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
       "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.\n\n\"We are pro",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsaNpVaG83aDE1lJwcNllVSeS-ebafbbt4FgaKHH1_4dt1i4qvCtw-dYVrE_MiWf2GZ5vyGPhyphenhyphenCieChBz2IChMJew0I1Ze2HEYJpB-j3rB2VnfNrzbFpPDD7VFkWCkYBn2CJRLpOBIKNaeKPXlVPHpz7-1Wx9go7IfyUKSVNliDO644rNsoMmAk5a3Qf_W/s1600/nc.jpg",
-      "published": "Sat, 08 Aug 2026 12:27:43 +0530",
-      "source": "The Hacker News",
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 08:11:52 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 07:47:55 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 05:49:37 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
       "image": "",
       "published": "Fri, 07 Aug 2026 16:14:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 15:30:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocu",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Tail-call optimization in C is relatively recent",
+      "link": "https://lwn.net/Articles/1034703/",
+      "summary": "Article URL: https://lwn.net/Articles/1034703/\nComments URL: https://news.ycombinator.com/item?id=49242297\nPoints: 18\n# Comments: 4",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 11:34:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "summary": "Article URL: https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough\nComments URL: https://news.ycombinator.com/item?id=49242245\nPoints: 18\n# Comments: 1",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 11:27:47 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "A 'bananas' order for 5000 obscure book titles fuels suspicion",
+      "link": "https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/",
+      "summary": "Article URL: https://www.irishtimes.com/world/europe/2026/08/10/a-mysterious-buying-spree-is-unsettling-europes-booksellers/\nComments URL: https://news.ycombinator.com/item?id=49242213\nPoints: 24\n# Comments: 5",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 11:22:34 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\nComments URL: https://news.ycombinator.com/item?id=49241679\nPoints: 231\n# Comments: 86",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 10:10:02 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "link": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 45\n# Comments: 22",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/\nComments URL: https://news.ycombinator.com/item?id=49239751\nPoints: 306\n# Comments: 174",
       "image": "",
       "published": "Mon, 10 Aug 2026 06:02:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "Article URL: https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai\nComments URL: https://news.ycombinator.com/item?id=49239226\nPoints: 14\n# Comments: 9",
+      "title": "I Built My First AI Tool Site in 17 Days: From MVP to Payments and SEO",
+      "link": "https://dev.to/lily-builds/i-built-my-first-ai-tool-site-in-17-days-from-mvp-to-payments-and-seo-15mf",
+      "summary": "I built my first AI tool site in 17 days.\n\nIt is called BG Remover, a simple web tool for removing image backgrounds and downloading transparent PNGs.\n\nI did not choose this idea because it was a new keyword or an empty ",
       "image": "",
-      "published": "Mon, 10 Aug 2026 04:35:24 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code\nComments URL: https://news.ycombinator.com/item?id=49239021\nPoints: 140\n# Comments: 113",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 03:50:00 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "link": "https://www.whodunnitai.com/",
-      "summary": "Hey HN!I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 03:18:40 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "link": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton\nComments URL: https://news.ycombinator.com/item?id=49238818\nPoints: 34\n# Comments: 1",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 03:12:48 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Introduction to the Cloud-Native World with Azure Kubernetes Services (AKS) - Series Part 2",
-      "link": "https://dev.to/chtwilfer/introduction-to-the-cloud-native-world-with-azure-kubernetes-services-aks-series-part-2-3ce4",
-      "summary": "Digital transformation has led companies to organize their infrastructure and development processes in entirely new ways. To address the challenges of modern cloud-native applications, concepts like Platform Engineering ",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 07:00:00 +0000",
+      "published": "Mon, 10 Aug 2026 12:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AIC: Packages Need an Interface for Coding Agents",
-      "link": "https://dev.to/gyu07/aic-packages-need-an-interface-for-coding-agents-562o",
-      "summary": "I develop several tightly related repositories at the same time.\n\nSome are reusable SDKs for declarative schemas, infrastructure, stateful workflows, and other domain abstractions. Others are applications that consume se",
+      "title": "Reinvention Is a Practice: Staying Open to What Comes Next",
+      "link": "https://dev.to/lewiskori/reinvention-is-a-practice-staying-open-to-what-comes-next-50ld",
+      "summary": "Lately, I have been thinking about change.\n\nNot the dramatic kind where you wake up one morning, abandon your entire life and announce a new identity to the world. Rather, the gradual process of recognising that a versio",
       "image": "",
-      "published": "Mon, 10 Aug 2026 06:57:18 +0000",
+      "published": "Mon, 10 Aug 2026 12:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why stock backtesting results deviate: The hidden pitfalls of API timestamp handling",
-      "link": "https://dev.to/didi_yang_a745a1a37232125/why-stock-backtesting-results-deviate-the-hidden-pitfalls-of-api-timestamp-handling-4o1e",
-      "summary": "When building and validating US stock quantitative strategies, I used to focus solely on core market data metrics. Like most individual quantitative developers, I prioritized the integrity of price candlesticks and tradi",
+      "title": "Meme Monday",
+      "link": "https://dev.to/ben/meme-monday-3n1d",
+      "summary": "Meme Monday!\n\nToday's cover image comes from the last thread.\n\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.",
       "image": "",
-      "published": "Mon, 10 Aug 2026 06:49:26 +0000",
+      "published": "Mon, 10 Aug 2026 12:28:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How does Drizzle handle migrations - Part 2: Changing database structure",
-      "link": "https://dev.to/websilvercraft/how-does-drizzle-handle-migrations-part-2-changing-database-structure-1892",
-      "summary": "Drizzle is built for that. You change the TypeScript schema, Drizzle generates a new migration that alters your SQLite/D1 tables, and you apply it with Wrangler. High-level loop:\n\n\nEdit TS schema (add/rename/drop columns",
+      "title": "Optimux: on the fly image/video optimizer",
+      "link": "https://dev.to/silvern47/optimux-on-the-fly-imagevideo-optimizer-47a8",
+      "summary": "Optimux is a Go service that resizes, re-encodes, and streams images and video on the fly — /resize?image_url=...&amp;sizes=300x0&amp;format=webp&amp;quality=60, done. It's been running as an internal service for a while",
       "image": "",
-      "published": "Mon, 10 Aug 2026 06:49:02 +0000",
+      "published": "Mon, 10 Aug 2026 12:27:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "S3 Access Denied Troubleshooting: Every Cause and How to Fix It (2026)",
-      "link": "https://dev.to/muskan_bandta/s3-access-denied-troubleshooting-every-cause-and-how-to-fix-it-2026-27a2",
-      "summary": "If you are staring at An error occurred (AccessDenied) when calling the GetObject operation: Access Denied, this guide walks through every cause in the order you should check them, with the exact fix for each. I am a clo",
+      "title": "Footer & HUD Controls Refactor",
+      "link": "https://dev.to/weirdcodesofficial/footer-hud-controls-refactor-38h1",
+      "summary": "🛠️ Devlog — Footer &amp; HUD Controls Refactor\n\n\nVersion: v0.0.9-patch\nDate: 2026-08-10\nAuthor: Weired Codes\nTags: ui mobile hud layout fix\n\n\n\n\n\n  \n  \n  🇮🇳 हिंदी विवरण\n\n\n\n  \n  \n  क्या बदला?\n\n\nइस पैच में Footer और HUD Con",
       "image": "",
-      "published": "Mon, 10 Aug 2026 06:39:14 +0000",
+      "published": "Mon, 10 Aug 2026 12:20:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
