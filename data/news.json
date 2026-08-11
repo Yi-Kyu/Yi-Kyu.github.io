@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T18:37:42.601781Z",
+  "updated": "2026-08-11T00:41:41.403841Z",
   "articles": [
     {
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 19:07:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts.",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 17:12:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
@@ -61,33 +88,6 @@
       "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
       "image": "",
       "published": "Mon, 10 Aug 2026 10:34:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-      "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains ",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Member of The Com sent to prison for blackmail, sextortion",
-      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-      "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. ",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 08:56:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 08:11:52 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "link": "https://www.anthropic.com/research/riemann-zeta",
-      "summary": "Article URL: https://www.anthropic.com/research/riemann-zeta\nComments URL: https://news.ycombinator.com/item?id=49247070\nPoints: 39\n# Comments: 10",
+      "title": "The UK's War on Anonymity Has Come to America",
+      "link": "https://www.effort.news/uk-lobby",
+      "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 14\n# Comments: 0",
       "image": "",
-      "published": "Mon, 10 Aug 2026 17:41:13 +0000",
+      "published": "Mon, 10 Aug 2026 23:45:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-      "link": "https://www.stoaexchange.com",
-      "summary": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https://www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout. Today, financing terms mostly",
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "link": "https://everycube.alen.is/",
+      "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 21\n# Comments: 1",
       "image": "",
-      "published": "Mon, 10 Aug 2026 16:35:27 +0000",
+      "published": "Mon, 10 Aug 2026 23:16:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Addresses Have Numbers",
-      "link": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-      "summary": "Article URL: https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html\nComments URL: https://news.ycombinator.com/item?id=49245646\nPoints: 16\n# Comments: 33",
+      "title": "World Train Map – 1247 train routes around the world",
+      "link": "https://worldtrainmap.com/",
+      "summary": "Article URL: https://worldtrainmap.com/\nComments URL: https://news.ycombinator.com/item?id=49250894\nPoints: 13\n# Comments: 3",
       "image": "",
-      "published": "Mon, 10 Aug 2026 16:12:54 +0000",
+      "published": "Mon, 10 Aug 2026 22:42:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "summary": "Article URL: https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\nComments URL: https://news.ycombinator.com/item?id=49245491\nPoints: 57\n# Comments: 14",
+      "title": "Google Search Is Dying. What Comes Next Is Worse",
+      "link": "https://thewalrus.ca/google-search-is-dying/",
+      "summary": "Article URL: https://thewalrus.ca/google-search-is-dying/\nComments URL: https://news.ycombinator.com/item?id=49250836\nPoints: 74\n# Comments: 61",
       "image": "",
-      "published": "Mon, 10 Aug 2026 16:03:14 +0000",
+      "published": "Mon, 10 Aug 2026 22:36:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "link": "https://github.com/AntigmaLabs/ante",
-      "summary": "Article URL: https://github.com/AntigmaLabs/ante\nComments URL: https://news.ycombinator.com/item?id=49245437\nPoints: 72\n# Comments: 50",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/\nComments URL: https://news.ycombinator.com/item?id=49249971\nPoints: 151\n# Comments: 108",
       "image": "",
-      "published": "Mon, 10 Aug 2026 15:59:23 +0000",
+      "published": "Mon, 10 Aug 2026 21:26:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Starting a Linux Group in a Region Where None Existed",
-      "link": "https://dev.to/krnlx/starting-a-linux-group-in-a-region-where-none-existed-5dc6",
-      "summary": "A few months ago I got properly bitten by the Linux bug. Ubuntu became my daily driver, I started digging into terminal tools way past the point of “practical necessity,” and I got obsessed with an idea that wouldn’t lea",
+      "title": "Static File Caching in Nuxt: An Easy and Practical Strategy",
+      "link": "https://dev.to/sadegh_shaikhi_0549a5c17f/static-file-caching-in-nuxt-an-easy-and-practical-strategy-57oo",
+      "summary": "Lighthouse kept warning me about inefficient cache lifetimes, even though I had already added caching for my static files.\n\nThe missing piece was Nuxt Image and its generated /_ipx URLs.\n\nIn this post, I’ll share the sim",
       "image": "",
-      "published": "Mon, 10 Aug 2026 18:24:36 +0000",
+      "published": "Tue, 11 Aug 2026 00:29:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your ORM is hiding the line that caused the slow query",
-      "link": "https://dev.to/truta446/your-orm-is-hiding-the-line-that-caused-the-slow-query-egm",
-      "summary": "I was building a runtime N+1 query detector for Node. The detection part worked on the first afternoon. Getting it to tell you which line of your code caused the problem took considerably longer, and taught me something ",
+      "title": "Serving Gemma 4 E2B on a TPU v6e-1: what Trillium buys, and what it doesn't",
+      "link": "https://dev.to/xbill/serving-gemma-4-e2b-on-a-tpu-v6e-1-what-trillium-buys-and-what-it-doesnt-5691",
+      "summary": "Serving Gemma 4 E2B on a TPU v6e-1\n\n\nA Cloud TPU v6e-1 (Trillium) costs 2.25× a v5e-1 and returns 1.62–1.68× the throughput on workloads that fit in a v5e, and 2.32–2.77× on workloads that do not. Per output token that m",
       "image": "",
-      "published": "Mon, 10 Aug 2026 18:21:30 +0000",
+      "published": "Tue, 11 Aug 2026 00:25:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop context-switching to manage your distributed SQL infra",
-      "link": "https://dev.to/renato_marinho/stop-context-switching-to-manage-your-distributed-sql-infra-28dg",
-      "summary": "I remember the old days of manual scaling. You'd jump into a CLI, check your metrics, realize you needed another node or a capacity adjustment, log into a web console, navigate three layers deep into some proprietary das",
+      "title": "I Built 75+ Free Developer Tools — Here's What I Learned",
+      "link": "https://dev.to/jinyuan_mei_1d87a05ae6c7e/i-built-75-free-developer-tools-heres-what-i-learned-393g",
+      "summary": "Hey everyone! I'm jinyuan, an indie developer. I recently launched DevTools Box — a free online toolbox with 75+ developer tools.\n\n\n  \n  \n  What's in the box?\n\n\nDevTools Box includes tools like:\n\n\n\nJSON Formatter — beaut",
       "image": "",
-      "published": "Mon, 10 Aug 2026 18:21:10 +0000",
+      "published": "Tue, 11 Aug 2026 00:16:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Ayo GitHub Quietly Killed the Unreviewable Mega-PR",
-      "link": "https://dev.to/lovestaco/ayo-github-quietly-killed-the-unreviewable-mega-pr-3868",
-      "summary": "If you've ever opened a PR with 47 changed files and a diff so long GitHub just gives up and shows you \"Load Diff\" seventeen times, this one's for you.\n\nGitHub quietly shipped what might be the biggest pull request updat",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0pnj4vi6djqrlud2wv78.png",
-      "published": "Mon, 10 Aug 2026 18:19:38 +0000",
+      "title": "Understanding Java's Virtual Threads: Lightweight Concurrency in Action",
+      "link": "https://dev.to/said_olano/understanding-javas-virtual-threads-lightweight-concurrency-in-action-i8b",
+      "summary": "Understanding Java's Virtual Threads: Lightweight Concurrency in Action\n\n\nJava 21 introduced virtual threads as a stable feature (JEP 444), fundamentally changing how we approach concurrency on the JVM. In this post, we'",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 00:16:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Joining Two Federal Datasets That Disagree by Design",
-      "link": "https://dev.to/member_5432fd74/joining-two-federal-datasets-that-disagree-by-design-4d0p",
-      "summary": "We built a public per-state report from two federal datasets. The interesting engineering problem was not the join. It was deciding which join to refuse.\n\n\n  \n  \n  The inputs\n\n\nThree files:\n\n\nIDEA Section 618 child count",
+      "title": "Supporting Language Switching for Date Formats, Not Just Text, with i18next",
+      "link": "https://dev.to/hirodeath/supporting-language-switching-for-date-formats-not-just-text-with-i18next-1h8h",
+      "summary": "This article is an English translation of the original Japanese article.\n\nAfter introducing i18next to a React Native app, dates like 7月24日(金) remained in Japanese on the screen. Just adding more translation JSON does no",
       "image": "",
-      "published": "Mon, 10 Aug 2026 18:17:48 +0000",
+      "published": "Tue, 11 Aug 2026 00:02:58 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Animating CSS border-image",
+      "link": "https://css-tricks.com/animating-css-border-image/",
+      "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\n\nAnimating CSS border-image originally handwritt",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 15:58:47 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "SmashingConf Freiburg 2026, September 7-10",
+      "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+      "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\n\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 15:57:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Using and Styling the Dialog Element",
+      "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+      "summary": "There's a lot of nuance to the &#60;dialog&#62; element, a seemingly little piece of web architecture. I've got some notes from digging into it.\n\nUsing and Styling the Dialog Element originally handwritten and published ",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 14:06:43 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "2026 State of CSS, Devs Surveys",
+      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Gap Decorations Are Now Available, Here’s What’s New",
+      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
+      "image": "",
+      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
