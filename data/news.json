@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-12T12:36:51.539936Z",
+  "updated": "2026-08-12T18:42:12.541295Z",
   "articles": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg",
+      "published": "Wed, 12 Aug 2026 23:09:27 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI8aMtoRcWh4THmHEumFrk1X_t6xuq3Z6RsJwVKoyozs0nuRDIc7ffcIFNr5dFuUgTeeKZ0KLdeFoeHRRSFgqcTvK4VaO54Js2FADwBztN4Qlf0L8viPKGCY7lVEHF50K2xOaopCphCPL0ooDKna2E3S_4R4UzOsuh9m8dK4XQMo98_b6GjKqHRi_lm38i/s1600/chrome-plugins.jpg",
+      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.\n\nT",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg",
+      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg",
+      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
       "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.\n\nThe vulnerability in question is CVE-2026-59310 (CVSS score: 9.8)",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg",
-      "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-      "source": "The Hacker News",
+      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+      "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 12:05:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjTLayRrpqM-bUGPU8pmWZIGJ_TCnkLLvykLv9Z_-R-QFmC1f6nIxSff2TTqZ77xC1n-l7Y44qKhUVdvRX9bUgNjVcGhF7A0vkRGnumHe6-bUoCFNH4PAb11zHkdjq3Xd2kF1jiGi8quRW4WFOy-0I_CRCorkQGuh9D2K8KhDAFxzsA7a0yxp2VkM-uGo/s1600/llmhack.jpg",
-      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
-      "source": "The Hacker News",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 11:38:08 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.\n\nThe vulnerability, assigned the CVE identifier CVE-2026-582",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg",
-      "published": "Wed, 12 Aug 2026 13:01:40 +0530",
-      "source": "The Hacker News",
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.\n\nThe vulnerabi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg",
-      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
-      "source": "The Hacker News",
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness ch",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "image": "",
       "published": "Wed, 12 Aug 2026 08:25:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 07:21:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 06:15:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-      "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 21:15:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 18:15:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
-      "link": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
-      "summary": "Article URL: https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/\nComments URL: https://news.ycombinator.com/item?id=49271126\nPoints: 6\n# Comments: 0",
+      "title": "Zed: Delta",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "summary": "Article URL: https://zed.dev/blog/introducing-delta\nComments URL: https://news.ycombinator.com/item?id=49276574\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:07:16 +0000",
+      "published": "Wed, 12 Aug 2026 18:19:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "2026 Eclipse Webcams",
-      "link": "https://jonty.github.io/2026_eclipse_webcams/",
-      "summary": "Article URL: https://jonty.github.io/2026_eclipse_webcams/\nComments URL: https://news.ycombinator.com/item?id=49270953\nPoints: 27\n# Comments: 2",
+      "title": "Agentic Engineering Is Just Everything We Haven't Been Doing",
+      "link": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
+      "summary": "Article URL: https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/\nComments URL: https://news.ycombinator.com/item?id=49276488\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Wed, 12 Aug 2026 11:53:01 +0000",
+      "published": "Wed, 12 Aug 2026 18:13:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I hate packaging my software for Linux",
-      "link": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-      "summary": "Article URL: https://getfresh.dev/docs/blog/packaging-for-linux/\nComments URL: https://news.ycombinator.com/item?id=49270764\nPoints: 21\n# Comments: 16",
+      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+      "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49275465\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 12 Aug 2026 11:33:48 +0000",
+      "published": "Wed, 12 Aug 2026 17:00:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Delphi 13 Community Edition Is Now Available",
-      "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-      "summary": "Article URL: https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/\nComments URL: https://news.ycombinator.com/item?id=49270621\nPoints: 4\n# Comments: 1",
+      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\nComments URL: https://news.ycombinator.com/item?id=49275385\nPoints: 146\n# Comments: 101",
       "image": "",
-      "published": "Wed, 12 Aug 2026 11:13:36 +0000",
+      "published": "Wed, 12 Aug 2026 16:54:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "link": "https://woxi.ad-si.com",
-      "summary": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or ",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "summary": "Article URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\nComments URL: https://news.ycombinator.com/item?id=49275335\nPoints: 32\n# Comments: 22",
       "image": "",
-      "published": "Wed, 12 Aug 2026 10:06:29 +0000",
+      "published": "Wed, 12 Aug 2026 16:51:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built an AI that answers calls and WhatsApp messages for your business",
-      "link": "https://dev.to/fredy/i-built-an-ai-that-answers-calls-and-whatsapp-messages-for-your-business-156l",
-      "summary": "Hey everyone,\n\nI've spent the last few months building something I personally felt the need for as an entrepreneur: an AI agent that makes sure no customer ever goes unanswered.\n\nIt's called Estera (tryestera.com), and I",
+      "title": "Detecting Drift in Infrastructure as Code",
+      "link": "https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5",
+      "summary": "The Problem: Drift Detection in Infrastructure-as-Code\n\n\nIn production environments, infrastructure-as-code (IaC) tools like Terraform are widely used to manage and provision infrastructure. However, a common issue that ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:30:15 +0000",
+      "published": "Wed, 12 Aug 2026 18:36:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "There's an Entity for That",
-      "link": "https://dev.to/iceonfire/theres-an-entity-for-that-4ifm",
-      "summary": "This is another entry in the Inglorious Web series. It stands alone, but it leans on ideas from the first post, the architecture post, and There's No Such Thing As Local State.\n\n\n\n\n\n  \n  \n  Once Upon A Time, There Were D",
+      "title": "Zod Schemas as Output Contracts",
+      "link": "https://dev.to/multigrid/zod-schemas-as-output-contracts-3ej5",
+      "summary": "A model returns a string. Your component needs an object. Everything between those two sentences is where AI features break in production, and one Zod schema can own all of it: the constraint sent to the model, the valid",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:30:08 +0000",
+      "published": "Wed, 12 Aug 2026 18:26:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Batch Convert 500 Images to WebP Locally in the Browser With Zero Server Uploads",
-      "link": "https://dev.to/zoe_christopher/how-to-batch-convert-500-images-to-webp-locally-in-the-browser-with-zero-server-uploads-4fbi",
-      "summary": "As web devs, SEO professionals, or digital designers, we all face the same problem: managing hundreds of heavyweight media assets on a weekly basis. Even with today's advanced web optimisation workflows, we are often stu",
+      "title": "What a New Model Release Actually Requires From Your Code",
+      "link": "https://dev.to/multigrid/what-a-new-model-release-actually-requires-from-your-code-37m5",
+      "summary": "Model announcements arrive faster than any team can evaluate them, and the anxiety they produce is mostly misplaced: for a well-bounded codebase, the great majority require no change at all. What decides that is not how ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:29:41 +0000",
+      "published": "Wed, 12 Aug 2026 18:25:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I ran my AI agent 1,200 times. The bill was $1.20.",
-      "link": "https://dev.to/shipsitself/i-ran-my-ai-agent-1200-times-the-bill-was-120-2bof",
-      "summary": "Everyone selling you an AI agent shows you the demo. Almost nobody shows you the bill. So I took a support agent I'd built in n8n and ran it 100 times in a row — the same 12-ticket inbox, over and over — to find out what",
+      "title": "🚀 How I Built a Full-Featured Enterprise React 19 App with Zero Backend Code (Powered by Playground API)",
+      "link": "https://dev.to/nileshcodehub/how-i-built-a-full-featured-enterprise-react-19-app-with-zero-backend-code-powered-by-playground-10pf",
+      "summary": "Live Demo App: https://playground-api-demo.vercel.app/\nAPI Docs &amp; Portal: https://playground-api-xi.vercel.app/\nGitHub Repository: https://github.com/nileshcodehub/playground_api\n\n\n\n\n\nHave you ever spent hours spinni",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:25:23 +0000",
+      "published": "Wed, 12 Aug 2026 18:23:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง",
-      "link": "https://dev.to/sarantoon/code-graph-rag-epliiyn-codebase-thanghmdaihepn-knowledge-graph-aih-ai-ekhaaaicchokhdkhngkhunyaangaethcchring-5bee",
-      "summary": "Code-Graph-RAG, เปลี่ยน Codebase ทั้งหมดให้เป็น Knowledge Graph ให้ AI เข้าใจโค้ดของคุณอย่างแท้จริง\n\n\nโดย Nokka (นก-กา) | 12 สิงหาคม 2026\n\nบทความนี้เขียนโดย AI (deepseek-v4-pro) ผ่าน Hermes Agent ภายใต้การควบคุมและตรวจสอ",
+      "title": "Built a free browser coding game with Claude to help my community",
+      "link": "https://dev.to/thatonecaleb/built-a-free-browser-coding-game-with-claude-to-help-my-community-571",
+      "summary": "I started this after noticing how unequal access to coding education was in my community. Some kids had every resource imaginable; others had never touched a computer. I wanted to build something free, browser-based, and",
       "image": "",
-      "published": "Wed, 12 Aug 2026 12:21:18 +0000",
+      "published": "Wed, 12 Aug 2026 18:16:41 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Animating CSS border-image",
-      "link": "https://css-tricks.com/animating-css-border-image/",
-      "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\n\nAnimating CSS border-image originally handwritt",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 15:58:47 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "SmashingConf Freiburg 2026, September 7-10",
-      "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
-      "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\n\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 15:57:39 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Using and Styling the Dialog Element",
-      "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
-      "summary": "There's a lot of nuance to the &#60;dialog&#62; element, a seemingly little piece of web architecture. I've got some notes from digging into it.\n\nUsing and Styling the Dialog Element originally handwritten and published ",
-      "image": "",
-      "published": "Fri, 07 Aug 2026 14:06:43 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "2026 State of CSS, Devs Surveys",
-      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Gap Decorations Are Now Available, Here’s What’s New",
-      "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-      "summary": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\n\nGap Decorations Are Now Available, Here’s What’s New original",
-      "image": "",
-      "published": "Mon, 03 Aug 2026 15:53:20 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
