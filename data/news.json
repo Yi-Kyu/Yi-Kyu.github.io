@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-11T18:40:55.198753Z",
+  "updated": "2026-08-12T00:47:52.957545Z",
   "articles": [
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.\n\nThe bug sits in a core Windows kernel driver that handles network socket operations. An attack",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
+      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGDZmdQhY70KqvppH4w5wMVhbs804WeageCN1UXtRK4KpFkYWNk-wkTeTv9CUSNGYQMsaZ04XYWimXsIQmfl0uYSFgNJe7uBbXsg1xPw-cukXwJY3O3TAHUpWiiYmleWgDpu4PLMRfjgIQtOxb6Wq2yFjvqyb6lpoCOcOyWOpZoURLpddzyGkmc8soRHe/s1600/android-botnet.jpg",
+      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.\n\nThe flaw sat in the annotation tool, the feature that lets ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIX-dcsP7VVws3iI-g-myaz7Wyt8fgrlR9U3CtweEsSriOayyy8r9uyB_1mVcMhSBPyulDXj47SOLsWhl7XQjgMpLYGSjF79fiMTw7zEVOAceKqtAlHCVAMs38paehT0bmDN1zdAyMjHgvdUfYzqRCGEU1StMPyrYW5xIkJzG6DIHh9R9gemNCus_Mwlc/s1600/zoomsday.jpg",
+      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg",
+      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"Its recovery ecosyste",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg",
-      "published": "Tue, 11 Aug 2026 22:05:27 +0530",
-      "source": "The Hacker News",
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 18:15:22 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n\"Built on GPT‑5.6 Sol, it is trained to imp",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg",
-      "published": "Tue, 11 Aug 2026 18:41:23 +0530",
-      "source": "The Hacker News",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 17:07:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg",
-      "published": "Tue, 11 Aug 2026 17:35:03 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories.\n\nThat key is h",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg",
-      "published": "Tue, 11 Aug 2026 17:34:51 +0530",
-      "source": "The Hacker News",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 15:45:31 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -56,39 +83,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "summary": "Microsoft has released Windows 10 KB5120249 cumulative update for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
       "image": "",
       "published": "Tue, 11 Aug 2026 14:26:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others tha",
       "image": "",
-      "published": "Tue, 11 Aug 2026 14:08:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 13:38:42 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 11:59:35 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub ",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "summary": "Article URL: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\nComments URL: https://news.ycombinator.com/item?id=49265879\nPoints: 36\n# Comments: 23",
       "image": "",
-      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenSSH 10.5 released, AI fixes now welcome",
-      "link": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.5\nComments URL: https://news.ycombinator.com/item?id=49261895\nPoints: 9\n# Comments: 0",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 17:49:37 +0000",
+      "published": "Tue, 11 Aug 2026 23:26:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
-      "link": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-      "summary": "Article URL: https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/\nComments URL: https://news.ycombinator.com/item?id=49261218\nPoints: 180\n# Comments: 141",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 94\n# Comments: 31",
       "image": "",
-      "published": "Tue, 11 Aug 2026 17:02:59 +0000",
+      "published": "Tue, 11 Aug 2026 21:56:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "Article URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\nComments URL: https://news.ycombinator.com/item?id=49261133\nPoints: 88\n# Comments: 78",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\nComments URL: https://news.ycombinator.com/item?id=49265031\nPoints: 31\n# Comments: 2",
       "image": "",
-      "published": "Tue, 11 Aug 2026 16:57:09 +0000",
+      "published": "Tue, 11 Aug 2026 21:54:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "link": "https://github.com/TheRealYT/git-knife",
-      "summary": "Article URL: https://github.com/TheRealYT/git-knife\nComments URL: https://news.ycombinator.com/item?id=49259611\nPoints: 75\n# Comments: 56",
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "link": "https://www.suzanne3d.com/",
+      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 28\n# Comments: 20",
       "image": "",
-      "published": "Tue, 11 Aug 2026 15:09:34 +0000",
+      "published": "Tue, 11 Aug 2026 21:28:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "link": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "summary": "Article URL: https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md\nComments URL: https://news.ycombinator.com/item?id=49259339\nPoints: 197\n# Comments: 30",
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "link": "https://arxiv.org/abs/2601.01828",
+      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 19\n# Comments: 8",
       "image": "",
-      "published": "Tue, 11 Aug 2026 14:50:33 +0000",
+      "published": "Tue, 11 Aug 2026 21:14:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built 109 tools that never touch a server - here is the architecture",
-      "link": "https://dev.to/korelyy/i-built-109-tools-that-never-touch-a-server-here-is-the-architecture-499k",
-      "summary": "I built 109 tools that never touch a server - here is the architecture\n\n\nMost \"tools\" sites you have used do this:\n\n\nYou upload a file\nIt goes to a server\nThe server processes it\nYou download the result\n\n\nSometimes the s",
+      "title": "Test your Supabase RLS before you ship: a free red/green fixture and the 9 SQL checks a linter cannot run",
+      "link": "https://dev.to/cekuu35/test-your-supabase-rls-before-you-ship-a-free-redgreen-fixture-and-the-9-sql-checks-a-linter-388d",
+      "summary": "If you built a Supabase app quickly - with an AI coding tool or by hand - the row-level-security policies were often written last, or generated for you. That is fine. What is not fine is shipping without knowing whether ",
       "image": "",
-      "published": "Tue, 11 Aug 2026 18:34:13 +0000",
+      "published": "Wed, 12 Aug 2026 00:44:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Guy Who Invented the Internet's Front Door and Refused to Charge Rent",
-      "link": "https://dev.to/lovestaco/the-guy-who-invented-the-internets-front-door-and-refused-to-charge-rent-4igd",
-      "summary": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is free and source-available on Github. Star git-lrc to help devs discover the project. Do give it a try and share your f",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fecarx7yd1a0nxsskoenl.png",
-      "published": "Tue, 11 Aug 2026 18:31:35 +0000",
+      "title": "Mistral AI Third-Party Model Claim Raises Key Questions for Enterprise AI Teams",
+      "link": "https://dev.to/alifar/mistral-ai-third-party-model-claim-raises-key-questions-for-enterprise-ai-teams-29fi",
+      "summary": "A claim that Mistral AI is expanding its platform to host third-party open models, beginning with GLM-5.2, has raised a relevant question for enterprise AI teams: what would a credible multi-model platform offering need ",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 00:30:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built This to Fix One Task. It Turned Into Something You Can Run.",
-      "link": "https://dev.to/jeelvankhede/i-built-this-to-fix-one-task-it-turned-into-something-you-can-run-3hn9",
-      "summary": "There are two ways to work with an AI agent and I had tried both. Write the thing yourself and hand over only the tedious parts. Or hand over the whole task and audit whatever comes back at the end. The first is slow. Th",
+      "title": "Most \"big budget\" clipping campaigns never pay. Here's how to spot them from one scrape",
+      "link": "https://dev.to/tactful_anvil/most-big-budget-clipping-campaigns-never-pay-heres-how-to-spot-them-from-one-scrape-2ip0",
+      "summary": "If you clip short-form video for money, you know Whop Content Rewards: hundreds of live campaigns paying $0.15–$20 per 1,000 views. The discover page lets you sort by budget. That sort is quietly costing you nights of wo",
       "image": "",
-      "published": "Tue, 11 Aug 2026 18:28:06 +0000",
+      "published": "Wed, 12 Aug 2026 00:17:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Certificate Pinning in Flutter: Secure API Communication",
-      "link": "https://dev.to/vmodal_ai/certificate-pinning-in-flutter-secure-api-communication-2dee",
-      "summary": "Certificate Pinning in Flutter: Secure API Communication\n\n\nMobile applications frequently communicate with backend APIs. HTTPS protects traffic in transit, but some applications require an additional layer of trust verif",
+      "title": "Prompt Injection Hiding in a GitHub README",
+      "link": "https://dev.to/__declspec/prompt-injection-hiding-in-a-github-readme-2h7m",
+      "summary": "Claude Code was fetching pages for me during a research session, one of them a GitHub repository page. Buried in the middle of the fetched text, between the project description and the install instructions, sat a &lt;sys",
       "image": "",
-      "published": "Tue, 11 Aug 2026 18:27:54 +0000",
+      "published": "Wed, 12 Aug 2026 00:16:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Flutter CI/CD with GitHub Actions: Automate Testing and Builds",
-      "link": "https://dev.to/vmodal_ai/flutter-cicd-with-github-actions-automate-testing-and-builds-71c",
-      "summary": "Flutter CI/CD with GitHub Actions: Automate Testing and Builds\n\n\nManually running tests and building Flutter applications before every release is slow and error-prone.\n\nWith GitHub Actions, you can automate Flutter analy",
+      "title": "Mistral 3 Advances an Open Multimodal AI Platform Across Cloud, Data Center and Edge",
+      "link": "https://dev.to/alifar/mistral-3-advances-an-open-multimodal-ai-platform-across-cloud-data-center-and-edge-2do0",
+      "summary": "Mistral AI is turning its open-model strategy into a broader deployment proposition. Its December 2, 2025 Mistral 3 release combines dense and mixture-of-experts models, multilingual and image-understanding capabilities,",
       "image": "",
-      "published": "Tue, 11 Aug 2026 18:27:40 +0000",
+      "published": "Wed, 12 Aug 2026 00:15:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
