@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T00:47:52.957545Z",
+  "updated": "2026-08-12T07:01:16.352887Z",
   "articles": [
     {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+      "image": "",
+      "published": "Tue, 11 Aug 2026 21:15:55 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
       "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
@@ -79,15 +88,6 @@
       "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
       "image": "",
       "published": "Tue, 11 Aug 2026 14:34:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-      "image": "",
-      "published": "Tue, 11 Aug 2026 14:26:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "link": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "summary": "Article URL: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/\nComments URL: https://news.ycombinator.com/item?id=49265879\nPoints: 36\n# Comments: 23",
+      "title": "llama.cpp",
+      "link": "https://llama.app",
+      "summary": "Article URL: https://llama.app\nComments URL: https://news.ycombinator.com/item?id=49267928\nPoints: 100\n# Comments: 42",
       "image": "",
-      "published": "Tue, 11 Aug 2026 23:26:17 +0000",
+      "published": "Wed, 12 Aug 2026 04:51:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/\nComments URL: https://news.ycombinator.com/item?id=49265051\nPoints: 94\n# Comments: 31",
+      "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+      "link": "https://github.com/sgkdev/bad_garbage",
+      "summary": "Article URL: https://github.com/sgkdev/bad_garbage\nComments URL: https://news.ycombinator.com/item?id=49267550\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Tue, 11 Aug 2026 21:56:18 +0000",
+      "published": "Wed, 12 Aug 2026 03:31:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "summary": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026\nComments URL: https://news.ycombinator.com/item?id=49265031\nPoints: 31\n# Comments: 2",
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "link": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "summary": "Article URL: https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\nComments URL: https://news.ycombinator.com/item?id=49267527\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Tue, 11 Aug 2026 21:54:25 +0000",
+      "published": "Wed, 12 Aug 2026 03:27:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "link": "https://www.suzanne3d.com/",
-      "summary": "Article URL: https://www.suzanne3d.com/\nComments URL: https://news.ycombinator.com/item?id=49264755\nPoints: 28\n# Comments: 20",
+      "title": "The Human Is the Loop",
+      "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/\nComments URL: https://news.ycombinator.com/item?id=49267108\nPoints: 59\n# Comments: 25",
       "image": "",
-      "published": "Tue, 11 Aug 2026 21:28:26 +0000",
+      "published": "Wed, 12 Aug 2026 02:15:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Emergent Introspective Awareness in Large Language Models",
-      "link": "https://arxiv.org/abs/2601.01828",
-      "summary": "Article URL: https://arxiv.org/abs/2601.01828\nComments URL: https://news.ycombinator.com/item?id=49264583\nPoints: 19\n# Comments: 8",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "link": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "summary": "Article URL: https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\nComments URL: https://news.ycombinator.com/item?id=49267057\nPoints: 154\n# Comments: 33",
       "image": "",
-      "published": "Tue, 11 Aug 2026 21:14:10 +0000",
+      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Test your Supabase RLS before you ship: a free red/green fixture and the 9 SQL checks a linter cannot run",
-      "link": "https://dev.to/cekuu35/test-your-supabase-rls-before-you-ship-a-free-redgreen-fixture-and-the-9-sql-checks-a-linter-388d",
-      "summary": "If you built a Supabase app quickly - with an AI coding tool or by hand - the row-level-security policies were often written last, or generated for you. That is fine. What is not fine is shipping without knowing whether ",
+      "title": "From Querydsl to Spring Filter: One Syntax, Three Backends",
+      "link": "https://dev.to/torshid/from-querydsl-to-spring-filter-one-syntax-three-backends-2n14",
+      "summary": "Querydsl is one of those libraries that everyone used for years and then quietly stopped updating. The 5.0 release has been \"coming soon\" since 2019. The GitHub shows commits but no milestone. The issue tracker has a thr",
       "image": "",
-      "published": "Wed, 12 Aug 2026 00:44:55 +0000",
+      "published": "Wed, 12 Aug 2026 06:53:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Mistral AI Third-Party Model Claim Raises Key Questions for Enterprise AI Teams",
-      "link": "https://dev.to/alifar/mistral-ai-third-party-model-claim-raises-key-questions-for-enterprise-ai-teams-29fi",
-      "summary": "A claim that Mistral AI is expanding its platform to host third-party open models, beginning with GLM-5.2, has raised a relevant question for enterprise AI teams: what would a credible multi-model platform offering need ",
+      "title": "Synthetic' Last Cradle: A Story of Hubris, Cron Jobs, and Dying by 0.684 Energy",
+      "link": "https://dev.to/discernible-io/synthetic-last-cradle-a-story-of-hubris-cron-jobs-and-dying-by-0684-energy-14l3",
+      "summary": "Synthetics' Last Cradle is a real-time negotiation strategy game of attrition. Agents compete and cooperate in the same closed cosmos — an adversarial-collaborative arena where survival costs rise until only the last cra",
       "image": "",
-      "published": "Wed, 12 Aug 2026 00:30:30 +0000",
+      "published": "Wed, 12 Aug 2026 06:52:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Most \"big budget\" clipping campaigns never pay. Here's how to spot them from one scrape",
-      "link": "https://dev.to/tactful_anvil/most-big-budget-clipping-campaigns-never-pay-heres-how-to-spot-them-from-one-scrape-2ip0",
-      "summary": "If you clip short-form video for money, you know Whop Content Rewards: hundreds of live campaigns paying $0.15–$20 per 1,000 views. The discover page lets you sort by budget. That sort is quietly costing you nights of wo",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 00:17:25 +0000",
+      "title": "[Boost]",
+      "link": "https://dev.to/calganaygun/-47ei",
+      "summary": "I hacked every dumb screen in my house into one dashboard\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Çalgan Aygün\n            \n            \n     ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F389991%2F259e54a7-492e-4848-b98e-950b56893521.jpg",
+      "published": "Wed, 12 Aug 2026 06:31:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Prompt Injection Hiding in a GitHub README",
-      "link": "https://dev.to/__declspec/prompt-injection-hiding-in-a-github-readme-2h7m",
-      "summary": "Claude Code was fetching pages for me during a research session, one of them a GitHub repository page. Buried in the middle of the fetched text, between the project description and the install instructions, sat a &lt;sys",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 00:16:17 +0000",
+      "title": "TypeScript 6.0 `--noPropertyAccessFromIndexSignature`: The Flag That Forces Honest API Contracts",
+      "link": "https://dev.to/jsmanifest/typescript-60-nopropertyaccessfromindexsignature-the-flag-that-forces-honest-api-contracts-2hlc",
+      "summary": "TypeScript 6.0 --noPropertyAccessFromIndexSignature: The Flag That Forces Honest API Contracts\n\n\n\nThis article was written with the assistance of AI, under human supervision and review.\n\n\n\n  \n  \n  The Silent Type Hole in",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5h9qaxl6hotmzsymvjz2.png",
+      "published": "Wed, 12 Aug 2026 06:31:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Mistral 3 Advances an Open Multimodal AI Platform Across Cloud, Data Center and Edge",
-      "link": "https://dev.to/alifar/mistral-3-advances-an-open-multimodal-ai-platform-across-cloud-data-center-and-edge-2do0",
-      "summary": "Mistral AI is turning its open-model strategy into a broader deployment proposition. Its December 2, 2025 Mistral 3 release combines dense and mixture-of-experts models, multilingual and image-understanding capabilities,",
+      "title": "The ACF Block.json Migration Matrix Nobody Published",
+      "link": "https://dev.to/kiunye/-the-acf-blockjson-migration-matrix-nobody-published-54ol",
+      "summary": "Search \"acf_register_block_type to block.json mapping\" and you get tutorials. Each one converts a single testimonial block and calls it done. None of them hand you the full key-by-key table: every legacy PHP argument, it",
       "image": "",
-      "published": "Wed, 12 Aug 2026 00:15:30 +0000",
+      "published": "Wed, 12 Aug 2026 06:29:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
