@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-13T00:50:09.725870Z",
+  "updated": "2026-08-13T07:05:09.259276Z",
   "articles": [
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\nThe vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which r",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
+      "published": "Thu, 13 Aug 2026 11:39:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
@@ -34,15 +43,6 @@
       "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.\n\nAccording to Picus Labs' new Blue Report 2026, which measured more than 338 million real attac",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg",
       "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg",
-      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,9 +137,27 @@
       "category": "cybersecurity"
     },
     {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "link": "https://openai.com/codex/",
+      "summary": "Article URL: https://openai.com/codex/\nComments URL: https://news.ycombinator.com/item?id=49281916\nPoints: 17\n# Comments: 3",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 04:53:41 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "link": "https://celld.dev/",
+      "summary": "Article URL: https://celld.dev/\nComments URL: https://news.ycombinator.com/item?id=49281839\nPoints: 9\n# Comments: 0",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 04:37:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "link": "https://www.ballet.dev/",
-      "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 11\n# Comments: 1",
+      "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 29\n# Comments: 7",
       "image": "",
       "published": "Thu, 13 Aug 2026 00:01:43 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +166,63 @@
     {
       "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
       "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 10\n# Comments: 1",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 72\n# Comments: 20",
       "image": "",
       "published": "Wed, 12 Aug 2026 23:50:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What's New in Flutter 3.47",
+      "title": "Flutter 3.47",
       "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 9\n# Comments: 1",
+      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 72\n# Comments: 63",
       "image": "",
       "published": "Wed, 12 Aug 2026 23:46:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Build Wide, Ship Narrow",
-      "link": "https://adapt.com/blog/build-wide-ship-narrow",
-      "summary": "Article URL: https://adapt.com/blog/build-wide-ship-narrow\nComments URL: https://news.ycombinator.com/item?id=49280047\nPoints: 10\n# Comments: 0",
+      "title": "Cloudflare Origin Hardening Checklist: Firewall, Bots, Strict SSL",
+      "link": "https://dev.to/oleksandr_kuryzhev_42873f/cloudflare-origin-hardening-checklist-firewall-bots-strict-ssl-dan",
+      "summary": "Originally published on kuryzhev.cloud\n\n\n\n\nWhy this checklist\n\n\n\nA client of mine once showed me their Cloudflare dashboard during what they thought was a DDoS attack. Traffic graphs were flat. Zero anomalies. Meanwhile ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 23:43:48 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "summary": "Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\nComments URL: https://news.ycombinator.com/item?id=49279928\nPoints: 16\n# Comments: 1",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Docker no dia a dia - comandos essenciais e primeiros containers reais",
-      "link": "https://dev.to/apsis-cc/docker-no-dia-a-dia-comandos-essenciais-e-primeiros-containers-reais-5cd9",
-      "summary": "1. Retomando: de imagens a containers em execução\n\n\nNa primeira parte desta série vimos o que é o Docker, o problema que ele resolve e os três conceitos fundamentais — imagens, containers e registries. Agora que a base t",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 00:23:30 +0000",
+      "published": "Thu, 13 Aug 2026 07:02:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Product Builder? Is this realistic?",
-      "link": "https://dev.to/deepdiver16/ai-product-builder-is-this-realistic-4d94",
-      "summary": "I recently came across a new type of role advertised in career postings, the one of an \"AI Product Builder\": a seasoned individual who works as a hybrid between a product manager and developer. The premise is founded on ",
+      "title": "An AI agent read 13 invoices and blocked $1,411.25 in bad payments",
+      "link": "https://dev.to/shipsitself/an-ai-agent-read-13-invoices-and-blocked-141125-in-bad-payments-3npi",
+      "summary": "I handed an AI agent 13 invoices and a list of what we had actually ordered. It approved 10 of them, $9,049.05, and refused 3. The 3 it refused were the exact 3 I had rigged to be wrong: a padded total, an invoice nobody",
       "image": "",
-      "published": "Thu, 13 Aug 2026 00:15:11 +0000",
+      "published": "Thu, 13 Aug 2026 07:02:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Architecting a Real-Time Collaborative Task Board",
-      "link": "https://dev.to/andres_bedoya_dev/architecting-a-real-time-collaborative-task-board-52fh",
-      "summary": "Building rich, collaborative web interfaces today requires much more than simply rendering components to the DOM. It demands rigorous planning around rendering performance, deterministic state management, and network res",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd2dtdthf7h6zxo72o0qg.png",
-      "published": "Thu, 13 Aug 2026 00:09:07 +0000",
+      "title": "From Idea to Deployed Bot in One Weekend: A No-Code-to-Python Journey",
+      "link": "https://dev.to/aimigo_57e64d6aeaf6a67a02/from-idea-to-deployed-bot-in-one-weekend-a-no-code-to-python-journey-1dcc",
+      "summary": "From Idea to Deployed Bot in One Weekend: A No-Code-to-Python Journey\n\n\nYou don’t need a development team to ship a functional trading or scraping bot in 48 hours. The fastest path is not “learn Python first,” but rather",
+      "image": "",
+      "published": "Thu, 13 Aug 2026 07:00:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Remote Coding Agent Can Deadlock on a Local Permission Dialog",
-      "link": "https://dev.to/bobleer/a-remote-coding-agent-can-deadlock-on-a-local-permission-dialog-o44",
-      "summary": "The nastiest failure mode in a remote coding agent is not a bad patch.\n\nIt is a permission prompt that nobody can see.\n\nYou start a long-running job on a workstation, leave the desk, and check it from a phone later. The ",
+      "title": "Why a tumbling dice animation has to know the result before it ever starts spinning",
+      "link": "https://dev.to/begoodtool/why-a-tumbling-dice-animation-has-to-know-the-result-before-it-ever-starts-spinning-2bk2",
+      "summary": "A while back I set out to build a simple \"roll N dice\" page — pick a quantity, hit a button, get a total. The random-number part is trivial, one line: Math.floor(Math.random() * 6) + 1 in a loop. What actually took thoug",
       "image": "",
-      "published": "Thu, 13 Aug 2026 00:07:48 +0000",
+      "published": "Thu, 13 Aug 2026 07:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I measured 681 AI sessions: where your money actually goes",
-      "link": "https://dev.to/cadrekit/i-measured-681-ai-sessions-where-your-money-actually-goes-521g",
-      "summary": "You look at the bill and it makes no sense. You did not feel like you worked more than usual, you asked the same kinds of questions, and the counter doubled anyway. Nobody tells you where it went, so you assume you must ",
+      "title": "Your rate limiter is broken behind a tunnel — the X-Forwarded-For problem",
+      "link": "https://dev.to/gokulnh/your-rate-limiter-is-broken-behind-a-tunnel-the-x-forwarded-for-problem-3923",
+      "summary": "You put your app behind a tunnel (or any reverse proxy) to test\n   webhooks. Everything works. Then you notice something odd in your logs:\n   every single request comes from the same IP address.\n\n\n Congratulations, you'v",
       "image": "",
-      "published": "Thu, 13 Aug 2026 00:06:06 +0000",
+      "published": "Thu, 13 Aug 2026 06:46:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
