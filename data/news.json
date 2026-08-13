@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:42:12.541295Z",
+  "updated": "2026-08-13T00:50:09.725870Z",
   "articles": [
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 18:22:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 16:54:59 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 14:54:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
       "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
       "image": "",
       "published": "Wed, 12 Aug 2026 12:05:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 11:38:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness ch",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 08:25:37 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Zed: Delta",
-      "link": "https://zed.dev/blog/introducing-delta",
-      "summary": "Article URL: https://zed.dev/blog/introducing-delta\nComments URL: https://news.ycombinator.com/item?id=49276574\nPoints: 6\n# Comments: 0",
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "link": "https://www.ballet.dev/",
+      "summary": "Article URL: https://www.ballet.dev/\nComments URL: https://news.ycombinator.com/item?id=49280184\nPoints: 11\n# Comments: 1",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+      "published": "Thu, 13 Aug 2026 00:01:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Agentic Engineering Is Just Everything We Haven't Been Doing",
-      "link": "https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/",
-      "summary": "Article URL: https://blog.matthewbrunelle.com/agentic-engineering-is-just-everything-we-havent-been-doing/\nComments URL: https://news.ycombinator.com/item?id=49276488\nPoints: 9\n# Comments: 1",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45\nComments URL: https://news.ycombinator.com/item?id=49280103\nPoints: 10\n# Comments: 1",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:13:45 +0000",
+      "published": "Wed, 12 Aug 2026 23:50:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49275465\nPoints: 0\n# Comments: 0",
+      "title": "What's New in Flutter 3.47",
+      "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "summary": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47\nComments URL: https://news.ycombinator.com/item?id=49280061\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Wed, 12 Aug 2026 17:00:21 +0000",
+      "published": "Wed, 12 Aug 2026 23:46:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\nComments URL: https://news.ycombinator.com/item?id=49275385\nPoints: 146\n# Comments: 101",
+      "title": "Build Wide, Ship Narrow",
+      "link": "https://adapt.com/blog/build-wide-ship-narrow",
+      "summary": "Article URL: https://adapt.com/blog/build-wide-ship-narrow\nComments URL: https://news.ycombinator.com/item?id=49280047\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Wed, 12 Aug 2026 16:54:25 +0000",
+      "published": "Wed, 12 Aug 2026 23:43:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "summary": "Article URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\nComments URL: https://news.ycombinator.com/item?id=49275335\nPoints: 32\n# Comments: 22",
+      "title": "Principia Mathematica is modern and insightful",
+      "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "summary": "Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html\nComments URL: https://news.ycombinator.com/item?id=49279928\nPoints: 16\n# Comments: 1",
       "image": "",
-      "published": "Wed, 12 Aug 2026 16:51:25 +0000",
+      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Detecting Drift in Infrastructure as Code",
-      "link": "https://dev.to/vprachi360/detecting-drift-in-infrastructure-as-code-1ke5",
-      "summary": "The Problem: Drift Detection in Infrastructure-as-Code\n\n\nIn production environments, infrastructure-as-code (IaC) tools like Terraform are widely used to manage and provision infrastructure. However, a common issue that ",
+      "title": "Docker no dia a dia - comandos essenciais e primeiros containers reais",
+      "link": "https://dev.to/apsis-cc/docker-no-dia-a-dia-comandos-essenciais-e-primeiros-containers-reais-5cd9",
+      "summary": "1. Retomando: de imagens a containers em execução\n\n\nNa primeira parte desta série vimos o que é o Docker, o problema que ele resolve e os três conceitos fundamentais — imagens, containers e registries. Agora que a base t",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:36:28 +0000",
+      "published": "Thu, 13 Aug 2026 00:23:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zod Schemas as Output Contracts",
-      "link": "https://dev.to/multigrid/zod-schemas-as-output-contracts-3ej5",
-      "summary": "A model returns a string. Your component needs an object. Everything between those two sentences is where AI features break in production, and one Zod schema can own all of it: the constraint sent to the model, the valid",
+      "title": "AI Product Builder? Is this realistic?",
+      "link": "https://dev.to/deepdiver16/ai-product-builder-is-this-realistic-4d94",
+      "summary": "I recently came across a new type of role advertised in career postings, the one of an \"AI Product Builder\": a seasoned individual who works as a hybrid between a product manager and developer. The premise is founded on ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:26:11 +0000",
+      "published": "Thu, 13 Aug 2026 00:15:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What a New Model Release Actually Requires From Your Code",
-      "link": "https://dev.to/multigrid/what-a-new-model-release-actually-requires-from-your-code-37m5",
-      "summary": "Model announcements arrive faster than any team can evaluate them, and the anxiety they produce is mostly misplaced: for a well-bounded codebase, the great majority require no change at all. What decides that is not how ",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 18:25:24 +0000",
+      "title": "Architecting a Real-Time Collaborative Task Board",
+      "link": "https://dev.to/andres_bedoya_dev/architecting-a-real-time-collaborative-task-board-52fh",
+      "summary": "Building rich, collaborative web interfaces today requires much more than simply rendering components to the DOM. It demands rigorous planning around rendering performance, deterministic state management, and network res",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd2dtdthf7h6zxo72o0qg.png",
+      "published": "Thu, 13 Aug 2026 00:09:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🚀 How I Built a Full-Featured Enterprise React 19 App with Zero Backend Code (Powered by Playground API)",
-      "link": "https://dev.to/nileshcodehub/how-i-built-a-full-featured-enterprise-react-19-app-with-zero-backend-code-powered-by-playground-10pf",
-      "summary": "Live Demo App: https://playground-api-demo.vercel.app/\nAPI Docs &amp; Portal: https://playground-api-xi.vercel.app/\nGitHub Repository: https://github.com/nileshcodehub/playground_api\n\n\n\n\n\nHave you ever spent hours spinni",
+      "title": "A Remote Coding Agent Can Deadlock on a Local Permission Dialog",
+      "link": "https://dev.to/bobleer/a-remote-coding-agent-can-deadlock-on-a-local-permission-dialog-o44",
+      "summary": "The nastiest failure mode in a remote coding agent is not a bad patch.\n\nIt is a permission prompt that nobody can see.\n\nYou start a long-running job on a workstation, leave the desk, and check it from a phone later. The ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:23:31 +0000",
+      "published": "Thu, 13 Aug 2026 00:07:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Built a free browser coding game with Claude to help my community",
-      "link": "https://dev.to/thatonecaleb/built-a-free-browser-coding-game-with-claude-to-help-my-community-571",
-      "summary": "I started this after noticing how unequal access to coding education was in my community. Some kids had every resource imaginable; others had never touched a computer. I wanted to build something free, browser-based, and",
+      "title": "I measured 681 AI sessions: where your money actually goes",
+      "link": "https://dev.to/cadrekit/i-measured-681-ai-sessions-where-your-money-actually-goes-521g",
+      "summary": "You look at the bill and it makes no sense. You did not feel like you worked more than usual, you asked the same kinds of questions, and the counter doubled anyway. Nobody tells you where it went, so you assume you must ",
       "image": "",
-      "published": "Wed, 12 Aug 2026 18:16:41 +0000",
+      "published": "Thu, 13 Aug 2026 00:06:06 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+      "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+      "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\n\nBlocked aria-hidden: The Warning is Right, and Every Fix You&#8217;ve Found is ",
+      "image": "",
+      "published": "Wed, 12 Aug 2026 13:43:56 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Animating CSS border-image",
+      "link": "https://css-tricks.com/animating-css-border-image/",
+      "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\n\nAnimating CSS border-image originally handwritt",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 15:58:47 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "SmashingConf Freiburg 2026, September 7-10",
+      "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+      "summary": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\n\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on",
+      "image": "",
+      "published": "Mon, 10 Aug 2026 15:57:39 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Using and Styling the Dialog Element",
+      "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+      "summary": "There's a lot of nuance to the &#60;dialog&#62; element, a seemingly little piece of web architecture. I've got some notes from digging into it.\n\nUsing and Styling the Dialog Element originally handwritten and published ",
+      "image": "",
+      "published": "Fri, 07 Aug 2026 14:06:43 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "2026 State of CSS, Devs Surveys",
+      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
+      "image": "",
+      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
