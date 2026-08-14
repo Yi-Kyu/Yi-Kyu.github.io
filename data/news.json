@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:33:05.342182Z",
+  "updated": "2026-08-14T18:36:27.168311Z",
   "articles": [
     {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 14:04:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 10:59:55 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 09:45:18 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
       "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
       "image": "",
       "published": "Fri, 14 Aug 2026 07:55:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "image": "",
-      "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Data analyst sent to prison for stealing data, extorting employer",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-      "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
-      "image": "",
-      "published": "Fri, 14 Aug 2026 04:27:18 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 21:19:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-      "image": "",
-      "published": "Thu, 13 Aug 2026 17:12:47 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/\nComments URL: https://news.ycombinator.com/item?id=49296740\nPoints: 134\n# Comments: 117",
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "link": "https://arxiv.org/abs/2608.12700",
+      "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+      "published": "Fri, 14 Aug 2026 16:57:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek peak/off-peak pricing update",
-      "link": "https://api-docs.deepseek.com/news/news260813/",
-      "summary": "Article URL: https://api-docs.deepseek.com/news/news260813/\nComments URL: https://news.ycombinator.com/item?id=49296627\nPoints: 76\n# Comments: 30",
+      "title": "Discrete Fourier Transform by Hand",
+      "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+      "summary": "Article URL: https://www.byhand.ai/p/28-discrete-fourier-transform\nComments URL: https://news.ycombinator.com/item?id=49301342\nPoints: 13\n# Comments: 1",
       "image": "",
-      "published": "Fri, 14 Aug 2026 09:55:33 +0000",
+      "published": "Fri, 14 Aug 2026 16:52:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "summary": "Article URL: https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\nComments URL: https://news.ycombinator.com/item?id=49295238\nPoints: 45\n# Comments: 11",
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo\nComments URL: https://news.ycombinator.com/item?id=49301260\nPoints: 143\n# Comments: 75",
       "image": "",
-      "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+      "published": "Fri, 14 Aug 2026 16:45:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "link": "https://z.ai/blog/glm-5.3",
-      "summary": "Article URL: https://z.ai/blog/glm-5.3\nComments URL: https://news.ycombinator.com/item?id=49294997\nPoints: 621\n# Comments: 307",
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "link": "https://luacad.ad-si.com",
+      "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a desktop app, including a preview area and a text editor.I've always b",
       "image": "",
-      "published": "Fri, 14 Aug 2026 05:19:59 +0000",
+      "published": "Fri, 14 Aug 2026 16:43:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-      "link": "https://github.com/JustVugg/lumabri",
-      "summary": "Article URL: https://github.com/JustVugg/lumabri\nComments URL: https://news.ycombinator.com/item?id=49293523\nPoints: 34\n# Comments: 12",
+      "title": "Maximizing the value of your Claude Code sessions",
+      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 37\n# Comments: 21",
       "image": "",
-      "published": "Fri, 14 Aug 2026 00:47:04 +0000",
+      "published": "Fri, 14 Aug 2026 16:15:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Notes to Self: The Interview Between an Issue and a Spec",
-      "link": "https://dev.to/virorum/notes-to-self-the-interview-between-an-issue-and-a-spec-4phc",
-      "summary": "On 1 August I opened an issue that was three sentences long. A hundred and one minutes later\nthe feature was merged, and the document that got it there ran to\n457 lines.\n\nI didn't write those 457 lines. In fact, I didn't",
+      "title": "Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen",
+      "link": "https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47",
+      "summary": "I kept paying a monthly subscription for a cloud coding assistant while a 16GB M4 Mac mini sat on my desk idling most of the day. So I ran the obvious experiment: can a 16GB Mac mini run a coding assistant entirely offli",
       "image": "",
-      "published": "Fri, 14 Aug 2026 12:25:24 +0000",
+      "published": "Fri, 14 Aug 2026 18:35:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My Job Hasn't Changed. My Day Has.",
-      "link": "https://dev.to/jensreynderstech/my-job-hasnt-changed-my-day-has-1ci3",
-      "summary": "Times are changing, my role is changing, my focus is changing, my impact is changing. But in essence – I'm still doing the same. I still build products that drive impact. Only my day-to-day looks completely different.\n\nT",
+      "title": "Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare",
+      "link": "https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o",
+      "summary": "You own a domain. Your website lives on it. With Cloudflare's free plan you can make anything@yourdomain.com - any address, invented on the spot - land in your regular Gmail inbox. No Google Workspace subscription, no ma",
       "image": "",
-      "published": "Fri, 14 Aug 2026 12:25:08 +0000",
+      "published": "Fri, 14 Aug 2026 18:29:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One Ciphertext, Two Valid Plaintexts: Why AEAD Needs Key Commitment",
-      "link": "https://dev.to/havenmessenger/one-ciphertext-two-valid-plaintexts-why-aead-needs-key-commitment-l8k",
-      "summary": "Modern encryption is almost always AEAD: authenticated encryption with associated data. AES-GCM and ChaCha20-Poly1305 are the two you meet everywhere, in TLS, in disk encryption, in message formats, in cloud key manageme",
+      "title": "Building FinSaathi: A Voice-First Financial Assistant for Bharat 🇮🇳 10 Days of Voice Agents — VoiceForBharat Edition",
+      "link": "https://dev.to/nipun_goel_720eefc9d5f127/building-finsaathi-a-voice-first-financial-assistant-for-bharat-10-days-of-voice-agents--2f94",
+      "summary": "Over the last 10 days, I built FinSaathi, a voice-first AI assistant for the Financial Services track of the VoiceForBharat challenge.\nThe goal was simple: build an assistant that can talk naturally with users, understan",
       "image": "",
-      "published": "Fri, 14 Aug 2026 12:21:14 +0000",
+      "published": "Fri, 14 Aug 2026 18:21:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Before You Merge AI-Generated Code, Ask These 12 Questions",
-      "link": "https://dev.to/codzee_io/before-you-merge-ai-generated-code-ask-these-12-questions-14p3",
-      "summary": "I've merged plenty of AI-generated code that was genuinely fine. I've also caught myself almost merging code that looked fine and wasn't, because it read like something a competent person wrote and my brain filled in the",
+      "title": "We wrote 25 Matrix bridges in 7 languages, and we did not get to choose",
+      "link": "https://dev.to/nevai/we-wrote-25-matrix-bridges-in-7-languages-and-we-did-not-get-to-choose-43df",
+      "summary": "What happens when you stop picking a stack and let each protocol pick one for you.\n\n\n\n\nEvery engineering team has a stack. Ours has seven, and we did not decide on any of them.\n\nNevai is a self-hosted, end-to-end encrypt",
       "image": "",
-      "published": "Fri, 14 Aug 2026 12:21:07 +0000",
+      "published": "Fri, 14 Aug 2026 18:20:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "High-Speed eBPF/XDP Packet Filtering for Linux Server DDoS Mitigation",
-      "link": "https://dev.to/aomiqaza/high-speed-ebpfxdp-packet-filtering-for-linux-server-ddos-mitigation-1hcp",
-      "summary": "High-Speed eBPF/XDP Packet Filtering for Linux Server DDoS Mitigation\n\n\n\n\n\n\n  \n  \n  Executive Summary\n\n\nExecutive Summary &amp; Key Security Takeaways\n\n← Back to Articles\n\n\nLinux Kernel • XDP DDoS Defense\nHigh-Speed eBPF",
+      "title": "The Color Math Was Never the Slow Part",
+      "link": "https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2",
+      "summary": "The first version of my image-to-Minecraft-blocks converter locked up the browser tab for long enough that I assumed something had crashed. I dropped in a photo straight off my phone, hit convert, and the page stopped re",
       "image": "",
-      "published": "Fri, 14 Aug 2026 12:18:11 +0000",
+      "published": "Fri, 14 Aug 2026 18:17:42 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+      "link": "https://css-tricks.com/whats-important-17/",
+      "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\n\nWhat’s !important #17: Custom Highlight ",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 14:01:51 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "There's a lot of nuance to the &#60;dialog&#62; element, a seemingly little piece of web architecture. I've got some notes from digging into it.\n\nUsing and Styling the Dialog Element originally handwritten and published ",
       "image": "",
       "published": "Fri, 07 Aug 2026 14:06:43 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "2026 State of CSS, Devs Surveys",
-      "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
-      "summary": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get",
-      "image": "",
-      "published": "Thu, 06 Aug 2026 15:54:52 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
