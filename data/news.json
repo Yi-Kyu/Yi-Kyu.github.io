@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T18:36:27.168311Z",
+  "updated": "2026-08-15T00:27:25.443132Z",
   "articles": [
     {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+      "image": "",
+      "published": "Fri, 14 Aug 2026 19:24:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
       "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
@@ -79,15 +88,6 @@
       "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
       "image": "",
       "published": "Fri, 14 Aug 2026 09:45:18 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "image": "",
-      "published": "Fri, 14 Aug 2026 07:55:45 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "link": "https://arxiv.org/abs/2608.12700",
-      "summary": "Article URL: https://arxiv.org/abs/2608.12700\nComments URL: https://news.ycombinator.com/item?id=49301417\nPoints: 4\n# Comments: 0",
+      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+      "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+      "summary": "Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697\nComments URL: https://news.ycombinator.com/item?id=49305927\nPoints: 29\n# Comments: 3",
       "image": "",
-      "published": "Fri, 14 Aug 2026 16:57:14 +0000",
+      "published": "Fri, 14 Aug 2026 23:40:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Discrete Fourier Transform by Hand",
-      "link": "https://www.byhand.ai/p/28-discrete-fourier-transform",
-      "summary": "Article URL: https://www.byhand.ai/p/28-discrete-fourier-transform\nComments URL: https://news.ycombinator.com/item?id=49301342\nPoints: 13\n# Comments: 1",
+      "title": "The case for overhauling American science",
+      "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science\nComments URL: https://news.ycombinator.com/item?id=49305708\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Fri, 14 Aug 2026 16:52:46 +0000",
+      "published": "Fri, 14 Aug 2026 23:11:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "link": "https://www.bbc.com/news/articles/ce97mm3vvemo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/ce97mm3vvemo\nComments URL: https://news.ycombinator.com/item?id=49301260\nPoints: 143\n# Comments: 75",
+      "title": "Stop sending me huge PRs; a rant",
+      "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+      "summary": "Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va\nComments URL: https://news.ycombinator.com/item?id=49305558\nPoints: 20\n# Comments: 4",
       "image": "",
-      "published": "Fri, 14 Aug 2026 16:45:49 +0000",
+      "published": "Fri, 14 Aug 2026 22:48:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "link": "https://luacad.ad-si.com",
-      "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator\noverloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a desktop app, including a preview area and a text editor.I've always b",
+      "title": "RISC-V: They should have known better",
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "summary": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV\nComments URL: https://news.ycombinator.com/item?id=49305492\nPoints: 74\n# Comments: 39",
       "image": "",
-      "published": "Fri, 14 Aug 2026 16:43:22 +0000",
+      "published": "Fri, 14 Aug 2026 22:38:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions\nComments URL: https://news.ycombinator.com/item?id=49300800\nPoints: 37\n# Comments: 21",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\nComments URL: https://news.ycombinator.com/item?id=49304447\nPoints: 155\n# Comments: 98",
       "image": "",
-      "published": "Fri, 14 Aug 2026 16:15:21 +0000",
+      "published": "Fri, 14 Aug 2026 20:52:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen",
-      "link": "https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47",
-      "summary": "I kept paying a monthly subscription for a cloud coding assistant while a 16GB M4 Mac mini sat on my desk idling most of the day. So I ran the obvious experiment: can a 16GB Mac mini run a coding assistant entirely offli",
+      "title": "Environment Variables the Safe Way",
+      "link": "https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh",
+      "summary": "Why Environment Variables Matter\n\n\nEvery app has secrets: API keys, database URLs, admin passwords. Hardcoding them in source code is a one-way ticket to leaks. Even if your repo is private, you never know who forks it o",
       "image": "",
-      "published": "Fri, 14 Aug 2026 18:35:16 +0000",
+      "published": "Sat, 15 Aug 2026 00:02:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare",
-      "link": "https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o",
-      "summary": "You own a domain. Your website lives on it. With Cloudflare's free plan you can make anything@yourdomain.com - any address, invented on the spot - land in your regular Gmail inbox. No Google Workspace subscription, no ma",
+      "title": "Building a Zero-Cloud Android Service: Privacy by Architecture",
+      "link": "https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml",
+      "summary": "It happened during a quiet Friday sermon at the local masjid. The room was dense with silence, the kind that feels heavy and intentional. Suddenly, a jarring ringtone shattered the atmosphere—someone’s phone, vibrating a",
       "image": "",
-      "published": "Fri, 14 Aug 2026 18:29:26 +0000",
+      "published": "Sat, 15 Aug 2026 00:00:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building FinSaathi: A Voice-First Financial Assistant for Bharat 🇮🇳 10 Days of Voice Agents — VoiceForBharat Edition",
-      "link": "https://dev.to/nipun_goel_720eefc9d5f127/building-finsaathi-a-voice-first-financial-assistant-for-bharat-10-days-of-voice-agents--2f94",
-      "summary": "Over the last 10 days, I built FinSaathi, a voice-first AI assistant for the Financial Services track of the VoiceForBharat challenge.\nThe goal was simple: build an assistant that can talk naturally with users, understan",
+      "title": "The Fix Was Committed. The Old Value Kept Running.",
+      "link": "https://dev.to/hexisteme/the-fix-was-committed-the-old-value-kept-running-36bf",
+      "summary": "Originally published on hexisteme notes.\n\nI deleted three ambient API keys from my shell profile. Then I ran the standard clean-room check — spawn a shell with no inherited environment at all, env -i HOME=\"$HOME\" /bin/zs",
       "image": "",
-      "published": "Fri, 14 Aug 2026 18:21:12 +0000",
+      "published": "Sat, 15 Aug 2026 00:00:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We wrote 25 Matrix bridges in 7 languages, and we did not get to choose",
-      "link": "https://dev.to/nevai/we-wrote-25-matrix-bridges-in-7-languages-and-we-did-not-get-to-choose-43df",
-      "summary": "What happens when you stop picking a stack and let each protocol pick one for you.\n\n\n\n\nEvery engineering team has a stack. Ours has seven, and we did not decide on any of them.\n\nNevai is a self-hosted, end-to-end encrypt",
+      "title": "0 of 3 Articles Published for 3 Days Straight: The 41-Second Timeout Margin That Killed My Automation",
+      "link": "https://dev.to/bokuwalily/0-of-3-articles-published-for-3-days-straight-the-41-second-timeout-margin-that-killed-my-4n7n",
+      "summary": "For three mornings in a row, my audit log printed the same line: published today: 0 / target: 3. Nothing crashed. The scripts ran, exited, and produced nothing. The entire cause turned out to be a 41-second margin — a 30",
       "image": "",
-      "published": "Fri, 14 Aug 2026 18:20:08 +0000",
+      "published": "Sat, 15 Aug 2026 00:00:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Color Math Was Never the Slow Part",
-      "link": "https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2",
-      "summary": "The first version of my image-to-Minecraft-blocks converter locked up the browser tab for long enough that I assumed something had crashed. I dropped in a photo straight off my phone, hit convert, and the page stopped re",
+      "title": "Before You Expose That Agent, Let a Free Model Attack It",
+      "link": "https://dev.to/codepy_1473/before-you-expose-that-agent-let-a-free-model-attack-it-2bm3",
+      "summary": "Before you expose a tool-using language model to customers, contractors, or any input you do not fully control, make another model attack it first. This short red-team loop costs little when you use a free model endpoint",
       "image": "",
-      "published": "Fri, 14 Aug 2026 18:17:42 +0000",
+      "published": "Fri, 14 Aug 2026 23:59:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
