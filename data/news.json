@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:09:04.451019Z",
+  "updated": "2026-08-17T00:25:57.051773Z",
   "articles": [
     {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be sellin",
+      "image": "",
+      "published": "Sun, 16 Aug 2026 19:47:06 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+      "image": "",
+      "published": "Sun, 16 Aug 2026 18:28:57 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
       "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
       "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
@@ -70,24 +88,6 @@
       "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
       "image": "",
       "published": "Sat, 15 Aug 2026 10:14:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-      "image": "",
-      "published": "Fri, 14 Aug 2026 19:24:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers'",
-      "image": "",
-      "published": "Fri, 14 Aug 2026 14:04:26 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/08/260811052857.htm\nComments URL: https://news.ycombinator.com/item?id=49321783\nPoints: 17\n# Comments: 16",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 121\n# Comments: 97",
       "image": "",
-      "published": "Sun, 16 Aug 2026 17:10:04 +0000",
+      "published": "Sun, 16 Aug 2026 21:53:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "link": "https://rvembedded.com/blog_post/12/",
-      "summary": "Article URL: https://rvembedded.com/blog_post/12/\nComments URL: https://news.ycombinator.com/item?id=49321717\nPoints: 14\n# Comments: 3",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "link": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49323686\nPoints: 79\n# Comments: 19",
       "image": "",
-      "published": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "published": "Sun, 16 Aug 2026 21:07:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers\nComments URL: https://news.ycombinator.com/item?id=49321353\nPoints: 40\n# Comments: 8",
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper\nComments URL: https://news.ycombinator.com/item?id=49323459\nPoints: 76\n# Comments: 62",
       "image": "",
-      "published": "Sun, 16 Aug 2026 16:14:55 +0000",
+      "published": "Sun, 16 Aug 2026 20:38:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The weekend is 100 years old",
-      "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-      "summary": "Article URL: https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it\nComments URL: https://news.ycombinator.com/item?id=49320984\nPoints: 81\n# Comments: 45",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49323381\nPoints: 159\n# Comments: 109",
       "image": "",
-      "published": "Sun, 16 Aug 2026 15:30:15 +0000",
+      "published": "Sun, 16 Aug 2026 20:31:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "summary": "Article URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core\nComments URL: https://news.ycombinator.co",
+      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+      "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "summary": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener\nComments URL: https://news.ycombinator.com/item?id=49323256\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 16 Aug 2026 15:16:06 +0000",
+      "published": "Sun, 16 Aug 2026 20:16:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building an Enterprise Data Validation Framework: From Architecture to Version Control",
-      "link": "https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57",
-      "summary": "Introduction\n\n\nWhen managing large-scale data migrations, ETL pipelines, or multi-database reconciliations, manual verification quickly falls short. Without structured automation, data discrepancies—ranging from missing ",
+      "title": "One terminal, two trust levels — running Claude Code against a real subscription and a cheap proxy",
+      "link": "https://dev.to/mediblacksand_f0ea36c53fb/one-terminal-two-trust-levels-running-claude-code-against-a-real-subscription-and-a-cheap-proxy-5c02",
+      "summary": "Part of an ongoing series on model routing and trust tiering for agentic coding tools. This one's the boring, working half — no bug hunt, just a setup that's been running clean across two machines.\n\n\n  \n  \n  The problem\n",
       "image": "",
-      "published": "Sun, 16 Aug 2026 18:06:41 +0000",
+      "published": "Mon, 17 Aug 2026 00:03:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Don't Start With RAG: Lessons From Building an Automotive AI Pipeline",
-      "link": "https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc",
-      "summary": "When building an AI product, it's tempting to start with the fashionable pieces.\n\nVector database.\n\nRAG.\n\nAgents.\n\nMultimodal models.\n\nThen connect everything to an LLM and hope the final prompt makes sense of it.\n\nWhile",
+      "title": "Why AI Agent Runtimes Need a 'Constitution': Lessons from Ironclaw and the Rise of Policy-First Autonomous Systems",
+      "link": "https://dev.to/tamizuddin/why-ai-agent-runtimes-need-a-constitution-lessons-from-ironclaw-and-the-rise-of-policy-first-4i0h",
+      "summary": "Originally published on tamiz.pro.\n\n\n  \n  \n  Introduction\n\n\nAutonomous AI agents are transitioning from research prototypes to production-critical systems. As these agents gain the ability to act on behalf of users—sendi",
       "image": "",
-      "published": "Sun, 16 Aug 2026 18:03:12 +0000",
+      "published": "Mon, 17 Aug 2026 00:02:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RAG Retrieval Architectures: When Better Embeddings Stop Helping",
-      "link": "https://dev.to/arvid_andersson_0a598fa45/rag-retrieval-architectures-when-better-embeddings-stop-helping-3ejm",
-      "summary": "Most RAG projects start vector-first: embed the documents, store them, retrieve by similarity. It works in the demo. Then a user searches for an exact thing, a product code, an error number, a specific name, and the syst",
+      "title": "Four Failures That Made a Weekly launchd Job Actually Run",
+      "link": "https://dev.to/bokuwalily/four-failures-that-made-a-weekly-launchd-job-actually-run-5hhb",
+      "summary": "Every skill my AI setup learns lives in one folder on my laptop — and none of it reaches the repo I created yesterday. That gap is why I built a weekly job that pushes my accumulated skills into every project on the mach",
       "image": "",
-      "published": "Sun, 16 Aug 2026 18:02:59 +0000",
+      "published": "Mon, 17 Aug 2026 00:00:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Local-First AI Apps: MCP Integration, Offline Memory & Cost Optimization",
-      "link": "https://dev.to/tamizuddin/building-local-first-ai-apps-mcp-integration-offline-memory-cost-optimization-ha",
-      "summary": "Originally published on tamiz.pro.\n\nThe hype cycle for AI applications has shifted. The question is no longer \"can we call an API?\" — it's \"how do we build AI systems that are private, reliable, and cheap at scale?\" Loca",
-      "image": "",
-      "published": "Sun, 16 Aug 2026 18:01:37 +0000",
+      "title": "😸Catbot Integration, AI Office, Cat Mode (AI Avatar v17: VS Code and Chrome Extension)",
+      "link": "https://dev.to/webdeveloperhyper/catbot-integration-ai-office-cat-mode-ai-avatar-v17-vs-code-and-chrome-extension-2f26",
+      "summary": "Intro\n\n\nAI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its might.🤗 It lives in your VS Code sidebar (reacts to Claude Code / GitHub Copilot) or browser side panel (reacts to ChatGPT / Claude). ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd6l89zu0h1te9euoyydn.png",
+      "published": "Sun, 16 Aug 2026 23:49:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Practical Guide to jq in Shell Scripts",
-      "link": "https://dev.to/4kit1-glitch/a-practical-guide-to-jq-in-shell-scripts-dp6",
-      "summary": "A Practical Guide to jq in Shell Scripts\n\n\nWhile building sykd (a system health monitor daemon for linux servers) i needed to collect system data as json so i could process easily in python on doing research if found out",
+      "title": "I built a production-ready Shopify Hydrogen theme and open-sourced it",
+      "link": "https://dev.to/ozgursagiroglu/i-built-a-production-ready-shopify-hydrogen-theme-and-open-sourced-it-1891",
+      "summary": "Every Hydrogen project I've worked on started the same way — wire up a cart, build a PDP, add filters, then spend weeks on the \"extras\" that aren't really extras: wishlist, compare, quick view, proper i18n, RTL.\n\nAfter d",
       "image": "",
-      "published": "Sun, 16 Aug 2026 18:01:26 +0000",
+      "published": "Sun, 16 Aug 2026 23:40:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
