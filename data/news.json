@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-17T18:17:52.645154Z",
+  "updated": "2026-08-18T00:26:07.671343Z",
   "articles": [
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
+      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "summary": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
+      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.\n\nThe vuln",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg",
+      "published": "Mon, 17 Aug 2026 23:52:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRussian cybersecu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg",
+      "published": "Mon, 17 Aug 2026 23:11:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
       "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png",
-      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
-      "source": "The Hacker News",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "image": "",
+      "published": "Mon, 17 Aug 2026 15:35:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg",
-      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve the exploitation of",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
-      "source": "The Hacker News",
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logi",
+      "image": "",
+      "published": "Mon, 17 Aug 2026 15:12:39 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
       "image": "",
       "published": "Mon, 17 Aug 2026 08:33:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-      "image": "",
-      "published": "Mon, 17 Aug 2026 07:25:02 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "image": "",
-      "published": "Mon, 17 Aug 2026 06:09:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-      "link": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399\nComments URL: https://news.ycombinator.com/item",
+      "title": "Cursor Origin",
+      "link": "https://cursor.com/docs/origin",
+      "summary": "Article URL: https://cursor.com/docs/origin\nComments URL: https://news.ycombinator.com/item?id=49339359\nPoints: 15\n# Comments: 3",
       "image": "",
-      "published": "Mon, 17 Aug 2026 17:52:37 +0000",
+      "published": "Mon, 17 Aug 2026 23:58:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "link": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b\nComments URL: https://news.ycombinator.com/item?id=49334544\nPoints: 22\n# Comments: 2",
+      "title": "Puppy PPE",
+      "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+      "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde\nComments URL: https://news.ycombinator.com/item?id=49338953\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Mon, 17 Aug 2026 17:25:17 +0000",
+      "published": "Mon, 17 Aug 2026 23:10:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Buy Your Friends Batteries",
-      "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-      "summary": "Article URL: https://domenkozar.com/2026/08/17/buy-your-friends-batteries/\nComments URL: https://news.ycombinator.com/item?id=49333932\nPoints: 73\n# Comments: 75",
+      "title": "How Bluesky draws its logo on screenshots",
+      "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 147\n# Comments: 113",
       "image": "",
-      "published": "Mon, 17 Aug 2026 16:45:11 +0000",
+      "published": "Mon, 17 Aug 2026 22:20:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sun Clock",
-      "link": "https://sunclock.net/",
-      "summary": "Article URL: https://sunclock.net/\nComments URL: https://news.ycombinator.com/item?id=49333824\nPoints: 17\n# Comments: 9",
+      "title": "scScript for Linux",
+      "link": "https://scapplications.com/",
+      "summary": "Article URL: https://scapplications.com/\nComments URL: https://news.ycombinator.com/item?id=49338428\nPoints: 10\n# Comments: 2",
       "image": "",
-      "published": "Mon, 17 Aug 2026 16:37:54 +0000",
+      "published": "Mon, 17 Aug 2026 22:18:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "summary": "Article URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/\nComments URL: https://news.ycombinator.com/item?id=49333344\nPoints: 11\n# Comments: 0",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html\nComments URL: https://news.ycombinator.com/item?id=49338328\nPoints: 99\n# Comments: 46",
       "image": "",
-      "published": "Mon, 17 Aug 2026 16:11:37 +0000",
+      "published": "Mon, 17 Aug 2026 22:06:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure",
-      "link": "https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga",
-      "summary": "When every unauthorized request becomes the same dashboard line, diagnosis turns into guessing. ASP.NET Core 10 authentication metrics give me a better split: did the handler have nothing to authenticate, reject supplied",
+      "title": "How to Improve Playwright Test Coverage Using Agent Context",
+      "link": "https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9",
+      "summary": "I don’t know how to play an instrument, so obviously I built one as an app. Literally, everyone in my family can sign or play an instrument, and I’m the odd one out.\n\nAnd I know what you’re thinking, “Who cares? With AI,",
       "image": "",
-      "published": "Mon, 17 Aug 2026 18:11:49 +0000",
+      "published": "Tue, 18 Aug 2026 00:23:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Anyone need an installer?",
-      "link": "https://dev.to/unitbuilds/anyone-need-an-installer-5c8b",
-      "summary": "So a bit of context, I've been doing testing for V.E.L.O.C.I.T.Y. Drone and initially, I just copied over a binary, but I wanted it to be a bit easier to setup, so I thought I'd make an installer for it, so it can regist",
+      "title": "Directus Basics Part 2 — Understanding Relationships (M2O, O2M, M2M)",
+      "link": "https://dev.to/wadethomastt/directus-basics-part-2-understanding-relationships-m2o-o2m-m2m-1lom",
+      "summary": "This is part two of our Directus Basics series. In part one, we set up a Directus instance and created our first collection. Today we're covering one of the most powerful features Directus offers: relationships between c",
       "image": "",
-      "published": "Mon, 17 Aug 2026 18:11:42 +0000",
+      "published": "Tue, 18 Aug 2026 00:22:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "analogous(-1): how a default hid a heap-exhaustion bug for fifteen years",
-      "link": "https://dev.to/bigachiever/analogous-1-how-a-default-hid-a-heap-exhaustion-bug-for-fifteen-years-380e",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.\n\n\n  \n  \n  Project Overview\n\n\nTinyColor is a colour library for JavaScript. Parse a colour in basically any format, convert it, lighten ",
+      "title": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant",
+      "link": "https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14",
+      "summary": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant\n\n\n\nTL;DR Los agentes con memoria persistente compartida entre usuarios/sesiones pueden filtrar datos de un principal a o",
       "image": "",
-      "published": "Mon, 17 Aug 2026 18:07:37 +0000",
+      "published": "Tue, 18 Aug 2026 00:15:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Grokbot Honest Review: Is xAI and Cursor's Computer-Use Agent Worth $200 a Month?",
-      "link": "https://dev.to/aditi_gupta_8d81622a592aa/grokbot-honest-review-is-xai-and-cursors-computer-use-agent-worth-200-a-month-2924",
-      "summary": "Grokbot is xAI and Cursor's attempt at an AI agent that doesn't just chat, it uses a computer. Each bot you create gets its own machine in the cloud, with Chrome, a file manager, and its own operating system, and it keep",
+      "title": "Stop manually babysitting your automation flows",
+      "link": "https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8",
+      "summary": "If you've ever managed a fleet of workflows in a tool like Activepieces, you know the drill. A flow fails at 3 AM. You get a webhook notification or a Slack ping. You wake up, log in, dig through execution logs to find o",
       "image": "",
-      "published": "Mon, 17 Aug 2026 18:03:19 +0000",
+      "published": "Tue, 18 Aug 2026 00:15:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Idempotência: a palavra difícil que salva seu webhook",
-      "link": "https://dev.to/denisgusto1/idempotencia-a-palavra-dificil-que-salva-seu-webhook-7pj",
-      "summary": "O cliente pagou uma vez. Seu sistema registrou duas.\n\n\nSexta-feira, seis da tarde. Chega a mensagem no suporte: \"fui cobrado duas vezes\".\n\nVocê abre o banco e é pior do que parecia. Não foi o gateway que cobrou duas veze",
+      "title": "Placing corrections exactly where an LLM is tempted to sound plausible instead of right",
+      "link": "https://dev.to/susumun/placing-corrections-exactly-where-an-llm-is-tempted-to-sound-plausible-instead-of-right-248i",
+      "summary": "Background\n\n\nThe support chatbot on our landing page feeds the contents of a knowledge base to an LLM as its system prompt, then lets it answer whatever a user asks. Running it in practice surfaced something a generic in",
       "image": "",
-      "published": "Mon, 17 Aug 2026 18:02:56 +0000",
+      "published": "Tue, 18 Aug 2026 00:12:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
