@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:26:07.671343Z",
+  "updated": "2026-08-18T06:19:19.154163Z",
   "articles": [
     {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -137,27 +137,27 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cursor Origin",
-      "link": "https://cursor.com/docs/origin",
-      "summary": "Article URL: https://cursor.com/docs/origin\nComments URL: https://news.ycombinator.com/item?id=49339359\nPoints: 15\n# Comments: 3",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "Article URL: https://danluu.com/benchpocalypse/\nComments URL: https://news.ycombinator.com/item?id=49340299\nPoints: 49\n# Comments: 5",
       "image": "",
-      "published": "Mon, 17 Aug 2026 23:58:19 +0000",
+      "published": "Tue, 18 Aug 2026 02:11:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Puppy PPE",
-      "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
-      "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde\nComments URL: https://news.ycombinator.com/item?id=49338953\nPoints: 8\n# Comments: 1",
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "link": "https://www.repaircafe.org/",
+      "summary": "Article URL: https://www.repaircafe.org/\nComments URL: https://news.ycombinator.com/item?id=49339097\nPoints: 77\n# Comments: 10",
       "image": "",
-      "published": "Mon, 17 Aug 2026 23:10:06 +0000",
+      "published": "Mon, 17 Aug 2026 23:28:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "How Bluesky draws its logo on screenshots",
       "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 147\n# Comments: 113",
+      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 385\n# Comments: 256",
       "image": "",
       "published": "Mon, 17 Aug 2026 22:20:40 +0000",
       "source": "Hacker News: Front Page",
@@ -166,7 +166,7 @@
     {
       "title": "scScript for Linux",
       "link": "https://scapplications.com/",
-      "summary": "Article URL: https://scapplications.com/\nComments URL: https://news.ycombinator.com/item?id=49338428\nPoints: 10\n# Comments: 2",
+      "summary": "Article URL: https://scapplications.com/\nComments URL: https://news.ycombinator.com/item?id=49338428\nPoints: 29\n# Comments: 10",
       "image": "",
       "published": "Mon, 17 Aug 2026 22:18:05 +0000",
       "source": "Hacker News: Front Page",
@@ -175,54 +175,54 @@
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html\nComments URL: https://news.ycombinator.com/item?id=49338328\nPoints: 99\n# Comments: 46",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html\nComments URL: https://news.ycombinator.com/item?id=49338328\nPoints: 261\n# Comments: 115",
       "image": "",
       "published": "Mon, 17 Aug 2026 22:06:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Improve Playwright Test Coverage Using Agent Context",
-      "link": "https://dev.to/entire/how-to-improve-playwright-test-coverage-using-agent-context-14l9",
-      "summary": "I don’t know how to play an instrument, so obviously I built one as an app. Literally, everyone in my family can sign or play an instrument, and I’m the odd one out.\n\nAnd I know what you’re thinking, “Who cares? With AI,",
+      "title": "I wrote a scraper for a government agency's announcements — and learned why boring tools win",
+      "link": "https://dev.to/primesieve/i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win-2blk",
+      "summary": "I wrote a scraper for a government agency's announcements — and learned why boring tools win\n\n\nEvery morning at 6 AM, a small Python script on one VPS checks the Indonesian food agency's announcement page. If there's som",
       "image": "",
-      "published": "Tue, 18 Aug 2026 00:23:30 +0000",
+      "published": "Tue, 18 Aug 2026 06:02:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Directus Basics Part 2 — Understanding Relationships (M2O, O2M, M2M)",
-      "link": "https://dev.to/wadethomastt/directus-basics-part-2-understanding-relationships-m2o-o2m-m2m-1lom",
-      "summary": "This is part two of our Directus Basics series. In part one, we set up a Directus instance and created our first collection. Today we're covering one of the most powerful features Directus offers: relationships between c",
+      "title": "Scaling WebRTC Streams with Engine Pooling in Go",
+      "link": "https://dev.to/rusegal/scaling-webrtc-streams-with-engine-pooling-in-go-3a72",
+      "summary": "FATAL: crypto/rand: blocked on getrandom() syscall, or 100% CPU at the 25th Client\n\n\nThe title is catchy enough—now let’s get to the point.\n\nThis error is a classic side effect of the default Pion WebRTC setup in Go. It ",
       "image": "",
-      "published": "Tue, 18 Aug 2026 00:22:42 +0000",
+      "published": "Tue, 18 Aug 2026 06:01:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant",
-      "link": "https://dev.to/magopredator/crosssessionmemoryguard-vigilando-la-exfiltracion-de-memoria-cross-session-en-agentes-multi-tenant-1g14",
-      "summary": "CrossSessionMemoryGuard: vigilando la exfiltración de memoria cross-session en agentes multi-tenant\n\n\n\nTL;DR Los agentes con memoria persistente compartida entre usuarios/sesiones pueden filtrar datos de un principal a o",
+      "title": "AI Agents in the Dev Workflow: Riding the Wave of Eliza, Airbyte, and the Snowflake 'Autofix' Breach",
+      "link": "https://dev.to/tamizuddin/ai-agents-in-the-dev-workflow-riding-the-wave-of-eliza-airbyte-and-the-snowflake-autofix-breach-4dh6",
+      "summary": "Originally published on tamiz.pro.\n\nThe promise of AI agents in the developer workflow has never felt closer. Tools like Eliza promise autonomous agents that can handle routine tasks, Airbyte has made data integration fe",
       "image": "",
-      "published": "Tue, 18 Aug 2026 00:15:49 +0000",
+      "published": "Tue, 18 Aug 2026 06:00:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stop manually babysitting your automation flows",
-      "link": "https://dev.to/renato_marinho/stop-manually-babysitting-your-automation-flows-bc8",
-      "summary": "If you've ever managed a fleet of workflows in a tool like Activepieces, you know the drill. A flow fails at 3 AM. You get a webhook notification or a Slack ping. You wake up, log in, dig through execution logs to find o",
+      "title": "How I Built a $2,400/Month Passive Income Stream Using AI to Automate Niche Newsletter Curation",
+      "link": "https://dev.to/sinan_koak_4a6dea677278a/how-i-built-a-2400month-passive-income-stream-using-ai-to-automate-niche-newsletter-curation-d1j",
+      "summary": "The Opportunity Nobody Is Talking About\n\n\nWhile everyone races to build SaaS products, there's a quieter opportunity sitting in plain sight: automated niche newsletters. I'm generating $2,400/month from a newsletter I sp",
       "image": "",
-      "published": "Tue, 18 Aug 2026 00:15:16 +0000",
+      "published": "Tue, 18 Aug 2026 06:00:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Placing corrections exactly where an LLM is tempted to sound plausible instead of right",
-      "link": "https://dev.to/susumun/placing-corrections-exactly-where-an-llm-is-tempted-to-sound-plausible-instead-of-right-248i",
-      "summary": "Background\n\n\nThe support chatbot on our landing page feeds the contents of a knowledge base to an LLM as its system prompt, then lets it answer whatever a user asks. Running it in practice surfaced something a generic in",
+      "title": "Host a Static Web App on Cloudflare Pages: A 2026 Guide",
+      "link": "https://dev.to/mecanik-dev/host-a-static-web-app-on-cloudflare-pages-a-2026-guide-8mg",
+      "summary": "Cloudflare Pages hosting lets frontend teams ship code that is fast, secure, and free of server administration. By using Cloudflare Pages, developers get a high-performance edge-native platform to deploy static web appli",
       "image": "",
-      "published": "Tue, 18 Aug 2026 00:12:55 +0000",
+      "published": "Tue, 18 Aug 2026 06:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
