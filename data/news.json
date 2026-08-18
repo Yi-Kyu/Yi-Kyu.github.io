@@ -1,12 +1,21 @@
 {
-  "updated": "2026-08-18T12:17:08.194699Z",
+  "updated": "2026-08-18T18:16:48.849586Z",
   "articles": [
     {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
-      "published": "Tue, 18 Aug 2026 17:10:06 +0530",
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
+      "published": "Tue, 18 Aug 2026 18:08:36 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg",
+      "published": "Tue, 18 Aug 2026 18:08:20 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -20,6 +29,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
+      "published": "Tue, 18 Aug 2026 16:50:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
       "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
       "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
       "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.\n\nThe hardware w",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nRay is an open",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg",
-      "published": "Tue, 18 Aug 2026 12:04:20 +0530",
-      "source": "The Hacker News",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal fil",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
-      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
-      "source": "The Hacker News",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
       "image": "",
       "published": "Tue, 18 Aug 2026 05:24:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 04:12:08 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
-      "image": "",
-      "published": "Mon, 17 Aug 2026 15:35:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "link": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/\nComments URL: https://news.ycombinator.com/item?id=49344114\nPoints: 13\n# Comments: 1",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "link": "https://github.com/biw/keychain-store",
+      "summary": "Hey HN,I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.Electron's safeStorage [2] uses the legacy",
       "image": "",
-      "published": "Tue, 18 Aug 2026 11:27:03 +0000",
+      "published": "Tue, 18 Aug 2026 17:25:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\nComments URL: https://news.ycombinator.com/item?id=49343559\nPoints: 115\n# Comments: 57",
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "summary": "Article URL: https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\nComments URL: https://news.ycombinator.com/item?id=49349147\nPoints: 56\n# Com",
       "image": "",
-      "published": "Tue, 18 Aug 2026 10:13:28 +0000",
+      "published": "Tue, 18 Aug 2026 17:24:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "Article URL: https://pixelcluster.dev/VRAM-Overcommit/\nComments URL: https://news.ycombinator.com/item?id=49342719\nPoints: 234\n# Comments: 65",
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\nComments URL: https://news.ycombinator.com/item?id=49348751\nPoints: 106\n# Comments: 61",
       "image": "",
-      "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+      "published": "Tue, 18 Aug 2026 17:02:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rethinking Database Programming",
-      "link": "https://acadia.engineering/blog/rethinking-database-programming",
-      "summary": "Article URL: https://acadia.engineering/blog/rethinking-database-programming\nComments URL: https://news.ycombinator.com/item?id=49342530\nPoints: 94\n# Comments: 41",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data\nComments URL: https://news.ycombinator.com/item?id=49348627\nPoints: 23\n# Comments: 7",
       "image": "",
-      "published": "Tue, 18 Aug 2026 07:28:27 +0000",
+      "published": "Tue, 18 Aug 2026 16:54:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Finger: Social network that never died",
-      "link": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "summary": "Article URL: https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/\nComments URL: https://news.ycombinator.com/item?id=49342472\nPoints: 23\n# Comments: 12",
+      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows\nComments URL: https://news.ycombinator.com/item?id=49348356\nPoints: 27\n# Comment",
       "image": "",
-      "published": "Tue, 18 Aug 2026 07:21:35 +0000",
+      "published": "Tue, 18 Aug 2026 16:40:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How I Built a Kiro Crew App in 5 Minutes - Full Tutorial With Code",
-      "link": "https://dev.to/aws-builders/how-i-built-a-kiro-crew-app-in-5-minutes-full-tutorial-with-code-3el0",
-      "summary": "Parts 1-4 showed you what Kiro Crew can do. Investigate incidents. Automate weekly toil. Block dangerous commands. All using the built-in agent.\n\n\n\n  \n  Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator\n\n\n  ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2794%2F88da75b6-aadd-4ea1-8083-ae2dfca8be94.png",
-      "published": "Tue, 18 Aug 2026 12:05:57 +0000",
+      "title": "Investment Grade",
+      "link": "https://dev.to/aronchick/investment-grade-d1e",
+      "summary": "On Thursday, July 9, S&amp;P cut Oracle's issuer credit rating from BBB to BBB-. That's one step above junk, which, for a company as old and big and staid as Oracle, is ... not good. The same note named OpenAI as a key c",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 18:05:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Marketplace Platform Transition: From Experiment to Core Business",
-      "link": "https://dev.to/mercur/the-marketplace-platform-transition-from-experiment-to-core-business-4oci",
-      "summary": "Most retailers approach a marketplace platform decision as an experiment. The logic is sound: expand assortment without inventory risk, test which categories pull demand, avoid capital commitment before the market proves",
+      "title": "Transactions in NestJS and TypeORM Without Passing the EntityManager Around",
+      "link": "https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-2kbn",
+      "summary": "Transactions promise a simple guarantee: either everything commits, or nothing does. And yet, in a NestJS application with a repository layer, it is perfectly possible to run a rollback with no errors and then find a row",
       "image": "",
-      "published": "Tue, 18 Aug 2026 12:04:40 +0000",
+      "published": "Tue, 18 Aug 2026 18:04:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "\"One day later\" and \"24 hours later\" are different quantities — the batch job that drifts an hour every spring",
-      "link": "https://dev.to/azathothx/one-day-later-and-24-hours-later-are-different-quantities-the-batch-job-that-drifts-an-hour-184i",
-      "summary": "The code didn't change. The schedule did.\n\n\nThere's a batch job on a US East Coast server that runs every morning at 9:00. It has been\nrunning fine for months — until the second Sunday of March, when it quietly starts ru",
+      "title": "Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers",
+      "link": "https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3",
+      "summary": "How to architect low-latency, reactive AI workflows that eliminate rate limits, slash compute overhead, and guarantee reliable execution under load\n\n\n\n\n\n  \n  \n  1. THE PROBLEM IN PRODUCTION\n\n\nMost AI agents running in pr",
       "image": "",
-      "published": "Tue, 18 Aug 2026 12:03:09 +0000",
+      "published": "Tue, 18 Aug 2026 18:03:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hoax Lifecycle in a Courtroom: COPA v Wright as a Live Specimen",
-      "link": "https://dev.to/vibeagentmaking/the-hoax-lifecycle-in-a-courtroom-copa-v-wright-as-a-live-specimen-84b",
-      "summary": "The claim was about the invention of digital scarcity. The disproof was about kerning.\n\n\n\n\nThere is a document in the record of an English lawsuit where the date is wrong in a way no human would ever write it. Not the wr",
+      "title": "Building PWAs: Offline‑First Adventures — A **Back to the Future** Style Journey",
+      "link": "https://dev.to/timevolt/building-pwas-offline-first-adventures-a-back-to-the-future-style-journey-2mi3",
+      "summary": "The Quest Begins (The \"Why\")\n\n\nHonestly, I used to think progressive web apps were just a fancy buzzword slapped onto any site that had a manifest file. I’d throw a manifest.json on a project, call it a day, and then wat",
       "image": "",
-      "published": "Tue, 18 Aug 2026 12:02:14 +0000",
+      "published": "Tue, 18 Aug 2026 18:02:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "[Boost]",
-      "link": "https://dev.to/immanuelg/-2fh7",
-      "summary": "Improving Performance of PostgreSQL queries\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Jakub Andrzejewski\n            \n            \n             ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F652576%2F71679021-521f-4d3b-b57f-af2d4ad055d9.png",
-      "published": "Tue, 18 Aug 2026 12:02:02 +0000",
+      "title": "Claude API vs OpenAI API: A Developer's Comparison 2026",
+      "link": "https://dev.to/mecanik-dev/claude-api-vs-openai-api-a-developers-comparison-2026-47km",
+      "summary": "This is a developer-focused Claude API vs OpenAI API comparison of the two most widely used large language model APIs: Anthropic's Claude API and OpenAI's API. It is not about which chatbot feels smarter in casual use; i",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
