@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-18T18:16:48.849586Z",
+  "updated": "2026-08-19T00:26:25.205206Z",
   "articles": [
+    {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg",
+      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
+      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
+      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
       "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif",
-      "published": "Tue, 18 Aug 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.\n\nOpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg",
-      "published": "Tue, 18 Aug 2026 16:50:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.\n\nThe hardware w",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg",
-      "published": "Tue, 18 Aug 2026 14:40:45 +0530",
-      "source": "The Hacker News",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor",
+      "image": "",
+      "published": "Tue, 18 Aug 2026 16:14:58 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [.",
       "image": "",
       "published": "Tue, 18 Aug 2026 06:32:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 05:24:49 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "link": "https://github.com/biw/keychain-store",
-      "summary": "Hey HN,I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.Electron's safeStorage [2] uses the legacy",
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "link": "https://modelmap.cc",
+      "summary": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 18 Aug 2026 17:25:19 +0000",
+      "published": "Tue, 18 Aug 2026 23:57:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "summary": "Article URL: https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban\nComments URL: https://news.ycombinator.com/item?id=49349147\nPoints: 56\n# Com",
+      "title": "Solo – a .so loader for static Linux binaries",
+      "link": "https://github.com/pg83/solo",
+      "summary": "Article URL: https://github.com/pg83/solo\nComments URL: https://news.ycombinator.com/item?id=49354613\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 18 Aug 2026 17:24:53 +0000",
+      "published": "Tue, 18 Aug 2026 23:51:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "link": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion\nComments URL: https://news.ycombinator.com/item?id=49348751\nPoints: 106\n# Comments: 61",
+      "title": "Programmable Property-Based Testing",
+      "link": "https://dl.acm.org/doi/10.1145/3828685",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3828685\nComments URL: https://news.ycombinator.com/item?id=49353618\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Tue, 18 Aug 2026 17:02:15 +0000",
+      "published": "Tue, 18 Aug 2026 22:22:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data\nComments URL: https://news.ycombinator.com/item?id=49348627\nPoints: 23\n# Comments: 7",
+      "title": "AI usage patterns in software teams",
+      "link": "https://linear.app/data",
+      "summary": "Article URL: https://linear.app/data\nComments URL: https://news.ycombinator.com/item?id=49353432\nPoints: 18\n# Comments: 8",
       "image": "",
-      "published": "Tue, 18 Aug 2026 16:54:42 +0000",
+      "published": "Tue, 18 Aug 2026 22:08:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows\nComments URL: https://news.ycombinator.com/item?id=49348356\nPoints: 27\n# Comment",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "link": "https://artificialanalysis.ai/models/glm-5-3",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3\nComments URL: https://news.ycombinator.com/item?id=49353407\nPoints: 62\n# Comments: 26",
       "image": "",
-      "published": "Tue, 18 Aug 2026 16:40:07 +0000",
+      "published": "Tue, 18 Aug 2026 22:06:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Investment Grade",
-      "link": "https://dev.to/aronchick/investment-grade-d1e",
-      "summary": "On Thursday, July 9, S&amp;P cut Oracle's issuer credit rating from BBB to BBB-. That's one step above junk, which, for a company as old and big and staid as Oracle, is ... not good. The same note named OpenAI as a key c",
+      "title": "Anthropic Expands Scientist Access to Frontier Models Through a Staged Biology Program",
+      "link": "https://dev.to/alifar/anthropic-expands-scientist-access-to-frontier-models-through-a-staged-biology-program-3e4h",
+      "summary": "Anthropic is building a staged access path for life-science researchers to use its frontier AI systems. The company says Mythos 5 will initially be deployed to a restricted group of biology researchers under altered cybe",
       "image": "",
-      "published": "Tue, 18 Aug 2026 18:05:04 +0000",
+      "published": "Wed, 19 Aug 2026 00:17:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Transactions in NestJS and TypeORM Without Passing the EntityManager Around",
-      "link": "https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-2kbn",
-      "summary": "Transactions promise a simple guarantee: either everything commits, or nothing does. And yet, in a NestJS application with a repository layer, it is perfectly possible to run a rollback with no errors and then find a row",
+      "title": "A safer starting point for exploring DeepSeek Harness plugins",
+      "link": "https://dev.to/nicedayup/a-safer-starting-point-for-exploring-deepseek-harness-plugins-2a0b",
+      "summary": "The hard part of a fast-moving plugin ecosystem is rarely finding another project. It is deciding whether a project deserves a place in a working setup.\n\nDeepSeek Harness is a developer preview with a plugin-first archit",
       "image": "",
-      "published": "Tue, 18 Aug 2026 18:04:29 +0000",
+      "published": "Wed, 19 Aug 2026 00:07:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers",
-      "link": "https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3",
-      "summary": "How to architect low-latency, reactive AI workflows that eliminate rate limits, slash compute overhead, and guarantee reliable execution under load\n\n\n\n\n\n  \n  \n  1. THE PROBLEM IN PRODUCTION\n\n\nMost AI agents running in pr",
+      "title": "Claude Enters Live Life Sciences Workflows With Early Lab Results From Anthropic",
+      "link": "https://dev.to/alifar/claude-enters-live-life-sciences-workflows-with-early-lab-results-from-anthropic-b4d",
+      "summary": "Anthropic has published early evidence of Claude operating in live life sciences research workflows, moving the discussion beyond generic claims about AI-assisted science. Its January 15, 2026 report describes deployment",
       "image": "",
-      "published": "Tue, 18 Aug 2026 18:03:48 +0000",
+      "published": "Wed, 19 Aug 2026 00:00:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building PWAs: Offline‑First Adventures — A **Back to the Future** Style Journey",
-      "link": "https://dev.to/timevolt/building-pwas-offline-first-adventures-a-back-to-the-future-style-journey-2mi3",
-      "summary": "The Quest Begins (The \"Why\")\n\n\nHonestly, I used to think progressive web apps were just a fancy buzzword slapped onto any site that had a manifest file. I’d throw a manifest.json on a project, call it a day, and then wat",
+      "title": "A Dead PID Held My Lock for 2 Hours: One Missing Line, Zero Output, exit 0 Every Time",
+      "link": "https://dev.to/bokuwalily/a-dead-pid-held-my-lock-for-2-hours-one-missing-line-zero-output-exit-0-every-time-370c",
+      "summary": "For 30 straight days as a college student earning ¥100k/month, I posted to Instagram by hand, and then I burned out and stopped. Today the same job runs on a Claude Code autonomous environment, I touch nothing, and it ho",
       "image": "",
-      "published": "Tue, 18 Aug 2026 18:02:53 +0000",
+      "published": "Wed, 19 Aug 2026 00:00:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude API vs OpenAI API: A Developer's Comparison 2026",
-      "link": "https://dev.to/mecanik-dev/claude-api-vs-openai-api-a-developers-comparison-2026-47km",
-      "summary": "This is a developer-focused Claude API vs OpenAI API comparison of the two most widely used large language model APIs: Anthropic's Claude API and OpenAI's API. It is not about which chatbot feels smarter in casual use; i",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "title": "Engineering: Dreams, or Self-Actualization?",
+      "link": "https://dev.to/annavi11arrea1/engineering-dreams-or-self-actualization-41ok",
+      "summary": "At what point did you start to think you were an engineer?\n\nAn engineer. What a lofty, prestigious-sounding title!\n\nI am not lofty or prestigious.\n\nBut I do question things. \n\nLike why do people follow archaic procedures",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsnkx3f03zzgk4t2zyp3c.png",
+      "published": "Tue, 18 Aug 2026 23:55:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
