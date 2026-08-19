@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-19T06:19:51.963233Z",
+  "updated": "2026-08-19T12:16:51.046233Z",
   "articles": [
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screens",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg",
+      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe sho",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
+      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg",
+      "published": "Wed, 19 Aug 2026 11:31:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg",
+      "published": "Wed, 19 Aug 2026 11:09:25 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
       "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automatio",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
-      "source": "The Hacker News",
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions compo",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
-      "published": "Tue, 18 Aug 2026 18:08:36 +0530",
-      "source": "The Hacker News",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.\n\n\"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg",
-      "published": "Tue, 18 Aug 2026 18:08:20 +0530",
-      "source": "The Hacker News",
+      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+      "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 04:00:48 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensor",
       "image": "",
       "published": "Tue, 18 Aug 2026 16:14:58 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal fil",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behav",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 07:14:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [.",
-      "image": "",
-      "published": "Tue, 18 Aug 2026 06:32:16 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Bun 1.4 Rust rewrite is not looking good",
-      "link": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-      "summary": "Article URL: https://tipiirai.com/writing/bun-rust-rewrite-worries\nComments URL: https://news.ycombinator.com/item?id=49357401\nPoints: 21\n# Comments: 4",
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730\nComments URL: https://news.ycombinator.com/item?id=49360242\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Wed, 19 Aug 2026 05:51:17 +0000",
+      "published": "Wed, 19 Aug 2026 11:46:58 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "link": "https://theremin.bizibah.com/",
+      "summary": "Article URL: https://theremin.bizibah.com/\nComments URL: https://news.ycombinator.com/item?id=49359425\nPoints: 51\n# Comments: 24",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 10:15:00 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "link": "https://www.modular.com/blog/modcon-announcements",
+      "summary": "Article URL: https://www.modular.com/blog/modcon-announcements\nComments URL: https://news.ycombinator.com/item?id=49358327\nPoints: 86\n# Comments: 32",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 07:47:19 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "λλ: A Programming Language for Silicon Photonics",
+      "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3789240.3829151\nComments URL: https://news.ycombinator.com/item?id=49357501\nPoints: 40\n# Comments: 7",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 06:09:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Palomar: A registry of Lean verified mathematics",
       "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49355968\nPoints: 58\n# Comments: 8",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49355968\nPoints: 118\n# Comments: 19",
       "image": "",
       "published": "Wed, 19 Aug 2026 02:41:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco\nComments URL: https://news.ycombinator.com/item?id=49355825\nPoints: 164\n# Comments: 114",
+      "title": "Kubernetes Networking [Level-8: kube-proxy / iptables / IPVS / eBPF]",
+      "link": "https://dev.to/iadiraj/kubernetes-networking-level-8-kube-proxy-iptables-ipvs-ebpf-4alm",
+      "summary": "This is Level 8 of our Kubernetes networking series, and it's where we finally go inside the Service dataplane. Back in Level 3, we learned that a client Pod talks to a Service's ClusterIP, which somehow routes traffic t",
       "image": "",
-      "published": "Wed, 19 Aug 2026 02:24:34 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "link": "https://github.com/katiahayati/lucasartsifier/",
-      "summary": "Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, a",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 01:58:33 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "OpenLogi",
-      "link": "https://openlogi.org/en",
-      "summary": "Article URL: https://openlogi.org/en\nComments URL: https://news.ycombinator.com/item?id=49355606\nPoints: 255\n# Comments: 47",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 01:58:28 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The Fundamentals of AI Engineering - EP 01",
-      "link": "https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949",
-      "summary": "AI Engineering means using an existing AI model to add useful AI features to a real software application.\n\nThose features might:\n\n\nSummarize a support ticket\nClassify a customer review\nRecommend products\nAnswer questions",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 06:08:30 +0000",
+      "published": "Wed, 19 Aug 2026 12:02:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "how die() helps you in debugging (PHP)",
-      "link": "https://dev.to/burirodev/how-die-help-you-in-debugging-php-2pb4",
-      "summary": "HOW die() HELPED ME IN DEBUGGING\n\n\nAs a beginner PHP developer I used to struggle a lot in debugging  specially when projects are large and with legacy code, then one of my senior advised to use die(), at first I was sur",
+      "title": "Why Your AI Agent Breaks Under Scrutiny — Lessons from Production Agent Frameworks, Self-Correction Prompts, and Real Bug Reports",
+      "link": "https://dev.to/tamizuddin/why-your-ai-agent-breaks-under-scrutiny-lessons-from-production-agent-frameworks-self-correction-5fb5",
+      "summary": "Originally published on tamiz.pro.\n\n\n  \n  \n  The Illusion of Robustness\n\n\nYou ship your first production AI agent. It passes every test case. It handles edge cases gracefully. You feel confident.\n\nThen someone asks it to",
       "image": "",
-      "published": "Wed, 19 Aug 2026 06:03:21 +0000",
+      "published": "Wed, 19 Aug 2026 12:02:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LLM visibility tracking tools: 15 compared, and when to build instead",
-      "link": "https://dev.to/rbatista19/llm-visibility-tracking-tools-15-compared-and-when-to-build-instead-2cf",
-      "summary": "Key takeaways\n\n\nLLM observability and LLM visibility are unrelated products sold under overlapping search terms. This is about the second one.\nCitation overlap between engines on the same prompt runs under 30%, so a pool",
+      "title": "MCP vs. API: Why Traditional APIs Aren't Enough for AI Agents",
+      "link": "https://dev.to/cpathirage/mcp-vs-api-why-traditional-apis-arent-enough-for-ai-agents-go2",
+      "summary": "APIs are not broken.\n\nThey have powered the internet, mobile applications, SaaS platforms, and distributed systems for decades.\n\nBut something has changed.\n\nThe consumer of software APIs is no longer always a piece of so",
       "image": "",
-      "published": "Wed, 19 Aug 2026 06:02:00 +0000",
+      "published": "Wed, 19 Aug 2026 12:00:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build a Self-Running Newsletter Business with AI That Earns $500+/Month",
-      "link": "https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-business-with-ai-that-earns-500month-23i1",
-      "summary": "How I Automated an Entire Newsletter Business Using AI (And What It Actually Earns)\n\n\nMost developers underestimate how powerful a niche newsletter can be as a passive income stream. The problem? Consistency is brutal. H",
+      "title": "Say Goodbye to \"It Works on My Machine\": Why I Built a New Task Runner 🚀",
+      "link": "https://dev.to/torudev/say-goodbye-to-it-works-on-my-machine-why-i-built-a-new-task-runner-3mi9",
+      "summary": "Have you ever spent hours—or even days—debugging a failed build or deployment, only to realize the issue was a slight difference in local environments?\n\nMaybe your colleague had Go 1.21 installed instead of Go 1.22. Mayb",
       "image": "",
-      "published": "Wed, 19 Aug 2026 06:00:30 +0000",
+      "published": "Wed, 19 Aug 2026 12:00:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Rate Limiting in the Next.js App Router: Field Notes on Middleware, Redis, and the Server Action That Looks Like Every Other POST",
-      "link": "https://dev.to/ahmed_mahmoud360/rate-limiting-in-the-nextjs-app-router-field-notes-on-middleware-redis-and-the-server-action-2lh2",
-      "summary": "Headline: An in-memory rate limiter is wrong on serverless because every function instance keeps its own counter, so a limit of 10 requests per minute becomes 10 requests per minute per instance. The second trap is that ",
+      "title": "CSS clamp() for Fluid Typography Explained",
+      "link": "https://dev.to/alicalimli_dev/css-clamp-for-fluid-typography-explained-740",
+      "summary": "Use CSS clamp() for fluid typography that scales smoothly without media queries. Learn the safer rem + vw pattern, cqi variant, and common gotchas.\n\n\nYou can make text responsive without media queries by using clamp() fo",
       "image": "",
-      "published": "Wed, 19 Aug 2026 06:00:14 +0000",
+      "published": "Wed, 19 Aug 2026 11:55:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
