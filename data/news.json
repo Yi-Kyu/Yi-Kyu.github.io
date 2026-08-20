@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-20T00:26:58.989335Z",
+  "updated": "2026-08-20T06:20:53.870639Z",
   "articles": [
+    {
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, tracked as CVE-2026-3247",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg",
+      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
@@ -34,15 +43,6 @@
       "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg",
       "published": "Wed, 19 Aug 2026 17:04:28 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg",
-      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "summary": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\nComments URL: https://news.ycombinator.com/item?id=49368625\nPoints: 22\n# Comments: 2",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana/",
+      "summary": "Article URL: https://openai.com/index/asana/\nComments URL: https://news.ycombinator.com/item?id=49370862\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Wed, 19 Aug 2026 23:38:22 +0000",
+      "published": "Thu, 20 Aug 2026 05:54:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Technical leaders should have the largest AI exhaust",
-      "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
-      "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/\nComments URL: https://news.ycombinator.com/item?id=49368389\nPoints: 4\n# Comments: 0",
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\nComments URL: https://news.ycombinator.com/item?id=49370440\nPoints: 16\n# Comments: 4",
       "image": "",
-      "published": "Wed, 19 Aug 2026 23:12:38 +0000",
+      "published": "Thu, 20 Aug 2026 04:42:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
-      "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
-      "summary": "Article URL: https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/\nComments URL: https://news.ycombinator.com/item?id=49368182\nPoints: 12\n# Comments: 5",
+      "title": "Zuckerberg encouraged growth over child safety, ex-Meta executive testifies",
+      "link": "https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/former-meta-engineer-resumes-testimony-landmark-trial-over-social-medias-harm-2026-08-19/\nComments URL: https://news.ycombinator.com/item?id=49370083\nPoints: 38\n# Com",
       "image": "",
-      "published": "Wed, 19 Aug 2026 22:51:17 +0000",
+      "published": "Thu, 20 Aug 2026 03:31:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Collaborative Human Agent Protocol (CHAP)",
-      "link": "https://github.com/BrightbeamAI/chap",
-      "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 14\n# Comments: 3",
+      "title": "Turns are Better than Radians (2022)",
+      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "summary": "Article URL: https://www.computerenhance.com/p/turns-are-better-than-radians\nComments URL: https://news.ycombinator.com/item?id=49369408\nPoints: 114\n# Comments: 53",
       "image": "",
-      "published": "Wed, 19 Aug 2026 22:09:16 +0000",
+      "published": "Thu, 20 Aug 2026 01:29:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Feature Request: Support AGENTS.md",
       "link": "https://github.com/anthropics/claude-code/issues/6235",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 110\n# Comments: 55",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 195\n# Comments: 108",
       "image": "",
       "published": "Wed, 19 Aug 2026 21:19:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Introduction",
-      "link": "https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27",
-      "summary": "Hi, I’m a Principal Architect with 15+ years of experience designing and delivering scalable, resilient, high-availability Java SaaS platforms.\n\nMy work sits at the intersection of distributed systems, real-time data pla",
+      "title": "Run Local LLMs with Ollama and Spring AI",
+      "link": "https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3",
+      "summary": "In the previous parts, we connected Spring AI with cloud-based AI models.\n\nBut there is one important question:\n\nWhat if you don't want to send your data to an external AI provider?\n\nWhat if you want to:\n\n\nRun an LLM on ",
       "image": "",
-      "published": "Thu, 20 Aug 2026 00:21:05 +0000",
+      "published": "Thu, 20 Aug 2026 06:14:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Implementing IN statements using JooqTemplate",
-      "link": "https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc",
-      "summary": "@Service\npublic class SimpleUserService {\n    @Autowired\n    private JooqTemplate jt;\n    public List&lt;user&gt; selectUserInDept(UserParam param) {\n        //If deptIDs==null or deptIDs. isEmpty automatically ignores t",
+      "title": "Self-Hosted Chatwoot: 5 Failures the Docs Don't Warn You About",
+      "link": "https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3",
+      "summary": "I run self-hosted Chatwoot as the WhatsApp inbox for a dozen or so small Israeli businesses. Two servers, a few thousand conversations a week, a drip-sequence engine bolted on the side.\n\nChatwoot is good software. The se",
       "image": "",
-      "published": "Thu, 20 Aug 2026 00:18:43 +0000",
+      "published": "Thu, 20 Aug 2026 06:10:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What's New in Go 1.27: A Developer's Practical Guide",
-      "link": "https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622",
-      "summary": "Go 1.27 landed in August 2024, and while it doesn’t introduce earth-shattering changes, it polishes the language in ways that add up. If you’re maintaining production services or building new ones, these updates can save",
+      "title": "How to Do IoT Test Automation: A 7-Step Process",
+      "link": "https://dev.to/perfectqaservices/how-to-do-iot-test-automation-a-7-step-process-1e0m",
+      "summary": "IoT testing involves more than checking whether a device works. Connected products depend on hardware, firmware, networks, cloud services, and applications working together. Without a structured approach, automation can ",
       "image": "",
-      "published": "Thu, 20 Aug 2026 00:17:27 +0000",
+      "published": "Thu, 20 Aug 2026 06:01:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Track AI Code Assistant Spend Across Every Vendor (2026 Guide)",
-      "link": "https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8",
-      "summary": "Most engineering organizations now pay several vendors for AI coding assistants, each one bills differently, and no single person in the company can answer the simplest question: what did our AI coding tools actually cos",
+      "title": "The AI Assistant That Lied: Why Self-Correcting Agents Are the Only Path to Trustworthy Production LLMs",
+      "link": "https://dev.to/tamizuddin/the-ai-assistant-that-lied-why-self-correcting-agents-are-the-only-path-to-trustworthy-production-194a",
+      "summary": "Originally published on tamiz.pro.\n\nYour production LLM assistant just told a customer their refund was processed. It wasn't. The customer never received it. The support ticket is now a legal liability, and your engineer",
       "image": "",
-      "published": "Thu, 20 Aug 2026 00:14:33 +0000",
+      "published": "Thu, 20 Aug 2026 06:01:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The loading screen that took down every browser I opened",
-      "link": "https://dev.to/carlosjcastrog/the-loading-screen-that-took-down-every-browser-i-opened-3pe8",
-      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.\n\nThere is a specific kind of bug that makes you question whether you know how to code at all. Not the kind where something throws a clear ",
+      "title": "Build a Self-Running Newsletter That Earns $500/Month Using AI Agents",
+      "link": "https://dev.to/sinan_koak_4a6dea677278a/build-a-self-running-newsletter-that-earns-500month-using-ai-agents-4fpb",
+      "summary": "How I Automated a Niche Newsletter to Generate Passive Income While I Sleep\n\n\nMost developers know how to build things. Few know how to build things that earn without constant attention. Here's a concrete system I set up",
       "image": "",
-      "published": "Thu, 20 Aug 2026 00:03:35 +0000",
+      "published": "Thu, 20 Aug 2026 06:00:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
