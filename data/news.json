@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-19T18:14:01.474148Z",
+  "updated": "2026-08-20T00:26:58.989335Z",
   "articles": [
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg",
+      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screens",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg",
-      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 20:20:55 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe sho",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg",
-      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
-      "source": "The Hacker News",
+      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete s",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 16:59:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 16:53:38 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
       "image": "",
       "published": "Wed, 19 Aug 2026 14:09:13 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 11:56:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-      "image": "",
-      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Opus 5.0 drives incoherence into the stratosphere",
-      "link": "https://github.com/anthropics/claude-code/issues/77136",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/77136\nComments URL: https://news.ycombinator.com/item?id=49364658\nPoints: 19\n# Comments: 1",
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "summary": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724\nComments URL: https://news.ycombinator.com/item?id=49368625\nPoints: 22\n# Comments: 2",
       "image": "",
-      "published": "Wed, 19 Aug 2026 17:40:06 +0000",
+      "published": "Wed, 19 Aug 2026 23:38:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenRouter Is Joining Stripe",
-      "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "Article URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/\nComments URL: https://news.ycombinator.com/item?id=49364559\nPoints: 41\n# Comments: 16",
+      "title": "Technical leaders should have the largest AI exhaust",
+      "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+      "summary": "Article URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/\nComments URL: https://news.ycombinator.com/item?id=49368389\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Wed, 19 Aug 2026 17:32:38 +0000",
+      "published": "Wed, 19 Aug 2026 23:12:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "link": "https://demo.frugaltokens.com/",
-      "summary": "I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend. I’d noticed people",
+      "title": "The Future of CSS: Target Multiple Classes with the Class Prefix Selector",
+      "link": "https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/",
+      "summary": "Article URL: https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/\nComments URL: https://news.ycombinator.com/item?id=49368182\nPoints: 12\n# Comments: 5",
       "image": "",
-      "published": "Wed, 19 Aug 2026 17:07:35 +0000",
+      "published": "Wed, 19 Aug 2026 22:51:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "link": "https://github.com/onecli/onecli",
-      "summary": "Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.Here’s what you can do with it:1. get a sandboxed agent, with all the OneCLI capabilitie",
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "link": "https://github.com/BrightbeamAI/chap",
+      "summary": "Article URL: https://github.com/BrightbeamAI/chap\nComments URL: https://news.ycombinator.com/item?id=49367836\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Wed, 19 Aug 2026 16:29:02 +0000",
+      "published": "Wed, 19 Aug 2026 22:09:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Extensible Software in the Age of LLMs",
-      "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "summary": "Article URL: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/\nComments URL: https://news.ycombinator.com/item?id=49363668\nPoints: 28\n# Comments: 14",
+      "title": "Feature Request: Support AGENTS.md",
+      "link": "https://github.com/anthropics/claude-code/issues/6235",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49367350\nPoints: 110\n# Comments: 55",
       "image": "",
-      "published": "Wed, 19 Aug 2026 16:26:05 +0000",
+      "published": "Wed, 19 Aug 2026 21:19:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Incremental Backup Using pg_basebackup in PostgreSQL 18",
-      "link": "https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag",
-      "summary": "In this article, I will show how to create a full backup and an incremental backup using pg_basebackup in PostgreSQL 18. I will then use pg_combinebackup to combine the backups and restore the database.\n\n\n  \n  \n  Prepari",
+      "title": "Introduction",
+      "link": "https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27",
+      "summary": "Hi, I’m a Principal Architect with 15+ years of experience designing and delivering scalable, resilient, high-availability Java SaaS platforms.\n\nMy work sits at the intersection of distributed systems, real-time data pla",
       "image": "",
-      "published": "Wed, 19 Aug 2026 18:02:06 +0000",
+      "published": "Thu, 20 Aug 2026 00:21:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Agency Stack in 2026: Lessons from Trueforge, OneCLI, and Lightdash on Building Production-Ready AI Agents",
-      "link": "https://dev.to/tamizuddin/the-agency-stack-in-2026-lessons-from-trueforge-onecli-and-lightdash-on-building-27l8",
-      "summary": "Originally published on tamiz.pro.\n\nThe era of the simple chatbot wrapper is over. By 2026, the distinction between \"AI-powered feature\" and \"production-grade agent\" has solidified into a rigorous architectural disciplin",
+      "title": "Implementing IN statements using JooqTemplate",
+      "link": "https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc",
+      "summary": "@Service\npublic class SimpleUserService {\n    @Autowired\n    private JooqTemplate jt;\n    public List&lt;user&gt; selectUserInDept(UserParam param) {\n        //If deptIDs==null or deptIDs. isEmpty automatically ignores t",
       "image": "",
-      "published": "Wed, 19 Aug 2026 18:01:27 +0000",
+      "published": "Thu, 20 Aug 2026 00:18:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "API Documentation Best Practices: Reference, Guides, and Working Requests",
-      "link": "https://dev.to/ninadpathak/api-documentation-best-practices-reference-guides-and-working-requests-5a65",
-      "summary": "Originally published at https://ninadpathak.com/articles/api-documentation-best-practices-reference-guides-and-working-requests/.\n\n\nAn API portal can list every endpoint and still leave a developer unable to send a reque",
+      "title": "What's New in Go 1.27: A Developer's Practical Guide",
+      "link": "https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622",
+      "summary": "Go 1.27 landed in August 2024, and while it doesn’t introduce earth-shattering changes, it polishes the language in ways that add up. If you’re maintaining production services or building new ones, these updates can save",
       "image": "",
-      "published": "Wed, 19 Aug 2026 18:01:26 +0000",
+      "published": "Thu, 20 Aug 2026 00:17:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "API Security: How to Protect a Public API in 2026",
-      "link": "https://dev.to/mecanik-dev/api-security-how-to-protect-a-public-api-in-2026-2iip",
-      "summary": "Most teams treat API security as an authentication problem. They add tokens, check them on every route, and consider the job done. Then a tester changes one number in a URL and reads another customer's invoice.\n\nThat gap",
+      "title": "How to Track AI Code Assistant Spend Across Every Vendor (2026 Guide)",
+      "link": "https://dev.to/rebeca_vb/how-to-track-ai-code-assistant-spend-across-every-vendor-2026-guide-1kp8",
+      "summary": "Most engineering organizations now pay several vendors for AI coding assistants, each one bills differently, and no single person in the company can answer the simplest question: what did our AI coding tools actually cos",
       "image": "",
-      "published": "Wed, 19 Aug 2026 18:00:00 +0000",
+      "published": "Thu, 20 Aug 2026 00:14:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Feature Flags and Testing: Because QA Deserves Surprises Too",
-      "link": "https://dev.to/avlcodemonkey-industries/feature-flags-and-testing-because-qa-deserves-surprises-too-2i0c",
-      "summary": "Feature flags solve a lot of deployment problems. They also create a whole new set of testing problems. Every flag introduces a branch in your code. Every branch needs to be tested. The math gets uncomfortable fast.\n\n\n  ",
+      "title": "The loading screen that took down every browser I opened",
+      "link": "https://dev.to/carlosjcastrog/the-loading-screen-that-took-down-every-browser-i-opened-3pe8",
+      "summary": "This is a submission for DEV's Summer Bug Smash: Smash Stories powered by Sentry.\n\nThere is a specific kind of bug that makes you question whether you know how to code at all. Not the kind where something throws a clear ",
       "image": "",
-      "published": "Wed, 19 Aug 2026 17:59:43 +0000",
+      "published": "Thu, 20 Aug 2026 00:03:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
@@ -232,6 +232,15 @@
       "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\n\nCSS Navi",
       "image": "",
       "published": "Wed, 19 Aug 2026 14:44:41 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "WordPress.com Student Plan",
+      "link": "https://css-tricks.com/wordpress-student-plan/",
+      "summary": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\n\nWordPress.com Student Plan originally h",
+      "image": "",
+      "published": "Wed, 19 Aug 2026 08:50:00 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     },
@@ -259,15 +268,6 @@
       "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\n\nBlocked aria-hidden: The Warning is Right, and Every Fix You&#8217;ve Found is ",
       "image": "",
       "published": "Wed, 12 Aug 2026 13:43:56 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Animating CSS border-image",
-      "link": "https://css-tricks.com/animating-css-border-image/",
-      "summary": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\n\nAnimating CSS border-image originally handwritt",
-      "image": "",
-      "published": "Mon, 10 Aug 2026 15:58:47 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
