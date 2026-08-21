@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-20T18:17:56.550878Z",
+  "updated": "2026-08-21T00:29:00.417747Z",
   "articles": [
+    {
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
+      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg",
+      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png",
+      "published": "Thu, 20 Aug 2026 22:53:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
       "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
@@ -16,33 +43,6 @@
       "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg",
       "published": "Thu, 20 Aug 2026 20:06:27 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg",
-      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to the cloud computing an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg",
-      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability in question is C",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg",
-      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I should have loved biology",
-      "link": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "Article URL: https://jsomers.net/i-should-have-loved-biology/\nComments URL: https://news.ycombinator.com/item?id=49377853\nPoints: 3\n# Comments: 0",
+      "title": "Detecting scraper bots through scroll behaviour",
+      "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+      "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\nComments URL: https://news.ycombinator.com/item?id=49381311\nPoints: 11\n# Comments: 4",
       "image": "",
-      "published": "Thu, 20 Aug 2026 17:50:02 +0000",
+      "published": "Thu, 20 Aug 2026 22:47:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Project Cybersyn",
-      "link": "https://bactra.org/notebooks/cybersyn.html",
-      "summary": "Article URL: https://bactra.org/notebooks/cybersyn.html\nComments URL: https://news.ycombinator.com/item?id=49377739\nPoints: 4\n# Comments: 0",
+      "title": "Scientists Release Biggest 2D Map of the Universe",
+      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "Article URL: https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/\nComments URL: https://news.ycombinator.com/item?id=49380671\nPoints: 8\n# Comments: 2",
       "image": "",
-      "published": "Thu, 20 Aug 2026 17:40:49 +0000",
+      "published": "Thu, 20 Aug 2026 21:42:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: We chased a weather balloon across Montana and never found it",
-      "link": "https://radi8.dev/blog/uplink/",
-      "summary": "Since April, I have been working with Sam Flynn (https://drook.dev) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.UpLink was a 491 gram p",
+      "title": "The Citizen Developer",
+      "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+      "summary": "Article URL: https://www.massdriver.cloud/blogs/the-citizen-developer\nComments URL: https://news.ycombinator.com/item?id=49380491\nPoints: 38\n# Comments: 53",
       "image": "",
-      "published": "Thu, 20 Aug 2026 17:33:32 +0000",
+      "published": "Thu, 20 Aug 2026 21:25:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "URL shortener links stored in your ATProto PDS",
-      "link": "https://atpr.to/",
-      "summary": "Article URL: https://atpr.to/\nComments URL: https://news.ycombinator.com/item?id=49377535\nPoints: 10\n# Comments: 0",
+      "title": "Code as an Artifact",
+      "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+      "summary": "Article URL: https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\nComments URL: https://news.ycombinator.com/item?id=49380482\nPoints: 18\n# Comments: 4",
       "image": "",
-      "published": "Thu, 20 Aug 2026 17:23:22 +0000",
+      "published": "Thu, 20 Aug 2026 21:24:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Defense-Tech Bubble Is Headed for Consolidation",
-      "link": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
-      "summary": "Article URL: https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation\nComments URL: https://news.ycombinator.com/item?id=49377249\nPoints: 11\n# Comments: 3",
+      "title": "The Wonders of the Male Human Pelvis",
+      "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+      "summary": "Article URL: https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947\nComments URL: https://news.ycombinator.com/item?id=49380226\nPoints: 30\n# Comments: 11",
       "image": "",
-      "published": "Thu, 20 Aug 2026 17:01:09 +0000",
+      "published": "Thu, 20 Aug 2026 21:01:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "¿Qué es la criptografía post-cuántica y por qué deberías migrar ya?",
-      "link": "https://dev.to/isazajuancarlos/que-es-la-criptografia-post-cuantica-y-por-que-deberias-migrar-ya-1l45",
-      "summary": "La criptografía que protege hoy tus datos —claves, HTTPS, firmas— se apoya en problemas matemáticos que los ordenadores actuales no pueden resolver en un tiempo razonable. Un ordenador cuántico suficientemente grande sí ",
+      "title": "Debugging a Windows Desktop App That Opens to a Blank Screen",
+      "link": "https://dev.to/wangwang_huang/debugging-a-windows-desktop-app-that-opens-to-a-blank-screen-12ai",
+      "summary": "A blank application window is not a diagnosis. It is only a symptom that tells you the process reached a different stage than an installer that never launched.\n\nThe most useful first step is to stop applying fixes and re",
       "image": "",
-      "published": "Thu, 20 Aug 2026 18:15:58 +0000",
+      "published": "Fri, 21 Aug 2026 00:18:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Opinion: Repo Tests Are a Compromised Oracle for AI Patches — Probe the Contract the Model Never Saw",
-      "link": "https://dev.to/github_7727/opinion-repo-tests-are-a-compromised-oracle-for-ai-patches-probe-the-contract-the-model-never-saw-5d5i",
-      "summary": "A green CI badge measures one thing only: the tests you already wrote still pass. It does not measure whether an AI-generated patch preserved the behaviors you never wrote down. When the model read those tests as part of",
+      "title": "The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist",
+      "link": "https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o",
+      "summary": "Anyone who has worked with SSH private keys has run into an instruction to \"set it to 600.\" Config files, by contrast, often get 644, and executable scripts get 755. What do these three-digit numbers actually mean, and w",
       "image": "",
-      "published": "Thu, 20 Aug 2026 18:15:03 +0000",
+      "published": "Fri, 21 Aug 2026 00:16:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
-      "link": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
-      "summary": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp; Flutter with Google Antigravity\n\n\nWhen architecting a modern container orchestrator like Gubernator (gbnt) — designed to strike t",
-      "image": "",
-      "published": "Thu, 20 Aug 2026 18:13:27 +0000",
+      "title": "What's an event loop anyways?",
+      "link": "https://dev.to/johnrushwrs/whats-an-event-loop-anyways-1n6o",
+      "summary": "Event loops are a paradigm for processing events different than your typical single-threaded or multi-threaded application. Your request gets broken down into async \"events\" that are executed in a loop to improve perform",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg5bhpgcjj6d8xs5hurj9.png",
+      "published": "Fri, 21 Aug 2026 00:09:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Twitter API Guide: Search Tweets, Scrape Data, and Automate",
-      "link": "https://dev.to/kriptoburak/twitter-api-guide-search-tweets-scrape-data-and-automate-5adn",
-      "summary": "While building Xquik, I learned that a Twitter API integration must do more than search tweets.\n\nIt must paginate Twitter search results, run durable Twitter scraper jobs, and make Twitter automation safe to retry.\n\nA de",
+      "title": "iCloud Silently Evicted 69 Article Files and Killed 4 Days of Publishing: EDEADLK and a read_text_resilient Design",
+      "link": "https://dev.to/bokuwalily/icloud-silently-evicted-69-article-files-and-killed-4-days-of-publishing-edeadlk-and-a-1n6i",
+      "summary": "Every one of my publishing lanes went dark for four days, and every script involved exited with status 0. Nothing had crashed. The files themselves had quietly stopped existing on disk — macOS had uploaded them to iCloud",
       "image": "",
-      "published": "Thu, 20 Aug 2026 18:00:46 +0000",
+      "published": "Fri, 21 Aug 2026 00:04:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The 2026 AI Agent Stack: From Local Execution to Governance Layer",
-      "link": "https://dev.to/tamizuddin/the-2026-ai-agent-stack-from-local-execution-to-governance-layer-2dc9",
-      "summary": "Originally published on tamiz.pro.\n\nThe era of the single-function chatbot is over. In 2026, building an AI system means orchestrating a heterogeneous stack of local inference engines, specialized tool-use frameworks, an",
+      "title": "From kanban to harness: when the tracking tool becomes the orchestrator",
+      "link": "https://dev.to/ekioo/from-kanban-to-harness-when-the-tracking-tool-becomes-the-orchestrator-34id",
+      "summary": "When I shipped KittyClaw two weeks ago, the tool did one thing: serve as a board. The Claude agents ran alongside - first by hand, then via a dispatcher.mjs: a Node script polling KittyClaw's API, triggering the right ag",
       "image": "",
-      "published": "Thu, 20 Aug 2026 18:00:42 +0000",
+      "published": "Fri, 21 Aug 2026 00:02:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
