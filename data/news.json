@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-21T12:19:23.195425Z",
+  "updated": "2026-08-21T18:17:31.209581Z",
   "articles": [
+    {
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.\n\nThe vulnerability, tracked as CVE-2026-69836 (CVSS",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg",
-      "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg",
-      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg",
-      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
       "image": "",
-      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
       "image": "",
-      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinic",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
       "image": "",
-      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
+      "published": "Fri, 21 Aug 2026 10:54:49 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlati",
       "image": "",
-      "published": "Thu, 20 Aug 2026 13:53:52 -0400",
+      "published": "Fri, 21 Aug 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
       "image": "",
-      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+      "published": "Fri, 21 Aug 2026 09:39:35 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
-      "link": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
-      "summary": "Article URL: https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering\nComments URL: https://news.ycombinator.com/item?id=49386659\nPoints: 13\n# Comments: 0",
+      "title": "Rebuilding our Electron meeting-recording engine in Swift",
+      "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+      "summary": "Article URL: https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift\nComments URL: https://news.ycombinator.com/item?id=49391389\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Fri, 21 Aug 2026 11:43:38 +0000",
+      "published": "Fri, 21 Aug 2026 17:33:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "link": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/vision/\nComments URL: https://news.ycombinator.com/item?id=49386163\nPoints: 138\n# Comments: 31",
+      "title": "When the shortage is the strategy",
+      "link": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+      "summary": "Article URL: https://nooneshappy.com/article/when-the-shortage-is-the-strategy/\nComments URL: https://news.ycombinator.com/item?id=49391358\nPoints: 5\n# Comments: 1",
       "image": "",
-      "published": "Fri, 21 Aug 2026 10:33:56 +0000",
+      "published": "Fri, 21 Aug 2026 17:31:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "link": "https://annas-archive.pk/blog/physical-destruction.html",
-      "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49385994\nPoints: 55\n# Comments: 16",
+      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "summary": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6\nComments URL: https://news.ycombinator.com/item?id=49390910\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Fri, 21 Aug 2026 10:05:46 +0000",
+      "published": "Fri, 21 Aug 2026 17:00:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Small, native web tricks worth remembering",
-      "link": "https://htmlcat.net/",
-      "summary": "Article URL: https://htmlcat.net/\nComments URL: https://news.ycombinator.com/item?id=49385860\nPoints: 72\n# Comments: 17",
+      "title": "Another better lower bound for n=17 square packing",
+      "link": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+      "summary": "Article URL: http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html\nComments URL: https://news.ycombinator.com/item?id=49390775\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Fri, 21 Aug 2026 09:45:14 +0000",
+      "published": "Fri, 21 Aug 2026 16:50:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Better Batteries",
-      "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-      "summary": "Article URL: https://matklad.github.io/2026/08/20/better-batteries.html\nComments URL: https://news.ycombinator.com/item?id=49385068\nPoints: 13\n# Comments: 9",
+      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "link": "https://github.com/proliferate-ai/proliferate",
+      "summary": "Hi HN- I'm Pablo, the founder of Proliferate (YC S25)!Proliferate (https://github.com/proliferate-ai/proliferate) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, Ope",
       "image": "",
-      "published": "Fri, 21 Aug 2026 07:48:50 +0000",
+      "published": "Fri, 21 Aug 2026 16:47:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow (and what I built)",
-      "link": "https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an",
-      "summary": "Last year I renamed a field in an API response. customer_id became customerId, matching the rest of the codebase. Every test passed. Review approved it in about four minutes.\n\nThree days later a mobile team filed a P1. T",
+      "title": "As Engineers, LLMs should pay us for tokens usage.",
+      "link": "https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic",
+      "summary": "This post was originally published on the main website on Apr 7 2026. I am reposting it here for SEO reasons and enabling humble bumble discussions with the DEV community. Feel free to engage with this post and i am avai",
       "image": "",
-      "published": "Fri, 21 Aug 2026 12:17:03 +0000",
+      "published": "Fri, 21 Aug 2026 18:12:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AIOLIA Ethics Guidelines Show How Trustworthy AI Can Work in Real Deployments",
-      "link": "https://dev.to/alifar/aiolia-ethics-guidelines-show-how-trustworthy-ai-can-work-in-real-deployments-59b",
-      "summary": "The EU-funded AIOLIA project has published operational ethics guidelines intended to move responsible AI from high-level principles into the realities of deployment. Its work examines six European use cases and connects ",
+      "title": "UniSin - LinkdIn Post Scheduler",
+      "link": "https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh",
+      "summary": "Hey hunters  — I’m Sameer, maker of UniSin.\n\nI built this because I kept meaning to post on LinkedIn and then… not posting. The native composer is fine for one update. It is terrible if you want a week of posts sitting i",
       "image": "",
-      "published": "Fri, 21 Aug 2026 12:15:30 +0000",
+      "published": "Fri, 21 Aug 2026 18:10:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Best AI Design Tools to Know and Use in 2026",
-      "link": "https://dev.to/elsie-rainee/best-ai-design-tools-to-know-and-use-in-2026-2oi6",
-      "summary": "You open a blank canvas, you have a deadline in three hours, and your designer is unavailable. Or maybe you are the designer, and you’re drowning in revision requests, asset generation, and client feedback that never see",
+      "title": "Your Rust Code Proves You Don't Understand Memory",
+      "link": "https://dev.to/xxxn3m3s1sxxx/your-rust-code-proves-you-dont-understand-memory-4lo9",
+      "summary": "Your Rust Code Proves You Don't Understand Memory\n\n\nYou chose Rust because the internet told you it was the future. Now your codebase is 6x longer and you still cannot ship.\n\n\n  \n  \n  The Borrow Checker Is Not Your Frien",
       "image": "",
-      "published": "Fri, 21 Aug 2026 12:15:21 +0000",
+      "published": "Fri, 21 Aug 2026 18:10:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "#My First GitHub Project",
-      "link": "https://dev.to/analystnina/-my-first-github-project-2lol",
-      "summary": "Introduction\n\n\nWhen working on a project, you may make many changes to your files. It can become difficult to keep track of what you changed. Git helps you solve this by allowing you to record your changes and keep a his",
+      "title": "Small Models Are Coming for the Cloud — And the Data Is Damning",
+      "link": "https://dev.to/thegatewayguy/small-models-are-coming-for-the-cloud-and-the-data-is-damning-3g6f",
+      "summary": "A Stanford research team just published a paper that should make every hyperscaler investor uncomfortable. They benchmarked small language models (SLMs) — models you can run on a high-end laptop or desktop — against clou",
       "image": "",
-      "published": "Fri, 21 Aug 2026 12:06:11 +0000",
+      "published": "Fri, 21 Aug 2026 18:09:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Feedback Dilemma: Your Agent's Memory Learns Most From a Signal It Almost Never Sends",
-      "link": "https://dev.to/izgorodin/the-feedback-dilemma-your-agents-memory-learns-most-from-a-signal-it-almost-never-sends-4akk",
-      "summary": "An AI agent with learning memory should get better the more you use it. That is the promise everyone in this category makes, including us.\n\nIn practice, the mechanism designed to do the heaviest lifting is almost entirel",
+      "title": "The Local LLM Stack in 2026: What Actually Works",
+      "link": "https://dev.to/thegatewayguy/the-local-llm-stack-in-2026-what-actually-works-ib1",
+      "summary": "Running a language model locally used to be a hobbyist experiment. In 2026, it's a viable engineering decision for a growing slice of real workloads — and the tooling has finally caught up. StorageReview just published a",
       "image": "",
-      "published": "Fri, 21 Aug 2026 12:03:00 +0000",
+      "published": "Fri, 21 Aug 2026 18:09:34 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Resolved: CSS Class Prefix Selector",
+      "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+      "summary": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\n\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tric",
+      "image": "",
+      "published": "Fri, 21 Aug 2026 15:13:03 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\n\nWhat’s !important #17: Custom Highlight ",
       "image": "",
       "published": "Fri, 14 Aug 2026 14:01:51 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
-      "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
-      "summary": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\n\nBlocked aria-hidden: The Warning is Right, and Every Fix You&#8217;ve Found is ",
-      "image": "",
-      "published": "Wed, 12 Aug 2026 13:43:56 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
