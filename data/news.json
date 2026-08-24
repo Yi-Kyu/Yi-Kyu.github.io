@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T00:27:55.279229Z",
+  "updated": "2026-08-24T06:29:12.913813Z",
   "articles": [
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -182,47 +182,47 @@
       "category": "development"
     },
     {
-      "title": "Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr",
-      "link": "https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg",
-      "summary": "We Fixed the Eval Platform: The TypeError That Took Down Three Benchmark Pipelines\n\n\nAt 3 AM, Sentry lit up with TypeError: Cannot read property 'map' of undefined. Three benchmark pipelines crashed. Not a memory leak, n",
+      "title": "Node.js interview deep dive: what they are really testing",
+      "link": "https://dev.to/moputa/nodejs-interview-deep-dive-what-they-are-really-testing-1m6o",
+      "summary": "Almost every senior Node question is the same question wearing a different hat: do you understand that there is one thread doing your work, and do you know what happens when you block it.\n\nNode interviews look varied and",
       "image": "",
-      "published": "Mon, 24 Aug 2026 00:16:15 +0000",
+      "published": "Mon, 24 Aug 2026 06:19:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Construyendo un recomendador de emparejamiento de expertos",
-      "link": "https://dev.to/aws-builders/construyendo-un-recomendador-de-emparejamiento-de-expertos-57h2",
-      "summary": "La forma del problema\n\n\nUn directorio es una superficie: el miembro lo abre y adivina. \nUn recomendador es una superficie de empujar: el sistema propone y tiene que justificarse. La justificación es la parte difícil, y e",
+      "title": "A FinOps MCP Server: What Your AI Assistant Can Ask About Your Cloud Bill, and What It Can Never Change",
+      "link": "https://dev.to/zop_8abedcc7e12/a-finops-mcp-server-what-your-ai-assistant-can-ask-about-your-cloud-bill-and-what-it-can-never-5ak8",
+      "summary": "Quick Answer (TL;DR)\n\n\nAn MCP (Model Context Protocol) server for FinOps gives your AI assistant (Claude, Cursor, and other MCP clients) tools to query real cloud cost data, so \"what's costing us money this month\" gets a",
       "image": "",
-      "published": "Mon, 24 Aug 2026 00:03:34 +0000",
+      "published": "Mon, 24 Aug 2026 06:18:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building PickTool with Next.js and Laravel: Lessons from Creating a Software Discovery Platform",
-      "link": "https://dev.to/doaaabed94/building-picktool-with-nextjs-and-laravel-lessons-from-creating-a-software-discovery-platform-d72",
-      "summary": "Finding software is easy. Finding the right software is not.\n\nSearch for almost any category—email marketing, CRM, productivity, design, or AI—and you will find hundreds of options. Every product presents itself as the b",
-      "image": "",
-      "published": "Mon, 24 Aug 2026 00:01:27 +0000",
+      "title": "AI, Fairy's, and Agile",
+      "link": "https://dev.to/wyattdave/ai-fairys-and-agile-44cc",
+      "summary": "Now hose 3 words don't generally go together, but trust me its not just clickbait (well just a little).\n\nI had an epiphany recently, and I want to take you on that journey.\n\nVibe coding has become a key part of nearly al",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxm26w4nohy5z20b4lfe9.png",
+      "published": "Mon, 24 Aug 2026 06:07:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Planning Over Execution: Lessons from 157 Agent Runs and the Rise of Orca-Style Agent Fleets",
-      "link": "https://dev.to/tamizuddin/planning-over-execution-lessons-from-157-agent-runs-and-the-rise-of-orca-style-agent-fleets-3cb8",
-      "summary": "Originally published on tamiz.pro.\n\nThe field of AI agents has moved rapidly from single-model executors to complex multi-agent orchestration. But after running 157 agent deployments across diverse task domains, one patt",
+      "title": "Why Claude Loses Users to Cheaper AI Tools",
+      "link": "https://dev.to/adilaidev/why-claude-loses-users-to-cheaper-ai-tools-44cn",
+      "summary": "Claude 3.5 Sonnet is fast, accurate, and handles complex tasks better than most models out there. Yet, when you check usage stats or talk to teams actually deploying AI, you’ll notice something odd. The cheaper options, ",
       "image": "",
-      "published": "Mon, 24 Aug 2026 00:00:51 +0000",
+      "published": "Mon, 24 Aug 2026 06:01:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Four Alarm Slots, Three Failure Modes: Building a Nightly Drain That Survives Sleep, Races, and Timeouts",
-      "link": "https://dev.to/bokuwalily/four-alarm-slots-three-failure-modes-building-a-nightly-drain-that-survives-sleep-races-and-5663",
-      "summary": "Every night my Mac quietly rewrites my long-term memory. Not metaphorically — a shell script drains that day's Claude Code conversation logs into an Obsidian vault, commits them to a private repo, and leaves a briefing o",
+      "title": "The Solo Founder Simulation: Lessons from Letting an AI Agent Run a SaaS While I Audited Its Human-Like Mistakes",
+      "link": "https://dev.to/tamizuddin/the-solo-founder-simulation-lessons-from-letting-an-ai-agent-run-a-saas-while-i-audited-its-48cc",
+      "summary": "Originally published on tamiz.pro.\n\nI spent six weeks delegating the operational backbone of my SaaS to a multi-agent system. The goal was to test the limits of autonomous software engineering—could an AI agent actually ",
       "image": "",
-      "published": "Mon, 24 Aug 2026 00:00:06 +0000",
+      "published": "Mon, 24 Aug 2026 06:00:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
