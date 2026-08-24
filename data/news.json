@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:09:42.053305Z",
+  "updated": "2026-08-24T00:27:55.279229Z",
   "articles": [
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -182,47 +182,47 @@
       "category": "development"
     },
     {
-      "title": "The Semantic Cache That Made a Free LLM Quota Feel Infinite",
-      "link": "https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0",
-      "summary": "A token allowance is usually treated as a spending budget, which is the wrong mental model for free tiers. The right model is a cache to be managed, because agent workloads repeat themselves far more than developers real",
+      "title": "Architectural Breakdown: We fixed the eval platform we're competing on: a TypeError that crashed thr",
+      "link": "https://dev.to/agenticstack/architectural-breakdown-we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-thr-42eg",
+      "summary": "We Fixed the Eval Platform: The TypeError That Took Down Three Benchmark Pipelines\n\n\nAt 3 AM, Sentry lit up with TypeError: Cannot read property 'map' of undefined. Three benchmark pipelines crashed. Not a memory leak, n",
       "image": "",
-      "published": "Sun, 23 Aug 2026 18:02:27 +0000",
+      "published": "Mon, 24 Aug 2026 00:16:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Windows 11 KB5077181 Causing Boot Loops? Here's How to Fix It",
-      "link": "https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h",
-      "summary": "You turn on your PC.\n\nThe manufacturer logo appears.\n\nThen the spinning circle of dots appears.\n\nAnd appears.\n\nAnd appears.\n\nYour PC keeps restarting — over and over — and never reaches the desktop.\n\nYou might think:\n\n\"D",
+      "title": "Construyendo un recomendador de emparejamiento de expertos",
+      "link": "https://dev.to/aws-builders/construyendo-un-recomendador-de-emparejamiento-de-expertos-57h2",
+      "summary": "La forma del problema\n\n\nUn directorio es una superficie: el miembro lo abre y adivina. \nUn recomendador es una superficie de empujar: el sistema propone y tiene que justificarse. La justificación es la parte difícil, y e",
       "image": "",
-      "published": "Sun, 23 Aug 2026 18:00:55 +0000",
+      "published": "Mon, 24 Aug 2026 00:03:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The AI Agent Reality Check: Why MCP Backdoors Fail in Production",
-      "link": "https://dev.to/tamizuddin/the-ai-agent-reality-check-why-mcp-backdoors-fail-in-production-2d9b",
-      "summary": "Originally published on tamiz.pro.\n\nYou built a prototype. The model connected to the server, fetched a tool, and the loop closed perfectly. But when you pushed to production, the agents started hallucinating context, ti",
+      "title": "Building PickTool with Next.js and Laravel: Lessons from Creating a Software Discovery Platform",
+      "link": "https://dev.to/doaaabed94/building-picktool-with-nextjs-and-laravel-lessons-from-creating-a-software-discovery-platform-d72",
+      "summary": "Finding software is easy. Finding the right software is not.\n\nSearch for almost any category—email marketing, CRM, productivity, design, or AI—and you will find hundreds of options. Every product presents itself as the b",
       "image": "",
-      "published": "Sun, 23 Aug 2026 18:00:36 +0000",
+      "published": "Mon, 24 Aug 2026 00:01:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I gave my AI a supervisor. It built a bureaucracy.",
-      "link": "https://dev.to/martinschenk/i-gave-my-ai-a-supervisor-it-built-a-bureaucracy-56go",
-      "summary": "For about three months I have been running two AIs against each other on purpose.\n\nThe setup first, because nothing below makes sense without it. I am one person with around a dozen software products. Almost all of the c",
+      "title": "Planning Over Execution: Lessons from 157 Agent Runs and the Rise of Orca-Style Agent Fleets",
+      "link": "https://dev.to/tamizuddin/planning-over-execution-lessons-from-157-agent-runs-and-the-rise-of-orca-style-agent-fleets-3cb8",
+      "summary": "Originally published on tamiz.pro.\n\nThe field of AI agents has moved rapidly from single-model executors to complex multi-agent orchestration. But after running 157 agent deployments across diverse task domains, one patt",
       "image": "",
-      "published": "Sun, 23 Aug 2026 17:59:12 +0000",
+      "published": "Mon, 24 Aug 2026 00:00:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built an AI Agent Fleet That Fights Your Insurance Company for You",
-      "link": "https://dev.to/sodiqjimoh/i-built-an-ai-agent-fleet-that-fights-your-insurance-company-for-you-ldj",
-      "summary": "The 90 seconds that used to take hours\n\n\nEvery year, 1 in 7 insured Americans has a health insurance claim denied.\n\nThe denial letter isn't the hard part. What comes after is: someone, usually a medical billing specialis",
+      "title": "Four Alarm Slots, Three Failure Modes: Building a Nightly Drain That Survives Sleep, Races, and Timeouts",
+      "link": "https://dev.to/bokuwalily/four-alarm-slots-three-failure-modes-building-a-nightly-drain-that-survives-sleep-races-and-5663",
+      "summary": "Every night my Mac quietly rewrites my long-term memory. Not metaphorically — a shell script drains that day's Claude Code conversation logs into an Obsidian vault, commits them to a private repo, and leaves a briefing o",
       "image": "",
-      "published": "Sun, 23 Aug 2026 17:39:02 +0000",
+      "published": "Mon, 24 Aug 2026 00:00:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
