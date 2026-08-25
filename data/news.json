@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-25T06:21:14.084741Z",
+  "updated": "2026-08-25T12:19:39.181500Z",
   "articles": [
+    {
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxn6tX1r1BmVfN_4cdoh6p5jmcAe3D9ckNhjscacXx5HpxZJAdb1SvIWo404cGlwahzCLyFIRB-MdUjGcQdBLLC5pMwaCB75e9AT5jKvC49cvIP5jGIOB4IjcQGaOpibWbIPKj929DICeMilGRZn5JmVIcVslRm2hWgz5RTXIZK5d2b2N5dlEnRBBwWVO/s1600/wordpress-hack.jpg",
+      "published": "Tue, 25 Aug 2026 14:04:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl_xYf_N0l1MVU0TVJFootEd6UCngqtfmbbEKRc06D7-0-ehjKU2SrBoA3qKaSkUWrOzgAu6hkbtimW8U7M4zgfH_6jXzgy6w7aQEGQKni-doNdQFCmAm9_vI_Zq4I6tx7lO2q533pbWWOLKBuUUYLGdY9O7SfBcwcGrqvsMLaFMPL09xXK86vRu38JfEp/s1600/oracle.jpg",
+      "published": "Tue, 25 Aug 2026 11:42:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
       "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "summary": "Cybersecurity researchers have flagged two new malware families called  WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\nAccording to findings from Ge",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg",
-      "published": "Mon, 24 Aug 2026 18:05:36 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg",
-      "published": "Mon, 24 Aug 2026 17:26:34 +0530",
-      "source": "The Hacker News",
+      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 06:53:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
       "image": "",
       "published": "Mon, 24 Aug 2026 13:56:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "image": "",
-      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Teams now lets admins block external bots from meetings",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-      "image": "",
-      "published": "Mon, 24 Aug 2026 10:00:19 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-      "link": "https://github.com/dragthelake/ambient-context",
-      "summary": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose",
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "link": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "summary": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer\nComments URL: https://news.ycombinator.com/item?id=49432201\nPoints: 35\n# Comments: 12",
       "image": "",
-      "published": "Tue, 25 Aug 2026 04:33:24 +0000",
+      "published": "Tue, 25 Aug 2026 11:37:24 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Quantum battery upends the rules of charging",
+      "link": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\nComments URL: https://news.ycombinator.com/item?id=49431560\nPoints: 32\n# Comments: 26",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 10:34:12 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Why some US restaurants are banning tips",
+      "link": "https://www.bbc.com/news/articles/c4g36yze692o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o\nComments URL: https://news.ycombinator.com/item?id=49431364\nPoints: 145\n# Comments: 244",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 10:09:47 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+      "link": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+      "summary": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1\nComments URL: https://news.ycombinator.com/item?id=49431024\nPoints: 41\n# Comments: 35",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 09:17:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Headlong: A Microharness for Persistent Agents",
       "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 29\n# Comments: 10",
+      "summary": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\nComments URL: https://news.ycombinator.com/item?id=49428882\nPoints: 81\n# Comments: 31",
       "image": "",
       "published": "Tue, 25 Aug 2026 03:54:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SiFive's First Server Platform",
-      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform\nComments URL: https://news.ycombinator.com/item?id=49428638\nPoints: 10\n# Comments: 3",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 03:06:26 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Thomson Reuters Launches Its Own Frontier Model",
-      "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-      "summary": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\nComments URL: https://news.ycombinator.com/item?id=49428318",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 02:11:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "How Universities Should Prepare Founders",
-      "link": "https://paulgraham.com/prepare.html",
-      "summary": "Article URL: https://paulgraham.com/prepare.html\nComments URL: https://news.ycombinator.com/item?id=49428121\nPoints: 78\n# Comments: 72",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 01:40:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The Remote Job Search Playbook for Developers Outside the US/EU",
-      "link": "https://dev.to/respect17/the-remote-job-search-playbook-for-developers-outside-the-useu-3njb",
-      "summary": "The Remote Job Search Playbook for Developers Outside the US/EU\n\n\nRemote work opened the door for developers outside major tech hubs to compete for roles that used to be geographically gated. It also created a much bigge",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 06:15:57 +0000",
+      "title": "AI Coding Tip 033 - Protect Yourself Against AI Cheating",
+      "link": "https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1",
+      "summary": "When all tests pass doesn't mean what you think it means.\n\n\nTL;DR: Write the failing test first and ban deletions, or the AI deletes your test, reverts your fix, and calls it done.\n\n\n\n  \n  \n  Common Mistake ❌\n\n\nYou ask t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F366059%2F44d4a869-bb26-4b8e-aa73-6e596b4b4b8a.jpg",
+      "published": "Tue, 25 Aug 2026 12:14:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me",
-      "link": "https://dev.to/respect17/breaking-into-full-stack-development-without-a-cs-degree-what-actually-worked-for-me-59g7",
-      "summary": "Breaking Into Full-Stack Development Without a CS Degree: What Actually Worked for Me\n\n\nI didn't go through a computer science program. What I have instead is about seven years of shipping production code, learned almost",
+      "title": "I removed the LLM call and replaced it with 200 lines of template code",
+      "link": "https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0",
+      "summary": "The feature was a letter generator. Somebody fills in a few fields and gets a finished\nletter of recommendation, resignation letter or notice letter, in plain text, ready to\npaste into an email.\n\nThe obvious build is a p",
       "image": "",
-      "published": "Tue, 25 Aug 2026 06:14:22 +0000",
+      "published": "Tue, 25 Aug 2026 12:11:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Using AI in Your Job Search: What Actually Helps vs What Looks Lazy to Recruiters",
-      "link": "https://dev.to/respect17/using-ai-in-your-job-search-what-actually-helps-vs-what-looks-lazy-to-recruiters-lna",
-      "summary": "Using AI in Your Job Search: What Actually Helps vs What Looks Lazy to Recruiters\n\n\nAI tools are now part of almost everyone's job search, whether they admit it or not. The gap isn't between people who use AI and people ",
+      "title": "Chega de git stash: como trabalhar em múltiplas features em paralelo com git worktree",
+      "link": "https://dev.to/brduarte/chega-de-git-stash-como-trabalhar-em-multiplas-features-em-paralelo-com-git-worktree-171b",
+      "summary": "Se você já perdeu tempo com essa sequência:\n\n\n\ngit stash\ngit checkout outra-branch\n# resolve o problema urgente\ngit checkout branch-original\ngit stash pop\n\n\n\n\n\n\n...só pra descobrir depois que esqueceu o que tinha no stas",
       "image": "",
-      "published": "Tue, 25 Aug 2026 06:12:49 +0000",
+      "published": "Tue, 25 Aug 2026 12:08:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Unread badges that would not clear: 59 of my 64 messages were junk",
-      "link": "https://dev.to/tacckim/unread-badges-that-would-not-clear-59-of-my-64-messages-were-junk-4fi1",
-      "summary": "I am building a small chat feature for an HR system. Shared hosting, PHP, no WebSocket, polling every few seconds. Nothing exotic.\n\nThen a bug report landed. This is what I actually wrote, translated from Korean:\n\n\n\"If I",
+      "title": "A $60/Month VM Running an LLM Agent Now Does Autonomous Security Work",
+      "link": "https://dev.to/gptbrunch/a-60month-vm-running-an-llm-agent-now-does-autonomous-security-work-4bii",
+      "summary": "A $60/Month VM Running an LLM Agent Now Does Autonomous Security Work\n\n\nIvan Novikov, CEO of Wallarm, posted a claim on X yesterday that pulled 2.5k impressions in its first hours: it has never been this easy to run cybe",
       "image": "",
-      "published": "Tue, 25 Aug 2026 06:11:22 +0000",
+      "published": "Tue, 25 Aug 2026 12:05:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Every dev tool you paste your data into is a potential breach you didn't sign up for",
-      "link": "https://dev.to/formatstack_2688dca3303f2/every-dev-tool-you-paste-your-data-into-is-a-potential-breach-you-didnt-sign-up-for-1mbn",
-      "summary": "This week another headline dropped: a threat actor is reportedly selling around 3.6 million employee records lifted from Microsoft Azure environments across multiple Fortune 500 companies. It's not an isolated story — br",
+      "title": "TielCoder 35B-A3B: 22GB kvantizace na úrovni Opus 4.6 medium",
+      "link": "https://dev.to/petr_baloun/tielcoder-35b-a3b-22gb-kvantizace-na-urovni-opus-46-medium-d03",
+      "summary": "Nový model TielCoder 35B-A3B se v reálných coding úlohách vyrovná Opus 4.6 medium, přitom se vejde do 22 GB kvantizace a běží rychle i na omezeném hardware. Jde o finetune Qwen 35B postavený na Ornith s kódově zaměřenou ",
       "image": "",
-      "published": "Tue, 25 Aug 2026 06:06:07 +0000",
+      "published": "Tue, 25 Aug 2026 12:05:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
