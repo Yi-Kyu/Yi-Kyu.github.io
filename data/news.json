@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-25T18:19:07.618754Z",
+  "updated": "2026-08-26T00:28:23.144821Z",
   "articles": [
+    {
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers.\n\n\"We are",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg",
+      "published": "Tue, 25 Aug 2026 23:47:17 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
       "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.\n\n\"While the malware is simpl",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg",
-      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
-      "source": "The Hacker News",
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 17:58:14 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 17:39:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 16:25:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
       "image": "",
       "published": "Tue, 25 Aug 2026 10:44:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake wor",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 09:51:58 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 09:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Dolly Parton, US country star, actor and philanthropist, dies aged 80",
-      "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "Article URL: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead\nComments URL: https://news.ycombinator.com/item?id=49438052\nPoints: 24\n# Comments: 0",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "link": "https://github.com/runetes/maiao",
+      "summary": "Article URL: https://github.com/runetes/maiao\nComments URL: https://news.ycombinator.com/item?id=49441666\nPoints: 14\n# Comments: 0",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:02:22 +0000",
+      "published": "Tue, 25 Aug 2026 22:40:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Firefox 157 will include JPEG XL by default on all platforms",
-      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1\nComments URL: https://news.ycombinator.com/item?id=49437946\nPoints: 6\n# Comments: 1",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "link": "https://github.com/swimmingbrain/texbrain",
+      "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. S",
       "image": "",
-      "published": "Tue, 25 Aug 2026 17:55:23 +0000",
+      "published": "Tue, 25 Aug 2026 22:08:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
-      "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=49437566\nPoints: 0\n# Comments: 0",
+      "title": "Python's pre-declared constants are kinda weird",
+      "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "summary": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html\nComments URL: https://news.ycombinator.com/item?id=49441033\nPoints: 112\n# Comments: 55",
       "image": "",
-      "published": "Tue, 25 Aug 2026 17:28:52 +0000",
+      "published": "Tue, 25 Aug 2026 21:39:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/\nComments URL: https://news.ycombinator.com/item?id=49437483\nPoints: 13\n# Comments: 4",
+      "title": "XCancel also down, at least for time being",
+      "link": "https://news.ycombinator.com/item?id=49440786",
+      "summary": "Message on xcancel website:\"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped until further notice.\nWe are seeking legal a",
       "image": "",
-      "published": "Tue, 25 Aug 2026 17:23:07 +0000",
+      "published": "Tue, 25 Aug 2026 21:18:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lightweight system monitor for Linux VPS written in Go",
-      "link": "https://github.com/leodeim/vpsmon",
-      "summary": "Article URL: https://github.com/leodeim/vpsmon\nComments URL: https://news.ycombinator.com/item?id=49437361\nPoints: 11\n# Comments: 7",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "summary": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\nComments URL: https://news.ycombinator.com/item?id=49440410\nPoints: 42\n# Comments: 23",
       "image": "",
-      "published": "Tue, 25 Aug 2026 17:13:59 +0000",
+      "published": "Tue, 25 Aug 2026 20:49:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Hermes Agent Gets Right About Long Running Agents",
-      "link": "https://dev.to/paulcrinigan/what-hermes-agent-gets-right-about-long-running-agents-2gc4",
-      "summary": "If you have built anything on top of an agent framework, you know the pattern. The agent works out a hard problem on Tuesday and starts from nothing on Wednesday. Hermes Agent, the open source runtime Nous Research relea",
+      "title": "A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works",
+      "link": "https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4",
+      "summary": "The same zsh script could list ~/Documents when I ran it in Terminal. Started as a LaunchAgent, it failed with:\n\n\n\nls: /Users/administrator/Documents: Operation not permitted\n\n\n\n\n\n\nThe LaunchAgent had the same user ID, t",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:02:09 +0000",
+      "published": "Wed, 26 Aug 2026 00:22:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From Hype to Production: The Harsh Reality of Shipping AI Agents Beyond the Demo",
-      "link": "https://dev.to/tamizuddin/from-hype-to-production-the-harsh-reality-of-shipping-ai-agents-beyond-the-demo-402f",
-      "summary": "Originally published on tamiz.pro.\n\nThe demo works beautifully. The agent reads the inbox, writes a draft, calls the API, and updates the database — all in one fluid, 90-second recording where the LLM \"just knows\" what t",
+      "title": "Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison",
+      "link": "https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e",
+      "summary": "Short answer: compare a hosted app log search service, self-hosted Loki, and Elastic Cloud by the operational boundary each one creates. Low effort, data control, and search depth are different decision axes; the cheapes",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:00:55 +0000",
+      "published": "Wed, 26 Aug 2026 00:20:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Proxmox HA-Cluster: Split-Brain vermeiden & Quorum richtig einstellen",
-      "link": "https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-quorum-richtig-einstellen-jip",
-      "summary": "Proxmox HA-Cluster: Split-Brain verhindern und Quorum richtig konfigurieren\n\n\nWer mit Proxmox VE arbeitet, weiß: Ein HA-Cluster ist die Krönung der Virtualisierungsinfrastruktur. Doch was tun, wenn plötzlich zwei Cluster",
+      "title": "Loops vs Graphs: Why Agent Architecture Needs Both (and a Compiler Between Them)",
+      "link": "https://dev.to/bozoinc/loops-vs-graphs-why-agent-architecture-needs-both-and-a-compiler-between-them-14n0",
+      "summary": "The False Dichotomy\n\n\n The agent ecosystem is split into two camps:\n\n Camp Loops (Boris Cherny, OpenAI Agents SDK, LangGraph):\n &gt; \"Agents are loops. Plan → act → observe → repeat. The loop is the atomic unit.\"\n\n Camp ",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:00:49 +0000",
+      "published": "Wed, 26 Aug 2026 00:09:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TypeScript 7.0 Is Rewriting the Compiler in Go",
-      "link": "https://dev.to/shresthapandey/typescript-70-is-rewriting-the-compiler-in-go-3ppj",
-      "summary": "For most of its history, TypeScript has been written in TypeScript. The compiler, the language service, the checker — all JavaScript, all running on a single thread inside Node.js. That's changed now. TypeScript 7.0, shi",
+      "title": "What Actually Breaks When You Put AI Agents In Front Of Real Customers",
+      "link": "https://dev.to/codexomation/what-actually-breaks-when-you-put-ai-agents-in-front-of-real-customers-5b2j",
+      "summary": "I have spent the last year building AI automation systems for small businesses. Chatbots, multi agent workflows, the kind of stuff that looks great in a demo and then meets an actual customer who types \"idk just fix it\" ",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:00:47 +0000",
+      "published": "Wed, 26 Aug 2026 00:01:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MCP in 2026: The numbers behind the ecosystem explosion",
-      "link": "https://dev.to/grahamduescn/mcp-in-2026-the-numbers-behind-the-ecosystem-explosion-38j9",
-      "summary": "I spent an afternoon digging through the MCP ecosystem numbers. Here is what I found.\n\n\n  \n  \n  The numbers\n\n\n\n\n13,000+ MCP servers on npm and GitHub (as of May 2026)\n\n97 million monthly SDK downloads — that is 3x from 6",
+      "title": "Your agent's 'secure' network policy was off unless you did four steps — so it was off",
+      "link": "https://dev.to/wartzarbee/your-agents-secure-network-policy-was-off-unless-you-did-four-steps-so-it-was-off-409k",
+      "summary": "If you run an autonomous LLM agent in a container, here is a question worth sitting with: is your\nnetwork egress policy actually enforced, or is it enforced if you performed a setup ritual you did\nonce, months ago, on on",
       "image": "",
-      "published": "Tue, 25 Aug 2026 18:00:18 +0000",
+      "published": "Wed, 26 Aug 2026 00:00:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
