@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:26:42.092131Z",
+  "updated": "2026-08-27T05:13:02.435101Z",
   "articles": [
     {
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+      "image": "",
+      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
@@ -79,15 +88,6 @@
       "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
       "image": "",
       "published": "Wed, 26 Aug 2026 10:47:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-      "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 10:17:59 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
-      "link": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
-      "summary": "Article URL: https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/\nComments URL: https://news.ycombinator.com/item?id=49453899\nPo",
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "link": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "summary": "Article URL: https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards\nComments URL: https://news.ycombinator.com/item?id=49458875\nPoints: 14\n# Comments: 18",
       "image": "",
-      "published": "Wed, 26 Aug 2026 18:49:18 +0000",
+      "published": "Thu, 27 Aug 2026 02:37:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
-      "link": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-      "summary": "Article URL: https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49453510\nPoints: 78\n# Comments: 28",
+      "title": "Kusama Yayoi Dies at 97",
+      "link": "https://news.jp/i/1465528042000662661",
+      "summary": "Article URL: https://news.jp/i/1465528042000662661\nComments URL: https://news.ycombinator.com/item?id=49458709\nPoints: 92\n# Comments: 6",
       "image": "",
-      "published": "Wed, 26 Aug 2026 18:20:09 +0000",
+      "published": "Thu, 27 Aug 2026 02:21:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "link": "https://thetariffcost.com/",
-      "summary": "Article URL: https://thetariffcost.com/\nComments URL: https://news.ycombinator.com/item?id=49453161\nPoints: 42\n# Comments: 21",
+      "title": "Getting video models to learn better, faster",
+      "link": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "summary": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video\nComments URL: https://news.ycombinator.com/item?id=49458502\nPoints: 15\n# Comments: 8",
       "image": "",
-      "published": "Wed, 26 Aug 2026 17:54:51 +0000",
+      "published": "Thu, 27 Aug 2026 01:53:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tailcat",
-      "link": "https://github.com/tailscale/tailcat",
-      "summary": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 147\n# Comments: 23",
+      "title": "Laion Big Video Dataset",
+      "link": "https://projects.laion.ai/bvd/",
+      "summary": "Article URL: https://projects.laion.ai/bvd/\nComments URL: https://news.ycombinator.com/item?id=49458478\nPoints: 28\n# Comments: 2",
       "image": "",
-      "published": "Wed, 26 Aug 2026 17:42:22 +0000",
+      "published": "Thu, 27 Aug 2026 01:50:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "link": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/\nComments URL: https://news.ycombinator.com/item?id=49452980\nPoints: 121\n# Comments: 31",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "link": "https://github.com/SenteLabsAI/OpenExecutive",
+      "summary": "Article URL: https://github.com/SenteLabsAI/OpenExecutive\nComments URL: https://news.ycombinator.com/item?id=49458418\nPoints: 235\n# Comments: 152",
       "image": "",
-      "published": "Wed, 26 Aug 2026 17:41:40 +0000",
+      "published": "Thu, 27 Aug 2026 01:46:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Controlling Transactional SMS Costs — US/EU SaaS Alert API Retention",
-      "link": "https://dev.to/jamesanderson3589/controlling-transactional-sms-costs-useu-saas-alert-api-retention-298b",
-      "summary": "Short answer: for basic transactional SMS alerts in a US/EU SaaS product, choose the API whose sending contract is easiest to isolate, then put country policy, spend caps, abuse controls, and delivery evidence in your ow",
+      "title": "My agent's p50 was 29s. Its p95 was 182s. That ratio decided the product.",
+      "link": "https://dev.to/edycutjong/my-agents-p50-was-29s-its-p95-was-182s-that-ratio-decided-the-product-c7n",
+      "summary": "I have 67 timed turns against a live LLM agent, captured in a single batch run and written to disk:\n\n\n\n\n\nseconds\n\n\n\n\np50\n29.2\n\n\np95\n182.0\n\n\nmax\n210.3\n\n\nn\n67 completed turns\n\n\n\n\nThe median says background job, that's fine",
       "image": "",
-      "published": "Wed, 26 Aug 2026 19:21:21 +0000",
+      "published": "Thu, 27 Aug 2026 05:09:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Addressing H1B Visa Salary Misconceptions to Ease Tech Job Market Concerns",
-      "link": "https://dev.to/svetlix/addressing-h1b-visa-salary-misconceptions-to-ease-tech-job-market-concerns-43me",
-      "summary": "Analytical Reconstruction of H1B Visa Salary Mechanisms\n\n\n\n  \n  \n  1. Prevailing Wage System: Foundation of Equity\n\n\nThe prevailing wage system serves as the cornerstone of H1B visa salary mechanisms, establishing minimu",
+      "title": "Review: \"Software Aging\" by David Parnas",
+      "link": "https://dev.to/danielshaeffer/review-software-aging-by-david-parnas-keb",
+      "summary": "The paper under review is “Software Aging” by David Parnas. This 1994 paper provides a humorous look into the concept of software aging at a time when age was beginning to show its face in the software world. The paper e",
       "image": "",
-      "published": "Wed, 26 Aug 2026 19:19:10 +0000",
+      "published": "Thu, 27 Aug 2026 05:06:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Account Permission Delegation - QA Test Report",
-      "link": "https://dev.to/ripplexdev/account-permission-delegation-qa-test-report-4ia0",
-      "summary": "Test Report Date: 8/26/2026\nPrepared By: QA Team [sgramkumar, mkunasani, manasip-prog]\nEnvironment: GitLab CI Runner (nix-debian)\nNetwork: xrpld devnet + private CI network\n\nOverview\nThis report presents the updated resu",
+      "title": "Why API Testing is the Silent Backbone of Great Software",
+      "link": "https://dev.to/misterankit/why-api-testing-is-the-silent-backbone-of-great-software-1737",
+      "summary": "Most of what makes a modern application work never appears on screen. Behind every screen tap or page load sits a network of APIs quietly passing data back and forth, authenticating users, fetching records, processing pa",
       "image": "",
-      "published": "Wed, 26 Aug 2026 19:18:57 +0000",
+      "published": "Thu, 27 Aug 2026 05:06:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Account Permission Delegation - Testcases",
-      "link": "https://dev.to/ripplexdev/account-permission-delegation-testcases-3j0b",
-      "summary": "Category\nTest Count\n\n\n\n\nCore Functional\n112\n\n\nAdversarial / Security\n48\n\n\nCross-Feature Interactions\n19\n\n\nTotal\n179\n\n\n\n\n\n  \n  \n  Core Functional\n\n\n\nTest DelegateSet with permissions field\nTest DelegateSet skipped before ",
+      "title": "Instinct raised $350M. The moat is your app permissions",
+      "link": "https://dev.to/induwara_ashinsana_9e4d5b/instinct-raised-350m-the-moat-is-your-app-permissions-2jhm",
+      "summary": "Instinct, the AI startup that lets you text and call an assistant wired into your own apps, has raised $350 million at a $2.5 billion valuation. TechCrunch reported the round on 26 August 2026, and the number that stoppe",
       "image": "",
-      "published": "Wed, 26 Aug 2026 19:15:41 +0000",
+      "published": "Thu, 27 Aug 2026 05:05:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I built an in-memory explicit content filter in Node.js (200ms latency, zero images saved)",
-      "link": "https://dev.to/tabushield/how-i-built-an-in-memory-explicit-content-filter-in-nodejs-200ms-latency-zero-images-saved-jl4",
-      "summary": "If you allow user-generated content in your app, you eventually run into a massive liability problem. Users will upload NSFW images.\n\nI ran into this exact problem when Apple rejected my previous app under Guideline 1.2 ",
+      "title": "Managing Slack and Discord Bot Webhooks Without Getting Rate-Limited",
+      "link": "https://dev.to/instawebhook/managing-slack-and-discord-bot-webhooks-without-getting-rate-limited-2m8e",
+      "summary": "429 too many requests Discord\nAPI rate limiting strategy\nasync chat bot architecture\nasynchronous event handling\nasynchronous webhook processing\nAWS Lambda webhook timeout\nbackground job webhook processing\nbuilding scala",
       "image": "",
-      "published": "Wed, 26 Aug 2026 19:03:54 +0000",
+      "published": "Thu, 27 Aug 2026 05:04:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
