@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T11:49:21.609011Z",
+  "updated": "2026-08-29T15:47:16.142151Z",
   "articles": [
     {
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+      "image": "",
+      "published": "Sat, 29 Aug 2026 10:19:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
       "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it",
@@ -79,15 +88,6 @@
       "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
       "image": "",
       "published": "Fri, 28 Aug 2026 12:36:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligen",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,9 +137,36 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "link": "https://uecker.codeberg.page/2026-08-29.html",
+      "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html\nComments URL: https://news.ycombinator.com/item?id=49490138\nPoints: 14\n# Comments: 1",
+      "image": "",
+      "published": "Sat, 29 Aug 2026 14:20:33 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "link": "https://lwn.net/Articles/1091231/",
+      "summary": "Article URL: https://lwn.net/Articles/1091231/\nComments URL: https://news.ycombinator.com/item?id=49489982\nPoints: 174\n# Comments: 109",
+      "image": "",
+      "published": "Sat, 29 Aug 2026 14:02:10 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cn45vdxyvvlo\nComments URL: https://news.ycombinator.com/item?id=49489057\nPoints: 249\n# Comments: 292",
+      "image": "",
+      "published": "Sat, 29 Aug 2026 11:39:38 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Samsung's Processing-in-Memory (PIM)",
       "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 126\n# Comments: 41",
+      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\nComments URL: https://news.ycombinator.com/item?id=49487341\nPoints: 178\n# Comments: 58",
       "image": "",
       "published": "Sat, 29 Aug 2026 06:06:51 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +175,54 @@
     {
       "title": "TurboKV: Insanely fast Rust key-value store",
       "link": "https://github.com/kingroryg/turbokv",
-      "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 115\n# Comments: 53",
+      "summary": "Article URL: https://github.com/kingroryg/turbokv\nComments URL: https://news.ycombinator.com/item?id=49486334\nPoints: 147\n# Comments: 70",
       "image": "",
       "published": "Sat, 29 Aug 2026 02:23:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "link": "https://www.kumander.org/",
-      "summary": "Article URL: https://www.kumander.org/\nComments URL: https://news.ycombinator.com/item?id=49486176\nPoints: 61\n# Comments: 36",
+      "title": "curl your own homepage. That is all ChatGPT sees.",
+      "link": "https://dev.to/techchoom/curl-your-own-homepage-that-is-all-chatgpt-sees-3kpm",
+      "summary": "Run this against your site right now:\n\n\n\ncurl -s https://yoursite.com | grep -o \"&lt;h1[^&gt;]*&gt;.*&lt;/h1&gt;\"\n\n\n\n\n\n\nIf nothing comes back, or you get an empty &lt;div id=\"root\"&gt;, then large parts of the internet c",
       "image": "",
-      "published": "Sat, 29 Aug 2026 01:48:15 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 569\n# Comments: 323",
-      "image": "",
-      "published": "Sat, 29 Aug 2026 01:47:53 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "link": "https://github.com/stemdeckapp/stemdeck",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 111\n# Comments: 25",
-      "image": "",
-      "published": "Sat, 29 Aug 2026 01:24:13 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "A Simulation ID Is Not a Running Simulation",
-      "link": "https://dev.to/kingsleyonoh/a-simulation-id-is-not-a-running-simulation-787",
-      "summary": "createSimulation() returned an ID. startSimulation() still failed.\n\nThat was the sixth version of the gateway's live MiroFish path. Five earlier runs had already found a wrong Redis instance, a duplicate simulation recor",
-      "image": "",
-      "published": "Sat, 29 Aug 2026 11:35:23 +0000",
+      "published": "Sat, 29 Aug 2026 15:36:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why I Put Swarm Memory in PostgreSQL Instead of Zep",
-      "link": "https://dev.to/kingsleyonoh/why-i-put-swarm-memory-in-postgresql-instead-of-zep-e61",
-      "summary": "A completed simulation left me with a report and an ownership problem. MiroFish had built the graph, generated the agents, and run their interactions, but the useful memory still lived behind somebody else's service boun",
+      "title": "Why I separated live discovery from the AI chat box",
+      "link": "https://dev.to/zxhwolfe/why-i-separated-live-discovery-from-the-ai-chat-box-12c9",
+      "summary": "Most AI workspaces start with the same useful primitive: a chat box. I kept one in AI Workstation because it is still the fastest interface for many research and writing tasks.\n\nBut while using the product for day-to-day",
       "image": "",
-      "published": "Sat, 29 Aug 2026 11:35:10 +0000",
+      "published": "Sat, 29 Aug 2026 15:32:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CRC32 vs SHA-256 vs XXHash: Which Checksum Should You Use?",
-      "link": "https://dev.to/mehrab_ali/crc32-vs-sha-256-vs-xxhash-which-checksum-should-you-use-2mp2",
-      "summary": "If you've ever needed to verify a download, find duplicate files, or prove a folder hasn't changed, you've met checksums. But which one should you actually use? The answer changes completely depending on what you're doin",
+      "title": "Playwright Email Testing: A Real End-to-End Tutorial (No Mocks)",
+      "link": "https://dev.to/beilunyang/playwright-email-testing-a-real-end-to-end-tutorial-no-mocks-24d8",
+      "summary": "Most \"email testing\" advice ends at stubbing the send call. You assert that your\napp tried to send a message, and the test goes green. That leaves the\ninteresting half untested: whether the message actually left your inf",
       "image": "",
-      "published": "Sat, 29 Aug 2026 11:30:40 +0000",
+      "published": "Sat, 29 Aug 2026 15:31:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Anthropic's AI-Native SDLC Has Three Controls. It's Missing a Fourth.",
-      "link": "https://dev.to/mnemehq/anthropics-ai-native-sdlc-has-three-controls-its-missing-a-fourth-5254",
-      "summary": "Anthropic published an AI-Native SDLC playbook last week. Its central claim: code generation is no longer the slow part of delivery. The stages around it, planning, review, security sign-off, release, still run at human ",
+      "title": "Don't give your agent the production database",
+      "link": "https://dev.to/erdonline/dont-give-your-agent-the-production-database-354j",
+      "summary": "The second you hit Enter\n\n\nFriday night. You ask Cursor for a query: join orders to users, sort by last login. Three seconds later, an answer arrives with DBA-level confidence:\n\n\n\nSELECT o.id, o.amount, u.last_login_at\nF",
       "image": "",
-      "published": "Sat, 29 Aug 2026 11:28:02 +0000",
+      "published": "Sat, 29 Aug 2026 15:25:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Find Out What Technology a Website Uses",
-      "link": "https://dev.to/malik_rashid/how-to-find-out-what-technology-a-website-uses-1135",
-      "summary": "Ever landed on a website and wondered, \"What is this built with?\"\n\nMaybe a competitor's site loads absurdly fast. Maybe a client wants you to rebuild something similar. Whatever the reason, figuring out a site's tech sta",
+      "title": "Cloudflare KV for Session Caching in Multi-Tenant FastAPI: Reducing PostgreSQL Load Without Redis Complexity",
+      "link": "https://dev.to/uaslimcreate/cloudflare-kv-for-session-caching-in-multi-tenant-fastapi-reducing-postgresql-load-without-redis-5ml",
+      "summary": "Cloudflare KV for Session Caching in Multi-Tenant FastAPI: Reducing PostgreSQL Load Without Redis Complexity\n\n\nEvery SaaS I've built hits the same wall: session validation on every request hammers PostgreSQL. You add Red",
       "image": "",
-      "published": "Sat, 29 Aug 2026 11:27:38 +0000",
+      "published": "Sat, 29 Aug 2026 15:19:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
