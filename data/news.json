@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T10:46:00.860250Z",
+  "updated": "2026-08-30T15:31:45.007369Z",
   "articles": [
     {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
+      "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
+      "summary": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initia",
+      "image": "",
+      "published": "Sun, 30 Aug 2026 11:00:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+      "image": "",
+      "published": "Sun, 30 Aug 2026 10:30:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+      "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
+      "image": "",
+      "published": "Sun, 30 Aug 2026 10:17:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
       "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
@@ -61,33 +88,6 @@
       "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
       "image": "",
       "published": "Sat, 29 Aug 2026 10:19:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 18:40:17 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fix",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 15:08:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "image": "",
-      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "My fat loss experiments with ChatGPT and water fasting",
-      "link": "https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846",
-      "summary": "Article URL: https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846\nComments URL: https://news.ycombinator.com/item?id=49497362\nPoints: 3\n# Comments: 0",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement\nComments URL: https://news.ycombinator.com/item?id=49499394\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:21:14 +0000",
+      "published": "Sun, 30 Aug 2026 15:12:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\nComments URL: https://news.ycombinator.com/item?id=49497357\nPoints: 3\n# Comments: 0",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/\nComments URL: https://news.ycombinator.com/item?id=49498978\nPoints: 34\n# Comments: 19",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:20:11 +0000",
+      "published": "Sun, 30 Aug 2026 14:29:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spark: Sparklines in your shell",
-      "link": "https://git.zx2c4.com/spark/about/",
-      "summary": "Article URL: https://git.zx2c4.com/spark/about/\nComments URL: https://news.ycombinator.com/item?id=49497265\nPoints: 7\n# Comments: 0",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "link": "https://github.com/anthropics/claude-code/issues/66504",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/66504\nComments URL: https://news.ycombinator.com/item?id=49498201\nPoints: 95\n# Comments: 118",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:02:16 +0000",
+      "published": "Sun, 30 Aug 2026 12:50:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "Article URL: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\nComments URL: https://news.ycombinator.com/item?id=49497235\nPoints: 6\n# Comments: 3",
+      "title": "No AI Fridays",
+      "link": "https://noaifridays.com/",
+      "summary": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 129\n# Comments: 53",
       "image": "",
-      "published": "Sun, 30 Aug 2026 09:57:06 +0000",
+      "published": "Sun, 30 Aug 2026 12:31:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Everyone Should Build Their Own Network Stack",
-      "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "summary": "Article URL: https://blog.lyc8503.net/en/post/dn42-2-dnet/\nComments URL: https://news.ycombinator.com/item?id=49497200\nPoints: 5\n# Comments: 0",
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "link": "https://github.com/fugue-labs/monty-go",
+      "summary": "Article URL: https://github.com/fugue-labs/monty-go\nComments URL: https://news.ycombinator.com/item?id=49497928\nPoints: 26\n# Comments: 3",
       "image": "",
-      "published": "Sun, 30 Aug 2026 09:52:15 +0000",
+      "published": "Sun, 30 Aug 2026 12:02:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "17 Ways Your AI Agent Quietly Lies to You",
-      "link": "https://dev.to/agentopsnotes/17-ways-your-ai-agent-quietly-lies-to-you-4bf9",
-      "summary": "Field notes from two weeks of running an autonomous agent on real money\nMost writing about AI agents is a demo. Someone connects a tool, runs one clean task, and publishes.\nThis is the opposite. It's a log of what broke ",
+      "title": "How SkyBuild Technologies Built EduSky: Scalable School Management System",
+      "link": "https://dev.to/sb-tech/how-skybuild-technologies-built-edusky-scalable-school-management-system-1dc6",
+      "summary": "​Managing academic records, student enrollments and staff communication across educational institutions requires speed, reliability, and security. Legacy school management systems are often slow, difficult to navigate, a",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:43:24 +0000",
+      "published": "Sun, 30 Aug 2026 15:28:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One API Does Not Mean One Protocol: Chat Completions, Responses, Messages, and Gemini",
-      "link": "https://dev.to/xiuai-lab/one-api-does-not-mean-one-protocol-chat-completions-responses-messages-and-gemini-39kd",
-      "summary": "\"OpenAI compatible\" is useful shorthand, but it is not a complete integration contract.\n\nTwo clients can accept the same API key and base domain while sending different request paths, authentication headers, payload shap",
+      "title": "Permissioned Tokens on Solana: How Token ACL Works — and How to Tell It From a Honeypot",
+      "link": "https://dev.to/sulimanmukhtar/permissioned-tokens-on-solana-how-token-acl-works-and-how-to-tell-it-from-a-honeypot-4k73",
+      "summary": "Originally published on xroot.dev.\n\nOn-chain, a regulated fund token and a honeypot scam are the same shape.\n\nBoth are Token-2022 mints. Both keep an active freeze authority. Both set DefaultAccountState to Frozen, so ev",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:40:07 +0000",
+      "published": "Sun, 30 Aug 2026 15:25:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a job-risk checker that never calls an LLM — it reads your GitHub instead",
-      "link": "https://dev.to/abhisimplified/i-built-a-job-risk-checker-that-never-calls-an-llm-it-reads-your-github-instead-1393",
-      "summary": "A few weeks ago I sat down to build \"will AI take my job,\" the tool. The honest first question I asked myself wasn't \"how do I build this\" — it was \"why would anyone use this instead of just asking Claude?\"\n\nBecause they",
+      "title": "Hacking My Own Mac App: Penetration Testing macOS Defense Boundaries in a VM",
+      "link": "https://dev.to/lafine_systemsdesign/hacking-my-own-mac-app-penetration-testing-macos-defense-boundaries-in-a-vm-ki9",
+      "summary": "A Japanese version of this is on Zenn.\n\nI build and sell a macOS network-security menu bar app called RoamSwitch.\n\nIn a previous post, I wrote about attacking my own Mac from an Arch Linux box on the same LAN to see how ",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:36:19 +0000",
+      "published": "Sun, 30 Aug 2026 15:19:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Meta reassigned engineers to data labeling and the good ones walked",
-      "link": "https://dev.to/adioof/meta-reassigned-engineers-to-data-labeling-and-the-good-ones-walked-4oob",
-      "summary": "Losing your best employees doesn't always happen through direct action. Simply de-soul the job. Meta learned this the hard way, and the receipts are ugly. ## What actually happened\n\nFrom March to June 2026, Meta relocate",
+      "title": "Help wanted: validate a React Effective Access Audit SPFx sample",
+      "link": "https://dev.to/vystartasv/help-wanted-validate-a-react-effective-access-audit-spfx-sample-3dbg",
+      "summary": "A new read-only React sample is ready for the PnP SharePoint Framework webparts repository:\n\nhttps://github.com/pnp/sp-dev-fx-webparts/pull/6479\n\nThe Effective Access Audit web part displays direct role assignments for t",
       "image": "",
-      "published": "Sun, 30 Aug 2026 10:33:39 +0000",
+      "published": "Sun, 30 Aug 2026 15:17:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Write the Runbook Before You Need It, Not After",
-      "link": "https://dev.to/serguey_shinder_4ab9b87b1/write-the-runbook-before-you-need-it-not-after-5dbp",
-      "summary": "Every ops team I have worked on has the same folklore: the one senior who \"just knows\" how to restart the payment gateway, drain the queue, or fail over the database. That knowledge feels like an asset. It is actually a ",
-      "image": "",
-      "published": "Sun, 30 Aug 2026 10:22:19 +0000",
+      "title": "AWS IAM Explained: Users, Groups, and Roles",
+      "link": "https://dev.to/binamra/aws-iam-explained-users-groups-and-roles-3174",
+      "summary": "What is IAM Users and Groups?\n\n\nFirst, let's understand what IAM is in AWS. IAM stands for Identity and Access Management, and it is a service in AWS that lets us control who can access what kind of resources in our AWS ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnosr2j4vbhzd1vatafvz.png",
+      "published": "Sun, 30 Aug 2026 15:13:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
