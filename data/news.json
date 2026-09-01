@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:15:08.369030Z",
+  "updated": "2026-09-01T02:09:52.964546Z",
   "articles": [
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 16:47:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 14:51:04 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft Exchange Online outage causes email failures, auth issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
@@ -70,24 +88,6 @@
       "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit hist",
       "image": "",
       "published": "Mon, 31 Aug 2026 10:52:03 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administra",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-      "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 09:30:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Konrad Zuse Museum shutting down due to lack of funding",
-      "link": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-      "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch)\n\nComments URL: https://news.ycombinator.com/item?id=49511917\nPoints: 63\n# Comments: 19",
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "link": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "summary": "Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/\nComments URL: https://news.ycombinator.com/item?id=49516699\nPoints: 6\n# Comments: 2",
       "image": "",
-      "published": "Mon, 31 Aug 2026 16:52:35 +0000",
+      "published": "Tue, 01 Sep 2026 01:01:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "summary": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\nComments URL: https://news.ycombinator.com/item?id=49511856\nPoints: 72\n# Comments: 28",
+      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2094450188911845827\nComments URL: https://news.ycombinator.com/item?id=49516209\nPoints: 26\n# Comments: 16",
       "image": "",
-      "published": "Mon, 31 Aug 2026 16:47:11 +0000",
+      "published": "Mon, 31 Aug 2026 23:46:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "You probably own this 7-Eleven (and that's why it looks so sad)",
-      "link": "https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven",
-      "summary": "Article URL: https://www.thenewatlantis.com/publications/you-probably-own-this-7-eleven\nComments URL: https://news.ycombinator.com/item?id=49511720\nPoints: 27\n# Comments: 14",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "link": "https://datacolada.org/138",
+      "summary": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 71\n# Comments: 49",
       "image": "",
-      "published": "Mon, 31 Aug 2026 16:36:32 +0000",
+      "published": "Mon, 31 Aug 2026 23:45:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "link": "https://ravynos.com/",
-      "summary": "Article URL: https://ravynos.com/\nComments URL: https://news.ycombinator.com/item?id=49511534\nPoints: 62\n# Comments: 31",
+      "title": "Run macOS Software on Linux",
+      "link": "https://www.darlinghq.org/",
+      "summary": "Article URL: https://www.darlinghq.org/\nComments URL: https://news.ycombinator.com/item?id=49515830\nPoints: 96\n# Comments: 26",
       "image": "",
-      "published": "Mon, 31 Aug 2026 16:19:36 +0000",
+      "published": "Mon, 31 Aug 2026 22:53:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "link": "https://usealmanac.com/",
-      "summary": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an ",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "summary": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\nComments URL: https://news.ycombinator.com/item?id=49515662\nPoints: 40\n# Comments: 28",
       "image": "",
-      "published": "Mon, 31 Aug 2026 15:34:34 +0000",
+      "published": "Mon, 31 Aug 2026 22:32:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Set Your Freelance Rate Without Guessing",
-      "link": "https://dev.to/juankkipas/how-to-set-your-freelance-rate-without-guessing-3dao",
-      "summary": "Most people set their first freelance rate by taking their old salary, dividing by 2,000, and maybe rounding up. It feels reasonable. It is also how a lot of freelancers end up working harder than they did as employees f",
+      "title": "Como criar tarefas concorrentes no Java, feito por quem se preocupa com os recursos e performance",
+      "link": "https://dev.to/antjjoao/como-criar-tarefas-concorrentes-no-java-feito-por-quem-se-preocupa-com-os-recursos-e-performance-4phb",
+      "summary": "Este post nasce de uma preocupação que tenho levado cada vez mais a sério: entender como cada parte do código realmente impacta o uso de recursos.\n\nTambém tenho usado IA como ferramenta de estudo, principalmente para con",
       "image": "",
-      "published": "Mon, 31 Aug 2026 18:01:54 +0000",
+      "published": "Tue, 01 Sep 2026 01:50:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ValidationError Is Not a Policy",
-      "link": "https://dev.to/den0011/validationerror-is-not-a-policy-3jpp",
-      "summary": "Every article about data validation ends in the same place. Mine does too: define the schema, validate at the boundary, and when the payload doesn't match, raise. That's an honest end to the topic and a dishonest end to ",
+      "title": "Numbers Do Not Belong in the Model",
+      "link": "https://dev.to/studiomeyer_io/numbers-do-not-belong-in-the-model-54k5",
+      "summary": "A missing number gets noticed. A wrong one does not.\n\nThat single asymmetry is why reading documents with a language model has to be treated differently from writing text with one. When a model invents a paragraph, someo",
       "image": "",
-      "published": "Mon, 31 Aug 2026 18:01:21 +0000",
+      "published": "Tue, 01 Sep 2026 01:37:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Proxmox HA-Cluster: Split-Brain vermeiden und Quorum richtig einrichten",
-      "link": "https://dev.to/uhltak/proxmox-ha-cluster-split-brain-vermeiden-und-quorum-richtig-einrichten-14hj",
-      "summary": "Proxmox HA-Cluster: Split-Brain verhindern und Quorum richtig konfigurieren\n\n\nWer schon einmal mit einem Proxmox High Availability (HA) Cluster gearbeitet hat, kennt die Schrecksekunde, wenn das System nicht so reagiert ",
+      "title": "Two AWS IAM privesc tools, one path finder",
+      "link": "https://dev.to/yayopalacios/two-aws-iam-privesc-tools-26pb",
+      "summary": "Four things that surprised me while grading PMapper and cloudfox against a deliberately broken AWS account.\n\nOver two weekends I deployed Bishop Fox's iam-vulnerable into a throwaway AWS account and ran two open-source I",
       "image": "",
-      "published": "Mon, 31 Aug 2026 18:01:15 +0000",
+      "published": "Tue, 01 Sep 2026 01:25:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Edge Computing Middleware: Securing and Scaling Distributed Architectures",
-      "link": "https://dev.to/tamizuddin/edge-computing-middleware-securing-and-scaling-distributed-architectures-2fi9",
-      "summary": "Originally published on tamiz.pro.\n\nThe proliferation of IoT devices, 5G networks, and real-time data processing demands has catalyzed a fundamental shift in computing paradigms: the move from centralized cloud infrastru",
+      "title": "Why Your AI Agent Keeps Calling the Wrong Tool (and How to Fix It)",
+      "link": "https://dev.to/tercelyi/why-your-ai-agent-keeps-calling-the-wrong-tool-and-how-to-fix-it-afj",
+      "summary": "It’s Friday afternoon. You’ve just deployed a sophisticated AI Agent with a suite of 50 enterprise tools. Five minutes later, the logs show a disaster: the Agent was supposed to deactivate_user for a support ticket, but ",
       "image": "",
-      "published": "Mon, 31 Aug 2026 18:00:59 +0000",
+      "published": "Tue, 01 Sep 2026 01:24:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "10x Your Coding Productivity: The Ultimate GitHub Copilot Cheat Sheet",
-      "link": "https://dev.to/isahlopess/10x-your-coding-productivity-the-ultimate-github-copilot-cheat-sheet-5245",
-      "summary": "I used to think AI coding assistants were just glorified autocompletes. You know, the kind that just suggests console.log(\"here\") when you are desperately trying to debug something. \n\nBut recently, while studying for a M",
+      "title": "GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill",
+      "link": "https://dev.to/van_massey/glm-53-costs-140-of-claude-opus-what-it-does-to-your-api-bill-106g",
+      "summary": "GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill\n\n\nHere is a price ratio that should make any engineering manager look twice: a model tied with Claude Opus 4.8 on the Artificial Analysis Intelligence Ind",
       "image": "",
-      "published": "Mon, 31 Aug 2026 17:57:33 +0000",
+      "published": "Tue, 01 Sep 2026 01:21:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
