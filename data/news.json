@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-01T02:09:52.964546Z",
+  "updated": "2026-09-01T10:34:41.647472Z",
   "articles": [
+    {
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg",
+      "published": "Tue, 01 Sep 2026 14:35:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg",
+      "published": "Tue, 01 Sep 2026 13:56:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (CVSS score: 9.8) - A ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg",
+      "published": "Tue, 01 Sep 2026 12:52:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such sof",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg",
-      "published": "Mon, 31 Aug 2026 17:44:00 +0530",
-      "source": "The Hacker News",
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "image": "",
+      "published": "Tue, 01 Sep 2026 05:15:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudS",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg",
-      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg",
-      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
-      "source": "The Hacker News",
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+      "image": "",
+      "published": "Tue, 01 Sep 2026 03:48:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -65,29 +83,11 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
       "image": "",
       "published": "Mon, 31 Aug 2026 12:56:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 12:50:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit hist",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "link": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-      "summary": "Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/\nComments URL: https://news.ycombinator.com/item?id=49516699\nPoints: 6\n# Comments: 2",
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "summary": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/\nComments URL: https://news.ycombinator.com/item?id=49519939\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:01:08 +0000",
+      "published": "Tue, 01 Sep 2026 09:52:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Carmack: Has early Scratch experience led to fulfilling careers?",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
-      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2094450188911845827\nComments URL: https://news.ycombinator.com/item?id=49516209\nPoints: 26\n# Comments: 16",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49518877\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Mon, 31 Aug 2026 23:46:38 +0000",
+      "published": "Tue, 01 Sep 2026 07:01:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "link": "https://datacolada.org/138",
-      "summary": "Article URL: https://datacolada.org/138\nComments URL: https://news.ycombinator.com/item?id=49516199\nPoints: 71\n# Comments: 49",
+      "title": "Restroom Archive",
+      "link": "https://restroomarchive.com",
+      "summary": "Article URL: https://restroomarchive.com\nComments URL: https://news.ycombinator.com/item?id=49517624\nPoints: 132\n# Comments: 36",
       "image": "",
-      "published": "Mon, 31 Aug 2026 23:45:56 +0000",
+      "published": "Tue, 01 Sep 2026 03:23:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Run macOS Software on Linux",
-      "link": "https://www.darlinghq.org/",
-      "summary": "Article URL: https://www.darlinghq.org/\nComments URL: https://news.ycombinator.com/item?id=49515830\nPoints: 96\n# Comments: 26",
+      "title": "GPU World",
+      "link": "https://www.gpuworld.org/",
+      "summary": "Article URL: https://www.gpuworld.org/\nComments URL: https://news.ycombinator.com/item?id=49517584\nPoints: 244\n# Comments: 126",
       "image": "",
-      "published": "Mon, 31 Aug 2026 22:53:45 +0000",
+      "published": "Tue, 01 Sep 2026 03:16:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "summary": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\nComments URL: https://news.ycombinator.com/item?id=49515662\nPoints: 40\n# Comments: 28",
+      "title": "Fastpotify",
+      "link": "https://fastpotify.rocks/",
+      "summary": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 405\n# Comments: 215",
       "image": "",
-      "published": "Mon, 31 Aug 2026 22:32:22 +0000",
+      "published": "Tue, 01 Sep 2026 02:52:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Como criar tarefas concorrentes no Java, feito por quem se preocupa com os recursos e performance",
-      "link": "https://dev.to/antjjoao/como-criar-tarefas-concorrentes-no-java-feito-por-quem-se-preocupa-com-os-recursos-e-performance-4phb",
-      "summary": "Este post nasce de uma preocupação que tenho levado cada vez mais a sério: entender como cada parte do código realmente impacta o uso de recursos.\n\nTambém tenho usado IA como ferramenta de estudo, principalmente para con",
+      "title": "How to Build a Rust Raid Calculator That Players Can Actually Use",
+      "link": "https://dev.to/rustassistapp/how-to-build-a-rust-raid-calculator-that-players-can-actually-use-47mb",
+      "summary": "How to Build a Rust Raid Calculator That Players Can Actually Use\n\n\n\nIn this article, “Rust” means the survival game by Facepunch, not the programming language.\n\n\nRaiding in Rust looks simple until you try to plan it pre",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:50:52 +0000",
+      "published": "Tue, 01 Sep 2026 10:23:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Numbers Do Not Belong in the Model",
-      "link": "https://dev.to/studiomeyer_io/numbers-do-not-belong-in-the-model-54k5",
-      "summary": "A missing number gets noticed. A wrong one does not.\n\nThat single asymmetry is why reading documents with a language model has to be treated differently from writing text with one. When a model invents a paragraph, someo",
+      "title": "Resumable S3 Multipart Uploads in Next.js App Router",
+      "link": "https://dev.to/nainikmehta/resumable-s3-multipart-uploads-in-nextjs-app-router-2di1",
+      "summary": "Why you should avoid routing bytes through your Next.js server\n\n\nEver lost a 200MB upload at 98%? I have — and it’s the fastest way to lose a user’s trust. Routing large file bytes through your Next.js server (or a serve",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:37:08 +0000",
+      "published": "Tue, 01 Sep 2026 10:21:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Two AWS IAM privesc tools, one path finder",
-      "link": "https://dev.to/yayopalacios/two-aws-iam-privesc-tools-26pb",
-      "summary": "Four things that surprised me while grading PMapper and cloudfox against a deliberately broken AWS account.\n\nOver two weekends I deployed Bishop Fox's iam-vulnerable into a throwaway AWS account and ran two open-source I",
+      "title": "The Numerical Siblings: NumPy and Numba — Different Lives",
+      "link": "https://dev.to/opaul/the-numerical-siblings-numpy-and-numba-different-lives-m4p",
+      "summary": "If you work with Python for data science, statistics, machine learning, or scientific computing, you will likely encounter NumPy. But you may not have heard of Numba.\n\nI once developed an algorithm for a descriptor and e",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:25:24 +0000",
+      "published": "Tue, 01 Sep 2026 10:03:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Your AI Agent Keeps Calling the Wrong Tool (and How to Fix It)",
-      "link": "https://dev.to/tercelyi/why-your-ai-agent-keeps-calling-the-wrong-tool-and-how-to-fix-it-afj",
-      "summary": "It’s Friday afternoon. You’ve just deployed a sophisticated AI Agent with a suite of 50 enterprise tools. Five minutes later, the logs show a disaster: the Agent was supposed to deactivate_user for a support ticket, but ",
+      "title": "TCP/IP Model: সফটওয়্যার ইঞ্জিনিয়ারদের জন্য Practical Guide",
+      "link": "https://dev.to/ragibcs/tcpip-model-sphttoyyyaar-inyjiniyyaarder-jny-practical-guide-2p1c",
+      "summary": "নেটওয়ার্কিং শিখতে গেলে আমরা সাধারণত প্রথমে OSI 7-Layer Model-এর কথা শুনি। কিন্তু বাস্তব জীবনে কম্পিউটার নেটওয়ার্ক কীভাবে কাজ করে, সেটা বুঝতে গেলে TCP/IP Model সম্পর্কে পরিষ্কার ধারণা থাকা আরও গুরুত্বপূর্ণ।\n\nএই লেখায় আমরা",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:24:47 +0000",
+      "published": "Tue, 01 Sep 2026 10:03:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill",
-      "link": "https://dev.to/van_massey/glm-53-costs-140-of-claude-opus-what-it-does-to-your-api-bill-106g",
-      "summary": "GLM-5.3 Costs ~1/40 of Claude Opus: What It Does to Your API Bill\n\n\nHere is a price ratio that should make any engineering manager look twice: a model tied with Claude Opus 4.8 on the Artificial Analysis Intelligence Ind",
+      "title": "Five things to check your agent memory store against",
+      "link": "https://dev.to/sovantica/five-things-to-check-your-agent-memory-store-against-427k",
+      "summary": "An agent-memory bug can look nothing like one. It looks like confidence: the agent remembers an old address, keeps a preference the user changed months ago, or retrieves a fact that should have expired weeks back. Nothin",
       "image": "",
-      "published": "Tue, 01 Sep 2026 01:21:39 +0000",
+      "published": "Tue, 01 Sep 2026 10:02:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
