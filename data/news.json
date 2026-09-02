@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:11:39.291960Z",
+  "updated": "2026-09-02T01:32:49.401002Z",
   "articles": [
     {
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+      "image": "",
+      "published": "Tue, 01 Sep 2026 16:53:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Aesto Health says data breach affects over 9.5 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
       "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
@@ -83,12 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l",
       "image": "",
-      "published": "Tue, 01 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
+      "published": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio",
+      "title": "The efficient frontier of LLM inference",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 31\n# Comments: 6",
       "image": "",
-      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html\nComments URL: https://news.ycombinator.com/item?id=49527232\nPoints: 4\n# Comments: 0",
-      "image": "",
-      "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What's the Scam?",
-      "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html\nComments URL: https://news.ycombinator.com/item?id=49526244\nPoints: 18\n# Comments: 3",
+      "title": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "summary": "Article URL: https://www.anthropic.com/news/improving-alignment-security-efforts\nComments URL: https://news.ycombinator.com/item?id=49529567\nPoints: 12\n# Comments: 5",
       "image": "",
-      "published": "Tue, 01 Sep 2026 18:46:59 +0000",
+      "published": "Tue, 01 Sep 2026 23:12:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "link": "https://danluu.com/zitron/",
-      "summary": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 81\n# Comments: 44",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/\nComments URL: https://news.ycombinator.com/item?id=49529132\nPoints: 49\n# Comments: 23",
       "image": "",
-      "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+      "published": "Tue, 01 Sep 2026 22:30:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "There Is No AI",
-      "link": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
-      "summary": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html\nComments URL: https://news.ycombinator.com/item?id=49525791\nPoints: 12\n# Comments: 0",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” f",
       "image": "",
-      "published": "Tue, 01 Sep 2026 18:18:54 +0000",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\n\nComments URL: https://news.ycombinator.com/it",
+      "title": "Fluorescent lamps (don't) have ears",
+      "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+      "summary": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\nComments URL: https://news.ycombinator.com/item?id=49528366\nPoints: 26\n# Comments: 8",
       "image": "",
-      "published": "Tue, 01 Sep 2026 17:53:53 +0000",
+      "published": "Tue, 01 Sep 2026 21:19:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why Enterprise AI Fails: The Hidden Trap of Pure Probabilistic LLMs and the Rise of Neuro-Symbolic Architecture",
-      "link": "https://dev.to/programmingcentral/why-enterprise-ai-fails-the-hidden-trap-of-pure-probabilistic-llms-and-the-rise-of-neuro-symbolic-40p3",
-      "summary": "The modern enterprise software landscape sits at a precarious crossroads. For the past few years, the narrative around artificial intelligence has been dominated by neural scaling laws. We have watched Large Language Mod",
+      "title": "DeepSeek Harness: el harness abierto que hace lo que Claude Code no te deja tocar",
+      "link": "https://dev.to/macorreag/deepseek-harness-el-harness-abierto-que-hace-lo-que-claude-code-no-te-deja-tocar-2df4",
+      "summary": "Los agentes de código son todavía una tecnología relativamente nueva. Y aun así, casi todos venimos de la misma experiencia: abres Claude Code (o cualquier otro), le pides algo, y en el momento en que algo sale mal… está",
       "image": "",
-      "published": "Tue, 01 Sep 2026 20:00:00 +0000",
+      "published": "Wed, 02 Sep 2026 01:19:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Codex with ChatGPT Splits Planning From Execution",
-      "link": "https://dev.to/dd8888/codex-with-chatgpt-splits-planning-from-execution-3bp2",
-      "summary": "Codex with ChatGPT, a public GitHub project, routes planning and code review to the ChatGPT web app while retaining Codex as the agent that edits files, runs shell commands and executes tests. For developers, the practic",
+      "title": "Why `sponsors/rtk-ai` Is Trending on GitHub",
+      "link": "https://dev.to/jamse_bao/why-sponsorsrtk-ai-is-trending-on-github-eo9",
+      "summary": "LLM-powered developer tools often waste context on repetitive command output: dependency trees, verbose test logs, JSON payloads, and generated files. sponsors/rtk-ai takes a practical approach to that problem: it acts a",
       "image": "",
-      "published": "Tue, 01 Sep 2026 19:39:25 +0000",
+      "published": "Wed, 02 Sep 2026 01:09:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Running the whole company on AI: the big picture",
-      "link": "https://dev.to/uehara/running-the-whole-company-on-ai-the-big-picture-49m8",
-      "summary": "Let me tell you our starting point, precisely.\n\nOur beginning was not \"people make the judgment.\" Our beginning was \"do everything with AI.\" Deciding to become an AI company — that was the starting line. Run all of Earth",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj46iogeyhjop08pw05ph.png",
-      "published": "Tue, 01 Sep 2026 19:37:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Tried Needle2 for Local Tool Calling. I Ended Up With llama.cpp + Granite",
-      "link": "https://dev.to/valentinivanov/i-tried-needle2-for-local-tool-calling-i-ended-up-with-llamacpp-granite-1e0f",
-      "summary": "I’ve been working on a small experiment around a semantic shell.\n\nThe basic idea is that the user types something like:\n\n\n\ncopy report.pdf to backup\n\n\n\n\n\n\nand a small local model maps that to a known tool:\n\n\n\nfilesystem.",
+      "title": "How YOU Can Deploy Web Apps Free with Tencent EdgeOne Makers",
+      "link": "https://dev.to/yasans/how-you-can-deploy-web-apps-free-with-tencent-edgeone-makers-31k9",
+      "summary": "As part of the DevHandal Batch #2 challenge organized by CODEPOLITAN and Tencent EdgeOne, this tutorial provides a comprehensive guide to taking a local web project global. We will utilize EdgeOne Makers, a high-performa",
       "image": "",
-      "published": "Tue, 01 Sep 2026 19:35:36 +0000",
+      "published": "Wed, 02 Sep 2026 01:05:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Epistemological corrosion created by machine induced semantic replication entropy",
-      "link": "https://dev.to/sebs/epistemological-corrosion-created-by-machine-induced-semantic-replication-entropy-3gek",
-      "summary": "The headline is a extract of a skeet from a gamedev/designer/dev person of Bluesky: Osaka\n\n\n\n\nSkilled workers are de-skilling themselves \nInstitutional knowledge and skills are actually being lost\nThe models require user",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fs9jhfnvf8s5cm2fpd5d5.png",
-      "published": "Tue, 01 Sep 2026 19:33:55 +0000",
+      "title": "How On-Device Sensitive Photo Scanning Works",
+      "link": "https://dev.to/dmytropolianskyi/how-on-device-sensitive-photo-scanning-works-5e3c",
+      "summary": "“Local” should describe a data path, not a marketing mood. Here is what to verify before allowing a scanner to inspect a photo library.\n\n\n  \n  \n  Permission opens the library to the app\n\n\nOn iPhone and iPad, a scanner ne",
+      "image": "",
+      "published": "Wed, 02 Sep 2026 00:59:33 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Why AI Models Sometimes Elongate Their Greetings Like 'Kon'nichiwa~'",
+      "link": "https://dev.to/orca_forge/why-ai-models-sometimes-elongate-their-greetings-like-konnichiwa-ole",
+      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\nWhen I had the trained voice model read \"こんにちは\" (Hello), it stretched the phrase to \"こんにちわぁ.\" There was no instruction to stretch it in the script.\n\nThe fee",
+      "image": "",
+      "published": "Wed, 02 Sep 2026 00:53:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
