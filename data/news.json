@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:10:10.248350Z",
+  "updated": "2026-09-03T01:36:40.288256Z",
   "articles": [
     {
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+      "image": "",
+      "published": "Wed, 02 Sep 2026 17:00:13 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
       "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
@@ -79,15 +88,6 @@
       "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
       "image": "",
       "published": "Wed, 02 Sep 2026 08:30:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-      "image": "",
-      "published": "Wed, 02 Sep 2026 06:29:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Post-AI Internet Doesn't Look Great",
-      "link": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
-      "summary": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/\nComments URL: https://news.ycombinator.com/item?id=49541331\nPoints: 19\n# Comments: 2",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "summary": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\nComments URL: https://news.ycombinator.com/item?id=49543841\nPoints: 81\n# Comments: 67",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:41:01 +0000",
+      "published": "Wed, 02 Sep 2026 23:08:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Muse Spark 1.3",
-      "link": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "Article URL: https://developer.meta.com/ai/models/muse-spark/\nComments URL: https://news.ycombinator.com/item?id=49541256\nPoints: 66\n# Comments: 26",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "link": "https://ronanrx.com/",
+      "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GL",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "published": "Wed, 02 Sep 2026 22:36:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Introducing Muse Spark 1.3",
-      "link": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-spark-1-3\nComments URL: https://news.ycombinator.com/item?id=49541149\nPoints: 26\n# Comments: 7",
+      "title": "Reasons robotics is hard",
+      "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 30\n# Comments: 5",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:25:47 +0000",
+      "published": "Wed, 02 Sep 2026 22:02:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Humanity has built the records of FATE by accident",
-      "link": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
-      "summary": "Article URL: https://ariadne.space/2026/09/01/humanity-has-built-the-records.html\nComments URL: https://news.ycombinator.com/item?id=49540806\nPoints: 12\n# Comments: 8",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o\nComments URL: https://news.ycombinator.com/item?id=49543007\nPoints: 91\n# Comments: 46",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:01:17 +0000",
+      "published": "Wed, 02 Sep 2026 21:46:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The American Worker vs. the Most Qualified",
-      "link": "https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified",
-      "summary": "Article URL: https://www.marginallycompelling.com/p/the-american-worker-vs-the-most-qualified\nComments URL: https://news.ycombinator.com/item?id=49540575\nPoints: 33\n# Comments: 29",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "link": "https://nango.dev/careers",
+      "summary": "Article URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=49542486\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Wed, 02 Sep 2026 18:43:35 +0000",
+      "published": "Wed, 02 Sep 2026 21:00:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why TypeScript Developers are Ditching Relational Databases for Knowledge Graphs",
-      "link": "https://dev.to/programmingcentral/why-typescript-developers-are-ditching-relational-databases-for-knowledge-graphs-1e3d",
-      "summary": "The modern web is built on a lie. For decades, we have forced deeply interconnected, fluid, real-world data into rigid rectangular cages. We take rich conceptual domains—such as enterprise organizations, multi-tenant Saa",
+      "title": "My detector was blind across 1,029 of 6,309 lines and its three tests stayed green",
+      "link": "https://dev.to/isazajuancarlos/my-detector-was-blind-across-1029-of-6309-lines-and-its-three-tests-stayed-green-4o2k",
+      "summary": "The guard worked. I had written it so that no session open in one project could touch another project's files, it had three tests, and all three were green. They had been green for months.\n\nIt was blind across 1,029 of t",
       "image": "",
-      "published": "Wed, 02 Sep 2026 20:00:00 +0000",
+      "published": "Thu, 03 Sep 2026 01:35:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why LLM Memory in Production Fails Silently",
-      "link": "https://dev.to/mudassirworks/why-llm-memory-in-production-fails-silently-1437",
-      "summary": "Your agent's memory layer will not throw. It returns three plausible looking chunks, the model answers confidently from them, and nobody notices for a week. That is the real failure mode of LLM memory in production: retr",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjh2e2oe6vyxfx7j01111.png",
-      "published": "Wed, 02 Sep 2026 19:58:20 +0000",
+      "title": "This Week In PHP Internals | Sept 2, 2026",
+      "link": "https://dev.to/projektgopher/this-week-in-php-internals-sept-2-2026-5a9p",
+      "summary": "Hello world, it's Wednesday, September 2, 2026, and here's what happened This Week in PHP Internals.\n\n11 stories this week, so let's get into it. But first, Is AI working for your team? You can measure the code it produc",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 01:20:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Structure a Production-Grade Node.js + Express Backend (2026)",
-      "link": "https://dev.to/akashguptasky/how-to-structure-a-production-grade-nodejs-express-backend-2026-42n0",
-      "summary": "How to Structure a Production-Grade Node.js + Express Backend (2026)\n\n\nMost Node.js tutorials stop at app.get('/', ...). Then you land a real project, the codebase hits 40 files, and everything lives in one 800-line inde",
+      "title": "Dropping Candidates Due to Fixable Defects — A Story of Measuring Factory Flaws as Product Personality",
+      "link": "https://dev.to/orca_forge/dropping-candidates-due-to-fixable-defects-a-story-of-measuring-factory-flaws-as-product-2cai",
+      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  I Built a System to Mechanically Select Voice Model Candidates\n\n\nI created a system to mechanically select from voice model candidates. It reads pr",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:55:27 +0000",
+      "published": "Thu, 03 Sep 2026 01:11:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Construyendo un Sistema de Streaming Local con Node.js, React y FFmpeg",
-      "link": "https://dev.to/rtagl/construyendo-un-sistema-de-streaming-local-con-nodejs-react-y-ffmpeg-42m5",
-      "summary": "No he escrito en dev.to desde el 2022. Ha habido muchos cambios en estos 4 años. Nuevos empleos, nuevos proyectos, nuevas tecnologías, etc. He regresado con un proyecto que me ha causado mucho interes\n\n\n  \n  \n  Tabla de ",
+      "title": "Read 10,202 times. Visited twice.",
+      "link": "https://dev.to/roadleon/read-10202-times-visited-twice-mmi",
+      "summary": "The site looked dead. Thirty days of analytics, and the traffic arriving from AI came to two visits — one from ChatGPT, one from DuckDuckGo. Two. From a dashboard like that you would conclude that no AI has ever noticed ",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:54:43 +0000",
+      "published": "Thu, 03 Sep 2026 01:02:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Мы тонули в алертах и не видели настоящий пожар",
-      "link": "https://dev.to/sergey_shinder_ab2d943365/my-tonuli-v-aliertakh-i-nie-vidieli-nastoiashchii-pozhar-3879",
-      "summary": "Был период, когда наш дежурный канал в мессенджере выдавал под триста алертов в сутки. Звучит как отличный мониторинг, а на деле это была катастрофа. Когда алертов триста, ни одного из них никто не читает всерьёз. И имен",
+      "title": "GitHub Trending Digest — 2026-09-03",
+      "link": "https://dev.to/muildev/github-trending-digest-2026-09-03-46c7",
+      "summary": "GitHub Trending Digest — 3 September 2026\n\n\nMinggu ini, GitHub Trending menunjukkan satu tema dominan: kecerdasan buatan yang semakin ringan, mandiri, dan mudah diintegrasikan. Dari proyek yang memungkinkan model MoE (Mi",
       "image": "",
-      "published": "Wed, 02 Sep 2026 19:54:33 +0000",
+      "published": "Thu, 03 Sep 2026 01:00:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
