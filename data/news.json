@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-03T01:36:40.288256Z",
+  "updated": "2026-09-03T10:10:47.096253Z",
   "articles": [
+    {
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analys",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
+      "published": "Thu, 03 Sep 2026 14:13:17 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"Fal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg",
+      "published": "Thu, 03 Sep 2026 11:56:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.\n\nThe vulnerabiliti",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg",
+      "published": "Thu, 03 Sep 2026 10:49:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
       "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them s",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif",
-      "published": "Wed, 02 Sep 2026 19:36:59 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
-      "published": "Wed, 02 Sep 2026 19:14:16 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A ho",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg",
-      "published": "Wed, 02 Sep 2026 18:42:45 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 04:55:25 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving reco",
       "image": "",
       "published": "Wed, 02 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "image": "",
-      "published": "Wed, 02 Sep 2026 08:30:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,18 +137,27 @@
       "category": "cybersecurity"
     },
     {
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "link": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "summary": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident\nComments URL: https://news.ycombinator.com/item?id=49543841\nPoints: 81\n# Comments: 67",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "link": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "summary": "Article URL: https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-w",
       "image": "",
-      "published": "Wed, 02 Sep 2026 23:08:47 +0000",
+      "published": "Thu, 03 Sep 2026 07:04:13 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Pre-Release of Polars 2.0",
+      "link": "https://pola.rs/posts/announcing-polars-2/",
+      "summary": "Article URL: https://pola.rs/posts/announcing-polars-2/\nComments URL: https://news.ycombinator.com/item?id=49546753\nPoints: 140\n# Comments: 24",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 06:59:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "link": "https://ronanrx.com/",
-      "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GL",
+      "link": "https://news.ycombinator.com/item?id=49543530",
+      "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. ",
       "image": "",
       "published": "Wed, 02 Sep 2026 22:36:04 +0000",
       "source": "Hacker News: Front Page",
@@ -157,18 +166,9 @@
     {
       "title": "Reasons robotics is hard",
       "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 30\n# Comments: 5",
+      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 95\n# Comments: 52",
       "image": "",
       "published": "Wed, 02 Sep 2026 22:02:30 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "link": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o\nComments URL: https://news.ycombinator.com/item?id=49543007\nPoints: 91\n# Comments: 46",
-      "image": "",
-      "published": "Wed, 02 Sep 2026 21:46:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
@@ -182,47 +182,47 @@
       "category": "development"
     },
     {
-      "title": "My detector was blind across 1,029 of 6,309 lines and its three tests stayed green",
-      "link": "https://dev.to/isazajuancarlos/my-detector-was-blind-across-1029-of-6309-lines-and-its-three-tests-stayed-green-4o2k",
-      "summary": "The guard worked. I had written it so that no session open in one project could touch another project's files, it had three tests, and all three were green. They had been green for months.\n\nIt was blind across 1,029 of t",
-      "image": "",
-      "published": "Thu, 03 Sep 2026 01:35:07 +0000",
+      "title": "I built a QR code phishing scanner for our free API — and ended up writing a PNG decoder from scratch to make it work.",
+      "link": "https://dev.to/presend/i-built-a-qr-code-phishing-scanner-for-our-free-api-and-ended-up-writing-a-png-decoder-from-3ffd",
+      "summary": "**\n**\n\nThe problem\n\nQR code phishing (\"quishing\") is one of the fastest-growing phishing vectors right now — Microsoft's 2026 report puts the year-over-year growth at 146% in Q1 alone, and QR codes now account for roughl",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnd2ebxx4rlrrmiq14nhb.png",
+      "published": "Thu, 03 Sep 2026 10:05:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "This Week In PHP Internals | Sept 2, 2026",
-      "link": "https://dev.to/projektgopher/this-week-in-php-internals-sept-2-2026-5a9p",
-      "summary": "Hello world, it's Wednesday, September 2, 2026, and here's what happened This Week in PHP Internals.\n\n11 stories this week, so let's get into it. But first, Is AI working for your team? You can measure the code it produc",
-      "image": "",
-      "published": "Thu, 03 Sep 2026 01:20:30 +0000",
+      "title": "Context Engineering: o ativo que a maioria ainda trata como prompt",
+      "link": "https://dev.to/aspepper/context-engineering-o-ativo-que-a-maioria-ainda-trata-como-prompt-230n",
+      "summary": "Em 2026, a maior parte das discussões sobre agentes de código ainda gira em torno do modelo: qual é o melhor, qual tem a janela de contexto maior, qual gera código mais rápido.\n\nHá, no entanto, um consenso crescente na l",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj8t9kyia6g4tj3vyp38s.png",
+      "published": "Thu, 03 Sep 2026 10:01:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dropping Candidates Due to Fixable Defects — A Story of Measuring Factory Flaws as Product Personality",
-      "link": "https://dev.to/orca_forge/dropping-candidates-due-to-fixable-defects-a-story-of-measuring-factory-flaws-as-product-2cai",
-      "summary": "📝 Originally published (in Japanese) at forge.workstyle.tech.\n\n\n\n  \n  \n  I Built a System to Mechanically Select Voice Model Candidates\n\n\nI created a system to mechanically select from voice model candidates. It reads pr",
+      "title": "Laravel Cloud vs Forge vs a Self-Hosted VPS",
+      "link": "https://dev.to/mumbai_web_designer/laravel-cloud-vs-forge-vs-a-self-hosted-vps-2976",
+      "summary": "Laravel Cloud vs Forge vs a Self-Hosted VPS\n\n\nThree paths exist for getting a Laravel application into production: let Laravel Cloud handle everything, use Forge to manage your own servers, or configure a VPS from scratc",
       "image": "",
-      "published": "Thu, 03 Sep 2026 01:11:45 +0000",
+      "published": "Thu, 03 Sep 2026 10:01:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Read 10,202 times. Visited twice.",
-      "link": "https://dev.to/roadleon/read-10202-times-visited-twice-mmi",
-      "summary": "The site looked dead. Thirty days of analytics, and the traffic arriving from AI came to two visits — one from ChatGPT, one from DuckDuckGo. Two. From a dashboard like that you would conclude that no AI has ever noticed ",
+      "title": "A small privacy decision that changed my web calculator",
+      "link": "https://dev.to/laconicleon/a-small-privacy-decision-that-changed-my-web-calculator-5c99",
+      "summary": "I built Calculator Toolkit for a narrow moment: someone has a restaurant bill, wants to check the tip and tax math, then needs to split the total with a few people.\n\nAt first I treated the no-account requirement as a sma",
       "image": "",
-      "published": "Thu, 03 Sep 2026 01:02:41 +0000",
+      "published": "Thu, 03 Sep 2026 10:00:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub Trending Digest — 2026-09-03",
-      "link": "https://dev.to/muildev/github-trending-digest-2026-09-03-46c7",
-      "summary": "GitHub Trending Digest — 3 September 2026\n\n\nMinggu ini, GitHub Trending menunjukkan satu tema dominan: kecerdasan buatan yang semakin ringan, mandiri, dan mudah diintegrasikan. Dari proyek yang memungkinkan model MoE (Mi",
+      "title": "Value Betting Engine: del modelo de probabilidad a la apuesta de valor con el criterio de Kelly",
+      "link": "https://dev.to/adrian_368e1d3e691afab697/value-betting-engine-del-modelo-de-probabilidad-a-la-apuesta-de-valor-con-el-criterio-de-kelly-a4n",
+      "summary": "Hay un malentendido fundamental sobre las apuestas deportivas: la gente cree que se trata de acertar quién gana. No es así. Se trata de encontrar situaciones en las que la cuota del mercado está equivocada respecto a la ",
       "image": "",
-      "published": "Thu, 03 Sep 2026 01:00:25 +0000",
+      "published": "Thu, 03 Sep 2026 10:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
