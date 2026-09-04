@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:10:30.492540Z",
+  "updated": "2026-09-04T01:30:23.202620Z",
   "articles": [
     {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "image": "",
+      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Coder's registry infrastructure compromised to push malicious modules",
       "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
       "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
@@ -79,15 +88,6 @@
       "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
       "image": "",
       "published": "Thu, 03 Sep 2026 11:13:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "image": "",
-      "published": "Thu, 03 Sep 2026 11:02:52 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Prime Gaps at Most 186",
-      "link": "https://github.com/openai/PrimeGaps186",
-      "summary": "Article URL: https://github.com/openai/PrimeGaps186\nComments URL: https://news.ycombinator.com/item?id=49555257\nPoints: 33\n# Comments: 2",
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c...\n\nComments URL: https://news.ycombinator.com/item?id=49558086\nPoints: 51\n# Comments: 32",
       "image": "",
-      "published": "Thu, 03 Sep 2026 19:18:56 +0000",
+      "published": "Thu, 03 Sep 2026 22:37:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The asteroid currently hitting front end web development",
-      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "summary": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/\nComments URL: https://news.ycombinator.com/item?id=49555233\nPoints: 10\n# Comments: 8",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 91\n# Comments: 26",
       "image": "",
-      "published": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "published": "Thu, 03 Sep 2026 21:20:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-6 Astra",
-      "link": "https://openai.com/index/gpt-6-astra/",
-      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra\n\nComments URL: https://news.ycombinator.com/item?id=49554643\nPoints: 307\n# Comments: 149",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "link": "https://tasklet.ai/careers/customer-success-engineer",
+      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49556922\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "published": "Thu, 03 Sep 2026 21:01:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "link": "https://inference-docs.cerebras.ai/models/overview",
-      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 225\n# Comments: 74",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://arcprize.org/blog/astra",
+      "summary": "Article URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 162\n# Comments: 96",
       "image": "",
-      "published": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "published": "Thu, 03 Sep 2026 19:45:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How concerned should we be about Astra's recurrent architecture?",
-      "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "summary": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent\nComments URL: https://news.ycombinator.com/item?id=49553321\nPoints: 33\n# Comments: 16",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "link": "https://news.ycombinator.com/item?id=49555592",
+      "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsi",
       "image": "",
-      "published": "Thu, 03 Sep 2026 17:10:06 +0000",
+      "published": "Thu, 03 Sep 2026 19:38:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google and MrBeast Partner Across Gemini, Google Health and Fitbit Campaigns",
-      "link": "https://dev.to/alifar/google-and-mrbeast-partner-across-gemini-google-health-and-fitbit-campaigns-2lg5",
-      "summary": "Google has announced a multi-year partnership with MrBeast and Beast Industries that brings its Gemini AI platform, Google Health and Fitbit into a coordinated creator-led campaign. The collaboration is designed to exten",
-      "image": "",
-      "published": "Thu, 03 Sep 2026 20:00:30 +0000",
+      "title": "Why Comparing PDFs Is Still Surprisingly Difficult",
+      "link": "https://dev.to/vernonheim/why-comparing-pdfs-is-still-surprisingly-difficult-2k",
+      "summary": "If you've ever had someone send you two PDF files and ask \"what changed?\", you probably know how this usually goes.\n\nOpen the first file.\n\nOpen the second one.\n\nPut them next to each other.\n\nStart scrolling.\n\nAfter a few",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frybfsufqinox7yt21ujx.jpg",
+      "published": "Fri, 04 Sep 2026 01:23:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Zero-Hallucination AI in Node.js: Connecting TypeScript to Neo4j, Memgraph, and FalkorDB",
-      "link": "https://dev.to/programmingcentral/zero-hallucination-ai-in-nodejs-connecting-typescript-to-neo4j-memgraph-and-falkordb-25a4",
-      "summary": "The rise of neural language models has given developers incredible capabilities in semantic search, context capture, and fuzzy retrieval. Yet, any senior developer who has pushed an LLM-driven application to production k",
+      "title": "The 2 AM Silent Failure: What Running AI Agents in Production Taught Me About Stability",
+      "link": "https://dev.to/golflover2023/the-2-am-silent-failure-what-running-ai-agents-in-production-taught-me-about-stability-4kn",
+      "summary": "Most AI agents don't fail the way they do in demos. They fail later, and quieter: a task runs at 2 AM, fails silently, nobody gets alerted, and you discover it the next morning — a full day of work gone.\n\nWe run MeshCtx ",
       "image": "",
-      "published": "Thu, 03 Sep 2026 20:00:00 +0000",
+      "published": "Fri, 04 Sep 2026 01:21:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Compress Images in the Browser with Canvas API — No Uploads, No Server",
-      "link": "https://dev.to/jalalkhn/compress-images-in-the-browser-with-canvas-api-no-uploads-no-server-25ae",
-      "summary": "Most online image compressors upload your file to a server. This one runs entirely in the browser using the native Canvas API — no uploads, no watermark, no signup. You can try it live here: https://yourutilityhub.com/im",
-      "image": "",
-      "published": "Thu, 03 Sep 2026 19:55:40 +0000",
+      "title": "Adding an Image-to-Video Button to a Creator Tool",
+      "link": "https://dev.to/xiaoyuan928/adding-an-image-to-video-button-to-a-creator-tool-22ff",
+      "summary": "I'm an independent developer designing a small asset tool for content creators. The workflow starts with generating images and choosing one. The next thing I want to add is a button beside that image: “Generate video.”\n\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdh3xoubnu8uxkx42sfbo.png",
+      "published": "Fri, 04 Sep 2026 01:20:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Evidence Pack That Answers \"Can You Prove It?\"",
-      "link": "https://dev.to/cognous/the-evidence-pack-that-answers-can-you-prove-it-1dld",
-      "summary": "An agent that can read your systems and act on them needs guardrails, the same way a new hire with production access needs an onboarding checklist and someone reviewing their first few changes. That's what Cognous's Open",
+      "title": "My Self-Improving Agent Still Couldn't Improve. That Was the Breakthrough.",
+      "link": "https://dev.to/debashish_ghosal/my-self-improving-agent-still-couldnt-improve-that-was-the-breakthrough-mni",
+      "summary": "Previously: 9 Bugs That All Looked Like a Working System · I Built an AI That Rewrites Its Own Prompts · The Edit That Fixed 4 Tasks and Broke 1 · I Let an LLM Rewrite Its Own Prompt. The Real Win Was the Gate That Rejec",
       "image": "",
-      "published": "Thu, 03 Sep 2026 19:54:13 +0000",
+      "published": "Fri, 04 Sep 2026 01:16:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My grep filter had no digits in it. The one field with a digit was the one I said was missing",
-      "link": "https://dev.to/mahirhir/my-grep-filter-had-no-digits-in-it-the-one-field-with-a-digit-was-the-one-i-said-was-missing-3dm7",
-      "summary": "I told a stranger his system had a defect. I had measured it. The measurement was a grep, and the grep had a character class in it, and the character class had no digits.\n\n\n  \n  \n  The setup\n\n\nSomeone had been picking ap",
+      "title": "What Building a Real App with AI Actually Cost: 36 Parts, Three Seasons, About $17",
+      "link": "https://dev.to/rahulvyas777/what-building-a-real-app-with-ai-actually-cost-36-parts-three-seasons-about-17-2ofi",
+      "summary": "Three seasons, thirty-six parts, one clinic app — and a meter that ran the whole time. Every part of the ClinicLive trilogy ended with a 💸 box, every retro added its season up, and every number came from the build log ra",
       "image": "",
-      "published": "Thu, 03 Sep 2026 19:52:25 +0000",
+      "published": "Fri, 04 Sep 2026 01:07:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
