@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-04T10:00:47.424008Z",
+  "updated": "2026-09-04T15:12:05.068359Z",
   "articles": [
+    {
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
+      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
       "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
@@ -38,56 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?\n\nThat idea runs through this edition. Attac",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
-      "published": "Thu, 03 Sep 2026 23:32:47 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
       "image": "",
-      "published": "Thu, 03 Sep 2026 18:01:37 -0400",
+      "published": "Fri, 04 Sep 2026 10:30:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti",
       "image": "",
-      "published": "Thu, 03 Sep 2026 16:04:24 -0400",
+      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
       "image": "",
-      "published": "Thu, 03 Sep 2026 14:28:12 -0400",
+      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
       "image": "",
-      "published": "Thu, 03 Sep 2026 11:22:33 -0400",
+      "published": "Fri, 04 Sep 2026 08:22:30 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
       "image": "",
-      "published": "Thu, 03 Sep 2026 11:13:29 -0400",
+      "published": "Fri, 04 Sep 2026 07:48:17 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
-      "link": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
-      "summary": "Article URL: https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline\nComments URL: https://news.ycombinator.com/item?id=49562062\nPoints: 15\n# Comments: 4",
+      "title": "Burnt out on a three-day week",
+      "link": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+      "summary": "Article URL: https://jennywanger.com/articles/burnt-out-on-a-three-day-week/\nComments URL: https://news.ycombinator.com/item?id=49564960\nPoints: 38\n# Comments: 30",
       "image": "",
-      "published": "Fri, 04 Sep 2026 08:35:15 +0000",
+      "published": "Fri, 04 Sep 2026 14:14:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "link": "https://carbonawarepricing.com/",
-      "summary": "Article URL: https://carbonawarepricing.com/\nComments URL: https://news.ycombinator.com/item?id=49561975\nPoints: 28\n# Comments: 4",
+      "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+      "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+      "summary": "Article URL: https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/\nComments URL: https://news.ycombinator.com/item?id=49564714\nPoints: 36\n# Comments:",
       "image": "",
-      "published": "Fri, 04 Sep 2026 08:19:57 +0000",
+      "published": "Fri, 04 Sep 2026 13:54:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "summary": "Article URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\nComments URL: https://news.ycombinator.com/item?id=49561320\nPoints: 130\n# Comments: 4",
+      "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+      "link": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+      "summary": "Article URL: http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5\nComments URL: https://news.ycombinator.com/item?id=49564397\nPoints: 75\n# Comments: 76",
       "image": "",
-      "published": "Fri, 04 Sep 2026 06:47:51 +0000",
+      "published": "Fri, 04 Sep 2026 13:33:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-      "summary": "Article URL: https://www.agentconnect.md/blog/grep-beat-lsp-harness/\nComments URL: https://news.ycombinator.com/item?id=49560260\nPoints: 76\n# Comments: 51",
+      "title": "IBM Bob",
+      "link": "https://bob.ibm.com/",
+      "summary": "Article URL: https://bob.ibm.com/\nComments URL: https://news.ycombinator.com/item?id=49563851\nPoints: 88\n# Comments: 86",
       "image": "",
-      "published": "Fri, 04 Sep 2026 03:40:26 +0000",
+      "published": "Fri, 04 Sep 2026 12:50:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From Hookswitch to Grave",
-      "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
-      "summary": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html\nComments URL: https://news.ycombinator.com/item?id=49559901\nPoints: 27\n# Comments: 2",
+      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
+      "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
+      "summary": "Article URL: https://github.com/hawshemi/lg-c5-webos25-region-change\nComments URL: https://news.ycombinator.com/item?id=49563839\nPoints: 29\n# Comments: 36",
       "image": "",
-      "published": "Fri, 04 Sep 2026 02:40:12 +0000",
+      "published": "Fri, 04 Sep 2026 12:49:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Built a Binaural Beat Generator — Then Proved It With a Live FFT Spectrum Analyzer",
-      "link": "https://dev.to/serenesynth/i-built-a-binaural-beat-generator-then-proved-it-with-a-live-fft-spectrum-analyzer-2nn2",
-      "summary": "The \"frequency healing\" corner of the internet runs on faith. Apps ship MP3s labeled \"40Hz gamma\" and ask you to believe it. I'm a life scientist who builds web tools, and I couldn't ship that. So I built SereneSynth, a ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5rg9jqfry7newp1ksm97.png",
-      "published": "Fri, 04 Sep 2026 09:55:25 +0000",
+      "title": "vector storage is not your new database religion",
+      "link": "https://dev.to/pvgomes/vector-storage-is-not-your-new-database-religion-3ak0",
+      "summary": "Every RAG prototype wants a vector database before it wants a data model.\n\nThat is usually backwards.\n\nThe first hard question is not which ANN index has the nicest benchmark chart. It is whether anyone has decided how f",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhjbc01d3kndr3k0yprh.gif",
+      "published": "Fri, 04 Sep 2026 15:02:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Matplotlib - Session 2",
-      "link": "https://dev.to/rsbalaji/matplotlib-session-2-2dpf",
-      "summary": "Turning Data Into Decisions\n\n\n\n  \n  \n  Bar charts, histograms, scatter plots, subplots, and plotting straight from pandas\n\n\n\n\n\nPreviously learned to draw a line — literally. we now know how to create a figure, style it, ",
+      "title": "I audited my own Claude Code logs and found real leaked credentials",
+      "link": "https://dev.to/crypled/i-audited-my-own-claude-code-logs-and-found-real-leaked-credentials-3oo",
+      "summary": "AI coding agents like Claude Code read your .env files, cat command output, and run shell commands on\nyour behalf. By design, every one of those actions gets written verbatim into a local session transcript\n(~/.claude/pr",
       "image": "",
-      "published": "Fri, 04 Sep 2026 09:47:50 +0000",
+      "published": "Fri, 04 Sep 2026 15:01:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Fable 5.1 for Business Automation: What Changed and What It Costs",
-      "link": "https://dev.to/tariq_osmani/claude-fable-51-for-business-automation-what-changed-and-what-it-costs-2cak",
-      "summary": "On the benchmark that measures automating actual business processes, Claude Fable 5.1 scored 31.4% — up from 17.1% for Claude Fable 5, released three months earlier. Anthropic calls that benchmark AutomationBench. A near",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjdh6gxseabb6m7avyynf.png",
-      "published": "Fri, 04 Sep 2026 09:44:02 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "# How enabling cross-origin isolation silently broke our multi-threaded WASM image compressor",
-      "link": "https://dev.to/richang/-how-enabling-cross-origin-isolation-silently-broke-our-multi-threaded-wasm-image-compressor-3a0p",
-      "summary": "A production postmortem. We shipped browser-side image compression (Rust → WASM + WebGPU), turned on cross-origin isolation for speed, and watched every format crash with compression worker crashed. Here's the root cause",
+      "title": "Fix Silent 30s AI Stream Timeouts with a Client Watchdog",
+      "link": "https://dev.to/babycat/fix-silent-30s-ai-stream-timeouts-with-a-client-watchdog-17ja",
+      "summary": "Your AI stream can die silently at exactly 30 seconds because the proxy's read timeout kills idle connections—not because the model stopped. I traced this while testing a chat widget against MonkeyCode's free server, and",
       "image": "",
-      "published": "Fri, 04 Sep 2026 09:39:01 +0000",
+      "published": "Fri, 04 Sep 2026 15:00:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Would You Rather Have an AI That Plans the Perfect Trip—or One That Knows What You Hate?",
-      "link": "https://dev.to/bec_ky_x/would-you-rather-have-an-ai-that-plans-the-perfect-trip-or-one-that-knows-what-you-hate-2f9e",
-      "summary": "AI is getting surprisingly good at planning trips.\n\nGive it a destination, a budget, and a few days, and it can generate an itinerary in seconds.\n\nFive days in Tokyo?\n\nShibuya on Day 1.\nAsakusa on Day 2.\nTokyo Tower on D",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45p0gbb2uu7qe2v5746v.png",
-      "published": "Fri, 04 Sep 2026 09:34:02 +0000",
+      "title": "Postiz Self Host Bluesky Python Client",
+      "link": "https://dev.to/apexgridtech/postiz-self-host-bluesky-python-client-3pm9",
+      "summary": "This week, the AI space saw a surge in open-source enthusiasm, with new tools and libraries capturing developer attention. While the headlines focus on stars and strategic partnerships, we’re diving into the nitty-gritty",
+      "image": "",
+      "published": "Fri, 04 Sep 2026 15:00:18 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Rehearse Agent Token Ceilings on Free Servers",
+      "link": "https://dev.to/haaaaaley/rehearse-agent-token-ceilings-on-free-servers-56nb",
+      "summary": "An agent that never stops looks a lot like an agent that is working. Rehearse the token ceiling on a free server with a hard stop rule so you meet BUDGET_EXHAUSTED in a test, not on a paid invoice.\n\nThe cursor moves. The",
+      "image": "",
+      "published": "Fri, 04 Sep 2026 14:58:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "link": "https://css-tricks.com/css-random-function-polyfill/",
+      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
+      "link": "https://css-tricks.com/whats-important-18/",
+      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
+      "image": "",
+      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "animation-trigger",
+      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
+      "image": "",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "MicroLighter: Syntax Highlighter",
+      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
