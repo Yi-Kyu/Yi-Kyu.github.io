@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-05T14:02:31.719106Z",
+  "updated": "2026-09-05T19:36:25.604536Z",
   "articles": [
+    {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
+      "published": "Sat, 05 Sep 2026 22:22:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\nThe vulnerability",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
+      "published": "Sat, 05 Sep 2026 21:35:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, emai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg",
+      "published": "Sat, 05 Sep 2026 19:47:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
       "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg",
-      "published": "Fri, 04 Sep 2026 21:27:15 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg",
-      "published": "Fri, 04 Sep 2026 20:50:19 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg",
-      "published": "Fri, 04 Sep 2026 20:21:13 +0530",
-      "source": "The Hacker News",
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 10:29:13 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
       "image": "",
       "published": "Fri, 04 Sep 2026 10:30:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti",
-      "image": "",
-      "published": "Fri, 04 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 2\n# Comments: 1",
+      "title": "The Luxuries in Life",
+      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+      "summary": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 73\n# Comments: 24",
       "image": "",
-      "published": "Sat, 05 Sep 2026 13:36:38 +0000",
+      "published": "Sat, 05 Sep 2026 17:46:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pentagon rescinds new testosterone screening policy without explanation",
-      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-      "summary": "Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/\nComments URL: https://news.ycombinator.com/item?id=49576196\nPoints: 33\n# Comments: 13",
+      "title": "Learn Programming with OCaml",
+      "link": "https://usr.lmf.cnrs.fr/lpo/",
+      "summary": "Article URL: https://usr.lmf.cnrs.fr/lpo/\nComments URL: https://news.ycombinator.com/item?id=49578280\nPoints: 35\n# Comments: 2",
       "image": "",
-      "published": "Sat, 05 Sep 2026 13:11:14 +0000",
+      "published": "Sat, 05 Sep 2026 16:45:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Terpstra Keyboard",
-      "link": "http://terpstrakeyboard.com/",
-      "summary": "Article URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 13\n# Comments: 5",
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+      "link": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "summary": "Article URL: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods\nComments URL: https://news.ycombinator.com/item?id=49577985\nPoints: 114\n# Comments: 71",
       "image": "",
-      "published": "Sat, 05 Sep 2026 10:33:01 +0000",
+      "published": "Sat, 05 Sep 2026 16:14:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "summary": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 131\n# Comments: 85",
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "summary": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\nComments URL: https://news.ycombinator.com/item?id=49577975\nPoints: 168\n# Co",
       "image": "",
-      "published": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "published": "Sat, 05 Sep 2026 16:13:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 227\n# Comments: 203",
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "summary": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\nComments URL: https://news.ycombinator.com/item?id=49576986\nPoints: 230\n# Comments: 67",
       "image": "",
-      "published": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "published": "Sat, 05 Sep 2026 14:40:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Gemini 3.8 Flash: Benchmarks, Price, Cyber - Proje Defteri",
-      "link": "https://dev.to/projedefteri/gemini-38-flash-benchmarks-price-cyber-proje-defteri-41i9",
-      "summary": "TL;DR: Gemini 3.8 Flash in 30 seconds\n\n\n\nGemini 3.8 Flash landed on September 2, 2026, three weeks after 3.7 Flash. That is the third Flash release in three months.\nPrice did not move: $0.75 input, $3.75 output per milli",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 13:51:26 +0000",
+      "title": "The Tea on Teamwork: Week One of My i.c.stars Tech Internship",
+      "link": "https://dev.to/keenenwilkins/the-tea-on-teamwork-week-one-of-my-icstars-tech-internship-k3o",
+      "summary": "I went into my first week at i.c.stars thinking about technology, code, and systems. The week turned out to be about the human layer instead, and the most useful thing I learned was about myself: when a project gets hard",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbn5o5pgurelr8li96mza.png",
+      "published": "Sat, 05 Sep 2026 19:13:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.",
-      "link": "https://dev.to/jon_at_backboardio/i-watched-our-interns-play-valorant-for-three-hours-put-your-rank-on-the-resume-8jd",
-      "summary": "Last week of summer with our interns we skipped the goodbye lunch and booked an esports arena. Split them into teams. Valorant. Best of whatever until the room kicked us out.\n\nI run go to market at a startup. I have sat ",
+      "title": "From API to GPU, Week 6 (Part 2): Watching a Neural Network Learn",
+      "link": "https://dev.to/dramasamy/from-api-to-gpu-week-6-part-2-watching-a-neural-network-learn-2pef",
+      "summary": "Phase 2 of 8: Enough ML to understand inference. Week 6 of 32, part 2 of 2.\n\nPart 1 built a one-neuron model that converts Celsius to Fahrenheit, made it\npredict, and scored how wrong it was with a single number, the los",
       "image": "",
-      "published": "Sat, 05 Sep 2026 13:49:09 +0000",
+      "published": "Sat, 05 Sep 2026 19:11:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built PadForward because sometimes you just need a pad",
-      "link": "https://dev.to/ujja/i-built-padforward-because-sometimes-you-just-need-a-pad-1ljl",
-      "summary": "This is a submission for Weekend Challenge: Generosity Edition\n\n\n💗 Live demo: padforward-generosity.vercel.app · Code: github\n\n\n\n\n\n  \n  \n  What I Built\n\n\nA few days ago, I unexpectedly got my period while I was out.\n\nI h",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8t7bvqmenyltuwm844jg.png",
-      "published": "Sat, 05 Sep 2026 13:39:59 +0000",
+      "title": "From API to GPU, Week 6 (Part 1): A Model That Predicts, and How Wrong It Is",
+      "link": "https://dev.to/dramasamy/from-api-to-gpu-week-6-part-1-a-model-that-predicts-and-how-wrong-it-is-3d80",
+      "summary": "Phase 2 of 8: Enough ML to understand inference. Week 6 of 32, part 1 of 2.\n\nEvery week so far, the model already existed. I ran Phi-4, read Qwen's files, and\nmeasured tensors, but I never made a model learn anything. Th",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 19:11:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Dealership Charges $180/hr for This, I Do It With an ESP32",
-      "link": "https://dev.to/numbpill3d/the-dealership-charges-180hr-for-this-i-do-it-with-an-esp32-off",
-      "summary": "Your car is not magic. It is just a noisy network with cupholders.\n\nLet me tell you how a service advisor tried to charge me $180 for a diagnostic that took my $18 microcontroller eleven seconds to do.\n\nI had a weird iss",
+      "title": "Tennis, football and basketball results as clean JSON, without a sports data contract",
+      "link": "https://dev.to/clearfetch/tennis-football-and-basketball-results-as-clean-json-without-a-sports-data-contract-3b19",
+      "summary": "Sports data is one of those areas where the gap between \"public information\" and \"affordable to obtain\" is\nabsurd. Scores and results are facts, printed in every newspaper. Getting them as structured data usually means\ne",
       "image": "",
-      "published": "Sat, 05 Sep 2026 13:35:06 +0000",
+      "published": "Sat, 05 Sep 2026 19:10:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I automated Dependabot PR cleanup — and drew a hard line on what NOT to automate",
-      "link": "https://dev.to/sunnydachs/i-automated-dependabot-pr-cleanup-and-drew-a-hard-line-on-what-not-to-automate-4jm1",
-      "summary": "If you use GitHub, you know the rhythm: Dependabot opens a PR, CI runs green, and then a human has to answer the same questions again — is this a patch or a major? did anyone touch source code? does it conflict?\n\nI got t",
+      "title": "How to find every Shopify store in a list of 10,000 domains",
+      "link": "https://dev.to/clearfetch/how-to-find-every-shopify-store-in-a-list-of-10000-domains-m89",
+      "summary": "You have a list of domains. A conference attendee export, a directory scrape, a spreadsheet from a colleague.\nYou want to know which of them run Shopify, which run WordPress, which have HubSpot installed, and which are o",
       "image": "",
-      "published": "Sat, 05 Sep 2026 13:30:12 +0000",
+      "published": "Sat, 05 Sep 2026 19:10:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
