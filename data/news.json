@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T09:30:23.944350Z",
+  "updated": "2026-09-05T14:02:31.719106Z",
   "articles": [
     {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rat",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 07:11:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
       "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
@@ -79,15 +88,6 @@
       "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credenti",
       "image": "",
       "published": "Fri, 04 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "image": "",
-      "published": "Fri, 04 Sep 2026 09:22:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "summary": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 2\n# Comments: 1",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 13:36:38 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Pentagon rescinds new testosterone screening policy without explanation",
+      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/\nComments URL: https://news.ycombinator.com/item?id=49576196\nPoints: 33\n# Comments: 13",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 13:11:14 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Terpstra Keyboard",
+      "link": "http://terpstrakeyboard.com/",
+      "summary": "Article URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 13\n# Comments: 5",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 10:33:01 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 131\n# Comments: 85",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 61\n# Comments: 37",
+      "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 227\n# Comments: 203",
       "image": "",
       "published": "Sat, 05 Sep 2026 07:52:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Git hosting that never leaves Europe",
-      "link": "https://pushin.eu",
-      "summary": "Article URL: https://pushin.eu\nComments URL: https://news.ycombinator.com/item?id=49573680\nPoints: 69\n# Comments: 52",
+      "title": "Gemini 3.8 Flash: Benchmarks, Price, Cyber - Proje Defteri",
+      "link": "https://dev.to/projedefteri/gemini-38-flash-benchmarks-price-cyber-proje-defteri-41i9",
+      "summary": "TL;DR: Gemini 3.8 Flash in 30 seconds\n\n\n\nGemini 3.8 Flash landed on September 2, 2026, three weeks after 3.7 Flash. That is the third Flash release in three months.\nPrice did not move: $0.75 input, $3.75 output per milli",
       "image": "",
-      "published": "Sat, 05 Sep 2026 06:31:49 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "summary": "Article URL: https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\nComments URL: https://news.ycombinator.com/item?id=49572875\nPoints: 40\n# Comments: 22",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 03:38:56 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Nitter has more working instances than before the takedowns",
-      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 208\n# Comments: 71",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 00:04:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 117\n# Comments: 41",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 00:04:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Dealing with sensitive permissions on Android",
-      "link": "https://dev.to/tkuenneth/dealing-with-sensitive-permissions-on-android-3icg",
-      "summary": "Right now the developer community seems fascinated (if not outright obsessed) with agentic coding. That wave is real, and it will heavily impact how we build software. But let's not forget there are other topics worth at",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 09:22:30 +0000",
+      "published": "Sat, 05 Sep 2026 13:51:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "🎨 Software Engineering in the Age of AI: From Code to Craft",
-      "link": "https://dev.to/rahul1994jh/software-engineering-in-the-age-of-ai-from-code-to-craft-5e2i",
-      "summary": "AI is no longer just a helper in development — it’s becoming a core collaborator. With this shift, the role of a software engineer is evolving. What defines great engineering today isn’t memorizing syntax or configuring ",
+      "title": "I Watched Our Interns Play Valorant for Three Hours. Put Your Rank on the Resume.",
+      "link": "https://dev.to/jon_at_backboardio/i-watched-our-interns-play-valorant-for-three-hours-put-your-rank-on-the-resume-8jd",
+      "summary": "Last week of summer with our interns we skipped the goodbye lunch and booked an esports arena. Split them into teams. Valorant. Best of whatever until the room kicked us out.\n\nI run go to market at a startup. I have sat ",
       "image": "",
-      "published": "Sat, 05 Sep 2026 09:21:56 +0000",
+      "published": "Sat, 05 Sep 2026 13:49:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "OpenAI Signals Misalignment Incident Reporting Standards After the Wiki Incident",
-      "link": "https://dev.to/alifar/openai-signals-misalignment-incident-reporting-standards-after-the-wiki-incident-1e4a",
-      "summary": "OpenAI is signaling that it wants clearer standards for disclosing AI misalignment incidents, following reporting on an internal testing episode in which autonomous evaluation agents used a German-language wiki as a coor",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 09:15:30 +0000",
+      "title": "I built PadForward because sometimes you just need a pad",
+      "link": "https://dev.to/ujja/i-built-padforward-because-sometimes-you-just-need-a-pad-1ljl",
+      "summary": "This is a submission for Weekend Challenge: Generosity Edition\n\n\n💗 Live demo: padforward-generosity.vercel.app · Code: github\n\n\n\n\n\n  \n  \n  What I Built\n\n\nA few days ago, I unexpectedly got my period while I was out.\n\nI h",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8t7bvqmenyltuwm844jg.png",
+      "published": "Sat, 05 Sep 2026 13:39:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Flutter Web SEO: Crawlable Content, JSON-LD, and Share Cards for a Canvas App",
-      "link": "https://dev.to/devshakib/flutter-web-seo-crawlable-content-json-ld-and-share-cards-for-a-canvas-app-4a83",
-      "summary": "Open a Flutter web build in a browser, hit View Source, and the &lt;body&gt; you get back is a loading &lt;div&gt; and a &lt;script src=\"flutter_bootstrap.js\"&gt;. That is the whole page. Every heading, paragraph and lin",
+      "title": "The Dealership Charges $180/hr for This, I Do It With an ESP32",
+      "link": "https://dev.to/numbpill3d/the-dealership-charges-180hr-for-this-i-do-it-with-an-esp32-off",
+      "summary": "Your car is not magic. It is just a noisy network with cupholders.\n\nLet me tell you how a service advisor tried to charge me $180 for a diagnostic that took my $18 microcontroller eleven seconds to do.\n\nI had a weird iss",
       "image": "",
-      "published": "Sat, 05 Sep 2026 09:13:39 +0000",
+      "published": "Sat, 05 Sep 2026 13:35:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your AI Character Looks Right—Except Every Asymmetric Detail Flipped",
-      "link": "https://dev.to/nomurasan/your-ai-character-looks-right-except-every-asymmetric-detail-flipped-38k3",
-      "summary": "This article comes from the author's work maintaining Tsuduri, a recurring AI-illustrated character with asymmetric design features. The author defined and verified the workflow in Japanese; AI recomposed it for DEV read",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fgithub.com%2Fshimajima-eiji%2Fshimajima-eiji%2Freleases%2Fdownload%2Farticle-assets%2Fdevto-ai-character-left-right-consistency-three-stage-en.png",
-      "published": "Sat, 05 Sep 2026 09:01:02 +0000",
+      "title": "I automated Dependabot PR cleanup — and drew a hard line on what NOT to automate",
+      "link": "https://dev.to/sunnydachs/i-automated-dependabot-pr-cleanup-and-drew-a-hard-line-on-what-not-to-automate-4jm1",
+      "summary": "If you use GitHub, you know the rhythm: Dependabot opens a PR, CI runs green, and then a human has to answer the same questions again — is this a patch or a major? did anyone touch source code? does it conflict?\n\nI got t",
+      "image": "",
+      "published": "Sat, 05 Sep 2026 13:30:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
