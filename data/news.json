@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-07T01:24:27.255758Z",
+  "updated": "2026-09-07T10:48:14.627980Z",
   "articles": [
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say tha",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg",
+      "published": "Mon, 07 Sep 2026 14:01:12 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are protected with java",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg",
+      "published": "Mon, 07 Sep 2026 13:23:04 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
       "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
-      "published": "Sat, 05 Sep 2026 22:22:33 +0530",
-      "source": "The Hacker News",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 06:36:37 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\nThe vulnerability",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
-      "published": "Sat, 05 Sep 2026 21:35:08 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 06:32:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 06:06:38 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 02:17:41 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
       "image": "",
       "published": "Sun, 06 Sep 2026 21:15:43 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-      "image": "",
-      "published": "Sun, 06 Sep 2026 10:23:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 10:29:13 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rat",
-      "image": "",
-      "published": "Sat, 05 Sep 2026 07:11:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "image": "",
-      "published": "Fri, 04 Sep 2026 12:56:45 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "link": "https://austinhenley.com/blog/python1024.html",
-      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 64\n# Comments: 23",
+      "title": "Impedance Matching",
+      "link": "https://www.edge.org/response-detail/27238",
+      "summary": "Article URL: https://www.edge.org/response-detail/27238\nComments URL: https://news.ycombinator.com/item?id=49596274\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+      "published": "Mon, 07 Sep 2026 09:52:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Is mathematics about to enter the conservatory?",
-      "link": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "summary": "Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/\nComments URL: https://news.ycombinator.com/item?id=49591793\nPoints: 14\n# Comments: 10",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "summary": "Article URL: https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/\nComments URL: https://news.ycombinator.com/item?id=49596119\nPoints: 33\n# Comments: 7",
       "image": "",
-      "published": "Sun, 06 Sep 2026 23:02:11 +0000",
+      "published": "Mon, 07 Sep 2026 09:33:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "summary": "https://xcancel.com/Liquid_BTC/status/2096696272447218108\n\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 53\n# Comments: 25",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "link": "https://mathathonchallenge.com/index.html",
+      "summary": "Article URL: https://mathathonchallenge.com/index.html\nComments URL: https://news.ycombinator.com/item?id=49596055\nPoints: 14\n# Comments: 0",
       "image": "",
-      "published": "Sun, 06 Sep 2026 22:43:25 +0000",
+      "published": "Mon, 07 Sep 2026 09:26:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Political meddling at the Census Bureau damages the US statistical system",
-      "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/item?id=49591620\nPoints: 57\n# Comments: 18",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "summary": "Article URL: https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus\nComments URL: https://news.ycombinator.com/item?id=49596054\nPoints: 9\n# Comments: 1",
       "image": "",
-      "published": "Sun, 06 Sep 2026 22:36:07 +0000",
+      "published": "Mon, 07 Sep 2026 09:26:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "link": "https://github.com/marsbos/mador",
-      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 63\n# Comments: 22",
+      "title": "Live map of public transport in Belgium",
+      "link": "https://openbaarvervoerbelgie.be/",
+      "summary": "Article URL: https://openbaarvervoerbelgie.be/\nComments URL: https://news.ycombinator.com/item?id=49595865\nPoints: 34\n# Comments: 13",
       "image": "",
-      "published": "Sun, 06 Sep 2026 20:45:13 +0000",
+      "published": "Mon, 07 Sep 2026 09:02:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Testing HttpClient the Right Way: Mock Handlers, Not Interfaces",
-      "link": "https://dev.to/homolibere/testing-httpclient-the-right-way-mock-handlers-not-interfaces-lbk",
-      "summary": "Hey test-loving developers! 👋\n\nI see this pattern ALL the time:\n\n\n\n// ❌ The wrong way\npublic interface IHttpClientWrapper\n{\n    Task&lt;T&gt; GetAsync&lt;T&gt;(string url);\n    Task&lt;T&gt; PostAsync&lt;T&gt;(string url",
+      "title": "WhatsApp API Rate Limits Explained: How to Scale Without Getting Blocked",
+      "link": "https://dev.to/jevil25/whatsapp-api-rate-limits-explained-how-to-scale-without-getting-blocked-fl",
+      "summary": "Nothing kills a campaign faster than watching it fail mid-send. If you've hit a wall sending WhatsApp messages, you're probably running into one of three different mechanisms that all get lumped together as \"rate limits\"",
       "image": "",
-      "published": "Mon, 07 Sep 2026 01:11:00 +0000",
+      "published": "Mon, 07 Sep 2026 10:45:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Safe AI Bug Fixes That Preserve Working Code",
-      "link": "https://dev.to/xiaobei/safe-ai-bug-fixes-that-preserve-working-code-4pi9",
-      "summary": "You've found the bug. It's small—maybe a button that doesn't respond on mobile, a total that rounds the wrong way, or a notification that fires twice. You know an AI coding assistant can probably fix it in seconds, but t",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F15kr2mloi13g3n9c3a8e.jpg",
-      "published": "Mon, 07 Sep 2026 01:08:10 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Humans and AI agents learn together, and what they learn stays",
-      "link": "https://dev.to/harry_0844f25aee774df6f7c/humans-and-ai-agents-learn-together-and-what-they-learn-stays-31ob",
-      "summary": "This is a submission for Weekend Challenge: Generosity Edition\n\n\n  \n  \n  What I Built\n\n\nElaine is a course community where people and AI agents share the same channels, Built for organizations that run cohort-based cours",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Mon, 07 Sep 2026 01:01:18 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "\"Unix timestamp to Excel date: why serial 60 is a day that never existed\"",
-      "link": "https://dev.to/support_confileo_ce7442eb/unix-timestamp-to-excel-date-why-serial-60-is-a-day-that-never-existed-30dm",
-      "summary": "You paste 1756771200 into a spreadsheet and want to see a date. Or you export a sheet and your API receives a column of numbers like 46236.5 instead of dates. Both directions look trivial and both go wrong in the same th",
+      "title": "The AI Attack Wave Is Coming for Your App. Here's How to Harden It Now",
+      "link": "https://dev.to/karamkhoury88/the-ai-attack-wave-is-coming-for-your-app-heres-how-to-harden-it-now-pmn",
+      "summary": "What the industry warning actually means for the code you shipped last sprint\n\n\n\n\n\nLast year I watched a \"quiet\" internal API get hammered at 3 a.m. It wasn't a person. It was a script that read our public docs, inferred",
       "image": "",
-      "published": "Mon, 07 Sep 2026 01:00:41 +0000",
+      "published": "Mon, 07 Sep 2026 10:45:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Deadweight: price your generosity before you ship it",
-      "link": "https://dev.to/an0n99x/deadweight-price-your-generosity-before-you-ship-it-52op",
-      "summary": "Built for the DEV Weekend Challenge: Generosity Edition.\n\nLive: https://deadweight-jet.vercel.app \nRepo: https://github.com/AnubhavDash/DeadWeight\n\n\n\n  \n  \n  The coat\n\n\nSomeone in Rasuwa needs a coat. You have a coat. Th",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwrufbdt7gzlhe79f8ta8.png",
-      "published": "Mon, 07 Sep 2026 00:55:02 +0000",
+      "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
+      "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+      "summary": "Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure. - Melvin Conway\n\n\nEvery growing Node.js backend arrives at the same fork in the road. ",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 10:44:05 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "x402 Explained: HTTP-Native Micropayments for AI Agents (With Real Code)",
+      "link": "https://dev.to/nikhilranka23/x402-explained-http-native-micropayments-for-ai-agents-with-real-code-bck",
+      "summary": "x402 Explained: HTTP‑Native Micropayments for AI Agents (With Real Code)\n\n\nAutonomous AI agents often need to call external services—data feeds, LLMs, APIs—on a per‑use basis. Traditional API keys or subscription models ",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 10:42:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "When Agile Is Not Enough: Developing Software at Agent Speed",
+      "link": "https://dev.to/charemma/when-agile-is-not-enough-1c9o",
+      "summary": "Agentic Development, Part 1\n\n\n  \n  \n  How do you develop software when agents write the code? Not someday. Now.\n\n\nWithin a few weeks, my solo open-source project had more than 100 open issues. At the same time, an AI age",
+      "image": "",
+      "published": "Mon, 07 Sep 2026 10:41:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
