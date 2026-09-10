@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T15:16:23.192303Z",
+  "updated": "2026-09-10T20:07:27.025383Z",
   "articles": [
+    {
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”\n\nAn extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg",
+      "published": "Thu, 10 Sep 2026 23:17:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
@@ -38,12 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilia",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7j6Sm8OqDeYzrbb5faLBuDOc0zIMlvfjiKbn1aCMpx_2iBl6gb3HhJhpbqU8SPajHUClJEXUwnFbY1DcubmzWeVaWCyGcHkw45rCYqU_4IFO_g4OwdyNrTFFK3l3YsXwfOWQj2QtW3UTeglKmyRJ4GvbVKMxLTByMgeZ7E0WWpxpi50qie2lx9DbCY9rr/s1600/cisa-list.jpg",
-      "published": "Thu, 10 Sep 2026 16:06:46 +0530",
-      "source": "The Hacker News",
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 15:15:07 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+      "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores norm",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 15:07:33 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 11:55:56 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 11:43:58 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's l",
       "image": "",
       "published": "Thu, 10 Sep 2026 10:55:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 10:11:34 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some a",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 07:14:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in Dec",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Amazon pilots ad services in ChatGPT",
-      "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-      "summary": "Article URL: https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/\nComments URL: https://news.ycombinator.com/item?id=49644047\nPoints: 47\n# Comments: 29",
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\nComments URL: https://news.ycombinator.com/item?id=49648732\nPoints: 34\n# Comments: 21",
       "image": "",
-      "published": "Thu, 10 Sep 2026 14:13:09 +0000",
+      "published": "Thu, 10 Sep 2026 19:03:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
-      "link": "https://learningto.co/",
-      "summary": "Article URL: https://learningto.co/\nComments URL: https://news.ycombinator.com/item?id=49643992\nPoints: 21\n# Comments: 22",
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "link": "https://openjdk.org/jeps/544",
+      "summary": "Article URL: https://openjdk.org/jeps/544\nComments URL: https://news.ycombinator.com/item?id=49647404\nPoints: 34\n# Comments: 15",
       "image": "",
-      "published": "Thu, 10 Sep 2026 14:10:02 +0000",
+      "published": "Thu, 10 Sep 2026 17:30:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Shopify moves back to Native from React Native",
-      "link": "https://shopify.engineering/back-to-native",
-      "summary": "Article URL: https://shopify.engineering/back-to-native\nComments URL: https://news.ycombinator.com/item?id=49643982\nPoints: 167\n# Comments: 98",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\nComments URL: https://news.ycombinator.com/item?id=49647134\nPoints: 56\n# Comments: 26",
       "image": "",
-      "published": "Thu, 10 Sep 2026 14:09:31 +0000",
+      "published": "Thu, 10 Sep 2026 17:14:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Who Dung It? (Turdle.fun)",
-      "link": "https://turdle.fun/",
-      "summary": "Article URL: https://turdle.fun/\nComments URL: https://news.ycombinator.com/item?id=49643864\nPoints: 8\n# Comments: 4",
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "link": "https://tokenstead.ai/models/swe-2",
+      "summary": "Article URL: https://tokenstead.ai/models/swe-2\nComments URL: https://news.ycombinator.com/item?id=49646778\nPoints: 31\n# Comments: 14",
       "image": "",
-      "published": "Thu, 10 Sep 2026 14:01:15 +0000",
+      "published": "Thu, 10 Sep 2026 16:52:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bending Spoons buying Miro for $1.355B",
-      "link": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
-      "summary": "Article URL: https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro\nComments URL: https://news.ycombinator.com/item?id=49643848\nPoints: 53\n# Comments: 47",
+      "title": "I have a theory that software drives people insane",
+      "link": "https://graybeard.ing/software-drives-people-insane/",
+      "summary": "Article URL: https://graybeard.ing/software-drives-people-insane/\nComments URL: https://news.ycombinator.com/item?id=49646181\nPoints: 266\n# Comments: 107",
       "image": "",
-      "published": "Thu, 10 Sep 2026 14:00:21 +0000",
+      "published": "Thu, 10 Sep 2026 16:13:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI: Find your way",
-      "link": "https://dev.to/darlandc/ai-find-your-way-59a",
-      "summary": "Software engineering has entered a new phase — and it’s no exaggeration to say the community is on fire. The rise of LLMs has dramatically increased productivity and unlocked possibilities that, until recently, felt out ",
+      "title": "White-Label Identity Verification: More Than a Logo Swap",
+      "link": "https://dev.to/raj6939/white-label-identity-verification-more-than-a-logo-swap-m10",
+      "summary": "A user signs up on your platform, gets to the identity check, and is bounced to verify-provider.com a domain they've never seen, with a logo that isn't yours, asking for a passport photo. Even when the flow is fast and t",
       "image": "",
-      "published": "Thu, 10 Sep 2026 15:13:28 +0000",
+      "published": "Thu, 10 Sep 2026 19:59:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Email Signature Generator CSS icons",
-      "link": "https://dev.to/__f5142d0147e/email-signature-generator-css-icons-9f",
-      "summary": "Back in 2017, I was experimenting with something that was pretty fun for the CSS we had at the time — building icons without using images.\n\nUsing mainly CSS, :before, :after, borders, shadows and a bit of creativity, I m",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 15:12:56 +0000",
+      "title": "Your Third-Party SDKs May Be Collecting More Data Than You Think",
+      "link": "https://dev.to/advocate_peeshchopra/your-third-party-sdks-may-be-collecting-more-data-than-you-think-4788",
+      "summary": "A developer adds an analytics SDK.\n\nAnother SDK handles crash reporting.\n\nA payment library is added for transactions. A social login library makes authentication easier. An advertising SDK helps measure campaigns.\n\nThe ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8yjrer5wk63uzu6x4rzf.png",
+      "published": "Thu, 10 Sep 2026 19:58:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why a WPF ScrollViewer Does Not Scroll and How to Fix It",
-      "link": "https://dev.to/s-iguchi09/why-a-wpf-scrollviewer-does-not-scroll-and-how-to-fix-it-2p9g",
-      "summary": "Originally published at s-iguchi09.github.io.\nA Japanese version is also available.\n\n\n\n  \n  \n  Overview\n\n\nThe WPF ScrollViewer shows scrollbars and enables scrolling when its content is larger than the available viewport",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fs-iguchi09.github.io%2Fimages%2Farticles%2Fwpf-scrollviewer-not-scrolling%2Fscrollviewer-stackpanel-vs-grid.png",
-      "published": "Thu, 10 Sep 2026 15:04:56 +0000",
+      "title": "Shopify Is Moving Its Mobile Apps Back to Native. Coding Agents Made It Cheaper to Build Twice Than to Share One Codebase.",
+      "link": "https://dev.to/jamilxt/shopify-is-moving-its-mobile-apps-back-to-native-coding-agents-made-it-cheaper-to-build-twice-than-4bf9",
+      "summary": "In 2020, Shopify announced that React Native was the future of mobile at Shopify. In January 2025, the same team published \"Five years of React Native at Shopify,\" saying the framework's future was bright and Shopify pla",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 19:56:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building explain-ci: The AI Was the Smallest Part",
-      "link": "https://dev.to/gopalcnepal/building-explain-ci-the-ai-was-the-smallest-part-1n2h",
-      "summary": "CI goes red. Before I can think about the actual fix, I'm expanding the failing job and scrolling through three hundred lines of dependency resolution to find the one line that matters. Then the next person on the repo d",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fphnu9c2lgs1qailoeu3r.png",
-      "published": "Thu, 10 Sep 2026 15:04:23 +0000",
+      "title": "The Open Lakehouse Explained, Then Built on Your Laptop with Dremio and MinIO",
+      "link": "https://dev.to/alexmercedcoder/the-open-lakehouse-explained-then-built-on-your-laptop-with-dremio-and-minio-5eai",
+      "summary": "Most people learn the open lakehouse backwards. They read five vendor pages, collect a stack of Apache project names, and still cannot answer a basic question: when I run a query, what does each piece actually do?\n\nThat ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9s9nwu5fbiujvjbkk67k.png",
+      "published": "Thu, 10 Sep 2026 19:56:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My First Deep Dive Into Solana: Why High-Performance Blockchains Need a Different Design",
-      "link": "https://dev.to/chanikyaindian/my-first-deep-dive-into-solana-why-high-performance-blockchains-need-a-different-design-1aa",
-      "summary": "Until recently, most of my understanding of blockchain came from the familiar ideas of wallets, tokens, smart contracts, and decentralized applications. When I started looking more closely at Solana, what caught my atten",
-      "image": "",
-      "published": "Thu, 10 Sep 2026 15:03:16 +0000",
+      "title": "Building an Enterprise GenAI Platform on OCI — Part 2: The Data Pipeline Nobody Talks About",
+      "link": "https://dev.to/yugandharsurya/building-an-enterprise-genai-platform-on-oci-part-2-the-data-pipeline-nobody-talks-about-a22",
+      "summary": "The quality of a RAG system is decided long before the query reaches the LLM.\n\n\nI learned that the hard way.\n\nAfter designing the architecture in Part 1, my first instinct was to move straight to embeddings.\n\nAfter all, ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fomr3ist4kzh8mr2wfau9.png",
+      "published": "Thu, 10 Sep 2026 19:54:00 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
