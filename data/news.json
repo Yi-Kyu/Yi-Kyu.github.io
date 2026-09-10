@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-10T01:36:15.762620Z",
+  "updated": "2026-09-10T10:06:23.011721Z",
   "articles": [
+    {
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that&nbsp;Wiz Research&nbsp;scanned in February accepted&nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-source AI gateway, t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfjbI1DXHJ4wQzSRFbddkmgQ9CTLSPPGP8fcQ6a37qbwKvgd4JxU51YhADR8S4IsWaiQ4fRApn-ih4m0AhsizM3wa6aJ3P8MlgBztNQm-oH4bE_TkPsmUZHhblcNMrQFxGdWnDHePCQDcSz-AJeWMoKH6YVcXXFCjK2ajZfbmObdeVkWmvv8O_fufqsl0/s1600/litellm.jpg",
+      "published": "Thu, 10 Sep 2026 12:42:55 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmMNfeF1h2D3MrUkoHWN2M9yhKD-FFQ6DgwixOflNATW2UA5b_6AsUjXLAjrn5c4hQWw0xueXTWDlbqKwS_gexDm0Yq8PB_B2LpXHaQiw7m7thOATlckixuA8VUIFDFERGBS8o1Kph93eYnDysXuRljKaXfe7813MwWKkBLex8BP3YL-fahCr4Xm3xMWZE/s1600/claude-hack.jpg",
+      "published": "Thu, 10 Sep 2026 12:34:01 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
       "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint to",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg",
-      "published": "Wed, 09 Sep 2026 17:27:36 +0530",
-      "source": "The Hacker News",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in Dec",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent's commands insi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg",
-      "published": "Wed, 09 Sep 2026 16:47:07 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 02:56:33 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
       "image": "",
       "published": "Wed, 09 Sep 2026 17:30:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 12:48:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 11:31:23 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
-      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from\nComments URL: https://news.ycombinator.com/item?id=49636906\nPoints: 11\n# Comments: 0",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683\nComments URL: https://news.ycombinator.com/item?id=49640646\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Thu, 10 Sep 2026 01:02:44 +0000",
+      "published": "Thu, 10 Sep 2026 09:04:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Blizzard Workers Win Historic Union Contract",
-      "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-      "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers\nComments URL: https://news.ycombinator.com/item?id=49635384\nPoints: 77\n# Comme",
+      "title": "I think I hate the internet",
+      "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+      "summary": "Article URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet/\nComments URL: https://news.ycombinator.com/item?id=49639104\nPoints: 31\n# Comments: 12",
       "image": "",
-      "published": "Wed, 09 Sep 2026 22:22:53 +0000",
+      "published": "Thu, 10 Sep 2026 06:12:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Factoring RSA 260",
-      "link": "https://cognition.com/blog/factoring-rsa-260",
-      "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260\nComments URL: https://news.ycombinator.com/item?id=49633534\nPoints: 17\n# Comments: 3",
+      "title": "DeepSeek v4.1 Flash",
+      "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "summary": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash\n\nComments URL: https://news.ycombinator.com/item?id=49639090\nPoints: 357\n# Comments: 153",
       "image": "",
-      "published": "Wed, 09 Sep 2026 20:16:08 +0000",
+      "published": "Thu, 10 Sep 2026 06:11:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "iPhone Duo",
-      "link": "https://www.apple.com/iphone-duo/",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 867\n# Comments: 1666",
+      "title": "All grown-ups were once children, but only few of them remember it",
+      "link": "https://mathstodon.xyz/@tao/117244102901892965",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117244102901892965\nComments URL: https://news.ycombinator.com/item?id=49638280\nPoints: 167\n# Comments: 126",
       "image": "",
-      "published": "Wed, 09 Sep 2026 18:15:43 +0000",
+      "published": "Thu, 10 Sep 2026 04:04:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Apple Watch Series 12",
-      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/\nComments URL: https://news.ycombinator.com/item?id=49630566\nPoints: 207\n# Comments: 244",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 76\n# Comments: 13",
       "image": "",
-      "published": "Wed, 09 Sep 2026 17:56:17 +0000",
+      "published": "Thu, 10 Sep 2026 02:04:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "JavaScript and TypeScript Interview Questions Explained With Real Production Examples",
-      "link": "https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-176e",
-      "summary": "Most explanations of these concepts stop at the definition. Scope gets a rule about hoisting. Closures get a counter function that increments a number nobody would ever ship. The event loop gets a diagram. any versus unk",
+      "title": "Machine Learning for Customer Churn Prediction: What Actually Works",
+      "link": "https://dev.to/rwaltzsoftware/machine-learning-for-customer-churn-prediction-what-actually-works-51mn",
+      "summary": "Some of your customers are leaving because you called them\n\nA retention call reminds someone their contract is ending. It prompts a price comparison they had not thought to run. It reopens a complaint they had let go. Fo",
       "image": "",
-      "published": "Thu, 10 Sep 2026 01:20:07 +0000",
+      "published": "Thu, 10 Sep 2026 10:01:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Try to Kill My Ideas Before I Build Them",
-      "link": "https://dev.to/the_leon_odor/i-try-to-kill-my-ideas-before-i-build-them-2422",
-      "summary": "AI makes it dangerously easy to build the wrong thing. I can point agents at a problem and have a mountain of code before I have proven the idea underneath it.\n\nSo before I build too much, I try to kill the idea first.\n\n",
+      "title": "Seat-based AI tooling has an idle capacity problem nobody budgets for",
+      "link": "https://dev.to/sam_novak_574b07811e18495/seat-based-ai-tooling-has-an-idle-capacity-problem-nobody-budgets-for-20kp",
+      "summary": "If your company buys per-seat AI coding subscriptions, you are almost certainly paying for a lot of capacity that expires unused every week, while some of your engineers hit their limit on Tuesday.\n\nBoth things are true ",
       "image": "",
-      "published": "Thu, 10 Sep 2026 01:19:41 +0000",
+      "published": "Thu, 10 Sep 2026 10:00:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
-      "link": "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985",
-      "summary": "Come to check the locks, and leave holding the keys. Slip in through the gap, take the host's seat, step by step.\n— The 36 Stratagems, Make the Host and the Guest Exchange Roles\n\n\n\n\n\nPreviously on this series:\n\n#3: Lena ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
-      "published": "Thu, 10 Sep 2026 01:15:10 +0000",
+      "title": "Regímenes de mercado con Hidden Markov Models: un score de riesgo que bate al buy-and-hold",
+      "link": "https://dev.to/adrian_368e1d3e691afab697/regimenes-de-mercado-con-hidden-markov-models-un-score-de-riesgo-que-bate-al-buy-and-hold-ipg",
+      "summary": "Los mercados no se comportan igual todo el tiempo. Hay periodos de calma alcista, periodos neutrales y periodos de pánico. El problema es que ese \"régimen\" es un estado oculto: no viene etiquetado en los datos, solo lo i",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 10:00:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Apresentando o Bando CMS: construa aplicações simples sem criar um backend do zero",
-      "link": "https://dev.to/humbwavali/apresentando-o-bando-cms-construa-aplicacoes-simples-sem-criar-um-backend-do-zero-1hpo",
-      "summary": "E se você pudesse construir uma aplicação orientada a conteúdo sem passar horas criando um backend apenas para gerenciar alguns dados?\n\nEssa é a ideia por trás do Bando CMS.\n\nCriei o Bando como um headless CMS open sourc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vk5w5y7jqc3ubxpwtnx.png",
-      "published": "Thu, 10 Sep 2026 01:14:24 +0000",
+      "title": "Data Quality Checks That Catch Real Web Scraping Failures",
+      "link": "https://dev.to/anakin_writers/data-quality-checks-that-catch-real-web-scraping-failures-533j",
+      "summary": "A scraper can run successfully and still give you bad data. The HTTP request returns 200, your parser finds elements, the job writes rows, and nobody notices that price now contains the text from a promo banner because t",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 10:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One-Line Security Fix: How an XLS Quote Escaping Bug in Dify Leaked Spreadsheet Data",
-      "link": "https://dev.to/truongsontung/one-line-security-fix-how-an-xls-quote-escaping-bug-in-dify-leaked-spreadsheet-data-44pl",
-      "summary": "The $1 Fix That Prevented Data Leakage\n\n\nWhile auditing Dify (an open-source AI platform), I found a one-line bug in the\nXLS spreadsheet parser. User-supplied cell values were not properly quoted\nwhen written to CSV, all",
+      "title": "Pydantic caught three distinct JSON failures from a model output",
+      "link": "https://dev.to/robswierk/pydantic-caught-three-distinct-json-failures-from-a-model-output-djb",
+      "summary": "Pydantic raised a validation error on three separate content drafts across two days. Two were truncated: one stopped mid-value at column 20914, one mid-string at column 21862. The third carried a trailing comma at column",
       "image": "",
-      "published": "Thu, 10 Sep 2026 01:09:35 +0000",
+      "published": "Thu, 10 Sep 2026 10:00:00 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
