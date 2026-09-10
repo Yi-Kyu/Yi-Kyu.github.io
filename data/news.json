@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T20:05:27.931032Z",
+  "updated": "2026-09-10T01:36:15.762620Z",
   "articles": [
     {
       "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 17:40:44 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 17:30:36 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 17:02:14 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
       "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
       "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
@@ -61,33 +88,6 @@
       "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
       "image": "",
       "published": "Wed, 09 Sep 2026 11:31:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service de",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 06:11:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 04:44:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "summary": "Article URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from\nComments URL: https://news.ycombinator.com/item?id=49636906\nPoints: 11\n# Comments: 0",
+      "image": "",
+      "published": "Thu, 10 Sep 2026 01:02:44 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Blizzard Workers Win Historic Union Contract",
+      "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+      "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers\nComments URL: https://news.ycombinator.com/item?id=49635384\nPoints: 77\n# Comme",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 22:22:53 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Factoring RSA 260",
+      "link": "https://cognition.com/blog/factoring-rsa-260",
+      "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260\nComments URL: https://news.ycombinator.com/item?id=49633534\nPoints: 17\n# Comments: 3",
+      "image": "",
+      "published": "Wed, 09 Sep 2026 20:16:08 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "iPhone Duo",
       "link": "https://www.apple.com/iphone-duo/",
-      "summary": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 369\n# Comments: 858",
+      "summary": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 867\n# Comments: 1666",
       "image": "",
       "published": "Wed, 09 Sep 2026 18:15:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "link": "https://github.com/OtoDock/oto-dock",
-      "summary": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted applic",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 17:57:55 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Apple Watch Ultra 4",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/\nComments URL: https://news.ycombinator.com/item?id=49630583\nPoints: 38\n# Comments: 73",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 17:56:57 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
       "title": "Apple Watch Series 12",
       "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/\nComments URL: https://news.ycombinator.com/item?id=49630566\nPoints: 115\n# Comments: 104",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/\nComments URL: https://news.ycombinator.com/item?id=49630566\nPoints: 207\n# Comments: 244",
       "image": "",
       "published": "Wed, 09 Sep 2026 17:56:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AirPods 5",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49630253\nPoints: 192\n# Comments: 14",
+      "title": "JavaScript and TypeScript Interview Questions Explained With Real Production Examples",
+      "link": "https://dev.to/allenarduino/javascript-and-typescript-interview-questions-explained-with-real-production-examples-176e",
+      "summary": "Most explanations of these concepts stop at the definition. Scope gets a rule about hoisting. Closures get a counter function that increments a number nobody would ever ship. The event loop gets a diagram. any versus unk",
       "image": "",
-      "published": "Wed, 09 Sep 2026 17:39:24 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Google’s August Gemini Updates Expand Faster Models, Transcription and Task Workflows",
-      "link": "https://dev.to/alifar/googles-august-gemini-updates-expand-faster-models-transcription-and-task-workflows-2bnp",
-      "summary": "Google’s August 2026 Gemini updates were not a single product release. They were a coordinated expansion across models, the Gemini app, Gemini Live and Google’s wider software ecosystem. The most consequential changes in",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 20:01:01 +0000",
+      "published": "Thu, 10 Sep 2026 01:20:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'",
-      "link": "https://dev.to/brmarcosbr/i-made-an-agent-play-slay-the-spire-2-on-its-own-and-what-unlocked-it-was-the-game-saying-no-2hc2",
-      "summary": "I made an agent play Slay the Spire 2 on its own — and what unlocked it was the game saying 'no'\n\n\nOn 08/09/2026, an agent played an entire solo combat of Slay the Spire 2 with no human intervention: 7 turns, 35 actions,",
+      "title": "I Try to Kill My Ideas Before I Build Them",
+      "link": "https://dev.to/the_leon_odor/i-try-to-kill-my-ideas-before-i-build-them-2422",
+      "summary": "AI makes it dangerously easy to build the wrong thing. I can point agents at a problem and have a mountain of code before I have proven the idea underneath it.\n\nSo before I build too much, I try to kill the idea first.\n\n",
       "image": "",
-      "published": "Wed, 09 Sep 2026 19:59:10 +0000",
+      "published": "Thu, 10 Sep 2026 01:19:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bridging RxJS BehaviorSubject and React with useSyncExternalStore",
-      "link": "https://dev.to/pretaporter/bridging-rxjs-behaviorsubject-and-react-with-usesyncexternalstore-25f4",
-      "summary": "If you keep shared, mutable state in an RxJS BehaviorSubject — a WebSocket connection status, a design-system theme, a cache shared between routed pages — you eventually need to read that state from a React component and",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 19:56:04 +0000",
+      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
+      "link": "https://dev.to/xulingfeng/stratagems-30-lena-signed-the-client-the-ai-didnt-know-it-was-being-audited-3985",
+      "summary": "Come to check the locks, and leave holding the keys. Slip in through the gap, take the host's seat, step by step.\n— The 36 Stratagems, Make the Host and the Guest Exchange Roles\n\n\n\n\n\nPreviously on this series:\n\n#3: Lena ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkztjqxetsk5r1lft5ult.png",
+      "published": "Thu, 10 Sep 2026 01:15:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Truth Behind OpenAI's 10,000-Agent Math Claim",
-      "link": "https://dev.to/shresthapandey/the-truth-behind-openais-10000-agent-math-claim-df9",
-      "summary": "On September 8, 2026, OpenAI published a paper claiming that an internal, unreleased AI system had made progress on one of the seven Millennium Prize Problems: the Navier–Stokes existence and smoothness problem. The anno",
-      "image": "",
-      "published": "Wed, 09 Sep 2026 19:55:10 +0000",
+      "title": "Apresentando o Bando CMS: construa aplicações simples sem criar um backend do zero",
+      "link": "https://dev.to/humbwavali/apresentando-o-bando-cms-construa-aplicacoes-simples-sem-criar-um-backend-do-zero-1hpo",
+      "summary": "E se você pudesse construir uma aplicação orientada a conteúdo sem passar horas criando um backend apenas para gerenciar alguns dados?\n\nEssa é a ideia por trás do Bando CMS.\n\nCriei o Bando como um headless CMS open sourc",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2vk5w5y7jqc3ubxpwtnx.png",
+      "published": "Thu, 10 Sep 2026 01:14:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Agile Coach Has No Clothes (And No Budget, Either)",
-      "link": "https://dev.to/javiercastromdq/the-agile-coach-has-no-clothes-and-no-budget-either-2in9",
-      "summary": "Agile transformations don't die because the methodology is wrong. They die because the org chart was never redrawn.\n\n\nPicture this: a major European bank announces its Agile transformation. It hires a cohort of certified",
+      "title": "One-Line Security Fix: How an XLS Quote Escaping Bug in Dify Leaked Spreadsheet Data",
+      "link": "https://dev.to/truongsontung/one-line-security-fix-how-an-xls-quote-escaping-bug-in-dify-leaked-spreadsheet-data-44pl",
+      "summary": "The $1 Fix That Prevented Data Leakage\n\n\nWhile auditing Dify (an open-source AI platform), I found a one-line bug in the\nXLS spreadsheet parser. User-supplied cell values were not properly quoted\nwhen written to CSV, all",
       "image": "",
-      "published": "Wed, 09 Sep 2026 19:48:56 +0000",
+      "published": "Thu, 10 Sep 2026 01:09:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
