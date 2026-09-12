@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-12T09:39:05.434503Z",
+  "updated": "2026-09-12T14:26:21.302569Z",
   "articles": [
+    {
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg",
+      "published": "Sat, 12 Sep 2026 15:54:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, M",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg",
+      "published": "Sat, 12 Sep 2026 14:37:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n\nThe operation has b",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg",
-      "published": "Fri, 11 Sep 2026 19:40:20 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg",
-      "published": "Fri, 11 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "image": "",
+      "published": "Sat, 12 Sep 2026 10:14:32 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
       "image": "",
       "published": "Fri, 11 Sep 2026 12:29:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "link": "https://eiln.github.io/posts/ane.html",
-      "summary": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 61\n# Comments: 9",
+      "title": "My last six months at Evernote",
+      "link": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
+      "summary": "Article URL: https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/\nComments URL: https://news.ycombinator.com/item?id=49672342\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "published": "Sat, 12 Sep 2026 13:54:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Usenet rewind archive search engine",
-      "link": "https://www.usenet-rewind.com/",
-      "summary": "Article URL: https://www.usenet-rewind.com/\nComments URL: https://news.ycombinator.com/item?id=49668777\nPoints: 59\n# Comments: 12",
+      "title": "Coding Is Over. Get over It",
+      "link": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./",
+      "summary": "Article URL: https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./\nComments URL: https://news.ycombinator.com/item?id=49672045\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Sat, 12 Sep 2026 04:19:52 +0000",
+      "published": "Sat, 12 Sep 2026 13:16:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Navier-Stokes Announcement",
-      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 155\n# Comments: 101",
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 232\n# Comments: 170",
       "image": "",
-      "published": "Sat, 12 Sep 2026 04:09:43 +0000",
+      "published": "Sat, 12 Sep 2026 11:42:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "link": "https://www.autom.dev/blog/google-search-goto-links",
-      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 417\n# Comments: 318",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "link": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+      "summary": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/\nComments URL: https://news.ycombinator.com/item?id=49671296\nPoints: 26\n# Comments: 4",
       "image": "",
-      "published": "Sat, 12 Sep 2026 03:14:20 +0000",
+      "published": "Sat, 12 Sep 2026 11:37:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "link": "https://www.rubyhack.ai/",
-      "summary": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\n\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 698\n# Comments: 393",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "summary": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\nComments URL: https://news.ycombinator.com/item?id=49671159\nPoints: 48\n# Comments: 26",
       "image": "",
-      "published": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "published": "Sat, 12 Sep 2026 11:13:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building per-app dictation on macOS: focus, profiles, and optional send",
-      "link": "https://dev.to/clavioapp/building-per-app-dictation-on-macos-focus-profiles-and-optional-send-2ge4",
-      "summary": "Dictating a coding prompt and dictating an email can involve the same microphone and speech recognizer. They should not necessarily involve the same writing style—or the same action after the text appears.\n\nWe build Clav",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1psjws92tjgt97qm4cdy.png",
-      "published": "Sat, 12 Sep 2026 09:31:41 +0000",
+      "title": "Before You Hunt a Desync, Prove Your Own Simulation Is Deterministic",
+      "link": "https://dev.to/halil_cogun/before-you-hunt-a-desync-prove-your-own-simulation-is-deterministic-4igf",
+      "summary": "The test nobody runs first\n\n\nWhen the system catches a desync between two players, the match dies, someone files a bug, and the hunt begins. Which client was wrong? Which subsystem? Which tick? Two machines, two builds, ",
+      "image": "",
+      "published": "Sat, 12 Sep 2026 14:16:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "BDD Without Gherkin",
-      "link": "https://dev.to/paul-brooks/bdd-without-gherkin-558b",
-      "summary": "I've been writing acceptance tests in Given-When-Then since 2009 and I've never written a feature file by choice. So when someone asks whether you can do BDD without Gherkin, my answer is that I've never done it any othe",
+      "title": "ChatGPT Ads Restrict Rival Image and Audio AI Tools as OpenAI Sets New Guardrails",
+      "link": "https://dev.to/alifar/chatgpt-ads-restrict-rival-image-and-audio-ai-tools-as-openai-sets-new-guardrails-1ji4",
+      "summary": "OpenAI has formalized advertising guardrails for ChatGPT that can restrict campaigns promoting rival image-generation and audio-generation tools. The change gives OpenAI explicit discretion to decline, limit, or remove a",
       "image": "",
-      "published": "Sat, 12 Sep 2026 09:23:52 +0000",
+      "published": "Sat, 12 Sep 2026 14:15:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "An Attacker's Multi-Agent Framework Stole Thousands of Credentials in Under Six Hours",
-      "link": "https://dev.to/aditya_soni_e5b9d5213e544/an-attackers-multi-agent-framework-stole-thousands-of-credentials-in-under-six-hours-4kgh",
-      "summary": "A financially motivated attacker ran reconnaissance, exploitation, and cleanup with almost no human in the loop — using the same design patterns you'd use to build a helpful agent. That symmetry is the actual story.\n\n\n  ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F491z1dxcn8snkbmhnw7p.png",
-      "published": "Sat, 12 Sep 2026 09:21:16 +0000",
+      "title": "Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products",
+      "link": "https://dev.to/tim_kariuki325/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-2a2a",
+      "summary": "E-commerce sites like Jumia gather enormous volumes of data every day, including product ratings, prices, discounts, and customer reviews. However, this data only takes on significance when it is sufficiently processed a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fir3ikeyu1gqx1815vjxp.png",
+      "published": "Sat, 12 Sep 2026 14:13:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-      "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-      "summary": "Introduction\n\n\nStart with the problem. Mention that you wanted to dive into the Steal an Egg gaming community, but existing resources were cluttered with heavy ads, slow load times, or SEO spam. Explain your goal: to bui",
+      "title": "Design Around Humans",
+      "link": "https://dev.to/turtleand/design-around-humans-4f50",
+      "summary": "An agent can complete a task independently. That does not make the human irrelevant.\n\nWe are the fragile part of the interaction. Attention runs out. Fatigue weakens judgment. Understanding takes time. Systems should pro",
       "image": "",
-      "published": "Sat, 12 Sep 2026 09:13:56 +0000",
+      "published": "Sat, 12 Sep 2026 14:04:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Financial Dashboard for Indie Devs and Digital Creators and It is Free",
-      "link": "https://dev.to/erenelagz/how-i-unified-stripe-revenuecat-and-gumroad-revenue-into-one-dashboard-3clk",
-      "summary": "As a digital creator, indie hacker, freelancer, or digital nomad, your income can end up scattered across multiple platforms.\n\nYou might use:\n\n\nStripe for SaaS or freelance payments\nRevenueCat for mobile app subscription",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxj0mg19cyz5m1fqpfiz4.jpg",
-      "published": "Sat, 12 Sep 2026 09:13:04 +0000",
+      "title": "🥇The Real Value of Event-Driven Architecture Isn't Technology. It's Cost Reduction.",
+      "link": "https://dev.to/stephen_tsoi_5b2c4055f3a9/the-real-value-of-event-driven-architecture-isnt-technology-its-cost-reduction-5dba",
+      "summary": "👋 Hi dev community! I originally published this on my LinkedIn Newsletter, but wanted to share it with the dev community here to get your thoughts on how your engineering teams handle infrastructure ROI. Let's discuss in",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyzumuxze1uidpqjijgmi.png",
+      "published": "Sat, 12 Sep 2026 14:03:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
