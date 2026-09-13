@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:40:13.157545Z",
+  "updated": "2026-09-13T15:07:46.295045Z",
   "articles": [
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "image": "",
+      "published": "Sun, 13 Sep 2026 10:26:32 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
@@ -79,15 +88,6 @@
       "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from ",
       "image": "",
       "published": "Fri, 11 Sep 2026 13:26:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 12:29:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Norton Neo Browser",
-      "link": "https://neobrowser.ai/",
-      "summary": "Article URL: https://neobrowser.ai/\nComments URL: https://news.ycombinator.com/item?id=49681724\nPoints: 19\n# Comments: 23",
+      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+      "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "summary": "Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo\nComments URL: https://news.ycombinator.com/item?id=49684266\nPoints: 4\n# Comments: 2",
       "image": "",
-      "published": "Sun, 13 Sep 2026 09:07:59 +0000",
+      "published": "Sun, 13 Sep 2026 14:15:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Homebrew 7.0.0",
-      "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "summary": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/\nComments URL: https://news.ycombinator.com/item?id=49681545\nPoints: 18\n# Comments: 4",
+      "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+      "link": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+      "summary": "Article URL: https://www.youtube.com/watch?v=xJzrU38pGWc\nComments URL: https://news.ycombinator.com/item?id=49684042\nPoints: 9\n# Comments: 0",
       "image": "",
-      "published": "Sun, 13 Sep 2026 08:41:17 +0000",
+      "published": "Sun, 13 Sep 2026 13:54:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "JetKVM Mini",
-      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "summary": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini\nComments URL: https://news.ycombinator.com/item?id=49681152\nPoints: 114\n# Comments: 60",
+      "title": "Your car is selling your data",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "summary": "Article URL: https://www.theverge.com/column/994172/your-car-is-selling-your-data\nComments URL: https://news.ycombinator.com/item?id=49683953\nPoints: 35\n# Comments: 15",
       "image": "",
-      "published": "Sun, 13 Sep 2026 07:49:46 +0000",
+      "published": "Sun, 13 Sep 2026 13:45:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A wandering black hole caught feeding on the run",
-      "link": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "summary": "Article URL: https://phys.org/news/2026-08-black-hole-caught.html\nComments URL: https://news.ycombinator.com/item?id=49679734\nPoints: 22\n# Comments: 7",
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "link": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "summary": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/\nComments URL: https://news.ycombinator.com/item?id=49683853\nPoints: 143\n# Comment",
       "image": "",
-      "published": "Sun, 13 Sep 2026 03:34:53 +0000",
+      "published": "Sun, 13 Sep 2026 13:35:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A succession crisis that tore England apart (2023)",
-      "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "summary": "Article URL: https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart\nComments URL: https://news.ycombinator.com/item?id=49679647\nPoints: 35\n# Comments: 24",
+      "title": "Mars astronauts could live in houses made of yeast and jello, say scientists",
+      "link": "https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931",
+      "summary": "Article URL: https://www.theregister.com/offbeat/2026/09/11/mars-astronauts-could-live-in-houses-made-of-yeast-and-jello-say-scientists/5295931\nComments URL: https://news.ycombinator.com/item?id=49683844\nPoints: 7\n# Comm",
       "image": "",
-      "published": "Sun, 13 Sep 2026 03:18:29 +0000",
+      "published": "Sun, 13 Sep 2026 13:34:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Much Does It Actually Cost to Build a SaaS in 2026? A Technical Breakdown",
-      "link": "https://dev.to/haseeb_sheikh_0f627e74ba7/how-much-does-it-actually-cost-to-build-a-saas-in-2026-a-technical-breakdown-6hd",
-      "summary": "A SaaS application can look simple from the outside and still require significant backend engineering.\n\nA dashboard with ten screens might be cheap to build. A dashboard with multi-tenant data, role-based permissions, St",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 10:35:45 +0000",
+      "title": "Se acabó el limite de los 15 minutos: un análisis a fondo del tiempo de espera de 90 minutos de AWS Lambda",
+      "link": "https://dev.to/kevinlupera/se-acabo-el-limite-de-los-15-minutos-un-analisis-a-fondo-del-tiempo-de-espera-de-90-minutos-de-aws-5h8b",
+      "summary": "Hace 4 días vi un anuncio que me parecio muy interesante es que ya se incremento 6x el timeout de las funciones Lambda de AWS con origen de eventos (ESM) en instancias administradas (LMI), lo cual abre muchas posibilidad",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frc1w0fr3mpxysdeqn2q1.png",
+      "published": "Sun, 13 Sep 2026 15:04:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building was the easy part. Distribution is the 10x problem.",
-      "link": "https://dev.to/vormlyai/building-was-the-easy-part-distribution-is-the-10x-problem-1bp7",
-      "summary": "I shipped a AI creation saas platform solo — image, video, music and 3D generation, 30+ models behind a routing layer, subscription billing with two payment adapters, an admin backend, a Chrome extension.\n\nThen I launch,",
+      "title": "Data Substrate Versus Vector Db Rag",
+      "link": "https://dev.to/apexgridtech/data-substrate-versus-vector-db-rag-24e5",
+      "summary": "This week’s headlines highlight the rapid evolution of AI in China, with models like Qwen and DeepSeek pushing the frontier of capability. But as these models grow more sophisticated, the conversation around how data is ",
       "image": "",
-      "published": "Sun, 13 Sep 2026 10:30:20 +0000",
+      "published": "Sun, 13 Sep 2026 15:01:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Local LLMs Don't Need C++ or Python: Building a 15MB Native AOT Inference Engine in .NET 10",
-      "link": "https://dev.to/iancowley/why-local-llms-dont-need-c-or-python-building-a-15mb-native-aot-inference-engine-in-net-10-1m2d",
-      "summary": "Bare-Metal LLM Inference in Pure C#: Bypassing CUDA Toolkits and Native C++ DLLs\n\n\nThe conventional consensus across AI engineering is simple: high-performance local LLM execution belongs exclusively to C++ runtimes, mul",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 10:27:57 +0000",
+      "title": "Use host.docker.internal to reach local Ollama from Mule",
+      "link": "https://dev.to/thasha/use-hostdockerinternal-to-reach-local-ollama-from-mule-1p02",
+      "summary": "Problem\n\n\nThe flow failed with a connection refused error when the configuration used http://localhost:11434/v1 as the base URL. The MuleSoft Inference Connector enables text generation workflows docs.\n\n\n  \n  \n  Input\n\n\n",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fltasp1zppm5alhy9rfge.png",
+      "published": "Sun, 13 Sep 2026 14:58:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RAG for Beginners: 5 Levels of Building an AI That Actually Knows Your Stuff",
-      "link": "https://dev.to/ajmal_hasan/rag-for-beginners-5-levels-of-building-an-ai-that-actually-knows-your-stuff-4mmg",
-      "summary": "Have you ever wished ChatGPT could answer questions about your documents — your company's HR policy, your class notes, your product manual — instead of just whatever it happened to learn from the internet? That's exactly",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F95ixe1novninermca7zz.png",
-      "published": "Sun, 13 Sep 2026 10:26:44 +0000",
+      "title": "My build went green and the permanent record kept almost none of it",
+      "link": "https://dev.to/mahirhir/my-build-went-green-and-the-permanent-record-kept-almost-none-of-it-5fd1",
+      "summary": "A clean run at a release boundary. Every check green. Then the step that writes the run into the append-only record, and this:\n\n\n\nadmitted   6 blocks, 321 lines\nrefused    line_outside_the_layer_vocabulary  line=OK_REFUS",
+      "image": "",
+      "published": "Sun, 13 Sep 2026 14:58:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "RBAC SQL table create",
-      "link": "https://dev.to/yyt0901/rbac-sql-table-create-2ii7",
-      "summary": "the core is: User ↔ Role ↔ Permission\n\n\n  \n  \n  表结构总览\n\n\n\n\n\nsys_user          用户表\nsys_role          角色表\nsys_permission    权限表（菜单/按钮/接口）\nsys_user_role     用户-角色关联表（多对多）\nsys_role_permission  角色-权限关联表（多对多）\n\n\n\n\n\n\n\n  \n  \n  1. ",
-      "image": "",
-      "published": "Sun, 13 Sep 2026 10:22:46 +0000",
+      "title": "AI-Enhanced Data Pipelines: Integrating NVIDIA Triton Inference Server into Modern ETL Architectures",
+      "link": "https://dev.to/etloss/ai-enhanced-data-pipelines-integrating-nvidia-triton-inference-server-into-modern-etl-15ab",
+      "summary": "-- Executive Summary --\n\n\nThe evolution of Extract, Transform, Load (ETL) processes is undergoing a paradigm shift. Traditional ETL pipelines, designed for structured data and rigid transformation rules, are ill-equipped",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvqwpk4bm33wphjd2iedf.jpg",
+      "published": "Sun, 13 Sep 2026 14:57:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
