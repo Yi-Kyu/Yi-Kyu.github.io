@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-14T01:50:19.791446Z",
+  "updated": "2026-09-14T11:01:11.199957Z",
   "articles": [
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named \"Twitch Enhanced Viewer | ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg",
+      "published": "Mon, 14 Sep 2026 12:54:39 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -38,12 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability in question is CVE-20",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
-      "published": "Fri, 11 Sep 2026 22:00:18 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 05:50:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 04:48:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 04:08:16 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+      "image": "",
+      "published": "Mon, 14 Sep 2026 03:06:27 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
       "image": "",
       "published": "Sun, 13 Sep 2026 10:26:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-      "image": "",
-      "published": "Sat, 12 Sep 2026 10:14:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 16:19:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police departm",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 15:00:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from ",
-      "image": "",
-      "published": "Fri, 11 Sep 2026 13:26:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The case against JPEG XL",
-      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 20\n# Comments: 6",
+      "title": "How Is Compression Prediction?",
+      "link": "https://lukefleed.xyz/posts/compression/",
+      "summary": "Article URL: https://lukefleed.xyz/posts/compression/\nComments URL: https://news.ycombinator.com/item?id=49694547\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "published": "Mon, 14 Sep 2026 10:22:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list\nComments URL: https://news.ycombinator.com/item?id=49690260\nPoints: 16\n# Comments: 0",
+      "title": "Pkgsrc Is Cool (2022)",
+      "link": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+      "summary": "Article URL: https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/\nComments URL: https://news.ycombinator.com/item?id=49694311\nPoints: 9\n# Comments: 0",
       "image": "",
-      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
+      "published": "Mon, 14 Sep 2026 09:53:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Coming War on General Computation (2011)",
-      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation\nComments URL: https://news.ycombinator.com/item?id=49690051\nPoints: 40\n# Comments: 9",
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386\nComments URL: https://news.ycombinator.com/item?id=49693613\nPoints: 40\n# Comments: 12",
       "image": "",
-      "published": "Sun, 13 Sep 2026 23:54:55 +0000",
+      "published": "Mon, 14 Sep 2026 08:25:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The contagion of fear",
-      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\nComments URL: https://news.ycombinator.com/item?id=49689460\nPoints: 134\n# Comments: 89",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/\nComments URL: https://news.ycombinator.com/item?id=49693610\nPoints: 47\n# Comments: 15",
       "image": "",
-      "published": "Sun, 13 Sep 2026 22:38:18 +0000",
+      "published": "Mon, 14 Sep 2026 08:25:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\nComments URL: https://news.ycombinator.com/item?id=49689048\nPoints: 74\n# Comments: 38",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch\nComments URL: https://news.ycombinator.com/item?id=49693384\nPoints: 17\n# Comments: 3",
       "image": "",
-      "published": "Sun, 13 Sep 2026 21:47:04 +0000",
+      "published": "Mon, 14 Sep 2026 07:55:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "นักคณิตศาสตร์เหรียญ Fields 25 คนบอกว่า AI กำลังทำร้ายคณิตศาสตร์",
-      "link": "https://dev.to/sarantoon/nakkhnitsaastrehriiyy-fields-25-khnbkwaa-ai-kamlangthamraaykhnitsaastr-o34",
-      "summary": "นักคณิตศาสตร์เหรียญ Fields 25 คนบอกว่า AI กำลังทำร้ายคณิตศาสตร์\n\n\nโดย Nokka (นก-กา) | 14 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรว",
+      "title": "What does your version 2.0 look like?",
+      "link": "https://dev.to/ransford_01/what-does-your-version-20-look-like-35ge",
+      "summary": "What does your version 2.0 look like?\n\nThe above will sound like a software upgrade being spoken about by an Engineer, but in this case, it is not. This is a self-reflecting and thought-provoking question about one’s per",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:36:10 +0000",
+      "published": "Mon, 14 Sep 2026 10:58:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Chasing Quantum States Through Time: A Tour of Time-Evolution Methods in TensorCircuit-NG",
-      "link": "https://dev.to/refractionray/chasing-quantum-states-through-time-a-tour-of-time-evolution-methods-in-tensorcircuit-ng-37ea",
-      "summary": "Flip a single spin in a spin chain and, at first glance, almost nothing seems to happen. It is just a small disturbance dropped into a large quantum system.\n\nBut then the disturbance propagates. Magnetization changes. En",
+      "title": "How I designed a Claude skill that turns call notes into action items",
+      "link": "https://dev.to/fairdraftstudio/how-i-designed-a-claude-skill-that-turns-call-notes-into-action-items-146e",
+      "summary": "After a client call, the same admin always follows: reread the notes, work out what was actually decided, write down who owes what by when, and send a recap before memories drift.\n\nThat job is repetitive and has a clear ",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:35:26 +0000",
+      "published": "Mon, 14 Sep 2026 10:55:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Model Vendor Routing Constraints: A Prepaid API Balance Guard in Node.js",
-      "link": "https://dev.to/kiernanberg3867/model-vendor-routing-constraints-a-prepaid-api-balance-guard-in-nodejs-2a24",
-      "summary": "The constraint that decides this one isn't cost and it isn't benchmark quality. It's that the account funding the calls is prepaid, the batch runs at 03:00, and nobody is awake to approve a fallback. Our storefront regen",
+      "title": "Do the Top Domains Actually Protect Their Email? SPF, DMARC and MTA-STS, Measured",
+      "link": "https://dev.to/lucian_lkb_1f009d/do-the-top-domains-actually-protect-their-email-spf-dmarc-and-mta-sts-measured-3n68",
+      "summary": "SPF, DMARC and MTA-STS are the DNS records that stop someone spoofing mail from your domain.\nEveryone says to set them — so I queried live DNS for 152 of the most-used domains to see\nwho actually has. The short version: ",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:35:15 +0000",
+      "published": "Mon, 14 Sep 2026 10:53:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My Harness Used One Label for Three Different Failures.",
-      "link": "https://dev.to/kenielzep97/my-harness-used-one-label-for-three-different-failures-7pd",
-      "summary": "Three fixtures, three separate calls into the same reducer. Here is the complete\nfailure_reasons each one returned, unedited:\n\n\n\nunreadable arriving args  -&gt;  [\"SANDBOX_EVENT_CARDINALITY_INVALID\",\n                    ",
+      "title": "Rails escaped the input. The XSS fired anyway.",
+      "link": "https://dev.to/ivanyatsenko/rails-escaped-the-input-the-xss-fired-anyway-3fo1",
+      "summary": "A while back I was building a plain UTM-tracking feature on a large Rails + Vue app. Nothing exotic: read a query param, keep it in the session, drop it into the page. Rails escaped the value on the way out, the way it a",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:32:55 +0000",
+      "published": "Mon, 14 Sep 2026 10:50:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Sky Becomes a Data Center: The Race to Put AI in Orbit",
-      "link": "https://dev.to/presentofai/the-sky-becomes-a-data-center-the-race-to-put-ai-in-orbit-25g6",
-      "summary": "From China's Xingshu Plan satellites to SpaceX's 1-million-satellite Starmind filing and the SpaceX and xAI Gigasat orbital AI factory, every major AI power is racing to move compute into low Earth orbit. The first multi",
+      "title": "We deployed a voice AI agent in a week. Proving its ROI took months.",
+      "link": "https://dev.to/dusky_memom3103/we-deployed-a-voice-ai-agent-in-a-week-proving-its-roi-took-months-30ea",
+      "summary": "We rolled out a voice AI agent for our support line and had it live in about a week — the vendor demo was smooth, setup was mostly config, no big engineering lift. Then leadership asked the obvious question: \"so what's i",
       "image": "",
-      "published": "Mon, 14 Sep 2026 01:20:16 +0000",
+      "published": "Mon, 14 Sep 2026 10:40:25 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
