@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:29:45.542455Z",
+  "updated": "2026-09-16T01:50:34.340058Z",
   "articles": [
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 17:37:35 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden use",
+      "image": "",
+      "published": "Tue, 15 Sep 2026 16:34:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
       "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
@@ -70,24 +88,6 @@
       "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
       "image": "",
       "published": "Tue, 15 Sep 2026 10:45:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control test",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 09:45:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 08:16:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How much oil-market buffer is left?",
-      "link": "https://www.depletion.org",
-      "summary": "Article URL: https://www.depletion.org\nComments URL: https://news.ycombinator.com/item?id=49718025\nPoints: 29\n# Comments: 26",
+      "title": "Saving Jet Fuel",
+      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\nComments URL: https://news.ycombinator.com/item?id=49720164\nPoints: 29\n# Comments: 13",
       "image": "",
-      "published": "Tue, 15 Sep 2026 19:56:56 +0000",
+      "published": "Tue, 15 Sep 2026 23:17:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "link": "https://github.com/GraafHenk/numberwang",
-      "summary": "Article URL: https://github.com/GraafHenk/numberwang\nComments URL: https://news.ycombinator.com/item?id=49717605\nPoints: 18\n# Comments: 3",
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/\nComments URL: https://news.ycombinator.com/item?id=49719938\nPoints: 21\n# Comments: 4",
       "image": "",
-      "published": "Tue, 15 Sep 2026 19:27:35 +0000",
+      "published": "Tue, 15 Sep 2026 22:50:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
-      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 184\n# Comments: 59",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\nComments URL: https://news.ycombinator.com/item?id=49718928\nPoints: 127\n# Comments: 40",
       "image": "",
-      "published": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "published": "Tue, 15 Sep 2026 21:07:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Chop Up Your Books",
-      "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "summary": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\nComments URL: https://news.ycombinator.com/item?id=49716953\nPoints: 28\n# Comments: 20",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\nComments URL: https://news.ycombinator.com/item?id=49718822\nPoints: 87\n# Comments: 13",
       "image": "",
-      "published": "Tue, 15 Sep 2026 18:45:31 +0000",
+      "published": "Tue, 15 Sep 2026 20:57:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\nComments URL: https://news.ycombinator.com/item?id=49716476\nPoints: 124\n# Comments: 52",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "link": "https://codyho.dev/blog/gpu-driver/",
+      "summary": "Article URL: https://codyho.dev/blog/gpu-driver/\nComments URL: https://news.ycombinator.com/item?id=49717638\nPoints: 162\n# Comments: 100",
       "image": "",
-      "published": "Tue, 15 Sep 2026 18:11:24 +0000",
+      "published": "Tue, 15 Sep 2026 19:30:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Cloned Instagram's full UI The Two Column Layout (Built With CSS Grid + Flexbox)",
-      "link": "https://dev.to/codewithdivine/i-cloned-instagrams-full-ui-the-two-column-layout-built-with-css-grid-flexbox-f31",
-      "summary": "A junior dev on my team once spent two days rebuilding the same sidebar layout three separate times, one version for desktop, one for tablet, one for mobile. Three different CSS files. Three different approaches.\n\nWhen I",
+      "title": "Bridging Temporal Machine Sagas and Flowable Human Workflows in BIAN Architectures",
+      "link": "https://dev.to/mountek/bridging-temporal-machine-sagas-and-flowable-human-workflows-in-bian-architectures-12c3",
+      "summary": "Modern core banking platform design presents a structural dilemma: high-frequency distributed systems demand sub-millisecond API execution, eventual consistency, and resilient retries, while corporate governance demands ",
       "image": "",
-      "published": "Tue, 15 Sep 2026 20:20:07 +0000",
+      "published": "Wed, 16 Sep 2026 01:43:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Getting a NestJS app's logs into Elasticsearch without writing grok",
-      "link": "https://dev.to/erickcm/getting-a-nestjs-apps-logs-into-elasticsearch-without-writing-grok-5amn",
-      "summary": "My team is rolling out ELK observability across four services, and I drew the short straw of instrumenting the first one: a NestJS API. I expected an afternoon of tedium. I got that, plus one surprise that made the whole",
+      "title": "Chandra Meets CodeDeploy: My First AWS Deployment Journey",
+      "link": "https://dev.to/chandra_prabha_v/chandra-meets-codedeploy-my-first-aws-deployment-journey-2oom",
+      "summary": "Chandra Meets CodeDeploy: My First AWS Deployment Journey ☁️\n\n\nExploring how AWS CodeDeploy makes application deployment easier, faster, and more reliable.\n\n\n  \n  \n  Introduction\n\n\nIn software development, creating an ap",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo7dequshw9edcebp2cnk.png",
+      "published": "Wed, 16 Sep 2026 01:30:57 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี",
+      "link": "https://dev.to/sarantoon/jaitts-okhlnesiiyngaithythiikhaaennaemnkwaamnusy-aelaepidaichfrii-648",
+      "summary": "JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี\n\n\nโดย Nokka (นก-กา) | 15 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเ",
       "image": "",
-      "published": "Tue, 15 Sep 2026 20:16:45 +0000",
+      "published": "Wed, 16 Sep 2026 01:27:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "M3E Canvas: Visual Material 3 Expressive Prototyping for AI Coding Agents",
-      "link": "https://dev.to/terminalchai/m3e-canvas-visual-material-3-expressive-prototyping-for-ai-coding-agents-2ca2",
-      "summary": "Bridging Visual Design and Vibe Coding: Meet M3E Canvas\n\n\n\n\nWith the explosive rise of autonomous AI coding assistants (such as Claude Code, Cursor, Codex, and Gemini CLI), developers can generate complete application fr",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnxfjmxzme8dex3o39qbn.png",
-      "published": "Tue, 15 Sep 2026 20:16:25 +0000",
+      "title": "AWS Rhyming Game Contest – Exploring Amazon Kinesis",
+      "link": "https://dev.to/kishore3506/aws-rhyming-game-contest-exploring-amazon-kinesis-51f4",
+      "summary": "1. Introduction\n\n\nAs part of the Rhyming Game Contest, I was asked to search for an AWS service starting with the first letter of my name.\n\nMy first letter is K, so I searched for AWS services beginning with the letter K",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo563ayx20vvxrnk850z8.png",
+      "published": "Wed, 16 Sep 2026 01:22:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Exploring AWS Transit Gateway",
-      "link": "https://dev.to/theebikasri_jagadees_42ad/exploring-aws-transit-gateway-7im",
-      "summary": "Theebikasri Meets Transit Gateway: Exploring AWS Transit Gateway\nIntroduction\n\nCloud computing has changed the way organizations build and manage their applications and infrastructure. Instead of maintaining all their se",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flzf1ucqbg9b2mj1cknbg.png",
-      "published": "Tue, 15 Sep 2026 20:15:50 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Google Tests AI Contribution Payments for Publishers Through Search Console",
-      "link": "https://dev.to/alifar/google-tests-ai-contribution-payments-for-publishers-through-search-console-5952",
-      "summary": "Google is testing a new publisher monetization approach called AI Contribution, a limited Search Console pilot that tracks monthly earnings tied to content that meaningfully contributes to AI-generated outputs. The exper",
+      "title": "Appliage: Building a Serial Number Decoder for Appliance Age Lookup",
+      "link": "https://dev.to/appliage/appliage-building-a-serial-number-decoder-for-appliance-age-lookup-2e6l",
+      "summary": "I have been building Appliage, a free appliance age finder based on serial numbers.\n\nThe interesting part is not the form. It is the date logic behind it.\n\nA lot of appliance brands use short year codes. GE, for example,",
       "image": "",
-      "published": "Tue, 15 Sep 2026 20:15:30 +0000",
+      "published": "Wed, 16 Sep 2026 01:21:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
