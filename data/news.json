@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-16T01:50:34.340058Z",
+  "updated": "2026-09-16T10:20:57.043696Z",
   "articles": [
+    {
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.\n\n\"This vulnerability can be leveraged by unauthenticated a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg",
+      "published": "Wed, 16 Sep 2026 11:18:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of imprope",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg",
+      "published": "Wed, 16 Sep 2026 10:48:06 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
       "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
@@ -29,21 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg",
-      "published": "Tue, 15 Sep 2026 17:22:28 +0530",
-      "source": "The Hacker News",
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 05:10:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "summary": "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this parti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg",
-      "published": "Tue, 15 Sep 2026 16:56:36 +0530",
-      "source": "The Hacker News",
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 03:00:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
       "image": "",
       "published": "Tue, 15 Sep 2026 12:40:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 11:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-      "image": "",
-      "published": "Tue, 15 Sep 2026 10:45:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Saving Jet Fuel",
-      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\nComments URL: https://news.ycombinator.com/item?id=49720164\nPoints: 29\n# Comments: 13",
+      "title": "Learning Programming in an Age of LLMs",
+      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "summary": "Article URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\nComments URL: https://news.ycombinator.com/item?id=49723873\nPoints: 18\n# Comments: 5",
       "image": "",
-      "published": "Tue, 15 Sep 2026 23:17:20 +0000",
+      "published": "Wed, 16 Sep 2026 09:12:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "summary": "Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/\nComments URL: https://news.ycombinator.com/item?id=49719938\nPoints: 21\n# Comments: 4",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-x-mozilla/\nComments URL: https://news.ycombinator.com/item?id=49723408\nPoints: 22\n# Comments: 2",
       "image": "",
-      "published": "Tue, 15 Sep 2026 22:50:55 +0000",
+      "published": "Wed, 16 Sep 2026 08:08:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\nComments URL: https://news.ycombinator.com/item?id=49718928\nPoints: 127\n# Comments: 40",
+      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "link": "https://github.com/dbalsom/martypc",
+      "summary": "Article URL: https://github.com/dbalsom/martypc\nComments URL: https://news.ycombinator.com/item?id=49722591\nPoints: 15\n# Comments: 2",
       "image": "",
-      "published": "Tue, 15 Sep 2026 21:07:47 +0000",
+      "published": "Wed, 16 Sep 2026 05:56:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\nComments URL: https://news.ycombinator.com/item?id=49718822\nPoints: 87\n# Comments: 13",
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "summary": "Article URL: https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\nComments URL: https://news.ycombinator.com/item?id=49722521\nPoints: 29\n# Comments: 6",
       "image": "",
-      "published": "Tue, 15 Sep 2026 20:57:18 +0000",
+      "published": "Wed, 16 Sep 2026 05:43:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "link": "https://codyho.dev/blog/gpu-driver/",
-      "summary": "Article URL: https://codyho.dev/blog/gpu-driver/\nComments URL: https://news.ycombinator.com/item?id=49717638\nPoints: 162\n# Comments: 100",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "link": "https://github.com/rapiddweller/datamimic",
+      "summary": "Article URL: https://github.com/rapiddweller/datamimic\nComments URL: https://news.ycombinator.com/item?id=49722276\nPoints: 39\n# Comments: 6",
       "image": "",
-      "published": "Tue, 15 Sep 2026 19:30:03 +0000",
+      "published": "Wed, 16 Sep 2026 04:58:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bridging Temporal Machine Sagas and Flowable Human Workflows in BIAN Architectures",
-      "link": "https://dev.to/mountek/bridging-temporal-machine-sagas-and-flowable-human-workflows-in-bian-architectures-12c3",
-      "summary": "Modern core banking platform design presents a structural dilemma: high-frequency distributed systems demand sub-millisecond API execution, eventual consistency, and resilient retries, while corporate governance demands ",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 01:43:17 +0000",
+      "title": "Inside murmur: prefetching, interruptions, and audio scheduling",
+      "link": "https://dev.to/fawinell/inside-murmur-prefetching-interruptions-and-audio-scheduling-1h1i",
+      "summary": "murmur is a companion radio that runs in a terminal. It talks and picks songs without waiting for a question. The listener can type a line, get a spoken reply from the host, and then let the show continue.\n\nWriting a seg",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8cphu26h3lm2tazqqiro.png",
+      "published": "Wed, 16 Sep 2026 10:09:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Chandra Meets CodeDeploy: My First AWS Deployment Journey",
-      "link": "https://dev.to/chandra_prabha_v/chandra-meets-codedeploy-my-first-aws-deployment-journey-2oom",
-      "summary": "Chandra Meets CodeDeploy: My First AWS Deployment Journey ☁️\n\n\nExploring how AWS CodeDeploy makes application deployment easier, faster, and more reliable.\n\n\n  \n  \n  Introduction\n\n\nIn software development, creating an ap",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo7dequshw9edcebp2cnk.png",
-      "published": "Wed, 16 Sep 2026 01:30:57 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี",
-      "link": "https://dev.to/sarantoon/jaitts-okhlnesiiyngaithythiikhaaennaemnkwaamnusy-aelaepidaichfrii-648",
-      "summary": "JaiTTS โคลนเสียงไทยที่คะแนนแม่นกว่ามนุษย์ และเปิดใช้ฟรี\n\n\nโดย Nokka (นก-กา) | 15 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเ",
+      "title": "Anthropic's Production Agent Guardrails: Lint Rules, Fuzzers, and Automated Reviews for Claude-Generated Code",
+      "link": "https://dev.to/mech_app_ai/anthropics-production-agent-guardrails-lint-rules-fuzzers-and-automated-reviews-for-m4i",
+      "summary": "Anthropic's Boris Cherny dropped a rare glimpse into how the company actually deploys Claude in production: \"Production code written by Claude should have a higher bar than if it was written by a human.\" The guardrail st",
       "image": "",
-      "published": "Wed, 16 Sep 2026 01:27:34 +0000",
+      "published": "Wed, 16 Sep 2026 10:07:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AWS Rhyming Game Contest – Exploring Amazon Kinesis",
-      "link": "https://dev.to/kishore3506/aws-rhyming-game-contest-exploring-amazon-kinesis-51f4",
-      "summary": "1. Introduction\n\n\nAs part of the Rhyming Game Contest, I was asked to search for an AWS service starting with the first letter of my name.\n\nMy first letter is K, so I searched for AWS services beginning with the letter K",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo563ayx20vvxrnk850z8.png",
-      "published": "Wed, 16 Sep 2026 01:22:01 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Appliage: Building a Serial Number Decoder for Appliance Age Lookup",
-      "link": "https://dev.to/appliage/appliage-building-a-serial-number-decoder-for-appliance-age-lookup-2e6l",
-      "summary": "I have been building Appliage, a free appliance age finder based on serial numbers.\n\nThe interesting part is not the form. It is the date logic behind it.\n\nA lot of appliance brands use short year codes. GE, for example,",
+      "title": "Chain-of-Self-Questioning: How Agents Decide When to Abstain Instead of Hallucinate",
+      "link": "https://dev.to/mech_app_ai/chain-of-self-questioning-how-agents-decide-when-to-abstain-instead-of-hallucinate-1c61",
+      "summary": "Every agent builder hits the same production wall: your LLM answers confidently when it should refuse. In financial workflows, a wrong answer costs money. A refusal costs time. Chain-of-Self-Questioning (CoSQ) is a promp",
       "image": "",
-      "published": "Wed, 16 Sep 2026 01:21:24 +0000",
+      "published": "Wed, 16 Sep 2026 10:07:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I Built a Pay-to-Rank Leaderboard Where Products Compete Through Transparent Bidding",
+      "link": "https://dev.to/pr0biex/i-built-a-pay-to-rank-leaderboard-where-products-compete-through-transparent-bidding-5ecj",
+      "summary": "I Built a Pay-to-Rank Leaderboard Where Products Compete Through Transparent Bidding\n\n\n\n\n\nProduct Hunt resets every 24 hours. SEO takes months. Traditional ads are opaque.\n\nI built something different: a leaderboard wher",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 10:05:43 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Can multilingual AI improve product search on international marketplaces?",
+      "link": "https://dev.to/ohadfarkash/can-multilingual-ai-improve-product-search-on-international-marketplaces-3m20",
+      "summary": "International marketplaces may support several languages, but their search engines often perform much better in English.\n\nA shopper can describe exactly what they want in Spanish, French, or Arabic and still receive irre",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 10:05:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
