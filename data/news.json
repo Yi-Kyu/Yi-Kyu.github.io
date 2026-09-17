@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:42:38.966980Z",
+  "updated": "2026-09-17T20:36:17.678301Z",
   "articles": [
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed AP",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 14:55:12 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 13:11:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
       "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that b",
@@ -70,24 +88,6 @@
       "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
       "image": "",
       "published": "Thu, 17 Sep 2026 07:33:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 04:24:48 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "I Don't Like LLMs",
-      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "summary": "Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html\nComments URL: https://news.ycombinator.com/item?id=49740834\nPoints: 88\n# Comments: 95",
+      "title": "Astra for Law",
+      "link": "https://openai.com/index/astra-for-law/",
+      "summary": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 22\n# Comments: 8",
       "image": "",
-      "published": "Thu, 17 Sep 2026 13:57:07 +0000",
+      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I had Gemini train its own replacement for $9",
-      "link": "https://www.petervijeh.com/projects/reddit-ner",
-      "summary": "Article URL: https://www.petervijeh.com/projects/reddit-ner\nComments URL: https://news.ycombinator.com/item?id=49740330\nPoints: 78\n# Comments: 31",
+      "title": "Everybody's Lost Their Minds",
+      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "summary": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 17\n# Comments: 2",
       "image": "",
-      "published": "Thu, 17 Sep 2026 13:17:16 +0000",
+      "published": "Thu, 17 Sep 2026 19:43:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "link": "https://mysetup.ai/",
-      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did t",
+      "title": "Don't Just Say Hello",
+      "link": "https://nohello.net/en/",
+      "summary": "Article URL: https://nohello.net/en/\nComments URL: https://news.ycombinator.com/item?id=49745266\nPoints: 30\n# Comments: 15",
       "image": "",
-      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "published": "Thu, 17 Sep 2026 19:16:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "link": "https://flat.social",
-      "summary": "Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I re",
+      "title": "Canto: A speech model built for the real world",
+      "link": "https://wisprflow.ai/canto",
+      "summary": "Article URL: https://wisprflow.ai/canto\nComments URL: https://news.ycombinator.com/item?id=49744715\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Thu, 17 Sep 2026 12:57:09 +0000",
+      "published": "Thu, 17 Sep 2026 18:32:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "link": "https://news.ycombinator.com/item?id=49738879",
-      "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 202",
+      "title": "Don't Make Job Referrals Public",
+      "link": "https://blog.melashri.net/micro/public-job-referral/",
+      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 16\n# Comments: 9",
       "image": "",
-      "published": "Thu, 17 Sep 2026 10:44:49 +0000",
+      "published": "Thu, 17 Sep 2026 18:16:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Deterministic checks for AI-written migrations",
-      "link": "https://dev.to/bolvrk/deterministic-checks-for-ai-written-migrations-3m9h",
-      "summary": "A coding agent asked to \"add a status column to orders\" will do it in seconds. It will also, more often than not, write the version that fails on a table with rows in it, or the version that takes an exclusive lock and h",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 15:30:44 +0000",
+      "title": "I never fully understood Python for loops until I grasped the range function. Here is what I learnt",
+      "link": "https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312",
+      "summary": "I come from a C Programming background, where for loops are very simple.\n\n\n\nfor(int i = 0; i &lt; n; i++) {\n    // Your fabulous code block\n}\n\n\n\n\n\n\n\n\nThis was intuitively easy to understand. \n\n\nThe first part int i = 0 i",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9viogy17e5hfdvfxdw27.png",
+      "published": "Thu, 17 Sep 2026 20:32:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One line stops a migration from taking down production. Almost nobody adds it.",
-      "link": "https://dev.to/bolvrk/one-line-stops-a-migration-from-taking-down-production-almost-nobody-adds-it-30nm",
-      "summary": "Here is how a migration that does no work at all takes a table offline.\n\n\n\nALTER TABLE orders ADD COLUMN note text;\n\n\n\n\n\n\nA nullable column, no default. This is a catalog change; on its own it holds its lock for a few mi",
+      "title": "Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access",
+      "link": "https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g",
+      "summary": "Anthropic has launched the Life Sciences Verification Program (LSVP), an invite-only beta intended to give vetted life sciences researchers access to Mythos 5.1 under a specialized safety framework. The program creates a",
       "image": "",
-      "published": "Thu, 17 Sep 2026 15:30:42 +0000",
+      "published": "Thu, 17 Sep 2026 20:28:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CREATE INDEX CONCURRENTLY is not free, and half the time you do not need it",
-      "link": "https://dev.to/bolvrk/create-index-concurrently-is-not-free-and-half-the-time-you-do-not-need-it-45o4",
-      "summary": "The standard advice is \"always CREATE INDEX CONCURRENTLY in production\". It is good advice and it is also a little lazy, because it skips over what the concurrent form costs and when you are paying that cost for nothing.",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 15:30:41 +0000",
+      "title": "Full Stack HQ: A Permission-First AI Engineering Stack for Claude Code, Antigravity, and Codex",
+      "link": "https://dev.to/sabahattink/full-stack-hq-a-permission-first-ai-engineering-stack-for-claude-code-antigravity-and-codex-1o1n",
+      "summary": "AI coding agents can move quickly. The engineering challenge is keeping intent,\napproval, and verification visible while they do.\n\nThat is the problem Full Stack HQ is designed to address: a shared,\npermission-first engi",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsabahattink%2Fantigravity-fullstack-hq%2Fmain%2Fdocs%2Fassets%2Fhero-terminal.svg",
+      "published": "Thu, 17 Sep 2026 20:26:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Adding a foreign key to a big table without locking both of them",
-      "link": "https://dev.to/bolvrk/adding-a-foreign-key-to-a-big-table-without-locking-both-of-them-2pf8",
-      "summary": "Foreign keys are the constraint people add late. The table already has a few million rows in it, someone notices that order_items.order_id can point at nothing, and the fix is one line.\n\n\n\nALTER TABLE order_items\n  ADD C",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 15:30:05 +0000",
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "link": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g",
+      "summary": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while we worked through judging, and thank you for the volume and quality of what you sent us.\n\nWe asked you to build someth",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4025240%2F8b439bff-c8c7-4012-b315-f48e6d2c1d60.png",
+      "published": "Thu, 17 Sep 2026 20:22:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why SQLite refuses your ALTER TABLE, and the twelve-step rebuild it wants instead",
-      "link": "https://dev.to/bolvrk/why-sqlite-refuses-your-alter-table-and-the-twelve-step-rebuild-it-wants-instead-31eh",
-      "summary": "Coming from Postgres, SQLite's ALTER TABLE feels broken. It is not. It is small on purpose, and the rules for what it refuses are consistent once you know them. The trouble is that the refusals happen at run time, and a ",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 15:30:04 +0000",
+      "title": "I Accidentally Built a Dark Software Factory. Here's How.",
+      "link": "https://dev.to/bendechrai/i-accidentally-built-a-dark-software-factory-heres-how-27k7",
+      "summary": "This is the first in a series of articles about my dark software factory, Holodeck. This one covers how it came to be and the principles underneath it. In future articles I'd like to dive into particular aspects in more ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlxw7po2scvy16t1pk5e.png",
+      "published": "Thu, 17 Sep 2026 20:21:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
