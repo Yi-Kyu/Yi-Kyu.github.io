@@ -1,49 +1,76 @@
 {
-  "updated": "2026-09-17T10:30:12.616628Z",
+  "updated": "2026-09-17T15:42:38.966980Z",
   "articles": [
     {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg",
-      "published": "Wed, 16 Sep 2026 21:20:59 +0530",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&nbsp;advisory&nbsp;on Wednesday.\n\nAn attacker who controls a malicious zone a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg",
+      "published": "Thu, 17 Sep 2026 18:00:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg",
-      "published": "Wed, 16 Sep 2026 20:57:49 +0530",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg",
+      "published": "Thu, 17 Sep 2026 17:20:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at&nbsp;Forever Security&nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg",
-      "published": "Wed, 16 Sep 2026 20:06:44 +0530",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg",
+      "published": "Thu, 17 Sep 2026 16:20:53 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&nbsp;Shai-Hulud&nbsp;across about 100 internal code repositories.\n\nBefore the reposit",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg",
-      "published": "Wed, 16 Sep 2026 19:07:07 +0530",
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at leas",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg",
+      "published": "Thu, 17 Sep 2026 15:35:45 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machin",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg",
-      "published": "Wed, 16 Sep 2026 18:44:05 +0530",
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz2xdqQbSjGZGGkNO0hRMgoEWNFpWVp0DDsBvsbQekWezeScq_sLAPfzY-kJenfNHYFnSqDcU93F30gmINBYYobl0Jf1thyPsXm34lbJPqMfZwPXoRy1UvpQcS_eHwF_nVqk-rDBTd83B8iteh4e23r2pnbtUsOgFPmYVRi-IlrW6-9FFUf7-DiZ8yyAOJ/s1600/openai-models.jpg",
+      "published": "Thu, 17 Sep 2026 15:23:38 +0530",
       "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that b",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 09:09:09 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "US takes down NightmareStresser DDoS-for-hire platform",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
       "image": "",
       "published": "Thu, 17 Sep 2026 04:24:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 03:20:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure\nComments URL: https://news.ycombinator.com/item?id=49737922\nPoints: 36\n# Comments: 6",
+      "title": "I Don't Like LLMs",
+      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "summary": "Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html\nComments URL: https://news.ycombinator.com/item?id=49740834\nPoints: 88\n# Comments: 95",
       "image": "",
-      "published": "Thu, 17 Sep 2026 08:27:09 +0000",
+      "published": "Thu, 17 Sep 2026 13:57:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "One Year of Sponsored Servo Development",
-      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/\nComments URL: https://news.ycombinator.com/item?id=49737849\nPoints: 78\n# Comments: 32",
+      "title": "I had Gemini train its own replacement for $9",
+      "link": "https://www.petervijeh.com/projects/reddit-ner",
+      "summary": "Article URL: https://www.petervijeh.com/projects/reddit-ner\nComments URL: https://news.ycombinator.com/item?id=49740330\nPoints: 78\n# Comments: 31",
       "image": "",
-      "published": "Thu, 17 Sep 2026 08:13:54 +0000",
+      "published": "Thu, 17 Sep 2026 13:17:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAI Model Misalignment Report",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "summary": "Article URL: https://openai.com/index/model-misalignment-reporting-framework/\nComments URL: https://news.ycombinator.com/item?id=49737503\nPoints: 20\n# Comments: 3",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "link": "https://mysetup.ai/",
+      "summary": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did t",
       "image": "",
-      "published": "Thu, 17 Sep 2026 07:21:19 +0000",
+      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cloudflare/Security-Audit-Skill",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill\nComments URL: https://news.ycombinator.com/item?id=49736466\nPoints: 64\n# Comments: 12",
+      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "link": "https://flat.social",
+      "summary": "Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I re",
       "image": "",
-      "published": "Thu, 17 Sep 2026 04:36:55 +0000",
+      "published": "Thu, 17 Sep 2026 12:57:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-      "link": "https://github.com/browser-use/jev-ultrafast",
-      "summary": "Article URL: https://github.com/browser-use/jev-ultrafast\nComments URL: https://news.ycombinator.com/item?id=49735979\nPoints: 60\n# Comments: 4",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "link": "https://news.ycombinator.com/item?id=49738879",
+      "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 202",
       "image": "",
-      "published": "Thu, 17 Sep 2026 03:12:05 +0000",
+      "published": "Thu, 17 Sep 2026 10:44:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Learn How to Query from Unlabeled Data Streams in Federated Learning.",
-      "link": "https://dev.to/ponmiledaniel/learn-how-to-query-from-unlabeled-data-streams-in-federated-learning-51i3",
-      "summary": "1. The Problem\n\n\nThe authors start from a realistic problem.\n\nMost Federated Learning research assumes that clients already have a labeled dataset.\n\nBut what happens when data is continuously arriving at the client witho",
+      "title": "Deterministic checks for AI-written migrations",
+      "link": "https://dev.to/bolvrk/deterministic-checks-for-ai-written-migrations-3m9h",
+      "summary": "A coding agent asked to \"add a status column to orders\" will do it in seconds. It will also, more often than not, write the version that fails on a table with rows in it, or the version that takes an exclusive lock and h",
       "image": "",
-      "published": "Thu, 17 Sep 2026 10:27:17 +0000",
+      "published": "Thu, 17 Sep 2026 15:30:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "KYB + KYC : Architecting 'Know Your Business', 'Entity Graph Traversal' & 'PII Orchestration'",
-      "link": "https://dev.to/arcaneproject/kyb-kyc-architecting-know-your-business-entity-graph-traversal-pii-orchestration-2c15",
-      "summary": "KYB and KYC get bundled into the same dashboard and the same sentence, but they verify different things for different customer types. Here's what Know Your Business actually means, how it differs from KYC, what a complia",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftd6dl4s7dxy2hscukdru.png",
-      "published": "Thu, 17 Sep 2026 10:23:10 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "We evaluated 40+ inventory sync tools before building our own. Here's the architectural pattern that separates the good from the broken.",
-      "link": "https://dev.to/nventory/we-evaluated-40-inventory-sync-tools-before-building-our-own-heres-the-architectural-pattern-1kpg",
-      "summary": "Before building Nventory we spent three months evaluating every inventory sync tool in the market.\n\nNot as potential customers. As engineers trying to understand why the problem remained unsolved despite dozens of tools ",
+      "title": "One line stops a migration from taking down production. Almost nobody adds it.",
+      "link": "https://dev.to/bolvrk/one-line-stops-a-migration-from-taking-down-production-almost-nobody-adds-it-30nm",
+      "summary": "Here is how a migration that does no work at all takes a table offline.\n\n\n\nALTER TABLE orders ADD COLUMN note text;\n\n\n\n\n\n\nA nullable column, no default. This is a catalog change; on its own it holds its lock for a few mi",
       "image": "",
-      "published": "Thu, 17 Sep 2026 10:20:54 +0000",
+      "published": "Thu, 17 Sep 2026 15:30:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Can Write Code. It Still Can't Think Like an Engineer.",
-      "link": "https://dev.to/thebitforge/ai-can-write-code-it-still-cant-think-like-an-engineer-2l19",
-      "summary": "The bug that doesn't look like a bug\n\n\nThere's a specific kind of bug that has started showing up more often over the last two years, and it doesn't behave like the bugs engineers are used to. It doesn't look sloppy. It ",
-      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3581035%2F7a4e3e11-052c-4b61-9f45-e3f421e69147.png",
-      "published": "Thu, 17 Sep 2026 10:20:32 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How I built a lightweight GitHub Action to stop breaking API changes in CI",
-      "link": "https://dev.to/turyakalburgi/how-i-built-a-lightweight-github-action-to-stop-breaking-api-changes-in-ci-3jam",
-      "summary": "Breaking API contracts silently slipping into production is a pain point almost every engineering team hits eventually. A backend PR renames a field, drops a property, or mutates a type—and downstream services or fronten",
+      "title": "CREATE INDEX CONCURRENTLY is not free, and half the time you do not need it",
+      "link": "https://dev.to/bolvrk/create-index-concurrently-is-not-free-and-half-the-time-you-do-not-need-it-45o4",
+      "summary": "The standard advice is \"always CREATE INDEX CONCURRENTLY in production\". It is good advice and it is also a little lazy, because it skips over what the concurrent form costs and when you are paying that cost for nothing.",
       "image": "",
-      "published": "Thu, 17 Sep 2026 10:20:32 +0000",
+      "published": "Thu, 17 Sep 2026 15:30:41 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Adding a foreign key to a big table without locking both of them",
+      "link": "https://dev.to/bolvrk/adding-a-foreign-key-to-a-big-table-without-locking-both-of-them-2pf8",
+      "summary": "Foreign keys are the constraint people add late. The table already has a few million rows in it, someone notices that order_items.order_id can point at nothing, and the fix is one line.\n\n\n\nALTER TABLE order_items\n  ADD C",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 15:30:05 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Why SQLite refuses your ALTER TABLE, and the twelve-step rebuild it wants instead",
+      "link": "https://dev.to/bolvrk/why-sqlite-refuses-your-alter-table-and-the-twelve-step-rebuild-it-wants-instead-31eh",
+      "summary": "Coming from Postgres, SQLite's ALTER TABLE feels broken. It is not. It is small on purpose, and the rules for what it refuses are consistent once you know them. The trouble is that the refusals happen at run time, and a ",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 15:30:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "link": "https://css-tricks.com/css-random-function-polyfill/",
+      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
+      "link": "https://css-tricks.com/whats-important-18/",
+      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
+      "image": "",
+      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "animation-trigger",
+      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
+      "image": "",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "MicroLighter: Syntax Highlighter",
+      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
