@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:54:45.873614Z",
+  "updated": "2026-09-17T10:30:12.616628Z",
   "articles": [
     {
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 05:00:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 04:24:48 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 03:20:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
       "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
       "image": "",
       "published": "Wed, 16 Sep 2026 16:39:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 16:24:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 14:50:53 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 13:26:41 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-      "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html\nComments URL: https://news.ycombinator.com/item?id=49735180\nPoints: 26\n# Comments: 17",
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure\nComments URL: https://news.ycombinator.com/item?id=49737922\nPoints: 36\n# Comments: 6",
       "image": "",
-      "published": "Thu, 17 Sep 2026 01:02:13 +0000",
+      "published": "Thu, 17 Sep 2026 08:27:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "summary": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\nComments URL: https://news.ycombinator.com/item?id=49734929\nPoints: 11\n# Comments: 0",
+      "title": "One Year of Sponsored Servo Development",
+      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/\nComments URL: https://news.ycombinator.com/item?id=49737849\nPoints: 78\n# Comments: 32",
       "image": "",
-      "published": "Thu, 17 Sep 2026 00:28:33 +0000",
+      "published": "Thu, 17 Sep 2026 08:13:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "link": "https://openspec.dev/",
-      "summary": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 65\n# Comments: 21",
+      "title": "OpenAI Model Misalignment Report",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "summary": "Article URL: https://openai.com/index/model-misalignment-reporting-framework/\nComments URL: https://news.ycombinator.com/item?id=49737503\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "published": "Thu, 17 Sep 2026 07:21:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Australia says it could follow Canada in forging deeper ties with EU",
-      "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-      "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html\nComments URL: https://news.ycombinator.com/item?id=49734171\nPoints: 140\n# Comments: 83",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill\nComments URL: https://news.ycombinator.com/item?id=49736466\nPoints: 64\n# Comments: 12",
       "image": "",
-      "published": "Wed, 16 Sep 2026 22:56:48 +0000",
+      "published": "Thu, 17 Sep 2026 04:36:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-      "link": "https://harnesstax.github.io/",
-      "summary": "Article URL: https://harnesstax.github.io/\nComments URL: https://news.ycombinator.com/item?id=49733726\nPoints: 39\n# Comments: 5",
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "link": "https://github.com/browser-use/jev-ultrafast",
+      "summary": "Article URL: https://github.com/browser-use/jev-ultrafast\nComments URL: https://news.ycombinator.com/item?id=49735979\nPoints: 60\n# Comments: 4",
       "image": "",
-      "published": "Wed, 16 Sep 2026 22:10:13 +0000",
+      "published": "Thu, 17 Sep 2026 03:12:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Writing a real PNG compressor in vanilla JavaScript (no WASM, no libraries)",
-      "link": "https://dev.to/ihtisham130/writing-a-real-png-compressor-in-vanilla-javascript-no-wasm-no-libraries-2amn",
-      "summary": "Every online image converter I tried had the same shape: drag your file in, it uploads to a server somewhere, you get a download link back.\n\nThat's fine for a meme. It's less fine for a scan of your passport, and it's th",
+      "title": "Learn How to Query from Unlabeled Data Streams in Federated Learning.",
+      "link": "https://dev.to/ponmiledaniel/learn-how-to-query-from-unlabeled-data-streams-in-federated-learning-51i3",
+      "summary": "1. The Problem\n\n\nThe authors start from a realistic problem.\n\nMost Federated Learning research assumes that clients already have a labeled dataset.\n\nBut what happens when data is continuously arriving at the client witho",
       "image": "",
-      "published": "Thu, 17 Sep 2026 01:46:09 +0000",
+      "published": "Thu, 17 Sep 2026 10:27:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built InfoHUD Pro – Floating Desktop HUDs for Windows",
-      "link": "https://dev.to/adamyang/i-built-infohud-pro-floating-desktop-huds-for-windows-8cg",
-      "summary": "I recently released InfoHUD Pro, a Windows utility designed to keep important information visible while you work.\n\nIt lets you create floating desktop HUDs for:\n\nText · Excel · Word · Charts · Images · Screenshots · Web ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvtqd3mv1ezfe06fdzop9.png",
-      "published": "Thu, 17 Sep 2026 01:41:48 +0000",
+      "title": "KYB + KYC : Architecting 'Know Your Business', 'Entity Graph Traversal' & 'PII Orchestration'",
+      "link": "https://dev.to/arcaneproject/kyb-kyc-architecting-know-your-business-entity-graph-traversal-pii-orchestration-2c15",
+      "summary": "KYB and KYC get bundled into the same dashboard and the same sentence, but they verify different things for different customer types. Here's what Know Your Business actually means, how it differs from KYC, what a complia",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftd6dl4s7dxy2hscukdru.png",
+      "published": "Thu, 17 Sep 2026 10:23:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI agents introduced several new layers to the development stack. You are probably missing this one.",
-      "link": "https://dev.to/naw103/ai-agents-introduced-several-new-layers-to-the-development-stack-you-are-probably-missing-this-one-54dg",
-      "summary": "The development stack grew more in the last two years than in the previous ten. Most teams adopted the new layers so quickly they never noticed them becoming layers. Count them.\n\nThe agent layer: Claude Code, Codex, Curs",
+      "title": "We evaluated 40+ inventory sync tools before building our own. Here's the architectural pattern that separates the good from the broken.",
+      "link": "https://dev.to/nventory/we-evaluated-40-inventory-sync-tools-before-building-our-own-heres-the-architectural-pattern-1kpg",
+      "summary": "Before building Nventory we spent three months evaluating every inventory sync tool in the market.\n\nNot as potential customers. As engineers trying to understand why the problem remained unsolved despite dozens of tools ",
       "image": "",
-      "published": "Thu, 17 Sep 2026 01:39:19 +0000",
+      "published": "Thu, 17 Sep 2026 10:20:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Auto-Revoke a Claude Agent's Access When a User Is Offboarded With Kinde Webhooks",
-      "link": "https://dev.to/sholajegede/how-to-auto-revoke-a-claude-agents-access-when-a-user-is-offboarded-with-kinde-webhooks-1ccf",
-      "summary": "Imagine this scenario, someone on your team gets offboarded while their AI agent is still mid-task. Nobody remembers the agent is even running. It's just doing what it was told, on behalf of someone who, as of a minute a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyfgm7hwfnspmmqcvfozx.png",
-      "published": "Thu, 17 Sep 2026 01:36:32 +0000",
+      "title": "AI Can Write Code. It Still Can't Think Like an Engineer.",
+      "link": "https://dev.to/thebitforge/ai-can-write-code-it-still-cant-think-like-an-engineer-2l19",
+      "summary": "The bug that doesn't look like a bug\n\n\nThere's a specific kind of bug that has started showing up more often over the last two years, and it doesn't behave like the bugs engineers are used to. It doesn't look sloppy. It ",
+      "image": "https://media2.dev.to/dynamic/image/width=150,height=150,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3581035%2F7a4e3e11-052c-4b61-9f45-e3f421e69147.png",
+      "published": "Thu, 17 Sep 2026 10:20:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "codsh 0.23.0 — Mission Contract: `/ship` that won't silently drift",
-      "link": "https://dev.to/blackman99/codsh-0230-mission-contract-ship-that-wont-silently-drift-1ca6",
-      "summary": "codsh is a DeepSeek-native terminal coding agent on open dsh. It is not a Claude Code env wrapper.\n\nThe hook stays the same: /ship takes one sentence to verified code.\n\n0.23.0 ships the Mission Contract control plane for",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F72mq5vbhqo7cbhubcthw.webp",
-      "published": "Thu, 17 Sep 2026 01:23:56 +0000",
+      "title": "How I built a lightweight GitHub Action to stop breaking API changes in CI",
+      "link": "https://dev.to/turyakalburgi/how-i-built-a-lightweight-github-action-to-stop-breaking-api-changes-in-ci-3jam",
+      "summary": "Breaking API contracts silently slipping into production is a pain point almost every engineering team hits eventually. A backend PR renames a field, drops a property, or mutates a type—and downstream services or fronten",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 10:20:32 +0000",
       "source": "DEV Community",
       "category": "development"
     }
