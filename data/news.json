@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:29:05.511410Z",
+  "updated": "2026-09-17T01:54:45.873614Z",
   "articles": [
     {
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 20:35:48 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+      "image": "",
+      "published": "Wed, 16 Sep 2026 16:39:29 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
       "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
       "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
@@ -70,24 +88,6 @@
       "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
       "image": "",
       "published": "Wed, 16 Sep 2026 13:26:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can re",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 08:16:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How good are frontier models at physics?",
-      "link": "https://arxiv.org/abs/2609.13009",
-      "summary": "Article URL: https://arxiv.org/abs/2609.13009\nComments URL: https://news.ycombinator.com/item?id=49731620\nPoints: 16\n# Comments: 3",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html\nComments URL: https://news.ycombinator.com/item?id=49735180\nPoints: 26\n# Comments: 17",
       "image": "",
-      "published": "Wed, 16 Sep 2026 19:19:08 +0000",
+      "published": "Thu, 17 Sep 2026 01:02:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fed Raises Rates for First Time in Three Years",
-      "link": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe",
-      "summary": "Article URL: https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe\nComments URL: https://news.ycombinator.com/item?id=49731515\nPoints: 15\n# Comments: 2",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "summary": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/\nComments URL: https://news.ycombinator.com/item?id=49734929\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Wed, 16 Sep 2026 19:09:22 +0000",
+      "published": "Thu, 17 Sep 2026 00:28:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "link": "https://arxiv.org/abs/2609.14845",
-      "summary": "Article URL: https://arxiv.org/abs/2609.14845\nComments URL: https://news.ycombinator.com/item?id=49731360\nPoints: 22\n# Comments: 2",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "link": "https://openspec.dev/",
+      "summary": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 65\n# Comments: 21",
       "image": "",
-      "published": "Wed, 16 Sep 2026 18:56:05 +0000",
+      "published": "Wed, 16 Sep 2026 23:06:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fed hikes rates as inflation worries push up bond yields",
-      "link": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
-      "summary": "Article URL: https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/\nComments URL: https://news.ycombinator.com/item?id=49731356\nPoints: 101\n# Comments: 59",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html\nComments URL: https://news.ycombinator.com/item?id=49734171\nPoints: 140\n# Comments: 83",
       "image": "",
-      "published": "Wed, 16 Sep 2026 18:55:21 +0000",
+      "published": "Wed, 16 Sep 2026 22:56:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "link": "https://rohanbansal.com/qorl",
-      "summary": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 78\n# Comments: 13",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "link": "https://harnesstax.github.io/",
+      "summary": "Article URL: https://harnesstax.github.io/\nComments URL: https://news.ycombinator.com/item?id=49733726\nPoints: 39\n# Comments: 5",
       "image": "",
-      "published": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "published": "Wed, 16 Sep 2026 22:10:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The AI Slowdown Nobody's Actually Slowing Down For",
-      "link": "https://dev.to/jason_gunnells/the-ai-slowdown-nobodys-actually-slowing-down-for-4i62",
-      "summary": "A week ago, three of the industry's biggest names agreed AI needed to pump the brakes. This week, the two governments that would actually have to enforce that both said no — and the fallout says more about where AI is he",
+      "title": "Writing a real PNG compressor in vanilla JavaScript (no WASM, no libraries)",
+      "link": "https://dev.to/ihtisham130/writing-a-real-png-compressor-in-vanilla-javascript-no-wasm-no-libraries-2amn",
+      "summary": "Every online image converter I tried had the same shape: drag your file in, it uploads to a server somewhere, you get a download link back.\n\nThat's fine for a meme. It's less fine for a scan of your passport, and it's th",
       "image": "",
-      "published": "Wed, 16 Sep 2026 20:15:29 +0000",
+      "published": "Thu, 17 Sep 2026 01:46:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What Actually Goes In an llms.txt",
-      "link": "https://dev.to/lucasfernandezdiaz/what-actually-goes-in-an-llmstxt-2me5",
-      "summary": "Originally published on Contento Solutions, where I write about SEO and AI visibility for service businesses.\n\nAn llms.txt file is a plain text summary of your site. It is written for language models, not for crawlers. I",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 20:05:37 +0000",
+      "title": "I Built InfoHUD Pro – Floating Desktop HUDs for Windows",
+      "link": "https://dev.to/adamyang/i-built-infohud-pro-floating-desktop-huds-for-windows-8cg",
+      "summary": "I recently released InfoHUD Pro, a Windows utility designed to keep important information visible while you work.\n\nIt lets you create floating desktop HUDs for:\n\nText · Excel · Word · Charts · Images · Screenshots · Web ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvtqd3mv1ezfe06fdzop9.png",
+      "published": "Thu, 17 Sep 2026 01:41:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Putting Apple's Virtualization framework under a Flutter app",
-      "link": "https://dev.to/bostrot/putting-apples-virtualization-framework-under-a-flutter-app-3d13",
-      "summary": "I maintain WSL Manager, a Flutter desktop app from 2021 that saves you from typing wsl.exe flags. Version 2 runs the same app on Apple silicon, where it manages native Linux and macOS VMs through Apple's Virtualization f",
+      "title": "AI agents introduced several new layers to the development stack. You are probably missing this one.",
+      "link": "https://dev.to/naw103/ai-agents-introduced-several-new-layers-to-the-development-stack-you-are-probably-missing-this-one-54dg",
+      "summary": "The development stack grew more in the last two years than in the previous ten. Most teams adopted the new layers so quickly they never noticed them becoming layers. Count them.\n\nThe agent layer: Claude Code, Codex, Curs",
       "image": "",
-      "published": "Wed, 16 Sep 2026 20:03:26 +0000",
+      "published": "Thu, 17 Sep 2026 01:39:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A 4 GB Laptop GPU Beats a 12-Core CPU by 4.3x on Gemma 4",
-      "link": "https://dev.to/gde/a-4-gb-laptop-gpu-beats-a-12-core-cpu-by-43x-on-gemma-4-4150",
-      "summary": "This article compares two ways of serving the same small language model on the same laptop: CPU-only, and on the 4 GB GTX 1650 Ti sitting in the same chassis. The payload is byte-identical on both arms and the command li",
-      "image": "",
-      "published": "Wed, 16 Sep 2026 20:03:02 +0000",
+      "title": "How to Auto-Revoke a Claude Agent's Access When a User Is Offboarded With Kinde Webhooks",
+      "link": "https://dev.to/sholajegede/how-to-auto-revoke-a-claude-agents-access-when-a-user-is-offboarded-with-kinde-webhooks-1ccf",
+      "summary": "Imagine this scenario, someone on your team gets offboarded while their AI agent is still mid-task. Nobody remembers the agent is even running. It's just doing what it was told, on behalf of someone who, as of a minute a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyfgm7hwfnspmmqcvfozx.png",
+      "published": "Thu, 17 Sep 2026 01:36:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Learn PostgreSQL extensibility through a gloriously bad idea: MM/DD/YYYY native datatype",
-      "link": "https://dev.to/franckpachot/learn-postgresql-extensions-through-a-gloriously-bad-idea-mmddyyyy-2pc4",
-      "summary": "This project teaches four of PostgreSQL's most powerful features by building something no sane person would ship:\n\n\n\nextensions — how you add new capabilities to PostgreSQL in C,\n\nexpression indexes — how you index a com",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Wed, 16 Sep 2026 20:02:06 +0000",
+      "title": "codsh 0.23.0 — Mission Contract: `/ship` that won't silently drift",
+      "link": "https://dev.to/blackman99/codsh-0230-mission-contract-ship-that-wont-silently-drift-1ca6",
+      "summary": "codsh is a DeepSeek-native terminal coding agent on open dsh. It is not a Claude Code env wrapper.\n\nThe hook stays the same: /ship takes one sentence to verified code.\n\n0.23.0 ships the Mission Contract control plane for",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F72mq5vbhqo7cbhubcthw.webp",
+      "published": "Thu, 17 Sep 2026 01:23:56 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
