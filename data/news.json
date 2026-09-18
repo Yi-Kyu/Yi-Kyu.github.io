@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T20:36:17.678301Z",
+  "updated": "2026-09-18T01:41:47.842642Z",
   "articles": [
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "image": "",
+      "published": "Thu, 17 Sep 2026 17:50:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "OpenAI details more cases of AI agents taking unauthorized actions",
       "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
       "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed AP",
@@ -79,15 +88,6 @@
       "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
       "image": "",
       "published": "Thu, 17 Sep 2026 09:09:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "image": "",
-      "published": "Thu, 17 Sep 2026 07:33:35 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Astra for Law",
-      "link": "https://openai.com/index/astra-for-law/",
-      "summary": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 22\n# Comments: 8",
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "link": "https://github.com/aardappel/goose/tree/master",
+      "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 10\n# Comments: 3",
       "image": "",
-      "published": "Thu, 17 Sep 2026 20:17:48 +0000",
+      "published": "Fri, 18 Sep 2026 01:04:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Everybody's Lost Their Minds",
-      "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "summary": "Article URL: https://www.netmeister.org/blog/everybodys-lost-their-minds.html\nComments URL: https://news.ycombinator.com/item?id=49745570\nPoints: 17\n# Comments: 2",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 13\n# Comments: 1",
       "image": "",
-      "published": "Thu, 17 Sep 2026 19:43:34 +0000",
+      "published": "Thu, 17 Sep 2026 23:05:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Don't Just Say Hello",
-      "link": "https://nohello.net/en/",
-      "summary": "Article URL: https://nohello.net/en/\nComments URL: https://news.ycombinator.com/item?id=49745266\nPoints: 30\n# Comments: 15",
+      "title": "Sex, AI, and the Apocalypse",
+      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\nComments URL: https://news.ycombinator.com/item?id=49746654\nPoints: 160\n# Comments: 150",
       "image": "",
-      "published": "Thu, 17 Sep 2026 19:16:46 +0000",
+      "published": "Thu, 17 Sep 2026 21:15:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Canto: A speech model built for the real world",
-      "link": "https://wisprflow.ai/canto",
-      "summary": "Article URL: https://wisprflow.ai/canto\nComments URL: https://news.ycombinator.com/item?id=49744715\nPoints: 6\n# Comments: 1",
+      "title": "How Uber Protects Against Retry Storms",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 37\n# Comments: 22",
       "image": "",
-      "published": "Thu, 17 Sep 2026 18:32:50 +0000",
+      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Don't Make Job Referrals Public",
-      "link": "https://blog.melashri.net/micro/public-job-referral/",
-      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 16\n# Comments: 9",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 210\n# Comments: 69",
       "image": "",
-      "published": "Thu, 17 Sep 2026 18:16:38 +0000",
+      "published": "Thu, 17 Sep 2026 21:13:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I never fully understood Python for loops until I grasped the range function. Here is what I learnt",
-      "link": "https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312",
-      "summary": "I come from a C Programming background, where for loops are very simple.\n\n\n\nfor(int i = 0; i &lt; n; i++) {\n    // Your fabulous code block\n}\n\n\n\n\n\n\n\n\nThis was intuitively easy to understand. \n\n\nThe first part int i = 0 i",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9viogy17e5hfdvfxdw27.png",
-      "published": "Thu, 17 Sep 2026 20:32:56 +0000",
+      "title": "The Bottleneck Moved From Writing Code to Proving It",
+      "link": "https://dev.to/debashish_ghosal/the-bottleneck-moved-from-writing-code-to-proving-it-5bpm",
+      "summary": "The bottleneck moved, and most teams haven't noticed. It isn't writing anymore. It's proving.\n\n\nI keep hearing the same soft complaint from engineers: \"I spend more time reviewing AI code than I ever spent writing code m",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 01:32:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access",
-      "link": "https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g",
-      "summary": "Anthropic has launched the Life Sciences Verification Program (LSVP), an invite-only beta intended to give vetted life sciences researchers access to Mythos 5.1 under a specialized safety framework. The program creates a",
+      "title": "Productionizing Agentic GenAI on AWS: What Actually Breaks When You Scale MCP",
+      "link": "https://dev.to/sharmavarun/productionizing-agentic-genai-on-aws-what-actually-breaks-when-you-scale-mcp-2gkd",
+      "summary": "Every MCP demo looks the same. Someone spins up a local server, points a client at it, watches a tool call succeed once, and calls the architecture done. Then the business asks when it ships, and suddenly you're dealing ",
       "image": "",
-      "published": "Thu, 17 Sep 2026 20:28:24 +0000",
+      "published": "Fri, 18 Sep 2026 01:32:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Full Stack HQ: A Permission-First AI Engineering Stack for Claude Code, Antigravity, and Codex",
-      "link": "https://dev.to/sabahattink/full-stack-hq-a-permission-first-ai-engineering-stack-for-claude-code-antigravity-and-codex-1o1n",
-      "summary": "AI coding agents can move quickly. The engineering challenge is keeping intent,\napproval, and verification visible while they do.\n\nThat is the problem Full Stack HQ is designed to address: a shared,\npermission-first engi",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Fsabahattink%2Fantigravity-fullstack-hq%2Fmain%2Fdocs%2Fassets%2Fhero-terminal.svg",
-      "published": "Thu, 17 Sep 2026 20:26:19 +0000",
+      "title": "JavaScript Objects",
+      "link": "https://dev.to/jaisurya/javascript-objects-3070",
+      "summary": "In JavaScript, an object is a variable that can hold multiple values. It is a location where a collection of values is stored. Objects are among the most basic data types in JavaScript. Every object contains properties a",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 01:29:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
-      "link": "https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g",
-      "summary": "The results are in for our DEV Weekend Challenge: Dog Days Edition! Thank you for your patience while we worked through judging, and thank you for the volume and quality of what you sent us.\n\nWe asked you to build someth",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4025240%2F8b439bff-c8c7-4012-b315-f48e6d2c1d60.png",
-      "published": "Thu, 17 Sep 2026 20:22:43 +0000",
+      "title": "Hermes ใช้ 1,393 agents ลบโค้ด 34% และสิ่งที่ต้นฉบับยอมรับว่าไม่ได้วัด",
+      "link": "https://dev.to/sarantoon/hermes-aich-1393-agents-lbokhd-34-aelasingthiitnchbabymrabwaaaimaidwad-919",
+      "summary": "Hermes ใช้ 1,393 agents ลบโค้ด 34% และสิ่งที่ต้นฉบับยอมรับว่าไม่ได้วัด\n\n\nโดย Nokka (นก-กา) | 16 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล deepseek-v4.1-flash ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Resea",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 01:26:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Accidentally Built a Dark Software Factory. Here's How.",
-      "link": "https://dev.to/bendechrai/i-accidentally-built-a-dark-software-factory-heres-how-27k7",
-      "summary": "This is the first in a series of articles about my dark software factory, Holodeck. This one covers how it came to be and the principles underneath it. In future articles I'd like to dive into particular aspects in more ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftlxw7po2scvy16t1pk5e.png",
-      "published": "Thu, 17 Sep 2026 20:21:27 +0000",
+      "title": "Building a Browser-Based Voxel Editor with React Three Fiber",
+      "link": "https://dev.to/nagisa_yamada/building-a-browser-based-voxel-editor-with-react-three-fiber-baf",
+      "summary": "I have been building VoxelDraft, a voxel editor that runs entirely in the browser without an account or installation.\n\nThe editor supports block painting, layers, keyframe animation, GIF recording, local projects, and ex",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 01:24:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
