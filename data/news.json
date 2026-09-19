@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T14:52:30.750074Z",
+  "updated": "2026-09-19T19:38:08.157681Z",
   "articles": [
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing tec",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
       "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cr",
@@ -65,8 +74,8 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
       "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
       "image": "",
       "published": "Sat, 19 Sep 2026 07:38:20 -0400",
@@ -79,15 +88,6 @@
       "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
       "image": "",
       "published": "Fri, 18 Sep 2026 12:00:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 11:19:06 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "summary": "Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951\nComments URL: https://news.ycombinator.com/item?id=49766821\nPoints: 6\n# Comments",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49768833\nPoints: 23\n# Comments: 18",
       "image": "",
-      "published": "Sat, 19 Sep 2026 14:23:42 +0000",
+      "published": "Sat, 19 Sep 2026 18:11:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "link": "https://supabase.link/orioledbjob",
+      "summary": "Article URL: https://supabase.link/orioledbjob\nComments URL: https://news.ycombinator.com/item?id=49768220\nPoints: 0\n# Comments: 0",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 17:01:30 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 82\n# Comments: 46",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 16:35:24 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "link": "https://github.com/trycua/cua",
+      "summary": "Hello HN! We're Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. ",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 15:52:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "A graphical desktop for the ZX Spectrum",
       "link": "https://github.com/mindbox77/zxdesk",
-      "summary": "Article URL: https://github.com/mindbox77/zxdesk\nComments URL: https://news.ycombinator.com/item?id=49766676\nPoints: 13\n# Comments: 3",
+      "summary": "Article URL: https://github.com/mindbox77/zxdesk\nComments URL: https://news.ycombinator.com/item?id=49766676\nPoints: 112\n# Comments: 88",
       "image": "",
       "published": "Sat, 19 Sep 2026 14:01:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Zig felt like, coming from Rust",
-      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\nComments URL: https://news.ycombinator.com/item?id=49766637\nPoints: 27\n# Comments: 7",
+      "title": "Entendiendo la desestructuración en Javascript",
+      "link": "https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7",
+      "summary": "La desestructuración es simplemente tomar una estructura de información y “romperla” de tal manera que podamos hacer uso de cada pieza de forma individual.\n\nSi buscamos una analogía sencilla, la desestructuración es el e",
       "image": "",
-      "published": "Sat, 19 Sep 2026 13:55:18 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Tin: full-text search for Postgres",
-      "link": "https://planetscale.com/blog/introducing-tin",
-      "summary": "Article URL: https://planetscale.com/blog/introducing-tin\nComments URL: https://news.ycombinator.com/item?id=49766611\nPoints: 19\n# Comments: 3",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 13:52:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Laya the open source version of Jev",
-      "link": "https://laya.convaiinnovations.com/",
-      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 310\n# Comments: 61",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 10:46:58 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "[Boost]",
-      "link": "https://dev.to/dev_vaibhav_37/-424a",
-      "summary": "I Built EchoCadence: A Vocabulary App Built to Make Words Stick 🔁\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Divya\n            \n            \n    ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F889475%2F1165be61-6903-4b59-af67-c262acfb1c94.webp",
-      "published": "Sat, 19 Sep 2026 14:44:27 +0000",
+      "published": "Sat, 19 Sep 2026 19:22:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I sent 50 emails. 12 bounced despite SMTP 250 OK. Here's why.",
-      "link": "https://dev.to/onizuka/i-sent-50-emails-12-bounced-despite-smtp-250-ok-heres-why-11fn",
-      "summary": "api, #cybersecurity, #python, #webdev\n\n\nOn July 15 I queued a campaign to fifty addresses I had already \"verified\" with a plain SMTP handshake. Every single one returned 250 OK. Three hours later, twelve of them bounced.",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 14:42:45 +0000",
+      "title": "Cua: Open-Source Computer-Use Infrastructure & Drivers for AI Agents",
+      "link": "https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len",
+      "summary": "The landscape of AI-assisted software development is undergoing a fundamental evolution. For the past two years, AI coding assistants have operated almost entirely inside terminal buffers and text editors. \n\n\n\nHowever, p",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuhk6l2mxg02ja2wetgjd.png",
+      "published": "Sat, 19 Sep 2026 19:21:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Migrated 90 Cypress Tests to Playwright With Claude Code in 4 Days",
-      "link": "https://dev.to/yureki_lab/how-i-migrated-90-cypress-tests-to-playwright-with-claude-code-in-4-days-1im6",
-      "summary": "TL;DR\n\n\nI moved a 90-spec Cypress suite to Playwright in 4 working days using Claude Code. The trick wasn't \"ask the AI to convert everything.\" It was: hand-translate one spec, extract the pattern into a written rulebook",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 14:32:12 +0000",
+      "title": "The story of morphing-scroll, my npm library",
+      "link": "https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb",
+      "summary": "I want to tell you about my npm library — my second npm project, and the most complex one I've built so far. I won't dig deep into the code: this is the story of how and why it came to be.\n\n\n\n\n  \n  \n  Introduction\n\n\nArou",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4oj5d8gnjzlwc3osebbb.png",
+      "published": "Sat, 19 Sep 2026 19:20:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Lightweight Biometric Authentication Library for React Native with Kotlin",
-      "link": "https://dev.to/vijeshkr/building-a-lightweight-biometric-authentication-library-for-react-native-with-kotlin-5al4",
-      "summary": "Hello developers!\n\nToday, I want to share a quick story about a common challenge I faced while working with React Native: securing app access with biometric authentication, and why I decided to build and open-source my o",
+      "title": "Svelte's runes are just React hooks wearing a Svelte hoodie",
+      "link": "https://dev.to/adioof/sveltes-runes-are-just-react-hooks-wearing-a-svelte-hoodie-10l3",
+      "summary": "Svelte convinced me with a promise. You write let count = 0, then modify that, and the UI updates magically. No need for hooks. No dependency arrays. No complex setup. That was the main idea behind it. After that, Svelte",
       "image": "",
-      "published": "Sat, 19 Sep 2026 14:30:22 +0000",
+      "published": "Sat, 19 Sep 2026 19:16:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How Your Message Actually Reaches the AI Model — And What You're Really Sending",
-      "link": "https://dev.to/shamprakash2000/how-your-message-actually-reaches-the-ai-model-and-what-youre-really-sending-1nlb",
-      "summary": "You've used ChatGPT. You've used Gemini. You type something, it replies.\n\nBut have you ever stopped and wondered — what is actually happening when you hit send?\n\nBecause when you're building AI systems, that question mat",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 14:30:00 +0000",
+      "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+      "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+      "summary": "Exploiting a forgotten debug statement that logs plaintext passwords and a hidden SIEM dashboard with hardcoded credentials to retrieve a flag.\n\n\nSomeone left a debug log in the login route that dumps passwords in plaint",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjpw53tbaeyzf44cnp90d.png",
+      "published": "Sat, 19 Sep 2026 19:00:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
