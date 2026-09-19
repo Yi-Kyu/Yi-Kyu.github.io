@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T20:02:05.099859Z",
+  "updated": "2026-09-19T01:46:30.633263Z",
   "articles": [
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past fe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg",
+      "published": "Fri, 18 Sep 2026 23:32:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
       "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
@@ -34,15 +43,6 @@
       "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network.&nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lo",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg",
       "published": "Fri, 18 Sep 2026 16:31:16 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed versio",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg",
-      "published": "Fri, 18 Sep 2026 16:31:01 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "link": "https://liveworld.info/",
+      "summary": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 4\n# Comments: 0",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 00:30:34 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombinator.com/item?id=49761840\nPoints: 22\n# C",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design\nComments URL: https://news.ycombinator.com/item?id=49761432\nPoints: 53\n# Comments: 50",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 505\n# Comments: 182",
+      "image": "",
+      "published": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 30\n# Comments: 5",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 521\n# Comments: 258",
       "image": "",
       "published": "Fri, 18 Sep 2026 19:03:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "link": "https://arxiv.org/abs/2609.02852",
-      "summary": "Article URL: https://arxiv.org/abs/2609.02852\nComments URL: https://news.ycombinator.com/item?id=49758689\nPoints: 12\n# Comments: 3",
+      "title": "A One-Command Pre-Flight Checklist for Developers: astro-tasks",
+      "link": "https://dev.to/3ni8ma/a-one-command-pre-flight-checklist-for-developers-astro-tasks-3cg6",
+      "summary": "Before starting work I used to open three tabs: GitHub notifications, the WakaTime dashboard, and a git status sweep across local repos. I built astro-tasks to put that in one terminal command.\n\n\n\npip install astro-tasks",
       "image": "",
-      "published": "Fri, 18 Sep 2026 19:00:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
-      "link": "https://arxiv.org/abs/2510.03215",
-      "summary": "Article URL: https://arxiv.org/abs/2510.03215\nComments URL: https://news.ycombinator.com/item?id=49758615\nPoints: 12\n# Comments: 0",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 18:55:35 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/\nComments URL: https://news.ycombinator.com/item?id=49758580\nPoints: 26\n# Comments: 1",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 18:51:46 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
-      "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "summary": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes\nComments URL: https://news.ycombinator.com/item?id=49758419\nPoints: 13\n# Comments: 1",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 18:39:31 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Walking Into Tech Like It's On Fire (Because, Kind Of, It Is)",
-      "link": "https://dev.to/mikachu/walking-into-tech-like-its-on-fire-because-kind-of-it-is-1ml1",
-      "summary": "oh my god what the hell is happening?! \n\n\nme the past few weeks\n\nAnywho. You know the meme. Donald Glover strolling into a room holding a pizza box while the whole place burns behind him, completely unbothered. That's me",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 19:49:46 +0000",
+      "published": "Sat, 19 Sep 2026 01:24:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The webhook dedupe everyone copies has a hole in it",
-      "link": "https://dev.to/webhooker-eu/the-webhook-dedupe-everyone-copies-has-a-hole-in-it-2lnj",
-      "summary": "If you have ever searched for how to stop processing the same webhook twice, you have seen this snippet:\n\n\n\nINSERT INTO processed_events (event_key)\nVALUES ($1)\nON CONFLICT (event_key) DO NOTHING\nRETURNING event_key;\n\n\n\n",
+      "title": "Why I track every AI quota reset announcement (and why the site has no admin panel)",
+      "link": "https://dev.to/410110_45616cadd9afa7c/why-i-track-every-ai-quota-reset-announcement-and-why-the-site-has-no-admin-panel-1g3i",
+      "summary": "This month my Codex plan hit 0% for the third time, and each time I found out the reset schedule had quietly moved. I was the kind of person who kept screenshots of the docs in a notes app, but the docs never said when a",
       "image": "",
-      "published": "Fri, 18 Sep 2026 19:49:36 +0000",
+      "published": "Sat, 19 Sep 2026 01:21:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Search Is Reshaping Link Building Beyond Raw Backlink Counts and Volume",
-      "link": "https://dev.to/alifar/ai-search-is-reshaping-link-building-beyond-raw-backlink-counts-and-volume-471b",
-      "summary": "Backlinks remain an important part of search visibility, but raw link counts are no longer a complete strategy for businesses trying to build authority in AI-driven search. Search Engine Land's latest guidance argues tha",
+      "title": "The Backstop That Listens: Regime Triggers and the Expectations Channel",
+      "link": "https://dev.to/fengyugbt/the-backstop-that-listens-regime-triggers-and-the-expectations-channel-1781",
+      "summary": "Fat Tail Notes · Part 13 · V10-P2\n\nPart 12 built the backstop clock: backstop = f(trigger, lag, coverage, object), calibrated on March 2020, and ended with an explicit debt. Two things the fixed-lag version could not do:",
       "image": "",
-      "published": "Fri, 18 Sep 2026 19:45:30 +0000",
+      "published": "Sat, 19 Sep 2026 01:14:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Cómo construí mi portafolio en 4 frameworks (React 19, Vue 3.5, Angular 19 y Compose HTML) usando Clean Architecture",
-      "link": "https://dev.to/davidbernardo/como-construi-mi-portafolio-en-4-frameworks-react-19-vue-35-angular-19-y-compose-html-usando-3i4b",
-      "summary": "Como desarrollador Full Stack &amp; Mobile Senior, a menudo me encuentro con el mismo dilema en las entrevistas técnicas:\n\n\n\"Veo en tu CV que manejas React, Vue, Angular y Kotlin Multiplatform... ¿pero en cuál te sientes",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5hp4rv7bymvda8gjxxef.png",
-      "published": "Fri, 18 Sep 2026 19:43:40 +0000",
+      "title": "🚀 Introducing WebCraft7767 — Building Useful Websites, One Project at a Time",
+      "link": "https://dev.to/webcraft7767/introducing-webcraft7767-building-useful-websites-one-project-at-a-time-k93",
+      "summary": "Hey everyone! 👋\n\nI'm starting something I've been wanting to build for a while: WebCraft7767.\n\nIt's a GitHub-based project showcase where I’ll be building and sharing free, practical websites and web applications around ",
+      "image": "",
+      "published": "Sat, 19 Sep 2026 01:10:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why the Gemini models inside Antigravity are so bad at following instructions",
-      "link": "https://dev.to/jawuilp/why-the-gemini-models-inside-antigravity-are-so-bad-at-following-instructions-148l",
-      "summary": "I've used Antigravity a lot since it came out. Even though I don't use it as much right now, I wanted to take advantage of the generous quota it gives you with a Google AI Pro subscription, which I think is great. But th",
+      "title": "Native Federation - Deep Dive - Part 1/8 - The Mental Model, Why Native Federation Exists and What Changed in v4",
+      "link": "https://dev.to/sakthicodes22/the-mental-model-revisited-why-native-federation-exists-and-what-changed-in-v4-1klg",
+      "summary": "Part 1 of an 8-part series on Native Federation - A deep dive.\n\n🤖 A note on this article: I used Claude to help reformat and structure the content to make it clearer and more presentable for publication.\n\nIf you've shipp",
       "image": "",
-      "published": "Fri, 18 Sep 2026 19:43:11 +0000",
+      "published": "Sat, 19 Sep 2026 01:05:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
