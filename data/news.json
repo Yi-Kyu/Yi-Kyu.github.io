@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:09:31.748865Z",
+  "updated": "2026-09-20T14:56:36.696534Z",
   "articles": [
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scrip",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 08:00:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing tec",
@@ -70,24 +88,6 @@
       "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
       "image": "",
       "published": "Sat, 19 Sep 2026 09:48:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during ca",
-      "image": "",
-      "published": "Sat, 19 Sep 2026 07:38:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "image": "",
-      "published": "Fri, 18 Sep 2026 12:00:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "summary": "Article URL: https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282\nComments URL: https://news.ycombinator.com/item?id=49773439\nPoints: 27\n# Comments: 29",
+      "title": "system design in depth – 200 topics, 118 diagrams, interactive demos",
+      "link": "https://system-design-in-depth.pages.dev",
+      "summary": "Article URL: https://system-design-in-depth.pages.dev\nComments URL: https://news.ycombinator.com/item?id=49775979\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Sun, 20 Sep 2026 07:38:37 +0000",
+      "published": "Sun, 20 Sep 2026 14:01:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\nComments URL: https://news.ycombinator.com/item?id=49772961\nPoints: 120\n# Comments: 85",
+      "title": "Do birds have accents? the regional differences in birdsong",
+      "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+      "summary": "Article URL: https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108\nComments URL: https://news.ycombinator.com/item?id=49775579\nPoints: 20\n# Comments: 0",
       "image": "",
-      "published": "Sun, 20 Sep 2026 06:16:42 +0000",
+      "published": "Sun, 20 Sep 2026 13:19:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "link": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-      "summary": "Article URL: https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/\nComments URL: https://news.ycombinator.com/item?id=49772806\nPoints: 21\n# Comments: 17",
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "link": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-2.1\nComments URL: https://news.ycombinator.com/item?id=49775499\nPoints: 120\n# Comments: 42",
       "image": "",
-      "published": "Sun, 20 Sep 2026 05:46:19 +0000",
+      "published": "Sun, 20 Sep 2026 13:09:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "UTF-8000: Unlimited UTF-8",
-      "link": "https://utf-8000.jb2170.com",
-      "summary": "Article URL: https://utf-8000.jb2170.com\nComments URL: https://news.ycombinator.com/item?id=49772677\nPoints: 64\n# Comments: 40",
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "link": "https://softwarecrisis.dev/letters/llmentalist/",
+      "summary": "Article URL: https://softwarecrisis.dev/letters/llmentalist/\nComments URL: https://news.ycombinator.com/item?id=49775104\nPoints: 88\n# Comments: 63",
       "image": "",
-      "published": "Sun, 20 Sep 2026 05:15:00 +0000",
+      "published": "Sun, 20 Sep 2026 12:20:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Telling a Computer to Do Things",
-      "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-      "summary": "Article URL: https://will-keleher.com/posts/telling-your-computer-to-do-things/\nComments URL: https://news.ycombinator.com/item?id=49772662\nPoints: 31\n# Comments: 8",
+      "title": "The Millennium Problems for Biology",
+      "link": "https://millenniumproblems.bio/",
+      "summary": "Article URL: https://millenniumproblems.bio/\nComments URL: https://news.ycombinator.com/item?id=49775082\nPoints: 45\n# Comments: 43",
       "image": "",
-      "published": "Sun, 20 Sep 2026 05:11:33 +0000",
+      "published": "Sun, 20 Sep 2026 12:17:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Point the official Sentry SDK at self-hosted ingest (DSN only)",
-      "link": "https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2",
-      "summary": "You don’t need a forked Sentry SDK. Keep @sentry/browser or @sentry/node, change only dsn, then prove /health → HTTP 202 → Issues. Two containers (app + Postgres 16); leave replay, traces, and profiles at sample rate 0 —",
+      "title": "I built a free Chrome extension for people with 50+ tabs open",
+      "link": "https://dev.to/akshay_khajuriya_80c68073/i-built-a-free-chrome-extension-for-people-with-50-tabs-open-2chi",
+      "summary": "Tabforge closes duplicate tabs, groups by site and searches across windows. Free, local, no account.\"\nIf you write code for a living, your browser probably looks like mine: 50–100 tabs, docs in one window, research in an",
       "image": "",
-      "published": "Sun, 20 Sep 2026 10:00:44 +0000",
+      "published": "Sun, 20 Sep 2026 14:48:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving",
-      "link": "https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8",
-      "summary": "Put a FastAPI catch-all route above your API route by mistake and a request to /api/ping returns HTTP 200. The body is your single-page app's index.html, not your JSON. No error, no 404, nothing in the logs that looks wr",
+      "title": "JavaScript Array Methods",
+      "link": "https://dev.to/jaisurya/javascript-array-methods-2i5b",
+      "summary": "JavaScript has its own set of methods built into the language that allow developers to efficiently interact with arrays. JavaScript allows us to do such operations as adding, removing, updating or getting elements, trans",
       "image": "",
-      "published": "Sun, 20 Sep 2026 10:00:00 +0000",
+      "published": "Sun, 20 Sep 2026 14:46:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Using claude routines with github",
-      "link": "https://dev.to/codecowboydotio/using-claude-routines-with-github-501f",
-      "summary": "Intro\n\n\nI've been using claude for some time now. I haven't touched on routines in claude yet, and thought that this would be a good opportunity to play around with them and explore them. \n\nThe official claude docs say t",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6x0f2jnzwu9qd4h3c1zl.png",
-      "published": "Sun, 20 Sep 2026 09:59:11 +0000",
+      "title": "# I Built My Developer Portfolio as a Pixel-Art World",
+      "link": "https://dev.to/fatimazehrashakeel/-i-built-my-developer-portfolio-as-a-pixel-art-world-1911",
+      "summary": "I wanted to build a portfolio that felt like something you'd actually explore, rather than another page with a photo, skills section, and a list of projects.\n\nSo I turned my career into a small pixel-art world.\n\nDifferen",
+      "image": "",
+      "published": "Sun, 20 Sep 2026 14:41:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The secret was correct. The first byte wasn't.",
-      "link": "https://dev.to/redcapra/the-secret-was-correct-the-first-byte-wasnt-6p9",
-      "summary": "Our deploy tool pushed a fresh API token to production. It reported success. The token was correct. Every request then failed with this:\n\n\n\nCannot convert argument to a ByteString because the character at\nindex 7 has a v",
-      "image": "",
-      "published": "Sun, 20 Sep 2026 09:53:07 +0000",
+      "title": "6 Ways to Protect Your Personal Information Online in 2026 (Master Guide)",
+      "link": "https://dev.to/scofieldidehen/6-ways-to-protect-your-personal-information-online-in-2026-master-guide-3a4g",
+      "summary": "For a decade, war didn’t disappear; it evolved. From Ukraine’s blackouts triggered by code to Gaza’s battles shaped by surveillance and data, conflict now moves in silence, where a single breach can hit harder than any m",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fapjtes9n8l86sktqeijr.png",
+      "published": "Sun, 20 Sep 2026 14:34:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build an insider-buying screener with Python and SEC Form 4 data",
-      "link": "https://dev.to/makeev/build-an-insider-buying-screener-with-python-and-sec-form-4-data-4eg1",
-      "summary": "A director bought $101,760 of Tenax Therapeutics. Another bought $500,000 of Inhibrx Biosciences. Sorted by dollars, the second purchase comes first. Measured against the holding reported with each transaction, the incre",
-      "image": "",
-      "published": "Sun, 20 Sep 2026 09:52:13 +0000",
+      "title": "Mirra Landing Page: AI Writing Companion Build 🏗️",
+      "link": "https://dev.to/souravdey777/mirra-landing-page-ai-writing-companion-build-15j2",
+      "summary": "I kept rewriting the Mirra landing page for a very annoying reason.\n\nThe page looked good before it felt right.\n\nThat is the uncomfortable part of landing page design for an AI product. You can make something visually po",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fsouravdey.space%2Fimages%2Fblogs%2Fhow-i-created-the-mirra-landing-page%2Fmirra-launch-og.png",
+      "published": "Sun, 20 Sep 2026 14:24:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
