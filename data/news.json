@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-21T11:11:02.433452Z",
+  "updated": "2026-09-21T17:14:11.354789Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming bac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg",
+      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor \"automatically harvests an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg",
+      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
       "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
@@ -29,65 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg",
-      "published": "Sat, 19 Sep 2026 18:58:48 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg",
-      "published": "Sat, 19 Sep 2026 18:58:41 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scrip",
+      "title": "Google fined €403 million over location data privacy violations",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
       "image": "",
-      "published": "Sun, 20 Sep 2026 10:11:21 -0400",
+      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
       "image": "",
-      "published": "Sun, 20 Sep 2026 08:00:00 -0400",
+      "published": "Mon, 21 Sep 2026 10:42:37 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing tec",
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agenc",
       "image": "",
-      "published": "Sat, 19 Sep 2026 10:56:31 -0400",
+      "published": "Mon, 21 Sep 2026 10:02:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cr",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
       "image": "",
-      "published": "Sat, 19 Sep 2026 10:05:15 -0400",
+      "published": "Mon, 21 Sep 2026 09:16:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
       "image": "",
-      "published": "Sat, 19 Sep 2026 09:48:32 -0400",
+      "published": "Mon, 21 Sep 2026 07:45:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,48 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ZuckOff Know when a camera is in the room",
-      "link": "https://zuckoff.app/",
-      "summary": "Article URL: https://zuckoff.app/\nComments URL: https://news.ycombinator.com/item?id=49785429\nPoints: 40\n# Comments: 4",
+      "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+      "link": "https://github.com/naw103/foremerge",
+      "summary": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or ",
       "image": "",
-      "published": "Mon, 21 Sep 2026 10:33:14 +0000",
+      "published": "Mon, 21 Sep 2026 16:22:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff\nComments URL: https://news.ycombinator.com/item?id=49785397\nPoints: 37\n# Comments: 0",
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "Article URL: https://spectrum.ieee.org/hermes-shortwave-radio-digital-data\nComments URL: https://news.ycombinator.com/item?id=49789228\nPoints: 10\n# Comments: 2",
       "image": "",
-      "published": "Mon, 21 Sep 2026 10:27:50 +0000",
+      "published": "Mon, 21 Sep 2026 16:14:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jev-Leftpad",
-      "link": "https://github.com/f/jev-leftpad",
-      "summary": "Article URL: https://github.com/f/jev-leftpad\nComments URL: https://news.ycombinator.com/item?id=49784706\nPoints: 67\n# Comments: 34",
+      "title": "Fable 5 – Median thinking declined in August",
+      "link": "https://twitter.com/Lon/status/2101793422487204027",
+      "summary": "Article URL: https://twitter.com/Lon/status/2101793422487204027\nComments URL: https://news.ycombinator.com/item?id=49789224\nPoints: 47\n# Comments: 26",
       "image": "",
-      "published": "Mon, 21 Sep 2026 08:39:32 +0000",
+      "published": "Mon, 21 Sep 2026 16:13:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-      "summary": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change\nComments URL: https://news.ycombinator.com/item?id=49784336\nPoints: 26\n# Comments: 11",
+      "title": "How do Traffic Signals Work (2019)",
+      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\nComments URL: https://news.ycombinator.com/item?id=49789081\nPoints: 7\n# Comments: 3",
       "image": "",
-      "published": "Mon, 21 Sep 2026 07:55:28 +0000",
+      "published": "Mon, 21 Sep 2026 16:06:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "link": "https://github.com/jaredpalmer/kev/tree/main",
-      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main\nComments URL: https://news.ycombinator.com/item?id=49783999\nPoints: 127\n# Comments: 56",
+      "title": "Grok 4.7",
+      "link": "https://x.ai/news/grok-4-7",
+      "summary": "Article URL: https://x.ai/news/grok-4-7\nComments URL: https://news.ycombinator.com/item?id=49788838\nPoints: 145\n# Comments: 81",
       "image": "",
-      "published": "Mon, 21 Sep 2026 07:11:55 +0000",
+      "published": "Mon, 21 Sep 2026 15:50:15 +0000",
       "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "I checked 15 AI search guides",
-      "link": "https://dev.to/devin_daymore/i-checked-15-ai-search-guides-3174",
-      "summary": "I searched Google for three things people ask about AI search: \"llm seo\", \"ai visibility\" and \"how to rank in chatgpt\". For each search I took the first five guides.\n\nWe were writing guides on the same three topics for S",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:05:34 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Your Finance Agent Needs an Evaluation Harness, Not Just a Prompt",
-      "link": "https://dev.to/tali_from_portali/your-finance-agent-needs-an-evaluation-harness-not-just-a-prompt-24kn",
-      "summary": "Your Finance Agent Needs an Evaluation Harness, Not Just a Prompt\n\n\nA finance agent can produce a convincing answer and still be wrong in the one way that matters: it can make a decision without enough evidence.\n\nThat is",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:05:07 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "A Simple Tool for Finding the Right Open-Source LLM for Your Hardware",
-      "link": "https://dev.to/pavan-swamy/a-simple-tool-for-finding-the-right-open-source-llm-for-your-hardware-39b",
-      "summary": "I’ve been exploring local AI models lately, and one question keeps coming up:\n\n\"Which model can actually run on my machine?\"\n\nWith so many options available, it's easy to spend time downloading a model only to find out y",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:04:54 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Building a Pre-Trade Oracle Safety Check for DeFi Agents",
-      "link": "https://dev.to/imokokok/building-a-pre-trade-oracle-safety-check-for-defi-agents-5193",
-      "summary": "An agent can construct a valid transaction and still make a poor decision if the price data behind it is stale or inconsistent. That matters especially for lending: a small oracle discrepancy can eat into a position’s li",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frnjzxj0n57jda8oupi8w.png",
-      "published": "Mon, 21 Sep 2026 11:03:41 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How to Use st-core.fscss with Svelte (Compiled)",
-      "link": "https://dev.to/fscss/how-to-use-st-corefscss-with-svelte-compiled-4cg9",
-      "summary": "st-core.fscss draws charts with pure CSS, clip-path polygons plus custom properties, no JS chart library, no SVG, no canvas. Svelte doesn't need to draw anything for it. It just needs to own the data and reactively set -",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:00:57 +0000",
-      "source": "DEV Community",
       "category": "development"
     },
     {
