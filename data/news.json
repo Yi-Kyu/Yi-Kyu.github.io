@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-21T01:49:39.761495Z",
+  "updated": "2026-09-21T11:11:02.433452Z",
   "articles": [
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, Updat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg",
+      "published": "Mon, 21 Sep 2026 14:09:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg",
+      "published": "Mon, 21 Sep 2026 11:36:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
@@ -25,24 +43,6 @@
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg",
       "published": "Sat, 19 Sep 2026 18:58:41 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.\n\nThe vulnerab",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg",
-      "published": "Sat, 19 Sep 2026 15:01:17 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg",
-      "published": "Sat, 19 Sep 2026 13:48:54 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Amiga Unix, Again",
-      "link": "https://amigaux.org/",
-      "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 16\n# Comments: 6",
+      "title": "ZuckOff Know when a camera is in the room",
+      "link": "https://zuckoff.app/",
+      "summary": "Article URL: https://zuckoff.app/\nComments URL: https://news.ycombinator.com/item?id=49785429\nPoints: 40\n# Comments: 4",
       "image": "",
-      "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "published": "Mon, 21 Sep 2026 10:33:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-      "link": "https://github.com/BytedTsinghua-SIA/DAPO",
-      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 10\n# Comments: 0",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff\nComments URL: https://news.ycombinator.com/item?id=49785397\nPoints: 37\n# Comments: 0",
       "image": "",
-      "published": "Sun, 20 Sep 2026 23:19:04 +0000",
+      "published": "Mon, 21 Sep 2026 10:27:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What happened to the Snowden archive",
-      "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 151\n# Comments: 60",
+      "title": "Jev-Leftpad",
+      "link": "https://github.com/f/jev-leftpad",
+      "summary": "Article URL: https://github.com/f/jev-leftpad\nComments URL: https://news.ycombinator.com/item?id=49784706\nPoints: 67\n# Comments: 34",
       "image": "",
-      "published": "Sun, 20 Sep 2026 22:35:49 +0000",
+      "published": "Mon, 21 Sep 2026 08:39:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google's Open Agentic Orchestrator",
-      "link": "https://agentexecutor.io",
-      "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 183\n# Comments: 78",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "summary": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change\nComments URL: https://news.ycombinator.com/item?id=49784336\nPoints: 26\n# Comments: 11",
       "image": "",
-      "published": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "published": "Mon, 21 Sep 2026 07:55:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nPoints: 231\n# Comments: 143",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main\nComments URL: https://news.ycombinator.com/item?id=49783999\nPoints: 127\n# Comments: 56",
       "image": "",
-      "published": "Sun, 20 Sep 2026 22:13:46 +0000",
+      "published": "Mon, 21 Sep 2026 07:11:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built an app that turns workout videos into actual workouts",
-      "link": "https://dev.to/bryan_philips_802e857ce63/i-built-an-app-that-turns-workout-videos-into-actual-workouts-42h5",
-      "summary": "I just built Reel Motion.\n\nThe idea is pretty simple. There are millions of good workout videos on Instagram, TikTok and YouTube, but they're not very convenient when you actually want to exercise.\n\nYou have to watch the",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2frp1ue54vnlgmhyzo75.png",
-      "published": "Mon, 21 Sep 2026 01:39:13 +0000",
+      "title": "I checked 15 AI search guides",
+      "link": "https://dev.to/devin_daymore/i-checked-15-ai-search-guides-3174",
+      "summary": "I searched Google for three things people ask about AI search: \"llm seo\", \"ai visibility\" and \"how to rank in chatgpt\". For each search I took the first five guides.\n\nWe were writing guides on the same three topics for S",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 11:05:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Who Decides the Tenant? A Small Rust Guard for AI Tool Calls",
-      "link": "https://dev.to/subaruhello/who-decides-the-tenant-a-small-rust-guard-for-ai-tool-calls-4pc4",
-      "summary": "I have been thinking about a fairly ordinary failure mode in AI-enabled SaaS products.\n\nA support agent is helping a user from tenant-a. The user asks about a contract, and the model produces a perfectly valid tool call:",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Mon, 21 Sep 2026 01:28:40 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Built a Multi-Region Pilot Light on AWS. The Diagram Was the Easy Part.",
-      "link": "https://dev.to/rykiel-dev/i-built-a-multi-region-pilot-light-on-aws-the-diagram-was-the-easy-part-ebi",
-      "summary": "Most disaster recovery write-ups stop at the diagram.\n\nYou get two boxes, an arrow labelled \"replicate\", and an RTO that was never measured. I wanted the rest of the story: real Terraform, a failover you can time, and a ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fraw.githubusercontent.com%2Ftoriyama237%2Faws-multi-region-pilot-light%2Fmain%2Fdocs%2Farchitecture.png",
-      "published": "Mon, 21 Sep 2026 01:26:26 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Stop trying to make Airflow work for Medallion pipelines",
-      "link": "https://dev.to/aniketsoni/stop-trying-to-make-airflow-work-for-medallion-pipelines-15ge",
-      "summary": "The \"universal orchestrator\" is a myth that keeps data engineers awake at 3:00 AM chasing zombie DAGs and orphaned Spark clusters. You’ve been told that if you just pick the right tool—usually the one with the most GitHu",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimages.unsplash.com%2Fphoto-1783683783819-e6cb806bba69%3Fcrop%3Dentropy%26cs%3Dtinysrgb%26fit%3Dmax%26fm%3Djpg%26ixid%3DM3w5NzU0MjJ8MHwxfHNlYXJjaHwyOXx8c2VydmVyJTIwcmFja3xlbnwwfDB8fHwxNzg5ODQ5NjIyfDA%26ixlib%3Drb-4.1.0%26q%3D80%26w%3D1080",
-      "published": "Mon, 21 Sep 2026 01:21:03 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Building a Multimodal AI Nutrition Agent: How I Used LangGraph and GPT-4o to Automate My Grocery Shopping 🥗🤖",
-      "link": "https://dev.to/wellallytech/building-a-multimodal-ai-nutrition-agent-how-i-used-langgraph-and-gpt-4o-to-automate-my-grocery-599o",
-      "summary": "We’ve all been there: staring blankly into the refrigerator at 7 PM, trying to figure out if that wilted spinach and half-empty jar of pickles constitute a \"balanced meal.\" In the age of AI Agents and Healthcare Automati",
+      "title": "Your Finance Agent Needs an Evaluation Harness, Not Just a Prompt",
+      "link": "https://dev.to/tali_from_portali/your-finance-agent-needs-an-evaluation-harness-not-just-a-prompt-24kn",
+      "summary": "Your Finance Agent Needs an Evaluation Harness, Not Just a Prompt\n\n\nA finance agent can produce a convincing answer and still be wrong in the one way that matters: it can make a decision without enough evidence.\n\nThat is",
       "image": "",
-      "published": "Mon, 21 Sep 2026 01:21:00 +0000",
+      "published": "Mon, 21 Sep 2026 11:05:07 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "A Simple Tool for Finding the Right Open-Source LLM for Your Hardware",
+      "link": "https://dev.to/pavan-swamy/a-simple-tool-for-finding-the-right-open-source-llm-for-your-hardware-39b",
+      "summary": "I’ve been exploring local AI models lately, and one question keeps coming up:\n\n\"Which model can actually run on my machine?\"\n\nWith so many options available, it's easy to spend time downloading a model only to find out y",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 11:04:54 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Building a Pre-Trade Oracle Safety Check for DeFi Agents",
+      "link": "https://dev.to/imokokok/building-a-pre-trade-oracle-safety-check-for-defi-agents-5193",
+      "summary": "An agent can construct a valid transaction and still make a poor decision if the price data behind it is stale or inconsistent. That matters especially for lending: a small oracle discrepancy can eat into a position’s li",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frnjzxj0n57jda8oupi8w.png",
+      "published": "Mon, 21 Sep 2026 11:03:41 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How to Use st-core.fscss with Svelte (Compiled)",
+      "link": "https://dev.to/fscss/how-to-use-st-corefscss-with-svelte-compiled-4cg9",
+      "summary": "st-core.fscss draws charts with pure CSS, clip-path polygons plus custom properties, no JS chart library, no SVG, no canvas. Svelte doesn't need to draw anything for it. It just needs to own the data and reactively set -",
+      "image": "",
+      "published": "Mon, 21 Sep 2026 11:00:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
