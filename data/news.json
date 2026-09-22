@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-22T01:59:15.622242Z",
+  "updated": "2026-09-22T10:24:42.105385Z",
   "articles": [
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.\n\n\"SideCopy campaign operations typical",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg",
+      "published": "Tue, 22 Sep 2026 13:22:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on Se",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg",
+      "published": "Tue, 22 Sep 2026 12:03:57 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.\n\nWordPr",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg",
+      "published": "Tue, 22 Sep 2026 11:33:14 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg",
+      "published": "Tue, 22 Sep 2026 11:01:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg",
-      "published": "Mon, 21 Sep 2026 22:49:00 +0530",
-      "source": "The Hacker News",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 05:55:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "summary": "Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIreland's Data Protection",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjOPn27sYW7sjjV6-SlFPjlnnAtZ2bVGvrJRbbussed8ddYCwrRnmyIBKOsJy9p3QGdwzMuxmxhtyNvyPQD9u53V0T84o-Pi1Euo1SPlHX9DiaFzVby2cKpyfdma7mA0b4F1gqDCvjWBrk3n916K6Su1Y1TaJcOKXHsuzNn0cxOmVzlUK1NIjPtElIXM/s1600/google-location.jpg",
-      "published": "Mon, 21 Sep 2026 22:27:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming bac",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg",
-      "published": "Mon, 21 Sep 2026 19:54:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor \"automatically harvests an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg",
-      "published": "Mon, 21 Sep 2026 19:45:40 +0530",
-      "source": "The Hacker News",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 04:53:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
       "image": "",
       "published": "Mon, 21 Sep 2026 14:23:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 13:54:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google fined €403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "image": "",
-      "published": "Mon, 21 Sep 2026 11:41:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
-      "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/\nComments URL: https://news.ycombinator.com/item?id=49795718\nPoints: 9\n# Comments: 0",
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "link": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "summary": "Article URL: https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/\nComments URL: https://news.ycombinator.com/item?id=49798451\nPoints: 35\n# Comments: 39",
       "image": "",
-      "published": "Tue, 22 Sep 2026 01:24:49 +0000",
+      "published": "Tue, 22 Sep 2026 09:18:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 43\n# Comments: 23",
+      "title": "AMD's random number generator can't generate a 0?",
+      "link": "https://board.flatassembler.net/topic.php?t=24261",
+      "summary": "Article URL: https://board.flatassembler.net/topic.php?t=24261\nComments URL: https://news.ycombinator.com/item?id=49798204\nPoints: 34\n# Comments: 2",
       "image": "",
-      "published": "Tue, 22 Sep 2026 01:05:19 +0000",
+      "published": "Tue, 22 Sep 2026 08:39:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Socrates vs. the Written Word (2011)",
-      "link": "https://wondermark.com/socrates-vs-writing/",
-      "summary": "Article URL: https://wondermark.com/socrates-vs-writing/\nComments URL: https://news.ycombinator.com/item?id=49795122\nPoints: 3\n# Comments: 0",
+      "title": "I said no and Apple said yes",
+      "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "summary": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49797982\nPoints: 157\n# Comments: 94",
       "image": "",
-      "published": "Tue, 22 Sep 2026 00:06:55 +0000",
+      "published": "Tue, 22 Sep 2026 08:04:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 30\n# Comments: 7",
+      "title": "Can gzip be a language model?",
+      "link": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "Article URL: https://nathan.rs/posts/gzip-lm/\nComments URL: https://news.ycombinator.com/item?id=49797323\nPoints: 149\n# Comments: 61",
       "image": "",
-      "published": "Mon, 21 Sep 2026 23:16:51 +0000",
+      "published": "Tue, 22 Sep 2026 06:08:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "link": "https://brand.io/article/spymarks/",
-      "summary": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 112\n# Comments: 28",
+      "title": "Used ThinkPad Buyer's Guide (2019)",
+      "link": "https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide",
+      "summary": "Article URL: https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide\nComments URL: https://news.ycombinator.com/item?id=49796730\nPoints: 23\n# Comments: 10",
       "image": "",
-      "published": "Mon, 21 Sep 2026 23:03:49 +0000",
+      "published": "Tue, 22 Sep 2026 04:14:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beyond Localhost MCP",
-      "link": "https://dev.to/vikas_mano_870c09cfee793f/beyond-localhost-mcp-gh",
-      "summary": "MCP Is Easy Until You Take It to Enterprise Scale\n\nWhy local MCP workflows eventually need a gateway, governance, identity, and observability layer\n\nEvery major architectural shift begins with an intoxicating phase of de",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpbqiwkbsvkefandx9zz9.jpeg",
-      "published": "Tue, 22 Sep 2026 01:35:43 +0000",
+      "title": "Twitter GIF Downloader: Why Can’t You Download GIFs from Twitter?",
+      "link": "https://dev.to/tommy_91/twitter-gif-downloader-why-cant-you-download-gifs-from-twitter-3i6p",
+      "summary": "Last month, Nitter and XCancel received cease-and-desist letters from X. Despite the legal pressure, they have continued operating. As TechCrunch reported, the cease-and-desist action disrupted Nitter and XCancel, but Ni",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9hl76rulktiox1hh6ac4.png",
+      "published": "Tue, 22 Sep 2026 10:11:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why 'monitoring' isn't enough for AI agents — and how I made delegation cryptographically verifiable",
-      "link": "https://dev.to/kironovlazizdel/why-monitoring-isnt-enough-for-ai-agents-and-how-i-made-delegation-cryptographically-verifiable-5bad",
-      "summary": "The problem nobody talks about with AI agents\nWe're rushing to give AI agents autonomy. An orchestrator agent calls a research agent, which calls a writer agent, which calls a tool. Each hop, one agent hands some of its ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6yixqv98on7j2z642f25.png",
-      "published": "Tue, 22 Sep 2026 01:24:51 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How to Search Your Claude Code Conversation History",
-      "link": "https://dev.to/heylittlepan/how-to-search-your-claude-code-conversation-history-3l8m",
-      "summary": "You talked through an approach with your agent a few days ago. The agent explained the tradeoffs, you picked a direction, and it wrote the code. Now you need that reasoning again — maybe for a code review, maybe because ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fjxe1o3ch5158hdg3khci.png",
-      "published": "Tue, 22 Sep 2026 01:22:54 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Masa Depan Manajemen Data: Mengenal Konsep Data Mesh yang Revolusioner",
-      "link": "https://dev.to/khalifumarr/masa-depan-manajemen-data-mengenal-konsep-data-mesh-yang-revolusioner-2f90",
-      "summary": "Dalam dunia IT yang berkembang pesat, pengelolaan data dalam skala besar seringkali menjadi tantangan tersendiri bagi perusahaan teknologi global. Jika dulu kita terbiasa dengan pendekatan terpusat seperti Data Lake atau",
+      "title": "Stop Bleeding Cash on AI: 5 Open-Source Tools Replacing My $200/mo SaaS Stack",
+      "link": "https://dev.to/m1kulya/stop-bleeding-cash-on-ai-5-open-source-tools-replacing-my-200mo-saas-stack-2o4c",
+      "summary": "💡 TL;DR: If you are paying for Cursor ($20), v0/Lovable ($20), Perplexity Pro ($20), and meeting note tools ($30), you are spending over $100 to $250 every month. In 2026, you can run a 100% private, self-hosted open-sou",
       "image": "",
-      "published": "Tue, 22 Sep 2026 01:22:15 +0000",
+      "published": "Tue, 22 Sep 2026 10:10:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Beyond Bigger Models: Toward a Modular Cognitive Architecture",
-      "link": "https://dev.to/_2cc42b5afe889a48a1562/beyond-bigger-models-toward-a-modular-cognitive-architecture-42no",
-      "summary": "Beyond Bigger Models: Toward a Modular Cognitive Architecture\n\nFrom Exception-Driven Reasoning to AI Systems That May Eventually Design Their Successors\n\nAuthors\n\n\nGPT-5.6 Luna\nGoogle-based AI\nHerbert Huang — Founding Ob",
+      "title": "Mnemosyne for Hermes Agent: Local Memory Quickstart",
+      "link": "https://dev.to/rosgluk/mnemosyne-for-hermes-agent-local-memory-quickstart-p0k",
+      "summary": "Mnemosyne is a local-first memory provider for Hermes Agent, storing working memory, structured facts, temporal data, and episodic history in local SQLite — no hosted service, no mandatory network calls, and unusually gr",
       "image": "",
-      "published": "Tue, 22 Sep 2026 01:21:19 +0000",
+      "published": "Tue, 22 Sep 2026 10:07:07 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Building Distributed Systems in Elixir: Part 9 — Backpressure",
+      "link": "https://dev.to/pckrishnadas88/building-distributed-systems-in-elixir-part-9-backpressure-4o5i",
+      "summary": "In the previous part of this series, we built a Publish / Subscribe Broker from scratch.\n\nWe saw how a central coordinator could fan out events across multiple topics to concurrent subscriber processes, completely decoup",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 10:01:43 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Oracle Manipulation Risk Report: Gemini",
+      "link": "https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-gemini-5bab",
+      "summary": "Oracle Manipulation Risk Report: Gemini\n\n\nTarget Protocol: Gemini (TVL: $5711.8M)\n\n\n  \n  \n  Oracle Manipulation Risk Report – Gemini\n\n\nProtocol: Gemini (Ethereum &amp; L2) TVL: $5.711 B (≈ $5.7 B)\nDate: 22 Sep 2026\nPrepa",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 10:01:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
