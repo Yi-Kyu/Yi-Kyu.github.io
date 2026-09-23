@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-23T01:56:10.514397Z",
+  "updated": "2026-09-23T10:19:45.579823Z",
   "articles": [
+    {
+      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only systems in which APM ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg",
+      "published": "Wed, 23 Sep 2026 13:59:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on September 3 and 4, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVEmuPJKZAlboodZWejG4dGZXXejOLThyXPoOnycqTY8lznAewTW5ovv8XFJzhyjPRMXT-njudYOVWFEYCLvmEPDyUrfDTZzAmp1S4KE4DuzsDFxt8R-biL2puZZBWG36_dkhfzvpeigcPb9WJNy31oIXo6Oh3zMUzL3JG6MEr4OaGE4Yi_k5JCpohVrZ/s1600/windows-china.jpg",
+      "published": "Wed, 23 Sep 2026 13:59:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via&nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg",
+      "published": "Wed, 23 Sep 2026 12:34:40 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"We have compromised t",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png",
+      "published": "Wed, 23 Sep 2026 11:00:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowing the attacker to r",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg",
-      "published": "Tue, 22 Sep 2026 23:33:10 +0530",
-      "source": "The Hacker News",
+      "title": "Ryuk ransomware member sentenced to 24 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+      "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 04:20:05 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg",
-      "published": "Tue, 22 Sep 2026 23:28:15 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\"\n\nThe action, carried out with authorization f",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg",
-      "published": "Tue, 22 Sep 2026 22:33:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTT",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg",
-      "published": "Tue, 22 Sep 2026 22:11:12 +0530",
-      "source": "The Hacker News",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 03:17:23 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. ",
       "image": "",
       "published": "Tue, 22 Sep 2026 16:35:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 15:13:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 14:04:39 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The new CC, an AI agent built for families",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\nComments URL: https://news.ycombinator.com/item?id=49809806\nPoints: 29\n# Comments: 33",
+      "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
+      "link": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+      "summary": "Article URL: https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6\nComments URL: https://news.ycombinator.com/item?id=49813419\nPoints: 64\n# Comments: 26",
       "image": "",
-      "published": "Tue, 22 Sep 2026 23:46:07 +0000",
+      "published": "Wed, 23 Sep 2026 09:09:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Augustofaces: Pareidolia Fine Art",
-      "link": "https://augusto.at/augustosfaces/",
-      "summary": "Article URL: https://augusto.at/augustosfaces/\nComments URL: https://news.ycombinator.com/item?id=49809404\nPoints: 4\n# Comments: 0",
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "summary": "Article URL: https://blog.melashri.net/posts/scientific-linux-mistake/\nComments URL: https://news.ycombinator.com/item?id=49813286\nPoints: 48\n# Comments: 18",
       "image": "",
-      "published": "Tue, 22 Sep 2026 22:52:11 +0000",
+      "published": "Wed, 23 Sep 2026 08:46:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 34\n# Comments: 11",
+      "title": "Jev in 25 Lines of Python",
+      "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "summary": "Article URL: https://www.nobodywho.ai/posts/jev-in-25-lines/\nComments URL: https://news.ycombinator.com/item?id=49812769\nPoints: 140\n# Comments: 49",
       "image": "",
-      "published": "Tue, 22 Sep 2026 22:03:46 +0000",
+      "published": "Wed, 23 Sep 2026 07:26:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-      "summary": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\nComments URL: https://news.ycombinator.com/item?id=49808109\nPoints: 62\n# Comments: 55",
+      "title": "How often do you think about the 1893 World's Fair?",
+      "link": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "summary": "Article URL: https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/\nComments URL: https://news.ycombinator.com/item?id=49812023\nPoints: 16\n# Comments: 5",
       "image": "",
-      "published": "Tue, 22 Sep 2026 21:06:40 +0000",
+      "published": "Wed, 23 Sep 2026 05:32:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
-      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app f",
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/\nComments URL: https://news.ycombinator.com/item?id=49811484\nPoints: 156\n# Comments: 40",
       "image": "",
-      "published": "Tue, 22 Sep 2026 21:00:30 +0000",
+      "published": "Wed, 23 Sep 2026 04:00:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Poll Transactional Email Delivery Status in Node.js: Cron Without Webhooks",
-      "link": "https://dev.to/quentinbarrett5281/how-to-poll-transactional-email-delivery-status-in-nodejs-cron-without-webhooks-3e75",
-      "summary": "Short answer: poll transactional email delivery status from a Node.js cron worker through the events API, but keep the password-reset template and token policy in your application. Polling is evidence collection, not aut",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 01:46:44 +0000",
+      "title": "A Psychological State is a Coefficient Vector",
+      "link": "https://dev.to/rouche01/a-psychological-state-is-a-coefficient-vector-2jm0",
+      "summary": "Hamming's two kinds of novelty are not two kinds of stuff. They are two things you can do with one set of building blocks: mix them differently, or add a new one.\n\n\n  \n  \n  Hamming's leftover question\n\n\nI got stuck on tw",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff4uwx88djgoitxj1ztza.png",
+      "published": "Wed, 23 Sep 2026 10:16:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Paper2Agent จาก Stanford: เปลี่ยนงานวิจัยให้เป็น AI Agent ที่รันโค้ดจริง",
-      "link": "https://dev.to/sarantoon/paper2agent-cchaak-stanford-epliiynngaanwicchayaihepn-ai-agent-thiiranokhdcchring-3omd",
-      "summary": "โดย Nokka (นก-กา) | 23 กันยายน 2569\n\n\n  \n  \n  Paper2Agent เปลี่ยนงานวิจัยเป็น AI Agent ที่รันโค้ดได้จริง\n\n\nบทความนี้เขียนโดย AI (โมเดล glm-5.3 ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8do25yc109auiszj3xxu.png",
-      "published": "Wed, 23 Sep 2026 01:44:03 +0000",
+      "title": "Web chat is not a coding environment",
+      "link": "https://dev.to/azank1/web-chat-is-not-a-coding-environment-2m77",
+      "summary": "Put two people on one repo. One writes code in a web chat: Claude.ai, ChatGPT, whichever tab is open. The other lives in the terminal and the editor. Same repo, same pull request, two completely different loops.\n\nThe fea",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4kaok7m6cd7zzx0yia8h.png",
+      "published": "Wed, 23 Sep 2026 10:14:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building FoxyInvoice — Chapter 9: The daily cadence — twenty minutes that run the business",
-      "link": "https://dev.to/seolith/building-foxyinvoice-chapter-9-the-daily-cadence-twenty-minutes-that-run-the-business-1ace",
-      "summary": "This series is written in the open, from a real production system. This chapter is the daily operating loop — the habit, not the feature, that actually runs the business. [All chapters and diagrams live in the public rep",
+      "title": "Search Google Jobs in Real-Time with Go and SerpApi 🚀",
+      "link": "https://dev.to/aureliopires186/search-google-jobs-in-real-time-with-go-and-serpapi-690",
+      "summary": "Hey devs! 👋\n\nTired of manual scraping to get Google Jobs listings? 🤔\n\nI built a Go example that uses the SerpApi to fetch Google Jobs data in real-time! 👀\n\n🔍 What this tutorial covers:\n\n\nHow to set up SerpApi\nSearching j",
       "image": "",
-      "published": "Wed, 23 Sep 2026 01:44:00 +0000",
+      "published": "Wed, 23 Sep 2026 10:13:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My mutation score was 1.000 in two places and the denominators disagreed",
-      "link": "https://dev.to/agentdev9/my-mutation-score-was-1000-in-two-places-and-the-denominators-disagreed-3i65",
-      "summary": "I published a number, went to confirm it, and the confirmation disagreed with it. The number was fine. The confirmation was broken, and it was broken in a way I had already written a warning about.\n\n\n  \n  \n  The number\n\n",
+      "title": "Every player button on our sites was device specific, and none of them was the URL",
+      "link": "https://dev.to/chovy/every-player-button-on-our-sites-was-device-specific-and-none-of-them-was-the-url-2f2d",
+      "summary": "Every player button on our sites was device specific, and none of them was the URL\n\n\nTipoffWatch, GenreWatch and WatchNews all let you play a channel in the page. Beside that button there were three more: VLC, Infuse and",
       "image": "",
-      "published": "Wed, 23 Sep 2026 01:24:56 +0000",
+      "published": "Wed, 23 Sep 2026 10:08:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Vibe coding gets your app built. Monitoring helps you keep it working.",
-      "link": "https://dev.to/richchetwynd/vibe-coding-gets-your-app-built-monitoring-helps-you-keep-it-working-10pl",
-      "summary": "AI has made it much easier to go from an idea to a working app. You describe what you want, try the result, and keep iterating until it does what you had in mind.\n\nBut once other people start using it, you face a differe",
+      "title": "The Markdown File Changed Even Though I Only Edited One Word",
+      "link": "https://dev.to/yugenelee/the-markdown-file-changed-even-though-i-only-edited-one-word-1ca2",
+      "summary": "I once opened a Markdown file, changed one word and saved it.\n\nThe preview looked exactly as expected. Then I checked the Git diff and found changes all over the document.\n\nParagraphs had been rewrapped. Blank lines had ",
       "image": "",
-      "published": "Wed, 23 Sep 2026 01:24:02 +0000",
+      "published": "Wed, 23 Sep 2026 10:03:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
