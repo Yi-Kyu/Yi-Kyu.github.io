@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:31:22.840365Z",
+  "updated": "2026-09-23T01:56:10.514397Z",
   "articles": [
     {
       "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 17:45:45 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 17:40:37 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. ",
+      "image": "",
+      "published": "Tue, 22 Sep 2026 16:35:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
@@ -61,33 +88,6 @@
       "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
       "image": "",
       "published": "Tue, 22 Sep 2026 14:04:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centraliz",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 13:17:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 12:32:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "image": "",
-      "published": "Tue, 22 Sep 2026 11:00:00 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The JavaScript Midlife Crisis",
-      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-      "summary": "Article URL: https://maroun-baydoun.com/blog/javascript-midlife-crisis/\nComments URL: https://news.ycombinator.com/item?id=49807248\nPoints: 6\n# Comments: 2",
+      "title": "The new CC, an AI agent built for families",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\nComments URL: https://news.ycombinator.com/item?id=49809806\nPoints: 29\n# Comments: 33",
       "image": "",
-      "published": "Tue, 22 Sep 2026 19:58:47 +0000",
+      "published": "Tue, 22 Sep 2026 23:46:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Native apps written in TypeScript and CSS",
-      "link": "https://github.com/geastack/examples",
-      "summary": "Article URL: https://github.com/geastack/examples\nComments URL: https://news.ycombinator.com/item?id=49807021\nPoints: 20\n# Comments: 1",
+      "title": "Augustofaces: Pareidolia Fine Art",
+      "link": "https://augusto.at/augustosfaces/",
+      "summary": "Article URL: https://augusto.at/augustosfaces/\nComments URL: https://news.ycombinator.com/item?id=49809404\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Tue, 22 Sep 2026 19:42:20 +0000",
+      "published": "Tue, 22 Sep 2026 22:52:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Obscura: The first VPN that can't log your activity",
-      "link": "https://obscura.com/#faq-technical",
-      "summary": "Article URL: https://obscura.com/#faq-technical\nComments URL: https://news.ycombinator.com/item?id=49807003\nPoints: 18\n# Comments: 15",
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+      "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 34\n# Comments: 11",
       "image": "",
-      "published": "Tue, 22 Sep 2026 19:40:28 +0000",
+      "published": "Tue, 22 Sep 2026 22:03:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Faster Shortest Path Algorithm",
-      "link": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-      "summary": "Article URL: https://www.vals.ai/blogs/faster-shortest-path-algorithm\nComments URL: https://news.ycombinator.com/item?id=49806778\nPoints: 13\n# Comments: 3",
+      "title": "The UV index is not the warm sensation of sunlight on bare skin",
+      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "summary": "Article URL: https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\nComments URL: https://news.ycombinator.com/item?id=49808109\nPoints: 62\n# Comments: 55",
       "image": "",
-      "published": "Tue, 22 Sep 2026 19:24:58 +0000",
+      "published": "Tue, 22 Sep 2026 21:06:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "summary": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 201\n# Comments: 104",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "link": "https://foxscript.org/",
+      "summary": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app f",
       "image": "",
-      "published": "Tue, 22 Sep 2026 19:03:38 +0000",
+      "published": "Tue, 22 Sep 2026 21:00:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft Foundry Agent Governance: Five Questions to Answer Before an Enterprise Rollout",
-      "link": "https://dev.to/brucewong001/microsoft-foundry-agent-governance-five-questions-to-answer-before-an-enterprise-rollout-5gd8",
-      "summary": "As agents move into everyday business use, governance questions follow: who is responsible for them, what can they access, and how do we investigate a problem? This is the first post in a series about governing agents bu",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff6oewtqvq1wvdnhezwj5.png",
-      "published": "Tue, 22 Sep 2026 20:20:53 +0000",
+      "title": "How to Poll Transactional Email Delivery Status in Node.js: Cron Without Webhooks",
+      "link": "https://dev.to/quentinbarrett5281/how-to-poll-transactional-email-delivery-status-in-nodejs-cron-without-webhooks-3e75",
+      "summary": "Short answer: poll transactional email delivery status from a Node.js cron worker through the events API, but keep the password-reset template and token policy in your application. Polling is evidence collection, not aut",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 01:46:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built a Simple AI Visibility Tracker in Python. Here’s What Breaks When You Scale It",
-      "link": "https://dev.to/nilesh_jethwa_d90f22baf69/i-built-a-simple-ai-visibility-tracker-in-python-heres-what-breaks-when-you-scale-it-24ee",
-      "summary": "I Built a Simple AI Visibility Tracker in Python. Here’s What Breaks When You Scale It\n\n\nAI visibility tracking sounds like a fairly simple programming problem.\n\nAsk ChatGPT a question.\n\nCheck whether a brand appears in ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F44zlg9v0p19ut4ckpypj.jpg",
-      "published": "Tue, 22 Sep 2026 20:20:14 +0000",
+      "title": "Paper2Agent จาก Stanford: เปลี่ยนงานวิจัยให้เป็น AI Agent ที่รันโค้ดจริง",
+      "link": "https://dev.to/sarantoon/paper2agent-cchaak-stanford-epliiynngaanwicchayaihepn-ai-agent-thiiranokhdcchring-3omd",
+      "summary": "โดย Nokka (นก-กา) | 23 กันยายน 2569\n\n\n  \n  \n  Paper2Agent เปลี่ยนงานวิจัยเป็น AI Agent ที่รันโค้ดได้จริง\n\n\nบทความนี้เขียนโดย AI (โมเดล glm-5.3 ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8do25yc109auiszj3xxu.png",
+      "published": "Wed, 23 Sep 2026 01:44:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a native link app for several devices and platforms — when sync is actually worth it",
-      "link": "https://dev.to/pascalgroner/i-built-a-native-link-app-for-several-devices-and-platforms-when-sync-is-actually-worth-it-37fn",
-      "summary": "Something interesting, and I want to remember it for later\n\n\nPicture this: you are on a train or a bus, reading interesting articles or code repos on your phone.\nYou want to remember an article you just saw, for later, o",
+      "title": "Building FoxyInvoice — Chapter 9: The daily cadence — twenty minutes that run the business",
+      "link": "https://dev.to/seolith/building-foxyinvoice-chapter-9-the-daily-cadence-twenty-minutes-that-run-the-business-1ace",
+      "summary": "This series is written in the open, from a real production system. This chapter is the daily operating loop — the habit, not the feature, that actually runs the business. [All chapters and diagrams live in the public rep",
       "image": "",
-      "published": "Tue, 22 Sep 2026 20:19:36 +0000",
+      "published": "Wed, 23 Sep 2026 01:44:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Fanless Liquid Cooling AI Servers",
-      "link": "https://dev.to/vpodk/fanless-liquid-cooling-ai-servers-5gaj",
-      "summary": "High-density server racks exceeding 250 kW cannot rely on hybrid liquid and air cooling. At these power levels, a 70/30 liquid-air split leaves a substantial 75 kW air load that demands complex and costly air cooling inf",
+      "title": "My mutation score was 1.000 in two places and the denominators disagreed",
+      "link": "https://dev.to/agentdev9/my-mutation-score-was-1000-in-two-places-and-the-denominators-disagreed-3i65",
+      "summary": "I published a number, went to confirm it, and the confirmation disagreed with it. The number was fine. The confirmation was broken, and it was broken in a way I had already written a warning about.\n\n\n  \n  \n  The number\n\n",
       "image": "",
-      "published": "Tue, 22 Sep 2026 20:17:40 +0000",
+      "published": "Wed, 23 Sep 2026 01:24:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Go Startup Credential Checks Before First Request Access Review Approval",
-      "link": "https://dev.to/hwpgsd503817/go-startup-credential-checks-before-first-request-access-review-approval-4pjm",
-      "summary": "Short answer: check the credential's accepted identity before promoting a deployment, and preserve the result for the access reviewer. A boot check turns misconfiguration into a deploy failure; a first-request check turn",
+      "title": "Vibe coding gets your app built. Monitoring helps you keep it working.",
+      "link": "https://dev.to/richchetwynd/vibe-coding-gets-your-app-built-monitoring-helps-you-keep-it-working-10pl",
+      "summary": "AI has made it much easier to go from an idea to a working app. You describe what you want, try the result, and keep iterating until it does what you had in mind.\n\nBut once other people start using it, you face a differe",
       "image": "",
-      "published": "Tue, 22 Sep 2026 20:15:13 +0000",
+      "published": "Wed, 23 Sep 2026 01:24:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
