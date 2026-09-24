@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-24T15:58:39.640727Z",
+  "updated": "2026-09-24T20:49:46.583167Z",
   "articles": [
+    {
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&nbsp;chained two flaws in OnePlus's own software&nbsp;",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg",
+      "published": "Thu, 24 Sep 2026 23:40:18 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread running through the p",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg",
+      "published": "Thu, 24 Sep 2026 23:22:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-party[.]com has been a",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg",
+      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
       "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8mLbRmwaAgvJunom4dBxBYMz50LUutLJiS6Yz7RPCbZQO1aYXAqFWOga4dCKD3AoenZHxYLpPexLEQ2swJO67vy4xl2_uw1g08lRtETN3hTMLpvafmn5WD4VK2ilpuFaYAdMHHPBRG2yYsyDBins15huubgt2b6pDVnnhW92It8lKHBqOifOLTaNSwho/s1600/keeper.png",
-      "published": "Thu, 24 Sep 2026 16:30:00 +0530",
-      "source": "The Hacker News",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 16:10:48 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg",
-      "published": "Thu, 24 Sep 2026 14:44:21 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.\n\nThe portal publishes aggregate figures,",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg",
-      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
-      "source": "The Hacker News",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 13:47:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
       "image": "",
       "published": "Thu, 24 Sep 2026 08:16:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 06:42:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as p",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "F-Droid 2.0: A New Chapter for Android Freedom",
-      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\nComments URL: https://news.ycombinator.com/item?id=49831968\nPoints: 84\n# Comments: 18",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=49835996\nPoints: 12\n# Comments: 0",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:26:12 +0000",
+      "published": "Thu, 24 Sep 2026 19:54:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/\nComments URL: https://news.ycombinator.com/item?id=49831774\nPoints: 37\n# Comments: 22",
+      "title": "August 27 TCRF DDoS Attack Postmortem",
+      "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
+      "summary": "Article URL: https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/\nComments URL: https://news.ycombinator.com/item?id=49835913\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:15:40 +0000",
+      "published": "Thu, 24 Sep 2026 19:46:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "summary": "Article URL: https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r\nComments URL: https://news.ycombinator.com/item?id=49831690\nPoints: 23\n# C",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical\nComments URL: https://news.ycombinator.com/item?id=49835531\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:09:38 +0000",
+      "published": "Thu, 24 Sep 2026 19:14:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruc",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "summary": "Article URL: https://www.usestable.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=49834893\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Thu, 24 Sep 2026 14:51:31 +0000",
+      "published": "Thu, 24 Sep 2026 18:29:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
-      "link": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
-      "summary": "Article URL: https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram\nComments URL: https://news.ycombinator.com/item?id=49831201\nPoints: 62\n# Comments: 14",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4\nComments URL: https://news.ycombinator.com/item?id=49834825\nPoints: 117\n# Comments: 136",
       "image": "",
-      "published": "Thu, 24 Sep 2026 14:33:52 +0000",
+      "published": "Thu, 24 Sep 2026 18:24:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built a minimalist, dependency-free ecosystem for private AI using vanilla JavaScript",
-      "link": "https://dev.to/juanoto2012/i-built-a-minimalist-dependency-free-ecosystem-for-private-ai-using-vanilla-javascript-ii7",
-      "summary": "Hi Dev.to community! \n\nI'm JJDev, a self-taught developer. Recently, I became fascinated by the private AI ecosystem, but I noticed that many modern web tools are bloated with heavy frameworks and endless dependencies th",
+      "title": "I Ended Up Building an AI Development Pipeline",
+      "link": "https://dev.to/rochapablo/i-ended-up-building-an-ai-development-pipeline-4lp7",
+      "summary": "I Just Wanted to Create Tasks From My Phone\n\n\nI have ideas when I am working, at the gym, or walking the dog. If I notice something to fix in one of my personal projects, I want to say:\n\n\n“I need to fix the account editi",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:47:45 +0000",
+      "published": "Thu, 24 Sep 2026 20:49:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What is the SSH agent, and how does ssh-add work?",
-      "link": "https://dev.to/wolfhound1995/what-is-the-ssh-agent-and-how-does-ssh-add-work-30g2",
-      "summary": "The SSH agent unlocks your key once and signs for you so the key never leaves memory. ssh-add, where it lives on each OS, and why the socket needs guarding.\n\nOriginally published at termal.in.\n\nIf you've protected your S",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 15:39:46 +0000",
+      "title": "I built a free game to learn Linux & Docker in your browser 🐳🎮",
+      "link": "https://dev.to/doodelinux/i-built-a-free-game-to-learn-linux-docker-in-your-browser-2p8j",
+      "summary": "Most people learn Docker by pasting commands from a tutorial into a real machine. It works, right up until it doesn't, and then the terminal feels like a minefield.\n\nI wanted somewhere beginners could type the real comma",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk17b6tjo1b86ditskcno.gif",
+      "published": "Thu, 24 Sep 2026 20:49:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Who is a Hacker?",
-      "link": "https://dev.to/scofieldidehen/who-is-a-hacker-4j9h",
-      "summary": "Imagine the feeling after being able to hack into the NASA center and copy all their files about an alien invasion. The feeling is wide and unimaginable, but this is the thought process of most people…\n\nImagine the feeli",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd3oipjbmvjb8hs2fz38f.png",
-      "published": "Thu, 24 Sep 2026 15:38:22 +0000",
+      "title": "Apache Tomcat CVE-2026-77762: A Stale HPACK Emitter Leaks Trailers Between HTTP/2 Requests",
+      "link": "https://dev.to/jeffreyciend/apache-tomcat-cve-2026-77762-a-stale-hpack-emitter-leaks-trailers-between-http2-requests-53gd",
+      "summary": "Apache Tomcat CVE-2026-77762: A Stale HPACK Emitter Leaks Trailers Between HTTP/2 Requests\n\n\n\n  \n  \n  Overview\n\n\nApache Tomcat 11.0.26, dated 15 September 2026 on the project's 11.x vulnerability page, closes a batch of ",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 20:40:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "First time",
-      "link": "https://dev.to/tarcsio_vicentedomingos/first-time-2i2p",
-      "summary": "Hello!\n\nI´m new here, and too in programming. Sorry if I can´t talk much, because my english level is still low.\n\nDuring one of my course classes, I heard about this platform and decided to take a look. My objective is l",
+      "title": "I Built a Free IP Lookup Tool with Vanilla JS — Here's What I Learned",
+      "link": "https://dev.to/just_for7_2e958757fa4dbf/i-built-a-free-ip-lookup-tool-with-vanilla-js-heres-what-i-learned-3h5j",
+      "summary": "A few months ago, I got tired of visiting IP lookup sites that were bloated with ads, required sign-ups, or gave vague answers about what an IP address actually reveals.\n\nSo I built my own: IPCheck.app - a single-page to",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:37:29 +0000",
+      "published": "Thu, 24 Sep 2026 20:39:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Introducing bolt.gives: Open-Source Agentic Coding With Any LLM",
-      "link": "https://dev.to/keoma_wright/introducing-boltgives-open-source-agentic-coding-with-any-llm-1o07",
-      "summary": "AI has changed the way we write software remarkably quickly.\n\nBut I believe there is an important difference between an AI that can write some code and an AI system that can actually build something.\n\nThat distinction is",
+      "title": "I Treated the Free Server as a Confound.",
+      "link": "https://dev.to/hackhub_6179/i-treated-the-free-server-as-a-confound-1af",
+      "summary": "I will not publish a pass rate from a free server until the log can tell a wrong answer from a tired plan. That is the conclusion. A clean percentage that mixes those two is not an evaluation. It is weather with a legend",
       "image": "",
-      "published": "Thu, 24 Sep 2026 15:35:41 +0000",
+      "published": "Thu, 24 Sep 2026 20:35:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
