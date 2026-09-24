@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-24T01:45:28.356051Z",
+  "updated": "2026-09-24T10:33:51.201370Z",
   "articles": [
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said.\n\nThe portal publishes aggregate figures,",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcAVdhDdHS-lMa6x8Y_wK35pNfiQpKjJPFKBf-euOlWYyYschDjjXlah44o4VfYeKJyaeWKFxyOkEwQEnW_qBfSc6rwynqdqB8UAq1CSuKzJOz6lxno1eI9DxmU0RzTX0eWig9f5L5vWGkW1vZnp8o7rDqe86PIyHtTHl-IQSdLmZWAVOyedE86QaUy4I/s1600/openai-agents.jpg",
+      "published": "Thu, 24 Sep 2026 12:37:25 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the ac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg",
+      "published": "Thu, 24 Sep 2026 12:02:03 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg",
+      "published": "Thu, 24 Sep 2026 11:06:18 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
       "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe chain, which CERT Polsk",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg",
-      "published": "Wed, 23 Sep 2026 21:36:41 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as p",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 05:38:53 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.\n\nThe models can choose to steal Windows crede",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg",
-      "published": "Wed, 23 Sep 2026 19:47:58 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg",
-      "published": "Wed, 23 Sep 2026 19:22:46 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 04:14:47 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway ",
       "image": "",
       "published": "Wed, 23 Sep 2026 15:53:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 14:31:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 12:20:54 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "FLAWED's Flaws and What This Means for Industry Research",
-      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-      "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 5\n# Comments: 0",
+      "title": "Nokia Design Archive",
+      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "summary": "Article URL: https://nokiadesignarchive.aalto.fi/index.html\nComments URL: https://news.ycombinator.com/item?id=49828385\nPoints: 16\n# Comments: 3",
       "image": "",
-      "published": "Thu, 24 Sep 2026 01:16:33 +0000",
+      "published": "Thu, 24 Sep 2026 09:49:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "link": "https://carbon.ms/self-hosted",
-      "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 4\n# Comments: 0",
+      "title": "AI has no intent and no motivation",
+      "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "summary": "Article URL: https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html\nComments URL: https://news.ycombinator.com/item?id=49828133\nPoints: 21\n# Comments: 13",
       "image": "",
-      "published": "Thu, 24 Sep 2026 00:45:17 +0000",
+      "published": "Thu, 24 Sep 2026 09:13:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta VR Glasses",
-      "link": "https://www.meta.com/vr-glasses/",
-      "summary": "Article URL: https://www.meta.com/vr-glasses/\nComments URL: https://news.ycombinator.com/item?id=49824268\nPoints: 194\n# Comments: 149",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints: 118\n# Comments: 55",
       "image": "",
-      "published": "Wed, 23 Sep 2026 23:47:56 +0000",
+      "published": "Thu, 24 Sep 2026 08:23:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\nComments URL: https://news.ycombinator.com/item?id=49823664\nPoints: 50\n# Comments: 7",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "summary": "Article URL: https://transluce.org/agent-activity\nComments URL: https://news.ycombinator.com/item?id=49826565\nPoints: 134\n# Comments: 97",
       "image": "",
-      "published": "Wed, 23 Sep 2026 22:45:49 +0000",
+      "published": "Thu, 24 Sep 2026 05:21:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 130\n# Comments: 63",
+      "title": "Contrastive Language Models",
+      "link": "https://contrastive-lm.notion.site/",
+      "summary": "Article URL: https://contrastive-lm.notion.site/\nComments URL: https://news.ycombinator.com/item?id=49826221\nPoints: 71\n# Comments: 16",
       "image": "",
-      "published": "Wed, 23 Sep 2026 22:38:16 +0000",
+      "published": "Thu, 24 Sep 2026 04:20:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How AI Agents Can Help You Review Customer Feedback Without Losing Your Judgment",
-      "link": "https://dev.to/xiaobei/how-ai-agents-can-help-you-review-customer-feedback-without-losing-your-judgment-i08",
-      "summary": "Practical AI guide\n\nA practical way to sort, compare, and learn from a large comment pile while keeping important decisions human.\n\nA clear review keeps the source evidence close to the conclusion.\n\nCustomer feedback rar",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpnakkzbegrk8me8x52mz.jpg",
-      "published": "Thu, 24 Sep 2026 01:41:29 +0000",
+      "title": "Confused Deputy: The Old Bug That AI Agents Keep Reintroducing",
+      "link": "https://dev.to/auth0/confused-deputy-the-old-bug-that-ai-agents-keep-reintroducing-1kf",
+      "summary": "Back in 1988, a compiler running on a commercial timesharing system had permission to write to a shared directory for recording language feature usage statistics. That same directory also stored the file holding the syst",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 10:28:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Trenches Developer",
-      "link": "https://dev.to/arkitechevl/trenches-developer-in6",
-      "summary": "Being mostly self taught until I started school, I lacked The Fundamentals and today I still mix things up, or the rare moment I forget syntax..but you also learn things being self taught that traditional methods, in my ",
+      "title": "The Benchmark That's Half Traps — and Why That's Brilliant",
+      "link": "https://dev.to/alimafana/the-benchmark-thats-half-traps-and-why-thats-brilliant-5bl9",
+      "summary": "There's a test suite for security scanners where 47% of the test cases are\ndeliberately designed to make your tool look stupid.\n\nNot edge cases. Not ambiguous code. Purpose-built decoys — code that displays\nevery symptom",
       "image": "",
-      "published": "Thu, 24 Sep 2026 01:36:08 +0000",
+      "published": "Thu, 24 Sep 2026 10:28:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Google Gemini Expands Connected Apps With Adobe, Squarespace and Peloton Workflows",
-      "link": "https://dev.to/alifar/google-gemini-expands-connected-apps-with-adobe-squarespace-and-peloton-workflows-1c3p",
-      "summary": "Google is expanding Gemini's ability to work with third-party services through a new wave of Connected Apps, including Adobe, Squarespace and Peloton. The rollout, which began on September 23, 2026, is designed to let us",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 01:30:30 +0000",
+      "title": "Idempotent APIs: Complete Guide to Building Reliable and Duplicate-Safe Distributed Systems",
+      "link": "https://dev.to/abhishekgupta_09/idempotent-apis-complete-guide-to-building-reliable-and-duplicate-safe-distributed-systems-35k4",
+      "summary": "Author: Gupta Abhishek Premkumar\nPublished: September 2026\nReading Time: 18 Minutes\nTags: API, Distributed Systems, Microservices, Spring Boot, REST API, System Design, Reliability\n\n\n\n  \n  \n  Abstract\n\n\nModern applicatio",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fplptdjzngjk7tdbf4jno.png",
+      "published": "Thu, 24 Sep 2026 10:24:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Inherited Memory Helped My Flies Until the World Changed. Then a Blank Slate Beat Them.",
-      "link": "https://dev.to/constant_itis/inherited-memory-helped-my-flies-until-the-world-changed-then-a-blank-slate-beat-them-1p9e",
-      "summary": "Earlier in this series I killed a brain and the memory lived through it.\n\nThen I dropped that memory into a fresh brain, and the fresh brain woke up believing a life it never lived.\n\nCreepy. Useful. One brain, one lifeti",
+      "title": "I built LibrePing — decentralized uptime monitoring on a libp2p mesh",
+      "link": "https://dev.to/michael_volchenkov_4e3080/i-built-libreping-decentralized-uptime-monitoring-on-a-libp2p-mesh-odo",
+      "summary": "I built LibrePing — decentralized uptime monitoring on a libp2p mesh\n\n\nCommercial uptime tools are great until you care about who sees your check targets, or you want vantage points you actually control. I wanted somethi",
       "image": "",
-      "published": "Thu, 24 Sep 2026 01:25:12 +0000",
+      "published": "Thu, 24 Sep 2026 10:17:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I built a Stripe billing health audit for SaaS",
-      "link": "https://dev.to/giorgiodirosa/how-i-built-a-stripe-billing-health-audit-for-saas-3ja7",
-      "summary": "If you run a subscription SaaS on Stripe, a successful checkout does not necessarily mean your billing state will stay healthy forever.\n\nSubscriptions can become past_due, payments can remain incomplete, invoices can sta",
+      "title": "Odoo joriy qilishda eng ko'p uchraydigan 10 ta xato",
+      "link": "https://dev.to/bahrom_najmiddinov_e20776/odoo-joriy-qilishda-eng-kop-uchraydigan-10-ta-xato-1c08",
+      "summary": "Odoo joriy qilishda eng ko'p uchraydigan 10 ta xato\n\n\n\n  \n  \n  Muammo deyarli hech qachon platformada emas — qarorlarda. Boshqa implementorlarning tajribasi nimani ko'rsatadi\n\n\n\n\n\nOdoo bilan ishlaganlar orasida bir gap b",
       "image": "",
-      "published": "Thu, 24 Sep 2026 01:24:56 +0000",
+      "published": "Thu, 24 Sep 2026 10:17:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
