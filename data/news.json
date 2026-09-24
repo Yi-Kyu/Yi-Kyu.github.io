@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:44:11.653213Z",
+  "updated": "2026-09-24T01:45:28.356051Z",
   "articles": [
     {
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell com",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 18:46:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "image": "",
+      "published": "Wed, 23 Sep 2026 17:25:13 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
       "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway ",
@@ -70,24 +88,6 @@
       "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
       "image": "",
       "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How can this Amazon scammer keep going, not shipping any goods?",
-      "link": "https://www.amazon.de/sp?language=en&ie=UTF8&seller=A29EBN4DXM8UCL&asin=B0CGBFF8K9&ref_=dp_merchant_link",
-      "summary": "Article URL: https://www.amazon.de/sp?language=en&amp;ie=UTF8&amp;seller=A29EBN4DXM8UCL&amp;asin=B0CGBFF8K9&amp;ref_=dp_merchant_link\nComments URL: https://news.ycombinator.com/item?id=49821925\nPoints: 8\n# Comments: 2",
+      "title": "FLAWED's Flaws and What This Means for Industry Research",
+      "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+      "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Wed, 23 Sep 2026 20:19:24 +0000",
+      "published": "Thu, 24 Sep 2026 01:16:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "summary": "Article URL: https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/\nComments URL: https://news.ycombinator.com/item?id=49821608\nPoints: 62\n# Comments: 6",
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "link": "https://carbon.ms/self-hosted",
+      "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Wed, 23 Sep 2026 19:55:14 +0000",
+      "published": "Thu, 24 Sep 2026 00:45:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "summary": "Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/\nComments URL: https://news.ycombinator.com/item?id=49821196\nPoints: 69\n# Comments: 35",
+      "title": "Meta VR Glasses",
+      "link": "https://www.meta.com/vr-glasses/",
+      "summary": "Article URL: https://www.meta.com/vr-glasses/\nComments URL: https://news.ycombinator.com/item?id=49824268\nPoints: 194\n# Comments: 149",
       "image": "",
-      "published": "Wed, 23 Sep 2026 19:23:40 +0000",
+      "published": "Wed, 23 Sep 2026 23:47:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "link": "https://www.forensicdbg.com",
-      "summary": "Hello HN!I've spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods for understanding what was",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\nComments URL: https://news.ycombinator.com/item?id=49823664\nPoints: 50\n# Comments: 7",
       "image": "",
-      "published": "Wed, 23 Sep 2026 19:15:55 +0000",
+      "published": "Wed, 23 Sep 2026 22:45:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cloud Agents Are Inevitable AI Prisons",
-      "link": "https://normanponte.io/19df691f",
-      "summary": "Article URL: https://normanponte.io/19df691f\nComments URL: https://news.ycombinator.com/item?id=49820267\nPoints: 40\n# Comments: 34",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 130\n# Comments: 63",
       "image": "",
-      "published": "Wed, 23 Sep 2026 18:16:41 +0000",
+      "published": "Wed, 23 Sep 2026 22:38:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Anthropic’s Bay Area Biology Lab Brings Claude Into Wet-Lab Research",
-      "link": "https://dev.to/alifar/anthropics-bay-area-biology-lab-brings-claude-into-wet-lab-research-10o4",
-      "summary": "Anthropic has established a physical biology lab in the San Francisco Bay Area, extending its work in life sciences beyond software and simulations into hands-on experimental research. The company is using Claude to help",
-      "image": "",
-      "published": "Wed, 23 Sep 2026 20:34:27 +0000",
+      "title": "How AI Agents Can Help You Review Customer Feedback Without Losing Your Judgment",
+      "link": "https://dev.to/xiaobei/how-ai-agents-can-help-you-review-customer-feedback-without-losing-your-judgment-i08",
+      "summary": "Practical AI guide\n\nA practical way to sort, compare, and learn from a large comment pile while keeping important decisions human.\n\nA clear review keeps the source evidence close to the conclusion.\n\nCustomer feedback rar",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpnakkzbegrk8me8x52mz.jpg",
+      "published": "Thu, 24 Sep 2026 01:41:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Combined Serilog and EF Core Logging to the Same File in ASP .NET Core",
-      "link": "https://dev.to/karenpayneoregon/combined-serilog-and-ef-core-logging-to-the-same-file-in-asp-net-core-1cl6",
-      "summary": "Introduction\n\n\nLearn how to use a single daily file to log regular log messages and EF Core commands with the Serilog packages.\n\nSource code\n\n\n\n  \n  \n  Required NuGet packages\n\n\n\nSerilog.AspNetCore\nSerilog.Extensions.Log",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fbk577ntu1ja29kzr0pkk.png",
-      "published": "Wed, 23 Sep 2026 20:33:26 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Pytest in Practice",
-      "link": "https://dev.to/nyakio/pytest-in-practice-4oda",
-      "summary": "I've been learning Python by building a video clipping CLI application, and along the way I've ended up learning a lot more than I expected.\n\nSome of it was straightforward. Some of it made me stop and think, especially ",
+      "title": "Trenches Developer",
+      "link": "https://dev.to/arkitechevl/trenches-developer-in6",
+      "summary": "Being mostly self taught until I started school, I lacked The Fundamentals and today I still mix things up, or the rare moment I forget syntax..but you also learn things being self taught that traditional methods, in my ",
       "image": "",
-      "published": "Wed, 23 Sep 2026 20:31:53 +0000",
+      "published": "Thu, 24 Sep 2026 01:36:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Latent-GRPO: Reinforcement Learning in Continuous Thought Space",
-      "link": "https://dev.to/g_factor/latent-grpo-reinforcement-learning-in-continuous-thought-space-50cl",
-      "summary": "When you sit down to solve a complex puzzle or plan three moves ahead in chess, do you narrate every synaptic firing to yourself in full, grammatically correct English sentences? Of course not. Human cognition operates a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpud6p2dg28u7rkatzm49.png",
-      "published": "Wed, 23 Sep 2026 20:28:00 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment",
-      "link": "https://dev.to/greatkalaso/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50fp",
-      "summary": "Setting up your local development environment is one of the first and most important steps when getting started with Infrastructure as Code (IaC).\n\nWhen working with Terraform and AWS, how you manage authentication matte",
+      "title": "Google Gemini Expands Connected Apps With Adobe, Squarespace and Peloton Workflows",
+      "link": "https://dev.to/alifar/google-gemini-expands-connected-apps-with-adobe-squarespace-and-peloton-workflows-1c3p",
+      "summary": "Google is expanding Gemini's ability to work with third-party services through a new wave of Connected Apps, including Adobe, Squarespace and Peloton. The rollout, which began on September 23, 2026, is designed to let us",
       "image": "",
-      "published": "Wed, 23 Sep 2026 20:26:27 +0000",
+      "published": "Thu, 24 Sep 2026 01:30:30 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Inherited Memory Helped My Flies Until the World Changed. Then a Blank Slate Beat Them.",
+      "link": "https://dev.to/constant_itis/inherited-memory-helped-my-flies-until-the-world-changed-then-a-blank-slate-beat-them-1p9e",
+      "summary": "Earlier in this series I killed a brain and the memory lived through it.\n\nThen I dropped that memory into a fresh brain, and the fresh brain woke up believing a life it never lived.\n\nCreepy. Useful. One brain, one lifeti",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 01:25:12 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How I built a Stripe billing health audit for SaaS",
+      "link": "https://dev.to/giorgiodirosa/how-i-built-a-stripe-billing-health-audit-for-saas-3ja7",
+      "summary": "If you run a subscription SaaS on Stripe, a successful checkout does not necessarily mean your billing state will stay healthy forever.\n\nSubscriptions can become past_due, payments can remain incomplete, invoices can sta",
+      "image": "",
+      "published": "Thu, 24 Sep 2026 01:24:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
