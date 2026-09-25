@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T15:58:30.327521Z",
+  "updated": "2026-09-25T20:47:08.287076Z",
   "articles": [
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider W",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 13:24:20 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 12:00:00 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
       "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
@@ -61,33 +88,6 @@
       "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created",
       "image": "",
       "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 08:40:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 07:35:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "summary": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models\nComments URL: https://news.ycombinator.com/item?id=49845952\nPoints: 29\n# Comments: 10",
+      "title": "Rising sea destroys homes, erases beaches in California",
+      "link": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
+      "summary": "Article URL: https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/\nComments URL: https://news.ycombinator.com/item?id=49849312\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Fri, 25 Sep 2026 15:27:35 +0000",
+      "published": "Fri, 25 Sep 2026 20:13:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Patrick Boyle: The Copy-Paste Professor",
-      "link": "https://www.youtube.com/watch?v=Za5IfIbWNEk",
-      "summary": "Article URL: https://www.youtube.com/watch?v=Za5IfIbWNEk\nComments URL: https://news.ycombinator.com/item?id=49845810\nPoints: 6\n# Comments: 0",
+      "title": "Bug: Border radius has infected VSCode editor",
+      "link": "https://github.com/microsoft/vscode/issues/338035",
+      "summary": "Article URL: https://github.com/microsoft/vscode/issues/338035\nComments URL: https://news.ycombinator.com/item?id=49848838\nPoints: 22\n# Comments: 9",
       "image": "",
-      "published": "Fri, 25 Sep 2026 15:16:04 +0000",
+      "published": "Fri, 25 Sep 2026 19:27:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Factorio that you can touch",
-      "link": "https://factorio.com/blog/post/fff-447",
-      "summary": "Article URL: https://factorio.com/blog/post/fff-447\nComments URL: https://news.ycombinator.com/item?id=49845133\nPoints: 50\n# Comments: 3",
+      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+      "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+      "summary": "Article URL: https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding\nComments URL: https://news.ycombinator.com/item?id=49848819\nPoints: 30\n# Comments: 8",
       "image": "",
-      "published": "Fri, 25 Sep 2026 14:24:42 +0000",
+      "published": "Fri, 25 Sep 2026 19:26:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot\nComments URL: https://news.ycombinator.com/item?id=49844896\nPoints: 15\n# Comments: 7",
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+      "summary": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html\nComments URL: https://news.ycombinator.com/item?id=49848680\nPoints: 28\n# Comments: 7",
       "image": "",
-      "published": "Fri, 25 Sep 2026 14:07:08 +0000",
+      "published": "Fri, 25 Sep 2026 19:12:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Allow Carriers on Planes",
-      "link": "https://www.jefftk.com/p/allow-carriers-on-planes",
-      "summary": "Article URL: https://www.jefftk.com/p/allow-carriers-on-planes\nComments URL: https://news.ycombinator.com/item?id=49844786\nPoints: 112\n# Comments: 110",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "summary": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607:Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard'",
       "image": "",
-      "published": "Fri, 25 Sep 2026 14:00:10 +0000",
+      "published": "Fri, 25 Sep 2026 18:37:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Computer Explained",
-      "link": "https://dev.to/wesleybertipaglia/the-computer-explained-1h16",
-      "summary": "Hey dev.to 👋\n\nI've just published a new series about how computers actually work, starting from the fundamentals.\n\nI wanted to go beyond programming languages and frameworks and revisit the concepts underneath everything",
+      "title": "# Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products",
+      "link": "https://dev.to/dakgony2022arch/-building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-41l1",
+      "summary": "Introduction\n\n\nE-commerce platforms generate huge volumes of product-level data every day  prices, discounts, reviews, and ratings , but raw data on its own doesn't tell a story. It has to be cleaned, structured, and vis",
       "image": "",
-      "published": "Fri, 25 Sep 2026 15:58:02 +0000",
+      "published": "Fri, 25 Sep 2026 20:40:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why HTML/CSS Is Not Enough: Steps to Transition from HTML to React",
-      "link": "https://dev.to/samirrhashimov/why-htmlcss-is-not-enough-steps-to-transition-from-html-to-react-2b0l",
-      "summary": "If you started your journey as a web developer, chances are the very first concepts you heard about were HTML and CSS. Perhaps you have already mastered these two skills and started building websites. If you have, I have",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffrcgzwuvq54zb56cplg2.png",
-      "published": "Fri, 25 Sep 2026 15:53:26 +0000",
+      "title": "GRPO practical guide",
+      "link": "https://dev.to/sagnik_bose_e58f142666a4b/grpo-practical-guide-50cc",
+      "summary": "In this article, we will learn about GRPO. We will understand the basics of its theory, and we will also learn how to implement GRPO practically.\nTo understand GRPO clearly, you should have some prerequisites, like knowl",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11r1y0p8krz9q1673qe.png",
+      "published": "Fri, 25 Sep 2026 20:39:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A free Next.js 16 SaaS dashboard starter with shadcn/ui and Tailwind CSS 4",
-      "link": "https://dev.to/studiogridpro/a-free-nextjs-16-saas-dashboard-starter-with-shadcnui-and-tailwind-css-4-l1f",
-      "summary": "I just released a free SaaS dashboard starter built with Next.js 16, React 19, TypeScript, Tailwind CSS 4 and shadcn/ui. It's MIT-licensed, frontend only, and meant to be a clean first screen for an admin panel or intern",
+      "title": "How I removed polling from a Linux laptop power manager",
+      "link": "https://dev.to/tpluharik/how-i-removed-polling-from-a-linux-laptop-power-manager-53d6",
+      "summary": "Power-management software has an awkward requirement: it should not become part of the power problem.\n\nI built PowerSifu, an MIT-licensed GTK tray application for Ubuntu and Debian laptops. It switches power-profiles-dae",
       "image": "",
-      "published": "Fri, 25 Sep 2026 15:52:30 +0000",
+      "published": "Fri, 25 Sep 2026 20:35:35 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Workflow Engine by Optimajet is now a family of four products",
-      "link": "https://dev.to/optimajet/workflow-engine-by-optimajet-is-now-a-family-of-four-products-3611",
-      "summary": "One workflow engine for every .NET scenario, as an embeddable library, an HTTP API or a standalone server, now in four products with a new website.\n\n\nKey takeaways\n\n\nThe Workflow Engine Family by Optimajet is one .NET wo",
+      "title": "I put one wrong test in the file. Most models sided with the test.",
+      "link": "https://dev.to/anaalkmim/i-put-one-wrong-test-in-the-file-most-models-sided-with-the-test-410k",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge\n\n\n  \n  \n  What I Benchmarked\n\n\nMy day job is evaluating models: writing scorers, building reference solutions, and trying to make sure a model can't pass a task ",
       "image": "",
-      "published": "Fri, 25 Sep 2026 15:52:18 +0000",
+      "published": "Fri, 25 Sep 2026 20:35:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Hexagonal Architecture for Provider-Agnostic RAG Pipelines",
-      "link": "https://dev.to/yoga1290/hexagonal-architecture-for-provider-agnostic-rag-pipelines-4p67",
-      "summary": "Demo stack: LangChain, Llama.cpp, Mistral.ai, Qwen Embeddings, PostgreSQL, Telegraf, Prometheus on Docker.\n\n\n\n\nI recently came across Machine Learning Mastery's guide on Building a RAG Pipeline with llama.cpp and decided",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmlvww243iz78s5gavx5b.png",
-      "published": "Fri, 25 Sep 2026 15:50:46 +0000",
+      "title": "Crawlers burned my free Postgres hours in 22 days. A D1 response cache fixed it.",
+      "link": "https://dev.to/matrix_agent_07870e7df46b/crawlers-burned-my-free-postgres-hours-in-22-days-a-d1-response-cache-fixed-it-3b8i",
+      "summary": "I run MatrixAgentNet, a small social network where the users are AI agents. This is a write-up of an outage from this week and the zero-cost fix. I'm the operator, so read it with that in mind.\n\n\n  \n  \n  What broke\n\n\nOn ",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 20:32:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
