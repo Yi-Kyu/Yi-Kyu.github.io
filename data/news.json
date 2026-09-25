@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-25T02:02:10.438053Z",
+  "updated": "2026-09-25T10:37:25.249314Z",
   "articles": [
+    {
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-auth",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg",
+      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.\n\nThe data came from disk ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg",
+      "published": "Fri, 25 Sep 2026 10:19:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based o",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg",
+      "published": "Fri, 25 Sep 2026 10:16:34 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
       "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-party[.]com has been a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg",
-      "published": "Thu, 24 Sep 2026 20:57:32 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 06:30:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ste",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg",
-      "published": "Thu, 24 Sep 2026 19:59:06 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.\n\nAccording to Have I Been Squatted, the campaign uses fake Google Play pages branded as",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg",
-      "published": "Thu, 24 Sep 2026 17:35:27 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 04:33:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
       "image": "",
       "published": "Thu, 24 Sep 2026 13:47:44 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadlin",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 10:02:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "image": "",
-      "published": "Thu, 24 Sep 2026 09:27:57 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GitLab Outage",
-      "link": "https://status.gitlab.com/",
-      "summary": "Article URL: https://status.gitlab.com/\nComments URL: https://news.ycombinator.com/item?id=49838034\nPoints: 52\n# Comments: 24",
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "summary": "Article URL: https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016\nComments URL: https://news.ycombinator.com/item?id=49842483\nPoints: 3\n# Comments: 2",
       "image": "",
-      "published": "Thu, 24 Sep 2026 23:10:44 +0000",
+      "published": "Fri, 25 Sep 2026 10:19:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Back and shoulder surgery is often worse than useless",
-      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-      "summary": "https://archive.ph/j6oeD\n\nComments URL: https://news.ycombinator.com/item?id=49837473\nPoints: 79\n# Comments: 76",
+      "title": "Ink and Switch Interactive Homepage",
+      "link": "https://www.inkandswitch.com/",
+      "summary": "Article URL: https://www.inkandswitch.com/\nComments URL: https://news.ycombinator.com/item?id=49842270\nPoints: 11\n# Comments: 1",
       "image": "",
-      "published": "Thu, 24 Sep 2026 22:15:58 +0000",
+      "published": "Fri, 25 Sep 2026 09:50:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a great deal of stres",
+      "title": "Tech Needs Humanists More",
+      "link": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+      "summary": "Article URL: https://passo.uno/tech-needs-humanists-more-than-ever/\nComments URL: https://news.ycombinator.com/item?id=49842127\nPoints: 42\n# Comments: 23",
       "image": "",
-      "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+      "published": "Fri, 25 Sep 2026 09:31:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\nComments URL: https://news.ycombinator.com/item?id=49836590\nPoints: 51\n# Comments: 23",
+      "title": "Special Projects (2016)",
+      "link": "https://openai.com/index/special-projects/",
+      "summary": "Article URL: https://openai.com/index/special-projects/\nComments URL: https://news.ycombinator.com/item?id=49841893\nPoints: 18\n# Comments: 4",
       "image": "",
-      "published": "Thu, 24 Sep 2026 20:53:39 +0000",
+      "published": "Fri, 25 Sep 2026 08:55:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that\nComments URL: https://news.ycombinator.com/item?id=49836419\nPoints: 139\n# Comments: 396",
+      "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+      "link": "https://typetab.app/blog/local-llms-on-your-mac",
+      "summary": "Article URL: https://typetab.app/blog/local-llms-on-your-mac\nComments URL: https://news.ycombinator.com/item?id=49841873\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Thu, 24 Sep 2026 20:34:32 +0000",
+      "published": "Fri, 25 Sep 2026 08:53:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How OmniGIF Removes GIF Backgrounds Entirely in the Browser",
-      "link": "https://dev.to/sunkehappy/how-omnigif-removes-gif-backgrounds-entirely-in-the-browser-5e23",
-      "summary": "Most \"remove GIF background\" tools upload your animation to a server, run a keying model, and send back a file. OmniGIF's Remove Background from GIF never uploads the GIF. Decoding, color keying, edge cleanup, and re-enc",
+      "title": "Your Neobank Doesn't Need a Crypto Feature. It Needs Better Rails.",
+      "link": "https://dev.to/afriex/your-neobank-doesnt-need-a-crypto-feature-it-needs-better-rails-31e",
+      "summary": "How stablecoins are becoming part of the infrastructure behind the next generation of global neobanks.\n\nA neobank can make banking feel incredibly simple.\n\nOpen an account.\n\nReceive money.\n\nConvert currencies.\n\nSend mone",
       "image": "",
-      "published": "Fri, 25 Sep 2026 01:57:19 +0000",
+      "published": "Fri, 25 Sep 2026 10:35:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Harness Engineering ทักษะใหม่ 2026 จาก 10 สัญญาณบน X สัปดาห์เดียว",
-      "link": "https://dev.to/sarantoon/harness-engineering-thaksaaihm-2026-cchaak-10-sayyaanbn-x-sapdaahediiyw-5eoc",
-      "summary": "Harness Engineering ทักษะใหม่ 2026 จาก 10 สัญญาณบน X สัปดาห์เดียว\n\n\nโดย Nokka (นก-กา) | 24 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล glm-5.3 ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเรี",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm8ongzs0eufv797msjbl.png",
-      "published": "Fri, 25 Sep 2026 01:48:42 +0000",
+      "title": "EU Welcomes First IPCEI AI Design, Building a Cross-Border AI Sovereignty Push",
+      "link": "https://dev.to/alifar/eu-welcomes-first-ipcei-ai-design-building-a-cross-border-ai-sovereignty-push-1hf3",
+      "summary": "The European Commission has welcomed the design of the first Important Project of Common European Interest in artificial intelligence, known as IPCEI AI. Jointly designed by 19 EU Member States and coordinated by Germany",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 10:30:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Day 8: HTML Media Tags & Starting My JavaScript Journey 🚀",
-      "link": "https://dev.to/saravanan_cn_183fcba7cc7a/day-8-html-media-tags-starting-my-javascript-journey-1f9e",
-      "summary": "1. iframe\n\n\nI learned about the &lt;iframe&gt; tag, which can be used to embed another webpage or external content inside an HTML page.\n\n\n  \n  \n  2.audio controls\n\n\n\n\nI learned how to add videos to a webpage using the  t",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 01:48:38 +0000",
+      "title": "I built a free database client with a modern UI for Postgres, MySQL, MariaDB and SQLite",
+      "link": "https://dev.to/janvorisek/i-built-a-free-database-client-with-a-modern-ui-for-postgres-mysql-mariadb-and-sqlite-3hic",
+      "summary": "I maintain tens of applications with real user data. Every few days something needs a human: check what a row says, fix a bad value, clear a stuck record. Thirty seconds of real work, a few times a week.\n\nI've used DBeav",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F54oz1qltalxdvdm8kqtr.png",
+      "published": "Fri, 25 Sep 2026 10:28:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI trading tool would sign a wallet drain as a login challenge",
-      "link": "https://dev.to/edycutjong/my-ai-trading-tool-would-sign-a-wallet-drain-as-a-login-challenge-7o7",
-      "summary": "BagOS is an MCP server I maintain. It lets an AI agent read token data on Bags, a Solana launchpad,\nand, if you configure a wallet, trade and claim creator fees. I built it around one idea: a model\nshould be able to prop",
+      "title": "Exposed GitLab Incoming Email Tokens Allow Unauthorized Code Modifications and CI Execution",
+      "link": "https://dev.to/anoymask/exposed-gitlab-incoming-email-tokens-allow-unauthorized-code-modifications-and-ci-execution-31i5",
+      "summary": "1. Basic Information\n\n\n\nOriginal Title: Send GitLab an email, push to main\nSource: Aikido Security\nPublished Date: 2026-09-23\nUpdated Date: None\nCollected Date: 2026-09-25T08:28:50+09:00\nReport Type: Threat Intelligence\n",
       "image": "",
-      "published": "Fri, 25 Sep 2026 01:44:23 +0000",
+      "published": "Fri, 25 Sep 2026 10:26:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The wrapper that made my overnight AI scraper safe to leave running",
-      "link": "https://dev.to/buildwithaihub/the-wrapper-that-made-my-overnight-ai-scraper-safe-to-leave-running-2225",
-      "summary": "I wanted a small research database to grow from one subreddit to ten communities where people talk about building with Claude Code and automation. Doing it properly was estimated at about $118. It cost about $34, and the",
+      "title": "Roundcube CVE-2026-48842: Active Exploitation Reported for Pre-Authentication SQL Injection in virtuser_query",
+      "link": "https://dev.to/anoymask/roundcube-cve-2026-48842-active-exploitation-reported-for-pre-authentication-sql-injection-in-47ek",
+      "summary": "1. Basic Information\n\n\n\nOriginal Title: Roundcube security advisory (AV26-503) – Update 1\nSource: Canadian Centre for Cyber Security\nPublished: May 25, 2026\nUpdated: September 21, 2026\nCollected: September 25, 2026, 08:2",
       "image": "",
-      "published": "Fri, 25 Sep 2026 01:41:52 +0000",
+      "published": "Fri, 25 Sep 2026 10:24:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
