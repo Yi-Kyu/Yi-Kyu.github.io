@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-26T15:10:32.938154Z",
+  "updated": "2026-09-26T20:15:09.487303Z",
   "articles": [
+    {
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.\n\nThe new findings c",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg",
+      "published": "Sat, 26 Sep 2026 23:52:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks r",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg",
-      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
-      "source": "The Hacker News",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 12:26:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 11:50:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
       "image": "",
       "published": "Sat, 26 Sep 2026 08:28:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent ",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unaut",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 14:13:33 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "A Roman Name for Software",
-      "link": "https://marcosmagueta.com/blog/a-roman-name-for-software/",
-      "summary": "Article URL: https://marcosmagueta.com/blog/a-roman-name-for-software/\nComments URL: https://news.ycombinator.com/item?id=49857173\nPoints: 4\n# Comments: 0",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which a",
       "image": "",
-      "published": "Sat, 26 Sep 2026 14:53:32 +0000",
+      "published": "Sat, 26 Sep 2026 17:10:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Earth is tearing apart beneath the Pacific Northwest",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/09/260924231343.htm\nComments URL: https://news.ycombinator.com/item?id=49856971\nPoints: 14\n# Comments: 1",
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\nComments URL: https://news.ycombinator.com/item?id=49857899\nPoints: 311\n# Comments: 133",
       "image": "",
-      "published": "Sat, 26 Sep 2026 14:33:11 +0000",
+      "published": "Sat, 26 Sep 2026 16:12:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior\nComments URL: https://news.ycombinator.com/item?id=49856149\nPoints: 49\n# Comments: 46",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent\nComments URL: https://news.ycombinator.com/item?id=49857729\nPoints: 54\n# Comments: 17",
       "image": "",
-      "published": "Sat, 26 Sep 2026 13:05:36 +0000",
+      "published": "Sat, 26 Sep 2026 15:56:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/\nComments URL: https://news.ycombinator.com/item?id=49855315\nPoints: 316\n# Comments: 123",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/\nComments URL: https://news.ycombinator.com/item?id=49857651\nPoints: 78\n# Comments: 51",
       "image": "",
-      "published": "Sat, 26 Sep 2026 10:55:56 +0000",
+      "published": "Sat, 26 Sep 2026 15:48:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "One Month Without AI",
-      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html\nComments URL: https://news.ycombinator.com/item?id=49855018\nPoints: 134\n# Comments: 134",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/\nComments URL: https://news.ycombinator.com/item?id=49857572\nPoints: 74\n# Comments: 77",
       "image": "",
-      "published": "Sat, 26 Sep 2026 10:08:21 +0000",
+      "published": "Sat, 26 Sep 2026 15:40:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Let's test dark mode and reduced motion",
-      "link": "https://dev.to/aiwithanton/lets-test-dark-mode-and-reduced-motion-532p",
-      "summary": "Originally published on anton.qa.\n\nA browser can report dark mode while the page stays white.\nChecking the setting alone would miss that broken page.\n\nLet's build a check that catches it, then deliberately break the page",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 15:01:01 +0000",
+      "title": "Verify an Indexer Can Recover from a Chain Reorganization",
+      "link": "https://dev.to/pharos_production/verify-an-indexer-can-recover-from-a-chain-reorganization-1gn0",
+      "summary": "An indexer can reach the latest block and still serve data from an abandoned chain. Its checkpoint advances, its health endpoint stays green and its token balance includes a transfer that no longer exists in canonical hi",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F10rbqvs1846bo9ibwb4j.jpg",
+      "published": "Sat, 26 Sep 2026 19:57:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Three timestamp bugs worth catching before they reach your API",
-      "link": "https://dev.to/timestampinfo/three-timestamp-bugs-worth-catching-before-they-reach-your-api-53m5",
-      "summary": "A timestamp can be a perfectly valid number and still produce the wrong date. The useful questions are: what unit does it use, how is it displayed, and what precision must survive the conversion?\n\nHere are three small ch",
+      "title": "Astra Killed Claude, Claude Killed Gemini, Gemini Killed Google, Google Committed Suicide",
+      "link": "https://dev.to/web_dev-usman/astra-killed-claude-claude-killed-gemini-gemini-killed-google-google-committed-suicide-n32",
+      "summary": "Astra killed Claude. Claude killed Gemini. Gemini killed Google. Google committed suicide, and that's the end of the story. Somewhere in between, and nobody even sent flowers.\n\nWhy am I always crawling backwards into the",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpahvvy8qvrhbxjo5rdky.png",
+      "published": "Sat, 26 Sep 2026 19:50:23 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How I Built a Real-Time rPPG Heart Rate Tracker in Python (POS Algorithm & Butterworth Filtering)",
+      "link": "https://dev.to/shakeelahmedneuroai/how-i-built-a-real-time-rppg-heart-rate-tracker-in-python-pos-algorithm-butterworth-filtering-1koe",
+      "summary": "Continuous biometric monitoring usually requires dedicated contact hardware like smartwatches or pulse oximeters. However, standard laptop webcams can capture subtle skin color variations caused by blood volume pulses (B",
       "image": "",
-      "published": "Sat, 26 Sep 2026 14:57:42 +0000",
+      "published": "Sat, 26 Sep 2026 19:46:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Come Up With the Raft Consensus Algorithm Yourself",
-      "link": "https://dev.to/vishaaxl/how-to-come-up-with-the-raft-consensus-algorithm-yourself-22f3",
-      "summary": "If someone asks you to explain Raft, you might hear a list of terms like:\n\n\nLeader election\nTerms\nRequestVote\nAppendEntries\nLog replication\nCommit index\nQuorum\nnextIndex\nmatchIndex\n\n\nIt can feel like a lot of unrelated r",
+      "title": "How to Automate Git Add, Commit, and Push with a Bash Script",
+      "link": "https://dev.to/jamiukayode27/how-to-automate-git-add-commit-and-push-with-a-bash-script-524g",
+      "summary": "How to Automate Git Add, Commit, and Push with a Bash Script\n\nI automated one of the repetitive tasks in my development workflow.\n\nWhile working on a static HTML, CSS &amp; JavaScript project, I noticed that every time I",
       "image": "",
-      "published": "Sat, 26 Sep 2026 14:52:33 +0000",
+      "published": "Sat, 26 Sep 2026 19:42:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Multilingual Ghost CMS Blog: 0. Why I Chose Ghost",
-      "link": "https://dev.to/sanghunkang/multilingual-ghost-cms-blog-0-why-i-chose-ghost-4o84",
-      "summary": "💡 I wanted to run my English blog and Korean blog in one place\n\n\n\n  \n  \n  Why I Chose Ghost\n\n\nThe requirements I wanted were as follows.\n\n\nIt had to have a CMS. GitHub Pages was far too cumbersome for writing and editing",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ps7ci9fnmgtdjyh43ni.png",
-      "published": "Sat, 26 Sep 2026 14:51:34 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Built a Local-AI Character Forge and a Browser Game Engine on a $100/y VPS (No GPU, No Excuses)",
-      "link": "https://dev.to/plastikelectrik/i-built-a-local-ai-character-forge-and-a-browser-game-engine-on-a-100y-vps-no-gpu-no-excuses-1oj7",
-      "summary": "There's a special kind of stubbornness that leads someone to say \"I will generate photorealistic 3D humans, dress them with AI-designed clothing, give them personalities via an LLM, and drop them into a playable FPS/RPG ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd8uaovbtrfwzyq1zxle2.png",
-      "published": "Sat, 26 Sep 2026 14:48:40 +0000",
+      "title": "Understanding IPTV Streaming Protocols in 2026: HLS vs MPEG-TS & Hardware Acceleration",
+      "link": "https://dev.to/uranua_oussama_4fd52575a9/understanding-iptv-streaming-protocols-in-2026-hls-vs-mpeg-ts-hardware-acceleration-1cik",
+      "summary": "Understanding IPTV Streaming Protocols in 2026: HLS vs MPEG-TS &amp; Hardware Acceleration\n\n\nWhen analyzing video streaming architecture, live Internet Protocol Television (IPTV) presents unique engineering challenges co",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 19:39:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
