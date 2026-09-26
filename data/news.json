@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-26T02:07:48.045747Z",
+  "updated": "2026-09-26T10:21:10.150988Z",
   "articles": [
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg",
+      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg",
+      "published": "Sat, 26 Sep 2026 14:19:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks r",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg",
+      "published": "Sat, 26 Sep 2026 13:18:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
@@ -16,33 +43,6 @@
       "summary": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain.\n\nThe latest artifacts, per Jamf Threat Labs, continue to r",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg",
       "published": "Fri, 25 Sep 2026 18:48:06 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg",
-      "published": "Fri, 25 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&nbsp;\n\n\"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthor",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg",
-      "published": "Fri, 25 Sep 2026 16:05:55 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-auth",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg",
-      "published": "Fri, 25 Sep 2026 15:44:02 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 11\n# Comments: 0",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705\nComments URL: https://news.ycombinator.com/item?id=49854875\nPoints: 24\n# Comments: 11",
       "image": "",
-      "published": "Sat, 26 Sep 2026 01:36:50 +0000",
+      "published": "Sat, 26 Sep 2026 09:41:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\nComments URL: https://news.ycombinator.com/item?id=49852065\nPoints: 26\n# Commen",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story\nComments URL: https://news.ycombinator.com/item?id=49854693\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sat, 26 Sep 2026 00:59:02 +0000",
+      "published": "Sat, 26 Sep 2026 09:13:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: A game about fake news and memes",
-      "link": "https://unspin.app/",
-      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news.I would appreciate your honest feedback since I'm serious about making it way better.\n\nComments URL: https://news.ycombinator.com/ite",
+      "title": "Floci: Locally emulating any cloud service",
+      "link": "https://floci.io",
+      "summary": "Article URL: https://floci.io\nComments URL: https://news.ycombinator.com/item?id=49854416\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sat, 26 Sep 2026 00:11:33 +0000",
+      "published": "Sat, 26 Sep 2026 08:31:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\nComments URL: https://news.ycombinator.com/item?id=49850781\nPoints: 7\n# Comments: 0",
+      "title": "Is your Postgres migration safe or not safe?",
+      "link": "https://safenotsafe.dev/",
+      "summary": "Article URL: https://safenotsafe.dev/\nComments URL: https://news.ycombinator.com/item?id=49854161\nPoints: 24\n# Comments: 8",
       "image": "",
-      "published": "Fri, 25 Sep 2026 22:28:02 +0000",
+      "published": "Sat, 26 Sep 2026 07:33:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What even is an OS now?",
-      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 84\n# Comments: 123",
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol\nComments URL: https://news.ycombinator.com/item?id=49853918\nPoints: 25\n# Comments: 19",
       "image": "",
-      "published": "Fri, 25 Sep 2026 21:36:56 +0000",
+      "published": "Sat, 26 Sep 2026 06:51:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Property PDF Image Conversion — Debug Times Through Page Resolution Budgets",
-      "link": "https://dev.to/donovanpierce4012/property-pdf-image-conversion-debug-times-through-page-resolution-budgets-1mge",
-      "summary": "Short answer: treat a PDF-to-image timeout as a workload-budget failure before treating it as a broken file. Read page geometry first, compute total output pixels at the requested resolution, and admit only the pages tha",
+      "title": "A 5-minute SEO checklist for your homepage",
+      "link": "https://dev.to/nadeemakram035/a-5-minute-seo-checklist-for-your-homepage-2eeo",
+      "summary": "A 5-minute SEO checklist for your homepage\n\n\nYour homepage is usually the page with the most links pointing at it, so it is the one search engines and social networks look at first. You don't need an audit tool with a mo",
       "image": "",
-      "published": "Sat, 26 Sep 2026 01:57:26 +0000",
+      "published": "Sat, 26 Sep 2026 10:16:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I got tired of rebuilding my homelab Kubernetes cluster, so I automated the whole thing",
-      "link": "https://dev.to/forgehomelab/i-got-tired-of-rebuilding-my-homelab-kubernetes-cluster-so-i-automated-the-whole-thing-5ap0",
-      "summary": "Every time my homelab Kubernetes cluster broke, I had to redo everything by hand: create VMs, set up HAProxy, init kubeadm, install Calico, copy join tokens around, join control-plane nodes, join workers...\n\nAfter the th",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx19ww2b5hmch0hkimajr.png",
-      "published": "Sat, 26 Sep 2026 01:56:14 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I wanted Spring Boot's ergonomics without leaving Go",
-      "link": "https://dev.to/danushka96/i-wanted-spring-boots-ergonomics-without-leaving-go-308c",
-      "summary": "Every Gin service I started ended up with the same dozen lines in each handler. Bind the body, check the error, write a 400 in whatever error shape this service uses, call the store, check for the one error that deserves",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tldniy2t7ny7tgclrf5.png",
-      "published": "Sat, 26 Sep 2026 01:49:24 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Agentic IDE: GitHub Copilot App vs Jetbrains Air",
-      "link": "https://dev.to/tdpero0516/agentic-ide-github-copilot-app-vs-jetbrains-air-4280",
-      "summary": "As a Java Developer, I spent many years solely using IntelliJ for development. I found it intuitive and it always seemed to have a plugin for every need I could come up with. With the age of AI upon us, I began my journe",
+      "title": "Sticky Routing That Never Expires Isn't Sticky It's Permanent",
+      "link": "https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd",
+      "summary": "Session affinity is a simple idea: route a client to the same backend node it used\nlast time, so state that lives on that node (a cache, a connection, an in-memory\nsession) doesn't have to move. Assign once, store the as",
       "image": "",
-      "published": "Sat, 26 Sep 2026 01:49:11 +0000",
+      "published": "Sat, 26 Sep 2026 10:04:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a tiny CLI to see how my coding agent actually worked",
-      "link": "https://dev.to/jay_stride/i-built-a-tiny-cli-to-see-how-my-coding-agent-actually-worked-5co8",
-      "summary": "Agent Pigeon reads local Claude Code and Codex session history after a run and turns it into a short Flight report. I built it because a final answer rarely shows the path that led there: the edits, checks, and retries i",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5t7qehkgwsozleuonq4c.gif",
-      "published": "Sat, 26 Sep 2026 01:44:11 +0000",
+      "title": "Shopify to GA4 without GTM: native events plus a server-side Measurement Protocol fallback",
+      "link": "https://dev.to/stack_architect/shopify-to-ga4-without-gtm-native-events-plus-a-server-side-measurement-protocol-fallback-2g25",
+      "summary": "If you run a Shopify store, the GA4 setup question usually gets answered with \"install Google Tag Manager.\" You don't need it. Shopify's Google &amp; YouTube sales channel emits the whole GA4 ecommerce event set natively",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 10:02:43 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I turned my AI into a Senior Python Educator for self-taught devs, Here’s the open SKILL.md template",
+      "link": "https://dev.to/henderson01/i-turned-my-ai-into-a-senior-python-educator-for-self-taught-devs-heres-the-open-skillmd-template-1d20",
+      "summary": "Boot camps cost £5,000+. College CS degrees cost even more. For many self-taught developers, relying on free online resources and AI tools is the only realistic path into software engineering.\n\nHowever, default AI models",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 10:02:39 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Understanding Subqueries and CTE's",
+      "link": "https://dev.to/gideon_kiprono_bfdedde010/understanding-subqueries-and-ctes-120m",
+      "summary": "Introduction\n\n\nImagine you are a data analyst working for a retail company. Your manager asks you to identify customers who spend more than the average customer, employees earning above their department's average salary,",
+      "image": "",
+      "published": "Sat, 26 Sep 2026 10:02:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
