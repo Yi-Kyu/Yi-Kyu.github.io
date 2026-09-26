@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:47:08.287076Z",
+  "updated": "2026-09-26T02:07:48.045747Z",
   "articles": [
     {
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent ",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 17:41:07 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unaut",
+      "image": "",
+      "published": "Fri, 25 Sep 2026 16:57:55 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
       "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
@@ -74,21 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in ",
       "image": "",
-      "published": "Fri, 25 Sep 2026 10:54:33 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 10:51:10 -0400",
-      "source": "BleepingComputer",
+      "published": "Fri, 25 Sep 2026 21:44:40 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,101 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily pa",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Fri, 14 Aug 2026 11:24:35 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Rising sea destroys homes, erases beaches in California",
-      "link": "https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/",
-      "summary": "Article URL: https://www.reuters.com/business/environment/rising-sea-destroys-homes-erases-beaches-california-is-worse-come-2026-09-25/\nComments URL: https://news.ycombinator.com/item?id=49849312\nPoints: 8\n# Comments: 0",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 20:13:23 +0000",
+      "published": "Sat, 26 Sep 2026 01:36:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Bug: Border radius has infected VSCode editor",
-      "link": "https://github.com/microsoft/vscode/issues/338035",
-      "summary": "Article URL: https://github.com/microsoft/vscode/issues/338035\nComments URL: https://news.ycombinator.com/item?id=49848838\nPoints: 22\n# Comments: 9",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\nComments URL: https://news.ycombinator.com/item?id=49852065\nPoints: 26\n# Commen",
       "image": "",
-      "published": "Fri, 25 Sep 2026 19:27:37 +0000",
+      "published": "Sat, 26 Sep 2026 00:59:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
-      "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
-      "summary": "Article URL: https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding\nComments URL: https://news.ycombinator.com/item?id=49848819\nPoints: 30\n# Comments: 8",
+      "title": "Show HN: A game about fake news and memes",
+      "link": "https://unspin.app/",
+      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news.I would appreciate your honest feedback since I'm serious about making it way better.\n\nComments URL: https://news.ycombinator.com/ite",
       "image": "",
-      "published": "Fri, 25 Sep 2026 19:26:10 +0000",
+      "published": "Sat, 26 Sep 2026 00:11:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-      "summary": "Article URL: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html\nComments URL: https://news.ycombinator.com/item?id=49848680\nPoints: 28\n# Comments: 7",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\nComments URL: https://news.ycombinator.com/item?id=49850781\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Fri, 25 Sep 2026 19:12:45 +0000",
+      "published": "Fri, 25 Sep 2026 22:28:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "summary": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607:Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, live online during Kristen Nygaard'",
+      "title": "What even is an OS now?",
+      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\nComments URL: https://news.ycombinator.com/item?id=49850305\nPoints: 84\n# Comments: 123",
       "image": "",
-      "published": "Fri, 25 Sep 2026 18:37:05 +0000",
+      "published": "Fri, 25 Sep 2026 21:36:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "# Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products",
-      "link": "https://dev.to/dakgony2022arch/-building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-41l1",
-      "summary": "Introduction\n\n\nE-commerce platforms generate huge volumes of product-level data every day  prices, discounts, reviews, and ratings , but raw data on its own doesn't tell a story. It has to be cleaned, structured, and vis",
+      "title": "Property PDF Image Conversion — Debug Times Through Page Resolution Budgets",
+      "link": "https://dev.to/donovanpierce4012/property-pdf-image-conversion-debug-times-through-page-resolution-budgets-1mge",
+      "summary": "Short answer: treat a PDF-to-image timeout as a workload-budget failure before treating it as a broken file. Read page geometry first, compute total output pixels at the requested resolution, and admit only the pages tha",
       "image": "",
-      "published": "Fri, 25 Sep 2026 20:40:21 +0000",
+      "published": "Sat, 26 Sep 2026 01:57:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GRPO practical guide",
-      "link": "https://dev.to/sagnik_bose_e58f142666a4b/grpo-practical-guide-50cc",
-      "summary": "In this article, we will learn about GRPO. We will understand the basics of its theory, and we will also learn how to implement GRPO practically.\nTo understand GRPO clearly, you should have some prerequisites, like knowl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc11r1y0p8krz9q1673qe.png",
-      "published": "Fri, 25 Sep 2026 20:39:15 +0000",
+      "title": "I got tired of rebuilding my homelab Kubernetes cluster, so I automated the whole thing",
+      "link": "https://dev.to/forgehomelab/i-got-tired-of-rebuilding-my-homelab-kubernetes-cluster-so-i-automated-the-whole-thing-5ap0",
+      "summary": "Every time my homelab Kubernetes cluster broke, I had to redo everything by hand: create VMs, set up HAProxy, init kubeadm, install Calico, copy join tokens around, join control-plane nodes, join workers...\n\nAfter the th",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx19ww2b5hmch0hkimajr.png",
+      "published": "Sat, 26 Sep 2026 01:56:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I removed polling from a Linux laptop power manager",
-      "link": "https://dev.to/tpluharik/how-i-removed-polling-from-a-linux-laptop-power-manager-53d6",
-      "summary": "Power-management software has an awkward requirement: it should not become part of the power problem.\n\nI built PowerSifu, an MIT-licensed GTK tray application for Ubuntu and Debian laptops. It switches power-profiles-dae",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 20:35:35 +0000",
+      "title": "I wanted Spring Boot's ergonomics without leaving Go",
+      "link": "https://dev.to/danushka96/i-wanted-spring-boots-ergonomics-without-leaving-go-308c",
+      "summary": "Every Gin service I started ended up with the same dozen lines in each handler. Bind the body, check the error, write a 400 in whatever error shape this service uses, call the store, check for the one error that deserves",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0tldniy2t7ny7tgclrf5.png",
+      "published": "Sat, 26 Sep 2026 01:49:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I put one wrong test in the file. Most models sided with the test.",
-      "link": "https://dev.to/anaalkmim/i-put-one-wrong-test-in-the-file-most-models-sided-with-the-test-410k",
-      "summary": "This is a submission for the Kaggle Benchmarking Challenge\n\n\n  \n  \n  What I Benchmarked\n\n\nMy day job is evaluating models: writing scorers, building reference solutions, and trying to make sure a model can't pass a task ",
+      "title": "Agentic IDE: GitHub Copilot App vs Jetbrains Air",
+      "link": "https://dev.to/tdpero0516/agentic-ide-github-copilot-app-vs-jetbrains-air-4280",
+      "summary": "As a Java Developer, I spent many years solely using IntelliJ for development. I found it intuitive and it always seemed to have a plugin for every need I could come up with. With the age of AI upon us, I began my journe",
       "image": "",
-      "published": "Fri, 25 Sep 2026 20:35:02 +0000",
+      "published": "Sat, 26 Sep 2026 01:49:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Crawlers burned my free Postgres hours in 22 days. A D1 response cache fixed it.",
-      "link": "https://dev.to/matrix_agent_07870e7df46b/crawlers-burned-my-free-postgres-hours-in-22-days-a-d1-response-cache-fixed-it-3b8i",
-      "summary": "I run MatrixAgentNet, a small social network where the users are AI agents. This is a write-up of an outage from this week and the zero-cost fix. I'm the operator, so read it with that in mind.\n\n\n  \n  \n  What broke\n\n\nOn ",
-      "image": "",
-      "published": "Fri, 25 Sep 2026 20:32:50 +0000",
+      "title": "I built a tiny CLI to see how my coding agent actually worked",
+      "link": "https://dev.to/jay_stride/i-built-a-tiny-cli-to-see-how-my-coding-agent-actually-worked-5co8",
+      "summary": "Agent Pigeon reads local Claude Code and Codex session history after a run and turns it into a short Flight report. I built it because a final answer rarely shows the path that led there: the edits, checks, and retries i",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5t7qehkgwsozleuonq4c.gif",
+      "published": "Sat, 26 Sep 2026 01:44:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
