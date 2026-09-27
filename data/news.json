@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T10:53:04.989395Z",
+  "updated": "2026-09-27T15:51:14.346142Z",
   "articles": [
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "image": "",
+      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation",
@@ -70,24 +88,6 @@
       "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
       "image": "",
       "published": "Sat, 26 Sep 2026 11:50:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 10:19:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 08:28:41 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "link": "https://arxiv.org/abs/2609.25021",
-      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 3\n# Comments: 0",
+      "title": "postmarketOS Rebrand: Nura",
+      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "summary": "Article URL: https://nura.eco/blog/2026/09/27/nura-rename/\nComments URL: https://news.ycombinator.com/item?id=49867553\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Sun, 27 Sep 2026 10:26:25 +0000",
+      "published": "Sun, 27 Sep 2026 15:31:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: LightCloud – A cloud console organised like file system",
-      "link": "https://www.light-cloud.com/",
-      "summary": "Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.\n\nComments URL: https://news.ycombi",
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\nComments URL: https://news.ycombinator.com/item?id=49867486\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 27 Sep 2026 09:45:15 +0000",
+      "published": "Sun, 27 Sep 2026 15:26:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "summary": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/\nComments URL: https://news.ycombinator.com/item?id=49864642\nPoints: 166\n# Comments: 85",
+      "title": "\"They had no concept of a duty of care to their users.\"",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/\nComments URL: https://news.ycombinator.com/item?id=49867067\nPoints: 104\n# Comments: 65",
       "image": "",
-      "published": "Sun, 27 Sep 2026 08:44:04 +0000",
+      "published": "Sun, 27 Sep 2026 14:45:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\nComments URL: https://news.ycombinator.com/item?id=49863864\nPoints: 217\n# Comments: 185",
+      "title": "10 Tells of a Slop UI",
+      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop\nComments URL: https://news.ycombinator.com/item?id=49867038\nPoints: 132\n# Comments: 96",
       "image": "",
-      "published": "Sun, 27 Sep 2026 06:19:33 +0000",
+      "published": "Sun, 27 Sep 2026 14:41:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The internet discovers TLA+. Now what?",
-      "link": "https://reasonable.io/blog/tla-tutorial/",
-      "summary": "Article URL: https://reasonable.io/blog/tla-tutorial/\nComments URL: https://news.ycombinator.com/item?id=49863600\nPoints: 16\n# Comments: 7",
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 45\n# Comments: 14",
       "image": "",
-      "published": "Sun, 27 Sep 2026 05:26:15 +0000",
+      "published": "Sun, 27 Sep 2026 14:30:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sending SMS to Israel: number formats, Hebrew encoding and sender IDs",
-      "link": "https://dev.to/globalsms/sending-sms-to-israel-number-formats-hebrew-encoding-and-sender-ids-1m5a",
-      "summary": "If your app sends SMS worldwide, Israel has a few quirks that silently break validation, inflate costs or annoy users. This is a short checklist. The full guide is linked at the end.\n\n\n  \n  \n  1. Number format\n\n\nIsraeli ",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 10:42:56 +0000",
+      "title": "GPT-6 Astra shipped; OpenAI's chief scientist now asks for a slowdown",
+      "link": "https://dev.to/axrisi/gpt-6-astra-shipped-openais-chief-scientist-now-asks-for-a-slowdown-2fjm",
+      "summary": "Three days after OpenAI shipped GPT-6 Astra, which it calls \"the world's most intelligent and aligned model\", its chief scientist Jakub Pachocki published an essay, An Alien Mind, saying no lab can keep scaling at maximu",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2tp3s8joetu6touv6ld0.jpg",
+      "published": "Sun, 27 Sep 2026 15:48:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I asked my AI agent for a private LLM client/server. It built one out of MQTT and 1,000 lines",
-      "link": "https://dev.to/gtanyware/i-asked-my-ai-agent-for-a-private-llm-clientserver-it-built-one-out-of-mqtt-and-1000-lines-34gg",
-      "summary": "I have a PC in my home office with an Nvidia GPU and Ollama on it, and I wanted to ask it questions from my phone while I am out. Every guide I found said roughly the same thing: run something in Docker, put a reverse pr",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw481ddm3kujeozu8pq8l.png",
-      "published": "Sun, 27 Sep 2026 10:41:23 +0000",
+      "title": "Chrome cookies: why google.com survives 'delete on close', again",
+      "link": "https://dev.to/axrisi/chrome-cookies-why-googlecom-survives-delete-on-close-again-2io4",
+      "summary": "If you set Chrome to delete site data when you close all windows, Chrome 152 still keeps google.com's cookies, local storage and session storage. Jeff Johnson, the Mac developer behind Lapcat Software, reproduced it on t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fct370kh6uzj1bnc5yhhn.jpg",
+      "published": "Sun, 27 Sep 2026 15:47:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Test Email Verification Flows with Playwright",
-      "link": "https://dev.to/alaeddine_rihane_8dec187a/how-to-test-email-verification-flows-with-playwright-4b7b",
-      "summary": "Your Playwright Test Sent an Email. Now What?\n\n\nYou've automated the signup form.\n\n\n\nawait page.goto('/signup');\n\nawait page.getByLabel('Email').fill('test@example.com');\nawait page.getByRole('button', { name: 'Sign up' ",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 10:40:49 +0000",
+      "title": "Lean 4 proof of Fermat's Last Theorem: how Claude did it in 11 days",
+      "link": "https://dev.to/axrisi/lean-4-proof-of-fermats-last-theorem-how-claude-did-it-in-11-days-1ig2",
+      "summary": "On September 4, 2026, Anthropic published a complete Lean 4 proof of Fermat's Last Theorem: 13 million lines, written largely by Claude agents in 11 days, and checked by a machine rather than by referees. The mathematici",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fstmnubqk8kgrbqzit16o.jpg",
+      "published": "Sun, 27 Sep 2026 15:47:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Convolvger 0.5.0: archive your AI conversations locally — ChatGPT, Claude, Gemini, and now Grok",
-      "link": "https://dev.to/bilalmughal1/convolvger-050-archive-your-ai-conversations-locally-chatgpt-claude-gemini-and-now-grok-3o81",
-      "summary": "Every AI provider lets you share a conversation with a link. None of them lets you keep it. Share links rot, pages get redesigned, providers quietly change what a URL serves. Convolvger is a small CLI that takes a public",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 10:40:35 +0000",
+      "title": "ICANN and Verisign: why 22,000 .name domains will be deleted",
+      "link": "https://dev.to/axrisi/icann-and-verisign-why-22000-name-domains-will-be-deleted-od6",
+      "summary": "ICANN has approved a request from Verisign to delete every third-level .name domain, addresses like john.doe.name, about 22,000 of them, including registrations paid for until 2040. Many registrants learned about it on S",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fqw1ir06jztn4b4w5cgq0.png",
+      "published": "Sun, 27 Sep 2026 15:46:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The First Bugs My Reconciliation Tool Caught Were Its Own",
-      "link": "https://dev.to/am0muk_3e9691aa890035463c/the-first-bugs-my-reconciliation-tool-caught-were-its-own-4890",
-      "summary": "I wrote a small open-source tool, onchain-tieout, to answer one question: does the balance you reconstruct from a wallet's transaction history match the balance the chain actually reports, at the same block?\n\nThat check ",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 10:35:32 +0000",
+      "title": "Gemini 3.8 Flash and Flash Cyber vs Muse Spark 1.3: what they cost",
+      "link": "https://dev.to/axrisi/gemini-38-flash-and-flash-cyber-vs-muse-spark-13-what-they-cost-3ilj",
+      "summary": "Gemini 3.8 Flash shipped on September 2, 2026, Google's third Flash model in six weeks, together with Gemini 3.8 Flash Cyber, a version tuned to find and patch vulnerabilities that you cannot buy. Four hours later Meta s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fypevaijkefvk3qx0qr9y.jpg",
+      "published": "Sun, 27 Sep 2026 15:46:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
