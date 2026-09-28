@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T02:05:12.054104Z",
+  "updated": "2026-09-28T12:04:46.861905Z",
   "articles": [
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals.\n\nMicrosoft, which is tracking the activity under the nam",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg",
+      "published": "Mon, 28 Sep 2026 14:38:21 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active explo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg",
+      "published": "Mon, 28 Sep 2026 12:51:49 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg",
-      "published": "Sat, 26 Sep 2026 16:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "image": "",
+      "published": "Mon, 28 Sep 2026 05:25:29 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg",
-      "published": "Sat, 26 Sep 2026 15:25:22 +0530",
-      "source": "The Hacker News",
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "image": "",
+      "published": "Mon, 28 Sep 2026 03:30:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "image": "",
+      "published": "Mon, 28 Sep 2026 02:24:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the fl",
       "image": "",
       "published": "Sun, 27 Sep 2026 12:02:37 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 10:13:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-      "image": "",
-      "published": "Sun, 27 Sep 2026 09:38:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation",
-      "image": "",
-      "published": "Sat, 26 Sep 2026 15:03:34 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Self-parking car using genetic algorithm (2021)",
-      "link": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "summary": "Article URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/\nComments URL: https://news.ycombinator.com/item?id=49872472\nPoints: 10\n# Comments: 2",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "link": "https://git.mills.io/prologic/parley",
+      "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 57\n# Comments: 16",
       "image": "",
-      "published": "Mon, 28 Sep 2026 01:21:32 +0000",
+      "published": "Mon, 28 Sep 2026 10:30:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Every Household in This Rural Town Receives $10k If a Data Center Gets Built",
-      "link": "https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7",
-      "summary": "Article URL: https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7\nComments URL: https://news.ycombinator.com/item?id=49872365\nPoints: 8\n# Comments: 2",
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live\nComments URL: https://news.ycombinator.com/item?id=498754",
       "image": "",
-      "published": "Mon, 28 Sep 2026 01:00:45 +0000",
+      "published": "Mon, 28 Sep 2026 09:15:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lunar Terminator Paradox",
-      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 43\n# Comments: 28",
+      "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
+      "link": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
+      "summary": "Article URL: https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/\nComments URL: https://news.ycombinator.com/item?id=49875401\nPoints: 9\n# Comments: 6",
       "image": "",
-      "published": "Sun, 27 Sep 2026 21:06:17 +0000",
+      "published": "Mon, 28 Sep 2026 09:13:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My Recent Woodworking Projects",
-      "link": "https://notoriousbfg.com/recent-woodworking-projects/",
-      "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/\nComments URL: https://news.ycombinator.com/item?id=49870541\nPoints: 29\n# Comments: 13",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/\nComments URL: https://news.ycombinator.com/item?id=49875148",
       "image": "",
-      "published": "Sun, 27 Sep 2026 20:33:55 +0000",
+      "published": "Mon, 28 Sep 2026 08:35:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "When did Google get so weird?",
-      "link": "https://sancho.bearblog.dev/google-weird/",
-      "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 778\n# Comments: 417",
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "link": "https://www.habibicode.org/thedrawnworld",
+      "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 24\n# Comments: 8",
       "image": "",
-      "published": "Sun, 27 Sep 2026 20:12:54 +0000",
+      "published": "Mon, 28 Sep 2026 08:35:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What Makes a Coding Agent Trustworthy? A Look at SolonCode's Design Choices",
-      "link": "https://dev.to/solonjava/what-makes-a-coding-agent-trustworthy-a-look-at-soloncodes-design-choices-4pek",
-      "summary": "Every week there's a new coding agent, and every week someone asks the same question in a slightly different tone: can I actually trust this thing with my codebase?\n\nIt's a fair question. A coding agent reads your source",
+      "title": "5 Essential HTML Semantic Tags Every Beginner Developer Should Use as",
+      "link": "https://dev.to/greatness_10xxx7/5-essential-html-semantic-tags-every-beginner-developer-should-use-as-2o93",
+      "summary": "When learning HTML, it is very easy to fall into the habit of using generic  elements for every single section of a webpage. While a  works, relying on it for everything creates unstructured code that is difficult to rea",
       "image": "",
-      "published": "Mon, 28 Sep 2026 01:58:44 +0000",
+      "published": "Mon, 28 Sep 2026 11:56:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build an MCP Client for AI Agents: Config, Auth, Transport",
-      "link": "https://dev.to/smartgate/build-an-mcp-client-for-ai-agents-config-auth-transport-2ia4",
-      "summary": "Short answer: building an MCP-compatible client for AI agents is 20% protocol and 80%\nedge-case handling. Each client (Cursor, Claude Desktop, Windsurf, OpenClaw, Hermes) wants\na slightly different JSON shape for the sam",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 01:49:10 +0000",
+      "title": "SkillHub v0.2.21, Run for Real: Suite Bundles, Device Flow Login and Pi",
+      "link": "https://dev.to/fenju_fu/skillhub-v0221-run-for-real-suite-bundles-device-flow-login-and-pi-44la",
+      "summary": "SkillHub v0.2.21 shipped on 2026-09-19. Instead of summarizing the release notes, we pulled the tag, started it locally with the official compose.release.yml, and recorded each headline update as it actually runs. Every ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgc4l55ga6cr2sq9zs5it.png",
+      "published": "Mon, 28 Sep 2026 11:54:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "2 GB de RAM y nada de laptop: cómo se ve de verdad desarrollar en iPad en 2026",
-      "link": "https://dev.to/aws-builders/2-gb-de-ram-y-nada-de-laptop-como-se-ve-de-verdad-desarrollar-en-ipad-en-2026-2bbi",
-      "summary": "Un iPad no puede correr un contenedor. Eso no ha cambiado. Lo que cambió para 2026 es que dejó de importar tanto, porque las partes que necesitan una máquina de verdad se movieron a una caja que tú tienes y el iPad se vo",
+      "title": "Automating SEO with AI: a self-improving content loop",
+      "link": "https://dev.to/seppegadeyne/automating-seo-with-ai-a-self-improving-content-loop-2aka",
+      "summary": "Everyone agrees you should \"let AI do your SEO.\" Few people explain what that looks like when you actually build it. This is the setup I run on my own site: an AI agent with read-only access to Google Search Console, a d",
       "image": "",
-      "published": "Mon, 28 Sep 2026 01:41:24 +0000",
+      "published": "Mon, 28 Sep 2026 11:52:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Chris Manning: Language Is the Real Unlock for Intelligence | Chris Manning播客——语言才是解锁智能的关键",
-      "link": "https://dev.to/cognitalk/chris-manning-language-is-the-real-unlock-for-intelligence-4fa4",
-      "summary": "https://www.youtube.com/watch?v=ZAcL5x-DhlE\n\n\n  \n  \n  Chris Manning播客——语言才是解锁智能的关键\n\n\n这是斯坦福NLP大牛Chris Manning的播客访谈，聊大模型、语言学、AI怎么学习、不同AI架构之争，我用大白话把核心内容讲明白。\n\n\n  \n  \n  1、开篇：做AI大模型，语言学到底有没有用？\n\n\n现在做大模型的人，很多是搞物理、数学出身，感觉好像不需要懂语言",
+      "title": "Streamlining Incident Response: Introducing Runbook Recall",
+      "link": "https://dev.to/nicky63/streamlining-incident-response-introducing-runbook-recall-133p",
+      "summary": "When a critical production system fails at 2 AM, every minute of downtime costs money, damages trust, and burns out engineering teams. Yet, during high-stress outages, site reliability engineers (SREs) and developers fre",
       "image": "",
-      "published": "Mon, 28 Sep 2026 01:39:33 +0000",
+      "published": "Mon, 28 Sep 2026 11:51:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Parse Resume PDFs Extract Text and Structure Model Ready Fields",
-      "link": "https://dev.to/tatefletcher6754/how-to-parse-resume-pdfs-extract-text-and-structure-model-ready-fields-95m",
-      "summary": "Short answer: extract positioned text with a real PDF parser, normalize it without destroying evidence, ask a model for typed candidate fields, and render the shareable document from a template your SaaS team owns. Keep ",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 01:35:34 +0000",
+      "title": "The Real Reason AI Ignores Existing Decisions — Designing an ADR Context Auto-Injection Hook",
+      "link": "https://dev.to/uehara/the-real-reason-ai-ignores-existing-decisions-designing-an-adr-context-auto-injection-hook-34e2",
+      "summary": "TL;DR (about a 15-minute read)\n\n\nIn May 2026, I was reworking a Claude Code plugin that delivers a shared way of working to several development projects. One of its targets was a mechanism for carrying past design decisi",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdvt6y3r01gvurf3ej2b9.png",
+      "published": "Mon, 28 Sep 2026 11:51:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
