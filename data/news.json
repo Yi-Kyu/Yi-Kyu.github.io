@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-29T11:38:10.482094Z",
+  "updated": "2026-09-29T17:04:35.827286Z",
   "articles": [
+    {
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdow",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg",
+      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg",
+      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
       "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its interne",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg",
-      "published": "Tue, 29 Sep 2026 10:15:20 +0530",
-      "source": "The Hacker News",
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 11:39:19 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-2026-86950, refers t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg",
-      "published": "Tue, 29 Sep 2026 00:48:01 +0530",
-      "source": "The Hacker News",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate s",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 07:41:53 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
       "image": "",
       "published": "Tue, 29 Sep 2026 03:33:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 16:56:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 16:31:16 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 15:49:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "New Cyber-OSINT model released",
-      "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
-      "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 14\n# Comments: 3",
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising\nComments URL: https://news.ycombinator.com/item?id=49896050\nPoints: 25\n# Comments: 8",
       "image": "",
-      "published": "Tue, 29 Sep 2026 10:23:33 +0000",
+      "published": "Tue, 29 Sep 2026 16:30:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news.ycombinator.com/item?id=49890226\nPoints: 121\n# Comments: 29",
+      "title": "Show HN: NSL – WSL for Linux",
+      "link": "https://frostyard.github.io/nsl/",
+      "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithfu",
       "image": "",
-      "published": "Tue, 29 Sep 2026 09:03:41 +0000",
+      "published": "Tue, 29 Sep 2026 14:51:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Using any C++ library in Godot",
-      "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?id=49890051\nPoints: 58\n# Comments: 21",
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 278\n# Comments: 198",
       "image": "",
-      "published": "Tue, 29 Sep 2026 08:40:37 +0000",
+      "published": "Tue, 29 Sep 2026 14:32:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-      "link": "https://www.startup-nights.ch/event/",
-      "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 12\n# Comments: 3",
+      "title": "Google ending ChromeOS support two years early",
+      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674\nComments URL: https://news.ycombinator.com/item?id=49893653\nPoints: 94\n# Comments: 66",
       "image": "",
-      "published": "Tue, 29 Sep 2026 07:49:12 +0000",
+      "published": "Tue, 29 Sep 2026 14:12:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tank Body Problem",
-      "link": "http://www.jimsitu.com",
-      "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 122\n# Comments: 27",
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 286\n# Comments: 163",
       "image": "",
-      "published": "Tue, 29 Sep 2026 00:41:45 +0000",
+      "published": "Tue, 29 Sep 2026 12:43:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Cronflower: Turn a Spring Boot app into a distributed cron cluster",
-      "link": "https://dev.to/paganini2008/cronflower-turn-a-spring-boot-app-into-a-distributed-cron-cluster-5bep",
-      "summary": "Cronflower: Turn a Spring Boot app into a distributed cron cluster\n\n\n@Scheduled is fine until it isn't. It runs in one JVM, so the moment you scale to two instances the\njob fires twice. It has no retry, no timeout, no re",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsd1ssz1yat00mngwom2x.jpg",
-      "published": "Tue, 29 Sep 2026 11:32:26 +0000",
+      "title": "Hindsight Made a Repeated Stripe Timeout Easier to Investigate",
+      "link": "https://dev.to/sriven_madas/hindsight-made-a-repeated-stripe-timeout-easier-to-investigate-2587",
+      "summary": "Hindsight Made a Repeated Stripe Timeout Easier to Investigate\n\n\nThe second Stripe timeout should not have to start from zero.\n\nStore B's payment is stuck in an uncertain state, and the incident fields tell us the proces",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 17:02:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Benchmarking Real Work - Case 01: How I Built a Voice Agent Benchmark from Real Customer Failures",
-      "link": "https://dev.to/yaoshen_luo_9d969ebd998fc/benchmarking-real-work-case-01-how-i-built-a-voice-agent-benchmark-from-real-customer-failures-12p",
-      "summary": "Customer complaints are not the problem definition; they are the signal.\n\n\nThis post captures a real-world case of agent benchmarking: how I built v1 of our benchmark from real customer failure logs—without prior domain ",
+      "title": "Your Staging Environment Is Lying to You",
+      "link": "https://dev.to/techstrategy/your-staging-environment-is-lying-to-you-147p",
+      "summary": "Picture a Thursday night. The release went out after a clean CI run, everyone's closing their laptops, and then the alerts start. Checkout is failing. Staging looked perfect. Somebody types the classic line into the inci",
       "image": "",
-      "published": "Tue, 29 Sep 2026 11:31:45 +0000",
+      "published": "Tue, 29 Sep 2026 17:02:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I ship 118 dev tools as a single static export: here's the setup",
-      "link": "https://dev.to/bob_kim_marley/i-ship-118-dev-tools-as-a-single-static-export-heres-the-setup-a2i",
-      "summary": "I run devpick.sh, a collection of 118 small developer tools (JSON formatter, cron explainer, subnet calculator, UTM builder, that kind of thing). The whole site is one Next.js app that builds to static HTML and deploys t",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foqtp1ac8pep4q3vro9oh.gif",
-      "published": "Tue, 29 Sep 2026 11:31:10 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Cronflower: Run a DAG workflow across your cluster",
-      "link": "https://dev.to/paganini2008/cronflower-run-a-dag-workflow-across-your-cluster-59be",
-      "summary": "Cronflower: Run a DAG workflow across your cluster, instead of chaining cron jobs\n\n\nEvery team ends up here. One cron job at 02:00 charges the orders. Another at 02:15 ships them, set\nfifteen minutes later because that's",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fro0tlw9y7s7jacovwxda.jpg",
-      "published": "Tue, 29 Sep 2026 11:30:51 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Tko drži ključ?",
-      "link": "https://dev.to/omarbaruzzo/tko-drzi-kljuc-2lhb",
-      "summary": "TL;DR: odvoji hot i admin key, admin ulogu stavi iza multisiga ili KMS-a, napiši proceduru rotacije, planiraj da ljudi odlaze.\n\nSmart contract koji je prošao audit daje preciznu vrstu sigurnosti: kod radi ono što kaže. N",
+      "title": "Cómo estoy monetizando mi juego HTML5 palabraplay mientras espero aprobación de CrazyGames",
+      "link": "https://dev.to/fernando_cybersec/como-estoy-monetizando-mi-juego-html5-palabraplay-mientras-espero-aprobacion-de-crazygames-5fj6",
+      "summary": "Estoy creando juegos HTML5 y este es mi experimento: palabraplay.netlify.app\n\nLo que aprendí esta semana:\n\n\nNetlify + HTML5 funciona pero sin tráfico no hay plata (27 impresiones en 3 meses)\nCrazyGames paga por plays per",
       "image": "",
-      "published": "Tue, 29 Sep 2026 11:30:15 +0000",
+      "published": "Tue, 29 Sep 2026 17:01:33 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "VanGuard",
+      "link": "https://dev.to/vishnu_goud_8522/vanguard-co8",
+      "summary": "We built Vanguard to explore how persistent agent memory can help AI understand competitor strategies over time.\n\nA few things we learned:\n\n• Flat RAG has limitations: Top-k semantic search finds similar information, but",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzwticoaj3mwiha9c2tfq.jpeg",
+      "published": "Tue, 29 Sep 2026 17:01:28 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Guys need your shitty feedback here",
+      "link": "https://dev.to/taqui/guys-need-your-shitty-feedback-here-3b8g",
+      "summary": "My Craziest Side Project Yet: Drawva\n    \n      \n    \n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Taqui\n            \n            \n              \n ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1193992%2F356d8c9d-b375-4cd1-9cf9-32dafadd9695.png",
+      "published": "Tue, 29 Sep 2026 17:00:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
