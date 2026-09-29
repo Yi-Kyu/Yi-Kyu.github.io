@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-29T02:51:35.050773Z",
+  "updated": "2026-09-29T11:38:10.482094Z",
   "articles": [
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg",
+      "published": "Tue, 29 Sep 2026 14:05:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "summary": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advis",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg",
+      "published": "Tue, 29 Sep 2026 11:38:25 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg",
+      "published": "Tue, 29 Sep 2026 10:42:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its interne",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg",
+      "published": "Tue, 29 Sep 2026 10:15:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.\n\nThe malware has been seen in a small number of targe",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgqNtFBBtX_6em5nY1VC9Q4M6HMG7gzxiQspFHsQRfQgm3LK5kTsHi-9SbwEx8kaeVv7BtKGFq3u1SmTGFEOe0z78fxFCxRFVEb09v0FMZ5tT-FNl7sUBnsGPPpDlAaQh4E_CSQQnwFakxNll2AvKiBvidb9ljEatmOzdJV4T4z8r5lmYG3DINHy-wR0/s1600/hackers.jpg",
-      "published": "Tue, 29 Sep 2026 00:05:42 +0530",
-      "source": "The Hacker News",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 05:04:06 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "summary": "What is IAM for AI agents?\n\nAI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide c",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5iI5XAgqXDB1IvqmdWgs2QFGVb5cAbMuJgwtgpKwvRtamF2xs9Od5F4Xwv7JhH8HC0yDOUx1ErLjZaeOBSu8mkCR3ewFb3x3VTV-IFbfXwUR2Pzoqf6_JKFq9de2wf1enmkMSK8M5QU2FBGovMkMkhLzI2qV90LuQYTgdMW-ymc5zxrv_yieHXBUr4Ck/s1600/OR.jpg",
-      "published": "Mon, 28 Sep 2026 23:50:38 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.\n\nThe attacker exploited ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8s-yMULxIXnKcHnHw7w1dF9pt58MDYc_-_wfJPo8ifPgGoD0GZcgE408ZdC1GbZvjp2wOOEYrlR8obpFEXZ-KUSjIBXFFb3LcswKfAd3EODISE5hSkU-QplYeZDnK95i0QrJhNZKcKEVgedmkKjAme9PV4vDLV-OY7Bh9KhCINbGuglY49greoPLCJQ/s1600/bitget-hacker.jpg",
-      "published": "Mon, 28 Sep 2026 23:12:18 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has&nbsp;traced nearly 100 deployments&nbsp;of that console sin",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg",
-      "published": "Mon, 28 Sep 2026 23:08:33 +0530",
-      "source": "The Hacker News",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 03:33:12 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
       "image": "",
       "published": "Mon, 28 Sep 2026 15:49:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 14:50:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 11:49:27 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
-      "link": "https://bluegraph.io/",
-      "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 3\n# Comments: 0",
+      "title": "New Cyber-OSINT model released",
+      "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+      "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 14\n# Comments: 3",
       "image": "",
-      "published": "Tue, 29 Sep 2026 01:29:31 +0000",
+      "published": "Tue, 29 Sep 2026 10:23:33 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "AI companies leak data to advertisers [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news.ycombinator.com/item?id=49890226\nPoints: 121\n# Comments: 29",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 09:03:41 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Using any C++ library in Godot",
+      "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?id=49890051\nPoints: 58\n# Comments: 21",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 08:40:37 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "link": "https://www.startup-nights.ch/event/",
+      "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 12\n# Comments: 3",
+      "image": "",
+      "published": "Tue, 29 Sep 2026 07:49:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Tank Body Problem",
       "link": "http://www.jimsitu.com",
-      "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 13\n# Comments: 5",
+      "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 122\n# Comments: 27",
       "image": "",
       "published": "Tue, 29 Sep 2026 00:41:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "link": "https://lolchat.rip/",
-      "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 27\n# Comments: 15",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 00:06:48 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 37\n# Comments: 3",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 21:26:41 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "link": "https://github.com/firelex/jeff",
-      "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 307\n# Comments: 122",
-      "image": "",
-      "published": "Mon, 28 Sep 2026 20:23:36 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Method invocation is supported only on core types in this language mode: what it means and how to fix it",
-      "link": "https://dev.to/milkyway008/method-invocation-is-supported-only-on-core-types-in-this-language-mode-what-it-means-and-how-to-369j",
-      "summary": "You run one command in your agent CLI. It works. Then a wall of red shows up anyway:\n\n\n\nCannot invoke the method. Method invocation is supported only on core types in this language mode.\n    + FullyQualifiedErrorId : Met",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 02:50:39 +0000",
+      "title": "Cronflower: Turn a Spring Boot app into a distributed cron cluster",
+      "link": "https://dev.to/paganini2008/cronflower-turn-a-spring-boot-app-into-a-distributed-cron-cluster-5bep",
+      "summary": "Cronflower: Turn a Spring Boot app into a distributed cron cluster\n\n\n@Scheduled is fine until it isn't. It runs in one JVM, so the moment you scale to two instances the\njob fires twice. It has no retry, no timeout, no re",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsd1ssz1yat00mngwom2x.jpg",
+      "published": "Tue, 29 Sep 2026 11:32:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Technical SEO Still Matters for Developer-Built Websites",
-      "link": "https://dev.to/caelora/why-technical-seo-still-matters-for-developer-built-websites-5a4k",
-      "summary": "When developers build a website, the first priorities are usually performance, functionality, security, and user experience.\n\nSearch engines often come later.\n\nThat is understandable. A website can work perfectly from a ",
+      "title": "Benchmarking Real Work - Case 01: How I Built a Voice Agent Benchmark from Real Customer Failures",
+      "link": "https://dev.to/yaoshen_luo_9d969ebd998fc/benchmarking-real-work-case-01-how-i-built-a-voice-agent-benchmark-from-real-customer-failures-12p",
+      "summary": "Customer complaints are not the problem definition; they are the signal.\n\n\nThis post captures a real-world case of agent benchmarking: how I built v1 of our benchmark from real customer failure logs—without prior domain ",
       "image": "",
-      "published": "Tue, 29 Sep 2026 02:50:03 +0000",
+      "published": "Tue, 29 Sep 2026 11:31:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How I Built an AI QA Agent for API Regression and Other Testing Tasks",
-      "link": "https://dev.to/fg_qa_60741dddef91405cfc6/how-i-built-an-ai-qa-agent-for-api-regression-and-other-testing-tasks-3jkl",
-      "summary": "Write API test scenarios in natural language and let an AI agent run them with Postmate MCP. No scripts to maintain.\n\nIn short: to build a QA agent for API testing, you need four things: a skill file with business rules ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Focz5zgbqnorc33gwitxw.png",
-      "published": "Tue, 29 Sep 2026 02:46:40 +0000",
+      "title": "I ship 118 dev tools as a single static export: here's the setup",
+      "link": "https://dev.to/bob_kim_marley/i-ship-118-dev-tools-as-a-single-static-export-heres-the-setup-a2i",
+      "summary": "I run devpick.sh, a collection of 118 small developer tools (JSON formatter, cron explainer, subnet calculator, UTM builder, that kind of thing). The whole site is one Next.js app that builds to static HTML and deploys t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foqtp1ac8pep4q3vro9oh.gif",
+      "published": "Tue, 29 Sep 2026 11:31:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What I Learned About Building a Fast, Mobile-Friendly Web Tool Without a Framework",
-      "link": "https://dev.to/kaamii65/what-i-learned-about-building-a-fast-mobile-friendly-web-tool-without-a-framework-5ahb",
-      "summary": "What I Learned About Building a Fast, Mobile-Friendly Web Tool Without a Framework\n\nWhen building a small web application, it is tempting to reach for a framework immediately.\n\nReact, Vue, Next.js, and other tools are ex",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 02:46:17 +0000",
+      "title": "Cronflower: Run a DAG workflow across your cluster",
+      "link": "https://dev.to/paganini2008/cronflower-run-a-dag-workflow-across-your-cluster-59be",
+      "summary": "Cronflower: Run a DAG workflow across your cluster, instead of chaining cron jobs\n\n\nEvery team ends up here. One cron job at 02:00 charges the orders. Another at 02:15 ships them, set\nfifteen minutes later because that's",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fro0tlw9y7s7jacovwxda.jpg",
+      "published": "Tue, 29 Sep 2026 11:30:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Build Accessible Image Pipelines: Metadata Inspection for Draft Descriptions",
-      "link": "https://dev.to/yannicksterling6563/how-to-build-accessible-image-pipelines-metadata-inspection-for-draft-descriptions-5hck",
-      "summary": "Short answer: keep metadata inspection and description drafting as separate, observable stages, then gate thumbnail publication on moderation coverage rather than on whether an image happened to carry useful metadata. Th",
+      "title": "Tko drži ključ?",
+      "link": "https://dev.to/omarbaruzzo/tko-drzi-kljuc-2lhb",
+      "summary": "TL;DR: odvoji hot i admin key, admin ulogu stavi iza multisiga ili KMS-a, napiši proceduru rotacije, planiraj da ljudi odlaze.\n\nSmart contract koji je prošao audit daje preciznu vrstu sigurnosti: kod radi ono što kaže. N",
       "image": "",
-      "published": "Tue, 29 Sep 2026 02:44:49 +0000",
+      "published": "Tue, 29 Sep 2026 11:30:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
