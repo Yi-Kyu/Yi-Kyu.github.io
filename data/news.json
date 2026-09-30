@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-30T02:33:00.835272Z",
+  "updated": "2026-09-30T11:25:35.928813Z",
   "articles": [
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by M",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg",
+      "published": "Wed, 30 Sep 2026 13:54:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program,&nbsp;OpenSSL said&nbsp;on September 29 as it released fixes.\n\nDTLS, the TLS variant used for UDP traffic, res",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Po53IuyRAhsYzbs5KKPp_UBpklONBiOzoLWgXrklvrgDn5xnpjuRjU8UYoyLuImSmiPtOHQK3ExgQk5zhxlqsAcUmTLRFowkQXzan2RD955Gw-sumsvmwzLBTViUBRhyphenhyphenHCnETV23Qbt01RwaovTe1ogMeMYDSGxmF5n84NKZOB3EiWz6VAHUlfDm5YE/s1600/openssl-memory.jpg",
+      "published": "Wed, 30 Sep 2026 13:39:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg",
+      "published": "Wed, 30 Sep 2026 11:00:30 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -20,30 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, aimed at people and ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg",
-      "published": "Tue, 29 Sep 2026 22:50:08 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdow",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg",
-      "published": "Tue, 29 Sep 2026 19:43:20 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg",
-      "published": "Tue, 29 Sep 2026 19:15:10 +0530",
-      "source": "The Hacker News",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "image": "",
+      "published": "Wed, 30 Sep 2026 07:11:46 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
       "image": "",
       "published": "Tue, 29 Sep 2026 16:09:55 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-      "image": "",
-      "published": "Tue, 29 Sep 2026 14:37:12 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "How our vibe coded website looks like a designer made it",
-      "link": "https://railcode.dev/blog/vibe-coded-website",
-      "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 71\n# Comments: 42",
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence\nComments URL: https://news.ycombinator.com/item?id=49906669\nPoints: 43\n# Comments: 42",
       "image": "",
-      "published": "Tue, 29 Sep 2026 22:59:28 +0000",
+      "published": "Wed, 30 Sep 2026 09:59:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "link": "https://github.com/ninjahawk/livenerf",
-      "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 254\n# Comments: 116",
+      "title": "Pi.dev: You Said No MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 106\n# Comments: 37",
       "image": "",
-      "published": "Tue, 29 Sep 2026 22:36:14 +0000",
+      "published": "Wed, 30 Sep 2026 09:55:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Deser: Rethinking Rust Serialization",
-      "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 27\n# Comments: 6",
+      "title": "Why Is Sam Altman a Free Man?",
+      "link": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "summary": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/\nComments URL: https://news.ycombinator.com/item?id=49905633\nPoints: 153\n# Comments: 100",
       "image": "",
-      "published": "Tue, 29 Sep 2026 21:48:27 +0000",
+      "published": "Wed, 30 Sep 2026 07:32:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\nComments URL: https://news.ycombinator.com/item?id=49899090\nPoints: 1",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 288\n# Comments: 162",
       "image": "",
-      "published": "Tue, 29 Sep 2026 19:30:17 +0000",
+      "published": "Wed, 30 Sep 2026 07:12:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "link": "https://space.bl2.net/",
-      "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 117\n# Comments: 32",
+      "title": "RSS Feeds for Last.fm",
+      "link": "https://lfm.xiffy.nl/",
+      "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 83\n# Comments: 18",
       "image": "",
-      "published": "Tue, 29 Sep 2026 19:08:01 +0000",
+      "published": "Wed, 30 Sep 2026 03:00:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "\"Your background job isn't failing—it's quietly abandoning work during deploy\"",
-      "link": "https://dev.to/developerimranahmed/your-background-job-isnt-failing-its-quietly-abandoning-work-during-deploy-1g6d",
-      "summary": "When Your Background Job Isn't Failing—It's Quietly Abandoning Work\n\n\nOne of the most insidious bugs I've encountered in .NET background services isn't a loud crash or exception—it's silent work abandonment during host s",
+      "title": "One stock pool, four sales channels: a reservation ledger instead of a computed available",
+      "link": "https://dev.to/fulfillnexa/one-stock-pool-four-sales-channels-a-reservation-ledger-instead-of-a-computed-available-3okg",
+      "summary": "Multichannel overselling is not a data problem. It is a concurrency problem that people keep trying to solve with better arithmetic.\n\nThe usual implementation computes availability on read:\n\n\n\nconst available = onHand - ",
       "image": "",
-      "published": "Wed, 30 Sep 2026 02:31:44 +0000",
+      "published": "Wed, 30 Sep 2026 11:15:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "JavaScript Event Loop Explained: Call Stack, Microtasks, and Async Execution",
-      "link": "https://dev.to/ansh_sheladiya_69776966d6/javascript-event-loop-explained-call-stack-microtasks-and-async-execution-o6a",
-      "summary": "JavaScript is often described as a single-threaded language, yet it can handle timers, network requests, promises, and user interactions without freezing the application. The key to understanding this behavior is the eve",
+      "title": "A shipping exception queue that ages, deduplicates and can be claimed",
+      "link": "https://dev.to/fulfillnexa/a-shipping-exception-queue-that-ages-deduplicates-and-can-be-claimed-4egj",
+      "summary": "Most ecommerce backends model shipments as a happy path with a status column. label_created → in_transit → delivered. When something goes wrong, the row gets stuck at whatever it was last stuck at, and nobody finds out u",
       "image": "",
-      "published": "Wed, 30 Sep 2026 02:30:00 +0000",
+      "published": "Wed, 30 Sep 2026 11:14:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Modern JavaScript Features Every Developer Should Know in 2026",
-      "link": "https://dev.to/ansh_sheladiya_69776966d6/modern-javascript-features-every-developer-should-know-in-2026-200n",
-      "summary": "JavaScript has evolved far beyond callbacks, var declarations, and manual object manipulation. Modern JavaScript provides cleaner syntax, safer data handling, powerful asynchronous patterns, and language features that ma",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 02:30:00 +0000",
+      "title": "Introducing IdentiFlows.dev: A Visual Reference for Identity Flows",
+      "link": "https://dev.to/auth0/introducing-identiflowsdev-a-visual-reference-for-identity-flows-g2a",
+      "summary": "Every developer who has played with OAuth 2.0 or OpenID Connect knows this moment: you need to double-check the exact sequence of a flow, and the diagram you remember seeing is scattered somewhere between a spec, a blog ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5650s2wjd0pvvg3zoe96.png",
+      "published": "Wed, 30 Sep 2026 11:14:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Some asp.net fizz buzz testing",
-      "link": "https://dev.to/faith_in_errors_/some-aspnet-fizz-buzz-testing-1h1c",
-      "summary": "using System;\nusing System.Collections.Generic;\nusing PartA.Models; \nusing Xunit;\n\nnamespace PartA.Tests\n{\n    public class FizzBuzzTests\n    {\n        private readonly FizzBuzz _fizzBuzz;\n\n\n    public FizzBuzzTests()\n  ",
+      "title": "A Practical Checklist for Debugging a Broken API Request (With Free Browser Tools)",
+      "link": "https://dev.to/bellal_hossain_057bfd620a/a-practical-checklist-for-debugging-a-broken-api-request-with-free-browser-tools-2e2",
+      "summary": "You send a request. You get a 401. Or a 400. Or an empty response and a vague error.\n\nMost API bugs come from a small set of causes: a malformed token, bad encoding, wrong headers, or a network problem. The trick is chec",
       "image": "",
-      "published": "Wed, 30 Sep 2026 02:28:17 +0000",
+      "published": "Wed, 30 Sep 2026 11:13:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LiveNerf: monitorea si Claude Opus 5.5 pierde precisión",
-      "link": "https://dev.to/lu1tr0n/livenerf-monitorea-si-claude-opus-55-pierde-precision-3nk3",
-      "summary": "Claude Opus 5.5 salió el 22 de septiembre de 2026 y, nueve días después, ya hay un repositorio que mide en público la degradación de modelos de IA día a día, en vez de esperar a que la comunidad lo intuya por comentarios",
+      "title": "I Built an Open-Source J1939 CAN Bus Emulator (Because Vector Tools Cost Too Much)",
+      "link": "https://dev.to/muhammad_umersaeed/i-built-an-open-source-j1939-can-bus-emulator-because-vector-tools-cost-too-much-2i1j",
+      "summary": "If you've ever tried to test J1939 diagnostics tooling, integrate a telematics app, or just learn how heavy-duty vehicle networks work, you've probably hit the same wall I did: the real tools are excellent, expensive, an",
       "image": "",
-      "published": "Wed, 30 Sep 2026 02:28:11 +0000",
+      "published": "Wed, 30 Sep 2026 11:13:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
