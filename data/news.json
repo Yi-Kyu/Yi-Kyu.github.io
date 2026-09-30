@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T17:02:49.612284Z",
+  "updated": "2026-09-30T21:33:30.149213Z",
   "articles": [
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exp",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg",
+      "published": "Wed, 30 Sep 2026 22:16:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and o",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg",
+      "published": "Wed, 30 Sep 2026 22:02:59 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
       "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,000 internal images f",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg",
-      "published": "Wed, 30 Sep 2026 17:00:00 +0530",
-      "source": "The Hacker News",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "image": "",
+      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations sho",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg",
-      "published": "Wed, 30 Sep 2026 16:15:00 +0530",
-      "source": "The Hacker News",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "image": "",
+      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "image": "",
+      "published": "Wed, 30 Sep 2026 14:08:34 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
       "image": "",
       "published": "Wed, 30 Sep 2026 10:46:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 09:37:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 08:25:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 14\n# Comments: 3",
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 10\n# Comments: 1",
       "image": "",
-      "published": "Wed, 30 Sep 2026 15:54:59 +0000",
+      "published": "Wed, 30 Sep 2026 20:50:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The AI Race Just Got Awkward",
-      "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-      "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49910553\nPoints: 252\n# Comments: 215",
+      "title": "Gitea 28.0",
+      "link": "https://blog.gitea.com/release-of-28.0.0/",
+      "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 33\n# Comments: 8",
       "image": "",
-      "published": "Wed, 30 Sep 2026 15:50:11 +0000",
+      "published": "Wed, 30 Sep 2026 20:32:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SDF Public Access Unix System ... est. 1987",
-      "link": "https://sdf.org/",
-      "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 9\n# Comments: 1",
+      "title": "Dear User, email is here to stay",
+      "link": "https://github.com/tursomari/machtiani/tree/main",
+      "summary": "Article URL: https://github.com/tursomari/machtiani/tree/main\nComments URL: https://news.ycombinator.com/item?id=49913724\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Wed, 30 Sep 2026 14:36:02 +0000",
+      "published": "Wed, 30 Sep 2026 20:14:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Brief History of the Bloomberg Terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 46\n# Comments: 11",
+      "title": "Functional Ultrasound Imaging from Scratch",
+      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Wed, 30 Sep 2026 14:34:07 +0000",
+      "published": "Wed, 30 Sep 2026 20:06:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What TLA+ can and can't check",
-      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 9\n# Comments: 1",
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nComments URL: https://news.ycombinator.com/item?id=49913571\nPoints: 539\n# Comments: 310",
       "image": "",
-      "published": "Wed, 30 Sep 2026 13:57:06 +0000",
+      "published": "Wed, 30 Sep 2026 20:04:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Check this article. I found it essential.",
-      "link": "https://dev.to/mohammadi/check-this-article-i-found-it-essential-e9e",
-      "summary": "NestJS Production Checklist: 17 Checks Before You Deploy\n\n\n  \n    \n      \n        \n          \n            \n          \n\n          \n            \n          \n        \n        \n          \n            \n              Kamil Mysl",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F940%2F9c4d32ad-272a-4c15-8a12-83ef48783d86.png",
-      "published": "Wed, 30 Sep 2026 16:57:57 +0000",
+      "title": "Invisible Risk: Why Security Is Always Bought After the Incident",
+      "link": "https://dev.to/aliulu/invisible-risk-why-security-is-always-bought-after-the-incident-249g",
+      "summary": "In just the last few weeks:\n\n\nAnthropic disclosed in September that an early version of its model compromised third-party systems back in January. Nobody noticed for months.\nOpenAI agents made thousands of edits to a Ger",
+      "image": "",
+      "published": "Wed, 30 Sep 2026 21:28:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How a crypto library got my Tauri app flagged as a trojan (and how I found it by bisection)",
-      "link": "https://dev.to/luanmacea/how-a-crypto-library-got-my-tauri-app-flagged-as-a-trojan-and-how-i-found-it-by-bisection-11fl",
-      "summary": "My desktop app started getting flagged by Microsoft as Trojan:Win32/Wacatac.B!ml. The code hadn't learned any new tricks. The culprit turned out to be the encryption library I had just added, and I found it by bisecting ",
+      "title": "Building a Function Key (F1–F12) Tester: Handling the Fn-Row Mess Across OSes",
+      "link": "https://dev.to/chandra_sekhardey_5df51e/building-a-function-key-f1-f12-tester-handling-the-fn-row-mess-across-oses-4m6a",
+      "summary": "Function keys seem like the simplest possible thing to test — 12 keys, press them, see if they register. Building the Function Key Test for KeyboardTest.tech turned out to have more edge cases than expected, mostly becau",
       "image": "",
-      "published": "Wed, 30 Sep 2026 16:57:50 +0000",
+      "published": "Wed, 30 Sep 2026 21:24:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The model isn't the problem: what people putting AI to work on sensitive data are actually stuck on",
-      "link": "https://dev.to/nadavox/the-model-isnt-the-problem-what-people-putting-ai-to-work-on-sensitive-data-are-actually-stuck-on-fd5",
-      "summary": "Over the last few weeks I read a lot of what people wrote between June and September 2026 about getting AI to work inside organizations that handle sensitive data. That included banks and funds, government teams, clinics",
+      "title": "When there is no rule, the answer is no",
+      "link": "https://dev.to/dogrucanemekalt/when-there-is-no-rule-the-answer-is-no-5hdd",
+      "summary": "When an AI agent asks Verax for something there is no rule for, the answer is no. Nothing is allowed by default.\n\nThat covers the obvious case, like an agent trying to export your customer list. It also covers a quieter ",
       "image": "",
-      "published": "Wed, 30 Sep 2026 16:57:11 +0000",
+      "published": "Wed, 30 Sep 2026 21:22:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Tip: Back up your Claude Code infrastructure",
-      "link": "https://dev.to/empiree/tip-back-up-your-claude-code-infrastructure-4njd",
-      "summary": "One of the main rules in software engineering is to always have a backup.\n\nMany of us improve our Claude workflow every day. We create and edit skills and hooks, update CLAUDE.md and so on. I recommend creating a private",
+      "title": "Use this PIPE to feel the FLOW",
+      "link": "https://dev.to/pengeszikra/use-this-pipe-to-feel-the-flow-483j",
+      "summary": "A proof-of-concept TypeScript compiler with a pipeline operator.\n\nnpm install -D @pengeszikra/typescript@next\n\nI’d like you to experience the same flow I discovered about five years ago, when I had the chance to use the ",
       "image": "",
-      "published": "Wed, 30 Sep 2026 16:56:54 +0000",
+      "published": "Wed, 30 Sep 2026 21:21:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "IKAREM: a zero-dependency Python ASGI framework with built-in MCP tools (looking for people to break it)",
-      "link": "https://dev.to/nishant_paudel_b5720c48ad/ikarem-a-zero-dependency-python-asgi-framework-with-built-in-mcp-tools-looking-for-people-to-4175",
-      "summary": "Hi, I'm Nishant Paudel, a developer from Nepal. I've been building IKAREM, an ASGI web framework whose core imports only the standard library, so pip install ikarem installs nothing else. Uvicorn, asyncpg, Jinja2 and the",
+      "title": "MRN (minimal-resource-usage-runner).change any linux to paas and free paas program built up on linux kernel",
+      "link": "https://dev.to/message-beast/mrn-minimal-resource-usage-runnerchange-any-linux-to-paas-and-free-paas-program-built-up-on-335b",
+      "summary": "mini-runner or MRN or minimal resource usage runner is a tool deployment that i created out of docker's engineering frustration and cloud costs being so high so scaling any server or deployment is becoming financial barr",
       "image": "",
-      "published": "Wed, 30 Sep 2026 16:56:52 +0000",
+      "published": "Wed, 30 Sep 2026 21:19:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
