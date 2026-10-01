@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-01T11:53:11.172641Z",
+  "updated": "2026-10-01T17:33:04.258391Z",
   "articles": [
+    {
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg",
+      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg",
+      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg",
+      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform w",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg",
+      "published": "Thu, 01 Oct 2026 17:15:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
       "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
@@ -11,39 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following re",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg",
-      "published": "Thu, 01 Oct 2026 16:03:16 +0530",
-      "source": "The Hacker News",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers front",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg",
-      "published": "Thu, 01 Oct 2026 13:19:36 +0530",
-      "source": "The Hacker News",
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begi",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 10:01:11 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malic",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg",
-      "published": "Thu, 01 Oct 2026 11:24:41 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"T",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg",
-      "published": "Thu, 01 Oct 2026 10:51:10 +0530",
-      "source": "The Hacker News",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 09:51:08 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
       "image": "",
       "published": "Thu, 01 Oct 2026 05:44:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-      "image": "",
-      "published": "Thu, 01 Oct 2026 03:33:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 16:34:01 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "image": "",
-      "published": "Wed, 30 Sep 2026 15:49:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 43\n# Comments: 9",
+      "title": "ParadeDB Search Performance Improvements",
+      "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
+      "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Thu, 01 Oct 2026 10:59:57 +0000",
+      "published": "Thu, 01 Oct 2026 17:05:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design\nComments URL: https://news.ycombinator.com/item?id=49919910\nPoints: 35\n# Comm",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 18\n# Comments: 1",
       "image": "",
-      "published": "Thu, 01 Oct 2026 10:21:36 +0000",
+      "published": "Thu, 01 Oct 2026 16:57:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "summary": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate\nComments URL: https://news.ycombinator.com/item?id=49919680\nPoints: 0\n# Comments: 0",
+      "title": "Clef: our open-source decision models",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 101\n# Comments: 29",
       "image": "",
-      "published": "Thu, 01 Oct 2026 09:48:18 +0000",
+      "published": "Thu, 01 Oct 2026 16:18:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "link": "https://56k.rip/",
-      "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 196\n# Comments: 84",
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+      "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "published": "Thu, 01 Oct 2026 16:14:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "link": "https://www.thespacereview.com/article/4951/1",
-      "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 238\n# Comments: 113",
+      "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
+      "link": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
+      "summary": "Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb\nComments URL: https://news.ycombinator.com/item?id=49923575\nPoints: 40\n# Comments: 27",
       "image": "",
-      "published": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "published": "Thu, 01 Oct 2026 16:10:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kafka Topics, Partitions, and Offsets Explained: The Concepts Every Beginner Confuses",
-      "link": "https://dev.to/venuskennedy/kafka-topics-partitions-and-offsets-explained-the-concepts-every-beginner-confuses-29d0",
-      "summary": "Apache Kafka is a popular distributed event streaming platform used by organizations to process and move large amounts of data in real time. It is widely used in applications such as financial transactions, customer acti",
+      "title": "Users, Roles and Access Keys in Lioran S3",
+      "link": "https://dev.to/ultrontheai/users-roles-and-access-keys-in-lioran-s3-54oa",
+      "summary": "Users, Roles and Access Keys in Lioran S3\n\n\nObject storage security is not just “put a password in .env”.\n\nThe current Lioran S3 V1 Pre-Alpha includes human users, roles, password management, and programmatic access keys",
       "image": "",
-      "published": "Thu, 01 Oct 2026 11:48:55 +0000",
+      "published": "Thu, 01 Oct 2026 17:32:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Valve's public achievement endpoint is an underrated analytics feed",
-      "link": "https://dev.to/makeinterview/valves-public-achievement-endpoint-is-an-underrated-analytics-feed-mn9",
-      "summary": "Valve's public achievement endpoint is an underrated analytics feed — here's its shape\n\n\nWhile building a small bilingual (Chinese/English) fan guide for a co-op game, I leaned on a Valve endpoint that more people should",
+      "title": "Khalid Hasan Anik",
+      "link": "https://dev.to/khalidhasananik/khalid-hasan-anik-1c2l",
+      "summary": "Technical Project Coordinator at AWTOMATIG. I build AI automations, full-stack web products and the servers they run on, in Dhaka, Bangladesh.\n\n\nI'm Khalid Hasan Anik, a Technical Project Coordinator at AWTOMATIG, an AI ",
       "image": "",
-      "published": "Thu, 01 Oct 2026 11:47:04 +0000",
+      "published": "Thu, 01 Oct 2026 17:31:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Recursive self-improvement: what Google's Dream-RSI paper really does",
-      "link": "https://dev.to/axrisi/recursive-self-improvement-what-googles-dream-rsi-paper-really-does-kgp",
-      "summary": "Recursive self-improvement is the idea that an AI makes itself smarter, then uses the smarter version to do it again. This week Google researchers published Dream-RSI: Recursive Self-Improvement through Evolving Worlds, ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fofjmztes7qhft3u46vg9.jpg",
-      "published": "Thu, 01 Oct 2026 11:46:44 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "The fries are gluten-free. The fryer isn't. An allergy agent that only works because the menu is a graph",
-      "link": "https://dev.to/malbolged/the-fries-are-gluten-free-the-fryer-isnt-an-allergy-agent-that-only-works-because-the-menu-is-a-5fj9",
-      "summary": "This is a submission for the Sanity Challenge, Path One: Ship an Agent That Queries Real Content\n\n\n  \n  \n  What I Built\n\n\nOlive &amp; Ember Allergy Concierge: an AI agent for a (fictional) Mediterranean grill in Dublin t",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F42w66wltf8b58dgmiko9.png",
-      "published": "Thu, 01 Oct 2026 11:46:08 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "How do you give local content in a WKWebView a real https origin? (iOS 17)",
-      "link": "https://dev.to/goodbarber/how-do-you-give-local-content-in-a-wkwebview-a-real-https-origin-ios-17-2h64",
-      "summary": "On September 16 I opened a test widget on my iPhone. At the top, a quote that loads when the widget opens. Under it, two text areas and a Compare button that returns a similarity score. Two calls to the same third-party ",
+      "title": "Node.js Pipeline for Every Contest Submission (Normalise and Record Version)",
+      "link": "https://dev.to/lachlanholm6518/nodejs-pipeline-for-every-contest-submission-normalise-and-record-version-4h6n",
+      "summary": "Apply the same named smart-crop transformation to every health-image contest entry, and record the exact transformation version on every rendition. The deciding constraint is comparability: judges need consistent frames,",
       "image": "",
-      "published": "Thu, 01 Oct 2026 11:45:29 +0000",
+      "published": "Thu, 01 Oct 2026 17:31:45 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Buckets and Object CRUD in Lioran S3 with TypeScript",
+      "link": "https://dev.to/ultrontheai/buckets-and-object-crud-in-lioran-s3-with-typescript-4ifh",
+      "summary": "Buckets and Object CRUD in Lioran S3\n\n\nObject storage becomes useful when the abstractions stay boring: buckets contain objects, object keys are identifiers, metadata is inspectable, large transfers stream, and listing d",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 17:30:18 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Dataview queries I'd put in any developer vault (and the gotchas that break them)",
+      "link": "https://dev.to/productivityforge/dataview-queries-id-put-in-any-developer-vault-and-the-gotchas-that-break-them-1jga",
+      "summary": "A few days ago I posted Dataview queries worth having in a developer vault. The comments were better than the post. They pointed out three things that quietly break these queries.\n\nThis is the follow-up. Different querie",
+      "image": "",
+      "published": "Thu, 01 Oct 2026 17:30:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
