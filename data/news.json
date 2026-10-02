@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-02T16:52:09.686074Z",
+  "updated": "2026-10-02T21:28:13.199008Z",
   "articles": [
+    {
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&nbsp;said in an advisory.\n\nThe gateway is the service that con",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg",
+      "published": "Fri, 02 Oct 2026 23:03:31 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India,",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are list",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg",
+      "published": "Fri, 02 Oct 2026 22:32:12 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
       "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.\n\nWith malicious Android a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
-      "published": "Fri, 02 Oct 2026 13:31:30 +0530",
-      "source": "The Hacker News",
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including So",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
-      "published": "Fri, 02 Oct 2026 11:19:50 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg",
-      "published": "Thu, 01 Oct 2026 22:25:57 +0530",
-      "source": "The Hacker News",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 14:33:01 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and wh",
       "image": "",
       "published": "Fri, 02 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 08:37:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 05:29:56 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Supabase is acquiring Turso",
-      "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
-      "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 69\n# Comments: 17",
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 38\n# Comments: 4",
       "image": "",
-      "published": "Fri, 02 Oct 2026 15:43:03 +0000",
+      "published": "Fri, 02 Oct 2026 20:56:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A 20-year-long permanent cookie: America.gov and tracking",
-      "link": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions",
-      "summary": "Article URL: https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions\nComments URL: https://news.ycombinator.com/item?id=49934631\nPoints: 30\n# Comments: ",
+      "title": "Everyone's Packing Up",
+      "link": "https://widdershins.verja.net/everyones-packing-up/",
+      "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 22\n# Comments: 5",
       "image": "",
-      "published": "Fri, 02 Oct 2026 15:30:24 +0000",
+      "published": "Fri, 02 Oct 2026 20:13:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832\nComments URL: https://news.ycombinator.com/item?id=49934569\nPoints: 21\n# Comments: 4",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "link": "https://github.com/anteloc/ldraw-nova",
+      "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-l",
       "image": "",
-      "published": "Fri, 02 Oct 2026 15:24:54 +0000",
+      "published": "Fri, 02 Oct 2026 20:00:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Four Horsemen of Agentic Coding",
-      "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 38\n# Comments: 12",
+      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+      "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\nComments URL: https://news.ycombinator.com/item?id=49937718\nPoints: 63\n# Comments: 15",
       "image": "",
-      "published": "Fri, 02 Oct 2026 15:19:56 +0000",
+      "published": "Fri, 02 Oct 2026 19:45:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fixing GRPO's credit assignment problem without evaluating every step",
-      "link": "https://arxiv.org/abs/2609.36178",
-      "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 11\n# Comments: 0",
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 34\n# Comments: 23",
       "image": "",
-      "published": "Fri, 02 Oct 2026 14:36:04 +0000",
+      "published": "Fri, 02 Oct 2026 19:26:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Most Developers Are Building AI Agents Wrong: MCP Is the Missing Contract",
-      "link": "https://dev.to/sudhanshu_thakur_/most-developers-are-building-ai-agents-wrong-mcp-is-the-missing-contract-25h4",
-      "summary": "AI agents are easy to demo and difficult to trust.\n\nA developer can connect a language model to a few tools in an afternoon. The first demo looks impressive: the agent reads a request, calls an API, checks a database, an",
+      "title": "CVE-2026-63292: A Configuration-Dependent Stack Overflow in Apache httpd 2.4",
+      "link": "https://dev.to/kozhevniko/cve-2026-63292-a-configuration-dependent-stack-overflow-in-apache-httpd-24-2m59",
+      "summary": "CVE-2026-63292: A Configuration-Dependent Stack Overflow in Apache httpd 2.4\n\n\n\n  \n  \n  What Apache disclosed\n\n\nThe Apache Software Foundation published CVE-2026-63292 as a stack-based buffer overflow in mod_vhost_alias,",
       "image": "",
-      "published": "Fri, 02 Oct 2026 16:45:24 +0000",
+      "published": "Fri, 02 Oct 2026 21:21:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Avatar Crop Debugging Explained: 4 Go Checks When Center Cuts Off Heads",
-      "link": "https://dev.to/fletchervance3712/avatar-crop-debugging-explained-4-go-checks-when-center-cuts-off-heads-391l",
-      "summary": "Short answer: when an avatar crop cuts off heads, preserve one normalized source, reproduce the exact crop from recorded coordinates, and use center crop only after proving that the face is near the center; otherwise use",
+      "title": "How to export App Store and Google Play reviews to a spreadsheet",
+      "link": "https://dev.to/hay_equipos/how-to-export-app-store-and-google-play-reviews-to-a-spreadsheet-50n",
+      "summary": "After a release, the fastest signal on what broke is the review section. But Apple and Google show reviews in different places, with different fields, and neither gives you a simple export. If you look after an app on bo",
       "image": "",
-      "published": "Fri, 02 Oct 2026 16:45:21 +0000",
+      "published": "Fri, 02 Oct 2026 21:20:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Print Clerk: an art catalog agent that only says what Sanity says",
-      "link": "https://dev.to/nobanksnearby/print-clerk-an-art-catalog-agent-that-only-says-what-sanity-says-4739",
-      "summary": "This is a submission for the Sanity Challenge, Path One: Ship an Agent That Queries Real Content\n\n\n  \n  \n  What I Built\n\n\nI sell framed art prints under the name NoBanks Nearby, across a few collections: Chromatic Spaces",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Fri, 02 Oct 2026 16:44:06 +0000",
+      "title": "I built an AI content agent that would rather drop a topic than make things up",
+      "link": "https://dev.to/nexflow/i-built-an-ai-content-agent-that-would-rather-drop-a-topic-than-make-things-up-5fhg",
+      "summary": "Most “AI writes your blog” setups fail in the same way: not with bad style, but with a confidently written falsehood. For most niches that is embarrassing. For an insurance website it is a real problem — a wrong sentence",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 21:20:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Postgres Internals in Simple Words: One Example to Understand Tables, Pages, Tuples, and Indexes",
-      "link": "https://dev.to/pakeezakhalid/postgres-internals-in-simple-words-one-example-to-understand-tables-pages-tuples-and-indexes-27m",
-      "summary": "Postgres Internals in Simple Words: One Example to Understand Tables, Pages, Tuples, and Indexes\n\n\nFor the longest time, words like \"heap,\" \"tuple,\" \"CTID,\" and \"page\" kept showing up whenever I read about Postgres — and",
+      "title": "How to export App Store top charts and search results to a spreadsheet",
+      "link": "https://dev.to/hay_equipos/how-to-export-app-store-top-charts-and-search-results-to-a-spreadsheet-2h3n",
+      "summary": "If you work on app store optimization, competitor tracking or market research, you need the same few numbers over and over: who ranks for a keyword, who sits in the top grossing chart, and how ratings and versions change",
       "image": "",
-      "published": "Fri, 02 Oct 2026 16:43:01 +0000",
+      "published": "Fri, 02 Oct 2026 21:20:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Hospitality API Problem",
-      "link": "https://dev.to/hauchikay/the-hospitality-api-problem-48kc",
-      "summary": "There is an interesting data problem hidden inside hotel and event-management systems.\n\nA booking can tell a hotel that 120 people are expected at an event.\n\nThat does not tell the kitchen that it needs 120 portions of e",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 16:42:57 +0000",
+      "title": "How I drew a 4D tesseract in Three.js",
+      "link": "https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc",
+      "summary": "The Tesseract is the Experiments world on this site: a glass hypercube floating\nnext to Gargantua that you can look at full screen in the\nObservatory. It isn't an animated 3D\nmodel. It's a four-dimensional object that ro",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff5b021o6rh5rdn4ugvr4.webp",
+      "published": "Fri, 02 Oct 2026 21:19:14 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "link": "https://css-tricks.com/css-random-function-polyfill/",
+      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
+      "link": "https://css-tricks.com/whats-important-18/",
+      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
+      "image": "",
+      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "animation-trigger",
+      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
+      "image": "",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "MicroLighter: Syntax Highlighter",
+      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
