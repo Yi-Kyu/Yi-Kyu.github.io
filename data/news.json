@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-02T11:25:08.134809Z",
+  "updated": "2026-10-02T16:52:09.686074Z",
   "articles": [
+    {
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with three individuals for viol",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjuuIAEhjBjrbXQna97zki-AKSZ9hVcu2CHSFRronvsVxEcHsfg66bldy7UzBETlNj1wTjKhkE11aFSmOxTjmR-XVp7qwzM2rBM745vy0Jy2n_CDoWQowbrzcQ7pVMubxWXNxVhOptHQiV5nMSGf24ZpI2wdpr40A0ez16cO3IH6peI6A2L07_UuOHbaJ/s1600/openai-servers.jpg",
+      "published": "Fri, 02 Oct 2026 17:53:15 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spread",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0hKMtHvRqPQiVRgaUAvYQ1XOUA_EToiZ3Tx-v7pSvbqwlnoo7qr5jQ_5KJuYpRFW0MzE3bLPePNT-rn4m8bEz7eTMVysO0OcfFwNKKFgKIo6tiT0JKKauf9MFxYTet3LiqJ2lXxfxVuKzRIPloaGR-_bOUEXOz_-ONc3AXfHKZV-PhAW8wEfayC-iwZE/s1600/ciso-ready.jpg",
+      "published": "Fri, 02 Oct 2026 17:00:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
       "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg",
-      "published": "Thu, 01 Oct 2026 22:15:38 +0530",
-      "source": "The Hacker News",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 12:20:05 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg",
-      "published": "Thu, 01 Oct 2026 20:07:35 +0530",
-      "source": "The Hacker News",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 11:20:53 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and wh",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 08:37:40 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
       "image": "",
       "published": "Fri, 02 Oct 2026 05:29:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-      "image": "",
-      "published": "Thu, 01 Oct 2026 18:42:49 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-      "image": "",
-      "published": "Thu, 01 Oct 2026 16:52:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity whi",
-      "image": "",
-      "published": "Thu, 01 Oct 2026 15:32:47 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administ",
-      "image": "",
-      "published": "Thu, 01 Oct 2026 10:25:14 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl\nComments URL: https://news.ycombinator.com/item?id=49932048\nPoints: 15\n# Comments: 11",
+      "title": "Supabase is acquiring Turso",
+      "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 69\n# Comments: 17",
       "image": "",
-      "published": "Fri, 02 Oct 2026 10:50:08 +0000",
+      "published": "Fri, 02 Oct 2026 15:43:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-      "link": "https://github.com/kvoltmer/Audionaut",
-      "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 24\n# Comments: 6",
+      "title": "A 20-year-long permanent cookie: America.gov and tracking",
+      "link": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions",
+      "summary": "Article URL: https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions\nComments URL: https://news.ycombinator.com/item?id=49934631\nPoints: 30\n# Comments: ",
       "image": "",
-      "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+      "published": "Fri, 02 Oct 2026 15:30:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Shimano Bicycle Museum Review",
-      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 133\n# Comments: 22",
+      "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+      "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+      "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832\nComments URL: https://news.ycombinator.com/item?id=49934569\nPoints: 21\n# Comments: 4",
       "image": "",
-      "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "published": "Fri, 02 Oct 2026 15:24:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "link": "https://www.deepseek.com/en/harness/",
-      "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 255\n# Comments: 122",
+      "title": "The Four Horsemen of Agentic Coding",
+      "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 38\n# Comments: 12",
       "image": "",
-      "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "published": "Fri, 02 Oct 2026 15:19:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Singapore's government-run dating service works",
-      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 184\n# Comments: 160",
+      "title": "Fixing GRPO's credit assignment problem without evaluating every step",
+      "link": "https://arxiv.org/abs/2609.36178",
+      "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "published": "Fri, 02 Oct 2026 14:36:04 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Agent security moves out of the agent itself",
-      "link": "https://dev.to/analista_83/agent-security-moves-out-of-the-agent-itself-52j4",
-      "summary": "Control leaves the process\n\n\nNVIDIA presented the Open Agent Safety Platform on September 28, and the design decision is the news. The runtime is called OpenShell, it is open source, and it already supports Codex, Claude",
+      "title": "Most Developers Are Building AI Agents Wrong: MCP Is the Missing Contract",
+      "link": "https://dev.to/sudhanshu_thakur_/most-developers-are-building-ai-agents-wrong-mcp-is-the-missing-contract-25h4",
+      "summary": "AI agents are easy to demo and difficult to trust.\n\nA developer can connect a language model to a few tools in an afternoon. The first demo looks impressive: the agent reads a request, calls an API, checks a database, an",
       "image": "",
-      "published": "Fri, 02 Oct 2026 11:19:58 +0000",
+      "published": "Fri, 02 Oct 2026 16:45:24 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building the JCars logistics Sale Dashboard in Power BI",
-      "link": "https://dev.to/dorcas_chebet/building-the-jcars-logistics-sale-dashboard-in-power-bi-599g",
-      "summary": "Introduction\n\n\nJCars Logistics sells vehicles out of nine yards around Kenya — Nairobi, Mombasa, Kisumu,\nEldoret, Kakamega and a few others. The business wanted answers to three plain\nquestions: where do our sales actual",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ftn8dl94uryhn5wwkgkk7.png",
-      "published": "Fri, 02 Oct 2026 11:19:34 +0000",
+      "title": "Avatar Crop Debugging Explained: 4 Go Checks When Center Cuts Off Heads",
+      "link": "https://dev.to/fletchervance3712/avatar-crop-debugging-explained-4-go-checks-when-center-cuts-off-heads-391l",
+      "summary": "Short answer: when an avatar crop cuts off heads, preserve one normalized source, reproduce the exact crop from recorded coordinates, and use center crop only after proving that the face is near the center; otherwise use",
+      "image": "",
+      "published": "Fri, 02 Oct 2026 16:45:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a private ingredient-label reader for my cousin with open-source OCR",
-      "link": "https://dev.to/oyis12/i-built-a-private-ingredient-label-reader-for-my-cousin-with-open-source-ocr-1o67",
-      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend.\n\n\n  \n  \n  What I Built\n\n\nAt the grocery store, an ingredient label is a tiny block of text that can matter a lot. My cousin has to pay clo",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 11:15:51 +0000",
+      "title": "Print Clerk: an art catalog agent that only says what Sanity says",
+      "link": "https://dev.to/nobanksnearby/print-clerk-an-art-catalog-agent-that-only-says-what-sanity-says-4739",
+      "summary": "This is a submission for the Sanity Challenge, Path One: Ship an Agent That Queries Real Content\n\n\n  \n  \n  What I Built\n\n\nI sell framed art prints under the name NoBanks Nearby, across a few collections: Chromatic Spaces",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Fri, 02 Oct 2026 16:44:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built WealthFlow — An Income OS",
-      "link": "https://dev.to/dreamboy7777/i-built-wealthflow-an-income-os-208a",
-      "summary": "I got tired of how fragmented making money can feel.\n\nYou have job boards for finding work, spreadsheets for tracking income, calculators for taxes, notes for goals, and a dozen different places to keep track of what you",
+      "title": "Postgres Internals in Simple Words: One Example to Understand Tables, Pages, Tuples, and Indexes",
+      "link": "https://dev.to/pakeezakhalid/postgres-internals-in-simple-words-one-example-to-understand-tables-pages-tuples-and-indexes-27m",
+      "summary": "Postgres Internals in Simple Words: One Example to Understand Tables, Pages, Tuples, and Indexes\n\n\nFor the longest time, words like \"heap,\" \"tuple,\" \"CTID,\" and \"page\" kept showing up whenever I read about Postgres — and",
       "image": "",
-      "published": "Fri, 02 Oct 2026 11:14:07 +0000",
+      "published": "Fri, 02 Oct 2026 16:43:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building AIoT Energy Systems That Handle Uncertainty",
-      "link": "https://dev.to/marketingpro/building-aiot-energy-systems-that-handle-uncertainty-13ao",
-      "summary": "AI-based energy optimization is often treated as a prediction problem.\n\nPredict building demand. Forecast weather. Estimate occupancy. Then use those predictions to decide how equipment should operate.\n\nThe difficult par",
+      "title": "The Hospitality API Problem",
+      "link": "https://dev.to/hauchikay/the-hospitality-api-problem-48kc",
+      "summary": "There is an interesting data problem hidden inside hotel and event-management systems.\n\nA booking can tell a hotel that 120 people are expected at an event.\n\nThat does not tell the kitchen that it needs 120 portions of e",
       "image": "",
-      "published": "Fri, 02 Oct 2026 11:12:46 +0000",
+      "published": "Fri, 02 Oct 2026 16:42:57 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
