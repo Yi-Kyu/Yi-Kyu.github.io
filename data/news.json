@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:31:35.857081Z",
+  "updated": "2026-10-05T02:31:11.236091Z",
   "articles": [
     {
       "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be explo",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 17:58:01 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Anthropic asks Claude users to share voice data for AI model training",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
       "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
@@ -79,15 +88,6 @@
       "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [.",
       "image": "",
       "published": "Sat, 03 Oct 2026 10:35:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Frontline Education breach exposes school district employee data",
-      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including So",
-      "image": "",
-      "published": "Fri, 02 Oct 2026 15:01:40 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Homa: The End of TCP for AI Clusters [video]",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.ycombinator.com/item?id=49959869\nPoints: 22",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "link": "https://getartcraft.com/apps",
+      "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 52\n# Comments: 43",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 23:02:43 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 69\n# Comments: 19",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 22:25:10 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 35\n# Comm",
+      "image": "",
+      "published": "Sun, 04 Oct 2026 21:01:28 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "Related: https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item?id=49957117\nPoints: 7\n# Comments: 0",
+      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item",
       "image": "",
       "published": "Sun, 04 Oct 2026 19:42:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Remove and Disable Apple Macos27 AI Models Tool",
-      "link": "https://github.com/omlahore/RemoveMacAI",
-      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 28\n# Comments: 8",
+      "title": "Object-Oriented Programming in JavaScript: Classes, Inheritance, and Encapsulation",
+      "link": "https://dev.to/ansh_sheladiya/object-oriented-programming-in-javascript-classes-inheritance-and-encapsulation-9p7",
+      "summary": "Object-Oriented Programming (OOP) is a programming paradigm built around objects that combine data and behavior. JavaScript supports OOP through objects, prototypes, constructor functions, classes, inheritance, encapsula",
       "image": "",
-      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoints: 29\n# Comments: 8",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 19:37:05 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python install",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 18:59:25 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Incentives in Academic Research",
-      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-      "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 7\n# Comments: 2",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 17:42:38 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Building software has taught me that coding isn't the hardest part. Understanding the problem is. What's one lesson development has taught you that no tutorial ever could?",
-      "link": "https://dev.to/nelsontallest/building-software-has-taught-me-that-coding-isnt-the-hardest-part-understanding-the-problem-is-33f8",
-      "summary": "",
-      "image": "",
-      "published": "Sun, 04 Oct 2026 20:21:46 +0000",
+      "published": "Mon, 05 Oct 2026 02:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What 113 eval questions taught me building a fully local RAG",
-      "link": "https://dev.to/sekharendu_dey/what-113-eval-questions-taught-me-building-a-fully-local-rag-1923",
-      "summary": "I built LocalCortex, a chat app for your own documents that runs entirely on a laptop: \n\n\nOllama for the models, \nQdrant for search, \nPostgres for chat history, \nno cloud APIs.\n\n\nYou upload PDFs, Word files, or Markdown,",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F20qazj9tkd64p6ocrrhv.png",
-      "published": "Sun, 04 Oct 2026 20:19:39 +0000",
+      "title": "Java 8 Streams vs Traditional Loops: Performance, Readability, and Lazy Evaluation",
+      "link": "https://dev.to/devanshu_patil/java-8-streams-vs-traditional-loops-performance-readability-and-lazy-evaluation-5ab1",
+      "summary": "Introduction\n\n\nSince the introduction of Java 8, developers have faced a recurring architectural dilemma: should collections be processed using traditional imperative loops (for, while) or declarative Stream pipelines? W",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx6bbfdxvg2xjd9iwlmgx.jpg",
+      "published": "Mon, 05 Oct 2026 02:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "FriendStudy: A Private AI Tutor That Runs on My Laptop",
-      "link": "https://dev.to/smith_bhosale_433f2bbba56/friendstudy-a-private-ai-tutor-that-runs-on-my-laptop-2i2a",
-      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n  \n  \n  What I Built\n\n\nI built FriendStudy, a private AI study companion for a friend who was struggling to understand concepts from thei",
+      "title": "Study Partner: An AI Study Companion Built for My Wife",
+      "link": "https://dev.to/emibrown/study-partner-an-ai-study-companion-built-for-my-wife-52fl",
+      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n  \n  \n  What I Built\n\n\nI built Study Partner for my wife, to give her a more interactive way to study using her own notes and PDFs.\nShe c",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Mon, 05 Oct 2026 02:28:35 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "De los datos a la nube: un dashboard de ventas con Streamlit y despliegue automático",
+      "link": "https://dev.to/mariela_estefanyramoslo/de-los-datos-a-la-nube-un-dashboard-de-ventas-con-streamlit-y-despliegue-automatico-2knk",
+      "summary": "Repositorio público: https://github.com/mariela3009/Visualization-Reports-or-Dashboard\nDashboard público: https://ventas360-mariela3009.streamlit.app/  \n\n  \n  \n  El problema\n\n\nUna tabla de ventas permite consultar pedido",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgspllrij8djwxnn24n61.jpg",
+      "published": "Mon, 05 Oct 2026 02:27:24 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "DesignSpark — Never Stare at a Blank Figma Canvas Again ✨",
+      "link": "https://dev.to/nilammahato10/designspark-never-stare-at-a-blank-figma-canvas-again-1p6i",
+      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n  \n  \n  What I Built\n\n\nDesignSpark is an AI-powered UI/UX design challenge generator that I built for a friend who is learning UI/UX desi",
       "image": "",
-      "published": "Sun, 04 Oct 2026 20:19:17 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "From “make it cinematic 😭” to a clear editing workflow. Meet EditFlow. 🎬⚡",
-      "link": "https://dev.to/harxhey/from-make-it-cinematic-to-a-clear-editing-workflow-meet-editflow-1bgp",
-      "summary": "EDITFLOW: For a messy editor friend.\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Harxh-ey\n            \n            \n              \n               ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4119837%2F2afc2679-dbea-47b1-8dfb-477bf46d7657.png",
-      "published": "Sun, 04 Oct 2026 20:18:13 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Building a 100% Private, Offline-Ready Speech Translator for Hacktoberfest 2026",
-      "link": "https://dev.to/amrita_kaur_3f89db0bbc946/building-a-100-private-offline-ready-speech-translator-for-hacktoberfest-2026-46cb",
-      "summary": "*This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n\n\n  \n  \n  What I Built\n\n\nI built Speech Translator, a privacy-first, offline-capable web application designed to bridge communication ga",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fidmf1b5e37dtw2dhzk6w.png",
-      "published": "Sun, 04 Oct 2026 20:18:07 +0000",
+      "published": "Mon, 05 Oct 2026 02:25:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
