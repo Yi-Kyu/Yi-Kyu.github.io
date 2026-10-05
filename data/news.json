@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-05T02:31:11.236091Z",
+  "updated": "2026-10-05T12:45:40.214004Z",
   "articles": [
+    {
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers are using Full Dis",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg",
+      "published": "Mon, 05 Oct 2026 16:08:50 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg",
+      "published": "Mon, 05 Oct 2026 13:39:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-8",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg",
+      "published": "Mon, 05 Oct 2026 12:10:19 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
       "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"Security Servi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg",
-      "published": "Sat, 03 Oct 2026 20:08:46 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 06:28:45 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speak",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
-      "published": "Sat, 03 Oct 2026 20:06:33 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 05:37:56 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "summary": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and in",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg",
-      "published": "Sat, 03 Oct 2026 16:30:00 +0530",
-      "source": "The Hacker News",
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 04:27:46 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
       "image": "",
       "published": "Sun, 04 Oct 2026 06:53:21 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 19:12:34 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 15:09:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [.",
-      "image": "",
-      "published": "Sat, 03 Oct 2026 10:35:20 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.ycombinator.com/item?id=49959869\nPoints: 22",
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49963366\nPoints: 100\n# Comments: 50",
       "image": "",
-      "published": "Mon, 05 Oct 2026 01:54:08 +0000",
+      "published": "Mon, 05 Oct 2026 11:13:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "link": "https://getartcraft.com/apps",
-      "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 52\n# Comments: 43",
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171\nPoints: 81\n# Comments: 41",
       "image": "",
-      "published": "Sun, 04 Oct 2026 23:02:43 +0000",
+      "published": "Mon, 05 Oct 2026 10:47:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 69\n# Comments: 19",
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 32\n# Comments: 9",
       "image": "",
-      "published": "Sun, 04 Oct 2026 22:25:10 +0000",
+      "published": "Mon, 05 Oct 2026 10:35:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 35\n# Comm",
+      "title": "Apple and a Hacker's Future",
+      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 70\n# Comments: 32",
       "image": "",
-      "published": "Sun, 04 Oct 2026 21:01:28 +0000",
+      "published": "Mon, 05 Oct 2026 10:05:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\nComments URL: https://news.ycombinator.com/item?id=49962012\nPoints: 232\n# Comments: 182",
       "image": "",
-      "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+      "published": "Mon, 05 Oct 2026 08:09:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Object-Oriented Programming in JavaScript: Classes, Inheritance, and Encapsulation",
-      "link": "https://dev.to/ansh_sheladiya/object-oriented-programming-in-javascript-classes-inheritance-and-encapsulation-9p7",
-      "summary": "Object-Oriented Programming (OOP) is a programming paradigm built around objects that combine data and behavior. JavaScript supports OOP through objects, prototypes, constructor functions, classes, inheritance, encapsula",
+      "title": "CVE-2026-70585: A Use-After-Free in the Windows NFS Client Stack",
+      "link": "https://dev.to/jeffreyciend/cve-2026-70585-a-use-after-free-in-the-windows-nfs-client-stack-15c3",
+      "summary": "CVE-2026-70585: A Use-After-Free in the Windows NFS Client Stack\n\n\nWindows can mount NFS shares as a client, and that capability pulls a remote procedure call parser into the kernel's network path. CVE-2026-70585 is a us",
       "image": "",
-      "published": "Mon, 05 Oct 2026 02:30:00 +0000",
+      "published": "Mon, 05 Oct 2026 12:40:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Java 8 Streams vs Traditional Loops: Performance, Readability, and Lazy Evaluation",
-      "link": "https://dev.to/devanshu_patil/java-8-streams-vs-traditional-loops-performance-readability-and-lazy-evaluation-5ab1",
-      "summary": "Introduction\n\n\nSince the introduction of Java 8, developers have faced a recurring architectural dilemma: should collections be processed using traditional imperative loops (for, while) or declarative Stream pipelines? W",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fx6bbfdxvg2xjd9iwlmgx.jpg",
-      "published": "Mon, 05 Oct 2026 02:30:00 +0000",
+      "title": "A Stream Can Start. Finishing Is Another Matter.",
+      "link": "https://dev.to/bharathkoneti/a-stream-can-start-finishing-is-another-matter-3e44",
+      "summary": "The first chunk proves an LLM response has begun. It does not prove the answer finished, and neither does it prove that your application can use it.\n\nImagine a support assistant helping a customer reconnect an integratio",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpjp38o0jrol8eoywuojl.png",
+      "published": "Mon, 05 Oct 2026 12:40:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Study Partner: An AI Study Companion Built for My Wife",
-      "link": "https://dev.to/emibrown/study-partner-an-ai-study-companion-built-for-my-wife-52fl",
-      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n  \n  \n  What I Built\n\n\nI built Study Partner for my wife, to give her a more interactive way to study using her own notes and PDFs.\nShe c",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Mon, 05 Oct 2026 02:28:35 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "De los datos a la nube: un dashboard de ventas con Streamlit y despliegue automático",
-      "link": "https://dev.to/mariela_estefanyramoslo/de-los-datos-a-la-nube-un-dashboard-de-ventas-con-streamlit-y-despliegue-automatico-2knk",
-      "summary": "Repositorio público: https://github.com/mariela3009/Visualization-Reports-or-Dashboard\nDashboard público: https://ventas360-mariela3009.streamlit.app/  \n\n  \n  \n  El problema\n\n\nUna tabla de ventas permite consultar pedido",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgspllrij8djwxnn24n61.jpg",
-      "published": "Mon, 05 Oct 2026 02:27:24 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "DesignSpark — Never Stare at a Blank Figma Canvas Again ✨",
-      "link": "https://dev.to/nilammahato10/designspark-never-stare-at-a-blank-figma-canvas-again-1p6i",
-      "summary": "This is a submission for the Hacktoberfest Weekend Challenge: Build for a Friend\n\n\n  \n  \n  What I Built\n\n\nDesignSpark is an AI-powered UI/UX design challenge generator that I built for a friend who is learning UI/UX desi",
+      "title": "Building Sewline: A Compliance-Aware SDLC Engine for High-Integrity",
+      "link": "https://dev.to/bhkbdbhatt/building-sewline-a-compliance-aware-sdlc-engine-for-high-integrity-22df",
+      "summary": "When building software for web apps or SaaS products, a failed build or a flaky test breaks a deployment pipeline. But when you are building software for commercial avionics, medical devices, or defense systems, a compli",
       "image": "",
-      "published": "Mon, 05 Oct 2026 02:25:46 +0000",
+      "published": "Mon, 05 Oct 2026 12:39:57 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "wad - Tech-Bros, Spotify und KI-Slop in der Spieleindustrie",
+      "link": "https://dev.to/nr/wad-tech-bros-spotify-und-ki-slop-in-der-spieleindustrie-cpg",
+      "summary": "wad - we are doomed\nTech Bros und die Medienindustrie\nAmazon hat die Produktion von “Artificial” gestoppt\n. Der Film befasst sich kritisch mit der Rollen von Sam Altman. Der Film wurde von MGM produziert und das Studio g",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 12:39:42 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "CreditWise: Building a Smarter Credit Management App",
+      "link": "https://dev.to/aasheeshhh/creditwise-building-a-smarter-credit-management-app-1gek",
+      "summary": "I recently started working on CreditWise, a project focused on helping users better understand and manage their credit information.\n\nThe goal was simple: build an application that makes credit-related information easier ",
+      "image": "",
+      "published": "Mon, 05 Oct 2026 12:39:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
