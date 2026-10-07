@@ -1,11 +1,29 @@
 {
-  "updated": "2026-10-07T02:49:16.878681Z",
+  "updated": "2026-10-07T12:07:20.247033Z",
   "articles": [
+    {
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg",
+      "published": "Wed, 07 Oct 2026 13:37:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fqqLhgtSTncznc3k2vTS6LJlp8_v3RMx7LaYawiUYEMDuhQ1pOdqrYqlFeyAG5TPBmEnbkLI8vu43GMDxPvaZX6kABd1zQGpIAbVpD2pwtl5v4TohuwbBjlz4dMcjYUv11ogWwPoMoOFJn0aHmxX46xc5Y3ocuxOrg7ix9RrzPzfHtjlW2rAElAV-9-p/s1600/cf-malware.jpg",
+      "published": "Wed, 07 Oct 2026 12:27:54 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
       "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
       "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0zSahkV9zcg01XiHIrV4cYRCzxV9MLlvvX9vRW5e0Nd5Kg0aXGPgWR2oqqdHAAcrmm5r66m5Aj8VF9HYZtgTJv_X1HOaijWEoB_6m8ieYd-F9ytUtmn-1GgX4B-BWo6LXQgzVzr0nTiXsicD-3eTf02ZvrTwPsOCFt8yYGvuxTHfIYxwErOI1w99uekRz/s1600/muse-ai.jpg",
       "published": "Wed, 07 Oct 2026 00:08:55 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
@@ -29,21 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg",
-      "published": "Tue, 06 Oct 2026 16:56:25 +0530",
-      "source": "The Hacker News",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "image": "",
+      "published": "Wed, 07 Oct 2026 07:37:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg",
-      "published": "Tue, 06 Oct 2026 16:32:30 +0530",
-      "source": "The Hacker News",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [..",
+      "image": "",
+      "published": "Wed, 07 Oct 2026 06:35:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "image": "",
+      "published": "Wed, 07 Oct 2026 06:27:52 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
       "image": "",
       "published": "Tue, 06 Oct 2026 15:21:53 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbuck",
-      "image": "",
-      "published": "Tue, 06 Oct 2026 13:34:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [..",
-      "image": "",
-      "published": "Tue, 06 Oct 2026 12:33:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "image": "",
-      "published": "Tue, 06 Oct 2026 11:16:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Mastering SIMD with Java Vector API",
-      "link": "https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/",
-      "summary": "Article URL: https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/\nComments URL: https://news.ycombinator.com/item?id=49987136\nPoints: 5\n# Comments: 0",
+      "title": "Shipping JPEG XL in Chrome",
+      "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "summary": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49991227\nPoints: 23\n# Comments: 9",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:08:42 +0000",
+      "published": "Wed, 07 Oct 2026 11:25:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=49987076\nPoints: 8\n# Comments: 1",
+      "title": "Permanent Daylight Saving Time Could Harm Sleep and Mental Health, Analysis Says",
+      "link": "https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html",
+      "summary": "Article URL: https://www.sci.news/medicine/permanent-daylight-saving-time-15110.html\nComments URL: https://news.ycombinator.com/item?id=49991078\nPoints: 28\n# Comments: 33",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:02:11 +0000",
+      "published": "Wed, 07 Oct 2026 11:08:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
-      "link": "https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118",
-      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118\nComments URL: https://news.ycombinator.com/item?id=49986892\nPoints: 67\n# Comments: 47",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "link": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "summary": "Article URL: https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating\nComments URL: https://news.ycombinator.com/item?id=49990763\nPoints: 11\n# Comments: 7",
       "image": "",
-      "published": "Wed, 07 Oct 2026 01:42:24 +0000",
+      "published": "Wed, 07 Oct 2026 10:24:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ESP32-C3 Adblock",
-      "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock\nComments URL: https://news.ycombinator.com/item?id=49986862\nPoints: 3\n# Comments: 0",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/chemistry/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49990470\nPoints: 63\n# Comments: 9",
       "image": "",
-      "published": "Wed, 07 Oct 2026 01:39:21 +0000",
+      "published": "Wed, 07 Oct 2026 09:51:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis\nComments URL: https://news.ycombinator.com/item?id=49986765\nPoints: 3\n# Comments: 0",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "link": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "Article URL: https://github.com/szabadkai/c64-keyboard-font/\nComments URL: https://news.ycombinator.com/item?id=49990224\nPoints: 114\n# Comments: 19",
       "image": "",
-      "published": "Wed, 07 Oct 2026 01:27:49 +0000",
+      "published": "Wed, 07 Oct 2026 09:17:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Made Spider-Man Swing Without Animating a Single Frame",
-      "link": "https://dev.to/gu_cci_f94bedb90083e6aab4/i-made-spider-man-swing-without-animating-a-single-frame-5g78",
-      "summary": "I built a Spider-Man swing effect that runs entirely in the browser, with no pre-rendered animation, no sprite sheets, and no video files. Instead, a small AI agent loop generates motion parameters in real time. Here’s h",
+      "title": "Honoring Retry-After and Upstream Hints When NHTSA Slows Down",
+      "link": "https://dev.to/vin_lookup_8dbd4710f77e9e/honoring-retry-after-and-upstream-hints-when-nhtsa-slows-down-235",
+      "summary": "Backoff with jitter is necessary for a free VIN decode that calls NHTSA vPIC. It is not sufficient. When upstream (or your proxy) says wait, ignoring that hint and sleeping a random few hundred milliseconds turns a soft ",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:42:06 +0000",
+      "published": "Wed, 07 Oct 2026 12:02:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Every SaaS Wants Your Phone Number (and How to Decide When to Give It)",
-      "link": "https://dev.to/ghostsms/why-every-saas-wants-your-phone-number-and-how-to-decide-when-to-give-it-4pn0",
-      "summary": "Every few weeks someone asks me why their bank, their food delivery app, their project management tool and their dating app all need a phone number. Most people shrug and type it in. This post is a calm look at why SaaS ",
+      "title": "From Local LLM to Autonomous Agent: Building AI-Driven Dev Tools That Actually Stay in Their Lane",
+      "link": "https://dev.to/tamizuddin/from-local-llm-to-autonomous-agent-building-ai-driven-dev-tools-that-actually-stay-in-their-lane-3bmk",
+      "summary": "Originally published on tamiz.pro.\n\nEvery developer tool powered by an LLM eventually hits the same wall: the model does something you didn't ask for. It rewrites a file it wasn't supposed to touch, calls an API that doe",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:41:56 +0000",
+      "published": "Wed, 07 Oct 2026 12:02:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your API's Newest Users Are Agents: Designing for Non-Human Clients",
-      "link": "https://dev.to/gu_cci_f94bedb90083e6aab4/your-apis-newest-users-are-agents-designing-for-non-human-clients-5b02",
-      "summary": "Introduction\n\n\nYour API's newest users are agents. They don't read docs, they don't browse dashboards, and they don't file support tickets. They parse OpenAPI specs, call endpoints in loops, and expect deterministic, mac",
+      "title": "Agent Grid: Monitor Dozens of AI Agents From One Screen",
+      "link": "https://dev.to/orquesta_live/agent-grid-monitor-dozens-of-ai-agents-from-one-screen-3jn0",
+      "summary": "Originally published at getorquesta.com/blog/agent-grid-monitor-dozens-ai-agents-one-screen\n\n\n\n  \n  \n  The Problem: Local Agents Don't Scale in a Terminal\n\n\nWhen we first shipped Orquesta, the core promise was simple: wr",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:41:25 +0000",
+      "published": "Wed, 07 Oct 2026 12:01:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Build a Rotation-Safe Webhook Receiver: Verify Raw Signatures for Property Billing",
-      "link": "https://dev.to/quentinbarrett5281/how-to-build-a-rotation-safe-webhook-receiver-verify-raw-signatures-for-property-billing-51kf",
-      "summary": "To build a webhook receiver that survives key rotation, verify each signature against the raw body, bind the verified key to a property account, enqueue that evidence, and acknowledge only after the durable write. At 03:",
+      "title": "Debug Log #7: A Phishing Comment, a Four-Level-Deep Reply Thread, and What Actually Grew This Month",
+      "link": "https://dev.to/just_a_side_project/debug-log-7-a-phishing-comment-a-four-level-deep-reply-thread-and-what-actually-grew-this-month-2jgk",
+      "summary": "Four comment threads happened on this blog in the past three weeks. One was a genuine multi-day technical exchange five replies deep. One was a stranger trying to phish the account. My own script, built to check for unan",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:39:29 +0000",
+      "published": "Wed, 07 Oct 2026 12:01:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Recommendation Share: The Missing Market Metric in the Age of Generative AI!",
-      "link": "https://dev.to/alirezaai/ai-recommendation-share-the-missing-market-metric-in-the-age-of-generative-ai-5gag",
-      "summary": "For years, digital competition was relatively easy to describe.\n\nSearch engines gave us rankings.\n\nA brand could ask:\n\n«“What position do we have for this keyword?”»\n\nAnd the answer was measurable.\n\nPosition #1.\nPosition",
+      "title": "Cómo construimos un bot de Binance P2P para Banco de Venezuela: automatización segura de Pago Móvil sin API bancaria",
+      "link": "https://dev.to/pydevtop/como-construimos-un-bot-de-binance-p2p-para-banco-de-venezuela-automatizacion-segura-de-pago-movil-1hba",
+      "summary": "Automatizar pagos para un comerciante de Binance P2P en Venezuela\nparece relativamente sencillo cuando el banco ofrece una API estable.\n\nRecibes una orden. Validás los datos del beneficiario. Ejecutás el pago.\nConfirmás ",
       "image": "",
-      "published": "Wed, 07 Oct 2026 02:38:20 +0000",
+      "published": "Wed, 07 Oct 2026 12:00:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
