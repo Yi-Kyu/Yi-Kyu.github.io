@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-10T11:26:02.550482Z",
+  "updated": "2026-10-10T16:25:12.389840Z",
   "articles": [
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif",
+      "published": "Sat, 10 Oct 2026 16:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyer",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s1600/tp.jpg",
-      "published": "Fri, 09 Oct 2026 18:52:53 +0530",
-      "source": "The Hacker News",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacki",
+      "image": "",
+      "published": "Sat, 10 Oct 2026 11:07:54 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "image": "",
+      "published": "Sat, 10 Oct 2026 10:16:17 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discov",
+      "image": "",
+      "published": "Sat, 10 Oct 2026 08:30:39 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -65,34 +92,7 @@
       "category": "cybersecurity"
     },
     {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 13:02:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 11:38:56 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-speci",
-      "image": "",
-      "published": "Fri, 09 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th",
       "image": "",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
-      "summary": "Article URL: https://github.com/rociiu/talorys\nComments URL: https://news.ycombinator.com/item?id=50031614\nPoints: 3\n# Comments: 0",
+      "title": "The Disease called Politics (1962)",
+      "link": "https://www.panarchy.org/roszak/politics.html",
+      "summary": "Article URL: https://www.panarchy.org/roszak/politics.html\nComments URL: https://news.ycombinator.com/item?id=50034141\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "published": "Sat, 10 Oct 2026 15:53:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "`123456' password used in Danish CPR data breach",
-      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/\nComments URL: https://news.ycombinator.com/item?id=50031269\nPoints: 99\n# Comments: 68",
+      "title": "Knuth Reward Check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check",
+      "summary": "Article URL: https://www.thomas-huehn.com/knuth-reward-check\nComments URL: https://news.ycombinator.com/item?id=50034081\nPoints: 12\n# Comments: 1",
       "image": "",
-      "published": "Sat, 10 Oct 2026 09:51:49 +0000",
+      "published": "Sat, 10 Oct 2026 15:47:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Computers Cannot Make Decisions",
-      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions\nComments URL: https://news.ycombinator.com/item?id=50029982\nPoints: 102\n# Comments: 82",
+      "title": "How Protein Took over the World",
+      "link": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+      "summary": "Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd\nComments URL: https://news.ycombinator.com/item?id=50034008\nPoints: 6\n# Comments: 1",
       "image": "",
-      "published": "Sat, 10 Oct 2026 05:47:46 +0000",
+      "published": "Sat, 10 Oct 2026 15:40:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Food processing influences metabolism and brain activity",
-      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\nComments URL: https://news.ycombinator.com/item?id=50029830\nPoints: 52\n# Comments: 34",
+      "title": "Lobbying Is Corruption",
+      "link": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+      "summary": "Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313\nComments URL: https://news.ycombinator.com/item?id=50033826\nPoints: 3\n# Co",
       "image": "",
-      "published": "Sat, 10 Oct 2026 05:22:30 +0000",
+      "published": "Sat, 10 Oct 2026 15:20:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\nComments URL: https://news.ycombinator.com/item?id=50029123\nPoints: 198\n# Comments: 95",
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+      "summary": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical\nComments URL: https://news.ycombinator.com/item?id=50033721\nPoints: 8\n# Comments: 0",
       "image": "",
-      "published": "Sat, 10 Oct 2026 03:02:47 +0000",
+      "published": "Sat, 10 Oct 2026 15:10:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The receipt CSS everyone copies, @page { size: 80mm auto }, does nothing in Chrome",
-      "link": "https://dev.to/azeem_ullah/the-receipt-css-everyone-copies-page-size-80mm-auto-does-nothing-in-chrome-19o0",
-      "summary": "If you print receipts with window.print(), you have probably pasted this into your stylesheet at some point:\n\n\n\n@page { size: 80mm auto; margin: 0; }\n\n\n\n\n\n\nIt's everywhere. One example: on the WordPress.org support forum",
+      "title": "# OmniScan AR: Turning the Real World into an Interactive AI Learning Experience 🌍📱",
+      "link": "https://dev.to/umangsh941/-omniscan-ar-turning-the-real-world-into-an-interactive-ai-learning-experience-p7c",
+      "summary": "OmniScan AR: Turning the Real World into an Interactive AI Learning Experience 🌍📱\n\n\nThis is my submission for the Hacktoberfest Open-Source AI Challenge — Week 1: Touch Grass.\n\n\n  \n  \n  What I Built\n\n\nOmniScan AR (EvoSna",
       "image": "",
-      "published": "Sat, 10 Oct 2026 11:21:19 +0000",
+      "published": "Sat, 10 Oct 2026 16:23:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why API Gateways Keep Failing Authentication: Lessons From Cisco ISE CVE-2026-76460",
-      "link": "https://dev.to/stark_zhuang_df5076f35c68/why-api-gateways-keep-failing-authentication-lessons-from-cisco-ise-cve-2026-76460-16b7",
-      "summary": "Why API Gateways Keep Failing Authentication: Lessons From Cisco ISE CVE-2026-76460\n\n\nA maximum severity score is rare enough to draw attention, and CVE-2026-76460 earned it. The flaw in Cisco Identity Services Engine co",
+      "title": "Panel web con React y MQTT sobre AWS IoT Core",
+      "link": "https://dev.to/stevencarvajal/panel-web-con-react-y-mqtt-sobre-aws-iot-core-1gn",
+      "summary": "Publicado originalmente en iot.gripe, como parte 10 de la serie \"Domótica con ESP32 y AWS desde cero\".\n\nUn panel web que muestra cada luz con un interruptor, y que se actualiza al instante cuando la luz cambia, necesita ",
       "image": "",
-      "published": "Sat, 10 Oct 2026 11:20:42 +0000",
+      "published": "Sat, 10 Oct 2026 16:22:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Keyword Matrix: How I Find Gaps My Tool Sites Miss",
-      "link": "https://dev.to/eye_java_420f1faa10ae8b86/keyword-matrix-how-i-find-gaps-my-tool-sites-miss-3oh6",
-      "summary": "I run a small family of free, no-login tool sites — eight of them are listed on my tools page — and each site lives or dies on search traffic. This morning I ran two keyword-matrix batches to find ranking gaps: clusters ",
+      "title": "Controlar un ESP32 con Siri usando Atajos, paso a paso",
+      "link": "https://dev.to/stevencarvajal/controlar-un-esp32-con-siri-usando-atajos-paso-a-paso-3ocm",
+      "summary": "Publicado originalmente en iot.gripe, como parte 9 de la serie \"Domótica con ESP32 y AWS desde cero\".\n\nControlar la casa por voz parece exigir integraciones complejas con Apple Home, HomeKit o certificaciones. Para un pr",
       "image": "",
-      "published": "Sat, 10 Oct 2026 11:19:53 +0000",
+      "published": "Sat, 10 Oct 2026 16:22:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Grass Pass: a local Gemma model writes the walk, then you put the screen away",
-      "link": "https://dev.to/shresth_prakash_161400718/grass-pass-a-local-gemma-model-writes-the-walk-then-you-put-the-screen-away-32a8",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass\n\n\n  \n  \n  What I Built\n\n\nMost \"get outside\" software has a design problem: it asks you to stare at a screen so it can tell you to lo",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fpyfcldpvy0gqm9x8zjue.png",
-      "published": "Sat, 10 Oct 2026 11:19:46 +0000",
+      "title": "DynamoDB para IoT: cómo modelar dispositivos y lecturas de sensores",
+      "link": "https://dev.to/stevencarvajal/dynamodb-para-iot-como-modelar-dispositivos-y-lecturas-de-sensores-5ckk",
+      "summary": "Publicado originalmente en iot.gripe, como parte 7 de la serie \"Domótica con ESP32 y AWS desde cero\".\n\nEl Device Shadow guarda el estado actual de cada dispositivo (parte 5), pero un sistema IoT necesita guardar más cosa",
+      "image": "",
+      "published": "Sat, 10 Oct 2026 16:22:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Outproof: One Verified Outing, Powered by Local Gemma",
-      "link": "https://dev.to/smishra61/outproof-one-verified-outing-powered-by-local-gemma-4i31",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.\n\n\n  \n  \n  What I Built\n\n\n“I should go outside” can turn into another half-hour on a screen: searching places, comparing reviews, ch",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sat, 10 Oct 2026 11:18:03 +0000",
+      "title": "API serverless para controlar un ESP32 con AWS Lambda",
+      "link": "https://dev.to/stevencarvajal/api-serverless-para-controlar-un-esp32-con-aws-lambda-4a0j",
+      "summary": "Publicado originalmente en iot.gripe, como parte 8 de la serie \"Domótica con ESP32 y AWS desde cero\".\n\nLa web app puede hablar con AWS IoT Core directamente (parte 10), pero hay clientes que no pueden: un Atajo de Siri, ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fizlzjcc30p0sl0p1ax71.png",
+      "published": "Sat, 10 Oct 2026 16:22:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
