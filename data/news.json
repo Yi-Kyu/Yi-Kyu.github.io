@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-15T01:57:52.571465Z",
+  "updated": "2026-10-15T10:24:27.056256Z",
   "articles": [
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.\n\nThe spike, according to GitGuardian, was observed on October 8 and 9, 2026.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg",
+      "published": "Thu, 15 Oct 2026 14:15:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.\n\nLangflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg",
+      "published": "Thu, 15 Oct 2026 12:37:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.\n\nThe vulnerabilities in ques",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg",
+      "published": "Thu, 15 Oct 2026 12:13:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of re",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg",
+      "published": "Thu, 15 Oct 2026 11:47:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logg",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
-      "published": "Wed, 14 Oct 2026 23:08:31 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "image": "",
+      "published": "Thu, 15 Oct 2026 05:10:20 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of t",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
-      "published": "Wed, 14 Oct 2026 22:39:15 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg",
-      "published": "Wed, 14 Oct 2026 22:04:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version follo",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg",
-      "published": "Wed, 14 Oct 2026 18:00:42 +0530",
-      "source": "The Hacker News",
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 19",
+      "image": "",
+      "published": "Thu, 15 Oct 2026 04:06:47 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigat",
       "image": "",
       "published": "Wed, 14 Oct 2026 13:46:50 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "image": "",
-      "published": "Wed, 14 Oct 2026 13:29:14 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-      "image": "",
-      "published": "Wed, 14 Oct 2026 10:27:01 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 67\n# Comments: 18",
+      "title": "The cost of getting a job today",
+      "link": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "summary": "Article URL: https://weli.dev/blog/the-cost-of-getting-a-job-today/\nComments URL: https://news.ycombinator.com/item?id=50101149\nPoints: 15\n# Comments: 12",
       "image": "",
-      "published": "Wed, 14 Oct 2026 23:59:37 +0000",
+      "published": "Thu, 15 Oct 2026 09:13:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A new model for open source: closed to pull requests, open to remix",
-      "link": "https://ghuntley.com/remix/",
-      "summary": "Article URL: https://ghuntley.com/remix/\nComments URL: https://news.ycombinator.com/item?id=50097182\nPoints: 9\n# Comments: 5",
+      "title": "AI was great until it was not",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not\nComments URL: https://news.ycombinator.com/item?id=50100791\nPoints: 53\n# Comments: 35",
       "image": "",
-      "published": "Wed, 14 Oct 2026 23:40:28 +0000",
+      "published": "Thu, 15 Oct 2026 08:18:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tiny Little Office",
-      "link": "https://tinylittleoffice.com/",
-      "summary": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 138\n# Comments: 21",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "link": "https://github.com/awslabs/aidlc-workflows",
+      "summary": "Article URL: https://github.com/awslabs/aidlc-workflows\nComments URL: https://news.ycombinator.com/item?id=50100387\nPoints: 8\n# Comments: 8",
       "image": "",
-      "published": "Wed, 14 Oct 2026 22:10:08 +0000",
+      "published": "Thu, 15 Oct 2026 07:20:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "link": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 185\n# Comments: 60",
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "link": "https://github.com/andunieee/flipflop",
+      "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishin",
       "image": "",
-      "published": "Wed, 14 Oct 2026 21:11:03 +0000",
+      "published": "Thu, 15 Oct 2026 04:25:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenCode 2.0",
-      "link": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 299\n# Comments: 124",
+      "title": "The Double Headed Stack Allocator",
+      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 66\n# Comments: 20",
       "image": "",
-      "published": "Wed, 14 Oct 2026 20:48:24 +0000",
+      "published": "Thu, 15 Oct 2026 02:06:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "You Cannot Stop What Arrives",
-      "link": "https://dev.to/miguel_shinyenyi_e2291c8c/you-cannot-stop-what-arrives-co8",
-      "summary": "What I notice\n\n\nI cannot stop my thoughts. Try it yourself. Set a timer for thirty seconds and think of nothing. A thought will arrive before you pick it. This is my own observation. I have not checked the research on it",
-      "image": "",
-      "published": "Thu, 15 Oct 2026 01:51:52 +0000",
+      "title": "Where Did 90% of My Photo Go? JPEG Compression, Explained Gently",
+      "link": "https://dev.to/jigsawlabs/where-did-90-of-my-photo-go-jpeg-compression-explained-gently-9ch",
+      "summary": "Drag a 4 MB photo into a compressor, and a few seconds later you get a 400 KB file that looks… the same. Nine-tenths of the data is gone and your eye can't find the hole. That should bother you more than it does. Where d",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh6q9lspn9xlss1aiq91b.png",
+      "published": "Thu, 15 Oct 2026 10:23:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "There is no public Apple Messages for Business API",
-      "link": "https://dev.to/ambdirectory/there-is-no-public-apple-messages-for-business-api-1l7k",
-      "summary": "Brands keep looking for an Apple Messages for Business API key. Apple does not issue one to brands.\n\nThe channel is real. A customer can message a business from the Messages app, Apple Maps, Safari, or a Message Suggest ",
+      "title": "GitLab's Dependency Firewall moves package policy in front of the build",
+      "link": "https://dev.to/leobaniak/gitlabs-dependency-firewall-moves-package-policy-in-front-of-the-build-3c8d",
+      "summary": "GitLab introduced Dependency Firewall in early access at its Transcend event. It is a policy layer that blocks malicious, vulnerable and non-compliant packages before they reach a build. For CI owners, the useful part is",
       "image": "",
-      "published": "Thu, 15 Oct 2026 01:49:49 +0000",
+      "published": "Thu, 15 Oct 2026 10:23:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Node.js App Logging: Hosted Service or Self-Hosted ELK for Junior SaaS Developers",
-      "link": "https://dev.to/valerianblack3895/nodejs-app-logging-hosted-service-or-self-hosted-elk-for-junior-saas-developers-469o",
-      "summary": "Short answer: choose hosted logging for a small Node.js marketplace unless operating the logging system is already part of the product's engineering work. Self-host ELK when control over storage, network boundaries, and ",
+      "title": "Schema Evolution in Financial Data APIs: Versioning Without Breaking Consumers",
+      "link": "https://dev.to/snehawani21/schema-evolution-in-financial-data-apis-versioning-without-breaking-consumers-3db5",
+      "summary": "A financial data API can work perfectly today and still break a downstream service tomorrow.\n\nImagine an API that returns a credit account as JSON:\n\n\n\n{\n  \"account_id\": \"acc_1024\",\n  \"balance\": \"12500.00\",\n  \"currency\": ",
       "image": "",
-      "published": "Thu, 15 Oct 2026 01:49:34 +0000",
+      "published": "Thu, 15 Oct 2026 10:23:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Next.js Transactional Welcome Email: Node.js Delivery Tracing and Bounce Suppression",
-      "link": "https://dev.to/radcliffbarrett4718/nextjs-transactional-welcome-email-nodejs-delivery-tracing-and-bounce-suppression-3b56",
-      "summary": "Choose an event ledger when a welcome message affects a learner's access: accept once, record every delivery transition, suppress permanent failures, and let operators poll your state rather than a mail dashboard. This t",
+      "title": "Clip a podcast into vertical Shorts from Claude Code with one MCP server",
+      "link": "https://dev.to/bitmamba24/clip-a-podcast-into-vertical-shorts-from-claude-code-with-one-mcp-server-40f3",
+      "summary": "I run Prolifik, a short-form video tool. This post is about its MCP server, which lets you ask Claude to cut a 90-minute podcast into vertical clips without leaving the terminal. Below is the setup and the four tool call",
       "image": "",
-      "published": "Thu, 15 Oct 2026 01:49:09 +0000",
+      "published": "Thu, 15 Oct 2026 10:23:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "6 Python Audit Tests for PDF Answers: Changelog Tracker Citation Tracing",
-      "link": "https://dev.to/lunarbreeze4173085/6-python-audit-tests-for-pdf-answers-changelog-tracker-citation-tracing-5hhg",
-      "summary": "A media team answering questions over a folder of developer changelog PDFs has one constraint that changes the whole retrieval architecture: every claim must lead back to the exact source passage, even after a PDF is rep",
+      "title": "Four email switches stored as an array of the ones you turned off, and consent that belongs to the address",
+      "link": "https://dev.to/daniel_pertu/four-email-switches-stored-as-an-array-of-the-ones-you-turned-off-and-consent-that-belongs-to-the-m06",
+      "summary": "Nakodo sends a brand four kinds of email about its campaigns, and each one can be switched off:\n\n\n\nexport const NOTIFICATION_EMAILS = [\"first_results\", \"daily_digest\", \"needs_you\", \"after_intro\"] as const;\nexport type No",
       "image": "",
-      "published": "Thu, 15 Oct 2026 01:48:33 +0000",
+      "published": "Thu, 15 Oct 2026 10:22:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
