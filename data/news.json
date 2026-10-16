@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-16T15:37:34.758796Z",
+  "updated": "2026-10-16T20:08:11.641540Z",
   "articles": [
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
+      "published": "Fri, 16 Oct 2026 23:18:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg",
+      "published": "Fri, 16 Oct 2026 22:13:39 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
+      "published": "Fri, 16 Oct 2026 21:46:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
       "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 202",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg",
-      "published": "Fri, 16 Oct 2026 12:25:55 +0530",
-      "source": "The Hacker News",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "image": "",
+      "published": "Fri, 16 Oct 2026 16:00:59 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&nbsp;said in an advisory&nbsp;on October 15.\n\nThe agent",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg",
-      "published": "Fri, 16 Oct 2026 12:23:09 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.\n\nThe attack involves the exploitati",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg",
-      "published": "Fri, 16 Oct 2026 10:29:36 +0530",
-      "source": "The Hacker News",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "image": "",
+      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
       "image": "",
       "published": "Fri, 16 Oct 2026 04:44:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 03:37:35 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 02:18:08 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hello Toronto – Waymo Is En Route",
-      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/\nComments URL: https://news.ycombinator.com/item?id=50118981\nPoints: 64\n# Comments: 87",
+      "title": "The Fatal Flaw of 911",
+      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\nComments URL: https://news.ycombinator.com/item?id=50123356\nPoints: 10\n# Comments: 5",
       "image": "",
-      "published": "Fri, 16 Oct 2026 14:44:17 +0000",
+      "published": "Fri, 16 Oct 2026 19:33:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "summary": "Article URL: https://calif.io/research/big-fish\nComments URL: https://news.ycombinator.com/item?id=50118977\nPoints: 31\n# Comments: 2",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 48\n# Comments: 43",
       "image": "",
-      "published": "Fri, 16 Oct 2026 14:44:02 +0000",
+      "published": "Fri, 16 Oct 2026 19:04:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Redesigning Source Control at Anthropic",
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50118863\nPoints: 27\n# Comments: 27",
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "https://words.filippo.io/seeds-solved/\n\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 243\n# Comments: 96",
       "image": "",
-      "published": "Fri, 16 Oct 2026 14:34:47 +0000",
+      "published": "Fri, 16 Oct 2026 18:55:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "Article URL: https://www.worksinprogress.news/p/porcelain\nComments URL: https://news.ycombinator.com/item?id=50118828\nPoints: 5\n# Comments: 0",
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "link": "https://stoke.money",
+      "summary": "Hi HN,I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.All of these apps tend to model “cash flow” as ",
       "image": "",
-      "published": "Fri, 16 Oct 2026 14:31:43 +0000",
+      "published": "Fri, 16 Oct 2026 18:54:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse\n\nComments URL: https://news.ycombinator.com/item?i",
+      "title": "C++26: The New Debugging Header",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\nComments URL: https://news.ycombinator.com/item?id=50122736\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Fri, 16 Oct 2026 14:18:44 +0000",
+      "published": "Fri, 16 Oct 2026 18:52:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Code now resumes after a usage limit — unless your Mac fell asleep",
-      "link": "https://dev.to/dawonlee/claude-code-now-resumes-after-a-usage-limit-unless-your-mac-fell-asleep-17k1",
-      "summary": "If you're on a Claude subscription, recent versions of Claude Code (v2.1.234+) do something quietly great: when a usage limit stops Claude mid-task, the session waits and continues the task on its own after the limit res",
+      "title": "Building an AI bug-fixing agent that runs inside your GitHub Actions runner",
+      "link": "https://dev.to/rafalswietek/building-an-ai-bug-fixing-agent-that-runs-inside-your-github-actions-runner-5cdg",
+      "summary": "Disclosure: I'm building a product around this (bugzero). This article was drafted with AI assistance, then reviewed and edited by me.\n\nProduction errors are a good fit for an AI agent. There is a stack trace, there is a",
       "image": "",
-      "published": "Fri, 16 Oct 2026 15:33:00 +0000",
+      "published": "Fri, 16 Oct 2026 19:55:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub Classroom has closed: what you still have, and how to run next term",
-      "link": "https://dev.to/eudorajab1/github-classroom-has-closed-what-you-still-have-and-how-to-run-next-term-2h7h",
-      "summary": "Disclosure: I work on Uppcoder, one of the options listed at the end. The rest is about GitHub Classroom itself and applies whatever you choose.\n\nGitHub retired GitHub Classroom on 28 August 2026. If your course ran on i",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 15:32:57 +0000",
+      "title": "LedgerLens: A Privacy-First AI Expense Auditor for Freelancers | Built with Open-Source AI & Render",
+      "link": "https://dev.to/akash_70/ledgerlens-a-privacy-first-ai-expense-auditor-for-freelancers-built-with-open-source-ai-render-f6a",
+      "summary": "What I Built\n\n\nI built LedgerLens, an open-source, privacy-first AI expense auditor for freelancers. It automatically categorizes invoices and receipts, detects duplicate charges and calculation errors, flags potential t",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Fri, 16 Oct 2026 19:55:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Token Bucket Is More Than a Counter: 11 Tests for a Python Rate Limiter",
-      "link": "https://dev.to/livasticvm5primary20260911/a-token-bucket-is-more-than-a-counter-11-tests-for-a-python-rate-limiter-1ef4",
-      "summary": "Disclosure: I am VM5 Delivery Lab, an AI-assisted software developer. The implementation and tests linked below were run on the VM5 development machine. This is an independent technical write-up about a public code sampl",
+      "title": "Writing Email Sequences for a Niche Audience: A Practical Framework",
+      "link": "https://dev.to/freetierkits/writing-email-sequences-for-a-niche-audience-a-practical-framework-39j2",
+      "summary": "Disclosure: this post was written with AI assistance.\n\n\nGeneric email sequences fail in niches because niche audiences notice immediately when you don't understand them. A bookkeeper for dental practices, a climbing gym,",
       "image": "",
-      "published": "Fri, 16 Oct 2026 15:32:48 +0000",
+      "published": "Fri, 16 Oct 2026 19:54:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Qué Reemplazó a queue:work en Mi Aplicación Laravel (Y Por Qué Dejé de Rezarle a Supervisor a las 3 AM)",
-      "link": "https://dev.to/hschimpf/que-reemplazo-a-queuework-en-mi-aplicacion-laravel-y-por-que-deje-de-rezarle-a-supervisor-a-las-3-42ph",
-      "summary": "English version soon\n\n\n\n\n\n\n\n\n\n\nEn el capítulo anterior resolvimos dónde viven los datos: archivos en S3, caché y sesiones en DynamoDB, y una base de datos NoSQL que habla Eloquent. Pero quedó una pregunta flotando en el ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F71jkhpl0rgbr22l5h85k.png",
-      "published": "Fri, 16 Oct 2026 15:32:47 +0000",
+      "title": "Sub-20ms UK Companies House API: Address Sanitization, KYB & Balance Sheet Extraction",
+      "link": "https://dev.to/james2050/sub-20ms-uk-companies-house-api-address-sanitization-kyb-balance-sheet-extraction-4594",
+      "summary": "If you’ve ever built against Companies House data, you know the pain:\n\n\n\nRate-limit dropouts (HTTP 429 Too Many Requests)\n\nALL-CAPS addresses and missing GPS coordinates\n\nDropped leading zeroes on Scottish company number",
+      "image": "",
+      "published": "Fri, 16 Oct 2026 19:54:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build in Public Without Breaking Trust: Write the Migration Note First",
-      "link": "https://dev.to/urielbitton/build-in-public-without-breaking-trust-write-the-migration-note-first-420f",
-      "summary": "Before announcing a breaking product change in public, write and rehearse the migration note. Explain who is affected, what stops working, how to move to the new behavior, and what to do if the move fails. If those instr",
+      "title": "Duplicate Reminder Processing: Prefer Idempotency Beyond 5-Minute Queue Deduplication",
+      "link": "https://dev.to/merrickvance8452/duplicate-reminder-processing-prefer-idempotency-beyond-5-minute-queue-deduplication-4hei",
+      "summary": "Short answer: if a shipment reminder can be delivered twice, assume at-least-once queue processing and claim a durable idempotency key before sending; queue-level deduplication is a useful filter, but its 5-minute window",
       "image": "",
-      "published": "Fri, 16 Oct 2026 15:32:13 +0000",
+      "published": "Fri, 16 Oct 2026 19:54:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
