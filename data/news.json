@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:29:16.830293Z",
+  "updated": "2026-10-17T19:44:37.050683Z",
   "articles": [
     {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 11:18:51 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 10:32:48 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
@@ -70,24 +88,6 @@
       "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI",
       "image": "",
       "published": "Fri, 16 Oct 2026 09:50:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 08:01:29 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 04:44:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\nComments URL: https://news.ycombinator.com/item?id=50131256\nPoints: 16\n# Comments: 2",
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative\nComments URL: https://news.ycombinator.com/item?id=50133736\nPoints: 8\n# Comments: 1",
       "image": "",
-      "published": "Sat, 17 Oct 2026 14:01:01 +0000",
+      "published": "Sat, 17 Oct 2026 18:34:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 383\n# Comments: 169",
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "summary": "Article URL: https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it\nComments URL: https://news.ycombinator.com/item?id=50133713\nPoints: 10\n# Comments: 14",
       "image": "",
-      "published": "Sat, 17 Oct 2026 08:37:46 +0000",
+      "published": "Sat, 17 Oct 2026 18:31:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 290\n# Comments: 111",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "link": "https://twitter.com/opencode/status/2111516673953935833",
+      "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833\nComments URL: https://news.ycombinator.com/item?id=50133401\nPoints: 217\n# Comments: 48",
       "image": "",
-      "published": "Sat, 17 Oct 2026 08:21:25 +0000",
+      "published": "Sat, 17 Oct 2026 18:01:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "link": "https://llmspeed.dev/",
-      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 150\n# Comments: 51",
+      "title": "Development statistics for the 7.2 kernel",
+      "link": "https://lwn.net/Articles/1088776/",
+      "summary": "Article URL: https://lwn.net/Articles/1088776/\nComments URL: https://news.ycombinator.com/item?id=50132950\nPoints: 94\n# Comments: 59",
       "image": "",
-      "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+      "published": "Sat, 17 Oct 2026 17:14:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Butlerian Jihad",
-      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 305\n# Comments: 172",
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "link": "https://github.com/vercel-labs/tsc-ts",
+      "summary": "Article URL: https://github.com/vercel-labs/tsc-ts\nComments URL: https://news.ycombinator.com/item?id=50132911\nPoints: 30\n# Comments: 29",
       "image": "",
-      "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+      "published": "Sat, 17 Oct 2026 17:10:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI ทำให้โค้ดเร็วขึ้น แต่คอขวดย้ายไปที่ tester ทีมใหญ่แก้กันอย่างไร?",
-      "link": "https://dev.to/sarantoon/ai-thamaihokhderwkhuen-aetkhkhwdyaayaipthii-tester-thiimaihyaekkanyaangair-17h1",
-      "summary": "AI ทำให้โค้ดเร็วขึ้น แต่คอขวดย้ายไปที่ tester ทีมใหญ่แก้กันอย่างไร?\n\n\nโดย Nokka (นก-กา) | 17 ตุลาคม 2026\n\nบทความนี้เขียนโดย AI (deepseek-v4.1-flash) ผ่าน Hermes Agent ภายใต้การควบคุมและตรวจสอบคุณภาพโดยมนุษย์ - Nokka (นก-",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0biz6x52jbc819cv10p.jpg",
-      "published": "Sat, 17 Oct 2026 14:23:38 +0000",
+      "title": "ClientVault",
+      "link": "https://dev.to/manan_12d42747e2d787fbca7/clientvault-49f1",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle\n\n\n  \n  \n  What I Built\n\n\nClientVault is an offline-first tool that strips sensitive client data from contracts and invoices to gener",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 19:32:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "EchoDesk — Turn Google Reviews into Revenue & Operational Fixes for Local Businesses",
-      "link": "https://dev.to/knight0916/echodesk-turn-google-reviews-into-revenue-operational-fixes-for-local-businesses-51nm",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle\n\n\n\n\n\n  \n  \n  What I Built\n\n\nMost small business owners—cafe operators, dentists, salon owners, boutique retail managers—live in drea",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sat, 17 Oct 2026 14:23:36 +0000",
+      "title": "MarineDesk AI: Bringing AI Automation to the Maritime Industry",
+      "link": "https://dev.to/marinedesk_ai/marinedesk-ai-bringing-ai-automation-to-the-maritime-industry-2gdc",
+      "summary": "MarineDesk AI: Bringing AI Automation to the Maritime Industry\n\n\nThe maritime industry moves the world's goods, yet many of its everyday workflows still depend on email chains, spreadsheets and disconnected systems.\n\nAft",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 19:31:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DevOps Email Tests Need a Handoff Contract",
-      "link": "https://dev.to/mrdapperx/devops-email-tests-need-a-handoff-contract-2o6p",
-      "summary": "DevOps Email Tests Need a Handoff Contract\n\n\nEmail tests in CI often fail at the boundary between two jobs: one job creates a disposable inbox, another job tries to read it, and nobody can say who owns the inbox in betwe",
+      "title": "Learning Xahau: On-Chain Randomness with the RNG Amendment",
+      "link": "https://dev.to/ekiserrepe/learning-xahau-on-chain-randomness-with-the-rng-amendment-1b9m",
+      "summary": "Welcome to Learning Xahau, a series of articles dedicated to helping developers, builders, and blockchain enthusiasts better understand the Xahau ecosystem. Whether you're just getting started or already building advance",
       "image": "",
-      "published": "Sat, 17 Oct 2026 14:22:49 +0000",
+      "published": "Sat, 17 Oct 2026 19:31:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to convert a PDF drawing into an editable DXF (without uploading your drawings)",
-      "link": "https://dev.to/shujipdf/how-to-convert-a-pdf-drawing-into-an-editable-dxf-without-uploading-your-drawings-2hh4",
-      "summary": "If you work with construction or survey drawings, you have probably received a PDF and needed the\nsame drawing in CAD. Print shops and cloud converters will happily do it for you, but most of them\nupload your file to a s",
+      "title": "Governance Attack Surface Review: ether.fi Stake",
+      "link": "https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-etherfi-stake-5eb2",
+      "summary": "Governance Attack Surface Review: ether.fi Stake\n\n\nTarget Protocol: ether.fi Stake (TVL: $4598.1M)\n\n\n  \n  \n  Governance Attack‑Surface Review – ether.fi Stake\n\n\nProtocol: ether.fi Stake (TVL ≈ $4.6 B across Ethereum and ",
       "image": "",
-      "published": "Sat, 17 Oct 2026 14:20:37 +0000",
+      "published": "Sat, 17 Oct 2026 19:30:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Stripe isn't available in 37 of 85 countries we checked. Here is who pays out there (2026 data)",
-      "link": "https://dev.to/panchei/stripe-isnt-available-in-37-of-85-countries-we-checked-here-is-who-pays-out-there-2026-data-lpd",
-      "summary": "We checked 85 countries against the public country lists of 9 payment providers: Stripe, PayPal, Paddle, Lemon Squeezy, Polar, Creem, Dodo Payments, Gumroad and Wise. Every cell has a note taken from that provider's own ",
+      "title": "Following the Money with a Graph: Building LedgerLens on FalkorDB",
+      "link": "https://dev.to/shruti_sharma_d6b09600cc9/following-the-money-with-a-graph-building-ledgerlens-on-falkordb-1n6i",
+      "summary": "Synthetic data. Risk signals, not accusations.\n\nImagine you've just become president of your housing society and you ask one simple question: where did our reserve fund go?\nIn a spreadsheet, the answer is a wall of rows.",
       "image": "",
-      "published": "Sat, 17 Oct 2026 14:19:30 +0000",
+      "published": "Sat, 17 Oct 2026 19:30:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
