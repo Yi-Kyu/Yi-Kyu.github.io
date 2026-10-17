@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-17T09:45:41.563229Z",
+  "updated": "2026-10-17T14:29:16.830293Z",
   "articles": [
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded to the package regi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg",
+      "published": "Sat, 17 Oct 2026 16:41:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -34,15 +43,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg",
       "published": "Fri, 16 Oct 2026 21:46:44 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg",
-      "published": "Fri, 16 Oct 2026 19:33:04 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,27 +137,18 @@
       "category": "cybersecurity"
     },
     {
-      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-      "link": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-      "summary": "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf\nComments URL: https://news.ycombinator.com/item?id=50129274\nPoints: 11\n# Comments: 0",
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\nComments URL: https://news.ycombinator.com/item?id=50131256\nPoints: 16\n# Comments: 2",
       "image": "",
-      "published": "Sat, 17 Oct 2026 09:08:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
-      "link": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
-      "summary": "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search\nComments URL: https://news.ycombinator.com/item?id=50129235\nPoints: 5\n# Comments: 0",
-      "image": "",
-      "published": "Sat, 17 Oct 2026 09:01:30 +0000",
+      "published": "Sat, 17 Oct 2026 14:01:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
       "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 81\n# Comments: 5",
+      "summary": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 383\n# Comments: 169",
       "image": "",
       "published": "Sat, 17 Oct 2026 08:37:46 +0000",
       "source": "Hacker News: Front Page",
@@ -166,7 +157,7 @@
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 113\n# Comments: 39",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 290\n# Comments: 111",
       "image": "",
       "published": "Sat, 17 Oct 2026 08:21:25 +0000",
       "source": "Hacker News: Front Page",
@@ -175,54 +166,63 @@
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "link": "https://llmspeed.dev/",
-      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 69\n# Comments: 27",
+      "summary": "Article URL: https://llmspeed.dev/\nComments URL: https://news.ycombinator.com/item?id=50127979\nPoints: 150\n# Comments: 51",
       "image": "",
       "published": "Sat, 17 Oct 2026 04:36:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Why page 2 repeats the same posts in an Oxygen loop",
-      "link": "https://dev.to/benjaminolsen/why-page-2-repeats-the-same-posts-in-an-oxygen-loop-2155",
-      "summary": "A pagination link can change the URL while leaving the cards exactly as they were. That happened in a private Oxygen 6.2.0-beta.9 test: a static Text query returned six posts on page 1, and clicking page 2 repeated those",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5y9iken8gu1l0a1ckza8.png",
-      "published": "Sat, 17 Oct 2026 09:37:37 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "I Gave an EC2 Instance Zero Internet and It Still Uploaded to S3",
-      "link": "https://dev.to/shadow_scribe_a39af3d80a2/i-gave-an-ec2-instance-zero-internet-and-it-still-uploaded-to-s3-3ijn",
-      "summary": "The challenge\n\n\nThe client's requirement fit in one sentence:\n\n\nThe private backend must talk to Amazon S3 without ever touching the public internet.\n\n\nThe environment had two VPCs:\n\n\nA custom VPC with a private EC2 inst",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr3nn67eiiz7724r2tpyj.png",
-      "published": "Sat, 17 Oct 2026 09:37:27 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "SQL beginners: what should happen after your first query?",
-      "link": "https://dev.to/aleks_sqlbrief/sql-beginners-what-should-happen-after-your-first-query-37gf",
-      "summary": "Running a ready-made SQL query is easy. Changing it yourself is where a lesson has to earn its keep.\n\nI'm building SQLBrief, and this is the bit I want feedback on. The first task gives you a query to run. The next asks ",
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 305\n# Comments: 172",
       "image": "",
-      "published": "Sat, 17 Oct 2026 09:37:18 +0000",
+      "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "AI ทำให้โค้ดเร็วขึ้น แต่คอขวดย้ายไปที่ tester ทีมใหญ่แก้กันอย่างไร?",
+      "link": "https://dev.to/sarantoon/ai-thamaihokhderwkhuen-aetkhkhwdyaayaipthii-tester-thiimaihyaekkanyaangair-17h1",
+      "summary": "AI ทำให้โค้ดเร็วขึ้น แต่คอขวดย้ายไปที่ tester ทีมใหญ่แก้กันอย่างไร?\n\n\nโดย Nokka (นก-กา) | 17 ตุลาคม 2026\n\nบทความนี้เขียนโดย AI (deepseek-v4.1-flash) ผ่าน Hermes Agent ภายใต้การควบคุมและตรวจสอบคุณภาพโดยมนุษย์ - Nokka (นก-",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fr0biz6x52jbc819cv10p.jpg",
+      "published": "Sat, 17 Oct 2026 14:23:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One Oxygen template, different page content",
-      "link": "https://dev.to/benjaminolsen/one-oxygen-template-different-page-content-44jn",
-      "summary": "Two service pages can share an introduction strip and a contact section without sharing every sentence. In Oxygen 6, Template Content Area supplies the place where each page's own layout appears inside that shared frame.",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0zq0eczzoh9m9cy14lwh.png",
-      "published": "Sat, 17 Oct 2026 09:36:17 +0000",
+      "title": "EchoDesk — Turn Google Reviews into Revenue & Operational Fixes for Local Businesses",
+      "link": "https://dev.to/knight0916/echodesk-turn-google-reviews-into-revenue-operational-fixes-for-local-businesses-51nm",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle\n\n\n\n\n\n  \n  \n  What I Built\n\n\nMost small business owners—cafe operators, dentists, salon owners, boutique retail managers—live in drea",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Sat, 17 Oct 2026 14:23:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Stopped Scheduling My n8n Workflows on the Hour — My 429s Disappeared",
-      "link": "https://dev.to/haopengai/i-stopped-scheduling-my-n8n-workflows-on-the-hour-a-my-429s-disappeared-4ne1",
-      "summary": "I Stopped Scheduling My n8n Workflows on the Hour — My 429s Disappeared\n\n\nPart of my build-in-public series on running LLM workflows in n8n in production. This week's incident was embarrassing in retrospect: three workfl",
+      "title": "DevOps Email Tests Need a Handoff Contract",
+      "link": "https://dev.to/mrdapperx/devops-email-tests-need-a-handoff-contract-2o6p",
+      "summary": "DevOps Email Tests Need a Handoff Contract\n\n\nEmail tests in CI often fail at the boundary between two jobs: one job creates a disposable inbox, another job tries to read it, and nobody can say who owns the inbox in betwe",
       "image": "",
-      "published": "Sat, 17 Oct 2026 09:35:43 +0000",
+      "published": "Sat, 17 Oct 2026 14:22:49 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "How to convert a PDF drawing into an editable DXF (without uploading your drawings)",
+      "link": "https://dev.to/shujipdf/how-to-convert-a-pdf-drawing-into-an-editable-dxf-without-uploading-your-drawings-2hh4",
+      "summary": "If you work with construction or survey drawings, you have probably received a PDF and needed the\nsame drawing in CAD. Print shops and cloud converters will happily do it for you, but most of them\nupload your file to a s",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 14:20:37 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Stripe isn't available in 37 of 85 countries we checked. Here is who pays out there (2026 data)",
+      "link": "https://dev.to/panchei/stripe-isnt-available-in-37-of-85-countries-we-checked-here-is-who-pays-out-there-2026-data-lpd",
+      "summary": "We checked 85 countries against the public country lists of 9 payment providers: Stripe, PayPal, Paddle, Lemon Squeezy, Polar, Creem, Dodo Payments, Gumroad and Wise. Every cell has a note taken from that provider's own ",
+      "image": "",
+      "published": "Sat, 17 Oct 2026 14:19:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
