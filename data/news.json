@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T09:58:31.239804Z",
+  "updated": "2026-10-18T14:55:59.471661Z",
   "articles": [
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "image": "",
+      "published": "Sun, 18 Oct 2026 10:23:16 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
@@ -79,15 +88,6 @@
       "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "image": "",
       "published": "Fri, 16 Oct 2026 13:20:03 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 09:50:59 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/\nComments URL: https://news.ycombinator.com/item?id=50138531\nPoints: 182\n# Comments: 83",
+      "title": "RepRapMicron",
+      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki\nComments URL: https://news.ycombinator.com/item?id=50141076\nPoints: 50\n# Comments: 6",
       "image": "",
-      "published": "Sun, 18 Oct 2026 06:50:36 +0000",
+      "published": "Sun, 18 Oct 2026 13:48:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-      "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\nComments URL: https://news.ycombinator.com/item?id=50138087\nPoints: 95\n# Comments",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "link": "https://github.com/0x23/MicroManipulatorStepper",
+      "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper\nComments URL: https://news.ycombinator.com/item?id=50140001\nPoints: 67\n# Comments: 5",
       "image": "",
-      "published": "Sun, 18 Oct 2026 05:09:14 +0000",
+      "published": "Sun, 18 Oct 2026 11:16:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-      "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole\nComments URL: https://news.ycombinator.com/item?id=50138044\nPoints: 91\n# Comments: 19",
+      "title": "The Brain Sandwich",
+      "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "summary": "Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/\nComments URL: https://news.ycombinator.com/item?id=50139998\nPoints: 9\n# Comments: 4",
       "image": "",
-      "published": "Sun, 18 Oct 2026 04:59:24 +0000",
+      "published": "Sun, 18 Oct 2026 11:15:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Notes on the Complex Roots of Unity",
-      "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/\nComments URL: https://news.ycombinator.com/item?id=50138002\nPoints: 24\n# Comments: 3",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\nComments URL: https://news.ycombinator.com/item?id=50139692\nPoints: 94\n# ",
       "image": "",
-      "published": "Sun, 18 Oct 2026 04:49:31 +0000",
+      "published": "Sun, 18 Oct 2026 10:21:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "link": "https://sphinx-six-theta.vercel.app/",
-      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.\n\nComments URL: https://new",
+      "title": "Parser Combinators",
+      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "summary": "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/\nComments URL: https://news.ycombinator.com/item?id=50139067\nPoints: 109\n# Comments: 49",
       "image": "",
-      "published": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "published": "Sun, 18 Oct 2026 08:19:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Time-Aware Healthcare AI: Detecting Stale Recommendations",
-      "link": "https://dev.to/onyedikachi_onwurah_00ba3/time-aware-healthcare-ai-detecting-stale-recommendations-5493",
-      "summary": "Healthcare AI systems often generate outputs from data available at a particular point in time. However, many clinical workflows continue evolving after that point.\n\nA recommendation may become stale when relevant patien",
+      "title": "Building SecureClinic: A Simple Local PII Redactor Experiment",
+      "link": "https://dev.to/sakshidb/building-secureclinic-a-simple-local-pii-redactor-experiment-37h8",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle\n\n\n  \n  \n  What I Built\n\n\nFor this week's challenge, I put together SecureClinic—a small, experimental Python/Streamlit utility desig",
       "image": "",
-      "published": "Sun, 18 Oct 2026 09:51:14 +0000",
+      "published": "Sun, 18 Oct 2026 14:50:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "WYSE - Remember Why",
-      "link": "https://dev.to/itsrish01/wyse-remember-why-mbd",
-      "summary": "Memory with receipts: building agent memory that can take things back\n\n\nAn agent reads a web page that says invoice 104 is paid. It stores the fact. A summary picks it up. A billing agent closes the invoice. Then someone",
+      "title": "Mycelium: Your Agents Keep Re-Solving Last Quarter's Bugs. We Gave the Whole Company One Graph.",
+      "link": "https://dev.to/ishikatyagistar/mycelium-your-agents-keep-re-solving-last-quarters-bugs-we-gave-the-whole-company-one-graph-4fdg",
+      "summary": "TL;DR: Mycelium is one shared context graph, on FalkorDB, for every AI agent in a company.\n\n\nAgents recall what anyone solved before, in any project, and the graph walks past fixes that later broke.\nAgents see who is wor",
       "image": "",
-      "published": "Sun, 18 Oct 2026 09:50:28 +0000",
+      "published": "Sun, 18 Oct 2026 14:50:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Kintsugi : A Side Hustle Repair Assistant for Technicians Who Can't Afford a Wrong Answer",
-      "link": "https://dev.to/lakshay_deol_3f21b00bccca/kintsugi-a-side-hustle-repair-assistant-for-technicians-who-cant-afford-a-wrong-answer-g39",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle\n\n\n  \n  \n  What I Built\n\n\nKintsugi (金継ぎ) is a manual-grounded AI appliance repair assistant for technicians, repair shops, and repair",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff4oapv8impgx6am42i3y.png",
-      "published": "Sun, 18 Oct 2026 09:49:38 +0000",
+      "title": "Outdoor kiosk displays: brightness, optical bonding and IP rating for direct sunlight",
+      "link": "https://dev.to/starktouchdevice/outdoor-kiosk-displays-brightness-optical-bonding-and-ip-rating-for-direct-sunlight-339e",
+      "summary": "A display that looks great in a showroom can be unreadable at noon on an outdoor kiosk. After shipping industrial monitors into outdoor and semi-outdoor projects, we keep seeing the same three failures - and they are rar",
+      "image": "",
+      "published": "Sun, 18 Oct 2026 14:50:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "KEYSTONE: Building an Evidence-First AI Company Brain with FalkorDB",
-      "link": "https://dev.to/revanth2444cmyk/keystone-building-an-evidence-first-ai-company-brain-with-falkordb-2ek1",
-      "summary": "The Problem: Company Knowledge Is Connected, But Often Scattered\n\n\nCompanies create information every day: product plans, project updates, decisions, meeting notes, and risk reports. The challenge is not just finding inf",
+      "title": "BillWise Local: Build a Private AI-Powered Invoice Manager That Runs Locally",
+      "link": "https://dev.to/sahil_desai3_7019adc461a/billwise-local-build-a-private-ai-powered-invoice-manager-that-runs-locally-2o7c",
+      "summary": "BillWise Local: Private AI-Powered Invoice Processing on Your Own Machine\n\n\nThis is my submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle.\n\n\n  \n  \n  What I Built\n\n\nBillWise Local is a local-fir",
       "image": "",
-      "published": "Sun, 18 Oct 2026 09:49:31 +0000",
+      "published": "Sun, 18 Oct 2026 14:49:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I tried to beat the S&P 500 with machine learning. The bugs taught me more than the model.",
-      "link": "https://dev.to/rahairi/i-tried-to-beat-the-sp-500-with-machine-learning-the-bugs-taught-me-more-than-the-model-2nhd",
-      "summary": "The short version\n\n\nI could not build a stock picker I can prove beats the S&amp;P 500, and the most useful thing I found was a list of bugs that made weak results look strong. Over several weeks I tested CAN SLIM rules,",
+      "title": "Why I Chose Computer Science and What I Hope to Build",
+      "link": "https://dev.to/gonzaganico1111/why-i-chose-computer-science-and-what-i-hope-to-build-2gc4",
+      "summary": "Hello, everyone! I am a first-year Bachelor of Science in Computer Science (BSCS) student. I am currently beginning my journey into the world of programming, technology, and software development.\n\nI chose Computer Scienc",
       "image": "",
-      "published": "Sun, 18 Oct 2026 09:48:52 +0000",
+      "published": "Sun, 18 Oct 2026 14:49:50 +0000",
       "source": "DEV Community",
       "category": "development"
     },
