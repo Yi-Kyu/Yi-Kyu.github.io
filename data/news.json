@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-19T01:56:58.443736Z",
+  "updated": "2026-10-19T11:20:37.062052Z",
   "articles": [
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser&nbsp;disclose",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif",
+      "published": "Mon, 19 Oct 2026 11:59:44 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is OpenCode's optional",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg",
+      "published": "Mon, 19 Oct 2026 11:37:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg",
-      "published": "Fri, 16 Oct 2026 23:18:45 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg",
-      "published": "Fri, 16 Oct 2026 22:13:39 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 04:58:41 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
       "image": "",
       "published": "Fri, 16 Oct 2026 16:00:59 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-      "image": "",
-      "published": "Fri, 16 Oct 2026 13:20:03 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Linux 7.3 Released",
+      "link": "https://lwn.net/Articles/1101143/",
+      "summary": "Article URL: https://lwn.net/Articles/1101143/\nComments URL: https://news.ycombinator.com/item?id=50149392\nPoints: 243\n# Comments: 112",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 07:23:57 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50148855\nPoints: 47\n# Comments: 24",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 05:55:31 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50148452\nPoints: 156\n# Comments: 56",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 04:41:46 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/\nComments URL: https://news.ycombinator.com/item?id=50147492\nPoints: 103\n# Comments: 41",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 02:01:16 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "William Gibson and the trademarking of cyberspace",
       "link": "https://colo.to/cyberspace.html",
-      "summary": "Article URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 63\n# Comments: 5",
+      "summary": "Article URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 196\n# Comments: 75",
       "image": "",
       "published": "Sun, 18 Oct 2026 23:37:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "link": "https://github.com/finereli/whatsapp-mcp",
-      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for free on ClaudeFlare and ",
+      "title": "How Artificial Intelligence Is Shaping the Future of Education",
+      "link": "https://dev.to/sravya_srijami_1a68e36c0/how-artificial-intelligence-is-shaping-the-future-of-education-3o4o",
+      "summary": "Introduction\n\nTechnology is changing the way students learn and teachers deliver education. Among the latest developments, Artificial Intelligence (AI) is creating new opportunities to make learning more personalized, ac",
       "image": "",
-      "published": "Sun, 18 Oct 2026 21:36:10 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints: 30\n# Comments: 15",
-      "image": "",
-      "published": "Sun, 18 Oct 2026 21:09:12 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "link": "https://arxiv.org/abs/2610.18861",
-      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5\n\nComment",
-      "image": "",
-      "published": "Sun, 18 Oct 2026 20:48:14 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "link": "https://www.getlazarus.org/dynamic/",
-      "summary": "Article URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 113\n# Comments: 22",
-      "image": "",
-      "published": "Sun, 18 Oct 2026 18:48:04 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "EduGuard AI: Turning Campus Security Blind Spots Into Bullet-Proof Audit With Zero-Cloud .EDU Defenses With Google Gemma 2:2b & 4:e4b",
-      "link": "https://dev.to/wilcardjayx/eduguard-ai-turning-campus-security-blind-spots-into-bullet-proof-audit-with-zero-cloud-edu-n37",
-      "summary": "The Catalyst, What I Built:\n\n\nAs a 200-level cybersecurity student fresh off passing my (CC) Certified in Cybersecurity exam, I regularly watch campus tech clubs and freelance peers deploy local software—from student ele",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Friss1tgrk0icowxlx11d.png",
-      "published": "Mon, 19 Oct 2026 01:48:17 +0000",
+      "published": "Mon, 19 Oct 2026 11:19:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A 4-line regex took down our image pipeline for 6 hours. It was legal.",
-      "link": "https://dev.to/lixingliangsy/a-4-line-regex-took-down-our-image-pipeline-for-6-hours-it-was-legal-2i54",
-      "summary": "Our image validation service stalled for about 6 hours in April. Not slow — stalled, requests queueing, CPU pinned at 100% on every worker. The regex that caused it was 4 lines long and I still have it in a scratch file:",
+      "title": "boto3 alternative for Python",
+      "link": "https://dev.to/member_1151f59c/boto3-alternative-for-python-284g",
+      "summary": "Every time I write boto3 code I end up with the AWS docs open in another tab. My editor has no idea what put_object accepts, what comes back is a plain dict, and if I misspell a parameter I find out when the request fail",
       "image": "",
-      "published": "Mon, 19 Oct 2026 01:48:06 +0000",
+      "published": "Mon, 19 Oct 2026 11:19:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "9 domains link to every major accounting tool",
-      "link": "https://dev.to/petteri_pucilowski_7ec755/9-domains-link-to-every-major-accounting-tool-2j89",
-      "summary": "we compared 8 accounting tools in common crawl's domain-level link graph. 9 non-platform domains link to all 8, while 80% of linking domains appear for only one subject.\n\n\n  \n  \n  how we pulled this\n\n\nfor each subject do",
+      "title": "A certificate of conformity is seven fields and one eFile hook",
+      "link": "https://dev.to/fulfillnexa/a-certificate-of-conformity-is-seven-fields-and-one-efile-hook-3phf",
+      "summary": "Every post about this topic reads like a checklist. This one is a data model, because the underlying rule, 16 CFR part 1110, is written like a schema: it names fields, it names the party that owns each record, and it att",
       "image": "",
-      "published": "Mon, 19 Oct 2026 01:47:53 +0000",
+      "published": "Mon, 19 Oct 2026 11:18:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ReasearchReady: Side Hustle AI Challenge Week 2",
-      "link": "https://dev.to/mackenzie-techdocs/reasearchready-side-hustle-ai-challenge-week-2-532",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle.\n\nDemo Website\n\n\n  \n  \n  What I Built\n\n\nResearchReady gives researchers a private second look at a manuscript before peer review. Up",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 01:47:34 +0000",
+      "title": "【Python Streamlit】ローカルPC（CPU）で動かす自分だけのAI画像生成Webアプリ",
+      "link": "https://dev.to/_ad122393ca44f5a698b1/python-streamlit-rokarupccpudedong-kasuzi-fen-dakenoaihua-xiang-sheng-cheng-webapuri-2gg8",
+      "summary": "今回はPythonとStreamlit、そしてHugging FaceのDiffusersライブラリを使って、ローカルPC（CPU環境）で手軽に動かせるAI画像生成Webアプリを作ったので、その魅力と仕組みをご紹介します。\n\n\n\n「ハイスペックなGPUがないとAI画像生成は無理……」と諦めていませんか？このアプリなら、CPU環境であっても、モデルに「DreamShaper 8」を採用し、設定を最適化することで、お使いのパソコン上で画像生",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff2jxynhrdib7wpur0044.webp",
+      "published": "Mon, 19 Oct 2026 11:18:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TBEG advanced features: formulas, images, and large-scale streaming (Kotlin/Java)",
-      "link": "https://dev.to/jogakdal/tbeg-advanced-features-formulas-images-and-large-scale-streaming-kotlinjava-1dfp",
-      "summary": "In Part 4, we integrated TBEG with Spring Boot to build an Excel download API. Now let's explore the features that carry real production reports.\n\nBinding dynamic values into formulas, inserting images, automatically mer",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fchdr62o2x9g5z1h60pce.png",
-      "published": "Mon, 19 Oct 2026 01:46:57 +0000",
+      "title": "Sourcing CNC Machining in Shenzhen: 8 Numbers to Ask For Before You Send a Drawing",
+      "link": "https://dev.to/chxprecisionmetal/sourcing-cnc-machining-in-shenzhen-8-numbers-to-ask-for-before-you-send-a-drawing-3mga",
+      "summary": "Every Shenzhen CNC supplier website says the same things: precision machining, experienced team, quality first. None of it distinguishes a 200-machine factory from a five-machine shop with a good photographer.\n\nThe way t",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 11:17:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
