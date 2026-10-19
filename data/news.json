@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-19T17:48:53.265930Z",
+  "updated": "2026-10-19T21:45:50.796659Z",
   "articles": [
+    {
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccording to a researcher",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg",
+      "published": "Mon, 19 Oct 2026 23:02:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
       "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg",
-      "published": "Mon, 19 Oct 2026 15:36:40 +0530",
-      "source": "The Hacker News",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 17:24:51 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 15:40:58 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 14:51:13 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
       "image": "",
       "published": "Mon, 19 Oct 2026 10:55:23 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the tec",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 09:49:24 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 08:44:44 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
-      "link": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
-      "summary": "Article URL: https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/\nComments URL: https://news.ycombinator.com/item?id=50155291\nPoints: 22\n# Comments: 0",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "link": "https://bsd.network/@brynet/117407035545900963",
+      "summary": "Article URL: https://bsd.network/@brynet/117407035545900963\nComments URL: https://news.ycombinator.com/item?id=50158138\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Mon, 19 Oct 2026 17:30:26 +0000",
+      "published": "Mon, 19 Oct 2026 21:11:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+      "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+      "link": "https://josie.lol/blog/linux-rtx-spark",
+      "summary": "Article URL: https://josie.lol/blog/linux-rtx-spark\nComments URL: https://news.ycombinator.com/item?id=50158100\nPoints: 33\n# Comments: 3",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 21:08:18 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Germany's far-right AfD: half a million internal documents leaked",
+      "link": "https://hexane.cc/",
+      "summary": "Article URL: https://hexane.cc/\nComments URL: https://news.ycombinator.com/item?id=50157664\nPoints: 36\n# Comments: 13",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 20:31:05 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The reverts will continue until morale improves",
+      "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves\nComments URL: https://news.ycombinator.com/item?id=50156206\nPoints: 114\n# Comments: 16",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Mercury 3: Diffusion at scale",
       "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3\nComments URL: https://news.ycombinator.com/item?id=50155245\nPoints: 23\n# Comments: 4",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3\nComments URL: https://news.ycombinator.com/item?id=50155245\nPoints: 189\n# Comments: 75",
       "image": "",
       "published": "Mon, 19 Oct 2026 17:27:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Evidence (YC S21) Is Hiring Software Engineers",
-      "link": "https://evidence.dev/jobs",
-      "summary": "Article URL: https://evidence.dev/jobs\nComments URL: https://news.ycombinator.com/item?id=50155172\nPoints: 0\n# Comments: 0",
+      "title": "My experience replacing 4 SaaS subscriptions with self-hosted alternatives in 2026",
+      "link": "https://dev.to/scsoi/my-experience-replacing-4-saas-subscriptions-with-self-hosted-alternatives-in-2026-5e43",
+      "summary": "Over the past year I replaced 4 SaaS tools with self-hosted ones. Total annual savings: ~$900. Here's the rundown.\n\n\n  \n  \n  The 4 swaps\n\n\n\n  \n  \n  1. Google Drive → Nextcloud\n\n\nWas paying: $100/year for 2TB\nNow: $0 (run",
       "image": "",
-      "published": "Mon, 19 Oct 2026 17:21:33 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Pentulive (Puppy Live) [video]",
-      "link": "https://yle.fi/t/18-332106/fi",
-      "summary": "Article URL: https://yle.fi/t/18-332106/fi\nComments URL: https://news.ycombinator.com/item?id=50154147\nPoints: 4\n# Comments: 0",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:09:10 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
-      "link": "https://news.ycombinator.com/item?id=50154029",
-      "summary": "Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces.",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 16:00:18 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Why Proprietary Assets May Help Websites Withstand Google Core Updates in 2026",
-      "link": "https://dev.to/alifar/why-proprietary-assets-may-help-websites-withstand-google-core-updates-in-2026-9bn",
-      "summary": "Proprietary assets were the third of five features associated with sustained Google visibility in a new Zyppy analysis of roughly 400 websites. The finding matters because it points to a more durable SEO approach than si",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:45:31 +0000",
+      "published": "Mon, 19 Oct 2026 21:36:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Parsing credit card statement PDFs: signs, detail lines and a total that has to tie",
-      "link": "https://dev.to/damin_mutti_e213ac1a11bf4/parsing-credit-card-statement-pdfs-signs-detail-lines-and-a-total-that-has-to-tie-467k",
-      "summary": "When you extract transactions from credit card statement PDFs, finding the table is rarely the hard part. The hard part is deciding what each row means: which sign it should carry, whether it's a transaction at all, and ",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 17:45:00 +0000",
+      "title": "The \"Slow and Steady\" Approach",
+      "link": "https://dev.to/rcortez056/the-slow-and-steady-approach-20bp",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\nWhat I Built\nA containerized, on-chain CLOB (Central Limit Order Book) trading bot pipeline deployed via GitHub and Railway. It",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Mon, 19 Oct 2026 21:35:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Bulk-generate images from a list of prompts with one API call (FLUX, no API key)",
-      "link": "https://dev.to/sherwoodtools/bulk-generate-images-from-a-list-of-prompts-with-one-api-call-flux-no-api-key-2np",
-      "summary": "Generating one image is easy: open any web playground, type a prompt, download the file. Generating two hundred images from inside a pipeline is a different job. The typical cases: product visuals for a catalog where eac",
+      "title": "Multiplayer Quiz Presence: Safe Realtime Channel Deletion in Python",
+      "link": "https://dev.to/colemitchell4991/multiplayer-quiz-presence-safe-realtime-channel-deletion-in-python-4e52",
+      "summary": "Short answer: treat channel deletion as a protocol state transition, not as a socket operation. Mark the quiz session closing, stop admitting messages, drain or reject late events, then close the peer connection only aft",
       "image": "",
-      "published": "Mon, 19 Oct 2026 17:44:52 +0000",
+      "published": "Mon, 19 Oct 2026 21:34:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DDIA is a great book. It is a bad lab.",
-      "link": "https://dev.to/hurdadd/ddia-is-a-great-book-it-is-a-bad-lab-bm2",
-      "summary": "DDIA is the best distributed systems book I have read. I finished the second edition with a head full of vocabulary and no way to check whether I actually understood any of it.\n\nThat is not a knock on the book. It has do",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhbvlvt36m7ddw05cdv26.png",
-      "published": "Mon, 19 Oct 2026 17:44:22 +0000",
+      "title": "All Nine of My Voice Agents Are One Giant Prompt. Here Is Where That Stops Working.",
+      "link": "https://dev.to/nabeelbaghoor/all-nine-of-my-voice-agents-are-one-giant-prompt-here-is-where-that-stops-working-2emi",
+      "summary": "This week I went through every voice agent config I have exported on disk. Nine client agents: HVAC, roofing, dental, water treatment, two law firms, credit repair, debt settlement, an appointment setter. Every single on",
+      "image": "",
+      "published": "Mon, 19 Oct 2026 21:34:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PrivateTools: a browser-based media toolkit that keeps your files local",
-      "link": "https://dev.to/main_research_assistant/privatetools-a-browser-based-media-toolkit-that-keeps-your-files-local-lli",
-      "summary": "PrivateTools brings together tools for video, images, audio, and 3D assets. The idea is simple: open a file, do the job in your browser, and export the result without uploading your media to a server.\n\nThe main tools:\n\n\n",
+      "title": "CodeQL can't trace Xcode 27 builds or scan Swift 6.4",
+      "link": "https://dev.to/techaiwire/codeql-cant-trace-xcode-27-builds-or-scan-swift-64-20gn",
+      "summary": "GitHub said on October 19, 2026 that CodeQL, its code-scanning engine, cannot trace builds made with Xcode 27 and cannot analyze Swift 6.4 code on any platform. For iOS and Mac teams that run security scans in their buil",
       "image": "",
-      "published": "Mon, 19 Oct 2026 17:43:39 +0000",
+      "published": "Mon, 19 Oct 2026 21:34:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
