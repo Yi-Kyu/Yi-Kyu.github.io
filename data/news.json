@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-20T02:14:28.873382Z",
+  "updated": "2026-10-20T10:28:39.597516Z",
   "articles": [
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a bu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg",
+      "published": "Tue, 20 Oct 2026 13:51:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg",
+      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly st",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg",
+      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Vedere Labs, ROMULUS is ak",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg",
+      "published": "Tue, 20 Oct 2026 09:35:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
@@ -11,39 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg",
-      "published": "Mon, 19 Oct 2026 21:58:47 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage ma",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg",
-      "published": "Mon, 19 Oct 2026 19:44:07 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg",
-      "published": "Mon, 19 Oct 2026 18:35:45 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif",
-      "published": "Mon, 19 Oct 2026 17:20:00 +0530",
-      "source": "The Hacker News",
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 05:46:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
       "image": "",
       "published": "Mon, 19 Oct 2026 14:51:13 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-      "image": "",
-      "published": "Mon, 19 Oct 2026 13:27:15 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Developing Taste",
-      "link": "https://emilkowal.ski/ui/developing-taste",
-      "summary": "Article URL: https://emilkowal.ski/ui/developing-taste\nComments URL: https://news.ycombinator.com/item?id=50160135\nPoints: 4\n# Comments: 0",
+      "title": "Revolut down as users report app not working",
+      "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo\nComments URL: https://news.ycombinator.com/item?id=50163625\nPoints: 16\n# Comments: 4",
       "image": "",
-      "published": "Tue, 20 Oct 2026 01:12:03 +0000",
+      "published": "Tue, 20 Oct 2026 09:54:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "summary": "Article URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/\nComments URL: https://news.ycombinator.com/item?id=50159993\nPoints: 102\n# Comments:",
+      "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+      "link": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "summary": "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/\nComments URL: https://news.ycombinator.com/item?id=50163502\nPoints: 147\n# Comments: 89",
       "image": "",
-      "published": "Tue, 20 Oct 2026 00:53:52 +0000",
+      "published": "Tue, 20 Oct 2026 09:35:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "link": "https://ipinfo.io/blog/france-fridges-hack",
-      "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack\nComments URL: https://news.ycombinator.com/item?id=50159616\nPoints: 62\n# Comments: 59",
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "link": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
+      "summary": "Article URL: https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules\nComments URL: https://news.ycombinator.com/item?id=50163462\nPoints: 42\n# Comments: 16",
       "image": "",
-      "published": "Tue, 20 Oct 2026 00:00:49 +0000",
+      "published": "Tue, 20 Oct 2026 09:30:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "summary": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\nComments URL: https://news.ycombinator.com/item?id=50159341\nPoints: 29\n# Comments: 4",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 137\n# Comments: 31",
       "image": "",
-      "published": "Mon, 19 Oct 2026 23:22:18 +0000",
+      "published": "Tue, 20 Oct 2026 09:08:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
-      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "summary": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\nComments URL: https://news.ycombinator.com/item?id=50159245\nPoints: 35\n# Comments: 20",
+      "title": "Fizzpoker – No-login Online Poker with friends",
+      "link": "https://www.fizzpoker.com",
+      "summary": "Article URL: https://www.fizzpoker.com\nComments URL: https://news.ycombinator.com/item?id=50163173\nPoints: 6\n# Comments: 5",
       "image": "",
-      "published": "Mon, 19 Oct 2026 23:08:52 +0000",
+      "published": "Tue, 20 Oct 2026 08:55:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Supabase + Next.js 16: authorize with getClaims(), not getSession()",
-      "link": "https://dev.to/anthonypan99/supabase-nextjs-16-authorize-with-getclaims-not-getsession-4423",
-      "summary": "AI disclosure: I wrote this article with AI assistance. I checked every claim and code sample against the Supabase and Next.js docs linked at the end. If you spot a mistake, tell me in the comments and I'll fix it.\n\n\nIf ",
+      "title": "Your Code Ran on the Free Box. That's Not an Environment Match.",
+      "link": "https://dev.to/gitlab_3188/your-code-ran-on-the-free-box-thats-not-an-environment-match-1mn7",
+      "summary": "Your tests pass on your laptop. The same commit then dies on a plain Ubuntu box with error while loading shared libraries: GLIBC_2.34 not found.\n\nWas the code wrong? Usually not. The machine was different, and nobody wro",
       "image": "",
-      "published": "Tue, 20 Oct 2026 02:09:56 +0000",
+      "published": "Tue, 20 Oct 2026 10:25:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI API Latency Metrics: TTFT, First Response, and Output Speed",
-      "link": "https://dev.to/modelflare_dev/ai-api-latency-metrics-ttft-first-response-and-output-speed-mja",
-      "summary": "A request-timeline guide to upstream headers, first SSE event, first effective response, first visible text, end-to-end latency, and output speed.\n\nAI API latency is not one number. For a streaming request, record when t",
+      "title": "GitLab Secrets Manager hits GA in 19.5 and scopes credentials to the job",
+      "link": "https://dev.to/leobaniak/gitlab-secrets-manager-hits-ga-in-195-and-scopes-credentials-to-the-job-3ei8",
+      "summary": "Open the CI/CD settings of any GitLab project older than two years and count the masked variables. (Go on. I'll wait.) Each one is a raw value sitting in a settings page, readable by whatever jobs the old protection flag",
       "image": "",
-      "published": "Tue, 20 Oct 2026 02:09:35 +0000",
+      "published": "Tue, 20 Oct 2026 10:24:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Living with Claude Code: 8 reads on quotas, harnesses, MCP sprawl and cost",
-      "link": "https://dev.to/redreamality_dev/living-with-claude-code-8-reads-on-quotas-harnesses-mcp-sprawl-and-cost-32oj",
-      "summary": "Most of what I've learned about coding agents this year didn't come from launch posts. It came from the boring questions: why my weekly quota ran dry on a Wednesday, why the agent grabbed the wrong Slack tool, whether a ",
+      "title": "Before you sign a Permit2 message, check these four fields",
+      "link": "https://dev.to/livasticvm2primary/before-you-sign-a-permit2-message-check-these-four-fields-1068",
+      "summary": "AI disclosure: This technical post and the linked code were created with AI assistance by an autonomous agent for one real beneficial human operator. The examples are fictional and no independent customer payments, revie",
       "image": "",
-      "published": "Tue, 20 Oct 2026 02:08:50 +0000",
+      "published": "Tue, 20 Oct 2026 10:24:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "QQ friend requests and group invites: two approvals, one Agent",
-      "link": "https://dev.to/rockchinq/qq-friend-requests-and-group-invites-two-approvals-one-agent-h53",
-      "summary": "Scenario\n\n\nA QQ bot mostly does not chat; it handles two requests: a stranger asks to add it as a friend, or it gets pulled into a group. A pipeline built for \"message in → reply out\" cannot catch them — they are not mes",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcvthiq2smsqnowgi2o4t.png",
-      "published": "Tue, 20 Oct 2026 02:08:46 +0000",
+      "title": "48-Hour Field Notes: My Job Had 30 Seconds. I Gave the Model 8 and Kept the Rest.",
+      "link": "https://dev.to/codepy_1473/48-hour-field-notes-my-job-had-30-seconds-i-gave-the-model-8-and-kept-the-rest-49a8",
+      "summary": "My batch job had a 30-second deadline, and the model call happily ate all 30 of them. The scheduler killed the worker mid-flight, the log ended on a half-written line, and nobody downstream could tell whether the request",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 10:24:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Build Observable AI Model Fallbacks with Telnyx AI Gateway",
-      "link": "https://dev.to/sonam_gupta_dba00ec9473e5/build-observable-ai-model-fallbacks-with-telnyx-ai-gateway-3ken",
-      "summary": "An AI model fallback is only useful if your application can answer two questions afterward:\n\n\nWhich model actually served the request?\nHow many attempts did the gateway make?\n\n\nA client-side retry loop can hide both answ",
+      "title": "A Frozen Test Can't Justify a Patch: Lease-Bound Freezes and Witnessed Properties for Agent Patches",
+      "link": "https://dev.to/datacpp_8185/a-frozen-test-cant-justify-a-patch-lease-bound-freezes-and-witnessed-properties-for-agent-patches-2cnp",
+      "summary": "The most expensive test in an agent patch is the one nobody runs. It sits in the suite, green, on a quarantine list, and the patch quietly points at it as proof.\n\nHere is the conclusion first: three kinds of test evidenc",
       "image": "",
-      "published": "Tue, 20 Oct 2026 02:08:30 +0000",
+      "published": "Tue, 20 Oct 2026 10:22:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
