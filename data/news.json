@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-20T15:52:33.974715Z",
+  "updated": "2026-10-20T20:55:55.269514Z",
   "articles": [
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.\n\nAn intermediate CA signs the c",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg",
+      "published": "Tue, 20 Oct 2026 22:39:53 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.\n\nThe vulnerability, track",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg",
+      "published": "Tue, 20 Oct 2026 21:08:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2026-0257 (CVSS sco",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
+      "published": "Tue, 20 Oct 2026 21:02:27 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
@@ -20,30 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg",
-      "published": "Tue, 20 Oct 2026 17:11:06 +0530",
-      "source": "The Hacker News",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environm",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 15:33:02 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon b",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg",
-      "published": "Tue, 20 Oct 2026 17:03:04 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.\n\nPrograms built on the new rele",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg",
-      "published": "Tue, 20 Oct 2026 17:02:59 +0530",
-      "source": "The Hacker News",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 14:11:03 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
       "image": "",
       "published": "Tue, 20 Oct 2026 09:18:36 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 08:16:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 07:31:22 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why do we have so many meetings?",
-      "link": "https://www.nber.org/papers/w35706",
-      "summary": "Article URL: https://www.nber.org/papers/w35706\nComments URL: https://news.ycombinator.com/item?id=50167732\nPoints: 11\n# Comments: 0",
+      "title": "On AI writing",
+      "link": "https://www.bolkunov.com/p/on-ai-writing",
+      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing\nComments URL: https://news.ycombinator.com/item?id=50171771\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:19:19 +0000",
+      "published": "Tue, 20 Oct 2026 19:55:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "link": "https://news.ycombinator.com/item?id=50167583",
-      "summary": "Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modal",
+      "title": "SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 250\n# Comments: 118",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:09:29 +0000",
+      "published": "Tue, 20 Oct 2026 18:29:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-      "link": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
-      "summary": "Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/\nComments URL: https://news.ycombinator.com/item?id=50167560\nPoints: 5\n# Comments: 1",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 38\n# Comments: 18",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:07:38 +0000",
+      "published": "Tue, 20 Oct 2026 17:48:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Facebook now charging to post more than 2 links a month",
-      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919\nComments URL: https://news.ycombinator.com/item?id=50167536\nPoints: 50\n# Comments: 18",
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
+      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 93\n# Comments: 168",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:06:08 +0000",
+      "published": "Tue, 20 Oct 2026 17:25:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Building full-firm knowledge graphs to dramatically speed up agents",
-      "link": "https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents",
-      "summary": "Article URL: https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents\nComments URL: https://news.ycombinator.com/item?id=50167523\nPoints: 3\n# Comments: 0",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "link": "https://github.com/google-pytorch/torch_tpu",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu\nComments URL: https://news.ycombinator.com/item?id=50169053\nPoints: 179\n# Comments: 47",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:05:01 +0000",
+      "published": "Tue, 20 Oct 2026 16:40:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How we built 60+ PDF, image and video tools that never upload your files",
-      "link": "https://dev.to/paperpdf/how-we-built-60-pdf-image-and-video-tools-that-never-upload-your-files-425d",
-      "summary": "Most \"free online PDF tools\" work the same way: you upload your file to their server, they process it, and you download the result. That's fine for a cat photo. It's not fine for a passport scan, a bank statement or a sa",
+      "title": "Kapitan generator releases, 12 to 18 October 2026",
+      "link": "https://dev.to/kadet-hub/kapitan-generator-releases-12-to-18-october-2026-253k",
+      "summary": "Versions published on kadet-hub from 12 to 18 October 2026, each through the gate and signed. The generator page shows each version's output diff against the version before it, its SBOM and the command that verifies it.\n",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:44:23 +0000",
+      "published": "Tue, 20 Oct 2026 20:50:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "\"More testing required\" on Google Play: 5 reasons and fixes",
-      "link": "https://dev.to/jay_webb/more-testing-required-on-google-play-5-reasons-and-fixes-bin",
-      "summary": "You found 12 testers, ran your closed test for 14 days straight, clicked Apply for production, and a few days later this landed in your inbox: More testing required to access Google Play production.\n\nI got this email mor",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcjl73c2ibjxutbvxzgje.png",
-      "published": "Tue, 20 Oct 2026 15:44:00 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Higgsfield Pricing Review 2026: $0.49 for 8 Seconds With Sound",
-      "link": "https://dev.to/titusbrett/higgsfield-pricing-review-2026-049-for-8-seconds-with-sound-2p5e",
-      "summary": "Higgsfield's Plus plan and Kyncept's Pro plan both cost $59 a month for 1,200 credits, so a credit costs $0.0492 on either side. What splits the bill is what a credit buys: the cheapest 8-second Higgsfield clip with soun",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fk0w1a3pkgkvz7tsv5yzu.png",
-      "published": "Tue, 20 Oct 2026 15:43:58 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Contract Review Agent Blueprint",
-      "link": "https://dev.to/tridaai/contract-review-agent-blueprint-46ok",
-      "summary": "Originally published at Trida AI.\n\nA master services agreement grants a provider exclusivity for twelve months after the agreement ends. The statement of work signed under it grants twenty-four months, over a wider scope",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fhmn4k8xakapi933wvbd2.webp",
-      "published": "Tue, 20 Oct 2026 15:43:55 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "LazyFlow AI: You Relax, Your AI Handles the Boring Stuff 🦥",
-      "link": "https://dev.to/jinal301409/lazyflow-ai-you-relax-your-ai-handles-the-boring-stuff-3n9b",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nMeet LazyFlow AI — a productivity assistant built around one simple idea: why spend time organizing inf",
+      "title": "Keeping the working copy on my laptop while the agent runs on a server",
+      "link": "https://dev.to/matteoricupero/keeping-the-working-copy-on-my-laptop-while-the-agent-runs-on-a-server-3p3l",
+      "summary": "A refactor runs on a server while I sit on a train. I open the preview on my phone, see the page the agent just changed, type one correction, put the phone away. Two hours later I open the laptop at my desk and the work ",
       "image": "",
-      "published": "Tue, 20 Oct 2026 15:42:57 +0000",
+      "published": "Tue, 20 Oct 2026 20:49:20 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "One panic shouldn't kill the scan: isolating rules with catch_unwind",
+      "link": "https://dev.to/jorelfermin/one-panic-shouldnt-kill-the-scan-isolating-rules-with-catchunwind-14ao",
+      "summary": "Cloud Cost Analyzer runs 92 rules against your cloud account in a single scan. A rule is a real unit of work: it pulls a resource's config and metrics, evaluates them against a cost model, and maybe emits a finding. They",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 20:48:07 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "EEPROM Flasher: Android Native TL866 / T48 / T56 Programmer via USB-OTG without Root",
+      "link": "https://dev.to/danielk10/eeprom-flasher-android-native-tl866-t48-t56-programmer-via-usb-otg-without-root-cee",
+      "summary": "EEPROM Flasher: Flashing Chips with TL866 / T48 / T56 Programmers from Android (minipro Engine)\n\n\nWhen servicing arcade boards, vintage computers, automotive ECUs, or motherboard BIOS chips, universal programmers like th",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 20:47:20 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "DeepLook is open source: real Chrome, a CLI, an HTTP API, and MCP",
+      "link": "https://dev.to/sayhitogambit/deeplook-is-open-source-real-chrome-a-cli-an-http-api-and-mcp-2e15",
+      "summary": "I’m releasing DeepLook, an open-source browser tool that turns public web pages into readable text and structured data for AI agents.\n\nIt runs real Chrome, renders the page, and gives your application the visible text to",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 20:46:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
