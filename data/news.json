@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:55:55.269514Z",
+  "updated": "2026-10-21T02:08:12.790348Z",
   "articles": [
     {
       "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted cert",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled di",
+      "image": "",
+      "published": "Tue, 20 Oct 2026 16:56:43 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Zeabur shutting down after second security breach in two months",
       "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environm",
@@ -61,33 +88,6 @@
       "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
       "image": "",
       "published": "Tue, 20 Oct 2026 14:11:03 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 10:19:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, pas",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 09:51:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 09:18:36 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "On AI writing",
-      "link": "https://www.bolkunov.com/p/on-ai-writing",
-      "summary": "Article URL: https://www.bolkunov.com/p/on-ai-writing\nComments URL: https://news.ycombinator.com/item?id=50171771\nPoints: 20\n# Comments: 3",
+      "title": "Good type against all odds",
+      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Tue, 20 Oct 2026 19:55:11 +0000",
+      "published": "Wed, 21 Oct 2026 01:45:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "SimCity, but with Permits",
-      "link": "https://permit.petercai.com/",
-      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 250\n# Comments: 118",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "link": "https://www.thebeliever.net/the-other-epidemic/",
+      "summary": "https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ\n\nComments URL: https://news.ycombinator.com/item?id=50173891\nPoints: 61\n# Comments: 41",
       "image": "",
-      "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "published": "Tue, 20 Oct 2026 23:04:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 38\n# Comments: 18",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/\nComments URL: https://news.ycombinator.com/item?id=50173487\nPoints: 99\n# Comments: 34",
       "image": "",
-      "published": "Tue, 20 Oct 2026 17:48:29 +0000",
+      "published": "Tue, 20 Oct 2026 22:21:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 93\n# Comments: 168",
+      "title": "Upcoming Critical PHP Security Release",
+      "link": "https://news-web.php.net/php.announce/509",
+      "summary": "Article URL: https://news-web.php.net/php.announce/509\nComments URL: https://news.ycombinator.com/item?id=50172041\nPoints: 54\n# Comments: 6",
       "image": "",
-      "published": "Tue, 20 Oct 2026 17:25:07 +0000",
+      "published": "Tue, 20 Oct 2026 20:15:50 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "link": "https://github.com/google-pytorch/torch_tpu",
-      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu\nComments URL: https://news.ycombinator.com/item?id=50169053\nPoints: 179\n# Comments: 47",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/\nComments URL: https://news.ycombinator.com/item?id=50170917\nPoints: 134\n# Comm",
       "image": "",
-      "published": "Tue, 20 Oct 2026 16:40:24 +0000",
+      "published": "Tue, 20 Oct 2026 18:51:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kapitan generator releases, 12 to 18 October 2026",
-      "link": "https://dev.to/kadet-hub/kapitan-generator-releases-12-to-18-october-2026-253k",
-      "summary": "Versions published on kadet-hub from 12 to 18 October 2026, each through the gate and signed. The generator page shows each version's output diff against the version before it, its SBOM and the command that verifies it.\n",
+      "title": "Synthetic Demonstrations Still Need A Measured World",
+      "link": "https://dev.to/nexscient/synthetic-demonstrations-still-need-a-measured-world-4e2g",
+      "summary": "As humanoid training moves into fully virtual pipelines, the scarce ingredient becomes the measured, rights-cleared 3D worlds those pipelines start from.\n\nMost of the cost of teaching a humanoid anything sits in the setu",
       "image": "",
-      "published": "Tue, 20 Oct 2026 20:50:49 +0000",
+      "published": "Wed, 21 Oct 2026 02:07:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Keeping the working copy on my laptop while the agent runs on a server",
-      "link": "https://dev.to/matteoricupero/keeping-the-working-copy-on-my-laptop-while-the-agent-runs-on-a-server-3p3l",
-      "summary": "A refactor runs on a server while I sit on a train. I open the preview on my phone, see the page the agent just changed, type one correction, put the phone away. Two hours later I open the laptop at my desk and the work ",
-      "image": "",
-      "published": "Tue, 20 Oct 2026 20:49:20 +0000",
+      "title": "Matching rescanned pages to a damaged PDF with SIFT, and admitting when it can't",
+      "link": "https://dev.to/arthur031221/matching-rescanned-pages-to-a-damaged-pdf-with-sift-and-admitting-when-it-cant-db2",
+      "summary": "I had a scanned PDF with a few pages ruined by a coffee ring and a crease, plus fresh scans of those pages in no particular order. So I built Darnleaf, a local tool that suggests which page each rescan replaces and lets ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6e05nub156m4q9pdnanv.gif",
+      "published": "Wed, 21 Oct 2026 02:07:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "One panic shouldn't kill the scan: isolating rules with catch_unwind",
-      "link": "https://dev.to/jorelfermin/one-panic-shouldnt-kill-the-scan-isolating-rules-with-catchunwind-14ao",
-      "summary": "Cloud Cost Analyzer runs 92 rules against your cloud account in a single scan. A rule is a real unit of work: it pulls a resource's config and metrics, evaluates them against a cost model, and maybe emits a finding. They",
+      "title": "Paid AI image jobs on Cloudflare Queues: never charge twice, never call the model twice",
+      "link": "https://dev.to/hueflo/paid-ai-image-jobs-on-cloudflare-queues-never-charge-twice-never-call-the-model-twice-550n",
+      "summary": "An AI image edit is a strange kind of request. It's slow (tens of seconds), it costs you real money on every call, it sometimes fails, and sometimes it \"succeeds\" with a picture that isn't what the user asked for. Put a ",
       "image": "",
-      "published": "Tue, 20 Oct 2026 20:48:07 +0000",
+      "published": "Wed, 21 Oct 2026 02:06:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "EEPROM Flasher: Android Native TL866 / T48 / T56 Programmer via USB-OTG without Root",
-      "link": "https://dev.to/danielk10/eeprom-flasher-android-native-tl866-t48-t56-programmer-via-usb-otg-without-root-cee",
-      "summary": "EEPROM Flasher: Flashing Chips with TL866 / T48 / T56 Programmers from Android (minipro Engine)\n\n\nWhen servicing arcade boards, vintage computers, automotive ECUs, or motherboard BIOS chips, universal programmers like th",
+      "title": "Local AI Is Not a Privacy Switch: Build a Workload Routing Contract",
+      "link": "https://dev.to/isabelle_dubuis_d858453d7/local-ai-is-not-a-privacy-switch-build-a-workload-routing-contract-5ci0",
+      "summary": "Local AI Is Not a Privacy Switch: Build a Workload Routing Contract\n\n\nRunning a language model on a laptop or an internal server can remove one important data transfer: the prompt no longer has to travel to a hosted infe",
       "image": "",
-      "published": "Tue, 20 Oct 2026 20:47:20 +0000",
+      "published": "Wed, 21 Oct 2026 02:05:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "DeepLook is open source: real Chrome, a CLI, an HTTP API, and MCP",
-      "link": "https://dev.to/sayhitogambit/deeplook-is-open-source-real-chrome-a-cli-an-http-api-and-mcp-2e15",
-      "summary": "I’m releasing DeepLook, an open-source browser tool that turns public web pages into readable text and structured data for AI agents.\n\nIt runs real Chrome, renders the page, and gives your application the visible text to",
+      "title": "Prompt Engineering for AI Video: What Actually Works",
+      "link": "https://dev.to/toolswithalex/prompt-engineering-for-ai-video-what-actually-works-17a",
+      "summary": "Prompt Engineering for AI Video: What Actually Works\n\n\nIf you've used an LLM, you know the drill: vague prompt in, vague answer out. Text-to-video models punish vagueness even harder, because every ambiguous word becomes",
       "image": "",
-      "published": "Tue, 20 Oct 2026 20:46:46 +0000",
+      "published": "Wed, 21 Oct 2026 02:04:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
