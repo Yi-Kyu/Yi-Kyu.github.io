@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:56:16.676043Z",
+  "updated": "2026-10-22T02:01:55.020894Z",
   "articles": [
     {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "image": "",
+      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
       "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
@@ -70,24 +88,6 @@
       "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
       "image": "",
       "published": "Wed, 21 Oct 2026 12:26:53 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 10:07:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditi",
-      "image": "",
-      "published": "Wed, 21 Oct 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "CDC Ignored Request from States to Validate a New Measles Test",
-      "link": "https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/10/21/health/measles-test-cdc.html\nComments URL: https://news.ycombinator.com/item?id=50186842\nPoints: 12\n# Comments: 0",
+      "title": "The era of speedball capitalism has dawned",
+      "link": "https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned",
+      "summary": "Article URL: https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned\nComments URL: https://news.ycombinator.com/item?id=50189666\nPoints: 12\n# Comments: 1",
       "image": "",
-      "published": "Wed, 21 Oct 2026 20:04:57 +0000",
+      "published": "Thu, 22 Oct 2026 00:48:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "After automation: Solo founding will be the default",
-      "link": "https://every.to/thesis-statements/julian-weisser",
-      "summary": "Article URL: https://every.to/thesis-statements/julian-weisser\nComments URL: https://news.ycombinator.com/item?id=50186518\nPoints: 19\n# Comments: 11",
+      "title": "When Do We Become the Person We Ought to Be?",
+      "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+      "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought\nComments URL: https://news.ycombinator.com/item?id=50189278\nPoints: 14\n# Comments: 9",
       "image": "",
-      "published": "Wed, 21 Oct 2026 19:44:49 +0000",
+      "published": "Wed, 21 Oct 2026 23:57:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Duet",
-      "link": "https://claude.com/resources/articles/claude-duet",
-      "summary": "Article URL: https://claude.com/resources/articles/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186455\nPoints: 10\n# Comments: 2",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 180\n# Comments: 41",
       "image": "",
-      "published": "Wed, 21 Oct 2026 19:40:18 +0000",
+      "published": "Wed, 21 Oct 2026 23:51:37 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "summary": "Article URL: https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/\nComments URL: https://news.ycombinato",
+      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+      "link": "https://bloffy.co/en",
+      "summary": "Hello. I built a blogging platform on my own over two years.I like running my blog, but I couldn't find a blogging platform I really liked.First. I thought a blog had to be really lightweight.\nFortunately, after a lot of",
       "image": "",
-      "published": "Wed, 21 Oct 2026 19:26:20 +0000",
+      "published": "Wed, 21 Oct 2026 23:41:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mistral Large 4",
-      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=50186129\nPoints: 221\n# Comments: 54",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\nComments URL: https://news.ycombinator.com/item?id=50189150\nPoints: 94\n# Comments: 76",
       "image": "",
-      "published": "Wed, 21 Oct 2026 19:20:55 +0000",
+      "published": "Wed, 21 Oct 2026 23:38:32 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I got tired of Alt-Tabbing to X/Twitter so I put it side by side in my terminal.",
-      "link": "https://dev.to/jasper_black/i-got-tired-of-alt-tabbing-to-xtwitter-so-i-put-it-side-by-side-in-my-terminal-5bge",
-      "summary": "Hi Everyone, I got tired of alt+tabbing to my chrome browser so I combined termy with an interface into X/twitter. Hope you like it!",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe4pawcpk2dds5xaknpj1.png",
-      "published": "Wed, 21 Oct 2026 20:54:12 +0000",
+      "title": "Python Game Sessions: What Users Need From Live Captions and Post-Session Transcripts",
+      "link": "https://dev.to/solomonfletcher5872/python-game-sessions-what-users-need-from-live-captions-and-post-session-transcripts-2pg1",
+      "summary": "A player who cannot hear a teammate's callout needs text while the match is still in progress. A transcript produced after the session cannot fill that gap. Short answer: use live captions for participation and a post-se",
+      "image": "",
+      "published": "Thu, 22 Oct 2026 01:52:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "# Tools and Development Environment in Software Engineering: A Beginner's Guide 💻",
-      "link": "https://dev.to/maryaamah/-tools-and-development-environment-in-software-engineering-a-beginners-guide-eig",
-      "summary": "As I continue my software engineering journey, I'm learning that writing code is only one part of building software. Software engineers also need tools and a working environment that help them write, test, organize, and ",
+      "title": "Customer Report Images: Next.js API Route to Create Sharp Thumbnails in Private Storage",
+      "link": "https://dev.to/jerichorhodes5847/customer-report-images-nextjs-api-route-to-create-sharp-thumbnails-in-private-storage-1leg",
+      "summary": "Short answer: accept the upload through a controlled Next.js API route, keep the source image private, create a fixed set of Sharp derivatives in a worker or bounded server-side step, and give an authenticated customer a",
       "image": "",
-      "published": "Wed, 21 Oct 2026 20:51:57 +0000",
+      "published": "Thu, 22 Oct 2026 01:52:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Scheduled Jobs and Time Zones: The Midnight Bug I Keep Seeing",
-      "link": "https://dev.to/raxxostudios/scheduled-jobs-and-time-zones-the-midnight-bug-i-keep-seeing-1hgg",
-      "summary": "Cron runs in UTC by default, so a \"midnight\" job can fire on the wrong local day\nDefine the business day explicitly with a timezone string, never a UTC offset\nDST shifts your offset twice a year, which silently moves job",
+      "title": "TaskKit.io – Fast, Private & Zero Sign-Up Micro-Tools",
+      "link": "https://dev.to/moha_bazgra_20b8da15ac933/taskkitio-fast-private-zero-sign-up-micro-tools-4m0a",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nI built TaskKit.io — a collection of lightweight, browser-based micro-tools designed to make daily task",
       "image": "",
-      "published": "Wed, 21 Oct 2026 20:49:32 +0000",
+      "published": "Thu, 22 Oct 2026 01:51:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Career & Productivity",
-      "link": "https://dev.to/mawuli_blissful/career-productivity-ocb",
-      "summary": "Navigating the vast world of computer science and software development can easily feel overwhelming. With constant updates to tools, languages, and frameworks, having a structured approach to how you absorb and apply inf",
+      "title": "Collections and the Catalog: How a Database Remembers What Exists",
+      "link": "https://dev.to/priyanshuverma/collections-and-the-catalog-how-a-database-remembers-what-exists-5e6e",
+      "summary": "Series: nosqlite devlog, Part 3\n\nOnce I had page zero written to disk with those magic bytes NOSQLITE_DB___P8, I had a brief moment of satisfaction. I opened a hex editor, saw my custom signature staring back at me, and ",
       "image": "",
-      "published": "Wed, 21 Oct 2026 20:47:18 +0000",
+      "published": "Thu, 22 Oct 2026 01:51:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Un post non è un'immagine: progettare una pipeline editoriale verificabile",
-      "link": "https://dev.to/fedecroletti/un-post-non-e-unimmagine-progettare-una-pipeline-editoriale-verificabile-4eid",
-      "summary": "Un contenuto social può sembrare un'immagine con una didascalia. In realtà, quando racconta luoghi e memoria, è una piccola pipeline: parte da materiali con una provenienza, li trasforma in un contenuto e deve arrivare a",
+      "title": "Argent-Style Wallet Exploit: Recovery Wrap and Replay",
+      "link": "https://dev.to/pandasecurity/argent-style-wallet-exploit-recovery-wrap-and-replay-57p8",
+      "summary": "Originally published at panda-security.xyz.\n\nOn 19 October 2026, at 09:42:35 UTC, an attacker on Ethereum mainnet started a two-transaction attack against a smart wallet system built on the Argent design. One minute late",
       "image": "",
-      "published": "Wed, 21 Oct 2026 20:46:10 +0000",
+      "published": "Thu, 22 Oct 2026 01:46:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
