@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-23T10:34:40.577611Z",
+  "updated": "2026-10-23T15:57:55.147914Z",
   "articles": [
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
+      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web application",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg",
+      "published": "Fri, 23 Oct 2026 16:55:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved U",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
+      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
       "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22.\n\nThe cause was",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
-      "published": "Fri, 23 Oct 2026 14:05:45 +0530",
-      "source": "The Hacker News",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing th",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
-      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
-      "source": "The Hacker News",
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
-      "published": "Fri, 23 Oct 2026 00:35:35 +0530",
-      "source": "The Hacker News",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
       "image": "",
       "published": "Thu, 22 Oct 2026 16:22:45 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 15:12:51 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 11:49:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "France needs to read my paper",
-      "link": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
-      "summary": "Article URL: https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/\nComments URL: https://news.ycombinator.com/item?id=50206586\nPoints: 11\n# Comments: 0",
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\nComments URL: https://news.ycombinator.com/item?id=50210067\nPoints: 42\n# Comments: 6",
       "image": "",
-      "published": "Fri, 23 Oct 2026 09:54:40 +0000",
+      "published": "Fri, 23 Oct 2026 14:52:08 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Rise and Fall of Jev",
-      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
-      "summary": "Article URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm\nComments URL: https://news.ycombinator.com/item?id=50206361\nPoints: 3\n# Comments: 0",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 375\n# Comments: 273",
       "image": "",
-      "published": "Fri, 23 Oct 2026 09:21:00 +0000",
+      "published": "Fri, 23 Oct 2026 13:41:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I Did This Without Your Knowledge",
-      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-      "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge\nComments URL: https://news.ycombinator.com/item?id=50204926\nPoints: 38\n# Comments: 21",
+      "title": "Shitter – A Nitter Fork",
+      "link": "https://codeberg.org/shitter/shitter",
+      "summary": "Article URL: https://codeberg.org/shitter/shitter\nComments URL: https://news.ycombinator.com/item?id=50208343\nPoints: 121\n# Comments: 69",
       "image": "",
-      "published": "Fri, 23 Oct 2026 05:51:45 +0000",
+      "published": "Fri, 23 Oct 2026 13:02:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "This I Believe (1952)",
-      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468\nComments URL: https://news.ycombinator.com/item?id=50203759\nPoints: 92\n# Comments: 34",
+      "title": "OpenSSL 4.1.0",
+      "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0\nComments URL: https://news.ycombinator.com/item?id=50208099\nPoints: 130\n# Comments: 32",
       "image": "",
-      "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+      "published": "Fri, 23 Oct 2026 12:42:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 186\n# Comments: 109",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "link": "https://www.thisandthat.chat/enron/",
+      "summary": "Article URL: https://www.thisandthat.chat/enron/\nComments URL: https://news.ycombinator.com/item?id=50207620\nPoints: 14\n# Comments: 5",
       "image": "",
-      "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "published": "Fri, 23 Oct 2026 12:02:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The 10-Minute Race: Designing Email Verification That Doesn't Frustrate Users",
-      "link": "https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7",
-      "summary": "You know the experience: you sign up, switch to your inbox, refresh twice, finally see the verification email... and discover the link has expired.\n\nIt's frustrating because the product is telling you to complete a task ",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 10:33:05 +0000",
+      "title": "Sloth Sort: a local Gemma 3 that names your screenshots so you don't have to",
+      "link": "https://dev.to/erdallaqyan/sloth-sort-a-local-gemma-3-that-names-your-screenshots-so-you-dont-have-to-4fla",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nOpen anyone's Desktop and you'll find something like this:\n\n\n\nScreenshot 2026-10-14 at 9.41.22 AM.png\nS",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7hdgjlizicg408zocdt.jpg",
+      "published": "Fri, 23 Oct 2026 15:53:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "LLMOps Is Supply Chain Work: Pinning the Inputs You Don't Control",
-      "link": "https://dev.to/dima_kruglov_608741d9a416/llmops-is-supply-chain-work-pinning-the-inputs-you-dont-control-10dj",
-      "summary": "Suggested tags: ai, llm, devops, python\n\nMost LLMOps advice is about the model: pick a snapshot, set a temperature, watch the latency. That framing is comfortable because the model is the one thing you can't debug. The f",
+      "title": "Asynchronous JavaScript",
+      "link": "https://dev.to/lokesh_a/asynchronous-javascript-47d3",
+      "summary": "In JavaScript, some operations take time to complete, such as fetching data from an API or waiting for a timer.\n\nAsynchronous JavaScript allows JavaScript to handle these operations without blocking other work.\n\nLet's un",
       "image": "",
-      "published": "Fri, 23 Oct 2026 10:32:34 +0000",
+      "published": "Fri, 23 Oct 2026 15:52:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why RAG is broken at scale, and how to fix it: Why Pilots Stall and How to Ship!",
-      "link": "https://dev.to/kanishkkatara/why-rag-is-broken-at-scale-and-how-to-fix-it-why-pilots-stall-and-how-to-ship-3n96",
-      "summary": "Many teams begin their RAG pilot with enthusiasm—initial demos wow stakeholders, applause is loud, but soon the project fades into silence, lingering in the backlog. For example, a marketing team might showcase a new doc",
+      "title": "How to Find AI Models Your Android Phone Can Actually Run in 2026 (No Failed Downloads)",
+      "link": "https://dev.to/alichherawalla/how-to-find-ai-models-your-android-phone-can-actually-run-in-2026-no-failed-downloads-529a",
+      "summary": "You search Hugging Face for a model, wait for a 5 GB download on your Android phone, and then it will not load: too big for your RAM, or a format the app cannot run yet. Off Grid AI Mobile (OGAM) now filters that out bef",
       "image": "",
-      "published": "Fri, 23 Oct 2026 10:32:34 +0000",
+      "published": "Fri, 23 Oct 2026 15:51:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Drop in a PDF, Get Flashcards",
-      "link": "https://dev.to/ayushkawadkar29/drop-in-a-pdf-get-flashcards-4bdc",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nBefore exams, I used to spend hours turning lecture PDFs into notes I could actually revise from. [Proj",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 10:32:07 +0000",
+      "title": "Arrange My Files AI: A Clearer Home for Every File",
+      "link": "https://dev.to/navidishaq/arrange-my-files-ai-a-clearer-home-for-every-file-4lih",
+      "summary": "A smarter, safer way to organize your files — without losing control of your documents.\n\nArrange My Files AI turns messy folders into clear, reviewable organization plans, with verified copies and original files preserve",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F958elz6e15rogsfw019d.png",
+      "published": "Fri, 23 Oct 2026 15:50:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CVE-2026-109619: CVE-2026-109619: Remote Code Execution in PHP Core via Stale Global State Memory Corruption (PHP2Shell)",
-      "link": "https://dev.to/cverports/cve-2026-109619-cve-2026-109619-remote-code-execution-in-php-core-via-stale-global-state-memory-2ja9",
-      "summary": "CVE-2026-109619: Remote Code Execution in PHP Core via Stale Global State Memory Corruption (PHP2Shell)\n\n\n\nVulnerability ID: CVE-2026-109619\nCVSS Score: 9.2\nPublished: 2026-10-21\n\n\nCVE-2026-109619 (PHP2Shell) is a critic",
+      "title": "When AI keeps fixing the wrong bug",
+      "link": "https://dev.to/promptalo/when-ai-keeps-fixing-the-wrong-bug-4b96",
+      "summary": "Anyone who has debugged with an AI model knows this loop. You paste the error, ask for a fix, and get a confident patch. It looks right. The error moves somewhere else. You paste the new error, get another patch, and a f",
       "image": "",
-      "published": "Fri, 23 Oct 2026 10:31:55 +0000",
+      "published": "Fri, 23 Oct 2026 15:50:27 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
