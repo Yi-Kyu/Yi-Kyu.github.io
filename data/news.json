@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-23T15:57:55.147914Z",
+  "updated": "2026-10-23T20:41:18.004160Z",
   "articles": [
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, U",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
+      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg",
+      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"Autonomous Red Team ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
+      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
@@ -20,30 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved U",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is in the way Pillow h",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
-      "published": "Fri, 23 Oct 2026 15:06:00 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the offic",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
-      "published": "Fri, 23 Oct 2026 14:10:43 +0530",
-      "source": "The Hacker News",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help",
       "image": "",
       "published": "Fri, 23 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 08:48:00 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 17:25:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 16:22:45 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
-      "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
-      "summary": "Article URL: https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\nComments URL: https://news.ycombinator.com/item?id=50210067\nPoints: 42\n# Comments: 6",
+      "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
+      "link": "https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks",
+      "summary": "Article URL: https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks\nComments URL: https://news.ycombinator.com/item?id=50214568\nPoints: 10\n# Comments: 1",
       "image": "",
-      "published": "Fri, 23 Oct 2026 14:52:08 +0000",
+      "published": "Fri, 23 Oct 2026 20:05:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-      "summary": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 375\n# Comments: 273",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "summary": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 19\n# Comments: 2",
       "image": "",
-      "published": "Fri, 23 Oct 2026 13:41:10 +0000",
+      "published": "Fri, 23 Oct 2026 19:09:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Shitter – A Nitter Fork",
-      "link": "https://codeberg.org/shitter/shitter",
-      "summary": "Article URL: https://codeberg.org/shitter/shitter\nComments URL: https://news.ycombinator.com/item?id=50208343\nPoints: 121\n# Comments: 69",
+      "title": "Florida officer found dead man, impersonated him for years, renovated his home",
+      "link": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+      "summary": "Article URL: https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844\nComments URL: https://news.ycombinator.com/item?id=50213826\nPoints: 15\n# Comments: 4",
       "image": "",
-      "published": "Fri, 23 Oct 2026 13:02:23 +0000",
+      "published": "Fri, 23 Oct 2026 19:01:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenSSL 4.1.0",
-      "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-      "summary": "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0\nComments URL: https://news.ycombinator.com/item?id=50208099\nPoints: 130\n# Comments: 32",
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro\nComments URL: https://news.ycombinator.com/item?id=50213337\nPoints: 96\n# Comments: 18",
       "image": "",
-      "published": "Fri, 23 Oct 2026 12:42:44 +0000",
+      "published": "Fri, 23 Oct 2026 18:24:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "link": "https://www.thisandthat.chat/enron/",
-      "summary": "Article URL: https://www.thisandthat.chat/enron/\nComments URL: https://news.ycombinator.com/item?id=50207620\nPoints: 14\n# Comments: 5",
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
+      "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923\nComments URL: https://news.ycombinator.com/item?id=50212668\nPoints: 38\n# Comments: 9",
       "image": "",
-      "published": "Fri, 23 Oct 2026 12:02:53 +0000",
+      "published": "Fri, 23 Oct 2026 17:40:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sloth Sort: a local Gemma 3 that names your screenshots so you don't have to",
-      "link": "https://dev.to/erdallaqyan/sloth-sort-a-local-gemma-3-that-names-your-screenshots-so-you-dont-have-to-4fla",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nOpen anyone's Desktop and you'll find something like this:\n\n\n\nScreenshot 2026-10-14 at 9.41.22 AM.png\nS",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc7hdgjlizicg408zocdt.jpg",
-      "published": "Fri, 23 Oct 2026 15:53:16 +0000",
+      "title": "I built syncSCP, a WinSCP-style file manager and SSH terminal for macOS",
+      "link": "https://dev.to/oguzhankrcb/i-built-syncscp-a-winscp-style-file-manager-and-ssh-terminal-for-macos-39if",
+      "summary": "After moving from Windows to the Mac, the tool I missed most was WinSCP. So I built syncSCP: a native macOS file manager and SSH terminal for SFTP, SCP, FTP/FTPS, WebDAV and S3, with WinSCP's two-pane Commander workflow.",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxk6ratijehea3yqpa5q.png",
+      "published": "Fri, 23 Oct 2026 20:39:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Asynchronous JavaScript",
-      "link": "https://dev.to/lokesh_a/asynchronous-javascript-47d3",
-      "summary": "In JavaScript, some operations take time to complete, such as fetching data from an API or waiting for a timer.\n\nAsynchronous JavaScript allows JavaScript to handle these operations without blocking other work.\n\nLet's un",
+      "title": "How to extract all URLs from a sitemap (and export them to CSV)",
+      "link": "https://dev.to/swillz/how-to-extract-all-urls-from-a-sitemap-and-export-them-to-csv-3458",
+      "summary": "You need a list of every page on a website. Maybe you're planning an SEO audit or a site migration. Maybe you want to check for broken links, or you're feeding pages into a crawler or an LLM pipeline. The fastest route i",
       "image": "",
-      "published": "Fri, 23 Oct 2026 15:52:47 +0000",
+      "published": "Fri, 23 Oct 2026 20:37:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Find AI Models Your Android Phone Can Actually Run in 2026 (No Failed Downloads)",
-      "link": "https://dev.to/alichherawalla/how-to-find-ai-models-your-android-phone-can-actually-run-in-2026-no-failed-downloads-529a",
-      "summary": "You search Hugging Face for a model, wait for a 5 GB download on your Android phone, and then it will not load: too big for your RAM, or a format the app cannot run yet. Off Grid AI Mobile (OGAM) now filters that out bef",
+      "title": "The AI test that passes because it copied the code's assumption",
+      "link": "https://dev.to/jeff_pdc/the-ai-test-that-passes-because-it-copied-the-codes-assumption-2g3i",
+      "summary": "An agent writes the function, writes the covering test in the same pass, CI turns green, and the reviewer merges on a clean stack. Months later an edge case breaks in production, you open the test that was supposed to co",
       "image": "",
-      "published": "Fri, 23 Oct 2026 15:51:45 +0000",
+      "published": "Fri, 23 Oct 2026 20:37:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Arrange My Files AI: A Clearer Home for Every File",
-      "link": "https://dev.to/navidishaq/arrange-my-files-ai-a-clearer-home-for-every-file-4lih",
-      "summary": "A smarter, safer way to organize your files — without losing control of your documents.\n\nArrange My Files AI turns messy folders into clear, reviewable organization plans, with verified copies and original files preserve",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F958elz6e15rogsfw019d.png",
-      "published": "Fri, 23 Oct 2026 15:50:42 +0000",
+      "title": "Later Line: a local model may shorten the task, and a lying line is thrown away",
+      "link": "https://dev.to/akshaygoel7/later-line-a-local-model-may-shorten-the-task-and-a-lying-line-is-thrown-away-5c1l",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady.\n\n\n\n\n  \n  \n  What I Built\n\n\nThe hard part of a postponed task is opening it again. The paragraph is still there, and so is the s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3tq5j5p0faucymtp9kgb.png",
+      "published": "Fri, 23 Oct 2026 20:36:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When AI keeps fixing the wrong bug",
-      "link": "https://dev.to/promptalo/when-ai-keeps-fixing-the-wrong-bug-4b96",
-      "summary": "Anyone who has debugged with an AI model knows this loop. You paste the error, ask for a fix, and get a confident patch. It looks right. The error moves somewhere else. You paste the new error, get another patch, and a f",
+      "title": "Security Audit Report: Reentrancy & Access Control Review: Gemini",
+      "link": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-48fc",
+      "summary": "Security Audit Report: Reentrancy &amp; Access Control Review: Gemini\n\n\nTarget Protocol: Gemini (TVL: $5369.8M)\n\nSecurity Audit Report – Reentrancy &amp; Access‑Control Review\nProtocol: Gemini (TVL ≈ $5.37 B across Ether",
       "image": "",
-      "published": "Fri, 23 Oct 2026 15:50:27 +0000",
+      "published": "Fri, 23 Oct 2026 20:36:11 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
+      "link": "https://css-tricks.com/css-random-function-polyfill/",
+      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
+      "link": "https://css-tricks.com/whats-important-18/",
+      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
+      "image": "",
+      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
+      "image": "",
+      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "animation-trigger",
+      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
+      "image": "",
+      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "MicroLighter: Syntax Highlighter",
+      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
+      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
+      "image": "",
+      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
