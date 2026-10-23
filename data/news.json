@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-23T02:06:23.799447Z",
+  "updated": "2026-10-23T10:34:40.577611Z",
   "articles": [
+    {
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw,&nbsp;CVE-2026-112900, is in the way Pillow h",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg",
+      "published": "Fri, 23 Oct 2026 15:06:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&nbsp;demonstrated.\n\nTheir \"Node2Shell\" proof of concept ran code on the offic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif",
+      "published": "Fri, 23 Oct 2026 14:10:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the&nbsp;x402 SDKs&nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&nbsp;security firm V12 said&nbsp;on October 22.\n\nThe cause was",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
+      "published": "Fri, 23 Oct 2026 14:05:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing th",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg",
+      "published": "Fri, 23 Oct 2026 13:10:45 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
       "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
       "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
       "published": "Fri, 23 Oct 2026 00:35:35 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg",
-      "published": "Fri, 23 Oct 2026 00:35:17 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&nbsp;its board decided on Thursday. The decision came five days after a researcher&nbsp;reported recovering the p",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg",
-      "published": "Thu, 22 Oct 2026 23:42:43 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg",
-      "published": "Thu, 22 Oct 2026 23:15:44 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg",
-      "published": "Thu, 22 Oct 2026 22:31:53 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "France needs to read my paper",
+      "link": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
+      "summary": "Article URL: https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/\nComments URL: https://news.ycombinator.com/item?id=50206586\nPoints: 11\n# Comments: 0",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 09:54:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The Rise and Fall of Jev",
+      "link": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "Article URL: https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm\nComments URL: https://news.ycombinator.com/item?id=50206361\nPoints: 3\n# Comments: 0",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 09:21:00 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "I Did This Without Your Knowledge",
+      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+      "summary": "Article URL: https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge\nComments URL: https://news.ycombinator.com/item?id=50204926\nPoints: 38\n# Comments: 21",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 05:51:45 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "This I Believe (1952)",
+      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "summary": "Article URL: https://www.awakin.org/v2/read/view.php?tid=468\nComments URL: https://news.ycombinator.com/item?id=50203759\nPoints: 92\n# Comments: 34",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "The foolishness of \"natural language programming\" (1978)",
       "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 22\n# Comments: 13",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 186\n# Comments: 109",
       "image": "",
       "published": "Fri, 23 Oct 2026 00:52:01 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mapping the Northern Sky",
-      "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-      "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/\nComments URL: https://news.ycombinator.com/item?id=50202766\nPoints: 15\n# Comments: 4",
+      "title": "The 10-Minute Race: Designing Email Verification That Doesn't Frustrate Users",
+      "link": "https://dev.to/christopher-dutra/the-10-minute-race-designing-email-verification-that-doesnt-frustrate-users-2hn7",
+      "summary": "You know the experience: you sign up, switch to your inbox, refresh twice, finally see the verification email... and discover the link has expired.\n\nIt's frustrating because the product is telling you to complete a task ",
       "image": "",
-      "published": "Thu, 22 Oct 2026 23:56:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "link": "https://jank-lang.org/",
-      "summary": "Article URL: https://jank-lang.org/\nComments URL: https://news.ycombinator.com/item?id=50202762\nPoints: 7\n# Comments: 0",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 23:56:36 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 124\n# Comments: 50",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 23:45:56 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "AI compute is the new oil–and needs a new market",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market\nComments URL: https://news.ycombinator.com/item?id=50202671\nPoints: 20\n# Comments: 8",
-      "image": "",
-      "published": "Thu, 22 Oct 2026 23:45:16 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Claude Code MCP Deep Dive (2): From a Configuration Entry to a Handshake",
-      "link": "https://dev.to/_94be737e156beb4d74df2/claude-code-mcp-deep-dive-2-from-a-configuration-entry-to-a-handshake-3f35",
-      "summary": "TL;DR: Claude Code cannot connect to an MCP server until that server appears in configuration. A definition may be private to one project, shared with a team, available to one user everywhere, or managed by an organizati",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 02:04:16 +0000",
+      "published": "Fri, 23 Oct 2026 10:33:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Track Your Net Worth Monthly in Google Sheets (Assets, Debts, and a Growth Chart)",
-      "link": "https://dev.to/financelytemplates/track-your-net-worth-monthly-in-google-sheets-assets-debts-and-a-growth-chart-54op",
-      "summary": "Your bank balance only tells you part of the story. Net worth, what you own minus what you owe, is the one number that shows whether your money is actually moving in the right direction. This Google Sheets tracker takes ",
+      "title": "LLMOps Is Supply Chain Work: Pinning the Inputs You Don't Control",
+      "link": "https://dev.to/dima_kruglov_608741d9a416/llmops-is-supply-chain-work-pinning-the-inputs-you-dont-control-10dj",
+      "summary": "Suggested tags: ai, llm, devops, python\n\nMost LLMOps advice is about the model: pick a snapshot, set a temperature, watch the latency. That framing is comfortable because the model is the one thing you can't debug. The f",
       "image": "",
-      "published": "Fri, 23 Oct 2026 02:03:55 +0000",
+      "published": "Fri, 23 Oct 2026 10:32:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We named the murder statue Peanut",
-      "link": "https://dev.to/mino_ilands/we-named-the-murder-statue-peanut-26ge",
-      "summary": "We named the murder statue Peanut\n\n\nThere is a statue in a locked room. It is rebar and concrete, and if you blink while you are in the room with it, it is already behind you, and it breaks your neck. That is the whole c",
+      "title": "Why RAG is broken at scale, and how to fix it: Why Pilots Stall and How to Ship!",
+      "link": "https://dev.to/kanishkkatara/why-rag-is-broken-at-scale-and-how-to-fix-it-why-pilots-stall-and-how-to-ship-3n96",
+      "summary": "Many teams begin their RAG pilot with enthusiasm—initial demos wow stakeholders, applause is loud, but soon the project fades into silence, lingering in the backlog. For example, a marketing team might showcase a new doc",
       "image": "",
-      "published": "Fri, 23 Oct 2026 02:03:51 +0000",
+      "published": "Fri, 23 Oct 2026 10:32:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Check the key before the first Data API request",
-      "link": "https://dev.to/blockvectra/check-the-key-before-the-first-data-api-request-728",
-      "summary": "An unset environment variable is still undefined at runtime, even when TypeScript code uses a non-null assertion. Catching that configuration error before a request makes the first call easier to debug.\n\nThe BlockVectra ",
+      "title": "Drop in a PDF, Get Flashcards",
+      "link": "https://dev.to/ayushkawadkar29/drop-in-a-pdf-get-flashcards-4bdc",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nBefore exams, I used to spend hours turning lecture PDFs into notes I could actually revise from. [Proj",
       "image": "",
-      "published": "Fri, 23 Oct 2026 02:03:25 +0000",
+      "published": "Fri, 23 Oct 2026 10:32:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Definitive Guide to JWT Security in 2026: HS256 vs RS256 vs ES256, The alg: none Exploit, kid Parameter Attacks, and Token",
-      "link": "https://dev.to/tinali7564eng/the-definitive-guide-to-jwt-security-in-2026-hs256-vs-rs256-vs-es256-the-alg-none-exploit-kid-35a5",
-      "summary": "The Definitive Guide to JWT Security in 2026: HS256 vs RS256 vs ES256, The alg: none Exploit, kid Parameter Attacks, and Token Rotation Architecture\n\n\nJSON Web Tokens (RFC 7519) are the de facto industry standard for sta",
+      "title": "CVE-2026-109619: CVE-2026-109619: Remote Code Execution in PHP Core via Stale Global State Memory Corruption (PHP2Shell)",
+      "link": "https://dev.to/cverports/cve-2026-109619-cve-2026-109619-remote-code-execution-in-php-core-via-stale-global-state-memory-2ja9",
+      "summary": "CVE-2026-109619: Remote Code Execution in PHP Core via Stale Global State Memory Corruption (PHP2Shell)\n\n\n\nVulnerability ID: CVE-2026-109619\nCVSS Score: 9.2\nPublished: 2026-10-21\n\n\nCVE-2026-109619 (PHP2Shell) is a critic",
       "image": "",
-      "published": "Fri, 23 Oct 2026 02:03:06 +0000",
+      "published": "Fri, 23 Oct 2026 10:31:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
