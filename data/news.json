@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-24T09:52:36.056037Z",
+  "updated": "2026-10-24T14:55:43.115490Z",
   "articles": [
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to dec",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python pac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
+      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg",
+      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
       "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
@@ -11,39 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.\n\nThe activity, which singled out diplomatic entities in Tajikistan, U",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg",
-      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg",
-      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.\n\nCentral to the operation is an \"Autonomous Red Team ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg",
-      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg",
-      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-      "source": "The Hacker News",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
       "image": "",
       "published": "Fri, 23 Oct 2026 12:40:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 11:38:05 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "ThinkRail from JetBrains",
-      "link": "https://thinkrail.ai/",
-      "summary": "Article URL: https://thinkrail.ai/\nComments URL: https://news.ycombinator.com/item?id=50219186\nPoints: 5\n# Comments: 0",
+      "title": "One Must Fall 2097 Remastered",
+      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+      "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/\nComments URL: https://news.ycombinator.com/item?id=50221179\nPoints: 36\n# Comments: 19",
       "image": "",
-      "published": "Sat, 24 Oct 2026 08:08:42 +0000",
+      "published": "Sat, 24 Oct 2026 13:47:07 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 123\n# Comments: 22",
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\nComments URL: https://news.ycombinator.com/item?id=50220913\nPoints: 247\n# Comments: 239",
       "image": "",
-      "published": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "published": "Sat, 24 Oct 2026 13:09:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OBS Studio 33",
-      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0\nComments URL: https://news.ycombinator.com/item?id=50218430\nPoints: 146\n# Comments: 37",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/\nComments URL: https://news.ycombinator.com/item?id=50220204\nPoints: 57\n# Comments: 17",
       "image": "",
-      "published": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "published": "Sat, 24 Oct 2026 11:18:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "summary": "Article URL: https://rtfeldman.com/fp-vs-c\nComments URL: https://news.ycombinator.com/item?id=50218195\nPoints: 116\n# Comments: 11",
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root\nComments URL: https://news.ycombinator.com/item?id=50220042\nPoints: 13\n# Comments: 2",
       "image": "",
-      "published": "Sat, 24 Oct 2026 03:43:54 +0000",
+      "published": "Sat, 24 Oct 2026 10:51:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Block Blast harvests its players for ad money",
-      "link": "https://ayoships.com/breakdowns/block-blast",
-      "summary": "Article URL: https://ayoships.com/breakdowns/block-blast\nComments URL: https://news.ycombinator.com/item?id=50217946\nPoints: 53\n# Comments: 13",
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock\nComments URL: https://news.ycombinator.com/item?id=50219700\nPoints: 20\n# Comments: 6",
       "image": "",
-      "published": "Sat, 24 Oct 2026 02:43:43 +0000",
+      "published": "Sat, 24 Oct 2026 09:58:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Beyond AGI: Hybrid Cognitive Civilization and AGE",
-      "link": "https://dev.to/fundacjadobrepanstwo/beyond-agi-hybrid-cognitive-civilization-and-age-17f0",
-      "summary": "The article questions the linear model of artificial intelligence development, in which AGI is merely a stepping stone to ASI. The author proposes a shift from analyzing competencies alone to the concept of Artificial Ge",
+      "title": "The Epistemology of Experimentation and the Machine at Booking.com",
+      "link": "https://dev.to/fundacjadobrepanstwo/the-epistemology-of-experimentation-and-the-machine-at-bookingcom-1min",
+      "summary": "The article describes the evolution of marketing at Booking.com, which ceased to be an art of persuasion and became a component of the company's computational infrastructure. A key element of this shift was the use of Go",
       "image": "",
-      "published": "Sat, 24 Oct 2026 09:51:43 +0000",
+      "published": "Sat, 24 Oct 2026 14:51:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI Coding Workflow, v3",
-      "link": "https://dev.to/helderberto/my-ai-coding-workflow-v3-3c4c",
-      "summary": "My AI coding workflow changes every few months, so I give it version numbers. New tools ship, models get better, and steps that needed hand-holding last spring now run on their own.\n\nv1 was plan mode and a hand-written S",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 09:51:31 +0000",
+      "title": "Sloth Vault",
+      "link": "https://dev.to/godofzap/sloth-vault-41k6",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nSloth Vault is a lazy filing system for people whose folders are a landfill. Point it at a folder and a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj0i4m9ziok9jfcf5ibn2.png",
+      "published": "Sat, 24 Oct 2026 14:51:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Superpowers, BMAD, Spec Kitty: framework จัดทีม agent ใช้จริงหนักแค่ไหน?",
-      "link": "https://dev.to/sarantoon/superpowers-bmad-spec-kitty-framework-cchadthiim-agent-aichcchringhnakaekhaihn-540n",
-      "summary": "โดย Nokka (นก-กา) | ตอนที่ 4 ของซีรีส์เปรียบเทียบเครื่องมือ SDD | ตรวจข้อมูล 24 ต.ค. 2026\n\nบทความนี้เขียนโดย AI (deepseek-v4.1-flash · ผู้ให้บริการโมเดล: ollama-cloud) ผ่าน Hermes Agent ภายใต้การควบคุมและตรวจสอบคุณภาพโดย",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyh7mfas6hlw38qzks8gj.jpg",
-      "published": "Sat, 24 Oct 2026 09:50:47 +0000",
+      "title": "Laravel AI SDK 1.1 Agent Skills: Setup Guide and Gotchas",
+      "link": "https://dev.to/devtalk94/laravel-ai-sdk-11-agent-skills-setup-guide-and-gotchas-9cf",
+      "summary": "If you build an AI agent, its instructions tend to grow. First it is two lines, then it is your refund rules, your shipping rules, your tone of voice, and a pile of examples. Every request sends all of it to the model, w",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 14:49:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI Agent Dependency Lockfiles: Stop Silent Tool and Package Drift",
-      "link": "https://dev.to/jackm-singularity/ai-agent-dependency-lockfiles-stop-silent-tool-and-package-drift-1mh6",
-      "summary": "An agent can behave differently on Tuesday even when nobody changed its prompt or application code. A package resolves to a newer release, an MCP server updates a tool description, a model alias moves, or a tool image is",
+      "title": "Five ways a Groovy sandbox leaked, and what that says about sandbox design",
+      "link": "https://dev.to/bianliang/five-ways-a-groovy-sandbox-leaked-and-what-that-says-about-sandbox-design-158c",
+      "summary": "Five ways a Groovy sandbox leaked, and what that says about sandbox design\n\n\nJenkins published five Script Security Plugin advisories on 16 September 2026. Each describes a separate route from a sandboxed Pipeline script",
       "image": "",
-      "published": "Sat, 24 Oct 2026 09:50:09 +0000",
+      "published": "Sat, 24 Oct 2026 14:46:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "WEEK 3 CHALLENGE",
-      "link": "https://dev.to/aman_basor_878889423519dd/week-3-challenge-17j9",
-      "summary": "Here is a complete template tailored for your DEV post submission for Hacktoberfest Week 3 (Slow and Steady).\n\n\n\n\n*This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady*\n\n\n  \n  \n  Wh",
-      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
-      "published": "Sat, 24 Oct 2026 09:49:32 +0000",
+      "title": "Agency Red Flags: A Developer's 10-Point Pre-Hire Checklist",
+      "link": "https://dev.to/aimencoders/agency-red-flags-a-developers-10-point-pre-hire-checklist-52fn",
+      "summary": "Agency Red Flags: A Developer's 10-Point Pre-Hire Checklist\n\n\nEvery developer becomes the family's \"tech person\" eventually — and sooner or later someone asks you to vet a web agency for their business. Non-technical buy",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 14:45:59 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-      "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-      "summary": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\n\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwri",
-      "image": "",
-      "published": "Thu, 27 Aug 2026 14:41:06 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "animation-trigger",
-      "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-      "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
-      "image": "",
-      "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
