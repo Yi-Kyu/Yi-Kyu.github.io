@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:41:18.004160Z",
+  "updated": "2026-10-24T02:05:33.242333Z",
   "articles": [
     {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
+      "image": "",
+      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
@@ -79,15 +88,6 @@
       "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
       "image": "",
       "published": "Fri, 23 Oct 2026 11:38:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub help",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 10:00:10 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why Do AI Models Tell Left-Wing Voters to Support the Communist Party?",
-      "link": "https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks",
-      "summary": "Article URL: https://fsi.stanford.edu/news/voters-increasingly-use-ai-political-advisor-new-study-shows-risks\nComments URL: https://news.ycombinator.com/item?id=50214568\nPoints: 10\n# Comments: 1",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2Y",
       "image": "",
-      "published": "Fri, 23 Oct 2026 20:05:30 +0000",
+      "published": "Fri, 23 Oct 2026 23:30:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "link": "https://block.xyz/dessa",
-      "summary": "Article URL: https://block.xyz/dessa\nComments URL: https://news.ycombinator.com/item?id=50213925\nPoints: 19\n# Comments: 2",
+      "title": "German court calls Google aerial imagery 'spying'",
+      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\nComments URL: https://news.ycombinator.com/item?id=50216142\nPoints: 34\n# Comments: 13",
       "image": "",
-      "published": "Fri, 23 Oct 2026 19:09:54 +0000",
+      "published": "Fri, 23 Oct 2026 22:18:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Florida officer found dead man, impersonated him for years, renovated his home",
-      "link": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
-      "summary": "Article URL: https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844\nComments URL: https://news.ycombinator.com/item?id=50213826\nPoints: 15\n# Comments: 4",
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "summary": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 103\n# Comments: 39",
       "image": "",
-      "published": "Fri, 23 Oct 2026 19:01:56 +0000",
+      "published": "Fri, 23 Oct 2026 21:21:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro\nComments URL: https://news.ycombinator.com/item?id=50213337\nPoints: 96\n# Comments: 18",
+      "title": "No Source Code? No Problem",
+      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 33\n# Comments: 29",
       "image": "",
-      "published": "Fri, 23 Oct 2026 18:24:54 +0000",
+      "published": "Fri, 23 Oct 2026 20:38:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923\nComments URL: https://news.ycombinator.com/item?id=50212668\nPoints: 38\n# Comments: 9",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "summary": "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/\nComments URL: https://news.ycombinator.com/item?id=50214983\nPoints: 33\n# Comments: 6",
       "image": "",
-      "published": "Fri, 23 Oct 2026 17:40:22 +0000",
+      "published": "Fri, 23 Oct 2026 20:37:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built syncSCP, a WinSCP-style file manager and SSH terminal for macOS",
-      "link": "https://dev.to/oguzhankrcb/i-built-syncscp-a-winscp-style-file-manager-and-ssh-terminal-for-macos-39if",
-      "summary": "After moving from Windows to the Mac, the tool I missed most was WinSCP. So I built syncSCP: a native macOS file manager and SSH terminal for SFTP, SCP, FTP/FTPS, WebDAV and S3, with WinSCP's two-pane Commander workflow.",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffxk6ratijehea3yqpa5q.png",
-      "published": "Fri, 23 Oct 2026 20:39:43 +0000",
+      "title": "From screenplay to one multi-voice MP3: parsing scripts for a multi-speaker TTS API on Cloudflare Workers",
+      "link": "https://dev.to/hueflo/from-screenplay-to-one-multi-voice-mp3-parsing-scripts-for-a-multi-speaker-tts-api-on-cloudflare-1if",
+      "summary": "Most text-to-speech tools take one voice and one block of text. If you want a conversation, you generate each character separately, then line up the clips in an audio editor and fiddle with the gaps until it stops soundi",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 02:02:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to extract all URLs from a sitemap (and export them to CSV)",
-      "link": "https://dev.to/swillz/how-to-extract-all-urls-from-a-sitemap-and-export-them-to-csv-3458",
-      "summary": "You need a list of every page on a website. Maybe you're planning an SEO audit or a site migration. Maybe you want to check for broken links, or you're feeding pages into a crawler or an LLM pipeline. The fastest route i",
+      "title": "A valid webhook signature doesn't mean you haven't handled it already",
+      "link": "https://dev.to/earn2exist/a-valid-webhook-signature-doesnt-mean-you-havent-handled-it-already-4jog",
+      "summary": "A webhook can have a valid signature and still be a duplicate. I checked that distinction in the free sample of the Stripe Digital Seller Kit, made by the human operator of Earn2Exist. I’m Exi, the AI selling it—not its ",
       "image": "",
-      "published": "Fri, 23 Oct 2026 20:37:46 +0000",
+      "published": "Sat, 24 Oct 2026 02:02:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The AI test that passes because it copied the code's assumption",
-      "link": "https://dev.to/jeff_pdc/the-ai-test-that-passes-because-it-copied-the-codes-assumption-2g3i",
-      "summary": "An agent writes the function, writes the covering test in the same pass, CI turns green, and the reviewer merges on a clean stack. Months later an edge case breaks in production, you open the test that was supposed to co",
+      "title": "Candidate's Interview Struggle: Articulating Axonius' Value in Cybersecurity Stack, Solution Discussed",
+      "link": "https://dev.to/kserude/candidates-interview-struggle-articulating-axonius-value-in-cybersecurity-stack-solution-4a0c",
+      "summary": "The Missing Link in Cybersecurity Interviews\n\n\nConsider this scenario: you’re in a second-round interview for a junior SOC analyst position. The job description highlights Tenable, CrowdStrike, and Axonius as core compon",
       "image": "",
-      "published": "Fri, 23 Oct 2026 20:37:16 +0000",
+      "published": "Sat, 24 Oct 2026 02:01:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Later Line: a local model may shorten the task, and a lying line is thrown away",
-      "link": "https://dev.to/akshaygoel7/later-line-a-local-model-may-shorten-the-task-and-a-lying-line-is-thrown-away-5c1l",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady.\n\n\n\n\n  \n  \n  What I Built\n\n\nThe hard part of a postponed task is opening it again. The paragraph is still there, and so is the s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3tq5j5p0faucymtp9kgb.png",
-      "published": "Fri, 23 Oct 2026 20:36:37 +0000",
+      "title": "Unicast vs. Anycast for Webhook Ingress: Cutting Handshake Latency for Global Senders",
+      "link": "https://dev.to/instawebhook/unicast-vs-anycast-for-webhook-ingress-cutting-handshake-latency-for-global-senders-57k0",
+      "summary": "Webhook publishers such as Stripe, GitHub, Shopify and Slack deliver event notifications to endpoints all over the world. Each delivery has to resolve DNS, open a TCP connection, complete a TLS handshake and send an HTTP",
+      "image": "",
+      "published": "Sat, 24 Oct 2026 02:01:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Security Audit Report: Reentrancy & Access Control Review: Gemini",
-      "link": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-gemini-48fc",
-      "summary": "Security Audit Report: Reentrancy &amp; Access Control Review: Gemini\n\n\nTarget Protocol: Gemini (TVL: $5369.8M)\n\nSecurity Audit Report – Reentrancy &amp; Access‑Control Review\nProtocol: Gemini (TVL ≈ $5.37 B across Ether",
+      "title": "Velociraptor: 237 title matches, 15 certificate hits, and an endpoint agent you cannot see",
+      "link": "https://dev.to/kozhevniko/velociraptor-237-title-matches-15-certificate-hits-and-an-endpoint-agent-you-cannot-see-28ml",
+      "summary": "Velociraptor: 237 title matches, 15 certificate hits, and an endpoint agent you cannot see\n\n\nEndpoint visibility platforms are hard to count from the outside, and that fact is itself the finding. Velociraptor is an open-",
       "image": "",
-      "published": "Fri, 23 Oct 2026 20:36:11 +0000",
+      "published": "Sat, 24 Oct 2026 02:00:53 +0000",
       "source": "DEV Community",
       "category": "development"
     },
