@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-25T15:05:49.616668Z",
+  "updated": "2026-10-25T20:02:19.986877Z",
   "articles": [
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tails",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
@@ -29,21 +47,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg",
-      "published": "Sat, 24 Oct 2026 16:06:33 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
-      "published": "Sat, 24 Oct 2026 14:34:24 +0530",
-      "source": "The Hacker News",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "image": "",
+      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
       "image": "",
       "published": "Fri, 23 Oct 2026 13:05:07 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 12:40:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "summary": "Article URL: https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai\nComments URL: https://news.ycombinator.com/item?id=50231722\nPoints: 44\n# Comments: 23",
+      "title": "Eunice is almost here (William Gibson, Agency)",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here\nComments URL: https://news.ycombinator.com/item?id=50235316\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 25 Oct 2026 14:05:03 +0000",
+      "published": "Sun, 25 Oct 2026 19:40:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "link": "https://github.com/winnin/farol",
-      "summary": "Article URL: https://github.com/winnin/farol\nComments URL: https://news.ycombinator.com/item?id=50231349\nPoints: 23\n# Comments: 15",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/\nComments URL: https://news.ycombinator.com/item?id=50235217\nPoints: 21\n# Comments: 0",
       "image": "",
-      "published": "Sun, 25 Oct 2026 13:28:06 +0000",
+      "published": "Sun, 25 Oct 2026 19:29:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "US inequality is getting worse in ways you might not expect",
-      "link": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
-      "summary": "Article URL: https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075\nComments URL: https://news.ycombinator.com/item?id=50231310\nPoints: 25\n# Comments: 23",
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "summary": "With today's news, I thought I'd share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They d",
       "image": "",
-      "published": "Sun, 25 Oct 2026 13:24:37 +0000",
+      "published": "Sun, 25 Oct 2026 18:23:54 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Lego group reveals collaboration with Daft Punk",
-      "link": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
-      "summary": "Article URL: https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk\nComments URL: https://news.ycombinator.com/item?id=50231001\nPoints: 36\n# Comments: 31",
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics\nComments URL: https://news.ycombinator.com/item?id=50234329\nPoints: 28\n# Comments: 4",
       "image": "",
-      "published": "Sun, 25 Oct 2026 12:48:11 +0000",
+      "published": "Sun, 25 Oct 2026 18:11:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "link": "https://loeffelholz-codex.org/en/",
-      "summary": "Article URL: https://loeffelholz-codex.org/en/\nComments URL: https://news.ycombinator.com/item?id=50230917\nPoints: 79\n# Comments: 31",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\nComments URL: https://news.ycombinator.com/item?id=50234232\nPoints: 160\n# Comments: 38",
       "image": "",
-      "published": "Sun, 25 Oct 2026 12:37:54 +0000",
+      "published": "Sun, 25 Oct 2026 18:04:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "My Git changelog generator had to learn that 'main' is a social construct, not a branch",
-      "link": "https://dev.to/imapphelp/my-git-changelog-generator-had-to-learn-that-main-is-a-social-construct-not-a-branch-25l0",
-      "summary": "I built a changelog generator that diffs two commits in a repo and emits structured release notes — no LLM rewriting your history, just a deterministic diff of what actually changed. The first version took base_commit an",
+      "title": "Five Chron updates for AI audit trails you can inspect",
+      "link": "https://dev.to/sirinivask/five-chron-updates-for-ai-audit-trails-you-can-inspect-143b",
+      "summary": "An AI tool answering a prompt and an audit record being saved are two different events.\n\nThat distinction has shaped our recent work on Chron, a local-first logger for AI interactions. We want developers to inspect what ",
       "image": "",
-      "published": "Sun, 25 Oct 2026 15:01:23 +0000",
+      "published": "Sun, 25 Oct 2026 19:59:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GPU Preflight For Cron Agents",
-      "link": "https://dev.to/apexgridtech/gpu-preflight-for-cron-agents-313f",
-      "summary": "This week, the open-source community buzzed with updates on model serving infrastructure, including the latest PRs for vLLM-Omni support. As teams race to deploy more efficient and scalable inference pipelines, one often",
+      "title": "Google adds co-creation review flow and three study tools to Gemini Notebook",
+      "link": "https://dev.to/coldcasetech/google-adds-co-creation-review-flow-and-three-study-tools-to-gemini-notebook-30m8",
+      "summary": "Originally published on ColdCaseTech.\n\n\nDisclosure: this post contains affiliate links. We may earn a commission at no extra cost to you.\n\n\nThen vs. Now (News report): Then: Google announced that Gemini Notebook now offe",
       "image": "",
-      "published": "Sun, 25 Oct 2026 15:00:15 +0000",
+      "published": "Sun, 25 Oct 2026 19:58:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Laziest Way to Name Your Files: Namely",
-      "link": "https://dev.to/sahil27/the-laziest-way-to-name-your-files-namely-592l",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady\n\n\n  \n  \n  What I Built\n\n\nNamely names your files for you.\n\n\n\nWe all have a Downloads folder full of scan001.pdf, IMG_4432.jpg an",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fi0480okuza277ypy2ivi.png",
-      "published": "Sun, 25 Oct 2026 15:00:11 +0000",
+      "title": "NASA Langley and Virginia Energy sign Space Act Agreement on energy planning data",
+      "link": "https://dev.to/coldcasetech/nasa-langley-and-virginia-energy-sign-space-act-agreement-on-energy-planning-data-30d2",
+      "summary": "Originally published on ColdCaseTech.\n\n\nDisclosure: this post contains affiliate links. We may earn a commission at no extra cost to you.\n\n\nThen vs. Now (News report): Then: NASA's Langley Research Center announced a new",
+      "image": "",
+      "published": "Sun, 25 Oct 2026 19:58:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "systemd Accepts Rust for New Components Only: No Cargo",
-      "link": "https://dev.to/joho_todai/systemd-accepts-rust-for-new-components-only-no-cargo-28lp",
-      "summary": "systemd, which handles Linux startup and service management, has accepted Rust exclusively for new leaf components. Its approach reveals its design philosophy: no porting of existing C code and no Cargo.\n\nKey points\n\n\n\nW",
-      "image": "",
-      "published": "Sun, 25 Oct 2026 15:00:04 +0000",
+      "title": "CX Resolution Agent Blueprint",
+      "link": "https://dev.to/tridaai/cx-resolution-agent-blueprint-1h7m",
+      "summary": "Originally published at Trida AI.\n\nA support chatbot is usually graded on how the conversation felt. Did it sound helpful? Was the customer polite at the end? Meanwhile the things that actually cost a telecom operator mo",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8ra5by76paqjmk9km6k4.webp",
+      "published": "Sun, 25 Oct 2026 19:58:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Open WebUI adds native MCP tool routing",
-      "link": "https://dev.to/ayraix/open-webui-adds-native-mcp-tool-routing-500e",
-      "summary": "What happened: Open WebUI shipped native support for Model Context Protocol (MCP) servers. Users can register MCP endpoints in settings and the chat UI routes tool calls directly — no LangChain middleware required.\n\nWhy ",
+      "title": "Building an offline-first guard app for Indian housing society gates",
+      "link": "https://dev.to/gatekeeperzero/building-an-offline-first-guard-app-for-indian-housing-society-gates-c0g",
+      "summary": "A security guard at a housing society gate in India deals with a visitor every few minutes: guests, delivery riders, cabs, house help. The gate is often at the edge of the plot, under a concrete canopy, on a low-cost And",
       "image": "",
-      "published": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "published": "Sun, 25 Oct 2026 19:57:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
