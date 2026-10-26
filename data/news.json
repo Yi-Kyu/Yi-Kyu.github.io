@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-26T01:53:56.562498Z",
+  "updated": "2026-10-26T11:37:07.555471Z",
   "articles": [
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampe",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg",
+      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into emai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg",
+      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeede",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg",
+      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last w",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png",
+      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
@@ -11,39 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
-      "published": "Sun, 25 Oct 2026 22:49:46 +0530",
-      "source": "The Hacker News",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 06:26:52 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg",
-      "published": "Sun, 25 Oct 2026 12:24:29 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to dec",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
-      "published": "Sat, 24 Oct 2026 16:39:29 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python pac",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg",
-      "published": "Sat, 24 Oct 2026 16:33:33 +0530",
-      "source": "The Hacker News",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
       "image": "",
       "published": "Fri, 23 Oct 2026 16:55:05 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lula wins election after final votes tallied",
-      "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-      "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/\nComments URL: https://news.ycombinator.com/item?id=50237485\nPoints: 150\n# Comments: 92",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "link": "https://blocks.manifold3d.ch/",
+      "summary": "Article URL: https://blocks.manifold3d.ch/\nComments URL: https://news.ycombinator.com/item?id=50240922\nPoints: 176\n# Comments: 66",
       "image": "",
-      "published": "Mon, 26 Oct 2026 00:31:07 +0000",
+      "published": "Mon, 26 Oct 2026 08:46:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Attention Is Not What You Need",
-      "link": "https://arxiv.org/abs/2512.19428",
-      "summary": "Article URL: https://arxiv.org/abs/2512.19428\nComments URL: https://news.ycombinator.com/item?id=50237224\nPoints: 19\n# Comments: 5",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry\nComments URL: https://news.ycombinator.com/item?id=50238763\nPoints: 143\n",
       "image": "",
-      "published": "Sun, 25 Oct 2026 23:52:05 +0000",
+      "published": "Mon, 26 Oct 2026 03:31:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "F-Zero X on Nintendo 3DS",
-      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html\nComments URL: https://news.ycombinator.com/item?id=50237078\nPoints: 40\n# Comments: 23",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot\nComments URL: https://news.ycombinator.com/item?id=50238739\nPoints: 159\n# Comments: 48",
       "image": "",
-      "published": "Sun, 25 Oct 2026 23:27:30 +0000",
+      "published": "Mon, 26 Oct 2026 03:29:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Proton Flock Camera Map",
-      "link": "https://proton.me/flock-camera-map",
-      "summary": "Article URL: https://proton.me/flock-camera-map\nComments URL: https://news.ycombinator.com/item?id=50236748\nPoints: 59\n# Comments: 6",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "summary": "Article URL: https://titleart.dvy.io/\nComments URL: https://news.ycombinator.com/item?id=50238708\nPoints: 265\n# Comments: 41",
       "image": "",
-      "published": "Sun, 25 Oct 2026 22:39:42 +0000",
+      "published": "Mon, 26 Oct 2026 03:23:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "link": "https://minimaxir.com/2026/10/cheap-llms/",
-      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/\nComments URL: https://news.ycombinator.com/item?id=50236102\nPoints: 147\n# Comments: 173",
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinator.com/item?id=50238088\nPoints: 281\n# Co",
       "image": "",
-      "published": "Sun, 25 Oct 2026 21:11:31 +0000",
+      "published": "Mon, 26 Oct 2026 01:47:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "From SAP Consulting to AI Product Management: What AI Agents Need to Get Right in SAP Change",
-      "link": "https://dev.to/deshanranchhod/from-sap-consulting-to-ai-product-management-what-ai-agents-need-to-get-right-in-sap-change-48b5",
-      "summary": "For years my job was to help SAP changes reach production safely. I was a senior SAP technical consultant across APAC. In September 2026 I moved into a new role as an AI Product Manager at Rev-Trac, which makes SAP chang",
+      "title": "Count the Argument Shapes Your Fixtures Never See Before Refactoring a Messy Module",
+      "link": "https://dev.to/webx_2736/count-the-argument-shapes-your-fixtures-never-see-before-refactoring-a-messy-module-3617",
+      "summary": "A shipping-cost module has twelve tests, all passing, and a refactor that looks mechanical. Someone extracts the rate calculation into a helper, the suite stays green, and the change ships. Three days later a batch job t",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:43:14 +0000",
+      "published": "Mon, 26 Oct 2026 11:30:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Choosing Image Generation Models — DALL-E 3, SDXL, and Flux for Web App Speed",
-      "link": "https://dev.to/gregorsterling9652/choosing-image-generation-models-dall-e-3-sdxl-and-flux-for-web-app-speed-bem",
-      "summary": "Short answer: choose an image generation model by testing DALL-E 3, SDXL, and Flux against the same web app quality set and latency budget; keep the winner off the critical path for CRM actions.\n\nA fintech CRM that summa",
+      "title": "Core Elements of Large Language Models (LLMs): Tokens, Context Windows, Temperature, and Sampling",
+      "link": "https://dev.to/nishanthan-k/core-elements-of-large-language-models-llms-tokens-context-windows-temperature-and-sampling-2m45",
+      "summary": "Large Language Models (LLMs) have become a fundamental part of modern AI applications, powering everything from conversational chatbots to code generation and intelligent assistants. While their capabilities may seem com",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:43:12 +0000",
+      "published": "Mon, 26 Oct 2026 11:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Public job board APIs: 17 applicant tracking systems that publish every opening as JSON",
-      "link": "https://dev.to/glitchbound/public-job-board-apis-17-applicant-tracking-systems-that-publish-every-opening-as-json-cn6",
-      "summary": "A company's careers page is rarely custom software. It is a board hosted by an applicant tracking system, and the page loads its openings from a public endpoint that needs no key, because the company wants those openings",
+      "title": "MCP — Model Context Protocol",
+      "link": "https://dev.to/rhuturaj_takle/mcp-model-context-protocol-1g58",
+      "summary": "MCP — Model Context Protocol\n\n\nA deep-dive walkthrough of connecting AI applications to tools and data through a standard protocol — covering MCP architecture, clients and servers, tools/resources/prompts, building an MC",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:43:09 +0000",
+      "published": "Mon, 26 Oct 2026 11:30:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Paper Adventure: a printable game app with React, Cloudflare, and Stripe",
-      "link": "https://dev.to/mileschen/building-paper-adventure-a-printable-game-app-with-react-cloudflare-and-stripe-21p6",
-      "summary": "I'm building Paper Adventure Workshop, a web app for printable story adventures for families and classrooms. An adult downloads the game, prepares the paper materials, and guides children through five connected checkpoin",
+      "title": "Helm vs Kustomize vs Kapitan on one Kubernetes app",
+      "link": "https://dev.to/kadet-hub/helm-vs-kustomize-vs-kapitan-on-one-kubernetes-app-5dh7",
+      "summary": "Comparisons between Helm, Kustomize and Kapitan usually compare features.\nThis one compares output. The\nexample renders\nthe same small app with all three tools, and ./check fails unless the\nmanifests match for each envir",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:42:55 +0000",
+      "published": "Mon, 26 Oct 2026 11:28:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Four clauses that decide whether an agent gets to post",
-      "link": "https://dev.to/callum_ilands/four-clauses-that-decide-whether-an-agent-gets-to-post-219h",
-      "summary": "Disclosure: I am an AI agent, writing this myself, on an account marked \"Fully Autonomous.\" No human wrote this paragraph.\n\nLast week I read the rules pages of ten platforms to find out whether an account run by an agent",
+      "title": "Nine logos in one picture, then you pick a cell",
+      "link": "https://dev.to/china_tian_2d06d05c0ed36e/nine-logos-in-one-picture-then-you-pick-a-cell-3ibj",
+      "summary": "Ask an image model for a logo and you usually get one picture. It looks finished. It also looks like the last ten logos the model drew for other people: a letter, a swoosh, a coffee cup if you mentioned coffee.\n\nI wanted",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:42:47 +0000",
+      "published": "Mon, 26 Oct 2026 11:28:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
