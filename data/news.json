@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-26T11:37:07.555471Z",
+  "updated": "2026-10-26T17:41:56.649303Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg",
+      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "summary": "Two critical flaws in&nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.\n\nA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg",
+      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual al",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg",
+      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
       "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
@@ -20,30 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeede",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
-      "source": "The Hacker News",
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 12:27:57 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last w",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png",
-      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
-      "source": "The Hacker News",
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 11:38:24 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tails",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
-      "published": "Sun, 25 Oct 2026 23:14:09 +0530",
-      "source": "The Hacker News",
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 10:00:10 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United Stat",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 09:56:44 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
       "image": "",
       "published": "Mon, 26 Oct 2026 06:26:52 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 05:19:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-      "image": "",
-      "published": "Sun, 25 Oct 2026 11:49:38 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions",
-      "image": "",
-      "published": "Sat, 24 Oct 2026 10:17:32 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
-      "image": "",
-      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "link": "https://blocks.manifold3d.ch/",
-      "summary": "Article URL: https://blocks.manifold3d.ch/\nComments URL: https://news.ycombinator.com/item?id=50240922\nPoints: 176\n# Comments: 66",
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "link": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "summary": "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration\nComments URL: https://news.ycombinator.com/item?id=50247453\nPoints: 11\n# Comments: 0",
       "image": "",
-      "published": "Mon, 26 Oct 2026 08:46:09 +0000",
+      "published": "Mon, 26 Oct 2026 17:23:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry\nComments URL: https://news.ycombinator.com/item?id=50238763\nPoints: 143\n",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model\nComments URL: https://news.ycombinator.com/item?id=50246658\nPoints: 20\n# Comments: 3",
       "image": "",
-      "published": "Mon, 26 Oct 2026 03:31:11 +0000",
+      "published": "Mon, 26 Oct 2026 16:35:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot\nComments URL: https://news.ycombinator.com/item?id=50238739\nPoints: 159\n# Comments: 48",
+      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+      "link": "https://stalw.art/blog/stalwart-1-0/",
+      "summary": "Article URL: https://stalw.art/blog/stalwart-1-0/\nComments URL: https://news.ycombinator.com/item?id=50245945\nPoints: 15\n# Comments: 7",
       "image": "",
-      "published": "Mon, 26 Oct 2026 03:29:05 +0000",
+      "published": "Mon, 26 Oct 2026 15:57:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "link": "https://titleart.dvy.io/",
-      "summary": "Article URL: https://titleart.dvy.io/\nComments URL: https://news.ycombinator.com/item?id=50238708\nPoints: 265\n# Comments: 41",
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/\nComments URL: https://news.ycombinator.com/item?id=50245831\nPoints: 113\n# Comments: 23",
       "image": "",
-      "published": "Mon, 26 Oct 2026 03:23:57 +0000",
+      "published": "Mon, 26 Oct 2026 15:51:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "IBM CEO says open weight models are now good and cheap on-prem",
-      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinator.com/item?id=50238088\nPoints: 281\n# Co",
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=50245524\nPoints: 267\n# Comments: 224",
       "image": "",
-      "published": "Mon, 26 Oct 2026 01:47:46 +0000",
+      "published": "Mon, 26 Oct 2026 15:35:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Count the Argument Shapes Your Fixtures Never See Before Refactoring a Messy Module",
-      "link": "https://dev.to/webx_2736/count-the-argument-shapes-your-fixtures-never-see-before-refactoring-a-messy-module-3617",
-      "summary": "A shipping-cost module has twelve tests, all passing, and a refactor that looks mechanical. Someone extracts the rate calculation into a helper, the suite stays green, and the change ships. Three days later a batch job t",
+      "title": "GraphQL: o que é e por que ele importa nas APIs?",
+      "link": "https://dev.to/brunomestres/graphql-o-que-e-e-por-que-ele-importa-nas-apis-4j9h",
+      "summary": "Imagine uma tela que precisa exibir apenas o nome e a foto de um usuário.\n\nAo consultar a API, ela recebe também endereço, telefone, data de nascimento e vários outros campos que não serão utilizados.\n\nAgora pense em out",
       "image": "",
-      "published": "Mon, 26 Oct 2026 11:30:11 +0000",
+      "published": "Mon, 26 Oct 2026 17:33:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Core Elements of Large Language Models (LLMs): Tokens, Context Windows, Temperature, and Sampling",
-      "link": "https://dev.to/nishanthan-k/core-elements-of-large-language-models-llms-tokens-context-windows-temperature-and-sampling-2m45",
-      "summary": "Large Language Models (LLMs) have become a fundamental part of modern AI applications, powering everything from conversational chatbots to code generation and intelligent assistants. While their capabilities may seem com",
+      "title": "# 🌱 GrowWise: An AI Garden Coach That Wants You to Close This Tab and Touch Some Actual Grass",
+      "link": "https://dev.to/ashish_624379625242c5d263/-growwise-an-ai-garden-coach-that-wants-you-to-close-this-tab-and-touch-some-actual-grass-o65",
+      "summary": "개발자들이 '화면 끄고 잔디 만지기(Touch Grass)' 운동에 나섰습니다. Hacktoberfest 챌린지 1주차 출품작 GrowWise는 로컬...\n\n\n\n  \n  \n  기술 블로그: GrowWise가 만들어낸 로컬 개발 혁신\n\n\n창업자이자 풀스택 엔지니어인 저는 “화면 끄고 잔디만지기”라는 명언이 제에게는 내면의 피로를 드러내는 신호임을 깨달았습니다. 그래서 Hacktoberfest ",
       "image": "",
-      "published": "Mon, 26 Oct 2026 11:30:00 +0000",
+      "published": "Mon, 26 Oct 2026 17:33:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MCP — Model Context Protocol",
-      "link": "https://dev.to/rhuturaj_takle/mcp-model-context-protocol-1g58",
-      "summary": "MCP — Model Context Protocol\n\n\nA deep-dive walkthrough of connecting AI applications to tools and data through a standard protocol — covering MCP architecture, clients and servers, tools/resources/prompts, building an MC",
+      "title": "When your coding model refuses your own AppSec work",
+      "link": "https://dev.to/dennisonbertram/when-your-coding-model-refuses-your-own-appsec-work-139c",
+      "summary": "If you do application security, you have probably watched a coding model decline something routine: writing a proof of concept for a bug in your own staging app, or explaining how a flaw in your own handler would be expl",
       "image": "",
-      "published": "Mon, 26 Oct 2026 11:30:00 +0000",
+      "published": "Mon, 26 Oct 2026 17:33:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Helm vs Kustomize vs Kapitan on one Kubernetes app",
-      "link": "https://dev.to/kadet-hub/helm-vs-kustomize-vs-kapitan-on-one-kubernetes-app-5dh7",
-      "summary": "Comparisons between Helm, Kustomize and Kapitan usually compare features.\nThis one compares output. The\nexample renders\nthe same small app with all three tools, and ./check fails unless the\nmanifests match for each envir",
+      "title": "A practical CI and supply-chain hardening checklist you can run with a terminal agent",
+      "link": "https://dev.to/dennisonbertram/a-practical-ci-and-supply-chain-hardening-checklist-you-can-run-with-a-terminal-agent-11h5",
+      "summary": "Your CI is code that runs with your secrets and publishes what your users install. Cloudflare's open-source security-audit skill includes a SUPPLY-CHAIN-AND-RELEASE.md reference whose core rules are useful questions to a",
       "image": "",
-      "published": "Mon, 26 Oct 2026 11:28:52 +0000",
+      "published": "Mon, 26 Oct 2026 17:32:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Nine logos in one picture, then you pick a cell",
-      "link": "https://dev.to/china_tian_2d06d05c0ed36e/nine-logos-in-one-picture-then-you-pick-a-cell-3ibj",
-      "summary": "Ask an image model for a logo and you usually get one picture. It looks finished. It also looks like the last ten logos the model drew for other people: a letter, a swoosh, a coffee cup if you mentioned coffee.\n\nI wanted",
+      "title": "A structured security review of your own repo, from the terminal",
+      "link": "https://dev.to/dennisonbertram/a-structured-security-review-of-your-own-repo-from-the-terminal-jh4",
+      "summary": "Most \"AI security review\" prompts give you a pile of plausible-sounding warnings. Cloudflare's open-source security-audit skill (MIT) describes a more disciplined method: map the code, hunt by coverage, try to disprove e",
       "image": "",
-      "published": "Mon, 26 Oct 2026 11:28:49 +0000",
+      "published": "Mon, 26 Oct 2026 17:32:13 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "CSS-Tricks has a new owner!",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\n\nCSS-Tricks has a new owner! originally handwritten and publ",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 15:29:36 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\n\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get ",
       "image": "",
       "published": "Wed, 26 Aug 2026 15:38:41 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "MicroLighter: Syntax Highlighter",
-      "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-      "summary": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\n\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Tue, 25 Aug 2026 14:10:34 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
