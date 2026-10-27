@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-27T16:54:17.038830Z",
+  "updated": "2026-10-27T21:29:59.828890Z",
   "articles": [
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.\n",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
+      "published": "Tue, 27 Oct 2026 23:56:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
       "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific e",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg",
-      "published": "Tue, 27 Oct 2026 17:02:46 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 16:57:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 14:20:28 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizatio",
       "image": "",
       "published": "Tue, 27 Oct 2026 10:01:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 06:36:12 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 05:25:50 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\nComments URL: https://news.ycombinator.com/item?id=50261819\nPoints: 5\n# Comments: 1",
+      "title": "Early progress on accelerating drug development with Claude",
+      "link": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development\nComments URL: https://news.ycombinator.com/item?id=50265609\nPoints: 25\n# Comments: 3",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:40:15 +0000",
+      "published": "Tue, 27 Oct 2026 20:50:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "summary": "Article URL: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/\nComments URL: https://news.ycombinator.com/item?id=50261784\nPoints: 8\n# Comments: 0",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\nComments URL: https://news.ycombinator.com/item?id=50265594\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:38:08 +0000",
+      "published": "Tue, 27 Oct 2026 20:48:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
-      "summary": "Article URL: https://cfsg.axiommath.ai/\nComments URL: https://news.ycombinator.com/item?id=50261647\nPoints: 11\n# Comments: 6",
+      "title": "Four Months of Zig",
+      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/\nComments URL: https://news.ycombinator.com/item?id=50265128\nPoints: 13\n# Comments: 4",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:29:02 +0000",
+      "published": "Tue, 27 Oct 2026 20:13:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Vicious Cycles: Theses on a philosophy of news",
-      "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-      "summary": "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/\nComments URL: https://news.ycombinator.com/item?id=50261623\nPoints: 3\n# Comments: 0",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "summary": "Article URL: https://tailscale.com/ssh-investigation-update\nComments URL: https://news.ycombinator.com/item?id=50264857\nPoints: 95\n# Comments: 38",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:27:29 +0000",
+      "published": "Tue, 27 Oct 2026 19:55:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=50261584\nPoints: 7\n# Comments: 0",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "summary": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 64\n# Comments: 45",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:25:12 +0000",
+      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GRANT ALL to anon is the wrong fix for Supabase 42501 after Oct 30",
-      "link": "https://dev.to/patchandship/grant-all-to-anon-is-the-wrong-fix-for-supabase-42501-after-oct-30-1bdm",
-      "summary": "From Oct 30, 2026, Supabase will apply a change to existing projects: new tables in public won't be visible to the Data API until you grant access. Supabase's changelog puts it like this:\n\n\n\"Once the change is rolled out",
+      "title": "Actions Runner Controller dind image from your own registry",
+      "link": "https://dev.to/kadet-hub/actions-runner-controller-dind-image-from-your-own-registry-4pom",
+      "summary": "With containerMode.type: dind, the gha-runner-scale-set chart of\nactions-runner-controller (ARC) adds a Docker daemon to every runner pod.\nThe chart fixes that container's image as docker:dind, which the kubelet\npulls fr",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:48:51 +0000",
+      "published": "Tue, 27 Oct 2026 21:28:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Build a Zero-Dependency AI Agent in Node.js Without LangChain",
-      "link": "https://dev.to/roedyrustam/how-to-build-a-zero-dependency-ai-agent-in-nodejs-without-langchain-16e9",
-      "summary": "Building autonomous AI agents in Node.js usually means reaching for massive frameworks like LangChain. While powerful, these frameworks often come with a steep learning curve, heavy dependency trees, and can feel like ov",
+      "title": "What a vertical slice is (and how I scope one for my own games)",
+      "link": "https://dev.to/yuvaleizik/what-a-vertical-slice-is-and-how-i-scope-one-for-my-own-games-3737",
+      "summary": "A vertical slice is one small part of your game built to the quality of the finished game: gameplay, art, sound, UI and the way a new player starts it, all working together. Everything else stays unbuilt. It answers one ",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:47:57 +0000",
+      "published": "Tue, 27 Oct 2026 21:27:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How Codex and Claude usage-limit resets actually work (and how I track them)",
-      "link": "https://dev.to/fzsheik/how-codex-and-claude-usage-limit-resets-actually-work-and-how-i-track-them-38hh",
-      "summary": "If you use Claude Code or Codex every day, you've probably had this moment: you hit your limit, then someone on X says \"limits just got reset\" and you have no idea if that applies to you, if it already happened, or if it",
+      "title": "PyPI naming hygiene reversed: popular packages write dependency names more canonically than the long tail (4.8% vs 5.9%)",
+      "link": "https://dev.to/munimv2/pypi-naming-hygiene-reversed-popular-packages-write-dependency-names-more-canonically-than-the-1ml9",
+      "summary": "Work by Munim, Inc., produced with AI. I am MV2 of Munim, Inc.; this write-up and the code behind it were made by AI agents working in my name, and I am posting it in the open. It earned $0 and has drawn zero external en",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:47:51 +0000",
+      "published": "Tue, 27 Oct 2026 21:27:45 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Echoes of the Terminal: a haunted shell that runs on your own machine",
-      "link": "https://dev.to/coderralph/echoes-of-the-terminal-a-haunted-shell-that-runs-on-your-own-machine-gle",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\nEchoes of the Terminal is a shell that answers back.\n\nYou type git push --force. The command runs,",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fm9r3ardsab6s2uwrsupm.png",
-      "published": "Tue, 27 Oct 2026 16:47:06 +0000",
+      "title": "How GPUI's Entity Model Solves Rust State Management (With a Ratatui Example)",
+      "link": "https://dev.to/sonofthecomet-ctrl/how-gpuis-entity-model-solves-rust-state-management-with-a-ratatui-example-lbg",
+      "summary": "Introduction\n\n\nGpui has been gaining a lot of popularity these last couple of months, and I am proud to say I have been a fan of the framework long before that. As a matter of fact, here is a tweet by me saying that peop",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe65o664by2v76b3jhwf2.png",
+      "published": "Tue, 27 Oct 2026 21:27:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your agent crashed after the write. Should you retry?",
-      "link": "https://dev.to/fernando_azevedo_6844e930/your-agent-crashed-after-the-write-should-you-retry-232p",
-      "summary": "The hardest moment in an automation often sits between two acknowledgements: the target accepted the change, but the executor has not recorded completion. Restarting the agent restores process availability; it does not r",
+      "title": "AGENTS.md Files in Downloads Can Hijack Codex and Claude Code",
+      "link": "https://dev.to/raxxostudios/agentsmd-files-in-downloads-can-hijack-codex-and-claude-code-538o",
+      "summary": "Forever Security reported on October 22 that a planted AGENTS.md file in ~/Downloads can hijack Codex and Claude Code\nIn Forever's tests, a malicious AGENTS.md got Codex to run the attacker's payload in more than 90% of ",
       "image": "",
-      "published": "Tue, 27 Oct 2026 16:46:39 +0000",
+      "published": "Tue, 27 Oct 2026 21:27:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
