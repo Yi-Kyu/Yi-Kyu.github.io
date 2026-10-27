@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T21:57:03.158271Z",
+  "updated": "2026-10-27T02:31:57.998180Z",
   "articles": [
     {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 18:20:36 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
       "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
       "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
@@ -79,15 +88,6 @@
       "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
       "image": "",
       "published": "Mon, 26 Oct 2026 12:27:57 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 11:38:24 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Working with academic communities to build scientific understanding",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "link": "https://github.com/otya128/winevdm",
+      "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 19\n# Comments: 1",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 81\n# Comments: 22",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPoints: 28\n# Comments:",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 22:27:17 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\n\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 321\n# Comments",
+      "image": "",
+      "published": "Mon, 26 Oct 2026 21:59:15 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
       "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 14\n# Comments: 1",
+      "summary": "Related:The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661\n\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 515\n# Comments: 204",
       "image": "",
       "published": "Mon, 26 Oct 2026 21:35:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-      "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-      "summary": "Article URL: https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce\nComments URL: https://news.ycombinator.com/item?id=50250937\nPoints: 62\n# Comments: 28",
+      "title": "OpenAI dice que refutó la Hipótesis del Tiempo Exponencial",
+      "link": "https://dev.to/lu1tr0n/openai-dice-que-refuto-la-hipotesis-del-tiempo-exponencial-22od",
+      "summary": "El 18 de octubre de 2026, un modelo de OpenAI produjo una prueba que, según la empresa, refuta una conjetura de complejidad computacional vigente desde 1999: la Hipótesis del Tiempo Exponencial.\n\nLa prueba quedó formaliz",
       "image": "",
-      "published": "Mon, 26 Oct 2026 21:05:15 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Magic state cultivation on a superconducting quantum processor",
-      "link": "https://arxiv.org/abs/2512.13908",
-      "summary": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivati",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 19:37:59 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/\nComments URL: https://news.ycombinator.com/item?id=50249275\nPoints: 164\n# Comments: 27",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 19:05:41 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "US designates helium as a critical material",
-      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "summary": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c\nComments URL: https://news.ycombinator.com/item?id=50248665\nPoints: 136\n# Comments: 66",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 18:31:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Migrating an Application to the Cloud: Node.js Graceful Shutdown",
-      "link": "https://dev.to/geminate_solutions_9b6035/migrating-an-application-to-the-cloud-nodejs-graceful-shutdown-2a58",
-      "summary": "When you're migrating an application to the cloud and every deploy causes a short burst of 502s, the fix is usually two small changes. Give your Node.js service honest health check endpoints, and make it shut down gracef",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 21:53:09 +0000",
+      "published": "Tue, 27 Oct 2026 02:29:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to reword README and docs text so developers actually get it",
-      "link": "https://dev.to/gabegarcia_rephrase/how-to-reword-readme-and-docs-text-so-developers-actually-get-it-5ehn",
-      "summary": "Most docs aren't wrong. They're written by the person who knows the code best, at the moment they know it best. That's the problem. Every shortcut makes sense to the author and almost none of it makes sense to someone cl",
+      "title": "Your LLM Returned Valid JSON. Can Your App Trust It?",
+      "link": "https://dev.to/4sapi/your-llm-returned-valid-json-can-your-app-trust-it-5h6i",
+      "summary": "Getting an LLM to return valid JSON feels like a milestone. The response parses, the fields exist, and the application can finally do something with the output.\n\nBut there’s another question: are those fields actually co",
       "image": "",
-      "published": "Mon, 26 Oct 2026 21:52:34 +0000",
+      "published": "Tue, 27 Oct 2026 02:28:44 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Catch Secrets Before They're Committed: Meet the Env-Secrets-Scanner Skill",
-      "link": "https://dev.to/robinberaud/catch-secrets-before-theyre-committed-meet-the-env-secrets-scanner-skill-73h",
-      "summary": "Catch Secrets Before They're Committed: Meet the Env-Secrets-Scanner Skill\n\n\n\n  \n  \n  The Problem: Accidental Secret Leaks\n\n\nOne misplaced .env file, one forgotten API key in a config, and your credentials are in git his",
+      "title": "Decide What a Video Hero Must Do Before Paying for More Versions",
+      "link": "https://dev.to/tokenpeakai/decide-what-a-video-hero-must-do-before-paying-for-more-versions-2lmk",
+      "summary": "Suppose you are building a landing page for a fictional maker community. The page needs to explain the project and make the next action clear. A short Seedance Mini background concept might help establish an atmosphere, ",
       "image": "",
-      "published": "Mon, 26 Oct 2026 21:52:05 +0000",
+      "published": "Tue, 27 Oct 2026 02:28:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Catch leaked secrets before `git push`, with one stdlib Python file",
-      "link": "https://dev.to/robinberaud/catch-leaked-secrets-before-git-push-with-one-stdlib-python-file-3kak",
-      "summary": "Everyone has a story about an API key that landed in a public repo. Usually it is not carelessness: a .env file was not in .gitignore yet, or a quick test left a password in a config file, and git add -A did the rest.\n\nD",
+      "title": "Java for Absolute Beginners: A Complete, Easy Guide",
+      "link": "https://dev.to/rakesh_akm/java-for-absolute-beginners-a-complete-easy-guide-1dhh",
+      "summary": "Java is a popular, platform-independent programming language used to build mobile apps, web applications, enterprise software, and backend systems. This blog explains Java from “What is Java?” to your first Hello, World!",
       "image": "",
-      "published": "Mon, 26 Oct 2026 21:51:53 +0000",
+      "published": "Tue, 27 Oct 2026 02:26:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "cosign verify-attestation vs gh attestation verify",
-      "link": "https://dev.to/kadet-hub/cosign-verify-attestation-vs-gh-attestation-verify-5gp",
-      "summary": "To verify an OCI artifact that carries GitHub artifact attestations, run\ngh attestation verify or cosign verify-attestation with the exact\nworkflow identity. gh reads the Sigstore bundles from GitHub's attestation\nAPI, w",
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "link": "https://dev.to/ashish_624379625242c5d263/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept-5ekk",
+      "summary": "월버그가 헬스장 문턱을 낮춘다는데 — 시력 재활은 왜 아직도 안대인가\n\n\n마크 월버그가 다시 헬스장 사업에 뛰어들었습니다. 이번엔 '냉탕·혈액검사·단백질 머핀'을 트러스트 펀드 없이 누구나 누릴 수 있게 만들겠다는 저가형 컨셉입니다. 롱제비티 산업이 '부유층 전용'이라는 비판을 받아온 지 오래인데, 그 문턱을 낮추겠다는 시도 자체는 반갑습니다.\n\n건강 관리의 접근성 문제는 헬스장만의 이야기가",
       "image": "",
-      "published": "Mon, 26 Oct 2026 21:50:37 +0000",
+      "published": "Tue, 27 Oct 2026 02:26:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
