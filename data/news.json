@@ -1,49 +1,67 @@
 {
-  "updated": "2026-10-28T02:41:01.437511Z",
+  "updated": "2026-10-28T11:42:22.912843Z",
   "articles": [
     {
-      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator.\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg",
-      "published": "Tue, 27 Oct 2026 23:56:46 +0530",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.\n\nTh",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s1600/adobe-main.jpg",
+      "published": "Wed, 28 Oct 2026 16:45:51 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.\n\nThe f",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg",
-      "published": "Tue, 27 Oct 2026 19:29:48 +0530",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to ga",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2g4rsWnZ5eQP03cr-4e99MQStvJmuaTTi91WESG3ua1ddAW73T6X22gyaspj2SirqH-1bSAU9VkOg2F1Kh9TLmPc4jYsNAlD72S2XzCeTTRHSiN3B7is7roWwIMcIm__yRu8SkUBbyeWxAEBo5Fe-bbACZWRuoxZqv_pysQ9iMsZRHPCD_clJZsNIDs/s1600/anyrun-main.jpg",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.\n\nThe vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds wri",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg",
-      "published": "Tue, 27 Oct 2026 19:29:09 +0530",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.\n\nThe exploits were buil",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg",
+      "published": "Wed, 28 Oct 2026 13:45:07 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.\n\nMicros",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg",
-      "published": "Tue, 27 Oct 2026 17:39:50 +0530",
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.\n\nThe move was in response to the service being used to commit and f",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAdfKblTUCEDUoHzYpHPcEPzHO6qKTr01uG2-x7YyIT5t_-xeFc27zuZ3yOK76rkhz-J8y_Z4MqmydEQUtiCEvry_2H43qaSJXDrWRbM1gs8wDVTBgi_NzxIXsGBMoX8zlzISFlvcJ8NdNSyeMIZh8z-aHkXCyBDPJ2l195Ji1XgnVu_A0Yhh3H2QvEyiA/s1600/servers.jpg",
+      "published": "Wed, 28 Oct 2026 13:07:50 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&nbsp;statement&nbsp;on October 26.\n\nSomeone with that key could build co",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg",
-      "published": "Tue, 27 Oct 2026 17:16:00 +0530",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "summary": "Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.\n\nThe reward ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDDZZalFBPLgf4YxDU_9FK46XXVkU3x0GKHeZHFd2WTdJ0cK5n1KCWDEOIvSgzHP4R14xmwLygLnnmyuBEVcHRVO7b9nIUZVcp5ehxIgFGrPyXZ3hZGwNa2bg8k4e_kkSHa2tyo05yPortQqRR_9g3yr-T0k0Tga9_26Pr0rs_MNIU8RndHMeq9r5Rr0/s1600/gmo.jpg",
+      "published": "Wed, 28 Oct 2026 12:43:21 +0530",
       "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 06:46:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 05:43:15 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
       "image": "",
       "published": "Tue, 27 Oct 2026 18:07:34 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers hijack Convertr analytics script to steal payment card data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 16:57:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 14:20:28 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,9 +137,36 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Git for US Legislation",
+      "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+      "link": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+      "summary": "Article URL: https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263\nComments URL: https://news.ycombinator.com/item?id=50271457\nPoints: 23\n# Comments: 8",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 10:41:27 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Billion-query-per-second lookup tables in C++",
+      "link": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "summary": "Article URL: https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/\nComments URL: https://news.ycombinator.com/item?id=50271088\nPoints: 13\n# Comments: 1",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 09:43:44 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Wealth Inequality in America drawn to scale",
+      "link": "https://dreamagainusa.org/",
+      "summary": "Article URL: https://dreamagainusa.org/\nComments URL: https://news.ycombinator.com/item?id=50270764\nPoints: 203\n# Comments: 148",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 08:48:21 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Git for the US Code",
       "link": "https://lexifina.com/blog/git-for-the-us-code",
-      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 12\n# Comments: 2",
+      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 297\n# Comments: 142",
       "image": "",
       "published": "Wed, 28 Oct 2026 01:47:50 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +175,54 @@
     {
       "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
       "link": "https://github.com/maharmstone/moxnox",
-      "summary": "Article URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 15\n# Comments: 3",
+      "summary": "Article URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 76\n# Comments: 16",
       "image": "",
       "published": "Tue, 27 Oct 2026 23:53:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners\nComments URL: https://news.ycombinator.com/item?id=50266780\nPoints: 65\n# Comments: 66",
+      "title": "Eleven MiCollab Titles Show How Small Counts Can Still Start a Review",
+      "link": "https://dev.to/andreagomez/eleven-micollab-titles-show-how-small-counts-can-still-start-a-review-2iep",
+      "summary": "Eleven MiCollab Titles Show How Small Counts Can Still Start a Review\n\n\nA low search count is easy to ignore. For collaboration infrastructure, a small population may still hold high-value access to voice, messaging and ",
       "image": "",
-      "published": "Tue, 27 Oct 2026 22:31:15 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "summary": "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa\nComments URL: https://news.ycombinator.com/item?id=50266701\nPoints: 24\n# Comments: 13",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 22:23:37 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development\nComments URL: https://news.ycombinator.com/item?id=50265609\nPoints: 144\n# Comments: 127",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 20:50:42 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "GhostTrace: A Local Workbench for Looking Inside Language Models",
-      "link": "https://dev.to/mackenzie-techdocs/ghosttrace-a-local-workbench-for-looking-inside-language-models-45p",
-      "summary": "A language model gives you an answer. Understanding what changed inside the model—and whether that change matters to its output—is a harder problem.\n\nI built GhostTrace to make that investigation easier to inspect, repea",
-      "image": "",
-      "published": "Wed, 28 Oct 2026 02:39:34 +0000",
+      "published": "Wed, 28 Oct 2026 11:41:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "System design for physical AI: a chip design record from spec to tapeout",
-      "link": "https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-a-chip-design-record-from-spec-to-tapeout-3mfm",
-      "summary": "By Muhammad Umar. This is the engineering summary of an open reference architecture. The paper, its object model as JSON and the model register are free to reuse under CC BY 4.0: https://codeatoms.ai/chip-design-ontology",
-      "image": "",
-      "published": "Wed, 28 Oct 2026 02:38:43 +0000",
+      "title": "Your Users Can Create Content. They Can Also Create an SEO Nightmare.",
+      "link": "https://dev.to/avana_offpage_a9656fbbfe/your-users-can-create-content-they-can-also-create-an-seo-nightmare-3igj",
+      "summary": "I think websites are a little too trusting sometimes.\n\nYou spend months building a beautiful website.\n\nYou write useful articles, organize everything carefully, fix technical problems, and finally feel like you've create",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc44aid3r1sqnjybdn7xg.png",
+      "published": "Wed, 28 Oct 2026 11:41:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Best for TCO, Training, Inference & Token Services in 2026",
-      "link": "https://dev.to/wendy_12345/best-for-tco-training-inference-token-services-in-2026-1i4p",
-      "summary": "In 2026, the \"Neocloud\" market—specialized, high-performance cloud providers that challenge the traditional \"Big Three\" hyperscalers—has matured into a $42 billion industry. Unlike AWS or Azure, these providers focus alm",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8yg8p67l68mb9xi4c6dh.png",
-      "published": "Wed, 28 Oct 2026 02:36:49 +0000",
+      "title": "The Refactor I Did Not Do",
+      "link": "https://dev.to/remuslazar/the-refactor-i-did-not-do-7m5",
+      "summary": "I have been building a media display for my living room. An old screen, a Raspberry Pi 4, and UxPlay, so anything in the house can send video to it over AirPlay. A side project, the kind you do in the evenings because yo",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 11:41:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "SAP-C03 and DVA-C03 Exam Guides Are Out: Every Change from C02",
-      "link": "https://dev.to/maruchin_tech_555/sap-c03-and-dva-c03-exam-guides-are-out-every-change-from-c02-1jg2",
-      "summary": "On October 27, 2026, AWS published the exam guides for SAP-C03 (Solutions Architect – Professional) and DVA-C03 (Developer – Associate). This article goes through the official \"Comparison of C02 and C03\" pages and both g",
-      "image": "",
-      "published": "Wed, 28 Oct 2026 02:36:31 +0000",
+      "title": "OfrendaViva 🕯️🌼: A Local-First Día de los Muertos Altar & Ghost in the Machine Séance with Open-Weight Gemma",
+      "link": "https://dev.to/premsai5142/ofrendaviva-a-local-first-dia-de-los-muertos-altar-ghost-in-the-machine-seance-with-1fgj",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine.\n\n\n\n\n\n  \n  \n  What I Built\n\n\nOfrendaViva is a sacred, offline-first digital memorial altar (El Altar de Recuerdos) and midn",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsikvmcitvax1t0fombem.png",
+      "published": "Wed, 28 Oct 2026 11:41:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Flash Loan Attack Vector Analysis: Maple",
-      "link": "https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-maple-3il4",
-      "summary": "Flash Loan Attack Vector Analysis: Maple\n\n\nTarget Protocol: Maple (TVL: $2662.6M)\n\n\n  \n  \n  Flash Loan Attack Vector Analysis – Maple\n\n\nProtocol: Maple (TVL ≈ $2.66 B across Ethereum &amp; L2s)\nPrepared by: [Your Name], ",
+      "title": "Hunting for Web Shells After the Nextcloud CODE Flaw (CVE-2026-110447): A Sysadmin Checklist",
+      "link": "https://dev.to/affix_centersoftechserv/hunting-for-web-shells-after-the-nextcloud-code-flaw-cve-2026-110447-a-sysadmin-checklist-58d9",
+      "summary": "If you run a self-hosted Nextcloud, there is one optional app to check right now: richdocumentscode, the built-in Collabora CODE server. CVE-2026-110447 is an OS command injection flaw in it, rated CVSS 9.2. It needs no ",
       "image": "",
-      "published": "Wed, 28 Oct 2026 02:36:14 +0000",
+      "published": "Wed, 28 Oct 2026 11:40:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
