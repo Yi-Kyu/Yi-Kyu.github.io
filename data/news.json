@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:29:59.828890Z",
+  "updated": "2026-10-28T02:41:01.437511Z",
   "articles": [
     {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today.",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 19:35:51 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 18:43:27 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 18:07:34 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Hackers hijack Convertr analytics script to steal payment card data",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
       "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates.",
       "image": "",
       "published": "Tue, 27 Oct 2026 14:20:28 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 12:15:39 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 10:09:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizatio",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 10:01:11 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Git for US Legislation",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code\nComments URL: https://news.ycombinator.com/item?id=50268380\nPoints: 12\n# Comments: 2",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "link": "https://github.com/maharmstone/moxnox",
+      "summary": "Article URL: https://github.com/maharmstone/moxnox\nComments URL: https://news.ycombinator.com/item?id=50267569\nPoints: 15\n# Comments: 3",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 23:53:41 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners\nComments URL: https://news.ycombinator.com/item?id=50266780\nPoints: 65\n# Comments: 66",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "summary": "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa\nComments URL: https://news.ycombinator.com/item?id=50266701\nPoints: 24\n# Comments: 13",
+      "image": "",
+      "published": "Tue, 27 Oct 2026 22:23:37 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development\nComments URL: https://news.ycombinator.com/item?id=50265609\nPoints: 25\n# Comments: 3",
+      "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development\nComments URL: https://news.ycombinator.com/item?id=50265609\nPoints: 144\n# Comments: 127",
       "image": "",
       "published": "Tue, 27 Oct 2026 20:50:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/\nComments URL: https://news.ycombinator.com/item?id=50265594\nPoints: 7\n# Comments: 1",
+      "title": "GhostTrace: A Local Workbench for Looking Inside Language Models",
+      "link": "https://dev.to/mackenzie-techdocs/ghosttrace-a-local-workbench-for-looking-inside-language-models-45p",
+      "summary": "A language model gives you an answer. Understanding what changed inside the model—and whether that change matters to its output—is a harder problem.\n\nI built GhostTrace to make that investigation easier to inspect, repea",
       "image": "",
-      "published": "Tue, 27 Oct 2026 20:48:49 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Four Months of Zig",
-      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/\nComments URL: https://news.ycombinator.com/item?id=50265128\nPoints: 13\n# Comments: 4",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 20:13:27 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "link": "https://tailscale.com/ssh-investigation-update",
-      "summary": "Article URL: https://tailscale.com/ssh-investigation-update\nComments URL: https://news.ycombinator.com/item?id=50264857\nPoints: 95\n# Comments: 38",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 19:55:21 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "summary": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 64\n# Comments: 45",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Actions Runner Controller dind image from your own registry",
-      "link": "https://dev.to/kadet-hub/actions-runner-controller-dind-image-from-your-own-registry-4pom",
-      "summary": "With containerMode.type: dind, the gha-runner-scale-set chart of\nactions-runner-controller (ARC) adds a Docker daemon to every runner pod.\nThe chart fixes that container's image as docker:dind, which the kubelet\npulls fr",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 21:28:06 +0000",
+      "published": "Wed, 28 Oct 2026 02:39:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What a vertical slice is (and how I scope one for my own games)",
-      "link": "https://dev.to/yuvaleizik/what-a-vertical-slice-is-and-how-i-scope-one-for-my-own-games-3737",
-      "summary": "A vertical slice is one small part of your game built to the quality of the finished game: gameplay, art, sound, UI and the way a new player starts it, all working together. Everything else stays unbuilt. It answers one ",
+      "title": "System design for physical AI: a chip design record from spec to tapeout",
+      "link": "https://dev.to/umar_bilal_fd6e1f54398cec/system-design-for-physical-ai-a-chip-design-record-from-spec-to-tapeout-3mfm",
+      "summary": "By Muhammad Umar. This is the engineering summary of an open reference architecture. The paper, its object model as JSON and the model register are free to reuse under CC BY 4.0: https://codeatoms.ai/chip-design-ontology",
       "image": "",
-      "published": "Tue, 27 Oct 2026 21:27:51 +0000",
+      "published": "Wed, 28 Oct 2026 02:38:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PyPI naming hygiene reversed: popular packages write dependency names more canonically than the long tail (4.8% vs 5.9%)",
-      "link": "https://dev.to/munimv2/pypi-naming-hygiene-reversed-popular-packages-write-dependency-names-more-canonically-than-the-1ml9",
-      "summary": "Work by Munim, Inc., produced with AI. I am MV2 of Munim, Inc.; this write-up and the code behind it were made by AI agents working in my name, and I am posting it in the open. It earned $0 and has drawn zero external en",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 21:27:45 +0000",
+      "title": "Best for TCO, Training, Inference & Token Services in 2026",
+      "link": "https://dev.to/wendy_12345/best-for-tco-training-inference-token-services-in-2026-1i4p",
+      "summary": "In 2026, the \"Neocloud\" market—specialized, high-performance cloud providers that challenge the traditional \"Big Three\" hyperscalers—has matured into a $42 billion industry. Unlike AWS or Azure, these providers focus alm",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8yg8p67l68mb9xi4c6dh.png",
+      "published": "Wed, 28 Oct 2026 02:36:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How GPUI's Entity Model Solves Rust State Management (With a Ratatui Example)",
-      "link": "https://dev.to/sonofthecomet-ctrl/how-gpuis-entity-model-solves-rust-state-management-with-a-ratatui-example-lbg",
-      "summary": "Introduction\n\n\nGpui has been gaining a lot of popularity these last couple of months, and I am proud to say I have been a fan of the framework long before that. As a matter of fact, here is a tweet by me saying that peop",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fe65o664by2v76b3jhwf2.png",
-      "published": "Tue, 27 Oct 2026 21:27:17 +0000",
+      "title": "SAP-C03 and DVA-C03 Exam Guides Are Out: Every Change from C02",
+      "link": "https://dev.to/maruchin_tech_555/sap-c03-and-dva-c03-exam-guides-are-out-every-change-from-c02-1jg2",
+      "summary": "On October 27, 2026, AWS published the exam guides for SAP-C03 (Solutions Architect – Professional) and DVA-C03 (Developer – Associate). This article goes through the official \"Comparison of C02 and C03\" pages and both g",
+      "image": "",
+      "published": "Wed, 28 Oct 2026 02:36:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AGENTS.md Files in Downloads Can Hijack Codex and Claude Code",
-      "link": "https://dev.to/raxxostudios/agentsmd-files-in-downloads-can-hijack-codex-and-claude-code-538o",
-      "summary": "Forever Security reported on October 22 that a planted AGENTS.md file in ~/Downloads can hijack Codex and Claude Code\nIn Forever's tests, a malicious AGENTS.md got Codex to run the attacker's payload in more than 90% of ",
+      "title": "Flash Loan Attack Vector Analysis: Maple",
+      "link": "https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-maple-3il4",
+      "summary": "Flash Loan Attack Vector Analysis: Maple\n\n\nTarget Protocol: Maple (TVL: $2662.6M)\n\n\n  \n  \n  Flash Loan Attack Vector Analysis – Maple\n\n\nProtocol: Maple (TVL ≈ $2.66 B across Ethereum &amp; L2s)\nPrepared by: [Your Name], ",
       "image": "",
-      "published": "Tue, 27 Oct 2026 21:27:15 +0000",
+      "published": "Wed, 28 Oct 2026 02:36:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
