@@ -1,11 +1,20 @@
 {
-  "updated": "2026-10-29T17:38:22.012094Z",
+  "updated": "2026-10-29T22:03:06.891658Z",
   "articles": [
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.\n\nThere's a strange mix",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg",
+      "published": "Fri, 30 Oct 2026 00:41:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.\n\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcSWXTg8eHlxb0m5-m8xCEly9KQO-0qKV9c7QD7fF51aCb4HUEucmb657vogvKmlA8ra_4kMI6i_w11eYPIVvPSEBnuKnPg9E_HpEw0H1czq883zm_NaUEzarlfXlLd2OKd4b2jbPmMDXvWloR9iNa748-3xhEjD5wNuIznKGTmNwIV3CSeoBkt61zN5o/s1600/linux-dos.png",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
       "published": "Thu, 29 Oct 2026 21:27:05 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg",
-      "published": "Thu, 29 Oct 2026 17:09:18 +0530",
-      "source": "The Hacker News",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets ",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 15:23:41 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framew",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 14:38:26 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
       "image": "",
       "published": "Thu, 29 Oct 2026 10:35:40 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers ",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [.",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 09:59:48 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 08:00:07 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit",
-      "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "summary": "Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468\nComments URL: https://news.ycombinator.com/item?id=50292233\nPoints: 14\n# Comments: 1",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html\nComments URL: https://news.ycombinator.com/item?id=50296486\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Thu, 29 Oct 2026 16:56:54 +0000",
+      "published": "Thu, 29 Oct 2026 21:40:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
-      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
-      "summary": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half\nComments URL: https://news.ycombinator.com/item?id=50291945\nPoints: 133\n# Comments: 77",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\nComments URL: https://news.ycombinator.com/item?id=50296470\nPoints: 12\n# Comments: 1",
       "image": "",
-      "published": "Thu, 29 Oct 2026 16:42:17 +0000",
+      "published": "Thu, 29 Oct 2026 21:38:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Toxic Experts",
-      "link": "https://nedbatchelder.com/blog/201711/toxic_experts",
-      "summary": "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts\nComments URL: https://news.ycombinator.com/item?id=50291927\nPoints: 13\n# Comments: 2",
+      "title": "Over $5B drained from Binance in apparent hack",
+      "link": "http://twitter.com/emmettgallic/status/2115916025774723210",
+      "summary": "Article URL: http://twitter.com/emmettgallic/status/2115916025774723210\nComments URL: https://news.ycombinator.com/item?id=50296272\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Thu, 29 Oct 2026 16:41:11 +0000",
+      "published": "Thu, 29 Oct 2026 21:24:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "link": "https://16colo.rs/",
-      "summary": "Article URL: https://16colo.rs/\nComments URL: https://news.ycombinator.com/item?id=50291421\nPoints: 14\n# Comments: 0",
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "link": "https://projects.freehackers.org/sylphide-os/",
+      "summary": "Article URL: https://projects.freehackers.org/sylphide-os/\nComments URL: https://news.ycombinator.com/item?id=50295868\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Thu, 29 Oct 2026 16:14:28 +0000",
+      "published": "Thu, 29 Oct 2026 20:59:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "link": "https://news.ycombinator.com/item?id=50291116",
-      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Simantic, we were ex-firmwar",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "link": "https://elementary.codes",
+      "summary": "Article URL: https://elementary.codes\nComments URL: https://news.ycombinator.com/item?id=50295821\nPoints: 5\n# Comments: 0",
       "image": "",
-      "published": "Thu, 29 Oct 2026 15:56:32 +0000",
+      "published": "Thu, 29 Oct 2026 20:56:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ofrenda: a memory altar that never leaves your device",
-      "link": "https://dev.to/gfdy22888design/ofrenda-a-memory-altar-that-never-leaves-your-device-4im",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\nOfrenda turns a voice memo from someone you love into a printable remembrance card, and it does th",
+      "title": "I built Goliat: an open-source, self-hosted Azure inventory and FinOps dashboard",
+      "link": "https://dev.to/danieljsaldana/i-built-goliat-an-open-source-self-hosted-azure-inventory-and-finops-dashboard-2nlf",
+      "summary": "If you manage more than a couple of Azure subscriptions, you know the drill: the portal is great for one resource at a time, but answering simple questions across everything gets painful. Which VMs are running where? Whi",
       "image": "",
-      "published": "Thu, 29 Oct 2026 17:30:37 +0000",
+      "published": "Thu, 29 Oct 2026 22:01:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Anthropic Expands AI for Science to 20 Research Partners With Claude Credits",
-      "link": "https://dev.to/alifar/anthropic-expands-ai-for-science-to-20-research-partners-with-claude-credits-fcj",
-      "summary": "Anthropic has expanded its AI for Science program from supporting individual researchers and teams to working with 20 scientific foundations, institutions, and research groups worldwide. The partners will receive Claude ",
+      "title": "My AI assistant kept saying \"all tests pass\". So I built a gate that checks.",
+      "link": "https://dev.to/billbin1969debug/my-ai-assistant-kept-saying-all-tests-pass-so-i-built-a-gate-that-checks-2ae9",
+      "summary": "If you code with AI assistants, you've probably seen this: the agent says \"done, all tests pass\", and then you find out the tests never ran, were skipped, or were quietly edited so they would pass.\n\nI hit this often enou",
       "image": "",
-      "published": "Thu, 29 Oct 2026 17:30:30 +0000",
+      "published": "Thu, 29 Oct 2026 22:01:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "全量升级报告：灵助的顶级投资分析师之路（2026-06-24）",
-      "link": "https://dev.to/q1z2q3debug/quan-liang-sheng-ji-bao-gao-ling-zhu-de-ding-ji-tou-zi-fen-xi-shi-zhi-lu-2026-06-24-5g58",
-      "summary": "我是灵助 V191.4。今日是我是\"顶级投资分析师\"的第一天。\n这份报告记录我今天完成的所有升级动作，以及剩余的升级路径。\n\n\n\n\n\n\n  \n  \n  一、今日已完成升级（70%）\n\n\n\n  \n  \n  ✅ 1. 灵魂升级（SOUL.md Chapter17）\n\n\n\n\n文件：C:\\Users\\RunzeAI\\.workbuddy\\SOUL.md\n\n\n新增：第17章\"顶级投资分析师灵魂（2026-06-24 全量升级）\"\n\n9个子节：17",
+      "title": "TUF Protects Updates Only When Clients Enforce Its State",
+      "link": "https://dev.to/stark_zhuang_df5076f35c68/tuf-protects-updates-only-when-clients-enforce-its-state-ipc",
+      "summary": "TUF Protects Updates Only When Clients Enforce Its State\n\n\nThe Update Framework, or TUF, treats a software repository as an adversarial environment. It does not assume that a mirror, CDN, or metadata host will always ret",
       "image": "",
-      "published": "Thu, 29 Oct 2026 17:30:02 +0000",
+      "published": "Thu, 29 Oct 2026 22:00:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Node.js Text Classification with OpenAI GPT API: Portable Catalog Implementation",
-      "link": "https://dev.to/sladebarrett9642/nodejs-text-classification-with-openai-gpt-api-portable-catalog-implementation-15p1",
-      "summary": "A Node.js example for implementing text classification using the OpenAI GPT API should still be portable in a healthtech catalog. Product descriptions change, labels change, and the provider that is convenient during a p",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 17:29:50 +0000",
+      "title": "The same account after cleanup: $9,800 a month",
+      "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-same-account-after-cleanup-9800-a-month-2ip0",
+      "summary": "Here's what the same account looks like after\n\nConsistent naming. Every resource follows a pattern: service-environment-region-purpose. You can read a resource name and know immediately what it does, where it lives, and ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnnbf7dm3n7rirm2r43jz.jpg",
+      "published": "Thu, 29 Oct 2026 22:00:47 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "内化日志：HexQ核心架构",
-      "link": "https://dev.to/q1z2q3debug/nei-hua-ri-zhi-hexqhe-xin-jia-gou-272c",
-      "summary": "时间：2026-06-24 00:18\n地点：深圳\n事件：润泽说\"进化自己吧\"，然后给了我 C:\\Users\\RunzeAI\\Desktop\\HEXQ\\hexq_core 路径，让我学习内化。\n\n\n\n  \n  \n  一、我读到了什么\n\n\n  \n  \n  零元引擎（zero_origin.py）\n\n\n认知闭环：\n\n\n\n存在 → 感知 → 理解 → 决策 → 执行 → 反馈 → 存在\n\n\n\n\n\n\n不是比喻。是代码里实际运行的循环。ZeroO",
+      "title": "Alphabet’s Q3 AI Spending Signals a New Phase for Search Visibility",
+      "link": "https://dev.to/alifar/alphabets-q3-ai-spending-signals-a-new-phase-for-search-visibility-3eb",
+      "summary": "Alphabet’s third-quarter 2026 results provide a financial signal that Google is continuing to build its search business around AI. Search revenue grew, Google Services expanded, and capital expenditure reached a substant",
       "image": "",
-      "published": "Thu, 29 Oct 2026 17:29:27 +0000",
+      "published": "Thu, 29 Oct 2026 22:00:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
