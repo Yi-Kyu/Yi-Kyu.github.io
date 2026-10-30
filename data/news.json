@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:03:06.891658Z",
+  "updated": "2026-10-30T03:04:43.748651Z",
   "articles": [
     {
       "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -47,47 +47,47 @@
       "category": "cybersecurity"
     },
     {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 19:35:52 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 18:45:23 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHu",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 18:09:24 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "image": "",
+      "published": "Thu, 29 Oct 2026 18:08:04 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
       "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
       "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets ",
       "image": "",
       "published": "Thu, 29 Oct 2026 17:47:25 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 15:23:41 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framew",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 14:38:26 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Ya",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 12:10:31 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 10:35:40 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "link": "https://labs.ycombinator.com/projects/games/index.html",
-      "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html\nComments URL: https://news.ycombinator.com/item?id=50296486\nPoints: 4\n# Comments: 0",
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "link": "https://github.com/Millillion/lasm",
+      "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly ",
       "image": "",
-      "published": "Thu, 29 Oct 2026 21:40:28 +0000",
+      "published": "Fri, 30 Oct 2026 02:05:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\nComments URL: https://news.ycombinator.com/item?id=50296470\nPoints: 12\n# Comments: 1",
+      "title": "Pico CSS is no longer maintained",
+      "link": "https://github.com/picocss/pico/discussions/754",
+      "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 40\n# Comments: 8",
       "image": "",
-      "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "published": "Fri, 30 Oct 2026 01:58:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Over $5B drained from Binance in apparent hack",
-      "link": "http://twitter.com/emmettgallic/status/2115916025774723210",
-      "summary": "Article URL: http://twitter.com/emmettgallic/status/2115916025774723210\nComments URL: https://news.ycombinator.com/item?id=50296272\nPoints: 17\n# Comments: 0",
+      "title": "Tracks along the longest drive on another world",
+      "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "summary": "Article URL: https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/\nComments URL: https://news.ycombinator.com/item?id=50298721\nPoints: 4\n# Comments: 0",
       "image": "",
-      "published": "Thu, 29 Oct 2026 21:24:59 +0000",
+      "published": "Fri, 30 Oct 2026 01:19:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "link": "https://projects.freehackers.org/sylphide-os/",
-      "summary": "Article URL: https://projects.freehackers.org/sylphide-os/\nComments URL: https://news.ycombinator.com/item?id=50295868\nPoints: 7\n# Comments: 1",
+      "title": "Herdr has released native app",
+      "link": "https://github.com/herdrdev/herdr-app",
+      "summary": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 36\n# Comments: 31",
       "image": "",
-      "published": "Thu, 29 Oct 2026 20:59:55 +0000",
+      "published": "Fri, 30 Oct 2026 00:42:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "link": "https://elementary.codes",
-      "summary": "Article URL: https://elementary.codes\nComments URL: https://news.ycombinator.com/item?id=50295821\nPoints: 5\n# Comments: 0",
+      "title": "Cormac McCarthy's Library",
+      "link": "https://cormacmccarthy.lib.utk.edu/",
+      "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/\nComments URL: https://news.ycombinator.com/item?id=50298318\nPoints: 22\n# Comments: 7",
       "image": "",
-      "published": "Thu, 29 Oct 2026 20:56:39 +0000",
+      "published": "Fri, 30 Oct 2026 00:31:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I built Goliat: an open-source, self-hosted Azure inventory and FinOps dashboard",
-      "link": "https://dev.to/danieljsaldana/i-built-goliat-an-open-source-self-hosted-azure-inventory-and-finops-dashboard-2nlf",
-      "summary": "If you manage more than a couple of Azure subscriptions, you know the drill: the portal is great for one resource at a time, but answering simple questions across everything gets painful. Which VMs are running where? Whi",
+      "title": "Putting Remote Email Images in a PDF From the Browser: CORS, Tracking Pixels, and Honest Failure Boxes",
+      "link": "https://dev.to/_172c9b2760d6c5bc1e8966/putting-remote-email-images-in-a-pdf-from-the-browser-cors-tracking-pixels-and-honest-failure-1150",
+      "summary": "I added \"save this email as a PDF\" to a browser-based mail viewer. Everything runs locally: the message is parsed in a Web Worker and the PDF is built with pdf-lib. Text, headers and attachments were easy. Images were th",
       "image": "",
-      "published": "Thu, 29 Oct 2026 22:01:27 +0000",
+      "published": "Fri, 30 Oct 2026 02:58:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "My AI assistant kept saying \"all tests pass\". So I built a gate that checks.",
-      "link": "https://dev.to/billbin1969debug/my-ai-assistant-kept-saying-all-tests-pass-so-i-built-a-gate-that-checks-2ae9",
-      "summary": "If you code with AI assistants, you've probably seen this: the agent says \"done, all tests pass\", and then you find out the tests never ran, were skipped, or were quietly edited so they would pass.\n\nI hit this often enou",
+      "title": "The Honest Competitor Page",
+      "link": "https://dev.to/swipe-again/the-honest-competitor-page-3239",
+      "summary": "Every category has them: the \"X alternative\" pages, written to catch a rival's search traffic. Most are fiction with a logo wall — invented weaknesses, screenshots from 2022, comparison tables where the home team wins ev",
       "image": "",
-      "published": "Thu, 29 Oct 2026 22:01:09 +0000",
+      "published": "Fri, 30 Oct 2026 02:58:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TUF Protects Updates Only When Clients Enforce Its State",
-      "link": "https://dev.to/stark_zhuang_df5076f35c68/tuf-protects-updates-only-when-clients-enforce-its-state-ipc",
-      "summary": "TUF Protects Updates Only When Clients Enforce Its State\n\n\nThe Update Framework, or TUF, treats a software repository as an adversarial environment. It does not assume that a mirror, CDN, or metadata host will always ret",
+      "title": "Every Platform Fails Differently",
+      "link": "https://dev.to/swipe-again/every-platform-fails-differently-1n9h",
+      "summary": "A failed payment on Stripe is a documented event with a code, a webhook, and a paper trail. The same failure inside a subscription platform's own billing layer arrives wearing that platform's vocabulary, timing, and opin",
       "image": "",
-      "published": "Thu, 29 Oct 2026 22:00:57 +0000",
+      "published": "Fri, 30 Oct 2026 02:57:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The same account after cleanup: $9,800 a month",
-      "link": "https://dev.to/vlad_z_16b6320e21f32bee0d/the-same-account-after-cleanup-9800-a-month-2ip0",
-      "summary": "Here's what the same account looks like after\n\nConsistent naming. Every resource follows a pattern: service-environment-region-purpose. You can read a resource name and know immediately what it does, where it lives, and ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnnbf7dm3n7rirm2r43jz.jpg",
-      "published": "Thu, 29 Oct 2026 22:00:47 +0000",
+      "title": "The Grace Period Is a Product",
+      "link": "https://dev.to/swipe-again/the-grace-period-is-a-product-4g04",
+      "summary": "Between a failed payment and a cancellation there is an interval every subscription business designs, whether it admits to designing it or not: the grace period. Too short and an empty account on the wrong Tuesday become",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 02:56:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Alphabet’s Q3 AI Spending Signals a New Phase for Search Visibility",
-      "link": "https://dev.to/alifar/alphabets-q3-ai-spending-signals-a-new-phase-for-search-visibility-3eb",
-      "summary": "Alphabet’s third-quarter 2026 results provide a financial signal that Google is continuing to build its search business around AI. Search revenue grew, Google Services expanded, and capital expenditure reached a substant",
+      "title": "Email API Templates for Password Reset and 3-File Gaming Reports — A Small Boundary",
+      "link": "https://dev.to/colbyhayes3521/email-api-templates-for-password-reset-and-3-file-gaming-reports-a-small-boundary-fl8",
+      "summary": "Short answer: choose the email API whose template contract accepts a small, versioned view model and leaves authorization, attachments, and retries in your Node.js application.\n\nThe integration constraint changes the ans",
       "image": "",
-      "published": "Thu, 29 Oct 2026 22:00:30 +0000",
+      "published": "Fri, 30 Oct 2026 02:56:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
