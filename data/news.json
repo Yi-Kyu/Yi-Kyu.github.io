@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:21:56.318092Z",
+  "updated": "2026-10-31T20:42:29.707266Z",
   "articles": [
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr",
@@ -79,15 +88,6 @@
       "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization",
       "image": "",
       "published": "Sat, 31 Oct 2026 08:50:09 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 17:09:46 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-      "link": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-      "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/\nComments URL: https://news.ycombinator.com/item?id=50316760\nPoints: 37\n# Comments: 15",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "link": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/\n\nComments URL: https://news.ycombinator.com/item?id=50319510\nPoints: 52\n# Comments: 29",
       "image": "",
-      "published": "Sat, 31 Oct 2026 14:57:33 +0000",
+      "published": "Sat, 31 Oct 2026 19:56:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\nComments URL: https://news.ycombinator.com/item?id=50316531\nPoints: 33\n# Comments: 1",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "link": "https://epoyraz.github.io/nes-contra-us/",
+      "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logic is translated routine by routine from the 6",
       "image": "",
-      "published": "Sat, 31 Oct 2026 14:29:03 +0000",
+      "published": "Sat, 31 Oct 2026 19:18:48 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "link": "https://nullprogram.com/blog/2026/10/31/",
-      "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/\nComments URL: https://news.ycombinator.com/item?id=50315226\nPoints: 111\n# Comments: 67",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\nComments URL: https://news.ycombinator.com/item?id=50319143\nPoints: 85\n# Comments: 43",
       "image": "",
-      "published": "Sat, 31 Oct 2026 11:54:59 +0000",
+      "published": "Sat, 31 Oct 2026 19:16:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We Took over ChatGPT Accounts",
-      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai\nComments URL: https://news.ycombinator.com/item?id=50314699\nPoints: 181\n# Comments: 93",
+      "title": "The Duty of a Scholar",
+      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html\nComments URL: https://news.ycombinator.com/item?id=50319061\nPoints: 44\n# Comments: 8",
       "image": "",
-      "published": "Sat, 31 Oct 2026 10:30:11 +0000",
+      "published": "Sat, 31 Oct 2026 19:07:36 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "link": "https://piefed.world/post/1503394",
-      "summary": "Article URL: https://piefed.world/post/1503394\nComments URL: https://news.ycombinator.com/item?id=50314666\nPoints: 174\n# Comments: 119",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/\nComments URL: https://news.ycombinator.com/item?id=50318871\nPoints: 91\n# Comments: 89",
       "image": "",
-      "published": "Sat, 31 Oct 2026 10:23:41 +0000",
+      "published": "Sat, 31 Oct 2026 18:50:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "One install, ten very different websites",
-      "link": "https://dev.to/harshdoshi/one-install-ten-very-different-websites-44ja",
-      "summary": "In short: Polysite is a CMS that runs many websites from one install. Each site keeps its own domain, look, content and team. It is in beta, and free to use for your own sites. This article walks you through running two ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn4orgim9gbjq1subi9n2.png",
-      "published": "Sat, 31 Oct 2026 16:16:56 +0000",
+      "title": "Feature Flags Reconciled: Set, Toggle, and Retrieve Using Node.js REST",
+      "link": "https://dev.to/calderhayes9638/feature-flags-reconciled-set-toggle-and-retrieve-using-nodejs-rest-5cpd",
+      "summary": "Short answer: a tenant-cohort experiment should treat flag changes as reconciled state transitions. Set the definition, retrieve it, enable exposure only after the intended configuration is recorded, and retrieve the sta",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 20:31:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why Your v0 or Bolt App Fails to Deploy on Vercel (and How to Fix It)",
-      "link": "https://dev.to/unbreakkit/why-your-v0-or-bolt-app-fails-to-deploy-on-vercel-and-how-to-fix-it-1oe2",
-      "summary": "Originally published at unbreakkit.netlify.app.\n\n\n  \n  \n  The error\n\n\n\n\n\nError: Command \"npm run build\" exited with 1\n\n\n\n\n\n\nThe real cause is earlier in the build log. Scroll up to the first red line.\n\n\n  \n  \n  Common ca",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 16:16:46 +0000",
+      "title": "Agent loops for product features: budgets, errors, stops and checkpoints",
+      "link": "https://dev.to/ahmad_dogar_7d098f5e48f72/agent-loops-for-product-features-budgets-errors-stops-and-checkpoints-86c",
+      "summary": "The tutorial version of an agent is ten lines: call the model, run whatever tools it asks for, append the results, repeat until it stops. That loop is fine in a notebook. Inside a product it is a while (true) that spends",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj56lu9zv02h7x70tmed.webp",
+      "published": "Sat, 31 Oct 2026 20:30:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Fix SQL Server Deadlocks: Causes, Detection and Real Fixes",
-      "link": "https://dev.to/lingamsuyambu/how-to-fix-sql-server-deadlocks-causes-detection-and-real-fixes-2bo0",
-      "summary": "Originally published at SQL &amp; Cloud Lab.\n\nA deadlock happens when two sessions each hold a lock the other one needs. Neither can continue, so SQL Server picks one as the victim, rolls its transaction back and raises ",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 16:15:43 +0000",
+      "title": "Price a coding call, then pick the model tier",
+      "link": "https://dev.to/conorbronsdon/price-a-coding-call-then-pick-the-model-tier-2mfj",
+      "summary": "For a short coding task, price the fast tier and the flagship on the same prompt, then keep the cheapest run that still returns code you would ship. On the pricing Paige Bailey read off the screen, Gemini 3 Flash input w",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPodcasts211%2Fv4%2F52%2F11%2F80%2F521180b1-f6cc-9ad9-0917-676e74e4b36a%2Fmza_7878404023429800825.jpg%2F1200x1200ECA.PESS01-60.jpg%3FimgShow%3DPodcasts221%2Fv4%2Fee%2Ff2%2F1b%2Feef21b19-f090-f9b4-fc85-ffc84f80fad7%2Fmza_6548396687882944514.jpg",
+      "published": "Sat, 31 Oct 2026 20:30:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Submission week 4",
-      "link": "https://dev.to/aditya_sabnis_35f7b2ef63d/submission-week-4-2e27",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\nSéance.dev lets you summon an archived open-source repo and talk to its ghost.\n\nYou paste a GitHub",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836940%3Fv%3D4%3Fs%3D400",
-      "published": "Sat, 31 Oct 2026 16:15:36 +0000",
+      "title": "Latencia de memoria: qué es y por qué tu CPU no rinde al 100%",
+      "link": "https://dev.to/lu1tr0n/latencia-de-memoria-que-es-y-por-que-tu-cpu-no-rinde-al-100-4ml2",
+      "summary": "Un monitor que marca el CPU al 100% casi nunca dice la verdad completa: ese número mide tiempo ocupado, no trabajo útil. La causa más común de la diferencia es la latencia de memoria, el tiempo que el procesador pierde e",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 20:29:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AfterImage",
-      "link": "https://dev.to/itsshellatol/afterimage-2c2f",
-      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\n\n\n    \n      \n        \n          shellatol-s-sites.vercel.app\n          \n\n        \n      \n    \n\n\n\n",
+      "title": "TensorFlow Explained: Machine Learning, From Tensors to Training",
+      "link": "https://dev.to/practicaldevblog/tensorflow-explained-machine-learning-from-tensors-to-training-lpe",
+      "summary": "Introduction\n\n\nMachine learning sounds like magic until you see the machinery: numbers flow through operations, a model adjusts its parameters, and error goes down. TensorFlow, released by Google in 2015, is the library ",
       "image": "",
-      "published": "Sat, 31 Oct 2026 16:15:30 +0000",
+      "published": "Sat, 31 Oct 2026 20:29:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
