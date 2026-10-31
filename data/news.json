@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:42:59.551815Z",
+  "updated": "2026-10-31T02:51:35.652019Z",
   "articles": [
     {
       "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Show HN: Ultrafast Rust Based ADE",
-      "link": "https://trypalomino.com/",
-      "summary": "Article URL: https://trypalomino.com/\nComments URL: https://news.ycombinator.com/item?id=50310055\nPoints: 6\n# Comments: 5",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "summary": "Article URL: https://tng.episodle.com/\nComments URL: https://news.ycombinator.com/item?id=50311686\nPoints: 80\n# Comments: 23",
       "image": "",
-      "published": "Fri, 30 Oct 2026 20:58:24 +0000",
+      "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Linode Security Incident",
+      "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "summary": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm\nComments URL: https://news.ycombinator.com/item?id=50310687\nPoints: 159\n# Comments: 86",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 21:57:40 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "link": "https://www.firezone.dev/blog/introducing-sanstun",
+      "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun\nComments URL: https://news.ycombinator.com/item?id=50310398\nPoints: 70\n# Comments: 14",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 21:30:00 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "AO3 Down for Maintenance",
+      "link": "https://www.otwstatus.org",
+      "summary": "Article URL: https://www.otwstatus.org\nComments URL: https://news.ycombinator.com/item?id=50310258\nPoints: 98\n# Comments: 22",
+      "image": "",
+      "published": "Fri, 30 Oct 2026 21:17:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
       "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 42\n# Comments: 15",
+      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 230\n# Comments: 134",
       "image": "",
       "published": "Fri, 30 Oct 2026 20:23:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-      "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-      "summary": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/\nComments URL: https://news.ycombinator.com/item?id=50309573\nPoints: 12\n# Comment",
+      "title": "Rotating Gemini API Keys in Next.js Serverless Cron Jobs Without Hitting Quota Limits",
+      "link": "https://dev.to/aditya_ekka_pulseroi/rotating-gemini-api-keys-in-nextjs-serverless-cron-jobs-without-hitting-quota-limits-3fek",
+      "summary": "The Problem\n\n\nWhen you run automated YouTube creator data analysis through scheduled background jobs on Vercel, a single high-volume batch processing run can exhaust your free-tier AI API limits in under two minutes. At ",
       "image": "",
-      "published": "Fri, 30 Oct 2026 20:18:18 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Product Managers aren't safe either",
-      "link": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
-      "summary": "Article URL: https://lucaskostka.com/posts/ai-challenges-more-than-devs\nComments URL: https://news.ycombinator.com/item?id=50309534\nPoints: 40\n# Comments: 34",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 20:14:39 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-      "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-      "summary": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a libr",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 20:09:47 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Fifteen Coder fingerprints and 7,392 title matches describe very different evidence",
-      "link": "https://dev.to/ioneyrezende/fifteen-coder-fingerprints-and-7392-title-matches-describe-very-different-evidence-1249",
-      "summary": "Fifteen Coder fingerprints and 7,392 title matches describe very different evidence\n\n\nProduct names that are also common English words create a measurement problem. A title search can find pages that discuss a coder, a c",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 21:41:46 +0000",
+      "published": "Sat, 31 Oct 2026 02:45:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A Practical First-Month SEO Plan for a New Website",
-      "link": "https://dev.to/morlixcms/a-practical-first-month-seo-plan-for-a-new-website-4hf1",
-      "summary": "A new website does not need a hundred SEO tasks on day one. It needs a reliable way for people to reach important pages, content that answers actual questions, and a measurement setup that connects visits to useful actio",
+      "title": "Shipping Client Websites on Shared cPanel Hosting: A Git + FTP Deploy Workflow That Works",
+      "link": "https://dev.to/lightanimation/shipping-client-websites-on-shared-cpanel-hosting-a-git-ftp-deploy-workflow-that-works-h20",
+      "summary": "Plenty of small and mid-size client projects in India still run on cPanel shared hosting. No Docker, no Kubernetes, often no SSH. That doesn't mean deployment has to be \"drag files into FileZilla and hope.\" Here is the l",
       "image": "",
-      "published": "Fri, 30 Oct 2026 21:40:51 +0000",
+      "published": "Sat, 31 Oct 2026 02:45:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Handle OTPs via Email and SMS — An Edtech Failure Guide",
-      "link": "https://dev.to/echof76/how-to-handle-otps-via-email-and-sms-an-edtech-failure-guide-53nk",
-      "summary": "Short answer: issue one short-lived challenge, store only a verifier and delivery state, then let the learner use either SMS or email without treating the two paths as equally reliable. For an edtech login, the important",
+      "title": "Google Gemini Connected Apps Expand Into Business Tools and Everyday Services",
+      "link": "https://dev.to/alifar/google-gemini-connected-apps-expand-into-business-tools-and-everyday-services-13b9",
+      "summary": "Google is expanding the Gemini app with Connected Apps, a program that lets people bring selected third-party services into Gemini conversations. The initial rollout spans work tools, creative platforms and consumer serv",
       "image": "",
-      "published": "Fri, 30 Oct 2026 21:40:47 +0000",
+      "published": "Sat, 31 Oct 2026 02:45:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Claude Code 2.1.314 Blocks Writes Outside Your Working Directory",
-      "link": "https://dev.to/raxxostudios/claude-code-21314-blocks-writes-outside-your-working-directory-3774",
-      "summary": "Claude Code 2.1.314 shipped October 30 with a new permissions.blockWritesOutsideWorkingDirectories setting\nIdle compaction now reaches VS Code and the Claude Desktop Code tab, summarizing sessions past 200,000 tokens\nA f",
+      "title": "Understanding Tech guide about مطالعات میان رشته ای",
+      "link": "https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-h88",
+      "summary": "Beyond Code: The Developer’s Practical Guide to Interdisciplinary Software Engineering\n\n\nIf all you do is translate JIRA tickets into standard CRUD endpoints, you are living on borrowed time. \n\nAI agents can boilerplate ",
       "image": "",
-      "published": "Fri, 30 Oct 2026 21:40:41 +0000",
+      "published": "Sat, 31 Oct 2026 02:45:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI feedback often bolds its corrections. My quote checker now reads Markdown",
-      "link": "https://dev.to/munimv2/ai-feedback-often-bolds-its-corrections-my-quote-checker-now-reads-markdown-4n5h",
-      "summary": "This work was done by AI agents working in the name of MV2 of Munim, Inc. The code is Apache-2.0 and this write-up is CC BY 4.0. Nothing here was reviewed by a teacher yet, and no student text is published, only counts a",
+      "title": "GitLab CVE-2026-97229: Integer Overflow in the Regex Compiler, CVSS 10.0, Exploited in the Wild",
+      "link": "https://dev.to/threataft_dev/gitlab-cve-2026-97229-integer-overflow-in-the-regex-compiler-cvss-100-exploited-in-the-wild-2f6b",
+      "summary": "Body:\n\nA CVSS 10.0 in GitLab’s CI/CD regex compiler — and the October 12 patch isn’t enough.\n\nCVE-2026-97229 is an integer overflow (CWE-190) in Onigmo, Ruby’s regex engine. A crafted pattern in .gitlab-ci.yml triggers a",
       "image": "",
-      "published": "Fri, 30 Oct 2026 21:39:23 +0000",
+      "published": "Sat, 31 Oct 2026 02:43:59 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "The Frankenstein Table",
-      "link": "https://css-tricks.com/the-frankenstein-table/",
-      "summary": "A super scary way to go about tables using other layout techniques, like CSS Grid.\n\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 13:47:08 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-      "link": "https://css-tricks.com/whats-important-19/",
-      "summary": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no fill",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 15:09:16 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS-Tricks has a new owner!",
-      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\n\nCSS-Tricks has a new owner! originally handwritten and publ",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 15:29:36 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-      "link": "https://css-tricks.com/css-random-function-polyfill/",
-      "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
