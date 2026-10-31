@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-31T11:16:51.402240Z",
+  "updated": "2026-10-31T16:21:56.318092Z",
   "articles": [
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg",
+      "published": "Sat, 31 Oct 2026 17:31:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
       "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
@@ -38,12 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg",
-      "published": "Fri, 30 Oct 2026 20:47:28 +0530",
-      "source": "The Hacker News",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 11:35:11 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity ",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) li",
       "image": "",
       "published": "Fri, 30 Oct 2026 17:09:46 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 11:58:20 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to ins",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 10:36:54 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how th",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 10:00:10 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "image": "",
-      "published": "Fri, 30 Oct 2026 09:00:32 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament\nComments URL: https://news.ycombinator.com/item?id=50314654\nPoints: 104\n# Comments: 67",
+      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+      "link": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+      "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/\nComments URL: https://news.ycombinator.com/item?id=50316760\nPoints: 37\n# Comments: 15",
       "image": "",
-      "published": "Sat, 31 Oct 2026 10:21:30 +0000",
+      "published": "Sat, 31 Oct 2026 14:57:33 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How long do you need to hold down the power button to turn off a PC?",
-      "link": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
-      "summary": "Article URL: https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/\nComments URL: https://news.ycombinator.com/item?id=50314243\nPoints: 23\n# Comments: 2",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\nComments URL: https://news.ycombinator.com/item?id=50316531\nPoints: 33\n# Comments: 1",
       "image": "",
-      "published": "Sat, 31 Oct 2026 08:43:32 +0000",
+      "published": "Sat, 31 Oct 2026 14:29:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Switch Lowering in GCC",
-      "link": "https://xoranth.net/gcc-switch/",
-      "summary": "Article URL: https://xoranth.net/gcc-switch/\nComments URL: https://news.ycombinator.com/item?id=50314085\nPoints: 68\n# Comments: 7",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/\nComments URL: https://news.ycombinator.com/item?id=50315226\nPoints: 111\n# Comments: 67",
       "image": "",
-      "published": "Sat, 31 Oct 2026 08:02:26 +0000",
+      "published": "Sat, 31 Oct 2026 11:54:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Digital Minimalism",
-      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html\nComments URL: https://news.ycombinator.com/item?id=50313661\nPoints: 68\n# Comments: 38",
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai\nComments URL: https://news.ycombinator.com/item?id=50314699\nPoints: 181\n# Comments: 93",
       "image": "",
-      "published": "Sat, 31 Oct 2026 06:16:36 +0000",
+      "published": "Sat, 31 Oct 2026 10:30:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tell HN: Scribd Breached",
-      "link": "https://news.ycombinator.com/item?id=50312756",
-      "summary": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Ever",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "summary": "Article URL: https://piefed.world/post/1503394\nComments URL: https://news.ycombinator.com/item?id=50314666\nPoints: 174\n# Comments: 119",
       "image": "",
-      "published": "Sat, 31 Oct 2026 02:46:36 +0000",
+      "published": "Sat, 31 Oct 2026 10:23:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Our 32 migrations are 36 KB of SQL, and the folder they live in holds 2.4 MB of JSON",
-      "link": "https://dev.to/daniel_pertu/our-32-migrations-are-36-kb-of-sql-and-the-folder-they-live-in-holds-24-mb-of-json-1a13",
-      "summary": "Nakodo has 25 tables and 318 columns. Getting there took 32 migrations, generated by drizzle-kit from a TypeScript schema file, and the drizzle/ folder they live in is the second largest directory in the repository.\n\nHer",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 11:14:45 +0000",
+      "title": "One install, ten very different websites",
+      "link": "https://dev.to/harshdoshi/one-install-ten-very-different-websites-44ja",
+      "summary": "In short: Polysite is a CMS that runs many websites from one install. Each site keeps its own domain, look, content and team. It is in beta, and free to use for your own sites. This article walks you through running two ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn4orgim9gbjq1subi9n2.png",
+      "published": "Sat, 31 Oct 2026 16:16:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your Order API Needs More Than an Idempotency Key",
-      "link": "https://dev.to/imminer668/your-order-api-needs-more-than-an-idempotency-key-46j0",
-      "summary": "An order API can accept an Idempotency-Key header on every request and still create a second order for the same intended purchase. Generate a fresh key after a timeout, and a server that deduplicates by key has no way to",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffnsns6diesj02nhu5x7a.webp",
-      "published": "Sat, 31 Oct 2026 11:14:29 +0000",
+      "title": "Why Your v0 or Bolt App Fails to Deploy on Vercel (and How to Fix It)",
+      "link": "https://dev.to/unbreakkit/why-your-v0-or-bolt-app-fails-to-deploy-on-vercel-and-how-to-fix-it-1oe2",
+      "summary": "Originally published at unbreakkit.netlify.app.\n\n\n  \n  \n  The error\n\n\n\n\n\nError: Command \"npm run build\" exited with 1\n\n\n\n\n\n\nThe real cause is earlier in the build log. Scroll up to the first red line.\n\n\n  \n  \n  Common ca",
+      "image": "",
+      "published": "Sat, 31 Oct 2026 16:16:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Title: Building Haat Bazzar: Connecting Local Farmers and Consumers in Nepal Through Web Tech",
-      "link": "https://dev.to/aayam2007/title-building-haat-bazzar-connecting-local-farmers-and-consumers-in-nepal-through-web-tech-4h6f",
-      "summary": "Intro\nAs a CSIT student and full-stack developer based in Gaindakot, Nepal, I’ve always been interested in how modern web technology can solve real local challenges. Today, I want to share the idea and architecture behin",
+      "title": "How to Fix SQL Server Deadlocks: Causes, Detection and Real Fixes",
+      "link": "https://dev.to/lingamsuyambu/how-to-fix-sql-server-deadlocks-causes-detection-and-real-fixes-2bo0",
+      "summary": "Originally published at SQL &amp; Cloud Lab.\n\nA deadlock happens when two sessions each hold a lock the other one needs. Neither can continue, so SQL Server picks one as the victim, rolls its transaction back and raises ",
       "image": "",
-      "published": "Sat, 31 Oct 2026 11:14:28 +0000",
+      "published": "Sat, 31 Oct 2026 16:15:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agent Browsing Moved to the Cloud: Sessions, Locations, Handover, and the Per-Minute Bill",
-      "link": "https://dev.to/donk8r/agent-browsing-moved-to-the-cloud-sessions-locations-handover-and-the-per-minute-bill-4o38",
-      "summary": "A month ago, if an agent hit a sign-in page, it borrowed your browser. Your Chrome, on your machine, competing with the agent's own work for memory. You signed in, stepped away, and the session lived in the one place you",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 11:13:43 +0000",
+      "title": "Submission week 4",
+      "link": "https://dev.to/aditya_sabnis_35f7b2ef63d/submission-week-4-2e27",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\nSéance.dev lets you summon an archived open-source repo and talk to its ghost.\n\nYou paste a GitHub",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F162836940%3Fv%3D4%3Fs%3D400",
+      "published": "Sat, 31 Oct 2026 16:15:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "エンティティ・値オブジェクト・サービス・UseCase をざっくり整理",
-      "link": "https://dev.to/kaziusan/enteiteizhi-obuziekutosabisuusecase-wozatukurizheng-li-131",
-      "summary": "まぁRailsというか、DDD(ドメイン駆動設計)やクリーンアーキテクチャの範囲ですけどな\n\n\n\n\n\n  \n  \n  一覧\n\n\n\n\n\n用語\nひとことで\n例\n\n\n\n\nエンティティ\nID で見分けるもの\nユーザー、案件、注文\n\n\n値オブジェクト\n中身で見分けるもの\n金額、電話番号、住所、期間\n\n\nサービスオブジェクト\n手続きを入れる箱\n税額を計算する、S3 にアップロードする\n\n\nUseCase\nユーザーがやりたいこと1つ\n案件を登録する、",
+      "title": "AfterImage",
+      "link": "https://dev.to/itsshellatol/afterimage-2c2f",
+      "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine\n\n\n  \n  \n  What I Built\n\n\n\n\n    \n      \n        \n          shellatol-s-sites.vercel.app\n          \n\n        \n      \n    \n\n\n\n",
       "image": "",
-      "published": "Sat, 31 Oct 2026 11:13:25 +0000",
+      "published": "Sat, 31 Oct 2026 16:15:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
