@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:05:51.351973Z",
+  "updated": "2026-11-01T21:23:50.696630Z",
   "articles": [
     {
       "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 14:57:53 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over conc",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 08:53:11 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
@@ -61,33 +88,6 @@
       "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or cr",
       "image": "",
       "published": "Sat, 31 Oct 2026 11:35:11 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity ",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 09:10:19 -0400",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organization",
-      "image": "",
-      "published": "Sat, 31 Oct 2026 08:50:09 -0400",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Norway makes shithouses great again",
-      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "summary": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/\nComments URL: https://news.ycombinator.com/item?id=50324388\nPoints: 122\n# Comments: 49",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "link": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "summary": "Article URL: https://blog.raed.dev/posts/proton-loser-thinking/\nComments URL: https://news.ycombinator.com/item?id=50328488\nPoints: 105\n# Comments: 57",
       "image": "",
-      "published": "Sun, 01 Nov 2026 10:47:58 +0000",
+      "published": "Sun, 01 Nov 2026 18:53:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "summary": "Article URL: https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/\nComments URL: https://news.ycombinator.com/item?id=50324371\nPoints: 6\n# Comments: 2",
+      "title": "Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare",
+      "link": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+      "summary": "Article URL: https://nurse.org/news/uber-for-nursing-gig-apps-report/\nComments URL: https://news.ycombinator.com/item?id=50328487\nPoints: 121\n# Comments: 117",
       "image": "",
-      "published": "Sun, 01 Nov 2026 10:44:20 +0000",
+      "published": "Sun, 01 Nov 2026 18:53:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "summary": "Article URL: https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income\nComments URL: https://news.ycombinator.com/item?id=50324118\nPoints: 33\n# Comments: 7",
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again\nComments URL: https://news.ycombinator.com/item?id=50328462\nPoints: 22\n# Comments: 17",
       "image": "",
-      "published": "Sun, 01 Nov 2026 10:05:09 +0000",
+      "published": "Sun, 01 Nov 2026 18:51:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pac-Man's Siren Call",
-      "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
-      "summary": "Article URL: https://unsung.aresluna.org/pac-mans-siren-call/\nComments URL: https://news.ycombinator.com/item?id=50323187\nPoints: 26\n# Comments: 6",
+      "title": "Mathematics has changed. Let's act like it",
+      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/\nComments URL: https://news.ycombinator.com/item?id=50328251\nPoints: 110\n# Comments: 132",
       "image": "",
-      "published": "Sun, 01 Nov 2026 06:29:49 +0000",
+      "published": "Sun, 01 Nov 2026 18:28:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 105\n# Comments: 56",
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism\nComments URL: https://news.ycombinator.com/item?id=50327650\nPoints: 262\n# Comments: 182",
       "image": "",
-      "published": "Sun, 01 Nov 2026 06:06:19 +0000",
+      "published": "Sun, 01 Nov 2026 17:28:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Customer merge failed in Shopify? What the customerMerge docs say about blockers, and where they disagree",
-      "link": "https://dev.to/jiimt/customer-merge-failed-in-shopify-what-the-customermerge-docs-say-about-blockers-and-where-they-2a0i",
-      "summary": "If you build anything that merges Shopify customers, the documentation is spread across a Help Center page, a mutation page, two enums, an object and a webhook topic. This post puts what those pages say in one place, fla",
+      "title": "Client budget alerts in Jira before the hours run out",
+      "link": "https://dev.to/kayabyte/client-budget-alerts-in-jira-before-the-hours-run-out-5h61",
+      "summary": "A client has 120 hours. You find out at 118. By then the only conversation left is the awkward one. What you want is a warning at 80 or 90 percent, early enough to talk about scope, a change request or a pause.\n\nJira tra",
       "image": "",
-      "published": "Sun, 01 Nov 2026 11:59:28 +0000",
+      "published": "Sun, 01 Nov 2026 21:14:22 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We added WebMCP tools to our own website. Here is the code.",
-      "link": "https://dev.to/unlocklive/we-added-webmcp-tools-to-our-own-website-here-is-the-code-2dak",
-      "summary": "Most AI agents still use websites the hard way. They look at the page, guess which button does what, and click. A pop-up or a theme update can break all of it.\n\nWebMCP is a proposed web standard that gives agents a bette",
+      "title": "374 of 820 Google News Rows Were Published at Exactly 07:00:00Z. All but One Were Over a Week Old",
+      "link": "https://dev.to/matveyg/374-of-820-google-news-rows-were-published-at-exactly-070000z-all-but-one-were-over-a-week-old-21na",
+      "summary": "I run a visa agency in Bali, which means two Google News searches decide a surprising amount of my week: Bali and Indonesia visa. Immigration rules here move by press conference, and the version that reaches me through W",
       "image": "",
-      "published": "Sun, 01 Nov 2026 11:59:14 +0000",
+      "published": "Sun, 01 Nov 2026 21:13:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I built a Discord bot that reads Vietnamese chat aloud. Here's what broke once real servers used it",
-      "link": "https://dev.to/khanhduyvt0101/i-built-a-discord-bot-that-reads-vietnamese-chat-aloud-heres-what-broke-once-real-servers-used-it-4207",
-      "summary": "Every Discord gaming group has one: the friend who can't talk. It's 1 a.m. and their family is asleep, or they're in a dorm, or the mic is just broken. So they type. And nobody in the middle of a match reads the chat.\n\nD",
+      "title": "Robust Python API Clients: Handling Rate Limits and Timeouts",
+      "link": "https://dev.to/holly_ai/robust-python-api-clients-handling-rate-limits-and-timeouts-10e5",
+      "summary": "API failures are not exceptional events; they are inevitable. When building Python clients that interact with external services, transient errors like rate limits, timeouts, and server outages will occur. Ignoring them l",
       "image": "",
-      "published": "Sun, 01 Nov 2026 11:59:05 +0000",
+      "published": "Sun, 01 Nov 2026 21:12:46 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Montei meu próprio assistente de IA local — sem nuvem, sem expor meus dados",
-      "link": "https://dev.to/eduardo_silva_231413/montei-meu-proprio-assistente-de-ia-local-sem-nuvem-sem-expor-meus-dados-4116",
-      "summary": "Montei meu próprio \"assistente pessoal\" de IA local — sem depender de nuvem, sem expor meus dados\n\n\nTrabalho o dia inteiro cuidando de infraestrutura dos outros: Active Directory, Exchange, Azure, tickets, automações cor",
-      "image": "",
-      "published": "Sun, 01 Nov 2026 11:58:36 +0000",
+      "title": "I Built Preludarr: A Self-Hosted Theme Music Manager for Plex, Jellyfin & Emby",
+      "link": "https://dev.to/shedman214/i-built-preludarr-a-self-hosted-theme-music-manager-for-plex-jellyfin-emby-ie",
+      "summary": "I've spent a lot of time building and improving my self-hosted media setup with Plex, Jellyfin, and other media management tools.\n\nOne thing I particularly enjoy about streaming services is the experience of browsing a l",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsf0es34a9dxo6c9jycqs.png",
+      "published": "Sun, 01 Nov 2026 21:10:39 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AI writes my code just fine. It still couldn't draw one person.",
-      "link": "https://dev.to/_21fd064819ff1707b8060/ai-writes-my-code-just-fine-it-still-couldnt-draw-one-person-57om",
-      "summary": "I'm a solo developer from South Korea. I started coding about seven months ago. I use a translator and AI to help me write in English.\n\nMy app, Party Picker, has 21 party games. Friends use one phone to decide who gets a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7fjc388y3olgd33o7e0g.png",
-      "published": "Sun, 01 Nov 2026 11:56:46 +0000",
+      "title": "CC a whole team on every Jira Service Management ticket",
+      "link": "https://dev.to/kayabyte/cc-a-whole-team-on-every-jira-service-management-ticket-4092",
+      "summary": "A common ask from support leads: \"Whenever a customer opens a ticket, our account team should be copied.\" In email that is a CC. In Jira Service Management there is no CC field for a group, and the pieces that look like ",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 21:09:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
