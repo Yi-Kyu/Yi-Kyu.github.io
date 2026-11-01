@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:42:29.707266Z",
+  "updated": "2026-11-01T02:44:07.437802Z",
   "articles": [
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/\n\nComments URL: https://news.ycombinator.com/item?id=50319510\nPoints: 52\n# Comments: 29",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "summary": "Hi HN,I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadb",
       "image": "",
-      "published": "Sat, 31 Oct 2026 19:56:53 +0000",
+      "published": "Sun, 01 Nov 2026 00:10:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
-      "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logic is translated routine by routine from the 6",
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "link": "https://emarzion.github.io/KSRT/",
+      "summary": "Article URL: https://emarzion.github.io/KSRT/\nComments URL: https://news.ycombinator.com/item?id=50321436\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Sat, 31 Oct 2026 19:18:48 +0000",
+      "published": "Sat, 31 Oct 2026 23:55:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\nComments URL: https://news.ycombinator.com/item?id=50319143\nPoints: 85\n# Comments: 43",
+      "title": "When electric cars were for women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles\nComments URL: https://news.ycombinator.com/item?id=50321130\nPoints: 41\n# Comments: 12",
       "image": "",
-      "published": "Sat, 31 Oct 2026 19:16:30 +0000",
+      "published": "Sat, 31 Oct 2026 23:08:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Duty of a Scholar",
-      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html\nComments URL: https://news.ycombinator.com/item?id=50319061\nPoints: 44\n# Comments: 8",
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/\nComments URL: https://news.ycombinator.com/item?id=50321048\nPoints: 49\n# Comments: 2",
       "image": "",
-      "published": "Sat, 31 Oct 2026 19:07:36 +0000",
+      "published": "Sat, 31 Oct 2026 22:54:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/\nComments URL: https://news.ycombinator.com/item?id=50318871\nPoints: 91\n# Comments: 89",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 92\n# Comments: 45",
       "image": "",
-      "published": "Sat, 31 Oct 2026 18:50:34 +0000",
+      "published": "Sat, 31 Oct 2026 22:46:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Feature Flags Reconciled: Set, Toggle, and Retrieve Using Node.js REST",
-      "link": "https://dev.to/calderhayes9638/feature-flags-reconciled-set-toggle-and-retrieve-using-nodejs-rest-5cpd",
-      "summary": "Short answer: a tenant-cohort experiment should treat flag changes as reconciled state transitions. Set the definition, retrieve it, enable exposure only after the intended configuration is recorded, and retrieve the sta",
+      "title": "Consider Using the nc Command for Connectivity Verification",
+      "link": "https://dev.to/kawasaki031677/consider-using-the-nc-command-for-connectivity-verification-23ii",
+      "summary": "Introduction\n\n\nWhen verifying connectivity to external servers or databases, which command do you typically use? I'd like to recommend the nc (Netcat) command for this purpose.\n\n\n  \n  \n  Why I Recommend the nc Command\n\n\n",
       "image": "",
-      "published": "Sat, 31 Oct 2026 20:31:31 +0000",
+      "published": "Sun, 01 Nov 2026 02:33:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agent loops for product features: budgets, errors, stops and checkpoints",
-      "link": "https://dev.to/ahmad_dogar_7d098f5e48f72/agent-loops-for-product-features-budgets-errors-stops-and-checkpoints-86c",
-      "summary": "The tutorial version of an agent is ten lines: call the model, run whatever tools it asks for, append the results, repeat until it stops. That loop is fine in a notebook. Inside a product it is a while (true) that spends",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvj56lu9zv02h7x70tmed.webp",
-      "published": "Sat, 31 Oct 2026 20:30:29 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Price a coding call, then pick the model tier",
-      "link": "https://dev.to/conorbronsdon/price-a-coding-call-then-pick-the-model-tier-2mfj",
-      "summary": "For a short coding task, price the fast tier and the flagship on the same prompt, then keep the cheapest run that still returns code you would ship. On the pricing Paige Bailey read off the screen, Gemini 3 Flash input w",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPodcasts211%2Fv4%2F52%2F11%2F80%2F521180b1-f6cc-9ad9-0917-676e74e4b36a%2Fmza_7878404023429800825.jpg%2F1200x1200ECA.PESS01-60.jpg%3FimgShow%3DPodcasts221%2Fv4%2Fee%2Ff2%2F1b%2Feef21b19-f090-f9b4-fc85-ffc84f80fad7%2Fmza_6548396687882944514.jpg",
-      "published": "Sat, 31 Oct 2026 20:30:08 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Latencia de memoria: qué es y por qué tu CPU no rinde al 100%",
-      "link": "https://dev.to/lu1tr0n/latencia-de-memoria-que-es-y-por-que-tu-cpu-no-rinde-al-100-4ml2",
-      "summary": "Un monitor que marca el CPU al 100% casi nunca dice la verdad completa: ese número mide tiempo ocupado, no trabajo útil. La causa más común de la diferencia es la latencia de memoria, el tiempo que el procesador pierde e",
+      "title": "Android AppFunctions Is in Beta. The Code Is Still Alpha",
+      "link": "https://dev.to/dishant0406/android-appfunctions-is-in-beta-the-code-is-still-alpha-54b7",
+      "summary": "The Android Developers account called AppFunctions \"officially in beta\" from the Android Dev Summit stage. The Jetpack library it points you to is 1.0.0-alpha10.\n\nThat gap is the whole story.\n\ni opened the docs page to c",
       "image": "",
-      "published": "Sat, 31 Oct 2026 20:29:10 +0000",
+      "published": "Sun, 01 Nov 2026 02:32:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "TensorFlow Explained: Machine Learning, From Tensors to Training",
-      "link": "https://dev.to/practicaldevblog/tensorflow-explained-machine-learning-from-tensors-to-training-lpe",
-      "summary": "Introduction\n\n\nMachine learning sounds like magic until you see the machinery: numbers flow through operations, a model adjusts its parameters, and error goes down. TensorFlow, released by Google in 2015, is the library ",
+      "title": "DeepSeek vs ChatGPT for Coding: A Task-by-Task View",
+      "link": "https://dev.to/exactreads/deepseek-vs-chatgpt-for-coding-a-task-by-task-view-1kaj",
+      "summary": "Asking which assistant is better for coding usually leads to a single winner, but that question is too broad. In everyday work, the better choice changes with the task in front of you. Models also change over time, so tr",
       "image": "",
-      "published": "Sat, 31 Oct 2026 20:29:10 +0000",
+      "published": "Sun, 01 Nov 2026 02:32:17 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Rendering a car wrap preview in the browser: notes from a side project",
+      "link": "https://dev.to/waisam/rendering-a-car-wrap-preview-in-the-browser-notes-from-a-side-project-4mkp",
+      "summary": "I built a small web tool that previews custom wraps on Tesla models in 3D. A few things I learned along the way:\n\nUV maps decide everything. The wrap image is projected onto the model through its UV layout. If the UV isl",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 02:31:49 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "MCP Auth Gets Real: What the 2026-07-28 Spec Means for Local MCP Servers Behind a Tunnel",
+      "link": "https://dev.to/instatunnel/mcp-auth-gets-real-what-the-2026-07-28-spec-means-for-local-mcp-servers-behind-a-tunnel-2dg1",
+      "summary": "Authentication is the part of MCP that tends to get postponed. A May 2026 measurement study put it plainly: many remote servers treat it as a deployment add-on rather than a security boundary. The 2026-07-28 revision of ",
+      "image": "",
+      "published": "Sun, 01 Nov 2026 02:31:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
