@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-02T13:55:19.428638Z",
+  "updated": "2026-11-03T00:04:51.583064Z",
   "articles": [
+    {
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg",
+      "published": "Mon, 02 Nov 2026 22:27:56 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says&nbsp;it is highly confident that device maker Videostrong ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbU6vLZjF0nlz7vqN6UVf3kN1IcdUfIpAmVWlh2II4gGbMMmSuiE1S8HLzP4JV-ImeCa64hU-cEaa-yGXWqUO_XHOurKtEw61DFvjGOJhM7gHpRPpegBcCFYrXkd59wGX-PoV6zm7z7uq6PpXjc4GLhDRzcinR5IIjcOVZEVl8FMQ0v0Dt3CV9sRxZNk/s1600/android-tv-botnet.jpg",
+      "published": "Mon, 02 Nov 2026 21:20:26 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a repo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nIwDn7LIoF8OUZdj0NRjq4ZMu-xjzcOPQJDwouwkwqwVe618e77am9iyAIez63Q8jVqZi7OtU43gJlhbZT-_4l_4pUq3tYpDUe4ErouPlkNi8YTNZiPQ6KmX2Ci028oT24DRcPtCdKv_zZ33_ZHOodARrbmcwxYWCAx4r45Qc0qVOQNmCCoWZmAWJnzt/s1600/shelby-hacker.png",
+      "published": "Mon, 02 Nov 2026 20:16:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
       "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg",
-      "published": "Mon, 02 Nov 2026 16:38:45 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg",
-      "published": "Mon, 02 Nov 2026 16:19:59 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\n\nL",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd5V8QVweKn56_SnTCKZkhmOip6paz9noBrJn7znyZqUtFbOEaLuALQUNlmjcSAb7RIUW8GDETB6J0kFpQQe6vq7wAjk3ogxKUeQ0-2rKeO6TveLdqHNs9KnTN6zC6rwPzWE2IBWMokqQOUzAA0XPM2BWHTUTE7_U7XDfUGKTDIC1PYttxHGnAq_Kr_hMq/s1600/hacker-ai.jpg",
-      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
       "image": "",
-      "published": "Mon, 02 Nov 2026 07:47:00 -0500",
+      "published": "Mon, 02 Nov 2026 16:40:14 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
       "image": "",
-      "published": "Mon, 02 Nov 2026 06:28:42 -0500",
+      "published": "Mon, 02 Nov 2026 14:00:45 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate rev",
       "image": "",
-      "published": "Mon, 02 Nov 2026 04:33:26 -0500",
+      "published": "Mon, 02 Nov 2026 13:16:34 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "link": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
       "image": "",
-      "published": "Sun, 01 Nov 2026 14:57:53 -0500",
+      "published": "Mon, 02 Nov 2026 10:03:07 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over conc",
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data ",
       "image": "",
-      "published": "Sun, 01 Nov 2026 10:11:21 -0500",
+      "published": "Mon, 02 Nov 2026 10:01:11 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Last night an AI agent performed brain surgery on a mouse",
-      "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
-      "summary": "Article URL: https://twitter.com/OcanaSantero/status/2115442964574908902\nComments URL: https://news.ycombinator.com/item?id=50336138\nPoints: 13\n# Comments: 3",
+      "title": "Anthropic's growth just flattened",
+      "link": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "summary": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened\nComments URL: https://news.ycombinator.com/item?id=50344958\nPoints: 105\n# Comments: 107",
       "image": "",
-      "published": "Mon, 02 Nov 2026 12:50:59 +0000",
+      "published": "Mon, 02 Nov 2026 22:33:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Never Complain, Never Explain",
-      "link": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Never_complain,_never_explain\nComments URL: https://news.ycombinator.com/item?id=50335659\nPoints: 29\n# Comments: 8",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/\nComments URL: https://news.ycombinator.com/item?id=50344919\nPoints: 91\n# Comments: 49",
       "image": "",
-      "published": "Mon, 02 Nov 2026 11:55:48 +0000",
+      "published": "Mon, 02 Nov 2026 22:30:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\nComments URL: https://news.ycombinator.com/item?id=50335615\nPoints: 62\n# Comments: 64",
+      "title": "Apple reports fourth quarter results",
+      "link": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/\nComments URL: https://news.ycombinator.com/item?id=50344670\nPoints: 61\n# Comments: 45",
       "image": "",
-      "published": "Mon, 02 Nov 2026 11:50:13 +0000",
+      "published": "Mon, 02 Nov 2026 22:13:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
-      "link": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cq1kd1nee80eo\nComments URL: https://news.ycombinator.com/item?id=50335602\nPoints: 66\n# Comments: 64",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "summary": "Article URL: https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase\nComments URL: https://news.ycombinator.com/item?id=50344224\nPoints: 7\n# Comments: 3",
       "image": "",
-      "published": "Mon, 02 Nov 2026 11:48:02 +0000",
+      "published": "Mon, 02 Nov 2026 21:42:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The future in old computer magazines (1984–2004)",
-      "link": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
-      "summary": "Article URL: https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in\nComments URL: https://news.ycombinator.com/item?id=50335341\nPoints: 35\n# Comments: 20",
+      "title": "The Ford Privacy Promise: You're in Control of Your Data",
+      "link": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
+      "summary": "Article URL: https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise\nComments URL: https://news.ycombinator.com/item?id=50344158\nPoints: 11\n# Comments: 7",
       "image": "",
-      "published": "Mon, 02 Nov 2026 11:09:08 +0000",
+      "published": "Mon, 02 Nov 2026 21:37:00 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "I used to dream about coding on the train. Now I'm managing agents from my phone. 🚉🍁🍂",
-      "link": "https://dev.to/kwalters/i-used-to-dream-about-coding-on-the-train-now-im-managing-agents-from-my-phone-3mam",
-      "summary": "This weekend I had the opportunity to work with v0, Claude Projects, Claude Code, agent skills, GitHub for Android, and PRDs to build and manage a web app from my phone.\n\nThe skill bucket list continues! Next up: leverag",
+      "title": "A month of daily job-ad counts from Praca pl: the weekly rhythm, and pay transparency inching up",
+      "link": "https://dev.to/listingworks/a-month-of-daily-job-ad-counts-from-praca-pl-the-weekly-rhythm-and-pay-transparency-inching-up-o7h",
+      "summary": "Most job-market figures come out once a month. I have been counting the live ads on Praca pl, one of Poland's national job boards, every morning since 2 October, from its public list pages. With a full month in hand, two",
       "image": "",
-      "published": "Mon, 02 Nov 2026 13:50:38 +0000",
+      "published": "Tue, 03 Nov 2026 00:02:43 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Production RAG Server with Pathway's Serviette: Real-Time Sync Without the Rebuild Tax",
-      "link": "https://dev.to/jj657/building-a-production-rag-server-with-pathways-serviette-real-time-sync-without-the-rebuild-tax-2i6n",
-      "summary": "The Problem with Static RAG Pipelines\n\n\nMost RAG implementations treat document ingestion as a batch job. You update a file, trigger a reindex, wait for embeddings to regenerate, then hope your vector database doesn't re",
+      "title": "AI Agents Burn More Cash The Longer They Work For You",
+      "link": "https://dev.to/fathomnews/ai-agents-burn-more-cash-the-longer-they-work-for-you-oed",
+      "summary": "Tech companies are pushing AI agents that can do tasks step by step, but the more work they do, the more they can cost, slow down, and go wrong.\n\nTL;DR\n\n\nAI agents are AI systems that do multi-step work by combining a la",
       "image": "",
-      "published": "Mon, 02 Nov 2026 13:50:24 +0000",
+      "published": "Tue, 03 Nov 2026 00:02:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lorenz 1.2.3: AppImage AppStream metadata fix",
-      "link": "https://dev.to/chaostic/lorenz-123-appimage-appstream-metadata-fix-4e2a",
-      "summary": "Lorenz is an open-source desktop tool for converting files locally with radial drag-and-drop wheels. It is aimed at people who want a quick, offline conversion workflow on Windows and Linux/KDE without uploading their fi",
+      "title": "Beyond 1,000 Rows: Building a TypeScript Data Grid That Actually Scales Across React, Vue, and Angular",
+      "link": "https://dev.to/tamizuddin/beyond-1000-rows-building-a-typescript-data-grid-that-actually-scales-across-react-vue-and-345g",
+      "summary": "Originally published on tamiz.pro.\n\nMost data grids start dying the moment you cross a thousand rows. The DOM chokes, the scroll janks, and your framework's reactivity system turns into a bottleneck. The fix isn't a libr",
       "image": "",
-      "published": "Mon, 02 Nov 2026 13:50:22 +0000",
+      "published": "Tue, 03 Nov 2026 00:02:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Lorenz v1.2.2: AppImage updates, winget publishing and CodeQL",
-      "link": "https://dev.to/chaostic/lorenz-v122-appimage-updates-winget-publishing-and-codeql-3c8a",
-      "summary": "Lorenz is an open-source tool for converting files locally. You drag files onto radial wheels, and the conversion runs on your machine, with no upload. It targets Windows and Linux (KDE) users who want a quick, visual wa",
-      "image": "",
-      "published": "Mon, 02 Nov 2026 13:50:05 +0000",
+      "title": "config() Inside Your PHP Domain Is a Hidden Dependency. Inject Typed Settings Instead",
+      "link": "https://dev.to/gabrielanhaia/config-inside-your-php-domain-is-a-hidden-dependency-inject-typed-settings-instead-51jj",
+      "summary": "Book: Decoupled PHP — Clean and Hexagonal Architecture for Applications That Outlive the Framework\n\n\nAlso by me: Thinking in Go (2-book series) — Complete Guide to Go Programming + Hexagonal Architecture in Go\n\n\nMy proje",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffiur1nmaod7sm81v6qas.png",
+      "published": "Tue, 03 Nov 2026 00:01:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "CSS grid auto-fit and minmax() without media queries",
-      "link": "https://dev.to/hassan_aziz_88b11714fef8b/css-grid-auto-fit-and-minmax-without-media-queries-23j1",
-      "summary": "The short version\n\n\n\nrepeat(auto-fit, minmax(300px, 1fr)) makes a responsive CSS grid without media queries: the browser fits as many columns as it can at the minimum width and the 1fr maximum stretches them to fill the ",
+      "title": "Google Tests Gemini 4 Carbon In Secret To See If People Like It",
+      "link": "https://dev.to/fathomnews/google-tests-gemini-4-carbon-in-secret-to-see-if-people-like-it-534a",
+      "summary": "Google quietly put Gemini 4 Carbon, its next AI chatbot, into Arena, a website where people vote between two hidden bot answers, to see if users liked it before launch.\n\n\n  \n  \n  Key Takeaways\n\n\n\nTestingCatalog posted th",
       "image": "",
-      "published": "Mon, 02 Nov 2026 13:49:47 +0000",
+      "published": "Tue, 03 Nov 2026 00:00:40 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+      "link": "https://css-tricks.com/whats-important-20/",
+      "summary": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whe",
+      "image": "",
+      "published": "Mon, 02 Nov 2026 15:06:07 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\n\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-",
       "image": "",
       "published": "Mon, 31 Aug 2026 15:12:19 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #18: , Syntax ::highlight()ing, named-feature(), and More",
-      "link": "https://css-tricks.com/whats-important-18/",
-      "summary": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last cou",
-      "image": "",
-      "published": "Mon, 31 Aug 2026 14:08:55 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
