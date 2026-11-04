@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-04T13:19:50.441171Z",
+  "updated": "2026-11-04T22:55:34.848901Z",
   "articles": [
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according to advisories that&",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg",
+      "published": "Wed, 04 Nov 2026 22:30:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier vers",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg",
+      "published": "Wed, 04 Nov 2026 22:30:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI ga",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg",
+      "published": "Wed, 04 Nov 2026 21:36:43 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Uk",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg",
+      "published": "Wed, 04 Nov 2026 19:57:52 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -11,83 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full permissions and manages ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg",
-      "published": "Wed, 04 Nov 2026 17:16:27 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns.",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif",
-      "published": "Wed, 04 Nov 2026 17:04:20 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surv",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg",
-      "published": "Wed, 04 Nov 2026 16:54:31 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian an",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVXRk9XWLvV5V7-gF-fqxa3YEEGpquE2Q8rML0rLK7ieZAbLJLqsHS6Sk012cwUslyYApJRP4b8SvmPCyATY2SbWpuhWILK0MRglNFqH5l5rVhTjSaJunpjWvbt8O9_UUnZnuxMJ26k5S4aQNj6pMBJLhY0gfn4zIY0Ot6m-gkntqxJiU4qgoAL3641pw/s1600/russia-hackerss.jpg",
-      "published": "Wed, 04 Nov 2026 13:47:11 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US charges two Canadians accused of hacking US universities",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 08:13:20 -0500",
+      "published": "Wed, 04 Nov 2026 16:31:18 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 07:11:05 -0500",
+      "published": "Wed, 04 Nov 2026 15:58:19 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 04:39:54 -0500",
+      "published": "Wed, 04 Nov 2026 14:05:19 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
       "image": "",
-      "published": "Tue, 03 Nov 2026 17:18:50 -0500",
+      "published": "Wed, 04 Nov 2026 13:02:56 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency walle",
       "image": "",
-      "published": "Tue, 03 Nov 2026 16:28:44 -0500",
+      "published": "Wed, 04 Nov 2026 11:58:46 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Debian apt security update: man-in-the-middle arbitrary code execution",
-      "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
-      "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html\nComments URL: https://news.ycombinator.com/item?id=50364814\nPoints: 14\n# Comments: 4",
+      "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+      "link": "https://news.ycombinator.com/item?id=50372294",
+      "summary": "I recently commented on the \"who wants to be hired\" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?\n\nComments UR",
       "image": "",
-      "published": "Wed, 04 Nov 2026 12:46:58 +0000",
+      "published": "Wed, 04 Nov 2026 22:18:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A map of 5000+ midterm ads",
-      "link": "https://admap.org/",
-      "summary": "Article URL: https://admap.org/\nComments URL: https://news.ycombinator.com/item?id=50364561\nPoints: 26\n# Comments: 2",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "Article URL: https://icode4.coffee/?p=1746\nComments URL: https://news.ycombinator.com/item?id=50372164\nPoints: 17\n# Comments: 2",
       "image": "",
-      "published": "Wed, 04 Nov 2026 12:18:35 +0000",
+      "published": "Wed, 04 Nov 2026 22:01:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Hackers hit French national blood bank",
-      "link": "https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/",
-      "summary": "Article URL: https://www.telegraph.co.uk/world-news/2026/11/04/hackers-hit-french-blood-bank/\nComments URL: https://news.ycombinator.com/item?id=50364478\nPoints: 47\n# Comments: 33",
+      "title": "Everything is an AI scam now",
+      "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/\nComments URL: https://news.ycombinator.com/item?id=50371508\nPoints: 101\n# Comments: 29",
       "image": "",
-      "published": "Wed, 04 Nov 2026 12:08:35 +0000",
+      "published": "Wed, 04 Nov 2026 21:05:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The engineering around post-quantum cryptography is as important",
-      "link": "https://github.com/lecodev-26/nexus-q",
-      "summary": "Article URL: https://github.com/lecodev-26/nexus-q\nComments URL: https://news.ycombinator.com/item?id=50364430\nPoints: 3\n# Comments: 0",
+      "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+      "link": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+      "summary": "Article URL: https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8\nComments URL: https://news.ycombinator.com/item?id=50371346\nPoints: 40\n# Comments: 2",
       "image": "",
-      "published": "Wed, 04 Nov 2026 12:03:55 +0000",
+      "published": "Wed, 04 Nov 2026 20:52:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "summary": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50364336\nPoints: 167\n# Comments: 78",
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network\nComments URL: https://news.ycombinator.com/item?id=50371246\nPoints: 401\n# Comments: 111",
       "image": "",
-      "published": "Wed, 04 Nov 2026 11:52:17 +0000",
+      "published": "Wed, 04 Nov 2026 20:45:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The URL Shortener System Design Lie: What Prep Guides Hand-Wave (And what production actually needs)",
-      "link": "https://dev.to/gvegacl/the-url-shortener-system-design-lie-what-prep-guides-hand-wave-and-what-production-actually-needs-1cka",
-      "summary": "Recently I've been reading about system design, and I stumbled upon one of the \"easiest\" and \"most basic\" interview questions in system design: \"Design A URL Shortener\"\n\nI saw the problem in Alex Xu's book, systemDesignO",
+      "title": "Passwordless Gaming SaaS Needs 3 Evidence Boundaries (Before Removing Passwords)",
+      "link": "https://dev.to/kaelvyn47/passwordless-gaming-saas-needs-3-evidence-boundaries-before-removing-passwords-3png",
+      "summary": "The authentication observability bill contains several different quantities: events ingested, bytes retained, and distinct combinations of metric labels. Before deciding whether a new gaming SaaS should launch without pa",
       "image": "",
-      "published": "Wed, 04 Nov 2026 13:17:56 +0000",
+      "published": "Wed, 04 Nov 2026 22:53:18 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Dify: Before Your Support Bot Answers a Customer, Ask It the Question Your Help Docs Don't Cover",
-      "link": "https://dev.to/robert_breen_d96e41ecd765/dify-before-your-support-bot-answers-a-customer-ask-it-the-question-your-help-docs-dont-cover-16hg",
-      "summary": "A small support team answers the same questions every day: prices, hours, cancellations. Each answer is quick. Together they fill the morning, and two people on the team can give two different answers to the same questio",
+      "title": "cert-manager 1.21.3: what a trust-store update means for your cluster",
+      "link": "https://dev.to/pki-channnel/cert-manager-1213-what-a-trust-store-update-means-for-your-cluster-20i0",
+      "summary": "The cert-manager project released v1.21.3 on October 23, 2026. Among other changes, it updates base images to remove the emSign ECC Root CA - G3 root certificate and uses Go 1.26.10, whose crypto/x509 rejects chains thro",
       "image": "",
-      "published": "Wed, 04 Nov 2026 13:16:39 +0000",
+      "published": "Wed, 04 Nov 2026 22:52:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Compare iOS App Store Reviews Across Countries After a Release (Python + pandas)",
-      "link": "https://dev.to/frank0306_2838afa1791aac9/how-to-compare-ios-app-store-reviews-across-countries-after-a-release-python-pandas-411m",
-      "summary": "After an iOS release, the App Store shows one star average per country, and it moves slowly because it includes years of old ratings. What you want to know is more specific: are users in Germany suddenly angrier than in ",
+      "title": "Readability First: How to Pick Fonts People Can Actually Read",
+      "link": "https://dev.to/fonthubs/readability-first-how-to-pick-fonts-people-can-actually-read-4c76",
+      "summary": "A beautiful typeface that nobody can read comfortably is a failed typeface. When you pick fonts for a website, an app, or a document, readability is not the boring constraint — it is the whole job. Here is a practical ch",
       "image": "",
-      "published": "Wed, 04 Nov 2026 13:16:07 +0000",
+      "published": "Wed, 04 Nov 2026 22:52:19 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Agentic reporting without data exposure",
-      "link": "https://dev.to/thatscalaguy/agentic-reporting-without-data-exposure-5fcb",
-      "summary": "AI agents are good at building reports. Give one a data file and a goal, and a few minutes later you have a table, a chart, and a PDF. Most tools make that possible in the simplest way: the agent gets the data. Revenue, ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fwww.bino.bi%2Fblog%2Fagentic-reporting-without-data-exposure%2Freport-synthetic.webp",
-      "published": "Wed, 04 Nov 2026 13:16:00 +0000",
+      "title": "Gemma 4 E2B in JAX on One TPU v5e: bf16 or 4-Bit, Python or Rust, and How It Stands Against vLLM",
+      "link": "https://dev.to/gde/gemma-4-e2b-in-jax-on-one-tpu-v5e-bf16-or-4-bit-python-or-rust-and-how-it-stands-against-vllm-j72",
+      "summary": "This article provides a step by step guide to serving Gemma 4 E2B on a single Cloud TPU v5e chip with JAX. A pure-JAX engine serves the model from Python, a second engine builds the same graph in Rust and hands it to the",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 22:49:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How Stripe Handles Payments at Scale Without Losing a Cent",
-      "link": "https://dev.to/mubashirtaj/how-stripe-handles-payments-at-scale-without-losing-a-cent-244p",
-      "summary": "Payments are the hardest problem in backend engineering, not because the code is complicated, but because the failure modes are unforgiving. A social feed can drop a post and recover. A payment system that charges a cust",
+      "title": "Claude Code 2.1.318 Fixes a False Success Bug in claude -p",
+      "link": "https://dev.to/raxxostudios/claude-code-21318-fixes-a-false-success-bug-in-claude-p-4m6i",
+      "summary": "Claude Code 2.1.318 shipped November 4 and fixes claude -p reporting exit 0 after a cut-off API reply\nclaude auth status and claude -p JSON now show credential_expires_at, with a stderr warning 10 days out\nBackground sub",
       "image": "",
-      "published": "Wed, 04 Nov 2026 13:15:58 +0000",
+      "published": "Wed, 04 Nov 2026 22:47:36 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Smashing AI Conference",
+      "link": "https://css-tricks.com/smashing-ai-conference/",
+      "summary": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\n\nSmashing AI Conference originally handwritten and published",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 15:02:51 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no fill",
       "image": "",
       "published": "Tue, 27 Oct 2026 15:09:16 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS-Tricks has a new owner!",
-      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "Yes, I've got the keys to the castle, so to speak. And, even after 12 years of working on the site, I'll admit I'm a little overwhelmed and nervous about that.\n\nCSS-Tricks has a new owner! originally handwritten and publ",
-      "image": "",
-      "published": "Mon, 26 Oct 2026 15:29:36 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
