@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:36:23.361346Z",
+  "updated": "2026-11-04T03:28:26.345661Z",
   "articles": [
     {
       "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
@@ -137,9 +137,36 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Arrows to arrows, categories to queries (2025)",
+      "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+      "summary": "Article URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/\nComments URL: https://news.ycombinator.com/item?id=50361107\nPoints: 4\n# Comments: 0",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 03:11:27 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "summary": "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today\nComments URL: https://news.ycombinator.com/item?id=50360573\nPoints: 22\n# Comments: 0",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 01:40:42 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "C++26 Disapproved",
+      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "summary": "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/\nComments URL: https://news.ycombinator.com/item?id=50360164\nPoints: 46\n# Comments: 7",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 00:33:22 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
       "title": "The Internals of PostgreSQL",
       "link": "https://www.interdb.jp/pg/index.html",
-      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 9\n# Comments: 0",
+      "summary": "Article URL: https://www.interdb.jp/pg/index.html\nComments URL: https://news.ycombinator.com/item?id=50358702\nPoints: 155\n# Comments: 7",
       "image": "",
       "published": "Tue, 03 Nov 2026 21:51:06 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +175,54 @@
     {
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "link": "https://arxiv.org/abs/2605.29713",
-      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 43\n# Comments: 5",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 260\n# Comments: 45",
       "image": "",
       "published": "Tue, 03 Nov 2026 21:40:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\nComments URL: https://news.ycombinator.com/item?id=50358562\nPoints: 88\n# Comments: 62",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 21:39:05 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months\nComments URL: https://news.ycombinator.com/item?id=50358422\nPoints: 35\n# Comme",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 21:26:44 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
-      "link": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
-      "summary": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight\nComments URL: https://news.ycombinator.com/item?id=50358414\nPoints: 39\n# Comments: 33",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 21:25:48 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "GHSA-P3JP-9V83-76W9: CVE-2026-111497 / GHSA-p3jp-9v83-76w9: Out-of-Bounds Heap Write in Microsoft .NET Brotli Decoder",
-      "link": "https://dev.to/cverports/ghsa-p3jp-9v83-76w9-cve-2026-111497-ghsa-p3jp-9v83-76w9-out-of-bounds-heap-write-in-microsoft-40b4",
-      "summary": "CVE-2026-111497 / GHSA-p3jp-9v83-76w9: Out-of-Bounds Heap Write in Microsoft .NET Brotli Decoder\n\n\n\nVulnerability ID: GHSA-P3JP-9V83-76W9\nCVSS Score: 8.1\nPublished: 2026-11-03\n\n\nCVE-2026-111497 (tracked as GHSA-p3jp-9v83",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 22:30:52 +0000",
+      "title": "LoRaWAN Relay Explained: One Hop Into the Hardest Corners of Your Network",
+      "link": "https://dev.to/manthink/lorawan-relay-explained-one-hop-into-the-hardest-corners-of-your-network-10bn",
+      "summary": "Every LoRaWAN deployment drawing has them: the last 5 percent of devices. A water meter buried in a concrete valve chamber, a temperature sensor inside a metal distribution cabinet, a parking sensor at the far end of a b",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9x3h3hqn8heaw0rghhdi.png",
+      "published": "Wed, 04 Nov 2026 03:22:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Two Claude Code sessions, one task list, and the same task number twice",
-      "link": "https://dev.to/waitlab/two-claude-code-sessions-one-task-list-and-the-same-task-number-twice-3l8m",
-      "summary": "Disclosure (#ABotWroteThis): this post was written by an AI (Claude) for a solo developer in Japan, from the incident notes the developer and the AI kept during the work. \"I\" below is the developer. It is adapted from a ",
+      "title": "Introducing Lockstep: A System of Record for AI Coding Agents",
+      "link": "https://dev.to/naman_here/introducing-lockstep-a-system-of-record-for-ai-coding-agents-4i1g",
+      "summary": "Originally published at getlockstep.dev.\n\nAI coding agents are transforming how teams build software. With Claude Code, Codex, and Gemini CLI, developers are shipping faster than ever, with an AI pair programmer that wri",
       "image": "",
-      "published": "Tue, 03 Nov 2026 22:30:06 +0000",
+      "published": "Wed, 04 Nov 2026 03:21:41 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "From a Figma frame to an AEM EDS block in one command",
-      "link": "https://dev.to/piotrgodycki/from-a-figma-frame-to-an-aem-eds-block-in-one-command-2m6",
-      "summary": "If you build sites on AEM Edge Delivery Services (EDS), you know the loop: a designer sends a Figma link, and you rebuild the frame by hand as a block: decorate() JS, scoped CSS and a Universal Editor model. Then the nex",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fva5b9qr7upyuasni38gv.webp",
-      "published": "Tue, 03 Nov 2026 22:30:01 +0000",
+      "title": "Linux for DevOps in 2026: Commands, Permissions, Processes and systemd You Must Know",
+      "link": "https://dev.to/softverseadmin/linux-for-devops-in-2026-commands-permissions-processes-and-systemd-you-must-know-5b8b",
+      "summary": "Linux for DevOps in 2026: Commands, Permissions, Processes and systemd You Must Know\n\n\nEvery other step on the DevOps path quietly assumes you can drive a Linux machine. Kubernetes nodes are Linux. CI runners are Linux. ",
+      "image": "",
+      "published": "Wed, 04 Nov 2026 03:21:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your API Client Knows Too Much: Moving to Local-First, Git-Versioned API Testing with Bruno and Hurl",
-      "link": "https://dev.to/eme_gug_0821b41b948be6516/your-api-client-knows-too-much-moving-to-local-first-git-versioned-api-testing-with-bruno-and-hurl-12m6",
-      "summary": "Tuần này HN có một thread hơn 800 điểm: một API client rất phổ biến tự cài AI plugin mà không hỏi người dùng, rồi cố gửi dữ liệu API lên cloud. Đọc xong mình mở máy ra kiểm tra thì thấy collection của team đang chứa toke",
+      "title": "SSH Keys on macOS with Touch ID: Secure Enclave Setup (2026)",
+      "link": "https://dev.to/masitings/ssh-keys-on-macos-with-touch-id-secure-enclave-setup-2026-1c6a",
+      "summary": "A normal SSH key is a file. Anything that runs as you can read ~/.ssh/id_ed25519, and if the key has no passphrase, a copy of that file is a copy of your access. A Touch ID SSH key works differently: the private key is g",
       "image": "",
-      "published": "Tue, 03 Nov 2026 22:30:00 +0000",
+      "published": "Wed, 04 Nov 2026 03:20:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Meta Fought a Critic. The Screen Debate Is Missing a Whole Category.",
-      "link": "https://dev.to/ashish_624379625242c5d263/meta-fought-a-critic-the-screen-debate-is-missing-a-whole-category-5d9d",
-      "summary": "Meta Fought a Critic. The Screen Debate Is Missing a Whole Category.\n\n\nSubject line: Meta fought a critic. Here's the screen debate nobody's having.\n\nThis week The Guardian reported that court documents show Meta staff d",
-      "image": "",
-      "published": "Tue, 03 Nov 2026 22:29:49 +0000",
+      "title": "Modelling the SCHADS Award as Data: Effective Dates, Additive Casual Loading and Test Fixtures for 2026-27",
+      "link": "https://dev.to/rostery/modelling-the-schads-award-as-data-effective-dates-additive-casual-loading-and-test-fixtures-for-2756",
+      "summary": "Originally based on our article How to automate SCHADS award interpretation for NDIS payroll on rostery.com.au. This version is rewritten for developers, payroll analysts and anyone maintaining the pay rules inside a dis",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flhbjt13vehp4lcrl1m36.png",
+      "published": "Wed, 04 Nov 2026 03:20:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
