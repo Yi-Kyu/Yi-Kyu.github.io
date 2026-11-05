@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-05T13:32:39.049071Z",
+  "updated": "2026-11-05T22:56:37.542795Z",
   "articles": [
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
+      "published": "Thu, 05 Nov 2026 22:12:46 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the artificial intelligence ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
+      "published": "Thu, 05 Nov 2026 22:12:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach place",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg",
+      "published": "Thu, 05 Nov 2026 20:11:10 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed.&nbsp;\n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png",
+      "published": "Thu, 05 Nov 2026 17:55:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
@@ -11,83 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg",
-      "published": "Thu, 05 Nov 2026 15:36:19 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users sha",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg",
-      "published": "Thu, 05 Nov 2026 14:43:28 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg",
-      "published": "Thu, 05 Nov 2026 14:12:03 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.\n\nThe exploit lets anyone who can reach a swi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg",
-      "published": "Thu, 05 Nov 2026 12:36:33 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and au",
       "image": "",
-      "published": "Thu, 05 Nov 2026 04:18:29 -0500",
+      "published": "Thu, 05 Nov 2026 16:30:30 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 16:31:18 -0500",
+      "published": "Thu, 05 Nov 2026 15:15:08 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 15:58:19 -0500",
+      "published": "Thu, 05 Nov 2026 14:24:26 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an ",
       "image": "",
-      "published": "Wed, 04 Nov 2026 14:05:19 -0500",
+      "published": "Thu, 05 Nov 2026 12:45:29 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
       "image": "",
-      "published": "Wed, 04 Nov 2026 13:02:56 -0500",
+      "published": "Thu, 05 Nov 2026 11:24:26 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Sshole",
-      "link": "https://sshhole.com",
-      "summary": "Article URL: https://sshhole.com\nComments URL: https://news.ycombinator.com/item?id=50378228\nPoints: 275\n# Comments: 58",
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 58\n# Comments: 10",
       "image": "",
-      "published": "Thu, 05 Nov 2026 12:19:02 +0000",
+      "published": "Thu, 05 Nov 2026 22:17:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "link": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6p2\nComments URL: https://news.ycombinator.com/item?id=50377976\nPoints: 15\n# Comments: 2",
+      "title": "$2.5T has been wiped from US stocks",
+      "link": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
+      "summary": "Article URL: https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks\nComments URL: https://news.ycombinator.com/item?id=50384822\nPoints: 57\n# Comments: 34",
       "image": "",
-      "published": "Thu, 05 Nov 2026 11:40:30 +0000",
+      "published": "Thu, 05 Nov 2026 21:39:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Awesome repositories are no longer awesome",
-      "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-      "summary": "Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/\nComments URL: https://news.ycombinator.com/item?id=50377821\nPoints: 81\n# Comments: 38",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 158\n# Comments: 45",
       "image": "",
-      "published": "Thu, 05 Nov 2026 11:16:51 +0000",
+      "published": "Thu, 05 Nov 2026 20:43:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-      "link": "https://hachyderm.io/@damienmiller/117563026759098135",
-      "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135\nComments URL: https://news.ycombinator.com/item?id=50377221\nPoints: 97\n# Comments: 36",
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\nComments URL: https://news.ycombinator.com/item?id=50383963\nPoints: 53\n# Comments: 1",
       "image": "",
-      "published": "Thu, 05 Nov 2026 09:46:17 +0000",
+      "published": "Thu, 05 Nov 2026 20:21:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/\nComments URL: https://news.ycombinator.com/item?id=50377078\nPoints: 91\n# Comments: 46",
+      "title": "The Cost of Blogging",
+      "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+      "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/\nComments URL: https://news.ycombinator.com/item?id=50383877\nPoints: 28\n# Comments: 21",
       "image": "",
-      "published": "Thu, 05 Nov 2026 09:29:12 +0000",
+      "published": "Thu, 05 Nov 2026 20:14:25 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Create Videos With Google Antigravity CLI",
-      "link": "https://dev.to/sheen_417f0f3a7f4/how-to-create-videos-with-google-antigravity-cli-56hp",
-      "summary": "Google Antigravity can direct a finished video from a written brief, as long as video software handles the frames. It plans the scenes, edits the project files, runs the render command and checks what came back. Paired w",
+      "title": "How Do I Backup and Restore a SQL Server Database in SSMS? (Step by Step, 2026)",
+      "link": "https://dev.to/visualstudiolearn/how-do-i-backup-and-restore-a-sql-server-database-in-ssms-step-by-step-2026-1p60",
+      "summary": "Back up a SQL Server database in SSMS to a .bak file, break it, then restore it back — that is this whole post, in that order. We take a full backup of the DemoDb database from the previous tutorial, delete a row and cor",
       "image": "",
-      "published": "Thu, 05 Nov 2026 13:29:25 +0000",
+      "published": "Thu, 05 Nov 2026 22:45:00 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Four countries, four currencies, four Shopify orgs, one engineer: how I run the stack",
-      "link": "https://dev.to/fahadazhar1/four-countries-four-currencies-four-shopify-orgs-one-engineer-how-i-run-the-stack-1i00",
-      "summary": "I look after four Shopify stores for the same brand. One in the UK, one in Pakistan, one in Saudi Arabia, one in the UAE. Pounds, rupees, riyals and dirhams. In the UK people pay by card; in Pakistan most people still wa",
+      "title": "Compliance packs for regulated APIs: PCI-DSS and SOC 2 as code",
+      "link": "https://dev.to/manojkagitha/compliance-packs-for-regulated-apis-pci-dss-and-soc-2-as-code-58ak",
+      "summary": "Compliance packs for regulated APIs: PCI-DSS and SOC 2 as code\n\n\nEvery regulated API I have onboarded followed the same pattern. The team\nbuilds the API, wires up auth, ships to staging, and then someone from\nsecurity as",
       "image": "",
-      "published": "Thu, 05 Nov 2026 13:28:45 +0000",
+      "published": "Thu, 05 Nov 2026 22:44:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "AWS MLA-C01 to MLA-C02: What's Changing and What to Do Now",
-      "link": "https://dev.to/ondrejka/aws-mla-c01-to-mla-c02-whats-changing-and-what-to-do-now-la",
-      "summary": "AWS Certified Machine Learning Engineer - Associate has moved from MLA-C01 to MLA-C02. According to the AWS Training and Certification September 2026 announcement, the last day to sit MLA-C01 in English was 28 September ",
+      "title": "HalfBeat — the interview coach that scores how fast you come back down",
+      "link": "https://dev.to/memeshe/halfbeat-the-interview-coach-that-scores-how-fast-you-come-back-down-4m15",
+      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge\n\n\n  \n  \n  What I Built\n\n\nYou have an interview on Thursday. You practise the answers, and you practise them well — you know\nthe STAR structure, you have the",
       "image": "",
-      "published": "Thu, 05 Nov 2026 13:28:33 +0000",
+      "published": "Thu, 05 Nov 2026 22:44:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Managing Multiple Apps in One Google Play Console Account: A Practical System",
-      "link": "https://dev.to/playconsolestore1/managing-multiple-apps-in-one-google-play-console-account-a-practical-system-1plo",
-      "summary": "One Play Console account can hold many apps — but \"can\" and \"should manage well\" are different things. Once you're past three or four listings, the default dashboard becomes a swamp of release tracks, store listings, pol",
+      "title": "Paid Newsletters Lose Readers at the Card, Not the Content",
+      "link": "https://dev.to/swipe-again/paid-newsletters-lose-readers-at-the-card-not-the-content-58n6",
+      "summary": "Ask a newsletter writer why paid subscribers leave and they will usually talk about content: a weak issue, a topic that missed, a cadence that slipped. Those exits are real, and they are at least visible — the reader cho",
       "image": "",
-      "published": "Thu, 05 Nov 2026 13:27:46 +0000",
+      "published": "Thu, 05 Nov 2026 22:43:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Making Appium Inspector Work with Flutter Apps: Record, Replay, and Run on Real Devices",
-      "link": "https://dev.to/horimasaaki/making-appium-inspector-work-with-flutter-apps-record-replay-and-run-on-real-devices-1a3b",
-      "summary": "Appium can drive Flutter apps through the Appium Flutter Driver, which speaks the same protocol as Flutter's own flutter_driver. Appium Inspector, the GUI most people use to explore an app and record a first test, does n",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fykjq7z0tzj3p4nyj0pv9.png",
-      "published": "Thu, 05 Nov 2026 13:26:23 +0000",
+      "title": "The Fitbit Web API was switched off on 2 November. Here's a Python path to the Google Health API",
+      "link": "https://dev.to/msavas2544/the-fitbit-web-api-was-switched-off-on-2-november-heres-a-python-path-to-the-google-health-api-38kg",
+      "summary": "The legacy Fitbit Web API and its OAuth endpoints were scheduled to be turned off on 2 November 2026. Apps that still call it stop receiving Fitbit and Pixel Watch data. The replacement is the Google Health API v4, and t",
+      "image": "",
+      "published": "Thu, 05 Nov 2026 22:42:16 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Taming Typography: Building a Modern CSS Reset",
+      "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
+      "summary": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\n\nTaming Typography: Building a Modern",
+      "image": "",
+      "published": "Thu, 05 Nov 2026 14:55:31 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "A super scary way to go about tables using other layout techniques, like CSS Grid.\n\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
       "image": "",
       "published": "Thu, 29 Oct 2026 13:47:08 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-      "link": "https://css-tricks.com/whats-important-19/",
-      "summary": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no fill",
-      "image": "",
-      "published": "Tue, 27 Oct 2026 15:09:16 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
