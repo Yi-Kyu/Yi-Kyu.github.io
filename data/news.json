@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:56:37.542795Z",
+  "updated": "2026-11-06T03:47:35.327008Z",
   "articles": [
     {
       "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "image": "",
+      "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
       "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and au",
@@ -79,15 +88,6 @@
       "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an ",
       "image": "",
       "published": "Thu, 05 Nov 2026 12:45:29 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 11:24:26 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "link": "https://github.com/anthropics/claude-code/issues/107757",
-      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 58\n# Comments: 10",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "summary": "Article URL: https://github.com/dsx-ai-factory/nvke\nComments URL: https://news.ycombinator.com/item?id=50387738\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Thu, 05 Nov 2026 22:17:15 +0000",
+      "published": "Fri, 06 Nov 2026 03:16:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "$2.5T has been wiped from US stocks",
-      "link": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks",
-      "summary": "Article URL: https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks\nComments URL: https://news.ycombinator.com/item?id=50384822\nPoints: 57\n# Comments: 34",
+      "title": "Claude was faster and cheaper. We took the scenic route anyway",
+      "link": "https://blog.grainulation.org/verify-then-vote/",
+      "summary": "Article URL: https://blog.grainulation.org/verify-then-vote/\nComments URL: https://news.ycombinator.com/item?id=50387623\nPoints: 10\n# Comments: 0",
       "image": "",
-      "published": "Thu, 05 Nov 2026 21:39:26 +0000",
+      "published": "Fri, 06 Nov 2026 02:59:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844\nComments URL: https://news.ycombinator.com/item?id=50384233\nPoints: 158\n# Comments: 45",
+      "title": "Closed AI models dominate the price-performance frontier",
+      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\nComments URL: https://news.ycombinator.com/item?id=50387546\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Thu, 05 Nov 2026 20:43:42 +0000",
+      "published": "Fri, 06 Nov 2026 02:49:56 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "summary": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/\nComments URL: https://news.ycombinator.com/item?id=50383963\nPoints: 53\n# Comments: 1",
+      "title": "Castration extends life span in mice",
+      "link": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+      "summary": "Article URL: https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests\nComments URL: https://news.ycombinator.com/item?id=50387470\nPoints: 5\n# Comments: 2",
       "image": "",
-      "published": "Thu, 05 Nov 2026 20:21:43 +0000",
+      "published": "Fri, 06 Nov 2026 02:38:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Cost of Blogging",
-      "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-      "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/\nComments URL: https://news.ycombinator.com/item?id=50383877\nPoints: 28\n# Comments: 21",
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "link": "https://github.com/matthewmrichter/mooftcp",
+      "summary": "Article URL: https://github.com/matthewmrichter/mooftcp\nComments URL: https://news.ycombinator.com/item?id=50386789\nPoints: 18\n# Comments: 10",
       "image": "",
-      "published": "Thu, 05 Nov 2026 20:14:25 +0000",
+      "published": "Fri, 06 Nov 2026 00:54:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Do I Backup and Restore a SQL Server Database in SSMS? (Step by Step, 2026)",
-      "link": "https://dev.to/visualstudiolearn/how-do-i-backup-and-restore-a-sql-server-database-in-ssms-step-by-step-2026-1p60",
-      "summary": "Back up a SQL Server database in SSMS to a .bak file, break it, then restore it back — that is this whole post, in that order. We take a full backup of the DemoDb database from the previous tutorial, delete a row and cor",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 22:45:00 +0000",
+      "title": "Gemini Omni 1.2 Flash o Veo: cómo elegir una API de video para tu app",
+      "link": "https://dev.to/roobia/gemini-omni-12-flash-o-veo-como-elegir-una-api-de-video-para-tu-app-2ihk",
+      "summary": "Respuesta rápida: Desarrolla sobre Gemini Omni 1.2 Flash si quieres una sola clave de API, edición conversacional o clips de hasta 15 segundos. Elige Veo 3.1 solo si ya operas en Google Cloud y necesitas sus controles de",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ff9purbzebb1n030udtrc.png",
+      "published": "Fri, 06 Nov 2026 03:46:26 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Compliance packs for regulated APIs: PCI-DSS and SOC 2 as code",
-      "link": "https://dev.to/manojkagitha/compliance-packs-for-regulated-apis-pci-dss-and-soc-2-as-code-58ak",
-      "summary": "Compliance packs for regulated APIs: PCI-DSS and SOC 2 as code\n\n\nEvery regulated API I have onboarded followed the same pattern. The team\nbuilds the API, wires up auth, ships to staging, and then someone from\nsecurity as",
+      "title": "Measuring the Gap Between Killing a Request and Killing Its Side Effect",
+      "link": "https://dev.to/enjoy_kumawat/measuring-the-gap-between-killing-a-request-and-killing-its-side-effect-2280",
+      "summary": "A post trending this week asks a question I'd never actually tested: you abort the LLM's request, but did you actually stop the AI? Most of the discussion around that is about model inference, but the same question appli",
       "image": "",
-      "published": "Thu, 05 Nov 2026 22:44:26 +0000",
+      "published": "Fri, 06 Nov 2026 03:46:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "HalfBeat — the interview coach that scores how fast you come back down",
-      "link": "https://dev.to/memeshe/halfbeat-the-interview-coach-that-scores-how-fast-you-come-back-down-4m15",
-      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge\n\n\n  \n  \n  What I Built\n\n\nYou have an interview on Thursday. You practise the answers, and you practise them well — you know\nthe STAR structure, you have the",
+      "title": "From Four Meter Readings to W/kg: The Python Behind a Core Loss Number",
+      "link": "https://dev.to/goessteel/from-four-meter-readings-to-wkg-the-python-behind-a-core-loss-number-3in0",
+      "summary": "`Every coil of electrical steel ships with a mill certificate, and the number everyone reads first is core loss: something like P1.7/50 = 1.05 W/kg. Transformer designers build loss budgets on it and purchase orders are ",
       "image": "",
-      "published": "Thu, 05 Nov 2026 22:44:11 +0000",
+      "published": "Fri, 06 Nov 2026 03:45:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Paid Newsletters Lose Readers at the Card, Not the Content",
-      "link": "https://dev.to/swipe-again/paid-newsletters-lose-readers-at-the-card-not-the-content-58n6",
-      "summary": "Ask a newsletter writer why paid subscribers leave and they will usually talk about content: a weak issue, a topic that missed, a cadence that slipped. Those exits are real, and they are at least visible — the reader cho",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 22:43:56 +0000",
+      "title": "Part 17: Build 3a — SAP: tools in Integration Suite and SAP as system of record",
+      "link": "https://dev.to/thasha/part-17-build-3a-sap-tools-in-integration-suite-and-sap-as-system-of-record-3bl8",
+      "summary": "Part 17 · One Agent, Five Platforms\n\nThe third platform is different from the first two. MuleSoft and Boomi sit between the agent and the ERP. With SAP, the vendor that owns the system of record also offers to host the t",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fg237hljp2ywutrg4b8qk.png",
+      "published": "Fri, 06 Nov 2026 03:45:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Fitbit Web API was switched off on 2 November. Here's a Python path to the Google Health API",
-      "link": "https://dev.to/msavas2544/the-fitbit-web-api-was-switched-off-on-2-november-heres-a-python-path-to-the-google-health-api-38kg",
-      "summary": "The legacy Fitbit Web API and its OAuth endpoints were scheduled to be turned off on 2 November 2026. Apps that still call it stop receiving Fitbit and Pixel Watch data. The replacement is the Google Health API v4, and t",
+      "title": "I Tested Whether My Coding Agent's Rules Hold Up Better as Markdown or as a Git Hook",
+      "link": "https://dev.to/enjoy_kumawat/i-tested-whether-my-coding-agents-rules-hold-up-better-as-markdown-or-as-a-git-hook-1bla",
+      "summary": "This repo's CLAUDE.md has a section near the top labeled \"MANDATORY routing rules.\" It tells any agent working in the repo that a Bash command containing curl or wget \"is intercepted and replaced with an error message. D",
       "image": "",
-      "published": "Thu, 05 Nov 2026 22:42:16 +0000",
+      "published": "Fri, 06 Nov 2026 03:45:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
