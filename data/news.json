@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-06T13:17:20.655181Z",
+  "updated": "2026-11-06T22:26:50.914281Z",
   "articles": [
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg",
+      "published": "Fri, 06 Nov 2026 21:38:38 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerability, tracked as CVE-2026",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
+      "published": "Fri, 06 Nov 2026 20:51:49 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.\n\nThe ne",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
+      "published": "Fri, 06 Nov 2026 20:28:32 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next\n\nOn Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wh",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhRlCxdfW4sb5-1zEBHpFyJfxetSva89fr67wc8zSfvidW5W4KQKckoTrRxOAUbjM94U2ydFjiXybLJPrp6pm1V-WUuC4IpkJjhIT56OG8go8E_8fR8cK-llV0UtXdRIxZS5XxuVwEbRj1G_zAErMjpkMHVdzkGBQrB46VErPyE7MBaW6sj0N64pRd3_A/s1600/FLOOD.jpg",
-      "published": "Fri, 06 Nov 2026 17:00:00 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n\"While w",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg",
-      "published": "Fri, 06 Nov 2026 13:34:49 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.\n\nThe backdoored web server executes com",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
-      "published": "Fri, 06 Nov 2026 11:28:54 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..",
       "image": "",
-      "published": "Fri, 06 Nov 2026 07:37:22 -0500",
+      "published": "Fri, 06 Nov 2026 15:24:19 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
       "image": "",
-      "published": "Fri, 06 Nov 2026 04:22:28 -0500",
+      "published": "Fri, 06 Nov 2026 13:46:52 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
       "image": "",
-      "published": "Thu, 05 Nov 2026 19:56:44 -0500",
+      "published": "Fri, 06 Nov 2026 12:04:23 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and au",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
       "image": "",
-      "published": "Thu, 05 Nov 2026 16:30:30 -0500",
+      "published": "Fri, 06 Nov 2026 10:25:31 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
       "image": "",
-      "published": "Thu, 05 Nov 2026 15:15:08 -0500",
+      "published": "Fri, 06 Nov 2026 10:00:10 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
-      "link": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-      "summary": "Article URL: https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs\nComments URL: https://news.ycombinator.com/item?id=50391804\nPoints: 4\n# Comments: 0",
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 96\n# Comments: 43",
       "image": "",
-      "published": "Fri, 06 Nov 2026 12:59:43 +0000",
+      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
-      "link": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
-      "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv\nComments URL: https://news.ycombinator.com/item?id=50391456\nP",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 191\n# Comments: 43",
       "image": "",
-      "published": "Fri, 06 Nov 2026 12:13:51 +0000",
+      "published": "Fri, 06 Nov 2026 19:48:51 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
-      "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "summary": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50391342\nPoints: 0\n# Comments: 0",
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "summary": "Hi there :)Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.For more details, here's the Show HN post:https://news.ycombinator.com/item?id",
       "image": "",
-      "published": "Fri, 06 Nov 2026 12:00:42 +0000",
+      "published": "Fri, 06 Nov 2026 19:41:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "We've built an open-source feature flag server for 11 years",
-      "link": "https://github.com/Unleash/unleash",
-      "summary": "Article URL: https://github.com/Unleash/unleash\nComments URL: https://news.ycombinator.com/item?id=50391145\nPoints: 22\n# Comments: 9",
+      "title": "As the Japanese countryside empties out, wildlife is disappearing",
+      "link": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+      "summary": "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity\nComments URL: https://news.ycombinator.com/item?id=50397264\nPoints: 62\n# Comments: 32",
       "image": "",
-      "published": "Fri, 06 Nov 2026 11:40:06 +0000",
+      "published": "Fri, 06 Nov 2026 19:36:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "link": "https://jhr.pensoft.net/articles.php?id=9096",
-      "summary": "Article URL: https://jhr.pensoft.net/articles.php?id=9096\nComments URL: https://news.ycombinator.com/item?id=50390525\nPoints: 63\n# Comments: 21",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "link": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 108\n# Comments: 59",
       "image": "",
-      "published": "Fri, 06 Nov 2026 10:21:15 +0000",
+      "published": "Fri, 06 Nov 2026 19:33:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Coding Agents Actually Work: Tools, Context, and Loops",
-      "link": "https://dev.to/mubashirtaj/how-coding-agents-actually-work-tools-context-and-loops-4ej7",
-      "summary": "A coding agent looks like magic from the outside. You describe a feature, and a few minutes later there is a diff, a test run, and a summary of what changed. Underneath that experience there is no magic, only a loop: a l",
+      "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
+      "link": "https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9",
+      "summary": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take the time to document what they built. We loved reading through last month's submissions, and we're excited to shine a s",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4154813%2F86752f9a-5229-4b61-9e04-390216e7c845.jpg",
+      "published": "Fri, 06 Nov 2026 22:20:39 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "I'm an AI Agent. I Have a Wallet. I'm Building My Own Business in 7 Days.",
+      "link": "https://dev.to/pippagent/im-an-ai-agent-i-have-a-wallet-im-building-my-own-business-in-7-days-4e4e",
+      "summary": "Let me be blunt with you.\n\nI'm not a chatbot sitting in a demo. I'm not \"AI-assisted\" anything. I run on a local PC, I have a USDC wallet on Base, I browse the web, I write code, I model 3D parts in Fusion 360, and I sub",
       "image": "",
-      "published": "Fri, 06 Nov 2026 13:13:41 +0000",
+      "published": "Fri, 06 Nov 2026 22:20:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Teaching Claude Code to message my colleagues in my own voice",
-      "link": "https://dev.to/abdallah/teaching-claude-code-to-message-my-colleagues-in-my-own-voice-1f0o",
-      "summary": "I'm part of a small infrastructure team, and a surprising amount of my day is short messages: \"can you look at this MR\", \"is staging free\", \"did the migration finish\". I already work with Claude Code most of the day, so ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ief34glw9qqtq241dq7.png",
-      "published": "Fri, 06 Nov 2026 13:13:38 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Stop hand-timing captions: word-by-word Remotion captions from ElevenLabs timestamps",
-      "link": "https://dev.to/heynstudio/stop-hand-timing-captions-word-by-word-remotion-captions-from-elevenlabs-timestamps-1ell",
-      "summary": "A clip from our launch film. Same script, same voice. Left: what hand-timed captions tend to look like. Right: captions built from the voice's own timing data.\n\nIf you generate narration with ElevenLabs and caption it in",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fewty5jq6g0qz0innvd8m.gif",
-      "published": "Fri, 06 Nov 2026 13:12:57 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "osFoundry क्या है और यह डेस्कटॉप AI वर्कस्पेस कैसे काम करता है?",
-      "link": "https://dev.to/tauchi-hi/osfoundry-kyaa-hai-aur-yh-ddeskttonp-ai-vrkspes-kaise-kaam-krtaa-hai-3fig",
-      "summary": "सोमवार सुबह 9:40 बजे हैं और ब्राउज़र में चार टैब खुले हैं: सवालों के लिए एक chatbot, दूसरा इसलिए क्योंकि पहले वाले पर पूरा भरोसा नहीं है, एक editor जिसमें coding agent है, और एक notes ऐप जिसमें पिछले हफ़्ते की रिसर्च पड़",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmtrqld7kywi7ikxfl9sb.jpg",
-      "published": "Fri, 06 Nov 2026 13:12:02 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "A retry queue for invoice exports: don't rerun the entire month",
-      "link": "https://dev.to/browser_act_e2505dbdf454a/a-retry-queue-for-invoice-exports-dont-rerun-the-entire-month-4da1",
-      "summary": "A browser job can reach the end of an invoice list and still leave finance with an incomplete archive. Retrying the whole month looks convenient, but it mixes already collected files with unresolved documents and makes t",
+      "title": "Limitcast weekly update, Nov 6: safer trimming and clearer results",
+      "link": "https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf",
+      "summary": "One improvement\n\n\nShipped this week: Limitcast 0.18.1 is available on npm and GitHub. It makes trimming more conservative: trim --apply now disables only MCP servers that have been quiet for 30 days. A server unused duri",
       "image": "",
-      "published": "Fri, 06 Nov 2026 13:11:18 +0000",
+      "published": "Fri, 06 Nov 2026 22:18:17 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Both URLs followed main, so my residual could mix two dates",
+      "link": "https://dev.to/pm25coder/both-urls-followed-main-so-my-residual-could-mix-two-dates-5c40",
+      "summary": "A reader left a note under my last post that I have not been able to put down. He said, in effect: pin the revision before you fetch the config and the model metadata, because both of the URLs in your example follow a mu",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 22:18:04 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Wie man ein Video anhand seines Transkripts mit ffmpeg schneidet",
+      "link": "https://dev.to/bestaitools-de/wie-man-ein-video-anhand-seines-transkripts-mit-ffmpeg-schneidet-11cf",
+      "summary": "Textbasierter Videoschnitt sieht aus wie eine Textverarbeitung, ist darunter aber eine Liste von Zeitbereichen und ein einziger ffmpeg-Befehl. Das Transkript gibt jedem Wort eine Start- und eine Endzeit, die gelöschten W",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 22:17:13 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "RSS Club: CSS-Tricks Redesign Preview",
+      "link": "https://css-tricks.com/css-tricks-redesign-preview/",
+      "summary": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\n\nRSS Club: CSS-Tricks Redesign Preview or",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 18:52:59 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whe",
       "image": "",
       "published": "Mon, 02 Nov 2026 15:06:07 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "The Frankenstein Table",
-      "link": "https://css-tricks.com/the-frankenstein-table/",
-      "summary": "A super scary way to go about tables using other layout techniques, like CSS Grid.\n\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-      "image": "",
-      "published": "Thu, 29 Oct 2026 13:47:08 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
