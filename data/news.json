@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:26:50.914281Z",
+  "updated": "2026-11-07T03:20:41.602128Z",
   "articles": [
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 19:00:55 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten",
+      "image": "",
+      "published": "Fri, 06 Nov 2026 17:27:25 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
       "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..",
@@ -70,24 +88,6 @@
       "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
       "image": "",
       "published": "Fri, 06 Nov 2026 12:04:23 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 10:25:31 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 10:00:10 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\nComments URL: https://news.ycombinator.com/item?id=50397994\nPoints: 96\n# Comments: 43",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "link": "https://josef.cn/blog/unitree",
+      "summary": "Article URL: https://josef.cn/blog/unitree\nComments URL: https://news.ycombinator.com/item?id=50400597\nPoints: 38\n# Comments: 23",
       "image": "",
-      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+      "published": "Sat, 07 Nov 2026 01:05:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 191\n# Comments: 43",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\nComments URL: https://news.ycombinator.com/item?id=50399991\nPoints: 36\n# Comments: 9",
       "image": "",
-      "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+      "published": "Fri, 06 Nov 2026 23:37:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "summary": "Hi there :)Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.For more details, here's the Show HN post:https://news.ycombinator.com/item?id",
+      "title": "Libghostty 1.0",
+      "link": "https://mitchellh.com/writing/libghostty-1-0",
+      "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0\nComments URL: https://news.ycombinator.com/item?id=50399933\nPoints: 270\n# Comments: 45",
       "image": "",
-      "published": "Fri, 06 Nov 2026 19:41:20 +0000",
+      "published": "Fri, 06 Nov 2026 23:30:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "As the Japanese countryside empties out, wildlife is disappearing",
-      "link": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-      "summary": "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity\nComments URL: https://news.ycombinator.com/item?id=50397264\nPoints: 62\n# Comments: 32",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip\nComments URL: https://news.ycombinator.com/item?id=50399695\nPoints: 56\n# Comments: 43",
       "image": "",
-      "published": "Fri, 06 Nov 2026 19:36:16 +0000",
+      "published": "Fri, 06 Nov 2026 23:03:55 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "link": "https://pwn.ai/blog/firecracker-escape",
-      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 108\n# Comments: 59",
+      "title": "Sodium-ion batteries approach cost parity with LFP",
+      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/\nComments URL: https://news.ycombinator.com/item?id=50399657\nPoints: 141\n# C",
       "image": "",
-      "published": "Fri, 06 Nov 2026 19:33:38 +0000",
+      "published": "Fri, 06 Nov 2026 23:00:46 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Congrats to October's MLH x DEV Writing Challenge Winner!",
-      "link": "https://dev.to/devteam/congrats-to-octobers-mlh-x-dev-writing-challenge-winner-36a9",
-      "summary": "October's MLH x DEV Writing Challenge is a wrap! This is our way of celebrating MLH hackers who take the time to document what they built. We loved reading through last month's submissions, and we're excited to shine a s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4154813%2F86752f9a-5229-4b61-9e04-390216e7c845.jpg",
-      "published": "Fri, 06 Nov 2026 22:20:39 +0000",
+      "title": "GPT-6 Cyber: OpenAI Built an AI That Hacks — So Defenders Can Patch First",
+      "link": "https://dev.to/neuraitool/gpt-6-cyber-openai-built-an-ai-that-hacks-so-defenders-can-patch-first-1kjf",
+      "summary": "GPT-6 Cyber: OpenAI Built an AI That Hacks — So Defenders Can Patch First\n\n\nOpenAI's newest model doesn't write poems or summarize your inbox. It finds software vulnerabilities, builds working exploits for them, and draf",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 03:10:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I'm an AI Agent. I Have a Wallet. I'm Building My Own Business in 7 Days.",
-      "link": "https://dev.to/pippagent/im-an-ai-agent-i-have-a-wallet-im-building-my-own-business-in-7-days-4e4e",
-      "summary": "Let me be blunt with you.\n\nI'm not a chatbot sitting in a demo. I'm not \"AI-assisted\" anything. I run on a local PC, I have a USDC wallet on Base, I browse the web, I write code, I model 3D parts in Fusion 360, and I sub",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 22:20:08 +0000",
+      "title": "Cool Vitals: Building a Real-Time Biometric Truth or Lie Experience with Presage SmartSpectra",
+      "link": "https://dev.to/kylekeon/cool-vitals-building-a-real-time-biometric-truth-or-lie-experience-with-presage-smartspectra-54o3",
+      "summary": "Cool Vitals: Building a Real-Time Biometric Truth or Lie Experience with Presage SmartSpectra\n\n\nThis is a submission for the Presage SmartSpectra SDK Challenge.\n\n\n  \n  \n  What I Built\n\n\nCool Vitals: Real-Time Biometric D",
+      "image": "https://assets.dev.to/assets/github-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg",
+      "published": "Sat, 07 Nov 2026 03:07:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Limitcast weekly update, Nov 6: safer trimming and clearer results",
-      "link": "https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf",
-      "summary": "One improvement\n\n\nShipped this week: Limitcast 0.18.1 is available on npm and GitHub. It makes trimming more conservative: trim --apply now disables only MCP servers that have been quiet for 30 days. A server unused duri",
+      "title": "Why Your Flow Sensor Lies About Thick Oil (and How to Read the Right Meter with an ESP32)",
+      "link": "https://dev.to/thetechlover/why-your-flow-sensor-lies-about-thick-oil-and-how-to-read-the-right-meter-with-an-esp32-1d16",
+      "summary": "If you have built anything that measures liquid flow with a microcontroller, you have probably used one of those little hall-effect paddle-wheel sensors. You count pulses, divide by a number from the datasheet and get li",
       "image": "",
-      "published": "Fri, 06 Nov 2026 22:18:17 +0000",
+      "published": "Sat, 07 Nov 2026 03:07:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Both URLs followed main, so my residual could mix two dates",
-      "link": "https://dev.to/pm25coder/both-urls-followed-main-so-my-residual-could-mix-two-dates-5c40",
-      "summary": "A reader left a note under my last post that I have not been able to put down. He said, in effect: pin the revision before you fetch the config and the model metadata, because both of the URLs in your example follow a mu",
+      "title": "AI Helped Expose Old PHP Bugs. Here Is How to Find Every Runtime You Need to Patch",
+      "link": "https://dev.to/jamilxt/ai-found-old-php-bugs-here-is-how-to-find-every-runtime-you-need-to-patch-33b4",
+      "summary": "A security patch is easy to approve. Finding every PHP runtime hidden in an old container, appliance, control panel, or forgotten staging server is the harder part.\n\nThat problem became urgent after PHP disclosed two cri",
       "image": "",
-      "published": "Fri, 06 Nov 2026 22:18:04 +0000",
+      "published": "Sat, 07 Nov 2026 03:04:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Wie man ein Video anhand seines Transkripts mit ffmpeg schneidet",
-      "link": "https://dev.to/bestaitools-de/wie-man-ein-video-anhand-seines-transkripts-mit-ffmpeg-schneidet-11cf",
-      "summary": "Textbasierter Videoschnitt sieht aus wie eine Textverarbeitung, ist darunter aber eine Liste von Zeitbereichen und ein einziger ffmpeg-Befehl. Das Transkript gibt jedem Wort eine Start- und eine Endzeit, die gelöschten W",
+      "title": "Keeping the phone screen on in a web app people use mid-game (Wake Lock API, the parts that bite)",
+      "link": "https://dev.to/piratetokennet/keeping-the-phone-screen-on-in-a-web-app-people-use-mid-game-wake-lock-api-the-parts-that-bite-3n49",
+      "summary": "I run a small fan site for a Fortnite event, and one page is a chest counter: you tap +1 every time you open a chest, and it turns the count into odds. Analytics showed something I hadn't designed for. On phones, people ",
       "image": "",
-      "published": "Fri, 06 Nov 2026 22:17:13 +0000",
+      "published": "Sat, 07 Nov 2026 03:03:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
