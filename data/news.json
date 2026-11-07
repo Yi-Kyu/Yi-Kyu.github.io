@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:57:50.100865Z",
+  "updated": "2026-11-07T17:16:28.670772Z",
   "articles": [
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 10:25:35 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use decepti",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 09:10:19 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
@@ -70,24 +88,6 @@
       "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [..",
       "image": "",
       "published": "Fri, 06 Nov 2026 15:24:19 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 13:46:52 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 12:04:23 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Upload Your RAM",
-      "link": "https://uploadyourram.org",
-      "summary": "Article URL: https://uploadyourram.org\nComments URL: https://news.ycombinator.com/item?id=50403214\nPoints: 77\n# Comments: 45",
+      "title": "How Long Can Life Wait?",
+      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait\nComments URL: https://news.ycombinator.com/item?id=50405789\nPoints: 12\n# Comments: 3",
       "image": "",
-      "published": "Sat, 07 Nov 2026 10:15:26 +0000",
+      "published": "Sat, 07 Nov 2026 16:22:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "summary": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\nComments URL: https://news.ycombinator.com/item?id=50403097\nPoints: 89\n# Comments: 25",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "link": "https://kevinboone.me/tpwin.html",
+      "summary": "Article URL: https://kevinboone.me/tpwin.html\nComments URL: https://news.ycombinator.com/item?id=50405678\nPoints: 28\n# Comments: 13",
       "image": "",
-      "published": "Sat, 07 Nov 2026 09:46:03 +0000",
+      "published": "Sat, 07 Nov 2026 16:06:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Port 0: The Port That Does Not Exist",
-      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "summary": "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/\nComments URL: https://news.ycombinator.com/item?id=50403063\nPoints: 9\n# Comments: 2",
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "link": "https://news.ycombinator.com/item?id=50405250",
+      "summary": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/Whenever XMPP or Matrix threads pop up on HN, several commenter",
       "image": "",
-      "published": "Sat, 07 Nov 2026 09:38:26 +0000",
+      "published": "Sat, 07 Nov 2026 15:14:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "link": "https://nfsu2.xyz/",
-      "summary": "Article URL: https://nfsu2.xyz/\nComments URL: https://news.ycombinator.com/item?id=50403052\nPoints: 46\n# Comments: 7",
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "summary": "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf\nComments URL: https://news.ycombinator.com/item?id=50404747\nPoints: 12\n# Comments: 4",
       "image": "",
-      "published": "Sat, 07 Nov 2026 09:36:36 +0000",
+      "published": "Sat, 07 Nov 2026 14:18:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Components of Agent Memory",
-      "link": "https://www.anthropic.com/research/components-of-agent-memory",
-      "summary": "Article URL: https://www.anthropic.com/research/components-of-agent-memory\nComments URL: https://news.ycombinator.com/item?id=50402212\nPoints: 57\n# Comments: 29",
+      "title": "The $8 Linux Computer (2022)",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\nComments URL: https://news.ycombinator.com/item?id=50404599\nPoints: 96\n# Comments: 40",
       "image": "",
-      "published": "Sat, 07 Nov 2026 06:39:04 +0000",
+      "published": "Sat, 07 Nov 2026 14:00:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "ArtCraft: 13 Free Adobe Alternatives (2026 Guide)",
-      "link": "https://dev.to/theglitchfixer/artcraft-13-free-adobe-alternatives-2026-guide-43p0",
-      "summary": "ArtCraft: 13 Free Adobe Alternatives (2026 Guide)\n\n\nLast updated: October 31, 2026\n\nShort answer: ArtCraft is a suite of 13 free apps — the original 7 reimplement Adobe's most popular apps, while the 6 newer apps target ",
-      "image": "",
-      "published": "Sat, 07 Nov 2026 11:55:29 +0000",
+      "title": "Building a Switch courtroom where AI can negotiate but can't consent",
+      "link": "https://dev.to/harshil-sri/building-a-switch-courtroom-where-ai-can-negotiate-but-cant-consent-1g6k",
+      "summary": "A creative lead wants someone's portrait in a promo. That person wants to contribute, but doesn't want their face used. An AI can suggest a compromise. Who gets to say yes?\n\nI'm Harshil, a B.Tech AI/ML student in Delhi. ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1he7wmnoxp7zmmnjnuh9.png",
+      "published": "Sat, 07 Nov 2026 17:09:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building Ping Hunt: a GPS treasure hunt app for iOS",
-      "link": "https://dev.to/sorenbeckjensen/building-ping-hunt-a-gps-treasure-hunt-app-for-ios-1k97",
-      "summary": "Looking for a treasure hunt near you? Ping Hunt turns an ordinary walk into a GPS scavenger hunt — you follow waypoints to real places and match what you see against the viewfinder.\n\nI have been building Ping Hunt as a s",
+      "title": "Why Hindsight Needs Evidence Before Suggesting CI Fixes",
+      "link": "https://dev.to/suresh_sharma_dbdc4931a6d/why-hindsight-needs-evidence-before-suggesting-ci-fixes-32kp",
+      "summary": "Why Hindsight Needs Evidence Before Suggesting CI Fixes\n\nTwo CI failures can display almost identical error messages and still have different root causes.\n\nOne timeout might be caused by a slow network dependency. Anothe",
       "image": "",
-      "published": "Sat, 07 Nov 2026 11:55:15 +0000",
+      "published": "Sat, 07 Nov 2026 17:09:31 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemini Omni 1.2 Flash: Make 15-Second AI Videos Free",
-      "link": "https://dev.to/theglitchfixer/gemini-omni-12-flash-make-15-second-ai-videos-free-3241",
-      "summary": "Gemini Omni 1.2 Flash: Make 15-Second AI Videos Free\n\n\nLast updated: November 6, 2026\n\nShort answer: 3 free 15-second videos every month: Google's Gemini Omni 1.2 Flash creates 15-second AI video clips in Google Vids at ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flewvklneifucl0kkzwr9.jpg",
-      "published": "Sat, 07 Nov 2026 11:54:30 +0000",
+      "title": "My First Switch Hackathon: Setting Up an AI-Powered Workspace",
+      "link": "https://dev.to/pushkar_7129/my-first-switch-hackathon-setting-up-an-ai-powered-workspace-a50",
+      "summary": "My First Switch Hackathon: Setting Up an AI-Powered Workspace\n\n\n\n  \n  \n  Introduction\n\n\nFor the Flip the Switch Hackathon, I decided to explore how an AI-powered workspace could help organise and manage creative tasks.\n\n",
+      "image": "",
+      "published": "Sat, 07 Nov 2026 17:09:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I Built an AI Grandmother That Remembers Every Scammer",
-      "link": "https://dev.to/remochi/i-built-an-ai-grandmother-that-remembers-every-scammer-9hj",
-      "summary": "\"Inspector Sharma\" called again. Same CBI script, same fake case number, same threat about a money-laundering warrant in my name. The difference this time: the grandmother he was talking to had met him five times before,",
+      "title": "Libghostty 1.0: What a Stable C ABI for Terminal Emulation Actually Promises",
+      "link": "https://dev.to/chenyuan20509/libghostty-10-what-a-stable-c-abi-for-terminal-emulation-actually-promises-2a33",
+      "summary": "Twelve and a half million active users got a new terminal emulator this year, and most of them will never know. They did not download anything, and nobody asked them to switch. JetBrains moved the terminal inside Intelli",
       "image": "",
-      "published": "Sat, 07 Nov 2026 11:53:51 +0000",
+      "published": "Sat, 07 Nov 2026 17:09:04 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The mathematics of every AMM family, compared",
-      "link": "https://dev.to/blazephoenix_0bfac717a952/the-mathematics-of-every-amm-family-compared-3dej",
-      "summary": "This article was generated with AI and is republished from the BlazePhoenix blog.\n\nConstant product, concentrated liquidity and the stable invariants are three geometries, not three implementations of one idea: closed-fo",
+      "title": "Turn a GAN Beauty Demo Into a Release Decision: Build an Evidence Gate for Tencent RTC Beauty AR",
+      "link": "https://dev.to/susiewang/turn-a-gan-beauty-demo-into-a-release-decision-build-an-evidence-gate-for-tencent-rtc-beauty-ar-kn1",
+      "summary": "A polished GAN beauty demo can create momentum—and an uncomfortable question for the engineers in the room:\n\nWho decides whether this is actually ready to ship?\n\nThe model can generate an impressive effect. It cannot dec",
       "image": "",
-      "published": "Sat, 07 Nov 2026 11:53:44 +0000",
+      "published": "Sat, 07 Nov 2026 17:08:27 +0000",
       "source": "DEV Community",
       "category": "development"
     },
