@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-09T14:27:08.537931Z",
+  "updated": "2026-11-10T00:53:23.782920Z",
   "articles": [
+    {
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker used credentials for an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg",
+      "published": "Mon, 09 Nov 2026 23:21:21 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\nBoth releases downlo",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg",
+      "published": "Mon, 09 Nov 2026 23:06:28 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote acces",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg",
+      "published": "Mon, 09 Nov 2026 20:01:29 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
@@ -20,74 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a securi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg",
-      "published": "Mon, 09 Nov 2026 16:26:25 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and ask",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg",
-      "published": "Mon, 09 Nov 2026 15:31:21 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg",
-      "published": "Mon, 09 Nov 2026 14:31:50 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...",
       "image": "",
-      "published": "Mon, 09 Nov 2026 08:28:56 -0500",
+      "published": "Mon, 09 Nov 2026 18:52:12 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
       "image": "",
-      "published": "Mon, 09 Nov 2026 07:16:13 -0500",
+      "published": "Mon, 09 Nov 2026 17:09:33 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-pa",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, includin",
       "image": "",
-      "published": "Sun, 08 Nov 2026 10:43:08 -0500",
+      "published": "Mon, 09 Nov 2026 16:26:25 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
       "image": "",
-      "published": "Sat, 07 Nov 2026 10:25:35 -0500",
+      "published": "Mon, 09 Nov 2026 16:22:31 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use decepti",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at l",
       "image": "",
-      "published": "Sat, 07 Nov 2026 09:10:19 -0500",
+      "published": "Mon, 09 Nov 2026 13:32:42 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Children of Men: The Future Is a Mirror for the Present",
-      "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
-      "summary": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/\nComments URL: https://news.ycombinator.com/item?id=50425303\nPoints: 35\n# Comments: 7",
+      "title": "Horible Public Key Tricks",
+      "link": "https://maurycyz.com/projects/badcert/",
+      "summary": "Article URL: https://maurycyz.com/projects/badcert/\nComments URL: https://news.ycombinator.com/item?id=50434264\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Mon, 09 Nov 2026 13:27:01 +0000",
+      "published": "Tue, 10 Nov 2026 00:07:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Humans will never again create a project like Wikipedia",
-      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia\nComments URL: https://news.ycombinator.com/item?id=50424704\nPoints: 188\n# Comments: 127",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game\nComments URL: https://news.ycombinator.com/item?id=50433659\nPoints: 66\n# Comments: 36",
       "image": "",
-      "published": "Mon, 09 Nov 2026 12:30:20 +0000",
+      "published": "Mon, 09 Nov 2026 23:08:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fold Epic Paper Airplanes",
-      "link": "https://www.foldableflight.com",
-      "summary": "Article URL: https://www.foldableflight.com\nComments URL: https://news.ycombinator.com/item?id=50424581\nPoints: 228\n# Comments: 49",
+      "title": "Exact – a new cross platform UI framework by the Expo team",
+      "link": "https://github.com/expo/exact",
+      "summary": "Article URL: https://github.com/expo/exact\nComments URL: https://news.ycombinator.com/item?id=50433541\nPoints: 25\n# Comments: 11",
       "image": "",
-      "published": "Mon, 09 Nov 2026 12:19:22 +0000",
+      "published": "Mon, 09 Nov 2026 22:59:13 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "link": "https://github.com/samir-sarwar/samir-vllm",
-      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm\nComments URL: https://news.ycombinator.com/item?id=50424199\nPoints: 54\n# Comments: 6",
+      "title": "A year after the 100% AI mandate nobody understands our code",
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+      "summary": "https://redlib.catsarch.com/r/ClaudeCode/comments/1xq2n3t/a_...\n\nComments URL: https://news.ycombinator.com/item?id=50433079\nPoints: 87\n# Comments: 86",
       "image": "",
-      "published": "Mon, 09 Nov 2026 11:36:55 +0000",
+      "published": "Mon, 09 Nov 2026 22:19:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "What is malloc doing, anyway?",
-      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway\nComments URL: https://news.ycombinator.com/item?id=50424157\nPoints: 48\n# Comments: 8",
+      "title": "TPU 8tx and TPU 8i Max",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\nComments URL: https://news.ycombinator.com/item?id=50432831\nPoints: 183\n# Comments: 33",
       "image": "",
-      "published": "Mon, 09 Nov 2026 11:31:05 +0000",
+      "published": "Mon, 09 Nov 2026 21:56:57 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "49% of my Claude Code tool calls ran commands",
-      "link": "https://dev.to/dspv/49-of-my-claude-code-tool-calls-ran-commands-494g",
-      "summary": "In 58 days of my Claude Code sessions, 49% of tool calls ran shell commands. The call counts, cost at API list prices and cache figures from one machine.\n\nFor 58 active days I had been running Claude Code, yet I could no",
+      "title": "What It Costs to Run AI Agents in Production: A Worked Cost Model for Tokens, Sandboxes, Storage, and Networking",
+      "link": "https://dev.to/noahcontrolplane/what-it-costs-to-run-ai-agents-in-production-a-worked-cost-model-for-tokens-sandboxes-storage-25pk",
+      "summary": "In production, an AI agent’s cost is model tokens plus the infrastructure around them (orchestration services, code-execution sandboxes, networking, storage, and observability), and at moderate scale tokens usually domin",
       "image": "",
-      "published": "Mon, 09 Nov 2026 14:22:56 +0000",
+      "published": "Tue, 10 Nov 2026 00:51:23 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Tags: #cloudcomputing #iaas #aws #devops #beginners #technology",
-      "link": "https://dev.to/nahsang_lilian_8af99996c9/tags-cloudcomputing-iaas-aws-devops-beginners-technology-1kb4",
-      "summary": "Infrastructure as a Service (IaaS): Understanding Cloud Computing Through Amazon EC2\n\nIntroduction\n\nImagine you want to build a website, launch an application, or host an online business. Traditionally, you would need to",
+      "title": "Kubernetes cluster add-ons with one set of shared values",
+      "link": "https://dev.to/kadet-hub/kubernetes-cluster-add-ons-with-one-set-of-shared-values-222g",
+      "summary": "Before a cluster runs its first app, a small team usually adds the same\nthings: certificates, an admission policy, metrics and dashboards, a way to\nget secrets in, backups, and a tool that deploys from Git. Each of them ",
       "image": "",
-      "published": "Mon, 09 Nov 2026 14:22:50 +0000",
+      "published": "Tue, 10 Nov 2026 00:51:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "These are questions everyone in the industry are asking themselves now.",
-      "link": "https://dev.to/psznicx/these-are-questions-everyone-in-the-industry-are-asking-themselves-now-iij",
-      "summary": "We're Building AI to Replace Ourselves. What's the Plan?\n\n\n  \n      The hidden trap for new developers\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Sy",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3535771%2Fe22860d5-274b-43c9-819b-56b162e5bd5a.jpeg",
-      "published": "Mon, 09 Nov 2026 14:22:35 +0000",
+      "title": "How to Choose an AI Model Inference Service: Managed APIs vs ML Endpoints vs Serverless GPUs vs Self-Hosted Serving",
+      "link": "https://dev.to/noahcontrolplane/how-to-choose-an-ai-model-inference-service-managed-apis-vs-ml-endpoints-vs-serverless-gpus-vs-25m2",
+      "summary": "Choose an inference deployment option by model type (proprietary vs open-weight), traffic shape, latency target, model features, data control requirements, and cost model. Managed model APIs are the fastest way to start,",
+      "image": "",
+      "published": "Tue, 10 Nov 2026 00:50:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "We built Signature Maker: type, draw or upload a signature and save a clean file",
-      "link": "https://dev.to/pyxl/we-built-signature-maker-type-draw-or-upload-a-signature-and-save-a-clean-file-3bb6",
-      "summary": "Most people need an image of their signature only a few times a year, and usually in a hurry. An application form wants a file of exactly 140 × 60 pixels, under 20 KB. A letter needs a signature with no white box around ",
+      "title": "Behavioral vaccination: a 400-row mixed prime protects a behavior",
+      "link": "https://dev.to/mycute_97b39c4e34027570f9/behavioral-vaccination-a-400-row-mixed-prime-protects-a-behavior-25ac",
+      "summary": "Behavioral vaccination: a 400-row mixed prime protects a behavior\n\n\nThis is a cross-disciplinary experiment, not a container. Can a small \"vaccine\" adapter stop\na later topic adapter from erasing a sentiment behavior?\n\nT",
       "image": "",
-      "published": "Mon, 09 Nov 2026 14:22:28 +0000",
+      "published": "Tue, 10 Nov 2026 00:50:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Actually Organize Firefox Tabs (Without Keeping 30 Open)",
-      "link": "https://dev.to/weatherclockdash/how-to-actually-organize-firefox-tabs-without-keeping-30-open-2cjn",
-      "summary": "Browser tabs are fundamentally misused. Tabs were designed for switching between pages you are actively using. They became storage. We use them to remember things, bookmark things, hold context we might need later.\n\nThe ",
+      "title": "Regex Catastrophic Backtracking: The Timing Curve I Measured",
+      "link": "https://dev.to/raxxostudios/regex-catastrophic-backtracking-the-timing-curve-i-measured-1cm7",
+      "summary": "A nested-quantifier regex went from 46ms to 31.6 seconds as input length grew from 20 to 32 characters\nThe safe rewrite stayed under 0.2ms at every length I tested, no slowdown at all\nAt 34 characters the vulnerable patt",
       "image": "",
-      "published": "Mon, 09 Nov 2026 14:22:10 +0000",
+      "published": "Tue, 10 Nov 2026 00:49:35 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "CSS-Tricks, Version 20",
+      "link": "https://css-tricks.com/css-tricks-version-20/",
+      "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\n\nCSS-Tricks, Version 20 originally handwritten and published wi",
+      "image": "",
+      "published": "Mon, 09 Nov 2026 15:49:48 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\n\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should r",
       "image": "",
       "published": "Tue, 03 Nov 2026 14:50:32 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
-      "link": "https://css-tricks.com/whats-important-20/",
-      "summary": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whe",
-      "image": "",
-      "published": "Mon, 02 Nov 2026 15:06:07 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
