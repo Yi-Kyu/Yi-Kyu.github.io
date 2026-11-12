@@ -1,49 +1,76 @@
 {
-  "updated": "2026-11-12T04:28:20.828249Z",
+  "updated": "2026-11-12T14:01:46.284303Z",
   "articles": [
     {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vulnerabilities are list",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg",
-      "published": "Wed, 11 Nov 2026 21:42:46 +0530",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations against attacks between ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg",
+      "published": "Thu, 12 Nov 2026 17:39:14 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally int",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg",
-      "published": "Wed, 11 Nov 2026 21:04:27 +0530",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?\n\nA ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg",
+      "published": "Thu, 12 Nov 2026 17:32:51 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research teams said they identif",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1600/qliksense.jpg",
-      "published": "Wed, 11 Nov 2026 19:31:00 +0530",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our initial review, the serv",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg",
+      "published": "Thu, 12 Nov 2026 17:21:43 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg",
-      "published": "Wed, 11 Nov 2026 17:49:40 +0530",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on pu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8YVgw9hIWEYN0_qgaD6MVIZad0fOCu_J5Z4Cn2CDuMzcV7HOQ9Xt4E08l1nOo7uMjAyYqYP-bUy5zHisRW8cfeSVmJcCKYgCTI2y1MpRUwsM1I2cs0MsuoAy7VSGLyTPzonhKITzWPU1hTADZnFt5VTZhlt4eJohVas2tzhl47AOV3Cp53LC_uhlpVY/s1600/mt.jpg",
+      "published": "Thu, 12 Nov 2026 17:21:31 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. T",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png",
-      "published": "Wed, 11 Nov 2026 17:31:59 +0530",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked as CVE-2026-126325, c",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi01pvi78xYUtyxbtWQ4L5ddMr1yT2-WBSbAnp3wKXa-bpagXqtyQdxPqA43I1NxJGNLk4He30PS-GYUcd1sOaErtMAtNWL-qQUGfD0Y7wSxAzeYJXRf2lA5yFuznu8m2zRgf2llXMiR3w1H6YOOte5qs_DvRxcv0aPeOxWeIDybl1n58VlpuZPUJ0icWDL/s1600/ptc-flaw.jpg",
+      "published": "Thu, 12 Nov 2026 17:03:15 +0530",
       "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 07:11:11 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 05:24:07 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 04:38:00 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
       "image": "",
       "published": "Wed, 11 Nov 2026 17:56:21 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 16:27:40 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 15:54:20 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 11:24:18 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Lean Grimoire",
-      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\nComments URL: https://news.ycombinator.com/item?id=50462375\nPoints: 12\n# Comments: 2",
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "summary": "Article URL: https://ipo.anthropic.com/us/\nComments URL: https://news.ycombinator.com/item?id=50465829\nPoints: 203\n# Comments: 237",
       "image": "",
-      "published": "Thu, 12 Nov 2026 02:36:48 +0000",
+      "published": "Thu, 12 Nov 2026 11:46:41 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "summary": "Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/\nComments URL: https://news.ycombinator.com/item?id=50465453\nPoints: 30\n# Comme",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 10:46:20 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "link": "https://pron.github.io/posts/correctness-and-complexity",
+      "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity\nComments URL: https://news.ycombinator.com/item?id=50465352\nPoints: 145\n# Comments: 57",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 10:28:26 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "link": "https://www.getlazarus.org/forums/topic/17/",
+      "summary": "Article URL: https://www.getlazarus.org/forums/topic/17/\nComments URL: https://news.ycombinator.com/item?id=50463540\nPoints: 81\n# Comments: 28",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 05:49:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
       "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 38\n# Comments: 20",
+      "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 274\n# Comments: 133",
       "image": "",
       "published": "Thu, 12 Nov 2026 02:11:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "link": "https://github.com/tylertms/Stela",
-      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 78\n# Comments: 31",
+      "title": "Document Data Extraction Methods Compared: Templates, OCR Rules, Machine Learning and LLMs",
+      "link": "https://dev.to/devaland/document-data-extraction-methods-compared-templates-ocr-rules-machine-learning-and-llms-3ha7",
+      "summary": "Short answer: There are four broad methods for extracting data from documents: fixed templates, rules and patterns on top of OCR, trained machine learning models, and large language models (LLMs). Templates and rules are",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:02:38 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 246\n# Comments: 35",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\nComments URL: https://news.ycombinator.com/item?id=50459703\nPoints: 694\n# Comments: 972",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 22:31:06 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "p50, p95, p99 Explained: A Simple Guide to Latency Metrics",
-      "link": "https://dev.to/kevinrawal/p50-p95-p99-explained-a-simple-guide-to-latency-metrics-p90",
-      "summary": "Your dashboard says the average response time is 200 ms. Everything looks healthy. But users keep saying, \"the app sometimes freezes.\"\n\nBoth things can be true at once. The dashboard isn't broken. The problem is that the",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 04:23:13 +0000",
+      "published": "Thu, 12 Nov 2026 14:00:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building StareBrain, Part 22: Plan Validation — Checking Safety Before Execution Begins",
-      "link": "https://dev.to/starebrain/building-starebrain-part-22-plan-validation-checking-safety-before-execution-begins-god",
-      "summary": "Building StareBrain, Part 22: Plan Validation — Checking Safety Before Execution Begins\n\n\nPart 21 covered the planning layer: how a raw user instruction becomes an AgentTask with concrete AgentSteps. Today we add a step ",
+      "title": "DynamoDB optimistic locking: version numbers with Lambda",
+      "link": "https://dev.to/sascha-ms/dynamodb-optimistic-locking-version-numbers-with-lambda-1foc",
+      "summary": "DynamoDB optimistic locking sounds like database theory, but it solves a very practical problem: two requests read the same item, both work with the state they have read, and the second one silently overwrites the change",
       "image": "",
-      "published": "Thu, 12 Nov 2026 04:22:10 +0000",
+      "published": "Thu, 12 Nov 2026 14:00:07 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How UK stamp duty is calculated (with a JavaScript example)",
-      "link": "https://dev.to/zayed_clearcalc/how-uk-stamp-duty-is-calculated-with-a-javascript-example-4ph5",
-      "summary": "Disclosure: I'm Zayed, and I build ClearCalc Tools, a free calculator site. This post explains the logic behind one of its calculators.\n\nStamp Duty Land Tax (SDLT) in England and Northern Ireland is a banded tax, a bit l",
+      "title": "Plumber website template for Next.js: the 10 blocks that get calls",
+      "link": "https://dev.to/marcoschulz123/plumber-website-template-for-nextjs-the-10-blocks-that-get-calls-321c",
+      "summary": "A plumber's website has one job: turn a person with water on the floor into a phone call. Everything on the page either helps that or gets in the way. I have built enough sites for trades businesses to know that the layo",
       "image": "",
-      "published": "Thu, 12 Nov 2026 04:21:10 +0000",
+      "published": "Thu, 12 Nov 2026 14:00:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "PowerShell Constrained Language Mode limits syntax, not every command",
-      "link": "https://dev.to/stark_zhuang_df5076f35c68/powershell-constrained-language-mode-limits-syntax-not-every-command-e24",
-      "summary": "PowerShell Constrained Language Mode limits syntax, not every command\n\n\nApplication control policies can force PowerShell into Constrained Language Mode. In that mode, PowerShell permits all cmdlets but restricts the lan",
+      "title": "Security Checklist for Merchants Accepting Crypto Payments",
+      "link": "https://dev.to/cigalpay/security-checklist-for-merchants-accepting-crypto-payments-1ah5",
+      "summary": "In short\n\n\nTreat your API key like a password: keep it on your server, never in browser code or a public repository.\nMark orders as paid only from a server-to-server notification whose signature you've verified - never f",
       "image": "",
-      "published": "Thu, 12 Nov 2026 04:21:02 +0000",
+      "published": "Thu, 12 Nov 2026 14:00:05 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Is It Okay To Start Learning Development Now?",
-      "link": "https://dev.to/mfarrasmajid/is-it-okay-to-start-learning-development-now-2817",
-      "summary": "Many of you unsure whether it is good to start learning about software development, games development, and such, by the vast updates and news about Artificial Intelligence. Surely the AI can do so much better than us goo",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 04:19:56 +0000",
+      "title": "Agent Substrate Reaches 1.0 as Google Hands Its Agent Stack to the CNCF",
+      "link": "https://dev.to/neticslabs/agent-substrate-reaches-10-as-google-hands-its-agent-stack-to-the-cncf-3i08",
+      "summary": "TL;DR\n\n\n\nAgent Substrate is an open-source runtime that runs each AI agent session as an isolated sandbox on a Kubernetes cluster.\nOn 6 November 2026 Google donated Agent Substrate, gVisor and OpenRL to the CNCF Sandbox,",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgblxbov3lkll6ejz44uh.png",
+      "published": "Thu, 12 Nov 2026 14:00:03 +0000",
       "source": "DEV Community",
       "category": "development"
     },
