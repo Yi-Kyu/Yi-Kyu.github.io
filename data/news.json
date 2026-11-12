@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:44:37.550598Z",
+  "updated": "2026-11-12T04:28:20.828249Z",
   "articles": [
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-      "link": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-      "summary": "Article URL: https://developer.chrome.com/blog/modern-web-guidance-v1\nComments URL: https://news.ycombinator.com/item?id=50460398\nPoints: 5\n# Comments: 0",
+      "title": "Lean Grimoire",
+      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\nComments URL: https://news.ycombinator.com/item?id=50462375\nPoints: 12\n# Comments: 2",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:22:29 +0000",
+      "published": "Thu, 12 Nov 2026 02:36:48 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 38\n# Comments: 20",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 02:11:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
       "link": "https://github.com/tylertms/Stela",
-      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 5\n# Comments: 2",
+      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 78\n# Comments: 31",
       "image": "",
       "published": "Wed, 11 Nov 2026 23:02:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-      "link": "https://twitter.com/watcherguru/status/2120645607866188008",
-      "summary": "Article URL: https://twitter.com/watcherguru/status/2120645607866188008\nComments URL: https://news.ycombinator.com/item?id=50459776\nPoints: 71\n# Comments: 12",
-      "image": "",
-      "published": "Wed, 11 Nov 2026 22:36:35 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
       "link": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 41\n# Comments: 9",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 246\n# Comments: 35",
       "image": "",
       "published": "Wed, 11 Nov 2026 22:34:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/\nComments URL: https://news.ycombinator.com/item?id=50459485\nPoints: 59\n# Comments: 12",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\nComments URL: https://news.ycombinator.com/item?id=50459703\nPoints: 694\n# Comments: 972",
       "image": "",
-      "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+      "published": "Wed, 11 Nov 2026 22:31:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Pixel Art Needs an Integer Scale, Not Just Nearest Filtering",
-      "link": "https://dev.to/jitsumi/pixel-art-needs-an-integer-scale-not-just-nearest-filtering-2fa7",
-      "summary": "Nearest-neighbor filtering can keep a sprite sharp while its pixels still look uneven. A one-pixel line may become three display pixels wide in one place and four in another. The image is crisp, but its grid no longer ha",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4rhmi4vehf6ffmjvg7uz.webp",
-      "published": "Wed, 11 Nov 2026 23:32:00 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Why I Choose Crawl Limits for Recoverable E-commerce Product Retrieval in 2026",
-      "link": "https://dev.to/velvetdusk629047/why-i-choose-crawl-limits-for-recoverable-e-commerce-product-retrieval-in-2026-573b",
-      "summary": "Short answer: choose a durable index for reviewed product facts, live retrieval for facts that can change between crawls, and a hybrid when an answer needs both; put a timeout, retry budget, tenant filter, and source ide",
+      "title": "p50, p95, p99 Explained: A Simple Guide to Latency Metrics",
+      "link": "https://dev.to/kevinrawal/p50-p95-p99-explained-a-simple-guide-to-latency-metrics-p90",
+      "summary": "Your dashboard says the average response time is 200 ms. Everything looks healthy. But users keep saying, \"the app sometimes freezes.\"\n\nBoth things can be true at once. The dashboard isn't broken. The problem is that the",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:31:00 +0000",
+      "published": "Thu, 12 Nov 2026 04:23:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Gemini Live Reaches Apple CarPlay With Hands-Free Conversations for Mobile Work",
-      "link": "https://dev.to/alifar/gemini-live-reaches-apple-carplay-with-hands-free-conversations-for-mobile-work-3abf",
-      "summary": "Google has made Gemini Live available on Apple CarPlay, bringing its conversational AI experience to iPhone users in the car. The integration lets drivers start a new Gemini conversation or continue one from their phone ",
+      "title": "Building StareBrain, Part 22: Plan Validation — Checking Safety Before Execution Begins",
+      "link": "https://dev.to/starebrain/building-starebrain-part-22-plan-validation-checking-safety-before-execution-begins-god",
+      "summary": "Building StareBrain, Part 22: Plan Validation — Checking Safety Before Execution Begins\n\n\nPart 21 covered the planning layer: how a raw user instruction becomes an AgentTask with concrete AgentSteps. Today we add a step ",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:30:30 +0000",
+      "published": "Thu, 12 Nov 2026 04:22:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I open-sourced GOD HAND: a local-first tool for exploring tabular data",
-      "link": "https://dev.to/probotisop/i-open-sourced-god-hand-a-local-first-tool-for-exploring-tabular-data-899",
-      "summary": "Today I'm releasing GOD HAND OF STATISTICS as open source under the Apache-2.0 licence.\n\n👉 github.com/ProbotisOP/GodHandOFStatistics\n\n\n  \n  \n  What it is\n\n\nA local web app for exploring tabular data. You drop in files, a",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3qfqcgjrf9a0o8y0tcuk.gif",
-      "published": "Wed, 11 Nov 2026 23:30:21 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Six Serving Engines on One Tesla T4: Gemma 4 E2B on a Turing GPU",
-      "link": "https://dev.to/gde/six-serving-engines-on-one-tesla-t4-gemma-4-e2b-on-a-turing-gpu-3a6i",
-      "summary": "This article provides a step by step comparison of six inference serving engines on one Tesla T4: llama.cpp, vLLM, SGLang, mistral.rs, a plain PyTorch engine and Google's LiteRT-LM, each serving Gemma 4 E2B on Google's Q",
+      "title": "How UK stamp duty is calculated (with a JavaScript example)",
+      "link": "https://dev.to/zayed_clearcalc/how-uk-stamp-duty-is-calculated-with-a-javascript-example-4ph5",
+      "summary": "Disclosure: I'm Zayed, and I build ClearCalc Tools, a free calculator site. This post explains the logic behind one of its calculators.\n\nStamp Duty Land Tax (SDLT) in England and Northern Ireland is a banded tax, a bit l",
       "image": "",
-      "published": "Wed, 11 Nov 2026 23:27:42 +0000",
+      "published": "Thu, 12 Nov 2026 04:21:10 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "PowerShell Constrained Language Mode limits syntax, not every command",
+      "link": "https://dev.to/stark_zhuang_df5076f35c68/powershell-constrained-language-mode-limits-syntax-not-every-command-e24",
+      "summary": "PowerShell Constrained Language Mode limits syntax, not every command\n\n\nApplication control policies can force PowerShell into Constrained Language Mode. In that mode, PowerShell permits all cmdlets but restricts the lan",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 04:21:02 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Is It Okay To Start Learning Development Now?",
+      "link": "https://dev.to/mfarrasmajid/is-it-okay-to-start-learning-development-now-2817",
+      "summary": "Many of you unsure whether it is good to start learning about software development, games development, and such, by the vast updates and news about Artificial Intelligence. Surely the AI can do so much better than us goo",
+      "image": "",
+      "published": "Thu, 12 Nov 2026 04:19:56 +0000",
       "source": "DEV Community",
       "category": "development"
     },
