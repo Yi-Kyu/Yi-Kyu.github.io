@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-13T13:28:38.683184Z",
+  "updated": "2026-11-13T22:56:25.225346Z",
   "articles": [
+    {
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg",
+      "published": "Fri, 13 Nov 2026 22:23:08 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can also modify a VM's mem",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg",
+      "published": "Fri, 13 Nov 2026 20:57:05 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as par",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1600/flash.jpg",
+      "published": "Fri, 13 Nov 2026 19:58:58 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\nThe implant reads the phrase",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg",
+      "published": "Fri, 13 Nov 2026 19:24:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "When an AI Agent Goes Wrong, Can You Stop It?",
       "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
@@ -11,39 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-      "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stoc",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg",
-      "published": "Fri, 13 Nov 2026 16:40:40 +0530",
-      "source": "The Hacker News",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send th",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 14:38:36 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.\n\n",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg",
-      "published": "Fri, 13 Nov 2026 16:25:03 +0530",
-      "source": "The Hacker News",
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 12:31:56 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in G",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg",
-      "published": "Fri, 13 Nov 2026 13:35:49 +0530",
-      "source": "The Hacker News",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 11:21:43 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.\n\n\"We are restricting certain N-central features and integratio",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg",
-      "published": "Fri, 13 Nov 2026 11:13:28 +0530",
-      "source": "The Hacker News",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI ",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 10:01:11 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
       "image": "",
       "published": "Fri, 13 Nov 2026 07:27:40 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 05:44:22 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 04:36:18 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 03:34:20 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 17:53:10 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291\nComments URL: https://news.ycombinator.com/item?id=50482379\nPoints: 95\n# Comments: 37",
+      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+      "link": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+      "summary": "Article URL: https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage\nComments URL: https://news.ycombinator.com/item?id=50490778\nPoints: 5\n# Comments: 1",
       "image": "",
-      "published": "Fri, 13 Nov 2026 12:10:24 +0000",
+      "published": "Fri, 13 Nov 2026 22:16:11 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Is Down",
-      "link": "https://status.claude.com/history",
-      "summary": "Article URL: https://status.claude.com/history\nComments URL: https://news.ycombinator.com/item?id=50481220\nPoints: 147\n# Comments: 126",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
+      "summary": "Article URL: https://orcasairband.com/\nComments URL: https://news.ycombinator.com/item?id=50490593\nPoints: 33\n# Comments: 11",
       "image": "",
-      "published": "Fri, 13 Nov 2026 10:20:09 +0000",
+      "published": "Fri, 13 Nov 2026 22:04:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "link": "https://status.claude.com/incidents/nn11wk485zfn",
-      "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn\nComments URL: https://news.ycombinator.com/item?id=50481187\nPoints: 290\n# Comments: 236",
+      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+      "summary": "Article URL: https://www.axios.com/2026/11/13/faa-nationwide-ground-stop\nComments URL: https://news.ycombinator.com/item?id=50489678\nPoints: 84\n# Comments: 25",
       "image": "",
-      "published": "Fri, 13 Nov 2026 10:18:13 +0000",
+      "published": "Fri, 13 Nov 2026 21:08:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Is there a 'right amount' of AI?",
-      "link": "https://coyotetracks.org/blog/right-amount-of-ai/",
-      "summary": "Article URL: https://coyotetracks.org/blog/right-amount-of-ai/\nComments URL: https://news.ycombinator.com/item?id=50480659\nPoints: 16\n# Comments: 19",
+      "title": "All US airports are currently ground stopped",
+      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605\nComments URL: https://news.ycombinator.com/item?id=50489652\nPoints: 99\n# Comments: 22",
       "image": "",
-      "published": "Fri, 13 Nov 2026 09:27:05 +0000",
+      "published": "Fri, 13 Nov 2026 21:06:52 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Dawn of the Data Intelligence Engineer",
-      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
-      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/\nComments URL: https://news.ycombinator.com/item?id=50480480\nPoints: 70\n# Comments: 52",
+      "title": "FAA Issues National Ground Stop",
+      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;advn=111\nComments URL: https://news.ycombinator.com/item?id=50489641\nPoints: 786\n# Comments: 446",
       "image": "",
-      "published": "Fri, 13 Nov 2026 09:08:18 +0000",
+      "published": "Fri, 13 Nov 2026 21:05:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Reviewing and Debugging AI-Generated UI Layouts: Detecting Inconsistent Component Hierarchies",
-      "link": "https://dev.to/mspk97/reviewing-and-debugging-ai-generated-ui-layouts-detecting-inconsistent-component-hierarchies-18fo",
-      "summary": "You ever grabbed AI-generated UI code, maybe from a sketch-to-code tool or an AI assistant, and thought, “Why does this layout look off? Why is this button outside the card? And why are styles clashing everywhere?”\n\nI’ve",
+      "title": "Semantic Retrieval Relevance Tuning for Candidate Search with Grounded Evidence",
+      "link": "https://dev.to/jensencole5829/semantic-retrieval-relevance-tuning-for-candidate-search-with-grounded-evidence-p09",
+      "summary": "Semantic Retrieval Relevance Tuning for Candidate Search with Grounded Evidence\n\n\nShort answer: tune semantic retrieval with labeled recruiting queries, lexical fallbacks, and citation checks; the winning ranker returns ",
       "image": "",
-      "published": "Fri, 13 Nov 2026 13:22:59 +0000",
+      "published": "Fri, 13 Nov 2026 22:51:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Orchestrator Saves 24% Quota, Then Carbon Doubles (+100%) on Dec 1: Does Google's AI Math Add Up?",
-      "link": "https://dev.to/techlift-solutions/orchestrator-saves-24-quota-then-carbon-doubles-100-on-dec-1-does-googles-ai-math-add-up-3bd5",
-      "summary": "While benchmarking multi-model agent pipelines at TechLift Solutions this week, two separate Google announcements collided on our cost spreadsheet—and the math deserves a closer look from anyone building production agent",
+      "title": "Claude Code 2.1.323 Adds Code Mode for JavaScript Tool Calls",
+      "link": "https://dev.to/raxxostudios/claude-code-21323-adds-code-mode-for-javascript-tool-calls-3ibk",
+      "summary": "Claude Code 2.1.323 shipped November 12 with an experimental Code Mode that writes JavaScript to call tools\nCode Mode is opt-in, and the public docs page for it still returns a 404 as of this week\nPlugins can now declare",
       "image": "",
-      "published": "Fri, 13 Nov 2026 13:22:05 +0000",
+      "published": "Fri, 13 Nov 2026 22:47:09 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Why my local Whisper captions never write straight into the project",
-      "link": "https://dev.to/frankshan001/why-my-local-whisper-captions-never-write-straight-into-the-project-5n6",
-      "summary": "I build CutVoke, an open-source local video editor that Claude Code / Codex can drive over MCP while you keep a normal timeline open in the app. The most-asked-for agent task is boring: \"cut the silences and add captions",
+      "title": "Tell us what you need: HIVE JOBS and HIVE Rescue launch on HIVE402",
+      "link": "https://dev.to/scriptmasterlabs01/tell-us-what-you-need-hive-jobs-and-hive-rescue-launch-on-hive402-4pig",
+      "summary": "Tell us what you need: HIVE JOBS and HIVE Rescue launch on HIVE402\n\n\nA directory answers \"what exists.\" A buyer actually asks three different questions: who can do this, what will it cost, and did it work. On November 13",
       "image": "",
-      "published": "Fri, 13 Nov 2026 13:21:53 +0000",
+      "published": "Fri, 13 Nov 2026 22:46:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Windsurf Review 2026: Worth Switching From Cursor?",
-      "link": "https://dev.to/guang_diyuzhi_74b0fec2c09/windsurf-review-2026-worth-switching-from-cursor-269d",
-      "summary": "The landscape of AI-powered integrated development environments has evolved dramatically in 2026. What started as simple autocomplete extensions has transformed into a new category of coding assistant that fundamentally ",
+      "title": "Vibe Coding Is Fine Until It Isn't: A 12-Point Production Checklist",
+      "link": "https://dev.to/codefromscratch/vibe-coding-is-fine-until-it-isnt-a-12-point-production-checklist-43ld",
+      "summary": "You built an app with an AI tool, it works when you click through it, and now you're wondering whether it's safe to let real people sign up. That's the right question to ask, and today you get a way to answer it: twelve ",
       "image": "",
-      "published": "Fri, 13 Nov 2026 13:21:50 +0000",
+      "published": "Fri, 13 Nov 2026 22:46:01 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Paquetes maliciosos MCP en npm y PyPI: siete en 4 días",
-      "link": "https://dev.to/henryramireztech/paquetes-maliciosos-mcp-en-npm-y-pypi-siete-en-4-dias-1nc",
-      "summary": "Paquetes maliciosos MCP en npm y PyPI suman siete avisos en cuatro días, y la orden de GitHub para tres de ellos es tajante: cualquier equipo que los instaló se trata como comprometido por completo. No hay versión buena ",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 13:21:49 +0000",
+      "title": "WebGL can't see the page behind it. So how do you make glass text that follows the cursor?",
+      "link": "https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f",
+      "summary": "That's a real 3D word made of glass. It's rendered live in WebGL, it turns toward your cursor, and an AI put it on the page from one sentence: \"Make the word OpenConstructor look like glass so that it reacts to the curso",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F4ka7xdr1icvepurq07rs.png",
+      "published": "Fri, 13 Nov 2026 22:44:20 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "10 Big Ol’ 2027 Black Friday Deals",
+      "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+      "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n\n10 Big Ol&#8217; 2027 Black Friday Deals originally handwritten and published with love on",
+      "image": "",
+      "published": "Fri, 13 Nov 2026 14:05:24 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\n\nRSS Club: CSS-Tricks Redesign Preview or",
       "image": "",
       "published": "Fri, 06 Nov 2026 18:52:59 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Taming Typography: Building a Modern CSS Reset",
-      "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
-      "summary": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\n\nTaming Typography: Building a Modern",
-      "image": "",
-      "published": "Thu, 05 Nov 2026 14:55:31 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
