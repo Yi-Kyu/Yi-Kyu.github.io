@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-14T12:34:00.182552Z",
+  "updated": "2026-11-14T21:42:30.275911Z",
   "articles": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg",
+      "published": "Sat, 14 Nov 2026 18:08:35 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -38,12 +47,21 @@
       "category": "cybersecurity"
     },
     {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg",
-      "published": "Fri, 13 Nov 2026 17:22:31 +0530",
-      "source": "The Hacker News",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "image": "",
+      "published": "Sat, 14 Nov 2026 12:27:25 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "image": "",
+      "published": "Sat, 14 Nov 2026 10:15:49 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -70,24 +88,6 @@
       "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
       "image": "",
       "published": "Fri, 13 Nov 2026 11:21:43 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI ",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 10:01:11 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft says November security updates cause printing issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 07:27:40 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,138 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Monkey Island: all 13 versions side by side",
-      "link": "https://monkeyisland.pages.dev/",
-      "summary": "Article URL: https://monkeyisland.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50493904\nPoints: 194\n# Comments: 60",
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "summary": "Article URL: https://x.com/i/broadcasts/2brajgZlOKRMka\nComments URL: https://news.ycombinator.com/item?id=50500963\nPoints: 95\n# Comments: 39",
       "image": "",
-      "published": "Sat, 14 Nov 2026 04:23:30 +0000",
+      "published": "Sat, 14 Nov 2026 21:22:24 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 675\n# Comments: 390",
+      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+      "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year\nComments URL: https://news.ycombinator.com/item?id=50499945\nPoints: 36\n# Comments: 3",
       "image": "",
-      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "published": "Sat, 14 Nov 2026 19:23:40 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Ggml v1.0.0",
-      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 295\n# Comments: 46",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\nComments URL: https://news.ycombinator.com/item?id=50499723\nPoints: 111\n# Comments: 42",
       "image": "",
-      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "published": "Sat, 14 Nov 2026 18:56:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\nComments URL: https://news.ycombinator.com/item?id=50492860\nPoints: 146\n# Comments: 33",
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "link": "https://github.com/IRS-Public/direct-file",
+      "summary": "Article URL: https://github.com/IRS-Public/direct-file\nComments URL: https://news.ycombinator.com/item?id=50499083\nPoints: 114\n# Comments: 63",
       "image": "",
-      "published": "Sat, 14 Nov 2026 02:02:42 +0000",
+      "published": "Sat, 14 Nov 2026 17:48:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\nComments URL: https://news.ycombinator.com/item?id=50492315\nPoints: 170\n# Comments: 60",
+      "title": "A Family Tree of Software Job Titles",
+      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\nComments URL: https://news.ycombinator.com/item?id=50499038\nPoints: 112\n# Comments: 51",
       "image": "",
-      "published": "Sat, 14 Nov 2026 00:52:29 +0000",
+      "published": "Sat, 14 Nov 2026 17:45:19 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Claude Duet Messages You First. That Changes Who Is in Control.",
-      "link": "https://dev.to/suraj_khaitan_f893c243958/claude-duet-messages-you-first-that-changes-who-is-in-control-3n74",
-      "summary": "On October 21, 2026, Anthropic opened a research preview of Claude Duet, an app where Claude works as a proactive agent: it watches your connected accounts, prepares work while you are away, and messages you when somethi",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 12:32:20 +0000",
+      "title": "Software Architecture Fundamentals — Ch.11: Cross Platform SW Design [EN]",
+      "link": "https://dev.to/richard_minsoogo/software-architecture-fundamentals-ch11-cross-platform-sw-design-en-320g",
+      "summary": "STATERA Library · Series 08 · Volume 01 · Chapter 11 · EN\nSource: https://github.com/Statera-Library/08_Vol_01_Software_Architecture_Fundamentals/blob/main/01_11_Cross_Platform_SW_Design/01_11_Cross_Platform_SW_Design_EN",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuj6eszp10nmqzkcrqxcn.png",
+      "published": "Sat, 14 Nov 2026 21:39:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Invisible Brush: Generative Art and the Algorithms That Paint",
-      "link": "https://dev.to/ganesh_rajendran_art/the-invisible-brush-generative-art-and-the-algorithms-that-paint-32ig",
-      "summary": "A long-form exploration of Procedural Content Generation as a creative engine — with Clojure and Quil.\n\n\n\n\nThere is a particular kind of wonder that comes from watching something grow on a screen that you did not draw. A",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 12:32:16 +0000",
+      "title": "Software Architecture Fundamentals — Ch.10: Software Defined Robot Architecture [EN]",
+      "link": "https://dev.to/richard_minsoogo/software-architecture-fundamentals-ch10-software-defined-robot-architecture-en-2e7e",
+      "summary": "STATERA Library · Series 08 · Volume 01 · Chapter 10 · EN\nSource: https://github.com/Statera-Library/08_Vol_01_Software_Architecture_Fundamentals/blob/main/01_10_Software_Defined_Robot_Architecture/01_10_Software_Defined",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkgatq0r1ijgi590hux6o.png",
+      "published": "Sat, 14 Nov 2026 21:39:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Event ID 4673 flood: why the Security log is full and the PC is slow",
-      "link": "https://dev.to/coinetic_ai_security/event-id-4673-flood-why-the-security-log-is-full-and-the-pc-is-slow-1c7e",
-      "summary": "Originally published at coinetic.io.\n\nEvent 4673 is Windows saying \"A privileged service was called\". A few a day are normal. Dozens per second, from chrome.exe, msedgewebview2.exe or Code.exe, make the Windows Event Log",
+      "title": "Krea2 Ecosystem Update: Five Workflows, From Style Transfer to Detail Engines",
+      "link": "https://dev.to/ai-ksk/krea2-ecosystem-update-five-workflows-from-style-transfer-to-detail-engines-i17",
+      "summary": "A Krea2 update episode that ships five separate workflows rather than one — each covering a different job the model is now good enough to do.\n\n\n  \n  \n  What shipped\n\n\n\n\n\n#\nWorkflow\nPurpose\n\n\n\n\n1\nJSON multi-grid storyboar",
       "image": "",
-      "published": "Sat, 14 Nov 2026 12:32:08 +0000",
+      "published": "Sat, 14 Nov 2026 21:39:06 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "I deleted my extensions.gnome.org account. My extensions stayed online.",
-      "link": "https://dev.to/nickotmazgin/i-deleted-my-extensionsgnomeorg-account-my-extensions-stayed-online-3ig4",
-      "summary": "In December 2025 I deleted my account on extensions.gnome.org, the official store for GNOME Shell extensions. I expected my three extensions to go with it. They didn't.\n\nClipFlow Pro, Comfort Control (EaseHub) and Numeri",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2z6qwx83zktwxmujqdgm.jpg",
-      "published": "Sat, 14 Nov 2026 12:31:55 +0000",
+      "title": "Krea2 Control Stack: Depth, Detail and Random Prompts in Four Workflows",
+      "link": "https://dev.to/ai-ksk/krea2-control-stack-depth-detail-and-random-prompts-in-four-workflows-3327",
+      "summary": "Four Krea2 workflows that take the model from 'generates nice images' to 'generates the image I specified' — spatial control, detail enhancement, and a prompt generator.\n\n\n  \n  \n  The four workflows\n\n\n\n\n\n#\nWorkflow\nPurpo",
+      "image": "",
+      "published": "Sat, 14 Nov 2026 21:38:59 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Keep Your IR Alive: Why the .ll File Matters for Honest Timing",
-      "link": "https://dev.to/aabhinavg/keep-your-ir-alive-why-the-ll-file-matters-for-honest-timing-1h1n",
-      "summary": "Why this lesson exists\n\n\nWhen you run csperf run you get a JSON file that contains timing, machine metadata, and a reference to the generated LLVM IR. Many developers delete the .ll file after the run, thinking it’s just",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/images%2Fcover.png",
-      "published": "Sat, 14 Nov 2026 12:31:38 +0000",
+      "title": "Software Architecture Fundamentals — Ch.06: Robotics Software Architecture [EN]",
+      "link": "https://dev.to/richard_minsoogo/software-architecture-fundamentals-ch06-robotics-software-architecture-en-4289",
+      "summary": "STATERA Library · Series 08 · Volume 01 · Chapter 06 · EN\nSource: https://github.com/Statera-Library/08_Vol_01_Software_Architecture_Fundamentals/blob/main/01_06_Robotics_Software_Architecture/01_06_Robotics_Software_Arc",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6aa1ug3aj8axo2v1dbo4.png",
+      "published": "Sat, 14 Nov 2026 21:38:33 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "10 Big Ol’ 2027 Black Friday Deals",
-      "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-      "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n\n10 Big Ol&#8217; 2027 Black Friday Deals originally handwritten and published with love on",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 14:05:24 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "link": "https://css-tricks.com/beyond-12-columns/",
-      "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinc",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 16:06:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-      "link": "https://css-tricks.com/css-using-declarations-just-once/",
-      "summary": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\n\nCSS Optimization: Is Using Declarations Just Once (UDJO)",
-      "image": "",
-      "published": "Tue, 10 Nov 2026 16:42:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS-Tricks, Version 20",
-      "link": "https://css-tricks.com/css-tricks-version-20/",
-      "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\n\nCSS-Tricks, Version 20 originally handwritten and published wi",
-      "image": "",
-      "published": "Mon, 09 Nov 2026 15:49:48 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "RSS Club: CSS-Tricks Redesign Preview",
-      "link": "https://css-tricks.com/css-tricks-redesign-preview/",
-      "summary": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\n\nRSS Club: CSS-Tricks Redesign Preview or",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 18:52:59 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
