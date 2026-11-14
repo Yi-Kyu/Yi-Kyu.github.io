@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:41:24.112291Z",
+  "updated": "2026-11-14T12:34:00.182552Z",
   "articles": [
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -137,9 +137,18 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "summary": "Article URL: https://monkeyisland.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50493904\nPoints: 194\n# Comments: 60",
+      "image": "",
+      "published": "Sat, 14 Nov 2026 04:23:30 +0000",
+      "source": "Hacker News: Front Page",
+      "category": "development"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 27\n# Comments: 2",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 675\n# Comments: 390",
       "image": "",
       "published": "Sat, 14 Nov 2026 02:52:59 +0000",
       "source": "Hacker News: Front Page",
@@ -148,81 +157,72 @@
     {
       "title": "Ggml v1.0.0",
       "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 30\n# Comments: 1",
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50493062\nPoints: 295\n# Comments: 46",
       "image": "",
       "published": "Sat, 14 Nov 2026 02:28:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\nComments URL: https://news.ycombinator.com/item?id=50492993\nPoints: 44\n# Comments: 11",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 02:21:36 +0000",
-      "source": "Hacker News: Front Page",
-      "category": "development"
-    },
-    {
-      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
       "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\nComments URL: https://news.ycombinator.com/item?id=50492860\nPoints: 51\n# Comments: 9",
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\nComments URL: https://news.ycombinator.com/item?id=50492860\nPoints: 146\n# Comments: 33",
       "image": "",
       "published": "Sat, 14 Nov 2026 02:02:42 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "FAA lifted National Ground Stop at 0119Z",
-      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5\nComments URL: https://news.ycombinator.com/item?id=50492601\nPoints: 195\n# Comments: 189",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026\nComments URL: https://news.ycombinator.com/item?id=50492315\nPoints: 170\n# Comments: 60",
       "image": "",
-      "published": "Sat, 14 Nov 2026 01:30:01 +0000",
+      "published": "Sat, 14 Nov 2026 00:52:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show DEV: a tiny browser arcade game where mice are coins",
-      "link": "https://dev.to/alexandr_shvets_33108c9a5/show-dev-a-tiny-browser-arcade-game-where-mice-are-coins-3nfa",
-      "summary": "I spent a week building a small arcade game and shipped it.\n\nSpace cat - catch your mouse: you fly a cat with a jetpack through a house, a yard and a city. Mice are the coins; mops, flying slippers, dogs, pigeons, cars a",
+      "title": "Claude Duet Messages You First. That Changes Who Is in Control.",
+      "link": "https://dev.to/suraj_khaitan_f893c243958/claude-duet-messages-you-first-that-changes-who-is-in-control-3n74",
+      "summary": "On October 21, 2026, Anthropic opened a research preview of Claude Duet, an app where Claude works as a proactive agent: it watches your connected accounts, prepares work while you are away, and messages you when somethi",
       "image": "",
-      "published": "Sat, 14 Nov 2026 03:39:51 +0000",
+      "published": "Sat, 14 Nov 2026 12:32:20 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "What a quiet launch actually measured",
-      "link": "https://dev.to/flowskill/what-a-quiet-launch-actually-measured-4abe",
-      "summary": "FlowSkill launched on Product Hunt on November 3. Eleven days later, here is what the launch actually measured — every number below was read from the source, not estimated.\n\n\n  \n  \n  The numbers\n\n\n\n\n\nChannel\nResult, 11 d",
+      "title": "The Invisible Brush: Generative Art and the Algorithms That Paint",
+      "link": "https://dev.to/ganesh_rajendran_art/the-invisible-brush-generative-art-and-the-algorithms-that-paint-32ig",
+      "summary": "A long-form exploration of Procedural Content Generation as a creative engine — with Clojure and Quil.\n\n\n\n\nThere is a particular kind of wonder that comes from watching something grow on a screen that you did not draw. A",
       "image": "",
-      "published": "Sat, 14 Nov 2026 03:39:32 +0000",
+      "published": "Sat, 14 Nov 2026 12:32:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Deploy Multi-Agent Systems for Financial Operations",
-      "link": "https://dev.to/dextralabs/how-to-deploy-multi-agent-systems-for-financial-operations-4k86",
-      "summary": "The first time I split a financial workflow across multiple agents, I made it worse.\n\nIt was an SMB loan assessment pipeline. One big agent was doing everything, pulling applicant data, scoring risk, checking compliance,",
+      "title": "Event ID 4673 flood: why the Security log is full and the PC is slow",
+      "link": "https://dev.to/coinetic_ai_security/event-id-4673-flood-why-the-security-log-is-full-and-the-pc-is-slow-1c7e",
+      "summary": "Originally published at coinetic.io.\n\nEvent 4673 is Windows saying \"A privileged service was called\". A few a day are normal. Dozens per second, from chrome.exe, msedgewebview2.exe or Code.exe, make the Windows Event Log",
       "image": "",
-      "published": "Sat, 14 Nov 2026 03:38:52 +0000",
+      "published": "Sat, 14 Nov 2026 12:32:08 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "API Gateway Payload Routing vs. Lambda Invocation Overhead: The Request Fan-Out Cost Nobody Budgets",
-      "link": "https://dev.to/neeraj_singhi_golang/api-gateway-payload-routing-vs-lambda-invocation-overhead-the-request-fan-out-cost-nobody-budgets-5e01",
-      "summary": "API Gateway Payload Routing vs. Lambda Invocation Overhead: The Request Fan-Out Cost Nobody Budgets\n\n\nMost Lambda cost models stop at GB-seconds and invocation count. That framing collapses when a single inbound request ",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 03:38:00 +0000",
+      "title": "I deleted my extensions.gnome.org account. My extensions stayed online.",
+      "link": "https://dev.to/nickotmazgin/i-deleted-my-extensionsgnomeorg-account-my-extensions-stayed-online-3ig4",
+      "summary": "In December 2025 I deleted my account on extensions.gnome.org, the official store for GNOME Shell extensions. I expected my three extensions to go with it. They didn't.\n\nClipFlow Pro, Comfort Control (EaseHub) and Numeri",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2z6qwx83zktwxmujqdgm.jpg",
+      "published": "Sat, 14 Nov 2026 12:31:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Serverless Without Servers or Pipelines: A Checklist App on Lambda, API Gateway and DynamoDB",
-      "link": "https://dev.to/rakshanex/serverless-without-servers-or-pipelines-a-checklist-app-on-lambda-api-gateway-and-dynamodb-1lml",
-      "summary": "I built a serverless checklist app with no servers and no CI/CD pipeline — just Lambda, API Gateway, S3 and DynamoDB, all created from CloudShell with the AWS CLI. This is the story of that build: what it does, how the p",
-      "image": "",
-      "published": "Sat, 14 Nov 2026 03:35:00 +0000",
+      "title": "Keep Your IR Alive: Why the .ll File Matters for Honest Timing",
+      "link": "https://dev.to/aabhinavg/keep-your-ir-alive-why-the-ll-file-matters-for-honest-timing-1h1n",
+      "summary": "Why this lesson exists\n\n\nWhen you run csperf run you get a JSON file that contains timing, machine metadata, and a reference to the generated LLVM IR. Many developers delete the .ll file after the run, thinking it’s just",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/images%2Fcover.png",
+      "published": "Sat, 14 Nov 2026 12:31:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
