@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:59:40.730668Z",
+  "updated": "2026-11-15T22:08:30.611229Z",
   "articles": [
     {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
@@ -47,6 +47,24 @@
       "category": "cybersecurity"
     },
     {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that comprom",
+      "image": "",
+      "published": "Sun, 15 Nov 2026 13:29:53 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "image": "",
+      "published": "Sun, 15 Nov 2026 10:23:48 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
       "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
@@ -70,24 +88,6 @@
       "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send th",
       "image": "",
       "published": "Fri, 13 Nov 2026 14:38:36 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "German military drone operations disrupted by cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 12:31:56 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 11:21:43 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "link": "https://space.stackexchange.com/questions/37775",
-      "summary": "Article URL: https://space.stackexchange.com/questions/37775\nComments URL: https://news.ycombinator.com/item?id=50505271\nPoints: 72\n# Comments: 42",
+      "title": "Your Agent Will Pick the Hackable One",
+      "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/\nComments URL: https://news.ycombinator.com/item?id=50510799\nPoints: 17\n# Comments: 0",
       "image": "",
-      "published": "Sun, 15 Nov 2026 09:06:43 +0000",
+      "published": "Sun, 15 Nov 2026 21:10:39 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Book list for streetfighting computer scientists",
-      "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-      "summary": "Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists\nComments URL: https://news.ycombinator.com/item?id=50504718\nPoints: 42\n# Comments: 12",
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch\nComments URL: https://news.ycombinator.com/item?id=50510442\nPoints: 37\n# C",
       "image": "",
-      "published": "Sun, 15 Nov 2026 07:08:50 +0000",
+      "published": "Sun, 15 Nov 2026 20:37:28 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Disk encryption on NetBSD – achieving secrecy",
-      "link": "https://netbsd.org/~nia/disk-encrypt/",
-      "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/\nComments URL: https://news.ycombinator.com/item?id=50504277\nPoints: 55\n# Comments: 7",
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "link": "https://baron.by.dai.studio/",
+      "summary": "Article URL: https://baron.by.dai.studio/\nComments URL: https://news.ycombinator.com/item?id=50510296\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sun, 15 Nov 2026 05:29:54 +0000",
+      "published": "Sun, 15 Nov 2026 20:20:05 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Kiri – The Modern Container Runtime",
-      "link": "https://runkiri.com/",
-      "summary": "Article URL: https://runkiri.com/\nComments URL: https://news.ycombinator.com/item?id=50504077\nPoints: 64\n# Comments: 30",
+      "title": "Sell Your Game Outside Steam: Keys, Downloads and Direct Sales",
+      "link": "https://permitcore.dev/blog/sell-game-outside-steam",
+      "summary": "Article URL: https://permitcore.dev/blog/sell-game-outside-steam\nComments URL: https://news.ycombinator.com/item?id=50510198\nPoints: 3\n# Comments: 0",
       "image": "",
-      "published": "Sun, 15 Nov 2026 04:40:41 +0000",
+      "published": "Sun, 15 Nov 2026 20:08:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "summary": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp\nComments URL: https://news.ycombinator.com/item?id=50503930\nPoints: 39\n# Comments: 8",
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "link": "https://arkanumdata.com/research/house-trades",
+      "summary": "Article URL: https://arkanumdata.com/research/house-trades\nComments URL: https://news.ycombinator.com/item?id=50510005\nPoints: 81\n# Comments: 78",
       "image": "",
-      "published": "Sun, 15 Nov 2026 04:09:11 +0000",
+      "published": "Sun, 15 Nov 2026 19:46:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Timoni vs Kapitan: CUE schemas and bundles pinned by digest",
-      "link": "https://dev.to/kadet-hub/timoni-vs-kapitan-cue-schemas-and-bundles-pinned-by-digest-3aeg",
-      "summary": "Timoni builds Kubernetes objects from modules\nwritten in CUE. A module declares a schema for its\nvalues, and Timoni rejects values that do not fit it. Modules are published as OCI\nartifacts, and a bundle lists the instan",
+      "title": "How I Evaluate a RAG System Before It Touches Healthcare Data",
+      "link": "https://dev.to/oceancoldiron/how-i-evaluate-a-rag-system-before-it-touches-healthcare-data-m7b",
+      "summary": "In healthcare data, a confident wrong answer is worse than a slow right one. A retrieval-augmented generation (RAG) demo can look finished in an afternoon. The same system can fail the moment it meets messy identifiers, ",
       "image": "",
-      "published": "Sun, 15 Nov 2026 12:55:55 +0000",
+      "published": "Sun, 15 Nov 2026 22:02:15 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "GitHub Actions environment secrets empty in a job",
-      "link": "https://dev.to/kalemi/github-actions-environment-secrets-empty-in-a-job-1d1l",
-      "summary": "GitHub Actions environment secrets empty almost always means the job never named the environment the secret lives in. Repository and organization secrets are read once for the whole run, environment secrets are read per ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwbxphskx9nrt71sdlgq2.png",
-      "published": "Sun, 15 Nov 2026 12:55:28 +0000",
+      "title": "Can a Small Open-Weights Model Learn to Enforce Its Own Spending Mandate?",
+      "link": "https://dev.to/papajams/can-a-small-open-weights-model-learn-to-enforce-its-own-spending-mandate-4ln3",
+      "summary": "Agentic fine-tuning for economic authorization — Lexsi AI Safety &amp; Alignment Hackathon, Track 3 (AgentTune + AuditKIT)\n\n\n  \n  \n  The problem: governance stops at the wallet\n\n\nEnterprise agents are starting to hold re",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9tcc9e6etvr9ns23hcrs.png",
+      "published": "Sun, 15 Nov 2026 22:01:38 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Pinky is an open-source MCP server that lets AI agents operate a real phone while a gateway holds the risky taps",
-      "link": "https://dev.to/delimitter/pinky-is-an-open-source-mcp-server-that-lets-ai-agents-operate-a-real-phone-while-a-gateway-holds-574d",
-      "summary": "📅 November 15, 2026 • github.com Pinky is an Apache 2.0 desktop bridge that lets any Model Context Protocol agent operate a real iPhone or Android phone while a human watches, approves risky steps and can take over. DIYg",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.bsky.app%2Fimg%2Ffeed_fullsize%2Fplain%2Fdid%3Aplc%3Azl7pjaqajbk5mlwalj62hiz2%2Fbafkreide5k3cssq375w5x5sf5skbuxhm737yddgc6bklffvgpx2sniwok4",
-      "published": "Sun, 15 Nov 2026 12:54:47 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Get Greenhouse, Lever, Ashby and Workday jobs as one JSON feed",
-      "link": "https://dev.to/cleanrows/get-greenhouse-lever-ashby-and-workday-jobs-as-one-json-feed-20ab",
-      "summary": "If you build a job board, a hiring-signal tool, or a labour-market dataset, you hit the same wall: every company uses a different applicant tracking system, and each one returns jobs in its own shape.\n\nThree of the four ",
+      "title": "Four layers of bot detection, and why disabling the first one changes nothing",
+      "link": "https://dev.to/hongye_dev/four-layers-of-bot-detection-and-why-disabling-the-first-one-changes-nothing-3fnn",
+      "summary": "Four layers of bot detection, and why disabling the first one changes nothing\n\n\n  \n  \n  Body\n\n\nMost people fighting anti-bot systems do the same thing: they find the check that's failing, they defeat it, and they're surp",
       "image": "",
-      "published": "Sun, 15 Nov 2026 12:54:43 +0000",
+      "published": "Sun, 15 Nov 2026 22:01:37 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Building a Production-Ready AI Agent with FastAPI and Google Gemini",
-      "link": "https://dev.to/ezenwa_christian_5243b406/building-a-production-ready-ai-agent-with-fastapi-and-google-gemini-mp1",
-      "summary": "Most tutorials teach you how to build a simple AI chatbot. But building an AI agent that can take real actions, use tools, and maintain state in production requires a completely different architecture. Here is how I buil",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fcgvlxbrqddx5479r5zwh.jpg",
-      "published": "Sun, 15 Nov 2026 12:54:04 +0000",
+      "title": "OpenHIM channel access should be audited through clients and roles",
+      "link": "https://dev.to/jeffreyciend/openhim-channel-access-should-be-audited-through-clients-and-roles-4pf7",
+      "summary": "OpenHIM channel access should be audited through clients and roles\n\n\nOpenHIM is an open-source health information mediator. It receives transactions from client systems, routes them to services, and records the interacti",
+      "image": "",
+      "published": "Sun, 15 Nov 2026 22:01:18 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Decoding BMW Group’s Graviton‑Powered Leap: A Deep Dive into ARM‑First Connected Vehicle Architecture",
+      "link": "https://dev.to/mubashir_arham/decoding-bmw-groups-graviton-powered-leap-a-deep-dive-into-arm-first-connected-vehicle-26hj",
+      "summary": "This article was originally published on FutureStack\n\n\n  \n  \n  Introduction\n\n\nWhen the automotive industry talks about connected vehicles, the conversation usually circles around telematics, OTA updates, and edge‑to‑clou",
+      "image": "",
+      "published": "Sun, 15 Nov 2026 22:01:02 +0000",
       "source": "DEV Community",
       "category": "development"
     },
