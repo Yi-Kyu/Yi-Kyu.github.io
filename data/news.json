@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-16T14:03:50.195752Z",
+  "updated": "2026-11-17T01:08:24.565224Z",
   "articles": [
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
+      "published": "Mon, 16 Nov 2026 19:30:00 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg",
+      "published": "Mon, 16 Nov 2026 18:57:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
       "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
@@ -29,65 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.\n\nThe records, which ",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg",
-      "published": "Mon, 16 Nov 2026 13:04:21 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.\n\nThe activity, document",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg",
-      "published": "Mon, 16 Nov 2026 12:23:34 +0530",
-      "source": "The Hacker News",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from acc",
       "image": "",
-      "published": "Mon, 16 Nov 2026 09:00:00 -0500",
+      "published": "Mon, 16 Nov 2026 17:54:00 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
       "image": "",
-      "published": "Mon, 16 Nov 2026 07:53:18 -0500",
+      "published": "Mon, 16 Nov 2026 16:31:44 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents t",
       "image": "",
-      "published": "Mon, 16 Nov 2026 06:18:09 -0500",
+      "published": "Mon, 16 Nov 2026 15:59:44 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
       "image": "",
-      "published": "Mon, 16 Nov 2026 06:00:00 -0500",
+      "published": "Mon, 16 Nov 2026 14:57:13 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
       "image": "",
-      "published": "Mon, 16 Nov 2026 04:30:04 -0500",
+      "published": "Mon, 16 Nov 2026 11:43:24 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "summary": "Article URL: https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/\nComments URL: https://news.ycombinator.com/item?id=50516473\nPoints: 60\n# Comments: 22",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "link": "https://github.com/0nelight/sutra-os",
+      "summary": "Article URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 21\n# Comments: 3",
       "image": "",
-      "published": "Mon, 16 Nov 2026 11:39:31 +0000",
+      "published": "Mon, 16 Nov 2026 23:25:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Coffeehouses and the Rise of Science [pdf]",
-      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-      "summary": "Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf\nComments URL: https://news.ycombinator.com/item?id=50516245\nPoints: 95\n# Comments: 56",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\nComments URL: https://news.ycombinator.com/item?id=50524767\nPoints: 61\n# Comments: 19",
       "image": "",
-      "published": "Mon, 16 Nov 2026 11:03:16 +0000",
+      "published": "Mon, 16 Nov 2026 23:00:34 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "It's always DNS, so why are we running our own?",
-      "link": "https://s2.dev/blog/dns-server",
-      "summary": "Article URL: https://s2.dev/blog/dns-server\nComments URL: https://news.ycombinator.com/item?id=50515616\nPoints: 30\n# Comments: 19",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 152\n# Comments: 62",
       "image": "",
-      "published": "Mon, 16 Nov 2026 09:19:38 +0000",
+      "published": "Mon, 16 Nov 2026 22:58:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
-      "link": "https://github.com/ages2001/WINUDF",
-      "summary": "Article URL: https://github.com/ages2001/WINUDF\nComments URL: https://news.ycombinator.com/item?id=50515182\nPoints: 36\n# Comments: 0",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\nComments URL: https://news.ycombinator.com/item?id=50524225\nPoints: 67\n# Comments: 16",
       "image": "",
-      "published": "Mon, 16 Nov 2026 08:00:13 +0000",
+      "published": "Mon, 16 Nov 2026 22:19:23 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How Should Armies Fight?",
-      "link": "https://worksinprogress.co/issue/the-future-of-war/",
-      "summary": "Article URL: https://worksinprogress.co/issue/the-future-of-war/\nComments URL: https://news.ycombinator.com/item?id=50515169\nPoints: 20\n# Comments: 19",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "summary": "https://news.ycombinator.com/item?id=50524260\n\nComments URL: https://news.ycombinator.com/item?id=50524165\nPoints: 151\n# Comments: 73",
       "image": "",
-      "published": "Mon, 16 Nov 2026 07:57:40 +0000",
+      "published": "Mon, 16 Nov 2026 22:14:38 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Local Inference: Running Models on Your Own Machine",
-      "link": "https://dev.to/internals_decoded/local-inference-running-models-on-your-own-machine-1dnb",
-      "summary": "Before you read: The Life of a Request: What Happens When You Hit Enter, The KV Cache: Why Long Chats Get Slow and Expensive and Quantization: Smaller Weights, Same Answers (Mostly).\n\n\nLocal inference replaces the model-",
+      "title": "We Wanted AI Agents. We Built an Org Chart.",
+      "link": "https://dev.to/shek_bake_1eda6ed9b79f7a1/we-wanted-ai-agents-we-built-an-org-chart-3p86",
+      "summary": "We spent years complaining about meetings, handoffs, and layers of management. Now we’re building AI agents that do all three. A small coding task arrives, and somehow it needs a product manager, an architect, a reviewer",
       "image": "",
-      "published": "Mon, 16 Nov 2026 14:00:11 +0000",
+      "published": "Tue, 17 Nov 2026 01:07:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Implementing 207 Excel Financial and Statistical Formulas in Client-Side JavaScript Without IEEE-754 Traps",
-      "link": "https://dev.to/mincho_milev_c7753077d5af/implementing-207-excel-financial-and-statistical-formulas-in-client-side-javascript-without-4l5o",
-      "summary": "Shipping basic spreadsheet arithmetic (SUM, AVERAGE, IF, VLOOKUP) in JavaScript takes an afternoon. Scaling that evaluator to 207 Excel-compatible functions—including irregular cash-flow discounting (XNPV, XIRR), amortiz",
+      "title": "High-Level Software Architecture Design Benchmarks Beyond CodeWikiBench | 超越 CodeWikiBench：更高层次的软件架构设计评测基准",
+      "link": "https://dev.to/cognitalk/high-level-software-architecture-design-benchmarks-beyond-codewikibench-1ofi",
+      "summary": "超越 CodeWikiBench：更高层次的软件架构设计评测基准\n\n\nQ: Codewikibench是个不错软件文档的bench，但这个是不是太接近代码层，是否有更高层次的架构文档层次的bench？\n\n\n\n\n我把这个问题分成两个角度看：真正能承担 L3/L4 架构工作的 AI 软件产品，以及目前在相关架构任务评测中表现最好的大模型。\n\n我的结论是：\n\n\nL3（系统架构理解）：已经有一些值得试用的工具和模型，但距离完全可信还有差距。\nL",
       "image": "",
-      "published": "Mon, 16 Nov 2026 14:00:09 +0000",
+      "published": "Tue, 17 Nov 2026 01:07:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Home valuation lead funnel in React: What's my home worth",
-      "link": "https://dev.to/marcoschulz123/home-valuation-lead-funnel-in-react-whats-my-home-worth-5779",
-      "summary": "Seller leads are the ones real estate agents actually pay for. A buyer lead fills out a form and disappears into a dozen other agents' inboxes. A seller who wants to know what their house is worth is a few months away fr",
-      "image": "",
-      "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+      "title": "A screenshot can't show a site that moves, so I rebuilt my portfolio around videos",
+      "link": "https://dev.to/francokaddour/a-screenshot-cant-show-a-site-that-moves-so-i-rebuilt-my-portfolio-around-videos-25n4",
+      "summary": "For a long time my portfolio was a grid of screenshots. The problem: most of the sites I build move. A loader, a scroll-driven hero, a checkout flow. A screenshot shows none of that.\n\nSo I rebuilt it with one rule: every",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxr8jt1wslw3uoym0zheh.webp",
+      "published": "Tue, 17 Nov 2026 01:06:34 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Microsoft's November Patch Tuesday Ships 1,093 Fixes, Four of Them Set the Week",
-      "link": "https://dev.to/echakiri/microsofts-november-patch-tuesday-ships-1093-fixes-four-of-them-set-the-week-3921",
-      "summary": "TL;DR\n\n\n\nPatch Tuesday is the monthly release in which Microsoft publishes its security fixes for Windows, Office, SQL Server, Exchange, Azure and the rest of its catalogue, and the November 2026 edition carries 1,093 CV",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F0uh66jv60ecp317b34yk.webp",
-      "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+      "title": "Claude Code with and without a stack-specific plugin on 4 real repos: what changed",
+      "link": "https://dev.to/beingrealfrank/claude-code-with-and-without-a-stack-specific-plugin-on-4-real-repos-what-changed-5hn6",
+      "summary": "I wanted a number instead of a feeling. Does giving Claude Code stack-specific skills, subagents and a guard hook actually change what it does on a real repository? So I wrote a plugin for each of four stacks, and ran th",
+      "image": "",
+      "published": "Tue, 17 Nov 2026 01:06:11 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "How to Scale an SEO Agency Without Hiring More Analysts",
-      "link": "https://dev.to/avansledright/how-to-scale-an-seo-agency-without-hiring-more-analysts-4nlb",
-      "summary": "There's a ceiling that every SEO agency hits. You've got 10-15 clients. Your team is maxed out on auditing, reporting, and monitoring. The only way to take on more clients is to hire another analyst — which means more sa",
-      "image": "",
-      "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+      "title": "I built a website for my taxi driver friends in Buenos Aires: a scroll-driven flight, fixed fares and WhatsApp booking",
+      "link": "https://dev.to/francokaddour/i-built-a-website-for-my-taxi-driver-friends-in-buenos-aires-a-scroll-driven-flight-fixed-fares-4apk",
+      "summary": "Some friends of mine are taxi drivers. They've been driving in Buenos Aires for years, and recently they teamed up to offer fixed-price transfers from Ezeiza and Aeroparque airports and the cruise terminal. They had good",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnw3fj5ao7ctmja7qihqs.webp",
+      "published": "Tue, 17 Nov 2026 01:05:49 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Staggering Scroll-Driven Animations with animation-range-start",
+      "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+      "summary": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic eff",
+      "image": "",
+      "published": "Mon, 16 Nov 2026 16:47:05 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\n\nCSS-Tricks, Version 20 originally handwritten and published wi",
       "image": "",
       "published": "Mon, 09 Nov 2026 15:49:48 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "RSS Club: CSS-Tricks Redesign Preview",
-      "link": "https://css-tricks.com/css-tricks-redesign-preview/",
-      "summary": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\n\nRSS Club: CSS-Tricks Redesign Preview or",
-      "image": "",
-      "published": "Fri, 06 Nov 2026 18:52:59 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
