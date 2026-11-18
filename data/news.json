@@ -1,49 +1,85 @@
 {
-  "updated": "2026-11-18T00:03:31.221074Z",
+  "updated": "2026-11-18T14:38:09.989719Z",
   "articles": [
     {
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send i",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg",
-      "published": "Wed, 18 Nov 2026 01:04:20 +0530",
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg",
+      "published": "Wed, 18 Nov 2026 17:58:30 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially cr",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg",
-      "published": "Tue, 17 Nov 2026 20:47:36 +0530",
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "summary": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosur",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg",
+      "published": "Wed, 18 Nov 2026 17:45:00 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that imp",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvywoP0qreCtUhDgAD1y24HevVHwAH9bGo904BuaQ7-amvdkk6Oi8gz8WjF-Hwiu3SinN266QM0KwUX6lDnayGOtMaSEff_b5vybBsdwvDhiai2uGsAlYfMgCdquPmKqaqM6eY54pG9HsMR7X5Sf7M4nkbIaHmWJMBG1uL3ggpJMMvfQR6FbMagqug2QG/s1600/target.jpg",
-      "published": "Tue, 17 Nov 2026 20:47:28 +0530",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg",
+      "published": "Wed, 18 Nov 2026 17:25:49 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hacker",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
-      "published": "Tue, 17 Nov 2026 17:55:06 +0530",
+      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now d",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg",
+      "published": "Wed, 18 Nov 2026 16:33:57 +0530",
       "source": "The Hacker News",
       "category": "cybersecurity"
     },
     {
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.\n\nThe first security updates with the fix came out on August 17. Ne",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRknesoqi26EwwYMrgBhBudDMiej0sO7-228OvrBIj2ivaPcOUo7GJgoIHAd9fI_VFlK4su0xn1L_BqUgFsldNJgAkQwE4wAvAZzUao-wHUHSoq8NQUo_UdyILYYFoshEgONLhibaGHRQ_cKFVo0Psl1kehyphenhyphenNjlCrkECk16huiU6WecKlpBr0YDN3nus/s1600/iphone-recording.jpg",
-      "published": "Tue, 17 Nov 2026 17:44:36 +0530",
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to i",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg",
+      "published": "Wed, 18 Nov 2026 13:54:31 +0530",
       "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 06:50:25 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 05:35:05 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 04:24:31 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "image": "",
+      "published": "Wed, 18 Nov 2026 03:24:18 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -56,39 +92,12 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize ",
       "image": "",
-      "published": "Tue, 17 Nov 2026 16:27:17 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-      "image": "",
-      "published": "Tue, 17 Nov 2026 15:51:21 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "image": "",
-      "published": "Tue, 17 Nov 2026 14:24:07 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-      "image": "",
-      "published": "Tue, 17 Nov 2026 13:21:24 -0500",
-      "source": "BleepingComputer",
+      "published": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "source": "Krebs on Security",
       "category": "cybersecurity"
     },
     {
@@ -128,147 +137,93 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co",
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf\nComments URL: https://news.ycombinator.com/item?id=50546312\nPoints: 25\n# Comments: 16",
       "image": "",
-      "published": "Wed, 21 Oct 2026 15:26:07 +0000",
-      "source": "Krebs on Security",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions\nComments URL: https://news.ycombinator.com/item?id=50539747\nPoints: 6\n# Comments: 2",
-      "image": "",
-      "published": "Tue, 17 Nov 2026 23:32:58 +0000",
+      "published": "Wed, 18 Nov 2026 13:51:03 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "link": "https://github.com/microsoft/onnxruntime",
-      "summary": "Article URL: https://github.com/microsoft/onnxruntime\nComments URL: https://news.ycombinator.com/item?id=50539610\nPoints: 24\n# Comments: 3",
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/\nComments URL: https://news.ycombinator.com/item?id=50545958\nPoints: 129\n# Comments: 20",
       "image": "",
-      "published": "Tue, 17 Nov 2026 23:18:49 +0000",
+      "published": "Wed, 18 Nov 2026 13:18:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Latent Lattice Language Models",
-      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/\nComments URL: https://news.ycombinator.com/item?id=50539039\nPoints: 10\n# Comments: 1",
+      "title": "Evidence (YC S21) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead\nComments URL: https://news.ycombinator.com/item?id=50545238\nPoints: 0\n# Comments: 0",
       "image": "",
-      "published": "Tue, 17 Nov 2026 22:17:18 +0000",
+      "published": "Wed, 18 Nov 2026 12:00:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/\nComments URL: https://news.ycombinator.com/item?id=50538994\nPoints: 154\n# Comments: 19",
+      "title": "Show HN: Type Fighter 2",
+      "link": "https://typefighter2.com/",
+      "summary": "Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.\n\nComments URL: https://news.ycombinator.com/i",
       "image": "",
-      "published": "Tue, 17 Nov 2026 22:13:34 +0000",
+      "published": "Wed, 18 Nov 2026 11:11:53 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "link": "https://calif.io/java4shell/",
-      "summary": "Article URL: https://calif.io/java4shell/\nComments URL: https://news.ycombinator.com/item?id=50538240\nPoints: 376\n# Comments: 94",
+      "title": "Codeberg.org Not Reachable",
+      "link": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "summary": "Article URL: https://social.anoxinon.de/@codebergstatus/117636437840688845\nComments URL: https://news.ycombinator.com/item?id=50544261\nPoints: 265\n# Comments: 257",
       "image": "",
-      "published": "Tue, 17 Nov 2026 21:11:28 +0000",
+      "published": "Wed, 18 Nov 2026 10:02:17 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Practical Guide to Detecting and Mitigating AI Skill Drift",
-      "link": "https://dev.to/mr_thankyou_58b14997d0c77/a-practical-guide-to-detecting-and-mitigating-ai-skill-drift-3fep",
-      "summary": "A Practical Guide to Detecting and Mitigating AI Skill Drift\n\n\nWhen a model’s performance silently slides, the impact can be costly. This article walks you through a complete, hands‑on workflow for spotting AI skill drif",
+      "title": "Choosing an Open-Source TTS Model on One Machine: A Reproducible Comparison",
+      "link": "https://dev.to/lll_l_8d5730fc9839903e54b/choosing-an-open-source-tts-model-on-one-machine-a-reproducible-comparison-571g",
+      "summary": "There is no single “best” open-source text-to-speech model for every machine. The useful answer depends on the hardware you have, the languages and voices you need, the latency you can tolerate, and whether you care more",
       "image": "",
-      "published": "Wed, 18 Nov 2026 00:03:10 +0000",
+      "published": "Wed, 18 Nov 2026 14:34:29 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Huge Apple Outage Knocks Out iCloud Sign-In, App Store And Music",
-      "link": "https://dev.to/fathomnews/huge-apple-outage-knocks-out-icloud-sign-in-app-store-and-music-2396",
-      "summary": "A major Apple outage has knocked out iCloud sign-in, the App Store and Apple Music, with Apple saying all users are affected as people across the world find themselves locked out of their accounts.\n\n\n  \n  \n  Apple Outage",
+      "title": "Is your contract ready for invoicing abroad?",
+      "link": "https://dev.to/calemanurquiza/is-your-contract-ready-for-invoicing-abroad-7k3",
+      "summary": "A client abroad asks you for the invoice, and only then do you notice that the contract doesn't say what you needed it to say.\n\nI see this often in my practice: the contract gets signed quickly, using the client's templa",
       "image": "",
-      "published": "Wed, 18 Nov 2026 00:02:54 +0000",
+      "published": "Wed, 18 Nov 2026 14:33:30 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Meta Pixel firing before cookie consent: check and fix",
-      "link": "https://dev.to/fireshiftai/meta-pixel-firing-before-cookie-consent-check-and-fix-5e5k",
-      "summary": "Short answer: Clear cookies, load your site, and don't touch the banner. If DevTools shows requests to facebook.com/tr, or a _fbp cookie appears, the pixel runs before consent. Fix: fire it only after the consent event, ",
+      "title": "Stop the agent from introducing a second date library when the repo already has one",
+      "link": "https://dev.to/sherotree/stop-the-agent-from-introducing-a-second-date-library-when-the-repo-already-has-one-2mbd",
+      "summary": "The ticket is “show the due date in the user’s locale.” The repo already has date-fns and a formatDate() helper. The agent adds dayjs because that is what its last tutorial used, plus a one-line dayjs(value).format(...) ",
       "image": "",
-      "published": "Wed, 18 Nov 2026 00:02:16 +0000",
+      "published": "Wed, 18 Nov 2026 14:33:16 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "BNY And Microsoft Let AI Bots Haggle Over A Treasury Bill Trade",
-      "link": "https://dev.to/fathomnews/bny-and-microsoft-let-ai-bots-haggle-over-a-treasury-bill-trade-5g3k",
-      "summary": "BNY and Microsoft completed what BNY called the first AI agent negotiation of a U.S. Treasury bill trade, a test of whether governed agents can handle market workflows without removing human control.\n\n\n  \n  \n  Key Takeaw",
+      "title": "AWS Cloud Architecture for UK SMEs: One Reference Design",
+      "link": "https://dev.to/abrar_aslam_69082442c8033/aws-cloud-architecture-for-uk-smes-one-reference-design-32a2",
+      "summary": "Key takeaways\n\n\nA single VPC with public, private, and isolated database subnets across two Availability Zones is sufficient for most 5-50 person companies.\nChoose Lambda for spiky event-driven work, Fargate for steady-s",
       "image": "",
-      "published": "Wed, 18 Nov 2026 00:02:15 +0000",
+      "published": "Wed, 18 Nov 2026 14:32:17 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Preventing Cache Stampedes: A Robust Approach to Redis Key Expiration Jitter",
-      "link": "https://dev.to/toai/preventing-cache-stampedes-a-robust-approach-to-redis-key-expiration-jitter-27do",
-      "summary": "1. The Anatomy of a Cache Stampede\n\n\nA cache acts as a protective shield for your backend database. However, the moment that shield vanishes all at once, it turns into a liability.\n\n\nsequenceDiagram\n    autonumber\n    pa",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnuo932qv5od9u35claqc.png",
-      "published": "Wed, 18 Nov 2026 00:02:14 +0000",
+      "title": "El diario económico coreano Maeil Business cuenta 12 primeros puestos de Darwin en Hugging Face: cuéntalos tú con Python",
+      "link": "https://dev.to/_0e3192755d4df45b92/el-diario-economico-coreano-maeil-business-cuenta-12-primeros-puestos-de-darwin-en-hugging-face-2ob8",
+      "summary": "TL;DR\n\n\n\nEl 17 de noviembre de 2026, el diario económico coreano Maeil Business publicó «VIDRAFT analiza 63 benchmarks oficiales de Hugging Face: Darwin, primero en 12 categorías». Artículo original: https://www.mk.co.kr",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fhuggingface.co%2Fdatasets%2FVIDraft%2Fpress-assets%2Fresolve%2Fmain%2Fpress%2F2026-11-17%2Fpr2_img1.png",
+      "published": "Wed, 18 Nov 2026 14:32:00 +0000",
       "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Staggering Scroll-Driven Animations with animation-range-start",
-      "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-      "summary": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic eff",
-      "image": "",
-      "published": "Mon, 16 Nov 2026 16:47:05 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "10 Big Ol’ 2027 Black Friday Deals",
-      "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-      "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n\n10 Big Ol&#8217; 2027 Black Friday Deals originally handwritten and published with love on",
-      "image": "",
-      "published": "Fri, 13 Nov 2026 14:05:24 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "link": "https://css-tricks.com/beyond-12-columns/",
-      "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinc",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 16:06:55 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-      "link": "https://css-tricks.com/css-using-declarations-just-once/",
-      "summary": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\n\nCSS Optimization: Is Using Declarations Just Once (UDJO)",
-      "image": "",
-      "published": "Tue, 10 Nov 2026 16:42:18 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "CSS-Tricks, Version 20",
-      "link": "https://css-tricks.com/css-tricks-version-20/",
-      "summary": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\n\nCSS-Tricks, Version 20 originally handwritten and published wi",
-      "image": "",
-      "published": "Mon, 09 Nov 2026 15:49:48 +0000",
-      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
