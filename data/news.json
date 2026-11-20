@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:56:10.057773Z",
+  "updated": "2026-11-20T04:45:29.199200Z",
   "articles": [
     {
       "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -29,7 +29,7 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions a",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg",
@@ -44,6 +44,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg",
       "published": "Thu, 19 Nov 2026 20:03:06 +0530",
       "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "image": "",
+      "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -79,15 +88,6 @@
       "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
       "image": "",
       "published": "Thu, 19 Nov 2026 11:28:23 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions ",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 10:00:10 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87\nComments URL: https://news.ycombinator.com/item?id=50568082\nPoints: 8\n# Comments: 0",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\nComments URL: https://news.ycombinator.com/item?id=50569516\nPoints: 15\n# Comments: 0",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:32:11 +0000",
+      "published": "Fri, 20 Nov 2026 02:43:49 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
-      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
-      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/\nComments URL: https://news.ycombinator.com/item?id=50567735\nPoints: 21\n# Comments: 6",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652\nComments URL: https://news.ycombinator.com/item?id=50569226\nPoints: 64\n# Comments: 36",
       "image": "",
-      "published": "Thu, 19 Nov 2026 22:56:59 +0000",
+      "published": "Fri, 20 Nov 2026 02:01:09 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "RegExr: Temporarily Offline",
-      "link": "https://regexr.com/",
-      "summary": "Article URL: https://regexr.com/\nComments URL: https://news.ycombinator.com/item?id=50567374\nPoints: 21\n# Comments: 14",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 51\n# Comments: 10",
       "image": "",
-      "published": "Thu, 19 Nov 2026 22:27:07 +0000",
+      "published": "Fri, 20 Nov 2026 01:06:12 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Synology Security Advisory",
-      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\nComments URL: https://news.ycombinator.com/item?id=50567209\nPoints: 65\n# Comments: 27",
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase\nComments URL: https://news.ycombinator.com/item?id=50568643\nPoints: 29\n# Comments: 12",
       "image": "",
-      "published": "Thu, 19 Nov 2026 22:13:40 +0000",
+      "published": "Fri, 20 Nov 2026 00:37:31 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\nComments URL: https://news.ycombinator.com/item?id=50566261\nPoints: 35\n# Comments: 2",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 271\n# Comments: 163",
       "image": "",
-      "published": "Thu, 19 Nov 2026 20:57:14 +0000",
+      "published": "Thu, 19 Nov 2026 23:35:35 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Gaming Payment Reconciliation: High-Volume Daily Reminder Sends, Batch Workers, and Rate Limits",
-      "link": "https://dev.to/oskarholm4968/gaming-payment-reconciliation-high-volume-daily-reminder-sends-batch-workers-and-rate-limits-5co6",
-      "summary": "The operational constraint decides this architecture: a nightly gaming payment reconciliation can discover a large set of due user reminders, but it cannot safely own every email and SMS request while also respecting pro",
+      "title": "Square Squaremates vs WhatsApp Business AI: WhatsApp Wins",
+      "link": "https://dev.to/aitecharchive/square-squaremates-vs-whatsapp-business-ai-whatsapp-wins-4lf5",
+      "summary": "Verdict for an Indian shop, clinic or service business: turn on WhatsApp Business AI first. Square's Squaremates, generally available on 12 November 2026, is the stronger back-office agent, but Square announced it for U.",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:46:09 +0000",
+      "published": "Fri, 20 Nov 2026 04:44:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Review AI Edits Like a PR: My Aider Git Routine (Undo Ladder Included)",
-      "link": "https://dev.to/workflownexus/review-ai-edits-like-a-pr-my-aider-git-routine-undo-ladder-included-12lc",
-      "summary": "The thing that made me comfortable letting an AI edit my code wasn’t a better model. It was knowing that every edit lands as a git commit I can read — and reverse. Here’s the exact routine I run with Aider, the open-sour",
+      "title": "NovaAtom-Lite vs AlphaFold 3: Antibody Win, Not a Sweep",
+      "link": "https://dev.to/aitecharchive/novaatom-lite-vs-alphafold-3-antibody-win-not-a-sweep-3jbo",
+      "summary": "Verdict: On antibody-antigen interfaces, NovaAtom-Lite beats AlphaFold 3 by a wide margin on FoldBench: 79.07% versus 47.90% success, according to its developer, Geodesic Intelligence. It also leads on protein-ligand int",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:45:01 +0000",
+      "published": "Fri, 20 Nov 2026 04:44:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Architecting an Android Automation App with Zero Cloud Dependencies",
-      "link": "https://dev.to/haseebthedev0/architecting-an-android-automation-app-with-zero-cloud-dependencies-3kgh",
-      "summary": "The Silent Crisis in the Meeting Room\n\n\nThe silence in the conference room was absolute, the kind that only happens when a senior stakeholder is mid-sentence, outlining the quarterly roadmap. Then, my phone shattered the",
+      "title": "Agnikul Orbital Data Centre: Rs 510 Crore Hub in Andhra",
+      "link": "https://dev.to/aitecharchive/agnikul-orbital-data-centre-rs-510-crore-hub-in-andhra-393k",
+      "summary": "Agnikul Cosmos, the Chennai space-tech startup, signed an MoU with the Andhra Pradesh government on 13 November 2026 to build an Agnikul orbital data centre manufacturing facility in Tirupati district, with an initial in",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:44:19 +0000",
+      "published": "Fri, 20 Nov 2026 04:43:52 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Your Agent Retried the Tool Call and Charged the Card Twice: A Zero-Cost Resilience Layer in Python",
-      "link": "https://dev.to/yuya_ai_lab/your-agent-retried-the-tool-call-and-charged-the-card-twice-a-zero-cost-resilience-layer-in-python-2geg",
-      "summary": "Last month one of my automations sent the same customer email three times in four minutes. The tool call had timed out, the retry layer did exactly what it was told, and the customer got a copy for each attempt. Nothing ",
+      "title": "Automate release notes on GitHub: a step-by-step setup",
+      "link": "https://dev.to/nhanlnt/automate-release-notes-on-github-a-step-by-step-setup-2n8c",
+      "summary": "You can automate release notes on GitHub by letting GitHub write a first draft from your merged pull requests every time you tag a release, and then editing that draft into something your readers can use. The automation ",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:42:53 +0000",
+      "published": "Fri, 20 Nov 2026 04:43:33 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "A 2009 ministry letter answers two annual-leave questions the 2008 rule left open",
-      "link": "https://dev.to/hcxshh/a-2009-ministry-letter-answers-two-annual-leave-questions-the-2008-rule-left-open-25on",
-      "summary": "I spent a day on China's paid annual leave rules, and the interesting part was not the day counts. It was that two of the questions people actually argue about are not answered in the regulation at all. They are answered",
+      "title": "OpenCode Background Subagents vs Inline Compared: Background Wins",
+      "link": "https://dev.to/aitecharchive/opencode-background-subagents-vs-inline-compared-background-wins-d9a",
+      "summary": "OpenCode, the open-source coding agent from Anomaly, shipped v2.3.0 on November 13, 2026 with subagents running in the background by default. The changelog says subagents now return immediately, continue working, and rep",
       "image": "",
-      "published": "Thu, 19 Nov 2026 23:42:34 +0000",
+      "published": "Fri, 20 Nov 2026 04:43:32 +0000",
       "source": "DEV Community",
       "category": "development"
     },
