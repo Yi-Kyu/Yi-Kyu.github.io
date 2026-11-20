@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-20T14:26:32.004403Z",
+  "updated": "2026-11-20T23:25:39.781428Z",
   "articles": [
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
+      "published": "Fri, 20 Nov 2026 23:27:20 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.\n\nDutch mobil",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg",
+      "published": "Fri, 20 Nov 2026 22:28:16 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
       "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
@@ -29,21 +47,39 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe acti",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg",
-      "published": "Fri, 20 Nov 2026 16:02:50 +0530",
-      "source": "The Hacker News",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 13:51:43 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nTh",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg",
-      "published": "Fri, 20 Nov 2026 15:08:15 +0530",
-      "source": "The Hacker News",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 12:30:00 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 10:58:06 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 10:00:10 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -52,42 +88,6 @@
       "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
       "image": "",
       "published": "Fri, 20 Nov 2026 08:18:36 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 07:14:28 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 05:57:43 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 04:25:35 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "image": "",
-      "published": "Thu, 19 Nov 2026 19:26:25 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,102 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\nComments URL: https://news.ycombinator.com/item?id=50574383\nPoints: 19\n# Comments: 0",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "summary": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 15\n# Comments: 1",
       "image": "",
-      "published": "Fri, 20 Nov 2026 13:29:59 +0000",
+      "published": "Fri, 20 Nov 2026 22:30:47 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "If you stop writing code, you also get worse at reviewing it",
-      "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/\nComments URL: https://news.ycombinator.com/item?id=50573886\nPoints: 27\n# Comments: 6",
+      "title": "Nasdaq erases all 2026 gains",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html\nComments URL: https://news.ycombinator.com/item?id=50583254\nPoints: 14\n# Comments: 0",
       "image": "",
-      "published": "Fri, 20 Nov 2026 12:41:38 +0000",
+      "published": "Fri, 20 Nov 2026 22:29:06 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Epic Games Turns to AI Coding for the Unreal Engine",
-      "link": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
-      "summary": "Article URL: https://spectrum.ieee.org/epic-games-unreal-engine-ai\nComments URL: https://news.ycombinator.com/item?id=50573681\nPoints: 14\n# Comments: 3",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator",
       "image": "",
-      "published": "Fri, 20 Nov 2026 12:16:36 +0000",
+      "published": "Fri, 20 Nov 2026 22:18:20 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Making of Oxygene",
-      "link": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene\nComments URL: https://news.ycombinator.com/item?id=50572822\nPoints: 81\n# Comments: 32",
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "link": "https://github.com/google-deepmind/math-horizon",
+      "summary": "Article URL: https://github.com/google-deepmind/math-horizon\nComments URL: https://news.ycombinator.com/item?id=50582629\nPoints: 31\n# Comments: 14",
       "image": "",
-      "published": "Fri, 20 Nov 2026 10:41:10 +0000",
+      "published": "Fri, 20 Nov 2026 21:42:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "link": "https://architectlabs.com/blog/frostbite",
-      "summary": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50572503\nPoints: 309\n# Comments: 212",
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\nComments URL: https://news.ycombinator.com/item?id=50581438\n",
       "image": "",
-      "published": "Fri, 20 Nov 2026 10:01:41 +0000",
+      "published": "Fri, 20 Nov 2026 20:22:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A Simple Way to Run Multiple AI Coding Agents in Parallel",
-      "link": "https://dev.to/atik_vai_827891b3eeb3c2b6/a-simple-way-to-run-multiple-ai-coding-agents-in-parallel-357m",
-      "summary": "Found an interesting open-source project for running multiple AI coding agents in parallel.\n\nI like the idea of keeping things simple instead of relying on complicated agent management tools. Using Git worktrees with a l",
+      "title": "React y CSS: una frontera de email accesible",
+      "link": "https://dev.to/silviutech/react-y-css-una-frontera-de-email-accesible-28eb",
+      "summary": "Un campo de email parece pequeño, pero suele ser la frontera entre una interfaz amable y un flujo dificil de entender. El navegador conoce el valor escrito, el backend conoce la respuesta de verificación y la persona usu",
       "image": "",
-      "published": "Fri, 20 Nov 2026 14:23:10 +0000",
+      "published": "Fri, 20 Nov 2026 23:23:54 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "The Agent Installed a Package From Memory: What MCPhantom Teaches About Deprecated MCP Servers and Approval Gates",
-      "link": "https://dev.to/ginigenai_hp_0ae441ead91f/the-agent-installed-a-package-from-memory-what-mcphantom-teaches-about-deprecated-mcp-servers-and-4cae",
-      "summary": "TL;DR\n\n\n\nGlow Labs named a pattern \"MCPhantom\" on November 3, 2026. In its review of real coding sessions, an agent installed or suggested a deprecated MCP server, and in 98% of those sessions the agent appears to have s",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fquickchart.io%2Fchart%3Fw%3D1000%26h%3D420%26bkg%3Dwhite%26c%3D%257B%2522type%2522%253A%2522bar%2522%252C%2522data%2522%253A%257B%2522labels%2522%253A%255B%2522github%2522%252C%2522puppeteer%2522%252C%2522postgres%2522%252C%2522slack%2522%252C%2522brave-search%2522%252C%2522filesystem%2520%2528maintained%2529%2522%255D%252C%2522datasets%2522%253A%255B%257B%2522label%2522%253A%2522Downloads%252C%25202026-11-13%2520to%252011-19%2522%252C%2522data%2522%253A%255B112028%252C27283%252C147218%252C183067%252C26774%252C1222611%255D%252C%2522backgroundColor%2522%253A%255B%2522%2523d9534f%2522%252C%2522%2523d9534f%2522%252C%2522%2523d9534f%2522%252C%2522%2523d9534f%2522%252C%2522%2523d9534f%2522%252C%2522%25232e7d32%2522%255D%257D%255D%257D%252C%2522options%2522%253A%257B%2522title%2522%253A%257B%2522display%2522%253Atrue%252C%2522text%2522%253A%2522Weekly%2520npm%2520downloads%253A%2520five%2520deprecated%2520MCP%2520servers%2520vs%2520one%2520maintained%2522%252C%2522fontSize%2522%253A22%257D%252C%2522legend%2522%253A%257B%2522display%2522%253Afalse%257D%257D%257D",
-      "published": "Fri, 20 Nov 2026 14:22:44 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "Protecting Session Integrity When PHP Writes Are Interrupted",
-      "link": "https://dev.to/jeffreyciend/protecting-session-integrity-when-php-writes-are-interrupted-3mmc",
-      "summary": "Protecting Session Integrity When PHP Writes Are Interrupted\n\n\n\n  \n  \n  Vulnerability overview\n\n\nCVE-2026-126714 exposes a reliability property with security consequences: a PHP session-file replacement is not atomic. If",
+      "title": "Password Reset Email Deliverability Through Branded Template Isolation From Reports",
+      "link": "https://dev.to/bramwellvance7953/password-reset-email-deliverability-through-branded-template-isolation-from-reports-4eg2",
+      "summary": "Keep password reset templates separately versioned from generated report emails, even when both use the same transactional sending service. TL;DR: assign an owner to the branded recovery template, check suppression immed",
       "image": "",
-      "published": "Fri, 20 Nov 2026 14:22:27 +0000",
+      "published": "Fri, 20 Nov 2026 23:23:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MySQL CDC PostgreSQL with Apache SeaTunnel 3.1.0: A Reproducible Walkthrough",
-      "link": "https://dev.to/danielnadia/mysql-cdc-postgresql-with-apache-seatunnel-310-a-reproducible-walkthrough-1ik0",
-      "summary": "A replication job can report RUNNING while the row you care about is still missing from the target. For an engineer operating a CDC pipeline, the useful questions are concrete: Did the initial data arrive? Did an update ",
+      "title": "Why Running the yes Command Didn't Max Out CPU Usage",
+      "link": "https://dev.to/kawasaki031677/why-running-the-yes-command-didnt-max-out-cpu-usage-p92",
+      "summary": "Introduction\n\n\nI needed to generate CPU load on a Linux server for testing purposes. Looking for a quick solution, I executed the yes command like this:\n\n\n\nyes &gt; /dev/null\n\n\n\n\n\n\nThe yes command continuously outputs \"y",
       "image": "",
-      "published": "Fri, 20 Nov 2026 14:22:15 +0000",
+      "published": "Fri, 20 Nov 2026 23:22:57 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Optimizing a Reduction Algorithm with AVX, NEON, SVE, and std::experimental::simd",
-      "link": "https://dev.to/andrewofc/optimizing-a-reduction-algorithm-with-avx-neon-sve-and-stdexperimentalsimd-7pg",
-      "summary": "An example of optimizing a reduction algorithm using AVX-512 compiler intrinsics and std::experimental::native_simd types.\nhttps://github.com/AndrewOfC/vector_reduction\nThe speedup is evaluated against a trivial implemen",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fawbel29vde0oqlajwt9k.png",
-      "published": "Fri, 20 Nov 2026 14:22:14 +0000",
+      "title": "Two free little Android apps I built alone: on-device photo translation and a camera that fixes photos after you shoot",
+      "link": "https://dev.to/chobonggi3/two-free-little-android-apps-i-built-alone-on-device-photo-translation-and-a-camera-that-fixes-22bi",
+      "summary": "I am a solo developer in Seoul. Outside my day job I ship small free Android apps, and two of them are now on Google Play. They have something in common: both exist because a built-in feature was one step short of what I",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 23:22:27 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Papra document sharing crosses organization and instance boundaries",
+      "link": "https://dev.to/andreagomez/papra-document-sharing-crosses-organization-and-instance-boundaries-pmd",
+      "summary": "Papra document sharing crosses organization and instance boundaries\n\n\nPapra is a self-hosted document archiving platform organized around users, organizations, documents, custom properties, API keys, webhooks, and option",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 23:20:42 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+      "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+      "summary": "Web designer, author, and Stuff &#38; Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create mo",
+      "image": "",
+      "published": "Fri, 20 Nov 2026 15:03:47 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     },
     {
@@ -259,15 +268,6 @@
       "summary": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n\n10 Big Ol&#8217; 2027 Black Friday Deals originally handwritten and published with love on",
       "image": "",
       "published": "Fri, 13 Nov 2026 14:05:24 +0000",
-      "source": "CSS-Tricks",
-      "category": "development"
-    },
-    {
-      "title": "Beyond 12 Columns: Designing Layouts With Personality",
-      "link": "https://css-tricks.com/beyond-12-columns/",
-      "summary": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinc",
-      "image": "",
-      "published": "Thu, 12 Nov 2026 16:06:55 +0000",
       "source": "CSS-Tricks",
       "category": "development"
     }
