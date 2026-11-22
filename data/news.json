@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:28:55.375355Z",
+  "updated": "2026-11-22T03:38:08.810450Z",
   "articles": [
     {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -47,6 +47,15 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "image": "",
+      "published": "Sat, 21 Nov 2026 17:59:58 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant conf",
@@ -79,15 +88,6 @@
       "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c",
       "image": "",
       "published": "Fri, 20 Nov 2026 13:51:43 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 12:30:00 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "link": "https://tasklet.ai/careers",
-      "summary": "Article URL: https://tasklet.ai/careers\nComments URL: https://news.ycombinator.com/item?id=50593679\nPoints: 0\n# Comments: 0",
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 31\n# Comments: 8",
       "image": "",
-      "published": "Sat, 21 Nov 2026 21:11:08 +0000",
+      "published": "Sun, 22 Nov 2026 02:14:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-      "summary": "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746\nComments URL: https://news.ycombinator.com/item?id=50593637\nPoints: 7\n# Comments: 2",
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/\nComments URL: https://news.ycombinator.com/item?id=50595537\nPoints: 4\n# Comments: 1",
       "image": "",
-      "published": "Sat, 21 Nov 2026 21:06:14 +0000",
+      "published": "Sun, 22 Nov 2026 02:10:02 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Upload2Shell · CVE-2026-125396",
-      "link": "https://pwn.ai/upload2shell",
-      "summary": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 56\n# Comments: 14",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "link": "https://github.com/ItsNotRexed/Leonida",
+      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida\nComments URL: https://news.ycombinator.com/item?id=50595168\nPoints: 54\n# Comments: 31",
       "image": "",
-      "published": "Sat, 21 Nov 2026 18:29:29 +0000",
+      "published": "Sun, 22 Nov 2026 00:57:26 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant\nComments URL: https://news.ycombinator.com/item?id=50591853\nPoints: 277\n# Comments: 57",
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "summary": "Article URL: https://stulle.app/\nComments URL: https://news.ycombinator.com/item?id=50594911\nPoints: 61\n# Comments: 32",
       "image": "",
-      "published": "Sat, 21 Nov 2026 18:02:19 +0000",
+      "published": "Sun, 22 Nov 2026 00:07:59 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "PostgreSQL Extensions in Go",
-      "link": "https://jespino.github.io/gopgext/",
-      "summary": "Article URL: https://jespino.github.io/gopgext/\nComments URL: https://news.ycombinator.com/item?id=50591260\nPoints: 98\n# Comments: 11",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer\nComments URL: https://news.ycombinator.com/item?id=50594132\nPoints: 80\n# Comments: 9",
       "image": "",
-      "published": "Sat, 21 Nov 2026 17:08:04 +0000",
+      "published": "Sat, 21 Nov 2026 22:09:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "How to Build Retrieval Architecture for 7 Changelog Feeds: Citation-First Deduplication",
-      "link": "https://dev.to/finnianfox8297/how-to-build-retrieval-architecture-for-7-changelog-feeds-citation-first-deduplication-1a57",
-      "summary": "Short answer: make the source URL and its canonical content hash the identity of every changelog record, then deduplicate before retrieval and attach citations to the surviving record. For a customer-support team watchin",
+      "title": "A vesting schedule that could never finish vesting — the shareMint geometric decay",
+      "link": "https://dev.to/nexusfoundry/a-vesting-schedule-that-could-never-finish-vesting-the-sharemint-geometric-decay-4aoo",
+      "summary": "A vesting schedule that could never finish vesting — the shareMint geometric decay\n\n\nAnother verified fix landed on TTSwap this week (PR #340, bounty #325): shareMint was supposed to release a share allocation over chips",
       "image": "",
-      "published": "Sat, 21 Nov 2026 22:22:28 +0000",
+      "published": "Sun, 22 Nov 2026 03:31:55 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "MailCatcher at 9,456 titles: a development mail trap that can hold real messages",
-      "link": "https://dev.to/facilishz/mailcatcher-at-9456-titles-a-development-mail-trap-that-can-hold-real-messages-3560",
-      "summary": "MailCatcher at 9,456 titles: a development mail trap that can hold real messages\n\n\nMailCatcher runs an SMTP server that catches messages and shows them in a web interface. On 2026-11-22, ZoomEye returned 55 matches for a",
+      "title": "SVG to JSX and CSS Data URI: What Actually Breaks When You Inline Icons",
+      "link": "https://dev.to/keokeo/svg-to-jsx-and-css-data-uri-what-actually-breaks-when-you-inline-icons-dg8",
+      "summary": "Pasting an exported .svg from Figma, Illustrator, or an AI generator straight into a React component or a CSS background-image almost never works on the first try. Usually one of two things happens: TypeScript yells abou",
       "image": "",
-      "published": "Sat, 21 Nov 2026 22:21:26 +0000",
+      "published": "Sun, 22 Nov 2026 03:31:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Offcall is a desktop app for the two minutes after an incident",
-      "link": "https://dev.to/merouane_flame_56f/offcall-is-a-desktop-app-for-the-two-minutes-after-an-incident-3a3n",
-      "summary": "This is a submission for the Presage SmartSpectra SDK Challenge\n\nWhat I Built\n\nOffcall is a desktop app for the two minutes after an incident, before the handoff note gets written. An on-call engineer closes a ticket at ",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwlh9p1lim0n71pj948lb.png",
-      "published": "Sat, 21 Nov 2026 22:21:02 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "AI Coding Agents Raised Commits 240%. Releases Rose Only 30%",
-      "link": "https://dev.to/yanoai/ai-coding-agents-raised-commits-240-releases-rose-only-30-3dcn",
-      "summary": "Autonomous coding agents lifted commit volume 240% across more than 500,000 GitHub developers, yet software releases rose only 30% (Source: National Bureau of Economic Research, 2026). The Philippines is buying this capa",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Furc9eae87n5pim5hja88.jpg",
-      "published": "Sat, 21 Nov 2026 22:20:34 +0000",
-      "source": "DEV Community",
-      "category": "development"
-    },
-    {
-      "title": "DCOM Event 10016: A Read-First Local Activation, CLSID, AppID, and Permission Triage",
-      "link": "https://dev.to/adminpackstudio/dcom-event-10016-a-read-first-local-activation-clsid-appid-and-permission-triage-29a2",
-      "summary": "Helpdesk: \"The System log on every server and every Windows 11 laptop is full of DistributedCOM 10016 errors: 'The application-specific permission settings do not grant Local Activation permission for the COM Server appl",
+      "title": "The docstring coverage gate is the product: what I measured in AI Doc Generator",
+      "link": "https://dev.to/the_movie_9b1357e8c99cfaa/the-docstring-coverage-gate-is-the-product-what-i-measured-in-ai-doc-generator-268k",
+      "summary": "This is the adapted syndicated version of an article that first appeared on the AI Stack Lab blog. Same product, same honest limits, different edit.\n\nDocumentation debt never announces itself. It shows up as the three ho",
       "image": "",
-      "published": "Sat, 21 Nov 2026 22:20:33 +0000",
+      "published": "Sun, 22 Nov 2026 03:31:25 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Inkling 2 Mini: How a Looped Transformer Squeezes 26B Parameters Into 20GB",
+      "link": "https://dev.to/euk_ela_a3e7ed01aa3f7314e/inkling-2-mini-how-a-looped-transformer-squeezes-26b-parameters-into-20gb-598d",
+      "summary": "Inkling 2 Mini: How a Looped Transformer Squeezes 26B Parameters Into 20GB\n\n\nThe short version: Thinking Machines released the weights for Inkling 2 Mini on November 20, 2026. It has 26.4B total parameters but activates ",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 03:29:57 +0000",
+      "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Biblioteca Virtual: escaneo de vulnerabilidades con Bandit, Gitleaks, OSV-Scanner, Grype y Nuclei",
+      "link": "https://dev.to/jhonyvargas/biblioteca-virtual-escaneo-de-vulnerabilidades-con-bandit-gitleaks-osv-scanner-grype-y-nuclei-4cg0",
+      "summary": "¿Qué pasa si subes a producción una consulta SQL vulnerable, una contraseña escrita en el código o una librería con fallas conocidas? Normalmente nadie se entera… hasta que alguien la explota.\n\nEn este artículo muestro c",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdr1p1nh5fqid3vlepmq2.png",
+      "published": "Sun, 22 Nov 2026 03:29:36 +0000",
       "source": "DEV Community",
       "category": "development"
     },
