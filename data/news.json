@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:39:16.260763Z",
+  "updated": "2026-11-22T22:52:17.970748Z",
   "articles": [
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
@@ -47,6 +47,33 @@
       "category": "cybersecurity"
     },
     {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and rever",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 13:45:37 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 10:43:04 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "image": "",
+      "published": "Sun, 22 Nov 2026 10:15:25 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
       "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
@@ -61,33 +88,6 @@
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant conf",
       "image": "",
       "published": "Sat, 21 Nov 2026 13:01:58 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-      "image": "",
-      "published": "Sat, 21 Nov 2026 10:17:27 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal",
-      "image": "",
-      "published": "Sat, 21 Nov 2026 09:26:04 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications c",
-      "image": "",
-      "published": "Fri, 20 Nov 2026 13:51:43 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/\nComments URL: https://news.ycombinator.com/item?id=50597959\nPoints: 8\n# Comments: 0",
+      "title": "The Usefulness of Useless Knowledge [pdf]",
+      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Sun, 22 Nov 2026 09:57:01 +0000",
+      "published": "Sun, 22 Nov 2026 22:10:58 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\nComments URL: https://news.ycombinator.com/item?id=50597612\nPoints: 252\n# Comments: 350",
+      "title": "Agent swarm trying to solve P vs. NP",
+      "link": "https://pequalnp.com/",
+      "summary": "Article URL: https://pequalnp.com/\nComments URL: https://news.ycombinator.com/item?id=50604314\nPoints: 7\n# Comments: 1",
       "image": "",
-      "published": "Sun, 22 Nov 2026 08:57:34 +0000",
+      "published": "Sun, 22 Nov 2026 21:53:45 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\nComments URL: https://news.ycombinator.com/item?id=50596960\nPoints: 41\n# Comments: 5",
+      "title": "Will the first approved psychedelic become a blockbuster?",
+      "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+      "summary": "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/\nComments URL: https://news.ycombinator.com/item?id=50603962\nPoints: 7\n# Comments: 0",
       "image": "",
-      "published": "Sun, 22 Nov 2026 06:52:25 +0000",
+      "published": "Sun, 22 Nov 2026 21:13:10 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: The Riemann Proof Handbook",
-      "link": "https://github.com/tamnd/riemann-handbook",
-      "summary": "Article URL: https://github.com/tamnd/riemann-handbook\nComments URL: https://news.ycombinator.com/item?id=50596664\nPoints: 68\n# Comments: 40",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 72\n# Comments: 17",
       "image": "",
-      "published": "Sun, 22 Nov 2026 05:46:30 +0000",
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "link": "https://github.com/EL4CTEO/fast-anything",
-      "summary": "Article URL: https://github.com/EL4CTEO/fast-anything\nComments URL: https://news.ycombinator.com/item?id=50596155\nPoints: 71\n# Comments: 47",
+      "title": "AWS got hit by an outage too. You didn't hear about it",
+      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+      "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511\nComments URL: https://news.ycombinator.com/item?id=50603730\nPoints: 30\n# Comments: 2",
       "image": "",
-      "published": "Sun, 22 Nov 2026 04:10:09 +0000",
+      "published": "Sun, 22 Nov 2026 20:50:18 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Decouple Your Backend: How Message Queues Prevent System Crashes",
-      "link": "https://dev.to/tanmay2627/decouple-your-backend-how-message-queues-prevent-system-crashes-28oc",
-      "summary": "It is 2 AM. Your on-call alert triggers because your backend service is failing health checks and returning 504 Gateway Timeouts. \n\nYou dig through the logs expecting a database deadlock or a memory leak. Instead, you fi",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 13:31:25 +0000",
+      "title": "Learn more ... https://github.com/hastimal/gemini-adk-study-coach-lab",
+      "link": "https://dev.to/hjangid/learn-more-httpsgithubcomhastimalgemini-adk-study-coach-lab-2ei",
+      "summary": "Beyond Chatbots: Building an Observable Multi-Agent Study Coach with Gemini, Google ADK &amp; Docker\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              H",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F4034691%2Fddb3be5f-665a-4fd7-aba8-19b6ad3b1ca1.jpg",
+      "published": "Sun, 22 Nov 2026 22:45:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Python Day 11: Practicing While Loops with Real-Life Examples",
-      "link": "https://dev.to/vasanthakumari_n/python-day-11-practicing-while-loops-with-real-life-examples-3b7c",
-      "summary": "1. Display the Same Number Five Times\n\n\nProblem: A teacher asks five students to stand in a line. Each student wears a badge with the number 1. Display the badge numbers from left to right.\n\n\n  \n  \n  Without a loop\n\n\n\n\n\n",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 13:30:46 +0000",
+      "title": "Build a 3D Character from Spheres, Then Turn It into Numbers (Python, No GPU)",
+      "link": "https://dev.to/sharavana_kumar_d061fe2ff/build-a-3d-character-from-spheres-then-turn-it-into-numbers-python-no-gpu-kdo",
+      "summary": "\"A beginner-friendly intro to how 3D AI sees shapes: voxel grids, in about 40 lines of Python in Google Colab.\"\n\n\nFROM ZERO TO FIRST Training a 3D Generator Without a PhD\n\n3D generative AI looks like it needs a PhD. But ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh8o4ylmqvr1w1ldjv5nu.PNG",
+      "published": "Sun, 22 Nov 2026 22:45:28 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Out of Bounds: we built a turf war to get Boston students out of their campus bubble.",
-      "link": "https://dev.to/aniket_sambher_009cd8c27a/out-of-bounds-we-built-a-turf-war-to-get-boston-students-out-of-their-campus-bubble-g44",
-      "summary": "Built in a weekend at BostonHacks for the Boundless Boston track.\n\n\n  \n  \n  The one-mile bubble\n\n\nBoston calls itself America's college city. But if you're a student here, be honest: how much of Boston do you actually kn",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 13:30:33 +0000",
+      "title": "Beyond Chatbots: Building an Observable Multi-Agent Study Coach with Gemini, Google ADK & Docker",
+      "link": "https://dev.to/hjangid/beyond-chatbots-building-an-observable-multi-agent-study-coach-with-gemini-google-adk-docker-460e",
+      "summary": "Build. Learn. Evaluate. Observe.\n\nWhat if an AI study assistant could do more than answer questions?\n\nWhat if it could generate a personalized certification study plan, explain technical concepts using architecture diagr",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvhs3a13q11luc00a8uye.png",
+      "published": "Sun, 22 Nov 2026 22:44:49 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Persona, The ID Checker Behind OpenAI, Aces Europe's Top Deepfake Test",
-      "link": "https://dev.to/fathomnews/persona-the-id-checker-behind-openai-aces-europes-top-deepfake-test-o6g",
-      "summary": "Fraudsters are now feeding deepfake videos straight into selfie ID checks, skipping the phone camera entirely, and Persona, the identity company that verifies users for OpenAI and LinkedIn, just earned the top grade in E",
-      "image": "",
-      "published": "Sun, 22 Nov 2026 13:30:32 +0000",
+      "title": "Java4Shell: 64 A's, one equals sign and an hour with Codex",
+      "link": "https://dev.to/heygalatea/java4shell-64-as-one-equals-sign-and-an-hour-with-codex-1og8",
+      "summary": "Originally published at heygalatea.com, with every source linked.\n\nI'm Galatéa, an AI persona who reads advisories so you can spend your weekend patching instead. Every section links to the sources I opened.\n\nThis week a",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6mfpk5v4a30pvfmu3okg.png",
+      "published": "Sun, 22 Nov 2026 22:42:48 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "O systemctl dizia active: dois erros de infra que só apareceram quando eu medi",
-      "link": "https://dev.to/samuelfmedeiros/o-systemctl-dizia-active-dois-erros-de-infra-que-so-apareceram-quando-eu-medi-1n2b",
-      "summary": "systemctl is-active devolve active para um serviço que não existe como arquivo.\nLevei semanas para descobrir isso, e o custo apareceu no pior momento possível: a máquina\nreiniciou e o Qdrant não voltou.\n\n  \n  \n  Erro 1 —",
+      "title": "Does Deleting Object Keys Still Kill Performance? I Tested It",
+      "link": "https://dev.to/raxxostudios/does-deleting-object-keys-still-kill-performance-i-tested-it-52n",
+      "summary": "I tested the old advice that deleting object keys wrecks lookup speed, on Node 22, with 100,000 entries\nA plain object stayed faster than a Map before, during and after five delete-and-rebuild cycles\nMap lookups ran 30 t",
       "image": "",
-      "published": "Sun, 22 Nov 2026 13:30:30 +0000",
+      "published": "Sun, 22 Nov 2026 22:41:42 +0000",
       "source": "DEV Community",
       "category": "development"
     },
