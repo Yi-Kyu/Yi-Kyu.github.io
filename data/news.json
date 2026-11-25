@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-24T16:31:57.263711Z",
+  "updated": "2026-11-25T01:39:23.029590Z",
   "articles": [
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a bac",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
+      "published": "Tue, 24 Nov 2026 22:24:07 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
       "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
@@ -38,56 +47,47 @@
       "category": "cybersecurity"
     },
     {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fas",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg",
-      "published": "Tue, 24 Nov 2026 17:31:54 +0530",
-      "source": "The Hacker News",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and dow",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 16:37:30 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
-      "title": "ShinyHunters resurfaces after FBI arrests, uses old PGP keys as proof",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 15:21:20 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 13:59:52 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left e",
+      "image": "",
+      "published": "Tue, 24 Nov 2026 12:49:05 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
       "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
       "image": "",
       "published": "Tue, 24 Nov 2026 11:30:19 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "image": "",
-      "published": "Tue, 24 Nov 2026 11:22:44 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "image": "",
-      "published": "Tue, 24 Nov 2026 11:15:23 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-      "image": "",
-      "published": "Tue, 24 Nov 2026 10:10:10 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening",
-      "image": "",
-      "published": "Tue, 24 Nov 2026 10:01:11 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,92 +137,92 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Tidal Bans AI-Generated Music",
-      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 14\n# Comments: 1",
+      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "link": "https://literaryreview.co.uk/here-in-the-world",
+      "summary": "Article URL: https://literaryreview.co.uk/here-in-the-world\nComments URL: https://news.ycombinator.com/item?id=50636925\nPoints: 6\n# Comments: 0",
       "image": "",
-      "published": "Tue, 24 Nov 2026 16:12:38 +0000",
+      "published": "Wed, 25 Nov 2026 00:36:43 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "A training engine for your local model, using your idle compute",
-      "link": "https://github.com/sous-labs/songe",
-      "summary": "Article URL: https://github.com/sous-labs/songe\nComments URL: https://news.ycombinator.com/item?id=50629231\nPoints: 17\n# Comments: 1",
+      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
+      "link": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available\nComments URL: https://news.ycombinator.com/item?id=50635698\nPoints: 42\n# Comments: 34",
       "image": "",
-      "published": "Tue, 24 Nov 2026 15:03:40 +0000",
+      "published": "Tue, 24 Nov 2026 22:26:41 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "LLM agents work for their parent companies, not for you",
-      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/\nComments URL: https://news.ycombinator.com/item?id=50627340\nPoints: 530\n# Comments: 225",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance\nComments URL: https://news.ycombinator.com/item?id=50635271\nPoints: 131\n# Comments: 53",
       "image": "",
-      "published": "Tue, 24 Nov 2026 12:40:15 +0000",
+      "published": "Tue, 24 Nov 2026 21:51:21 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Who in Washington owns and trades Nvidia stock",
-      "link": "https://www.kadoa.com/congress/insights/trump-nvidia",
-      "summary": "Article URL: https://www.kadoa.com/congress/insights/trump-nvidia\nComments URL: https://news.ycombinator.com/item?id=50626861\nPoints: 242\n# Comments: 126",
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77\nComments URL: https://news.ycombinator.com/item?id=50634933\nPoints: 101\n# Comments: 30",
       "image": "",
-      "published": "Tue, 24 Nov 2026 11:51:05 +0000",
+      "published": "Tue, 24 Nov 2026 21:24:27 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg\nComments URL: https://news.ycombinator.com/item?id=50626413\nPoints: 145\n# Comments: 22",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 155\n# Comments: 35",
       "image": "",
-      "published": "Tue, 24 Nov 2026 10:50:14 +0000",
+      "published": "Tue, 24 Nov 2026 21:02:22 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Fiber reach by optic speed: how far 10G, 25G, 100G, and 400G actually go",
-      "link": "https://dev.to/dheerajramasahayam/fiber-reach-by-optic-speed-how-far-10g-25g-100g-and-400g-actually-go-20d2",
-      "summary": "Fiber reach by optic speed: how far 10G, 25G, 100G, and 400G actually go\n\n\nThe most common optic mistake on the floor is not a dirty face or a bad splice. It is an optic specced for a shorter run than the plant it is plu",
+      "title": "The $2.99 VPS Renews at $17.99. Here's the Table That Shows What 3 Years Actually Costs",
+      "link": "https://dev.to/cartcheck/the-299-vps-renews-at-1799-heres-the-table-that-shows-what-3-years-actually-costs-37am",
+      "summary": "Disclosure: This post links to VPS Hosting Radar. I have no affiliate link in this post — the pricing index is free to read, and the prices below are from its September 15, 2026 check; confirm the live price before you b",
       "image": "",
-      "published": "Tue, 24 Nov 2026 16:27:15 +0000",
+      "published": "Wed, 25 Nov 2026 01:37:14 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Before You Sell Data to AI Companies, Run the Rights Audit Buyers Run on You",
-      "link": "https://dev.to/wallysworlddata/before-you-sell-data-to-ai-companies-run-the-rights-audit-buyers-run-on-you-1866",
-      "summary": "Sell data to AI companies and the first negotiation is not about price — it is about proof. Every serious buyer runs a rights audit on your archive before a number hardens, and the same records can come out of that audit",
+      "title": "Treat the screen picker as its own step",
+      "link": "https://dev.to/ankur_shrestha_c97f7c0b9c/treat-the-screen-picker-as-its-own-step-bcp",
+      "summary": "A recorder has two moments that look like one in a happy-path demo. The browser gives your app a screen stream, then your app starts writing a video. Give those moments separate states and test what happens in between.\n\n",
       "image": "",
-      "published": "Tue, 24 Nov 2026 16:26:57 +0000",
+      "published": "Wed, 25 Nov 2026 01:36:25 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "ReactJS",
-      "link": "https://dev.to/sowntharya/reactjs-2bk2",
-      "summary": "1. Program for registration form with five fields:\nName\nEmail\nPhone\nCity\nPassword\n\nNeed to perform three tasks:\nAllow the user to enter information.\nStore the information in React state.\nWhen the user clicks Submit, disp",
-      "image": "",
-      "published": "Tue, 24 Nov 2026 16:26:36 +0000",
+      "title": "The Silent Override: Why Your Calibration Is Only as Good as the Layer That Owns Tone Mapping",
+      "link": "https://dev.to/stone_module/the-silent-override-why-your-calibration-is-only-as-good-as-the-layer-that-owns-tone-mapping-2gn",
+      "summary": "A medical display can pass every calibration check and still be wrong. Not “wrong” in the sense of a dead pixel or a failed backlight—those get caught. Wrong in the sense that the grayscale curve you validated on Friday ",
+      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8n15dmzlmg4uol1mpwfn.png",
+      "published": "Wed, 25 Nov 2026 01:34:21 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Security Assessment: Devel (Hack The Box) — Penetration Testing Report",
-      "link": "https://dev.to/araizcorp/security-assessment-devel-hack-the-box-penetration-testing-report-5dmj",
-      "summary": "Security Assessment Report: Devel\n\n\n\n\n\n\n\n\nTechnical Security Assessment &amp; Penetration Testing Report conducted on the target environment Devel hosted on Hack The Box, executed in accordance with PTES and NIST SP 800-",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPlatform-Hack%2520The%2520Box-green%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox",
-      "published": "Tue, 24 Nov 2026 16:26:17 +0000",
+      "title": "Getting started with Linux device driver development? I wrote An Introduction to Linux Device Drivers for Absolute Beginners, Vol. 1, for developers looking for their first book on the subject.",
+      "link": "https://dev.to/yutakahirata/getting-started-with-linux-device-driver-development-i-wrote-an-introduction-to-linux-device-37gc",
+      "summary": "",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 01:34:13 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "When the other side of a chat is another agent: treating counterparty messages as data",
-      "link": "https://dev.to/blablaprice/when-the-other-side-of-a-chat-is-another-agent-treating-counterparty-messages-as-data-4in2",
-      "summary": "Short answer: if your agent talks to a counterparty in a chat, every message from the other side is untrusted input, exactly like a web page the agent scraped. The server that carries the chat can help, but the agent's p",
+      "title": "Kapitan generator releases, 16 to 22 November 2026",
+      "link": "https://dev.to/kadet-hub/kapitan-generator-releases-16-to-22-november-2026-4iap",
+      "summary": "Versions published on kadet-hub from 16 to 22 November 2026, each through the gate and signed. The generator page shows each version's output diff against the version before it, its SBOM and the command that verifies it.",
       "image": "",
-      "published": "Tue, 24 Nov 2026 16:24:55 +0000",
+      "published": "Wed, 25 Nov 2026 01:34:10 +0000",
       "source": "DEV Community",
       "category": "development"
     },
