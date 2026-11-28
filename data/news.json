@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-27T15:40:17.790896Z",
+  "updated": "2026-11-28T00:43:46.783521Z",
   "articles": [
+    {
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military ag",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg",
+      "published": "Fri, 27 Nov 2026 22:06:11 +0530",
+      "source": "The Hacker News",
+      "category": "cybersecurity"
+    },
     {
       "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
       "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
@@ -38,12 +47,30 @@
       "category": "cybersecurity"
     },
     {
-      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-      "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-      "summary": "Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.\n\nThe proof-of-concept (PoC) exploit, which has yet to be",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png",
-      "published": "Fri, 27 Nov 2026 11:18:20 +0530",
-      "source": "The Hacker News",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "image": "",
+      "published": "Fri, 27 Nov 2026 14:26:04 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+      "image": "",
+      "published": "Fri, 27 Nov 2026 13:57:42 -0500",
+      "source": "BleepingComputer",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+      "image": "",
+      "published": "Fri, 27 Nov 2026 12:06:13 -0500",
+      "source": "BleepingComputer",
       "category": "cybersecurity"
     },
     {
@@ -61,33 +88,6 @@
       "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and",
       "image": "",
       "published": "Fri, 27 Nov 2026 10:00:10 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
-      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection",
-      "image": "",
-      "published": "Fri, 27 Nov 2026 09:22:06 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Microsoft removes WSUS server role in Windows Server 2028",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
-      "image": "",
-      "published": "Fri, 27 Nov 2026 06:18:36 -0500",
-      "source": "BleepingComputer",
-      "category": "cybersecurity"
-    },
-    {
-      "title": "Drupal warns of new site takeover flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
-      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
-      "image": "",
-      "published": "Fri, 27 Nov 2026 05:10:15 -0500",
       "source": "BleepingComputer",
       "category": "cybersecurity"
     },
@@ -137,93 +137,138 @@
       "category": "cybersecurity"
     },
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\nComments URL: https://news.ycombinator.com/item?id=50667744\nPoints: 5\n# Comments: 1",
+      "title": "Why drivers want cheap, dumb cars again",
+      "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+      "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html\nComments URL: https://news.ycombinator.com/item?id=50672762\nPoints: 49\n# Comments: 61",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:03:17 +0000",
+      "published": "Fri, 27 Nov 2026 23:39:15 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "link": "https://bouncemarket.minhanhday.com/",
-      "summary": "a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop ",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 27\n# Comments: 7",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:01:50 +0000",
+      "published": "Fri, 27 Nov 2026 23:06:29 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
-      "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/\nComments URL: https://news.ycombinator.com/item?id=50667664\nPoints: 6\n# Comments: 1",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "link": "https://tabernet.es/",
+      "summary": "Article URL: https://tabernet.es/\nComments URL: https://news.ycombinator.com/item?id=50672521\nPoints: 21\n# Comments: 5",
       "image": "",
-      "published": "Fri, 27 Nov 2026 14:55:57 +0000",
+      "published": "Fri, 27 Nov 2026 23:00:30 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c9kgmd0ldy0lo\nComments URL: https://news.ycombinator.com/item?id=50667143\nPoints: 18\n# Comments: 13",
+      "title": "Source Control from Hell",
+      "link": "https://frantic.im/git/",
+      "summary": "Article URL: https://frantic.im/git/\nComments URL: https://news.ycombinator.com/item?id=50672142\nPoints: 45\n# Comments: 31",
       "image": "",
-      "published": "Fri, 27 Nov 2026 14:09:44 +0000",
+      "published": "Fri, 27 Nov 2026 22:06:44 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Mental Health Resources and Political Engagement",
-      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219\nComments URL: https://news.ycombinator.com/item?id=50666436\nPoints: 76\n# Comments: 133",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "summary": "Article URL: https://progrium.github.io/9ux/\nComments URL: https://news.ycombinator.com/item?id=50672008\nPoints: 59\n# Comments: 10",
       "image": "",
-      "published": "Fri, 27 Nov 2026 13:01:02 +0000",
+      "published": "Fri, 27 Nov 2026 21:48:14 +0000",
       "source": "Hacker News: Front Page",
       "category": "development"
     },
     {
-      "title": "Build Your Own LLM From Scratch — Free Guide (109K Stars)",
-      "link": "https://dev.to/haroonch_rashid_72f1d7e31/build-your-own-llm-from-scratch-free-guide-109k-stars-28ph",
-      "summary": "There is a GitHub repository with more than 565,000 stars that is not a tool, not an app, and not a model. It is a list — a curated collection of step-by-step guides for rebuilding famous technologies from scratch: your ",
+      "title": "Six parallel subagent starts, one slot in Limitcast 0.20.10",
+      "link": "https://dev.to/samstull9007/six-parallel-subagent-starts-one-slot-in-limitcast-02010-34m5",
+      "summary": "Limitcast 0.20.10 is now available on GitHub and npm. The question behind this test was simple. With a per-session cap of one, how many subagent starts get through when six requests arrive together?\n\n\n  \n  \n  What happen",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:39:21 +0000",
+      "published": "Sat, 28 Nov 2026 00:33:58 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Estimating a Custom ERP Build in India: An Engineering Breakdown (2026)",
-      "link": "https://dev.to/nexprosoftwares/estimating-a-custom-erp-build-in-india-an-engineering-breakdown-2026-7ao",
-      "summary": "Most \"how much does an ERP cost\" articles are written for buyers. This one is for the people who have to produce the estimate: the tech lead, the solution architect, or the freelancer who has just been asked by a distrib",
+      "title": "Running eBPF After Application Exits: The Lifecycle of eBPF Programs",
+      "link": "https://dev.to/yunwei37/running-ebpf-after-application-exits-the-lifecycle-of-ebpf-programs-fhk",
+      "summary": "eBPF (Extended Berkeley Packet Filter) is a revolutionary technology in the Linux kernel that allows users to execute custom programs in kernel space without modifying the kernel source code or loading any kernel modules",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:39:12 +0000",
+      "published": "Sat, 28 Nov 2026 00:31:40 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Governed Autonomous AI Engineering: The Workflow Behind Verified Results",
-      "link": "https://dev.to/tangotocoding/governed-autonomous-ai-engineering-the-workflow-behind-verified-results-2ihp",
-      "summary": "A bilingual architecture case study from TangoToCoding — implementation AI-assisted; engineering acceptance independently verified.\n\nA field-tested approach to orchestrating AI tools, a remotely operated Windows workbenc",
-      "image": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fraookaozlzm6qqaf83jf.png",
-      "published": "Fri, 27 Nov 2026 15:38:32 +0000",
+      "title": "Stop Trusting Default S3 Lifecycle Rules in Production",
+      "link": "https://dev.to/ethan-carter/stop-trusting-default-s3-lifecycle-rules-in-production-3ik1",
+      "summary": "Default S3 lifecycle rules silently fail or overcharge because they ignore the 128 KB small-object floor, 30 to 180 day minimum storage durations, versioning's noncurrent versions, and incomplete multipart uploads. Copy-",
+      "image": "",
+      "published": "Sat, 28 Nov 2026 00:31:12 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "Postgres Isolation Levels: What Actually Happens When Concurrent Transactions Collide",
-      "link": "https://dev.to/syed_anzar/postgres-isolation-levels-what-actually-happens-when-concurrent-transactions-collide-1cjh",
-      "summary": "Most developers treat database transactions like magic parentheses. You write BEGIN, run a bunch of queries, write COMMIT, and assume your data is protected from the chaos of concurrent traffic.\n\nThen you deploy to produ",
+      "title": "Selling game passes and developer products in Roblox: what ProcessReceipt is (and is not) for",
+      "link": "https://dev.to/cybermax/selling-game-passes-and-developer-products-in-roblox-what-processreceipt-is-and-is-not-for-4khd",
+      "summary": "A common first question is how to sell a game pass with ProcessReceipt. You cannot, and the reason explains the whole monetisation API: Roblox remembers passes for you, and expects you to remember developer products. One",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:38:15 +0000",
+      "published": "Sat, 28 Nov 2026 00:30:51 +0000",
       "source": "DEV Community",
       "category": "development"
     },
     {
-      "title": "An Introduction to RevenueCat for Indie Developers",
-      "link": "https://dev.to/koheip/an-introduction-to-revenuecat-for-indie-developers-2oa6",
-      "summary": "Introduction\n\n\nI'm Kohei Matsunobu, a second-year student at ZEN University studying intelligent informatics. I build iOS apps as a personal project.\n\nOnce you add subscriptions or one-time purchases to an app, the work ",
+      "title": "Design a waitlist notification that does not imply a reservation",
+      "link": "https://dev.to/nevermiss_it/design-a-waitlist-notification-that-does-not-imply-a-reservation-2png",
+      "summary": "PRIVATE PREPARATION DRAFT\n\nProposed title: A waitlist notification is an event, not a reservation\n\n\n  \n  \n  ABotWroteThis\n\n\n\n  \n  \n  Start with the promise, not the message\n\n\nA scheduling workflow can notify someone that",
       "image": "",
-      "published": "Fri, 27 Nov 2026 15:37:32 +0000",
+      "published": "Sat, 28 Nov 2026 00:30:15 +0000",
       "source": "DEV Community",
+      "category": "development"
+    },
+    {
+      "title": "Using light-dark() without getting caught out",
+      "link": "https://css-tricks.com/using-light-dark-without-getting-caught-out/",
+      "summary": "I honestly hadn't thought about \"getting caught\" by light-dark() — particularly when leaning heavily on it for this site — but Martin Underhill explains the user and rendering considerations, making me reflect on my choi",
+      "image": "",
+      "published": "Fri, 27 Nov 2026 16:01:31 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+      "link": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+      "summary": "Hey folks! I&#8217;m just so dang excited about this little project I&#8217;m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe&#8217;re going full 2013-meets-2026 with an ",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 15:32:42 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Style Queries as Conditional Modifiers",
+      "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+      "summary": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter w",
+      "image": "",
+      "published": "Wed, 25 Nov 2026 14:06:34 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Using Fallbacks for a Robust Front-End",
+      "link": "https://css-tricks.com/using-frontend-fallbacks/",
+      "summary": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\n\nUsing Fallbacks for a Robust Front-End originally handwritten and publishe",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 14:21:44 +0000",
+      "source": "CSS-Tricks",
+      "category": "development"
+    },
+    {
+      "title": "Dev Material Archive",
+      "link": "https://css-tricks.com/dev-material-archive/",
+      "summary": "A new resource resurrecting lost web-dev articles and posts:\n\nThis is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherw",
+      "image": "",
+      "published": "Mon, 23 Nov 2026 14:18:50 +0000",
+      "source": "CSS-Tricks",
       "category": "development"
     }
   ]
